@@ -1,0 +1,546 @@
+<localization>
+    <set id="name-module-coil">
+        <string lang="de">Spule</string>
+        <string lang="en">Coil</string>
+        <string lang="fr">Bobine</string>
+        <string lang="zh">线圈</string>
+        <string lang="jp">コイル</string>
+    </set>
+    <set id="description-module-coil">
+        <string lang="de">Erhält einen $boost$ bis zum Ende des Kampfes, immer wenn sie $energy$ erhält.</string>
+        <string lang="en">Receives a $boost$ until the end of combat whenever it receives $energy$.</string>
+        <string lang="fr">Reçoit un $boost$ jusqu'à la fin du combat chaque fois qu'il reçoit $energy$.</string>
+        <string lang="zh">每当获得$energy$时，直到战斗结束时获得$boost$。</string>
+        <string lang="jp">エネルギーを受け取るたびに、戦闘終了まで$boost$を受け取ります。</string>
+    </set>
+    <set id="name-module-coilstorm">
+        <string lang="de">Sturmjäger-Spule $MODIFICATIONVALUE$</string>
+        <string lang="en">Storm Chaser Coil $MODIFICATIONVALUE$</string>
+        <string lang="fr">Bobine Chasseur d'Orages $MODIFICATIONVALUE$</string>
+        <string lang="zh">风暴追击线圈 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ストームチェイサー コイル $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-coilstorm">
+        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu und rückt den $storm$ um $5$ Schritte vor. Am Anfang des $storm$ erhält er $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current and advances $storm$ by $5$ steps. At the beginning of $storm$ receives $boost$ until end of combat.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ à un courant et avance $storm$ de $5$ pas. Au début de $storm$ reçoit $boost$ jusqu'à la fin du combat.</string>
+        <string lang="zh">在一個電流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$，並將 $storm$ 前進 $5$ 個時間步驟。在 $storm$ 的開始時獲得 $boost$ 直到戰鬥結束。</string>
+        <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加し、$storm$ を $5$ ステップ進めます。$storm$ の開始時に $boost$ を受け取り、戦闘終了まで継続します。</string>
+    </set>
+    <set id="name-module-collectorcrust">
+        <string lang="de">Krusten-Sensor $MODIFICATIONVALUE$</string>
+        <string lang="en">Crust Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Senseur Croûte $MODIFICATIONVALUE$</string>
+        <string lang="zh">水晶感应器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">クリスタルセンサー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-collectorcrust">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is broken.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une $crust$ est brisée.</string>
+        <string lang="zh">每当破坏一个$crust$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">クリスタルが破壊されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-collectorgravneg">
+        <string lang="de">Grav.-Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
+        <string lang="en">Grav. Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
+        <string lang="fr">Senseur Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
+        <string lang="zh">重力感应器 $grav-icon$ $MODIFICATIONVALUE$</string>
+        <string lang="jp">重力センサー $grav-icon$ $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-collectorgravneg">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav-$ auf den Charakter eingeht.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav-$.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que le propriétaire est affecté par $grav-$.</string>
+        <string lang="zh">每当受到$grav-$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-collectorgravspike">
+        <string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
+        <string lang="en">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Senseur Crête Grav. $MODIFICATIONVALUE$</string>
+        <string lang="zh">重力尖刺感应器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">重力スパイクセンサー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-collectorgravspike">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a Grav. Spike touches down.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
+        <string lang="zh">每当重力尖刺触地时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-collectormight">
+        <string lang="de">Macht-Sensor $MODIFICATIONVALUE$</string>
+        <string lang="en">Might Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Senseur de Pouvoir $MODIFICATIONVALUE$</string>
+        <string lang="zh">力量感应器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">マイトセンサー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-collectormight">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $might$ d'un combattant augmente.</string>
+        <string lang="zh">每当战斗者的$might$提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">戦闘者の$might$が上昇するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-collectorshield">
+        <string lang="de">Schild-Sensor $MODIFICATIONVALUE$</string>
+        <string lang="en">Shield Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Senseur de Bouclier $MODIFICATIONVALUE$</string>
+        <string lang="zh">护盾感应器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">シールドセンサー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-collectorshield">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $damage$ durch $shield$ reduziert wird.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $damage$ is reduced by $shield$.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $damage$ est réduit par $shield$.</string>
+        <string lang="zh">每当$damage$被$shield$减少时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$damage$が$shield$によって減少するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-duplicator">
+        <string lang="de">Duplikator</string>
+        <string lang="en">Duplicator</string>
+        <string lang="fr">Duplicateur</string>
+        <string lang="zh">复制器</string>
+        <string lang="jp">複製機</string>
+    </set>
+    <set id="description-module-duplicator">
+        <string lang="de">Erzeugt eine Kopie eines Moduls deiner Wahl. Die Kopie erhält $unstable$.</string>
+        <string lang="en">Creates a copy of another target module. The copy has $unstable$.</string>
+        <string lang="fr">Crée une copie d'un autre module ciblé. La copie a $unstable$.</string>
+        <string lang="zh">创建另一个目标模块的副本。副本具有$unstable$。</string>
+        <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
+    </set>
+    <set id="name-module-effectormine">
+        <string lang="de">Mine $MODIFICATIONVALUE$</string>
+        <string lang="en">Mine $MODIFICATIONVALUE$</string>
+        <string lang="fr">Mine $MODIFICATIONVALUE$</string>
+        <string lang="zh">地雷 $MODIFICATIONVALUE$</string>
+        <string lang="jp">地雷 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-effectormine">
+        <string lang="de">Fügt dem Charakter $damage$ zu.</string>
+        <string lang="en">Deals $damage$ to the owner.</string>
+        <string lang="fr">Inflige des $damage$ sur le propriétaire.</string>
+        <string lang="zh">对所有者造成$damage$。</string>
+        <string lang="jp">オーナーに$damage$を与えます。</string>
+    </set>
+    <set id="name-module-effectorlightning">
+        <string lang="de">Blitzmodul $MODIFICATIONVALUE$</string>
+        <string lang="en">Lightning Module $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module Éclair $MODIFICATIONVALUE$</string>
+        <string lang="zh">闪电模块 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ライトニングモジュール $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-effectorlightning">
+        <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen Blitz niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
+        <string lang="en">Summons a lightning strike onto target time step that deals $damage$ to all combatants on it.</string>
+        <string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
+        <string lang="zh">召唤一道闪电，对目标时间步骤上的所有战斗者造成$damage$。</string>
+        <string lang="jp">目標のタイム ステップに雷を落とし、その上のすべての戦闘者に$damage$を与えます。</string>
+    </set>
+    <set id="name-module-effectorrevitalizer">
+        <string lang="de">Revitalisator $MODIFICATIONVALUE$</string>
+        <string lang="en">Revitalizer $MODIFICATIONVALUE$</string>
+        <string lang="fr">Révitalisateur $MODIFICATIONVALUE$</string>
+        <string lang="zh">復元劑 $MODIFICATIONVALUE$</string>
+        <string lang="jp">リヴィタライザー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-effectorrevitalizer">
+        <string lang="de">Heilt einen Charakter deiner Wahl.</string>
+        <string lang="en">Heals target player character.</string>
+        <string lang="fr">Soigne le héros ciblé.</string>
+        <string lang="zh">治療目標玩家角色。</string>
+        <string lang="jp">対象のプレイヤー キャラクターを回復します。</string>
+    </set>
+    <set id="name-module-effectorvulnerability">
+        <string lang="de">Verwundbarkeitsmodul $MODIFICATIONVALUE$</string>
+        <string lang="en">Vuln. Module $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module Vulnérabilité $MODIFICATIONVALUE$</string>
+        <string lang="zh">脆弱模块 $MODIFICATIONVALUE$</string>
+        <string lang="jp">脆弱性モジュール $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-effectorvulnerability">
+        <string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.
+(Dauer: $energy$×3)</string>
+        <string lang="en">Inflicts target enemy with $vulnerable$.
+(Duration: $energy$×3).</string>
+        <string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.
+(Durée: $energy$×3).</string>
+        <string lang="zh">对目标敌人造成$vulnerable$。
+（持续时间：$energy$×3）。</string>
+        <string lang="jp">対象の敵に$vulnerable$を与えます。
+（持続時間：$energy$×3）。</string>
+    </set>
+    <set id="name-module-effectorgravimmunity">
+        <string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
+        <string lang="en">Grav. Immunizer $MODIFICATIONVALUE$</string>
+        <string lang="fr">Immuniseur Grav. $MODIFICATIONVALUE$</string>
+        <string lang="zh">重力免疫器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">重力免疫装置 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-effectorgravimmunity">
+        <string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.
+(Dauer: $energy$×3)</string>
+        <string lang="en">Inflicts target combatant with $gravimmunity$.
+(Duration: $energy$×3).</string>
+        <string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.
+(Durée: $energy$×3).</string>
+        <string lang="zh">對目標戰鬥者造成$gravimmunity$。
+(持續時間：$energy$×3)。</string>
+        <string lang="jp">ターゲットの戦闘者に$gravimmunity$を与えます。
+(持続時間：$energy$×3)。</string>
+    </set>
+    <set id="name-module-dampener">
+        <string lang="de">Dämpfer $MODIFICATIONVALUE$</string>
+        <string lang="en">Dampener $MODIFICATIONVALUE$</string>
+        <string lang="fr">Atténuateur $MODIFICATIONVALUE$</string>
+        <string lang="zh">抑制器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ダンパー $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-dampener">
+        <string lang="de">Entzieht einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$.</string>
+        <string lang="en">Subtracts $b$$MODIFICATIONVALUE$$/b$ $energy$ from a current.</string>
+        <string lang="fr">Soustrait $b$$MODIFICATIONVALUE$$/b$ $energy$ à un courant.</string>
+        <string lang="zh">从当前值中减去$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">現在の値から$b$$MODIFICATIONVALUE$$/b$ $energy$を引きます。</string>
+    </set>
+    <set id="name-module-factoryblaster">
+        <string lang="de">Blaster-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Blaster Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique de Blaster $MODIFICATIONVALUE$</string>
+        <string lang="zh">爆破器工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ブラスター工場 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-factoryblaster">
+        <string lang="de">Stellt einen universellen $b$Blaster$/b$ her.</string>
+        <string lang="en">Constructs a universal $b$Blaster$/b$.</string>
+        <string lang="fr">Construe un $b$Blaster$/b$ universel.</string>
+        <string lang="zh">构造一个通用的$b$Blaster$/b$。</string>
+        <string lang="jp">一般的な$b$ブラスター$/b$を作成します。</string>
+    </set>
+    <set id="name-module-factorydecelerator">
+        <string lang="de">Verlangsamer-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Decelerator Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique des Décélérateurs $MODIFICATIONVALUE$</string>
+        <string lang="zh">减速器工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ディセレレーター工場 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-factorydecelerator">
+        <string lang="de">Stellt einen universellen $b$Verlangsamer$/b$ her.</string>
+        <string lang="en">Constructs a universal $b$Decelerator$/b$.</string>
+        <string lang="fr">Construe un $b$Décélerateur$/b$ universel.</string>
+        <string lang="zh">构造一个通用的$b$Decelerator$/b$。</string>
+        <string lang="jp">一般的な$b$ディセレレーター$/b$を作成します。</string>
+    </set>
+    <set id="name-module-factorygenerator">
+        <string lang="de">Generator-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Generator Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique des Générateurs $MODIFICATIONVALUE$</string>
+        <string lang="zh">发生器工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ジェネレーター工場 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-factorygenerator">
+        <string lang="de">Stellt einen universellen $b$Generator$/b$ mit $unstable$ her.</string>
+        <string lang="en">Constructs a universal $b$Generator$/b$ with $unstable$.</string>
+        <string lang="fr">Construe un $b$Générateur$/b$ universel avec $unstable$.</string>
+        <string lang="zh">构造一个通用的$b$Generator$/b$，并带有$unstable$。</string>
+        <string lang="jp">一般的な$b$ジェネレーター$/b$を作成し、$unstable$を搭載します。</string>
+    </set>
+    <set id="name-module-factorymerger">
+        <string lang="de">Verbinder-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Merger Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique des Fusionneurs $MODIFICATIONVALUE$</string>
+        <string lang="zh">合并器工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">マージャー工場 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-factorymerger">
+        <string lang="de">Stellt einen universellen $b$Verbinder$/b$
+mit $cracked$ und $crust$ her.</string>
+        <string lang="en">Constructs an universal $b$Merger$/b$
+with $cracked$ and $crust$.
+<i>Higher $energy$ makes a better module.</i></string>
+        <string lang="fr">Construe un $b$Fusionneur$/b$ universel
+avec $cracked$ und $crust$.</string>
+        <string lang="zh">构造一个通用的$b$Merger$/b$，并带有$crust$。</string>
+        <string lang="jp">一般的な$b$マージャー$/b$を作成し、$crust$を搭載します。</string>
+    </set>
+    <set id="name-module-factorymodifier">
+        <string lang="de">Wandler-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Modifier Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique des Modificateurs $MODIFICATIONVALUE$</string>
+        <string lang="zh">转换器工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">モディファイアー工場 $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-factorymodifier">
+        <string lang="de">Stellt einen universellen $b$Wandler$/b$
+mit $cracked$ her.</string>
+        <string lang="en">Constructs a universal $b$Modifier$/b$ with $cracked$.</string>
+        <string lang="fr">Construe un $b$Modificateur$/b$ universel avec $cracked$.</string>
+        <string lang="zh">构造一个通用的$b$Modifier$/b$。</string>
+        <string lang="jp">一般的な$b$モディファイアー$/b$を作成します。</string>
+    </set>
+    <set id="name-module-generatorplasma">
+        <string lang="de">Plasma-Generator</string>
+        <string lang="en">Plasma Generator</string>
+        <string lang="fr">Generateur Plasma</string>
+        <string lang="zh">等离子发生器</string>
+        <string lang="jp">プラズマジェネレーター</string>
+    </set>
+    <set id="name-module-generatorfire">
+        <string lang="de">Pyro-Generator</string>
+        <string lang="en">Pyro Generator</string>
+        <string lang="fr">Generateur Pyro</string>
+        <string lang="zh">火焰发生器</string>
+        <string lang="jp">パイロジェネレーター</string>
+    </set>
+    <set id="description-module-generatorplasma">
+        <string lang="de">Erzeugt bei Aktivierung
+$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="description-module-generatorfire">
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.
+Versieht alle anderen Module auf dem Rack mit $fire$.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.
+Inflicts all other modules on this rack with $fire$.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-gravoutlet">
+        <string lang="de">Grav.-Abnehmer</string>
+        <string lang="en">Grav. Outlet</string>
+        <string lang="fr">Prise Grav.</string>
+        <string lang="zh">重力排放口</string>
+        <string lang="jp">重力アウトレット</string>
+    </set>
+    <set id="description-module-gravoutlet">
+        <string lang="de">Nimmt $grav+$ vom Charakter ab.</string>
+        <string lang="en">Picks up $grav+$ from the owner.</string>
+        <string lang="fr">Supprime $grav+$ du personnage.</string>
+        <string lang="zh">从拥有者处吸收$grav+$。</string>
+        <string lang="jp">オーナーから$grav+$を吸収します。</string>
+    </set>
+    <set id="name-module-magnetgravneg">
+        <string lang="de">Grav.-Magnet $grav-icon$</string>
+        <string lang="en">Grav. Magnet $grav-icon$</string>
+        <string lang="fr">Magnéte Grav. $grav-icon$</string>
+        <string lang="zh">重力磁铁 $grav-icon$</string>
+        <string lang="jp">重力マグネット $grav-icon$</string>
+    </set>
+    <set id="description-module-magnetgravneg">
+        <string lang="de">Nimmt $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
+        <string lang="en">Picks up $grav-$ from $b$another$/b$ combatant as $energy$.</string>
+        <string lang="fr">Supprime $grav-$ d'un $b$autre$/b$ combattant comme $energy$.</string>
+        <string lang="zh">从$grav-$中吸收$energy$。</string>
+        <string lang="jp">$grav-$から$energy$を吸収します。</string>
+    </set>
+    <set id="name-module-magnetmight">
+        <string lang="de">Macht.-Magnet</string>
+        <string lang="en">Might Magnet</string>
+        <string lang="fr">Magnéte Pouvoir</string>
+        <string lang="zh">力量磁铁</string>
+        <string lang="jp">マイトマグネット</string>
+    </set>
+    <set id="description-module-magnetmight">
+        <string lang="de">Nimmt $might$ von einem Kampfteilnehmer als $energy$ ab.</string>
+        <string lang="en">Picks up $might$ from a combatant as $energy$.</string>
+        <string lang="fr">Supprime $might$ d'un combattant comme $energy$.</string>
+        <string lang="zh">从战斗者中吸收$might$作为$energy$。</string>
+        <string lang="jp">戦闘者から$might$を$energy$として吸収します。</string>
+    </set>
+    <set id="name-module-modifiercyclotron">
+        <string lang="de">Zyklotron $grav-1$ $MODIFICATIONVALUE$</string>
+        <string lang="en">Cyclotron $grav-1$ $MODIFICATIONVALUE$</string>
+        <string lang="fr">Cyclotron $grav-1$ $MODIFICATIONVALUE$</string>
+        <string lang="zh">环状加速器 $grav-1$ $MODIFICATIONVALUE$</string>
+        <string lang="jp">サイクロトロン $grav-1$ $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-modifiercyclotron">
+        <string lang="de">Modifiziert einen Strom.</string>
+        <string lang="en">Modifies a current.</string>
+        <string lang="fr">Modifie un courant.</string>
+        <string lang="zh">修改一个电流。</string>
+        <string lang="jp">電流を変更します。</string>
+    </set>
+    <set id="name-module-modifierviral">
+        <string lang="de">Störmodul $MODIFICATIONVALUE$</string>
+        <string lang="en">Disruption Module $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module de Disturbance $MODIFICATIONVALUE$</string>
+        <string lang="zh">干扰模块 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ディスラプションモジュール $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-modifierviral">
+        <string lang="de">Modifiziert einen Strom.</string>
+        <string lang="en">Modifies a current.</string>
+        <string lang="fr">Modifie un courant.</string>
+        <string lang="zh">修改一个电流。</string>
+        <string lang="jp">電流を変更します。</string>
+    </set>
+    <set id="name-module-mutatingmodifier">
+        <string lang="de">Organischer Wandler</string>
+        <string lang="en">Organic Modifier</string>
+        <string lang="fr">Modificateur Organique</string>
+        <string lang="zh">有机调节器</string>
+        <string lang="jp">有機モジュレーター</string>
+    </set>
+    <set id="description-module-mutatingmodifier">
+        <string lang="de">Modifiziert einen Strom.</string>
+        <string lang="en">Modifies a current.</string>
+        <string lang="fr">Modifie un courant.</string>
+        <string lang="zh">修改一个电流。</string>
+        <string lang="jp">電流を変更します。</string>
+    </set>
+    <set id="name-module-plasmadischarger">
+        <string lang="de">Plasma-Entlader</string>
+        <string lang="en">Plasma Discharger</string>
+        <string lang="fr">Déchargeur de Plasma</string>
+        <string lang="zh">等离子放电器</string>
+        <string lang="jp">プラズマディスチャージャー</string>
+    </set>
+    <set id="description-module-plasmadischarger">
+        <string lang="de">Verbraucht alles $plasma$ um ebensoviel $energy$ zu erzeugen.</string>
+        <string lang="en">Uses up all $plasma$ to generate that much $energy$.</string>
+        <string lang="fr">Utilise tout le $plasma$ pour générer autant de $energy$.</string>
+        <string lang="zh">消耗所有的$plasma$来产生相同数量的$energy$。</string>
+        <string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
+    </set>
+    <set id="name-module-storagecellstorm">
+        <string lang="de">Sturmjäger-Zelle $MODIFICATIONVALUE$</string>
+        <string lang="en">Storm Chaser Cell $MODIFICATIONVALUE$</string>
+        <string lang="fr">Pile Chasseur d'Orages $MODIFICATIONVALUE$</string>
+        <string lang="zh">风暴电池 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ストームセル $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="name-module-storagecellausterity">
+        <string lang="de">Austeritäts-Zelle $MODIFICATIONVALUE$</string>
+        <string lang="en">Austerity Cell $MODIFICATIONVALUE$</string>
+        <string lang="fr">Pile Austérité $MODIFICATIONVALUE$</string>
+        <string lang="zh">节约电池 $MODIFICATIONVALUE$</string>
+        <string lang="jp">アスタリティーセル $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-storagecellausterity">
+        <string lang="de">Wird am Ende des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
+        <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ at the end of turn, if no $generator$ has been activated on this rack this turn.</string>
+        <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ à la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci.</string>
+        <string lang="zh">在回合结束时，如果在本回合中没有在本架上激活过$generator$，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">ターン終了時に、このラックで$generator$がアクティブ化されていない場合、$b$$SENSORVALUE$$/b$ $energy$が充電されます。</string>
+    </set>
+    <set id="description-module-storagecellstorm">
+        <string lang="de">Wird am Beginn des $storm$s um $2$ $energy$ geladen.
+Kann im Rucksack aufbewahrt werden.</string>
+        <string lang="en">Is charged with $2$ $energy$ at the beginning of $storm$.
+Can be kept in backpack.</string>
+        <string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.
+Peut être conservé dans le sac à dos.</string>
+        <string lang="zh">在$storm$开始时被充能$2$ $energy$。
+可以保存在背包中。</string>
+        <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。
+バックパックに保管できます。</string>
+    </set>
+    <set id="name-module-toggleddurabilityrestorer">
+        <string lang="de">Erholungs-Granate</string>
+        <string lang="en">Recovery Grenade</string>
+        <string lang="fr">Grenade de Récupération</string>
+        <string lang="zh">恢复手榴弹</string>
+        <string lang="jp">リカバリーグレネード</string>
+    </set>
+    <set id="description-module-toggleddurabilityrestorer">
+        <string lang="de">Stellt die Haltbarkeit aller Module mit $recovery$ wieder her und entfernt $shock$ von allen Modulen auf allen Racks.</string>
+        <string lang="en">Restores durability on all modules with $recovery$ and removes $shock$ from all modules on all racks.</string>
+        <string lang="fr">Restaure la durabilité de tous les modules avec $recovery$ et retire $shock$ de tous les modules sur tous les racks.</string>
+        <string lang="zh">恢复所有带有$recovery$的模块的耐久度，并从所有架上的所有模块上移除$shock$。</string>
+        <string lang="jp">$recovery$を持つすべてのモジュールの耐久性を回復し、すべてのラックのすべてのモジュールから$shock$を削除します。</string>
+    </set>
+    <set id="name-module-toggledmightnullifier">
+        <string lang="de">Macht-Nullifizierer</string>
+        <string lang="en">Might Nullifier</string>
+        <string lang="fr">Anullateur Pouvoir</string>
+        <string lang="zh">力量消除器</string>
+        <string lang="jp">マイトヌルファイアー</string>
+    </set>
+    <set id="description-module-toggledmightnullifier">
+        <string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
+        <string lang="en">Removes all $might$ from all combatants.</string>
+        <string lang="fr">Retire tout $might$ de tous les combattants.</string>
+        <string lang="zh">从所有战斗者中移除所有的$might$。</string>
+        <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
+    </set>
+    <set id="name-module-toggledmodifierbooster">
+        <string lang="de">Boostergranate</string>
+        <string lang="en">Booster Grenade</string>
+        <string lang="fr">Grenade de Boost</string>
+        <string lang="zh">增幅手榴弹</string>
+        <string lang="jp">ブースターグレネード</string>
+    </set>
+    <set id="description-module-toggledmodifierbooster">
+        <string lang="de">Versieht alle Module vom Typ $b$Durchsatzmodul$/b$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+        <string lang="en">Applies $boost$ to all modules of type $b$Throughput Module$/b$ on this rack until the end of turn.</string>
+        <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Débit$/b$ sur ce rack jusqu'à la fin du tour.</string>
+        <string lang="zh">在本回合结束前，将$boost$应用于本架上所有类型为$b$Throughput Module$/b$的模块。</string>
+        <string lang="jp">ターン終了まで、このラックのすべてのタイプ$b$Throughput Module$/b$のモジュールに$boost$を適用します。</string>
+    </set>
+    <set id="name-module-toggledvulnerabilitygrenade">
+        <string lang="de">Verwundbarkeits-Granate</string>
+        <string lang="en">Vulnerability Grenade</string>
+        <string lang="fr">Grenade de Vulnérabilité</string>
+        <string lang="zh">脆弱手榴弹</string>
+        <string lang="jp">バリアブルヌルファイアー</string>
+    </set>
+    <set id="description-module-toggledvulnerabilitygrenade">
+        <string lang="de">Versieht alle Kampfteilnehmer mit $vulnerable$. (Dauer: 6)</string>
+        <string lang="en">Applies $vulnerable$ to all combatants. (Duration: 6)</string>
+        <string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
+        <string lang="zh">将$vulnerable$应用于所有战斗者。（持续时间：6）</string>
+        <string lang="jp">すべての戦闘参加者に$vulnerable$を適用します。（持続時間：6）</string>
+    </set>
+    <set id="name-module-toggledstormgrenade">
+        <string lang="de">Sturm-Granate</string>
+        <string lang="en">Storm Grenade</string>
+        <string lang="fr">Grenade de Tempête</string>
+        <string lang="zh">风暴手榴弹</string>
+        <string lang="jp">ストームヌルファイアー</string>
+    </set>
+    <set id="description-module-toggledstormgrenade">
+        <string lang="de">Drägt den $storm$
+$b$10$/b$ Zeitschritte zurück.</string>
+        <string lang="en">Pushes back $storm$
+by $b$10$/b$ time steps.</string>
+        <string lang="fr">Pousse $storm$ de $b$10$/b$ pas de temps en arrière.</string>
+        <string lang="zh">将$storm$推回$b$10$/b$个时间步。</string>
+        <string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
+    </set>
+    <set id="name-module-toggledgravimmunitygrenade">
+        <string lang="de">Grav.-Immunitäts-Granate</string>
+        <string lang="en">Grav. Immunity Grenade</string>
+        <string lang="fr">Grenade de Grav. Immunité</string>
+        <string lang="zh">重力免疫手榴弹</string>
+        <string lang="jp">グラビティヌルファイアー</string>
+    </set>
+    <set id="description-module-toggledgravimmunitygrenade">
+        <string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$. (Dauer: 6)</string>
+        <string lang="en">Applies $gravimmunity$ to all combatants. (Duration: 6)</string>
+        <string lang="fr">Applique $gravimmunity$ à tous les combattants. (Durée: 6)</string>
+        <string lang="zh">将$gravimmunity$应用于所有战斗者。（持续时间：6）</string>
+        <string lang="jp">すべての戦闘参加者に$gravimmunity$を適用します。（持続時間：6）</string>
+    </set>
+    <set id="name-module-transmogrifier">
+        <string lang="de">Transmogrifikator</string>
+        <string lang="en">Transmogrifier</string>
+        <string lang="fr">Transmogrificateur</string>
+        <string lang="zh">改变模块</string>
+        <string lang="jp">トランスモグリファイアー</string>
+    </set>
+    <set id="description-module-transmogrifier">
+        <string lang="de">Verwandelt ein anderes Modul deiner Wahl in ein anderes Modul der gleichen Stufe.</string>
+        <string lang="en">Transforms another target module into a different module of the same level.</string>
+        <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
+        <string lang="zh">将另一个目标模块转换为同一级别的不同模块。</string>
+        <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
+    </set>
+
+</localization>

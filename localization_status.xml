@@ -1,0 +1,772 @@
+<localization>
+    <set id="name-status-vulnerable">
+        <string lang="de">Verwundbar</string>
+        <string lang="en">Vulnerable</string>
+        <string lang="fr">Vulnerable</string>
+        <string lang="zh">易受伤</string>
+        <string lang="jp">弱点</string>
+    </set>
+    <set id="name-status-gravamplification">
+        <string lang="de">Grav.-Verstärkung</string>
+        <string lang="en">Grav. Amplification</string>
+        <string lang="fr">Amplification Grav.</string>
+        <string lang="zh">重力增幅</string>
+        <string lang="jp">重力増幅</string>
+    </set>
+    <set id="name-status-gravresistance">
+        <string lang="de">Grav.-Resistenz</string>
+        <string lang="en">Grav. Resistance</string>
+        <string lang="fr">Résistance Grav.</string>
+        <string lang="zh">重力抵抗</string>
+        <string lang="jp">重力抵抗</string>
+    </set>
+    <set id="name-status-gravimmunity">
+        <string lang="de">Grav.-Immunität</string>
+        <string lang="en">Grav. Immmunity</string>
+        <string lang="fr">Immunité Grav.</string>
+        <string lang="zh">重力免疫</string>
+        <string lang="jp">重力免疫</string>
+    </set>
+    <set id="name-status-jackcolormutation">
+        <string lang="de">Farb-Mutation</string>
+        <string lang="en">Color Mutation</string>
+        <string lang="fr">Mutation de Couleur</string>
+        <string lang="zh">颜色变异</string>
+        <string lang="jp">色変異</string>
+    </set>
+    <set id="name-status-moduleboost">
+        <string lang="de">Boost +1</string>
+        <string lang="en">Boost +1</string>
+        <string lang="fr">Sursaut +1</string>
+        <string lang="zh">增强 +1</string>
+        <string lang="jp">ブースト +1</string>
+    </set>
+    <set id="name-status-moduleboost-eob">
+        <string lang="de">Boost +1</string>
+        <string lang="en">Boost +1</string>
+        <string lang="fr">Sursaut +1</string>
+        <string lang="zh">增强 +1</string>
+        <string lang="jp">ブースト +1</string>
+    </set>
+    <set id="name-status-moduleboost-eot">
+        <string lang="de">Boost +1</string>
+        <string lang="en">Boost +1</string>
+        <string lang="fr">Sursaut +1</string>
+        <string lang="zh">增强 +1</string>
+        <string lang="jp">ブースト +1</string>
+    </set>
+    <set id="name-status-modulecrust">
+        <string lang="de">Kruste</string>
+        <string lang="en">Crust</string>
+        <string lang="fr">Croûte</string>
+        <string lang="zh">结晶</string>
+        <string lang="jp">結晶</string>
+    </set>
+    <set id="name-status-modulecracked">
+        <string lang="de">Brüchig</string>
+        <string lang="en">Cracked</string>
+        <string lang="fr">Cassant</string>
+        <string lang="zh">破裂</string>
+        <string lang="jp">割れた</string>
+    </set>
+    <set id="name-status-modulecracked-eob">
+        <string lang="de">Brüchig</string>
+        <string lang="en">Cracked</string>
+        <string lang="fr">Cassant</string>
+        <string lang="zh">破裂</string>
+        <string lang="jp">割れた</string>
+    </set>
+    <set id="name-status-modulecracked-eot">
+        <string lang="de">Brüchig</string>
+        <string lang="en">Cracked</string>
+        <string lang="fr">Cassant</string>
+        <string lang="zh">破裂</string>
+        <string lang="jp">割れた</string>
+    </set>
+    <set id="name-status-modulefire">
+        <string lang="de">Feuer</string>
+        <string lang="en">Fire</string>
+        <string lang="fr">Feu</string>
+        <string lang="zh">火</string>
+        <string lang="jp">火</string>
+    </set>
+    <set id="name-status-modulefragile">
+        <string lang="de">Fragil</string>
+        <string lang="en">Fragile</string>
+        <string lang="fr">Fragile</string>
+        <string lang="zh">易碎</string>
+        <string lang="jp">破壊</string>
+    </set>
+    <set id="name-status-modulepollution">
+        <string lang="de">Verschmutzung</string>
+        <string lang="en">Pollution</string>
+        <string lang="fr">Pollution</string>
+        <string lang="zh">污染</string>
+        <string lang="jp">汚染</string>
+    </set>
+    <set id="name-status-modulepollution-eot">
+        <string lang="de">Verschmutzung</string>
+        <string lang="en">Pollution</string>
+        <string lang="fr">Pollution</string>
+        <string lang="zh">污染</string>
+        <string lang="jp">汚染</string>
+    </set>
+    <set id="name-status-modulerecovery">
+        <string lang="de">Erholung</string>
+        <string lang="en">Recovery</string>
+        <string lang="fr">Récuperation</string>
+        <string lang="zh">恢复</string>
+        <string lang="jp">回復</string>
+    </set>
+    <set id="name-status-moduleshock">
+        <string lang="de">Schock</string>
+        <string lang="en">Shock</string>
+        <string lang="fr">Choc</string>
+        <string lang="zh">冲击</string>
+        <string lang="jp">ショック</string>
+    </set>
+    <set id="name-status-modulesalvaged">
+        <string lang="de">Geborgen</string>
+        <string lang="en">Salvaged</string>
+        <string lang="fr">Sauvetage</string>
+        <string lang="zh">回收</string>
+        <string lang="jp">回収</string>
+    </set>
+    <set id="name-status-modulelock">
+        <string lang="de">Modulsperre</string>
+        <string lang="en">Module Lock</string>
+        <string lang="fr">Verrouillage de Module</string>
+        <string lang="zh">模块锁定</string>
+        <string lang="jp">モジュールロック</string>
+    </set>
+    <set id="name-status-modulelock-nextturn">
+        <string lang="de">Modulsperre</string>
+        <string lang="en">Module Lock</string>
+        <string lang="fr">Verrouillage de Module</string>
+        <string lang="zh">模块锁定</string>
+        <string lang="jp">モジュールロック</string>
+    </set>
+    <set id="name-status-modulelock-startingmodule">
+        <string lang="de">Startmodul</string>
+        <string lang="en">Starting Module</string>
+        <string lang="fr">Module de Départ</string>
+        <string lang="zh">起始模块</string>
+        <string lang="jp">スタートモジュール</string>
+    </set>
+    <set id="name-status-moduleselfencrusting">
+        <string lang="de">Selbstverkrustend</string>
+        <string lang="en">Self-Encrusting</string>
+        <string lang="fr">Auto-Encrustement</string>
+        <string lang="zh">自结晶</string>
+        <string lang="jp">自己結晶</string>
+    </set>
+    <set id="name-status-moduleselfencrusting-eot">
+        <string lang="de">Selbstverkrustend</string>
+        <string lang="en">Self-Encrusting</string>
+        <string lang="fr">Auto-Encrustement</string>
+        <string lang="zh">自结晶</string>
+        <string lang="jp">自己結晶</string>
+    </set>
+    <set id="name-status-moduleoverload">
+        <string lang="de">Überlastet</string>
+        <string lang="en">Overload</string>
+        <string lang="fr">Surcharge</string>
+        <string lang="zh">超载</string>
+        <string lang="jp">オーバーロード</string>
+    </set>
+    <set id="name-status-moduleoverload-eot">
+        <string lang="de">Überlastet</string>
+        <string lang="en">Overload</string>
+        <string lang="fr">Surcharge</string>
+        <string lang="zh">超载</string>
+        <string lang="jp">オーバーロード</string>
+    </set>
+    <set id="name-status-modulegravrecoil">
+        <string lang="de">Grav.-Rückstoß</string>
+        <string lang="en">Grav. Recoil</string>
+        <string lang="fr">Recul Grav.</string>
+        <string lang="zh">重力反冲</string>
+        <string lang="jp">重力反動</string>
+    </set>
+    <set id="name-status-modulegravrecoil-eot">
+        <string lang="de">Grav.-Rückstoß</string>
+        <string lang="en">Grav. Recoil</string>
+        <string lang="fr">Recul Grav.</string>
+        <string lang="zh">重力反冲</string>
+        <string lang="jp">重力反動</string>
+    </set>
+    <set id="name-status-modulegravvacuum">
+        <string lang="de">Grav.-Vakuum</string>
+        <string lang="en">Grav. Vacuum</string>
+        <string lang="fr">Vacuum Grav.</string>
+        <string lang="zh">重力真空</string>
+        <string lang="jp">重力真空</string>
+    </set>
+    <set id="name-status-moduleplasmacrepitation">
+        <string lang="de">Plasma-Verpuffung</string>
+        <string lang="en">Plasma Crepitation</string>
+        <string lang="fr">Crépitation Plasma</string>
+        <string lang="zh">等离子爆裂</string>
+        <string lang="jp">プラズマ爆燃</string>
+    </set>
+    <set id="name-status-moduleplasmacrepitation-eot">
+        <string lang="de">Plasma-Verpuffung</string>
+        <string lang="en">Plasma Crepitation</string>
+        <string lang="fr">Crépitation Plasma</string>
+        <string lang="zh">等离子爆裂</string>
+        <string lang="jp">プラズマ爆燃</string>
+    </set>
+    <set id="name-status-modulemodificationmutation">
+        <string lang="de">Mutation</string>
+        <string lang="en">Mutation</string>
+        <string lang="fr">Mutation</string>
+        <string lang="zh">变异</string>
+        <string lang="jp">突然変異</string>
+    </set>
+    <set id="name-status-shield">
+        <string lang="de">Schild</string>
+        <string lang="en">Shield</string>
+        <string lang="fr">Bouclier</string>
+        <string lang="zh">护盾</string>
+        <string lang="jp">シールド</string>
+    </set>
+    <set id="name-status-transformation-volcanodamagetomight">
+        <string lang="de">Vulkan-$damage$ zu $might$</string>
+        <string lang="en">Volcano $damage$ to $might$</string>
+        <string lang="fr">Volcan $damage$ vers $might$</string>
+        <string lang="zh">火山-$damage$到$might$</string>
+        <string lang="jp">火山-$damage$から$might$へ</string>
+    </set>
+    <set id="name-status-transformation-dmgtograv">
+        <string lang="de">$damage$ zu $grav+short$</string>
+        <string lang="en">$damage$ to $grav+short$</string>
+        <string lang="fr">$damage$ vers $grav+short$</string>
+        <string lang="zh">$damage$到$grav+short$</string>
+        <string lang="jp">$damage$から$grav+short$へ</string>
+    </set>
+    <set id="name-status-transformation-gravtodmg">
+        <string lang="de">$grav+short$ zu $damage$</string>
+        <string lang="en">$grav+short$ to $damage$</string>
+        <string lang="fr">$grav+short$ vers $damage$</string>
+        <string lang="zh">$grav+short$到$damage$</string>
+        <string lang="jp">$grav+short$から$damage$へ</string>
+    </set>
+    <set id="name-status-transformation-gravtopower">
+        <string lang="de">$grav+$ zu $might$</string>
+        <string lang="en">$grav+$ to $might$</string>
+        <string lang="fr">$grav+$ vers $might$</string>
+        <string lang="zh">$grav+$到$might$</string>
+        <string lang="jp">$grav+$から$might$へ</string>
+    </set>
+    <set id="shortname-status-vulnerable">
+        <string lang="de">Verwundbar</string>
+        <string lang="en">Vulnerable</string>
+        <string lang="fr">Vulnerable</string>
+        <string lang="zh">易受伤</string>
+        <string lang="jp">弱点</string>
+    </set>
+    <set id="shortname-status-gravamplification">
+        <string lang="de">Grav.-Verst.</string>
+        <string lang="en">Grav. Amp.</string>
+        <string lang="fr">Grav. Amp.</string>
+        <string lang="zh">重力增幅</string>
+        <string lang="jp">重力増幅</string>
+    </set>
+    <set id="shortname-status-gravimmunity">
+        <string lang="de">Grav.-Immu.</string>
+        <string lang="en">Grav. Immu.</string>
+        <string lang="fr">Immu. Grav.</string>
+        <string lang="zh">重力免疫</string>
+        <string lang="jp">重力免疫</string>
+    </set>
+    <set id="shortname-status-shield">
+        <string lang="de">Schild</string>
+        <string lang="en">Shield</string>
+        <string lang="fr">Bouclier</string>
+        <string lang="zh">护盾</string>
+        <string lang="jp">シールド</string>
+    </set>
+    <set id="shortname-status-graveresistance">
+        <string lang="de">Grav. Res.</string>
+        <string lang="en">Grav. Res.</string>
+        <string lang="fr">Res. Grav</string>
+        <string lang="zh">重力抵抗</string>
+        <string lang="jp">重力耐性</string>
+    </set>
+    <set id="shortname-status-modulecrust">
+        <string lang="de">Kruste</string>
+        <string lang="en">Crust</string>
+        <string lang="fr">Croûte</string>
+        <string lang="zh">结晶</string>
+        <string lang="jp">結晶</string>
+    </set>
+    <set id="shortname-status-modulecracked-eot">
+        <string lang="de">Brüchig</string>
+        <string lang="en">Cracked</string>
+        <string lang="fr">Cassant</string>
+        <string lang="zh">易碎</string>
+        <string lang="jp">破損</string>
+    </set>
+    <set id="shortname-status-modulepollution">
+        <string lang="de">Verschmutzung</string>
+        <string lang="en">Pollution</string>
+        <string lang="fr">Pollution</string>
+        <string lang="zh">污染</string>
+        <string lang="jp">汚染</string>
+    </set>
+    <set id="shortname-status-moduleshock">
+        <string lang="de">Schock</string>
+        <string lang="en">Shock</string>
+        <string lang="fr">Choc</string>
+        <string lang="zh">冲击</string>
+        <string lang="jp">衝撃</string>
+    </set>
+    <set id="shortname-status-moduleselfencrusting">
+        <string lang="de">Selbstverkrustend</string>
+        <string lang="en">Self-Encrusting</string>
+        <string lang="fr">Auto-Encrustement</string>
+        <string lang="zh">自结晶</string>
+        <string lang="jp">自己結晶</string>
+    </set>
+    <set id="shortname-status-moduleselfencrusting-eot">
+        <string lang="de">Selbstverkrustend</string>
+        <string lang="en">Self-Encrusting</string>
+        <string lang="fr">Auto-Encrustement</string>
+        <string lang="zh">自结晶</string>
+        <string lang="jp">自己結晶</string>
+    </set>
+    <set id="shortname-status-moduleoverload">
+        <string lang="de">Überlastet</string>
+        <string lang="en">Overload</string>
+        <string lang="fr">Surcharge</string>
+        <string lang="zh">超载</string>
+        <string lang="jp">オーバーロード</string>
+    </set>
+    <set id="shortname-status-moduleoverload-eot">
+        <string lang="de">Überlastet</string>
+        <string lang="en">Overload</string>
+        <string lang="fr">Surcharge</string>
+        <string lang="zh">超载</string>
+        <string lang="jp">オーバーロード</string>
+    </set>
+    <set id="shortname-status-moduleplasmacrepitation">
+        <string lang="de">Plasma-Verpuffung</string>
+        <string lang="en">Plasma Crepitation</string>
+        <string lang="fr">Crépitation Plasma</string>
+        <string lang="zh">等离子爆裂</string>
+        <string lang="jp">プラズマ爆燃</string>
+    </set>
+    <set id="shortname-status-moduleplasmacrepitation-eot">
+        <string lang="de">Plasma-Verpuffung</string>
+        <string lang="en">Plasma Crepitation</string>
+        <string lang="fr">Crépitation Plasma</string>
+        <string lang="zh">等离子爆裂</string>
+        <string lang="jp">プラズマ爆燃</string>
+    </set>
+    <set id="shortname-status-modulegravrecoil">
+        <string lang="de">Grav.-Rückstoß</string>
+        <string lang="en">Grav. Recoil</string>
+        <string lang="fr">Recul Grav.</string>
+        <string lang="zh">重力反冲</string>
+        <string lang="jp">重力反動</string>
+    </set>
+    <set id="shortname-status-modulegravrecoil-eot">
+        <string lang="de">Grav.-Rückstoß</string>
+        <string lang="en">Grav. Recoil</string>
+        <string lang="fr">Recul Grav.</string>
+        <string lang="zh">重力反冲</string>
+        <string lang="jp">重力反動</string>
+    </set>
+    <set id="shortname-status-modulegravvacuum">
+        <string lang="de">Grav.-Vakuum</string>
+        <string lang="en">Grav. Vacuum</string>
+        <string lang="fr">Vacuum Grav.</string>
+        <string lang="zh">重力真空</string>
+        <string lang="jp">重力真空</string>
+    </set>
+        <set id="name-status-moduleunstable">
+        <string lang="de">Instabil</string>
+        <string lang="en">Unstable</string>
+        <string lang="fr">Instable</string>
+        <string lang="zh">不稳定</string>
+        <string lang="jp">不安定</string>
+    </set>
+    <set id="shortname-status-transformation-dmgtograv">
+        <string lang="de">DMG zu Grav+</string>
+        <string lang="en">DMG to Grav+</string>
+        <string lang="fr">DMG vers Grav+</string>
+        <string lang="zh">DMG转换为重力+</string>
+        <string lang="jp">DMGを重力+に変換</string>
+    </set>
+    <set id="shortname-status-transformation-gravtodmg">
+        <string lang="de">$grav+short$ zu DMG</string>
+        <string lang="en">$grav+short$ to DMG</string>
+        <string lang="fr">$grav+short$ vers DMG</string>
+        <string lang="zh">重力+转换为DMG</string>
+        <string lang="jp">重力+をDMGに変換</string>
+    </set>
+    <set id="description-status-vulnerable">
+        <string lang="de">Eingehender $damage$ wird um $1$ verstärkt.</string>
+        <string lang="en">Incoming $damage$ is amplified by $1$.</string>
+        <string lang="fr">$damage$ entrants sont augmentés de $1$.</string>
+        <string lang="zh">受到的$damage$增加$1$。</string>
+        <string lang="jp">受ける$damage$が$1$増加。</string>
+    </set>
+    <set id="description-status-gravamplification">
+        <string lang="de">Eingehende $grav$ wird um $1$ verstärkt.</string>
+        <string lang="en">Incoming $grav$ is amplified by $1$.</string>
+        <string lang="fr">$grav$ entrante est augmentée de $1$.</string>
+        <string lang="zh">受到的$grav$增加$1$。</string>
+        <string lang="jp">受ける$grav$が$1$増加。</string>
+    </set>
+    <set id="description-status-gravimmunity">
+        <string lang="de">Kann keine $grav$ erhalten.</string>
+        <string lang="en">Cannot receive $grav$.</string>
+        <string lang="fr">Ne peut pas recevoir $grav$.</string>
+        <string lang="zh">无法获得$grav$。</string>
+        <string lang="jp">$grav$を受け取ることができません。</string>
+    </set>
+    <set id="description-status-moduleboost">
+        <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.</string>
+        <string lang="en">Adds $1$ $energy$ to a current</string>
+        <string lang="fr">Ajoute $1$ $energy$ à un courant</string>
+        <string lang="zh">增加$1$ $energy$到一个电流</string>
+        <string lang="jp">$energy$を$1$追加</string>
+    </set>
+    <set id="description-status-moduleboost-eob">
+        <string lang="de">Fügt einem Strom bis zum Ende des Kampfes $1$ $energy$ hinzu.</string>
+        <string lang="en">Adds $1$ $energy$ to a current until the end of combat.</string>
+        <string lang="fr">Ajoute $1$ $energy$ à un courant jusqu'à la fin du combat.</string>
+        <string lang="zh">增加$1$ $energy$到一个电流直到战斗结束。</string>
+        <string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
+    </set>
+    <set id="description-status-moduleboost-eot">
+        <string lang="de">Fügt einem Strom bis zum Ende des Zuges $1$ $energy$ hinzu.</string>
+        <string lang="en">Adds $1$ $energy$ to a current until the end of turn.</string>
+        <string lang="fr">Ajoute $1$ $energy$ à un courant jusqu'à la fin du tour.</string>
+        <string lang="zh">增加$1$ $energy$到一个电流直到回合结束。</string>
+        <string lang="jp">$energy$を$1$追加、ターン終了まで。</string>
+    </set>
+        <set id="description-status-modulecrust">
+        <string lang="de">Modul kann nicht aktiviert werden.
+Die erste eingehende Energie bricht die Kruste</string>
+        <string lang="en">Module cannot be activated.
+First incoming energy will break the crust</string>
+        <string lang="fr">Module non activable.
+La première énergie entrante brise la croûte</string>
+        <string lang="zh">模块无法被激活。
+第一次受到的能量将会破坏外壳</string>
+        <string lang="jp">モジュールはアクティブ化できません。
+最初の受けるエネルギーは外殻を破壊します</string>
+    </set>
+    <set id="description-status-modulecracked">
+        <string lang="de">Wird nach Aktivierung zerstört</string>
+        <string lang="en">Destroyed after activation</string>
+        <string lang="fr">Détruit après activation</string>
+        <string lang="zh">在激活后被摧毁</string>
+        <string lang="jp">活性化後に破壊される</string>
+    </set>
+    <set id="description-status-modulecracked-discharge">
+        <string lang="de">Wird nach Entladung zerstört</string>
+        <string lang="en">Destroyed after discharge</string>
+        <string lang="fr">Détruit après décharge</string>
+        <string lang="zh">在放电后被摧毁</string>
+        <string lang="jp">放電後に破壊される</string>
+    </set>
+    <set id="description-status-modulecracked-eob">
+        <string lang="de">Wird nach zusätzlicher Aktivierung zerstört</string>
+        <string lang="en">Destroyed after additional activation</string>
+        <string lang="fr">Détruit après activation additionnelle</string>
+        <string lang="zh">在额外激活后被摧毁</string>
+        <string lang="jp">追加の活性化後に破壊される</string>
+    </set>
+    <set id="description-status-modulecracked-eob-discharge">
+        <string lang="de">Wird nach zusätzlicher Entladung zerstört</string>
+        <string lang="en">Destroyed after additional discharge</string>
+        <string lang="fr">Détruit après décharge additionnelle</string>
+        <string lang="zh">在额外放电后被摧毁</string>
+        <string lang="jp">追加の放電後に破壊される</string>
+    </set>
+    <set id="description-status-modulecracked-eot">
+        <string lang="de">Aktivierung diese Runde zerstört das Modul</string>
+        <string lang="en">Activation this turn will destroy the module</string>
+        <string lang="fr">Activation ce tour détruira le module</string>
+        <string lang="zh">在本回合激活将会摧毁模块</string>
+        <string lang="jp">このターンの活性化はモジュールを破壊します</string>
+    </set>
+    <set id="description-status-modulecracked-eot-discharge">
+        <string lang="de">Entladung diese Runde zerstört das Modul</string>
+        <string lang="en">Discharge this turn will destroy the module</string>
+        <string lang="fr">Décharge ce tour détruira le module</string>
+        <string lang="zh">在本回合放电将会摧毁模块</string>
+        <string lang="jp">このターンの放電はモジュールを破壊します</string>
+    </set>
+    <set id="description-status-modulefire">
+        <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter am Ende der Runde $1damage$ zu</string>
+        <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
+        <string lang="fr">Activez-le pour l'éteindre ou il infligera
+$b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
+        <string lang="zh">激活它来熄灭，或者它将在回合结束时对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
+    </set>
+    <set id="description-status-modulefire-eot">
+        <string lang="de">Aktiviere das Module diese Runde, um es zu löschen, oder es fügt dem Charakter am Ende des Runde $b$1$/b$ $damage$ zu</string>
+        <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
+        <string lang="fr">Activez-le ce tour pour l'éteindre ou il infligera
+$b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
+        <string lang="zh">在本回合激活它来熄灭，或者它将在回合结束时对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
+    </set>
+    <set id="description-status-modulefragile">
+        <string lang="de">Kann 1× pro Kampf sicher aktiviert werden</string>
+        <string lang="en">Can be safely activated 1× per battle</string>
+        <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
+        <string lang="zh">可以在每场战斗中安全激活1次</string>
+        <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
+    </set>
+    <set id="description-status-modulemodificationmutation">
+        <string lang="de">Ändert seine Eigenschaften am Ende des Zuges des Charakters</string>
+        <string lang="en">Changes throughput at the end of owner's turn if placed in rack</string>
+        <string lang="fr">Change les traits à la fin du tour du propriétaire</string>
+        <string lang="zh">如果放置在架子上，将在拥有者回合结束时改变其属性</string>
+        <string lang="jp">ラックに置かれた場合、オーナーのターン終了時に特性を変更します</string>
+    </set>
+    <set id="description-status-jackcolormutation">
+        <string lang="de">Farbe mutiert am Ende des Zuges des Charakters</string>
+        <string lang="en">Changes color at the end of owner's turn if placed in rack</string>
+        <string lang="fr">La couleur muté à la fin du tour du propriétaire</string>
+        <string lang="zh">如果放置在架子上，将在拥有者回合结束时改变其颜色</string>
+        <string lang="jp">ラックに置かれた場合、オーナーのターン終了時に色を変更します</string>
+    </set>
+    <set id="description-status-modulepollution">
+        <string lang="de">Aktivierung fügt dem Charakter $b$1$/b$ $damage$ zu</string>
+        <string lang="en">Activation deals $b$1$/b$ $damage$ to the owner</string>
+        <string lang="fr">Activation inflige $b$1$/b$ $damage$ au propriétaire</string>
+        <string lang="zh">激活将对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="jp">アクティブ化はオーナーに $b$1$/b$ $damage$を与えます</string>
+    </set>
+        <set id="description-status-modulepollution-eot">
+        <string lang="de">Aktivierung diese Runde fügt dem Charakter $b$1$/b$ $damage$ zu</string>
+        <string lang="en">Activation this turn deals $b$1$/b$ $damage$ to the owner</string>
+        <string lang="fr">Activation ce tour inflige $b$1$/b$ $damage$ au propriétaire</string>
+        <string lang="zh">在本回合激活将对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="jp">このターンにアクティブ化はオーナーに $b$1$/b$ $damage$を与えます</string>
+    </set>
+    <set id="description-status-modulerecovery">
+        <string lang="de">Haltbarkeit erholt sich nach Kampf</string>
+        <string lang="en">Durability will recover after battle</string>
+        <string lang="fr">Durabilité se régénère après le combat</string>
+        <string lang="zh">战斗后耐久度将恢复</string>
+        <string lang="jp">戦闘後に耐久度が回復します</string>
+    </set>
+    <set id="description-status-moduleshock">
+        <string lang="de">Kann diese Runde nicht aktiviert werden</string>
+        <string lang="en">Can't be activated this turn</string>
+        <string lang="fr">Ne peut pas être activé ce tour</string>
+        <string lang="zh">本回合无法激活</string>
+        <string lang="jp">このターンにアクティブ化できません</string>
+    </set>
+    <set id="description-status-modulesalvaged">
+        <string lang="de">Aus einem vorherigen Run hinübergerettet</string>
+        <string lang="en">Salvaged from a previous run</string>
+        <string lang="fr">Récupéré d'une précédente mission</string>
+        <string lang="zh">从之前的任务中拯救出来的</string>
+        <string lang="jp">前のミッションから救出された</string>
+    </set>
+    <set id="description-status-moduleselfencrusting">
+        <string lang="de">Erhält nach Aktivierung $crust$</string>
+        <string lang="en">Will receive $crust$ after activation</string>
+        <string lang="fr">Reçoit $crust$ après activation</string>
+        <string lang="zh">激活后将获得$crust$</string>
+        <string lang="jp">アクティブ化は $crust$を受け取ります</string>
+    </set>
+    <set id="description-status-moduleselfencrusting-eot">
+        <string lang="de">Aktivierung diese Runde führt zu $crust$</string>
+        <string lang="en">Activation this turn will lead to $crust$</string>
+        <string lang="fr">Activation ce tour mènera à $crust$</string>
+        <string lang="zh">在本回合激活将导致$crust$</string>
+        <string lang="jp">このターンにアクティブ化は $crust$を引き起こします</string>
+    </set>
+    <set id="description-status-moduleoverload">
+        <string lang="de">Erhält nach Aktivierung $shock$</string>
+        <string lang="en">Will receive $shock$ after activation</string>
+        <string lang="fr">Reçoit $shock$ après activation</string>
+        <string lang="zh">激活后将获得$shock$</string>
+        <string lang="jp">アクティブ化は $shock$を受け取ります</string>
+    </set>
+    <set id="description-status-moduleoverload-eot">
+        <string lang="de">Aktivierung diese Runde führt zu $shock$</string>
+        <string lang="en">Activation this turn will lead to $shock$</string>
+        <string lang="fr">Activation ce tour mènera à $shock$</string>
+        <string lang="zh">在本回合激活将导致$shock$</string>
+        <string lang="jp">このターンにアクティブ化は $shock$を引き起こします</string>
+    </set>
+    <set id="description-status-modulegravrecoil">
+        <string lang="de">Aktivierung fügt dem Charakter $grav+2$ zu</string>
+        <string lang="en">Activation inflicts the owner with $grav+2$</string>
+        <string lang="fr">Activation inflige $grav+2$ au propriétaire</string>
+        <string lang="zh">激活将对拥有者造成$grav+2$</string>
+        <string lang="jp">アクティブ化はオーナーに $grav+2$を与えます</string>
+    </set>
+    <set id="description-status-modulegravrecoil-eot">
+        <string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
+        <string lang="en">Activation this turn inflicts the owner with $grav+2$</string>
+        <string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
+        <string lang="zh">在本回合激活将对拥有者造成$grav+2$</string>
+        <string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
+    </set>
+    <set id="description-status-modulegravvacuum">
+        <string lang="de">Aktivierung fügt dem Charakter $grav-1$ zu</string>
+        <string lang="en">Activation inflicts the owner with $grav-1$</string>
+        <string lang="fr">Activation inflige $grav-1$ au propriétaire</string>
+        <string lang="zh">激活将对拥有者造成$grav-1$</string>
+        <string lang="jp">アクティブ化はオーナーに $grav-1$を与えます</string>
+    </set>
+    <set id="description-status-moduleplasmacrepitation">
+        <string lang="de">Aktivierung verbraucht $1plasma$</string>
+        <string lang="en">Activation uses up $1plasma$</string>
+        <string lang="fr">Activation utilise $1plasma$</string>
+        <string lang="zh">激活将消耗$1plasma$</string>
+    </set>
+    <set id="description-status-moduleplasmacrepitation-eot">
+        <string lang="de">Aktivierung diese Runde verbraucht $1plasma$</string>
+        <string lang="en">Activation this turn uses up $1plasma$</string>
+        <string lang="fr">Activation ce tour utilise $1plasma$</string>
+        <string lang="zh">在本回合激活将消耗$1plasma$</string>
+        <string lang="jp">このターンにアクティブ化は $1plasma$を消費します</string>
+    </set>
+    <set id="description-status-moduleunstable">
+        <string lang="de">Wird am Ende des Kampfes zerstört</string>
+        <string lang="en">Is destroyed at the end of combat</string>
+        <string lang="fr">Est détruit à la fin du combat</string>
+        <string lang="zh">在战斗结束时将被摧毁</string>
+        <string lang="jp">バトル終了時に破壊されます</string>
+    </set>
+    <set id="description-status-transformation-volcanodamagetomight">
+        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
+        <string lang="fr">$damage$ entrant par le volcan est transformé en $might$.</string>
+        <string lang="zh">来自火山的$damage$将转化为$might$</string>
+        <string lang="jp">火山からの$damage$は $might$に変換されます</string>
+    </set>
+    <set id="description-status-transformation-dmgtograv">
+        <string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ is transformed to $grav+$.</string>
+        <string lang="fr">$damage$ entrants sont transformées en $grav+$.</string>
+        <string lang="zh">来自$damage$将转化为$grav+$</string>
+        <string lang="jp">$damage$は $grav+$に変換されます</string>
+    </set>
+    <set id="description-status-transformation-gravtodmg">
+        <string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.</string>
+        <string lang="en">Incoming $grav+$ is transformed to $damage$.</string>
+        <string lang="fr">$grav+$ entrante est transformée en $damage$.</string>
+        <string lang="zh">来自$grav+$将转化为$damage$</string>
+        <string lang="jp">$grav+$は $damage$に変換されます</string>
+    </set>
+    <set id="description-status-transformation-gravtopower">
+        <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $grav+$ is transformed to $might$.</string>
+        <string lang="fr">$grav+$ entrante est transformée en $might$.</string>
+        <string lang="zh">来自$grav+$将转化为$might$</string>
+        <string lang="jp">$grav+$は $might$に変換されます</string>
+    </set>
+    <set id="description-status-shield">
+        <string lang="de">Eingehender $damage$ wird um $1$ reduziert.</string>
+        <string lang="en">Incoming $damage$ is reduced by $1$.</string>
+        <string lang="fr">$damage$ entrants sont réduits de $1$.</string>
+        <string lang="zh">来自$damage$将减少$1$</string>
+        <string lang="jp">$damage$は $1$減少します</string>
+    </set>
+    <set id="description-status-modulelock">
+        <string lang="de">Kann nicht vom Rack genommen werden</string>
+        <string lang="en">Cannot be taken from rack</string>
+        <string lang="fr">Ne peut pas être enlevé du rack</string>
+        <string lang="zh">不能从机架上取下</string>
+        <string lang="jp">ラックから取り外せません</string>
+    </set>
+    <set id="description-status-modulelock-eot">
+        <string lang="de">Bis zum Ende des Zuges ans Rack geschlossen</string>
+        <string lang="en">Locked to rack until end of turn</string>
+        <string lang="fr">Verrouillé au rack jusqu'à la fin du tour</string>
+        <string lang="zh">在本回合结束前鎖定在機架上</string>
+        <string lang="jp">ターン終了までラックに固定</string>
+    </set>
+    <set id="description-status-modulelock-nextturn">
+        <string lang="de">Bis zum nächsten Zug ans Rack geschlossen</string>
+        <string lang="en">Locked to rack until next turn</string>
+        <string lang="fr">Verrouillé au rack jusqu'au prochain tour</string>
+        <string lang="zh">在下一回合前鎖定在機架上</string>
+        <string lang="jp">次のターンまでラックに固定</string>
+    </set>
+    <set id="description-status-modulelock-startingmodule">
+        <string lang="de">Kann nicht vom Rack genommen werden</string>
+        <string lang="en">Cannot be taken from rack</string>
+        <string lang="fr">Ne peut pas être enlevé du rack</string>
+        <string lang="zh">不能从机架上取下</string>
+        <string lang="jp">ラックから取り外せません</string>
+    </set>
+    <set id="racklock-canonlybemovedoutsideofcombat">
+        <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
+        <string lang="en">Can only be moved outside of combat</string>
+        <string lang="fr">Peut être déplacé seulement en dehors du combat</string>
+        <string lang="zh">只能在戰鬥外移動</string>
+        <string lang="jp">戦闘外でのみ移動できます</string>
+    </set>
+    <set id="racklock-lockeduntilnextturn">
+        <string lang="de">Modul ist bis zum nächsten Zug ans Rack gesperrt </string>
+        <string lang="en">Module is locked to rack until next turn</string>
+        <string lang="fr">Module est derrouillé au rack jusqu’au prochain tour</string>
+        <string lang="zh">模块被锁定在机架上直到下一回合</string>
+        <string lang="jp">モジュールは次のターンまでラックにロックされています</string>
+    </set>
+    <set id="exhaustion-dependingonwiring">
+        <string lang="de">$b$Erschöpfung$/b$&#xA;Abhängig von Verkabelung</string>
+        <string lang="en">$b$Exhaustion$/b$&#xA;Depending on wiring</string>
+        <string lang="fr">$b$Fatigue$/b$&#xA;En fonction du câble</string>
+        <string lang="zh">$b$疲劳$/b$&#xA;取决于线缆</string>
+        <string lang="jp">$b$疲労$/b$&#xA;配線によって異なります</string>
+    </set>
+    <set id="exhaustion-turndelay">
+        <string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$&#xA;Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
+        <string lang="en">$b$Exhaustion $EXHAUSTION$$/b$&#xA;Activation sets back the next turn by $b$$EXHAUSTION$$/b$</string>
+        <string lang="fr">$b$Fatigue $EXHAUSTION$$/b$&#xA;Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
+        <string lang="zh">$b$疲劳 $EXHAUSTION$$/b$&#xA;使用将下一回合延迟$b$$EXHAUSTION$$/b$</string>
+        <string lang="jp">$b$疲労 $EXHAUSTION$$/b$&#xA;使用すると次のターンが$b$$EXHAUSTION$$/b$遅れます</string>
+    </set>
+    <set id="exhaustion">
+        <string lang="de">$b$Erschöpfung$/b$</string>
+        <string lang="en">$b$Exhaustion$/b$</string>
+        <string lang="fr">$b$Fatigue$/b$</string>
+        <string lang="zh">$b$疲劳$/b$</string>
+        <string lang="jp">$b$疲労$/b$</string>
+    </set>
+    <set id="factory-proportion">
+        <string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
+        <string lang="en">Higher $energy$ leads to a better constructed module</string>
+        <string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
+        <string lang="zh">更高的$energy$会导致更好的模块</string>
+        <string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
+    </set>
+    <set id="discharge-storesenergy">
+        <string lang="de">Speichert $energy$ über Züge und Kämpfe hinweg</string>
+        <string lang="en">Stores $energy$ throughout
+turns and battles</string>
+        <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
+        <string lang="zh">在多个回合和战斗中存储$energy$</string>
+        <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
+    </set>
+    <set id="discharge-endofturn">
+        <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
+        <string lang="en">Only holds $energy$ until the end of owner's turn</string>
+        <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
+        <string lang="zh">只在拥有者的回合结束时保留$energy$</string>
+        <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
+    </set>
+    <set id="discharge-endofturn-impending">
+        <string lang="de">Verliert $energy$ am Ende des Zuges</string>
+        <string lang="en">Will lose $energy$ at the end of turn</string>
+        <string lang="fr">Perdra $energy$ à la fin du tour</string>
+        <string lang="zh">将在回合结束时失去$energy$</string>
+        <string lang="jp">ターン終了時に$energy$を失います</string>
+    </set>
+</localization>

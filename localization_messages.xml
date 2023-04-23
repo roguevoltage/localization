@@ -1,0 +1,424 @@
+<localization>
+    <set id="error-happening-station-alreadyused">
+        <string lang="de">Station wurde bereits benutzt.</string>
+        <string lang="en">Station has already been used.</string>
+        <string lang="fr">Station a déjà été utilisé.</string>
+        <string lang="zh">站点已被使用。</string>
+        <string lang="jp">ステーションはすでに使用されています。</string>
+    </set>
+    <set id="error-socketdoesnotallowdrag">
+        <string lang="de">Kann nicht von diesem Socket genommen werden.</string>
+        <string lang="en">Cannot be taken from this socket.</string>
+        <string lang="fr">Ne peut pas être pris depuis ce socket.</string>
+        <string lang="zh">无法从此插槽中取出。</string>
+        <string lang="jp">このソケットからは取り出せません。</string>
+    </set>
+    <set id="error-modulecannotbetakenfromrack">
+        <string lang="de">Kann nicht vom Rack genommen werden</string>
+        <string lang="en">Cannot be taken from rack</string>
+        <string lang="fr">Ne peut pas être retiré du rack</string>
+        <string lang="zh">无法从机架中取出</string>
+        <string lang="jp">ラックからは取り出せません</string>
+    </set>
+    <set id="error-racknotwired">
+        <string lang="de">Das Rack von $NAME$ ist nicht verkabelt.</string>
+        <string lang="en">Rack of $NAME$ is not wired.</string>
+        <string lang="fr">Rack de $NAME$ n'est pas cablé.</string>
+        <string lang="zh">$NAME$的机架未连接。</string>
+        <string lang="jp">$NAME$のラックは接続されていません。</string>
+    </set>
+    <set id="error-module-notownedbyplayer">
+        <string lang="de">Gehört dir nicht</string>
+        <string lang="en">Does not belong to you</string>
+        <string lang="fr">Ne vous appartient pas</string>
+        <string lang="zh">不属于你</string>
+        <string lang="jp">あなたのものではありません</string>
+    </set>
+    <set id="error-module-notnegotiable">
+        <string lang="de">Unverkäuflich</string>
+        <string lang="en">Not negotiable</string>
+        <string lang="fr">Pas négociable</string>
+        <string lang="zh">不可议价</string>
+        <string lang="jp">交渉不可</string>
+    </set>
+    <set id="error-module-notduplicable">
+        <string lang="de">Kann nicht dupliziert werden</string>
+        <string lang="en">Cannot be duplicated</string>
+        <string lang="fr">Ne peut pas être dupliqué</string>
+        <string lang="zh">无法复制</string>
+        <string lang="jp">複製不可</string>
+    </set>
+    <set id="error-module-nottransmogrifiable">
+        <string lang="de">Kann nicht transmogrifiziert werden</string>
+        <string lang="en">Cannot be transmogrified</string>
+        <string lang="fr">Ne peut pas être transmogrifié</string>
+        <string lang="zh">无法转化</string>
+        <string lang="jp">変身不可</string>
+    </set>
+    <set id="error-module-cannotbesalvaged">
+        <string lang="de">Kann nicht in den nächsten Run hinübergerettet werden</string>
+        <string lang="en">Cannot be salvaged</string>
+        <string lang="fr">Ne peut pas être récupéré</string>
+        <string lang="zh">无法回收</string>
+        <string lang="jp">回収不可</string>
+    </set>
+    <set id="error-module-cannotbetrashed">
+        <string lang="de">Kann nicht verklappt werden</string>
+        <string lang="en">Cannot be dumped</string>
+        <string lang="fr">Ne peut pas être jeté</string>
+        <string lang="zh">无法丢弃</string>
+        <string lang="jp">捨てられません</string>
+    </set>
+    <set id="error-module-encrusted">
+        <string lang="de">Zerbreche $crust$
+mit $energy$</string>
+        <string lang="en">Break $crust$
+with $energy$</string>
+        <string lang="fr">Cassez $crust$
+avec $energy$</string>
+        <string lang="zh">用$energy$破坏$crust$</string>
+        <string lang="jp">$energy$で$crust$を破壊</string>
+    </set>
+    <set id="error-levelnotviable">
+        <string lang="de">Dieses Level ist nicht verfügbar.</string>
+        <string lang="en">This level is not viable.</string>
+        <string lang="fr">Ce niveau n'est pas viable.</string>
+        <string lang="zh">此关卡无法进行。</string>
+        <string lang="jp">このレベルは利用できません。</string>
+    </set>
+    <set id="error-noenergy">
+        <string lang="de">Keine $energy$</string>
+        <string lang="en">No $energy$</string>
+        <string lang="fr">Pas de $energy$</string>
+        <string lang="zh">没有$energy$</string>
+        <string lang="jp">$energy$がありません</string>
+    </set>
+    <set id="error-nomorelootpicks">
+        <string lang="de">Keine Auswahl mehr übrig</string>
+        <string lang="en">No more picks left</string>
+        <string lang="fr">Plus de choix disponibles</string>
+        <string lang="zh">没有更多选择</string>
+        <string lang="jp">選択肢がありません</string>
+    </set>
+    <set id="error-nospace-module">
+        <string lang="de">Kein Rack-Platz mehr für $NAME$.</string>
+        <string lang="en">No rack space left for $NAME$</string>
+        <string lang="fr">Pas d'espace disponible pour $NAME$</string>
+        <string lang="zh">没有更多空间给$NAME$</string>
+        <string lang="jp">$NAME$のためのスペースがありません</string>
+    </set>
+    <set id="error-inputtooutput">
+        <string lang="de">Verkabele Input-
+zu Output-Buchse</string>
+        <string lang="en">Wire input to
+output jack</string>
+        <string lang="fr">Cablez jack entrée 
+à jack sortie</string>
+        <string lang="zh">将输入连接到输出</string>
+        <string lang="jp">入力を出力に接続</string>
+    </set>
+    <set id="error-jacknotwired">
+        <string lang="de">Nicht
+verkabelt</string>
+        <string lang="en">Not 
+wired</string>
+        <string lang="fr">Pas 
+cablé</string>
+        <string lang="zh">未连接</string>
+        <string lang="jp">接続されていません</string>
+    </set>
+    <set id="error-jackcolormismatch">
+        <string lang="de">Falsche Farbe</string>
+        <string lang="en">Wrong color</string>
+        <string lang="fr">Couleur incorrecte</string>
+        <string lang="zh">颜色不匹配</string>
+        <string lang="jp">色が違います</string>
+    </set>
+    <set id="error-jacklocked">
+        <string lang="de">Gesperrt</string>
+        <string lang="en">Blocked</string>
+        <string lang="fr">Bloqué</string>
+        <string lang="zh">已锁定</string>
+        <string lang="jp">ブロックされています</string>
+    </set>
+    <set id="error-rackwiringimpossible">
+        <string lang="de">Kann hier nicht verkabeln</string>
+        <string lang="en">Cannot wire from here</string>
+        <string lang="fr">Impossible de cabler ici</string>
+        <string lang="zh">无法在此处连接</string>
+        <string lang="jp">ここから接続できません</string>
+    </set>
+    <set id="error-socket-dropforbidden">
+        <string lang="de">Sockel akzeptiert keine Module</string>
+        <string lang="en">Socket does not accept modules</string>
+        <string lang="fr">Socket ne prend pas de modules</string>
+        <string lang="zh">插槽不接受模块</string>
+        <string lang="jp">ソケットはモジュールを受け入れません</string>
+    </set>
+    <set id="error-socket-wrongmoduletype">
+        <string lang="de">Sockel akzeptiert keine Module von diesem Typ.</string>
+        <string lang="en">Socket does not accept modules of this type.</string>
+        <string lang="fr">Socket ne prend pas de module de ce type.</string>
+        <string lang="zh">插槽不接受此类型的模块。</string>
+        <string lang="jp">ソケットはこのタイプのモジュールを受け入れません。</string>
+    </set>
+    <set id="error-wiringsamemodule">
+        <string lang="de">Verkabelung desselben Moduls 
+nicht erlaubt</string>
+        <string lang="en">Cannot wire
+same module</string>
+        <string lang="fr">Ne peut pas cabler
+le même module</string>
+        <string lang="zh">无法连接相同的模块</string>
+        <string lang="jp">同じモジュールを接続できません</string>
+    </set>
+    <set id="error-wiringdestroyedmodule">
+        <string lang="de">Modul wird zerstört werden</string>
+        <string lang="en">Module will be destroyed</string>
+        <string lang="fr">Module va être détruit</string>
+        <string lang="zh">模块将被摧毁</string>
+        <string lang="jp">モジュールは破壊されます</string>
+    </set>
+    <set id="error-wiringliverack">
+        <string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
+        <string lang="en">Cannot wire during firing sequence</string>
+        <string lang="fr">Cablage interdit pendant une séquence de tir</string>
+        <string lang="zh">无法在发射序列期间连接</string>
+        <string lang="jp">発射シーケンス中に接続できません</string>
+    </set>
+    <set id="error-wrongturn">
+        <string lang="de">$NAME$ ist nicht am Zug.</string>
+        <string lang="en">It's not the turn of $NAME$.</string>
+        <string lang="fr">C'est pas le tour de $NAME$.</string>
+        <string lang="zh">现在不是$NAME$的回合。</string>
+        <string lang="jp">$NAME$のターンではありません。</string>
+    </set>
+    <set id="message-battle">
+        <string lang="de">Ihr stoßt auf eine Gruppe Monster.</string>
+        <string lang="en">You stumble upon a group of monsters.</string>
+        <string lang="fr">Vous rencontrez une troupe de monstres.</string>
+        <string lang="zh">你遇到了一群怪物。</string>
+        <string lang="jp">あなたはモンスターのグループに出くわします。</string>
+    </set>
+    <set id="message-battlewon">
+        <string lang="de">Glanzleistung!</string>
+        <string lang="en">You did it!</string>
+        <string lang="fr">Vous avez réussi!</string>
+        <string lang="zh">你做到了！</string>
+        <string lang="jp">成功しました！</string>
+    </set>
+    <set id="message-unconscious">
+        <string lang="de">$NAME$ wird ohnmächtig.</string>
+        <string lang="en">$NAME$ becomes unconscious.</string>
+        <string lang="fr">$NAME$ se fait évanouir.</string>
+        <string lang="zh">$NAME$昏迷了。</string>
+        <string lang="jp">$NAME$は意識を失います。</string>
+    </set>
+    <set id="message-unconscious2">
+        <string lang="de">Keine Sorge: Du kannst ihn/sie an einem Shop oder zurück im Lager wiederbeleben!</string>
+        <string lang="en">Don't fret: You can resuscitate them at a shop or back in camp!</string>
+        <string lang="fr">Ne vous inquiétez pas: vous pouvez les réanimer dans un magasin ou à la base!</string>
+        <string lang="zh">别担心：你可以在商店或营地里复活他们！</string>
+    </set>
+    <set id="message-jackcolorchange">
+        <string lang="de">$COLOR$</string>
+        <string lang="en">$COLOR$</string>
+        <string lang="fr">$COLOR$</string>
+        <string lang="zh">$COLOR$</string>
+        <string lang="jp">$COLOR$</string>
+    </set>
+    <set id="message-turn-naturaldisaster-gravequilibrium">
+        <string lang="de">Das Grav-Equilibrium zieht über den Kampfplatz.</string>
+        <string lang="en">The Grav. Equilibrium rolls over the battle field.</string>
+        <string lang="fr">Le Grav. Equilibrium envahit le champ de bataille.</string>
+        <string lang="zh">重力平衡滚动在战场上。</string>
+        <string lang="jp">重力平衡は戦場を襲います。</string>
+    </set>
+    <set id="message-turn-naturaldisaster-volcano">
+        <string lang="de">Ein Vulkanausbruch!</string>
+        <string lang="en">An eruption!</string>
+        <string lang="fr">Une éruption!</string>
+        <string lang="zh">一场喷发！</string>
+        <string lang="jp">噴火！</string>
+    </set>
+    <set id="message-turn-naturaldisaster-lightningstrike">
+        <string lang="de">Ein Blitzschlag!</string>
+        <string lang="en">A lightning strike!</string>
+        <string lang="fr">Une foudre!</string>
+        <string lang="zh">一道闪电！</string>
+        <string lang="jp">雷撃！</string>
+    </set>
+    <set id="message-turn-naturaldisaster-gravspike">
+        <string lang="de">Eine Grav.-Spitze!</string>
+        <string lang="en">A Grav. Spike!</string>
+        <string lang="fr">Une Crête Grav.!</string>
+        <string lang="zh">重力尖刺！</string>
+        <string lang="jp">重力の尖り！</string>
+    </set>
+    <set id="message-turn-naturaldisaster-gravimpulse">
+        <string lang="de">Ein Grav.-Impuls!</string>
+        <string lang="en">A grav. impulse!</string>
+        <string lang="fr">Un impulse grav.!</string>
+        <string lang="zh">重力冲击！</string>
+        <string lang="jp">重力の衝撃！</string>
+    </set>
+    <set id="message-idleworld">
+        <string lang="de">Untätig</string>
+        <string lang="en">Idle</string>
+        <string lang="fr">Inactif</string>
+        <string lang="zh">空闲</string>
+        <string lang="jp">遊休</string>
+    </set>
+    <set id="message-notarget">
+        <string lang="de">Kein Ziel</string>
+        <string lang="en">No target</string>
+        <string lang="fr">Pas de cible</string>
+        <string lang="zh">没有目标</string>
+        <string lang="jp">ターゲットなし</string>
+    </set>
+    <set id="message-rackconnect">
+        <string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
+        <string lang="en">Connect the modules you want to activate with wires.</string>
+        <string lang="fr">Connectez les modules avec des câbles.</string>
+        <string lang="zh">用线连接你想要激活的模块。</string>
+        <string lang="jp">ワイヤーでアクティブにしたいモジュールを接続します。</string>
+    </set>
+    <set id="message-prompt-readytofire">
+        <string lang="de">Bereit zum Handeln</string>
+        <string lang="en">Ready for action</string>
+        <string lang="fr">Prêt pour l'action</string>
+        <string lang="zh">准备好行动了</string>
+        <string lang="jp">行動準備完了</string>
+    </set>
+    <set id="message-prompt-selecttarget">
+        <string lang="de">Wähle ein Ziel für&#xA;&lt;size=14&gt;$NAME$&lt;/size&gt;</string>
+        <string lang="en">Select target for&#xA;&lt;size=14&gt;$NAME$&lt;/size&gt;</string>
+        <string lang="fr">Sélectionnez une cible pour&#xA;&lt;size=14&gt;$NAME$&lt;/size&gt;</string>
+        <string lang="zh">选择目标&#xA;&lt;size=14&gt;$NAME$&lt;/size&gt;</string>
+        <string lang="jp">ターゲットを選択&#xA;&lt;size=14&gt;$NAME$&lt;/size&gt;</string>
+    </set>
+    <set id="message-prompt-selectnextmodule">
+        <string lang="de">Wähle das nächste Modul zum Aktivieren</string>
+        <string lang="en">Select the next module to activate</string>
+        <string lang="fr">Sélectionnez le prochain module à activer</string>
+        <string lang="zh">选择下一个要激活的模块</string>
+        <string lang="jp">次のアクティブにするモジュールを選択</string>
+    </set>
+    <set id="bug-noactor">
+        <string lang="de">BUG: $TURN$ hat keinen Akteur.</string>
+        <string lang="en">BUG: $TURN$ has no actor</string>
+        <string lang="fr">BUG: $TURN$ n'a pas d'acteur</string>
+        <string lang="zh">BUG: $TURN$ 没有演员</string>
+        <string lang="jp">BUG: $TURN$ にアクターがありません</string>
+    </set>
+    <set id="bug-actordead">
+        <string lang="de">BUG: $NAME$ ist tot.</string>
+        <string lang="en">BUG: $NAME$ is dead.</string>
+        <string lang="fr">BUG: $NAME$ est mort.</string>
+        <string lang="zh">BUG: $NAME$ 已死亡。</string>
+        <string lang="jp">BUG: $NAME$ は死んでいます。</string>
+    </set>
+    <set id="bug-noabilities">
+        <string lang="de">BUG: $NAME$ hat keine Fähigkeiten.</string>
+        <string lang="en">BUG: $NAME$ has no abilities.</string>
+        <string lang="fr">BUG: $NAME$ n'a pas de capacités.</string>
+        <string lang="zh">BUG: $NAME$ 没有能力。</string>
+        <string lang="jp">BUG: $NAME$ に能力がありません。</string>
+    </set>
+    <set id="worldmessage-modulelock">
+        <string lang="de">Verriegelt</string>
+        <string lang="en">Locked</string>
+        <string lang="fr">Verrouillé</string>
+        <string lang="zh">锁定</string>
+        <string lang="jp">ロック</string>
+    </set>
+    <set id="worldmessage-modulelock-canonlybemovedoutsideofcombat">
+        <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
+        <string lang="en">Can only be moved outside of combat</string>
+        <string lang="fr">Peut être déplacé seulement en dehors du combat</string>
+        <string lang="zh">只能在战斗外移动</string>
+        <string lang="jp">戦闘外でのみ移動可能</string>
+    </set>
+    <set id="worldmessage-modulelock-cannotdragfromliverack">
+        <string lang="de">Wird aktiviert werden</string>
+        <string lang="en">Will be activated</string>
+        <string lang="fr">Va être activé</string>
+        <string lang="zh">将被激活</string>
+        <string lang="jp">アクティブになります</string>
+    </set>
+    <set id="worldmessage-module-nofreejacktowire">
+        <string lang="de">Verkabeln nicht möglich</string>
+        <string lang="en">Wiring impossible</string>
+        <string lang="fr">Cablage impossible</string>
+        <string lang="zh">无法连接</string>
+        <string lang="jp">配線不可能</string>
+    </set>
+    <set id="worldmessage-mutation">
+        <string lang="de">Mutation</string>
+        <string lang="en">Mutation</string>
+        <string lang="fr">Mutation</string>
+        <string lang="zh">突变</string>
+        <string lang="jp">突然変異</string>
+    </set>
+    <set id="worldmessage-cannottogglemoduleduringfiresequence">
+        <string lang="de">Umschalten während Feuersequenz nicht erlaubt</string>
+        <string lang="en">Cannot toggle during firing sequence</string>
+        <string lang="fr">Impossible de basculer pendant la séquence de tir</string>
+        <string lang="zh">不能在射击序列中切换</string>
+        <string lang="jp">発射シーケンス中に切り替えることはできません</string>
+    </set>
+    <set id="worldmessage-cannottogglemodulefromhere">
+        <string lang="de">Kann hier nicht umgeschaltet werden</string>
+        <string lang="en">Cannot toggle from here</string>
+        <string lang="fr">Impossible de basculer depuis ici</string>
+        <string lang="zh">不能从这里切换</string>
+        <string lang="jp">ここから切り替えることはできません</string>
+    </set>
+    <set id="worldmessage-addedstatuseffect">
+        <string lang="de">$b$+ $STATUS$$/b$</string>
+        <string lang="en">$b$+ $STATUS$$/b$</string>
+        <string lang="fr">$b$+ $STATUS$$/b$</string>
+        <string lang="zh">$b$+ $STATUS$$/b$</string>
+        <string lang="jp">$b$+ $STATUS$$/b$</string>
+    </set>
+    <set id="worldmessage-losesstatuseffect">
+        <string lang="de">$b$- $STATUS$$/b$</string>
+        <string lang="en">$b$- $STATUS$$/b$</string>
+        <string lang="fr">$b$- $STATUS$$/b$</string>
+        <string lang="zh">$b$- $STATUS$$/b$</string>
+        <string lang="jp">$b$- $STATUS$$/b$</string>
+    </set>
+    <set id="worldmessage-error-batterychargedischarge">
+        <string lang="de">Kann entweder geladen oder entladen werden</string>
+        <string lang="en">Can only be charged or discharged at a time</string>
+        <string lang="fr">Peut seulement être chargé ou déchargé à la fois</string>
+        <string lang="zh">只能充电或放电</string>
+        <string lang="jp">一度に充電または放電できます</string>
+    </set>
+    <set id="worldmessage-collectorlosesenergy">
+        <string lang="de">$energy$
+ungenutzt</string>
+        <string lang="en">$energy$
+unused</string>
+        <string lang="fr">$energy$
+non utilisé</string>
+        <string lang="zh">$energy$
+未使用</string>
+        <string lang="jp">$energy$
+未使用</string>
+    </set>
+    <set id="worldmessage-noplasma">
+        <string lang="de">Kein $plasma$</string>
+        <string lang="en">No $plasma$</string>
+        <string lang="fr">Pas du $plasma$</string>
+        <string lang="zh">没有 $plasma$</string>
+        <string lang="jp">$plasma$ がありません</string>
+    </set>
+    <set id="worldmessage-module-trashcompactor-notarget">
+        <string lang="de">Kein Modul zum opfern</string>
+        <string lang="en">No module to sacrifice</string>
+        <string lang="fr">Pas de cible à sacrifier</string>
+        <string lang="zh">没有模块可供献祭</string>
+        <string lang="jp">犠牲にするモジュールがありません</string>
+    </set>
+</localization>

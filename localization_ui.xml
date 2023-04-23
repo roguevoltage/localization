@@ -1,0 +1,614 @@
+<localization>
+    <set id="undefined">
+        <string lang="de">Lokalisationsfehler</string>
+        <string lang="en">Localization Error</string>
+        <string lang="fr">Erreur de localisation</string>
+        <string lang="zh">本地化错误</string>
+        <string lang="jp">ローカライズエラー</string>
+    </set>
+    <set id="(">
+        <string lang="de">(</string>
+        <string lang="en">(</string>
+        <string lang="fr">(</string>
+        <string lang="zh">(</string>
+        <string lang="jp">(</string>
+    </set>
+    <set id=")">
+        <string lang="de">)</string>
+        <string lang="en">)</string>
+        <string lang="fr">)</string>
+        <string lang="zh">(</string>
+        <string lang="jp">(</string>
+    </set>
+    <set id="tooltip-removewires">
+        <string lang="de">Kabel entfernen</string>
+        <string lang="en">Remove all wires</string>
+        <string lang="fr">Retirer câbles</string>
+        <string lang="zh">移除所有线缆</string>
+        <string lang="jp">すべてのワイヤーを取り外します</string>
+    </set>
+    <set id="tooltip-skipturn">
+        <string lang="de">Zug überspringen</string>
+        <string lang="en">Skip turn</string>
+        <string lang="fr">Passer le tour</string>
+        <string lang="zh">跳过回合</string>
+        <string lang="jp">ターンをスキップします</string>
+    </set>
+    <set id="ui-prototype">
+        <string lang="de">Prototyp</string>
+        <string lang="en">Prototype</string>
+        <string lang="fr">Prototype</string>
+        <string lang="zh">原型</string>
+        <string lang="jp">プロトタイプ</string>
+    </set>
+    <set id="ui-alpha-demo">
+        <string lang="de">Alpha Demo</string>
+        <string lang="en">Alpha Demo</string>
+        <string lang="fr">Alpha Démo</string>
+        <string lang="zh">测试版 演示</string>
+        <string lang="jp">アルファ・デモ</string>
+    </set>
+    <set id="ui-version">
+        <string lang="de">v. </string>
+        <string lang="en">v. </string>
+        <string lang="fr">v. </string>
+        <string lang="zh">v. </string>
+        <string lang="jp">v. </string>
+    </set>
+    <set id="ui-confidential">
+        <string lang="de">Nur für den internen Gebrauch</string>
+        <string lang="en">For internal use only</string>
+        <string lang="fr">À usage interne uniquement</string>
+        <string lang="zh">仅供内部使用</string>
+        <string lang="jp">内部のみの使用</string>
+    </set>
+    <set id="ui-discussion">
+        <string lang="de">Komm' ans Lagerfeuer:</string>
+        <string lang="en">Join the Campfire:</string>
+        <string lang="fr">Rejoignez le feu de camp:</string>
+        <string lang="zh">来到篝火旁</string>
+        <string lang="jp">キャンプファイヤーに参加する</string>
+    </set>
+    <set id="ui-newgame">
+        <string lang="de">Neuer Run</string>
+        <string lang="en">New Run</string>
+        <string lang="fr">Nouvelle Partie</string>
+        <string lang="zh">新的冒险</string>
+        <string lang="jp">新しい冒険</string>
+    </set>
+    <set id="ui-battleground">
+        <string lang="de">Battleground</string>
+        <string lang="en">Battleground</string>
+        <string lang="fr">Battleground</string>
+        <string lang="zh">戰場</string>
+        <string lang="jp">バトルグラウンド</string>
+    </set>
+    <set id="ui-continue">
+        <string lang="de">Run Fortsetzen</string>
+        <string lang="en">Continue Run</string>
+        <string lang="fr">Continuer Partie</string>
+        <string lang="zh">接著說</string>
+        <string lang="jp">冒険を続ける</string>
+    </set>
+    <set id="ui-credits">
+        <string lang="de">Credits</string>
+        <string lang="en">Credits</string>
+        <string lang="fr">Crédits</string>
+        <string lang="zh">鳴謝</string>
+        <string lang="jp">クレジット</string>
+    </set>
+    <set id="ui-tutorial">
+        <string lang="de">Tutorial</string>
+        <string lang="en">Tutorial</string>
+        <string lang="fr">Tutoriel</string>
+        <string lang="zh">教學</string>
+        <string lang="jp">チュートリアル</string>
+    </set>
+    <set id="ui-settings">
+        <string lang="de">Einstellungen</string>
+        <string lang="en">Settings</string>
+        <string lang="fr">Paramètres</string>
+        <string lang="zh">設置</string>
+        <string lang="jp">設定</string>
+    </set>
+    <set id="ui-quit">
+        <string lang="de">Beenden</string>
+        <string lang="en">Quit</string>
+        <string lang="fr">Quitter</string>
+        <string lang="zh">退出</string>
+        <string lang="jp">終了</string>
+    </set>
+    <set id="ui-green">
+        <string lang="de">&lt;color=green&gt;Grün&lt;/color&gt;</string>
+        <string lang="en">&lt;color=green&gt;Green&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=green&gt;Vert&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=green&gt;綠色&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=green&gt;緑&lt;/color&gt;</string>
+    </set>
+    <set id="ui-red">
+        <string lang="de">&lt;color=#FF5555&gt;Rot&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#FF5555&gt;Red&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#FF5555&gt;Rouge&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#FF5555&gt;紅色&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#FF5555&gt;赤&lt;/color&gt;</string>
+    </set>
+    <set id="ui-blue">
+        <string lang="de">&lt;color=#7272FF&gt;Blau&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#7272FF&gt;Blue&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#7272FF&gt;Bleu&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#7272FF&gt;藍色&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#7272FF&gt;青&lt;/color&gt;</string>
+    </set>
+    <set id="ui-universal">
+        <string lang="de">&lt;color=#FFFFFF&gt;Universell&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#FFFFFF&gt;Universel&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#FFFFFF&gt;通用&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#FFFFFF&gt;全ての&lt;/color&gt;</string>
+    </set>
+    <set id="ui-viral">
+        <string lang="de">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#FF00FF&gt;病毒&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#FF00FF&gt;ウイルス&lt;/color&gt;</string>
+    </set>
+    <set id="ui-continue-from-camp">
+        <string lang="de">Abenteuer Fortsetzen</string>
+        <string lang="en">Continue Adventure</string>
+        <string lang="fr">Reprendre
+la route</string>
+        <string lang="zh">接著說</string>
+        <string lang="jp">冒険を続ける</string>
+    </set>
+    <set id="ui-balance">
+        <string lang="de">Saldo</string>
+        <string lang="en">Balance</string>
+        <string lang="fr">Balance</string>
+        <string lang="zh">餘額</string>
+        <string lang="jp">残高</string>
+    </set>
+    <set id="ui-backtoracks">
+        <string lang="de">Zurück zu
+den Racks</string>
+        <string lang="en">Back to
+player racks</string>
+        <string lang="fr">Retour aux
+racks</string>
+        <string lang="zh">返回玩家架</string>
+        <string lang="jp">プレイヤーのラック
+に戻る</string>
+    </set>
+    <set id="ui-cancel">
+        <string lang="de">Abbrechen</string>
+        <string lang="en">Cancel</string>
+        <string lang="fr">Annuler</string>
+        <string lang="zh">取消</string>
+        <string lang="jp">キャンセル</string>
+    </set>
+    <set id="ui-error">
+        <string lang="de">FEHLER</string>
+        <string lang="en">ERROR</string>
+        <string lang="fr">ERREUR</string>
+        <string lang="zh">錯誤</string>
+        <string lang="jp">エラー</string>
+    </set>
+    <set id="ui-expenses">
+        <string lang="de">Kosten</string>
+        <string lang="en">Expenses</string>
+        <string lang="fr">Dépenses</string>
+        <string lang="zh">支出</string>
+        <string lang="jp">費用</string>
+    </set>
+    <set id="ui-startnewrun">
+        <string lang="de">Neuen Run
+Beginnen</string>
+        <string lang="en">Start 
+New Run</string>
+        <string lang="fr">Commencer 
+Nouvelle Partie</string>
+        <string lang="zh">開始新的遊戲</string>
+        <string lang="jp">新しいゲームを開始する</string>
+    </set>
+    <set id="ui-backtomenu">
+        <string lang="de">Zurück zum 
+Hauptmenü</string>
+        <string lang="en">Back to
+Menu</string>
+        <string lang="fr">Retour au
+Menu</string>
+        <string lang="zh">返回菜单</string>
+        <string lang="jp">メニューに戻る</string>
+    </set>
+    <set id="ui-leave">
+        <string lang="de">Verlassen</string>
+        <string lang="en">Leave</string>
+        <string lang="fr">Quitter</string>
+        <string lang="zh">離開</string>
+        <string lang="jp">離れる</string>
+    </set>
+    <set id="ui-new">
+        <string lang="de">NEU</string>
+        <string lang="en">NEW</string>
+        <string lang="fr">NOUVEAU</string>
+        <string lang="zh">新</string>
+        <string lang="jp">新しい</string>
+    </set>
+    <set id="ui-now">
+        <string lang="de">jetzt</string>
+        <string lang="en">now</string>
+        <string lang="fr">mainte
+nant</string>
+        <string lang="zh">現在</string>
+        <string lang="jp">今</string>
+    </set>
+    <set id="ui-revenue">
+        <string lang="de">Gewinn</string>
+        <string lang="en">Revenue</string>
+        <string lang="fr">Revenu</string>
+        <string lang="zh">收入</string>
+        <string lang="jp">収益</string>
+    </set>
+    <set id="ui-plasma">
+        <string lang="de">Plasma</string>
+        <string lang="en">Plasma</string>
+        <string lang="fr">Plasma</string>
+        <string lang="zh">等离子体</string>
+        <string lang="jp">プラズマ</string>
+    </set>
+    <set id="ui-rack">
+        <string lang="de">Rack</string>
+        <string lang="en">Rack</string>
+        <string lang="fr">Rack</string>
+        <string lang="zh">架</string>
+        <string lang="jp">ラック</string>
+    </set>
+    <set id="ui-readytofire">
+        <string lang="de">Bereit zum Handeln</string>
+        <string lang="en">Ready for action</string>
+        <string lang="fr">Prêt pour l'action</string>
+        <string lang="zh">準備好行動</string>
+        <string lang="jp">行動の準備ができている</string>
+    </set>
+    <set id="ui-skip">
+        <string lang="de">Überspringen</string>
+        <string lang="en">Skip</string>
+        <string lang="fr">Passer</string>
+        <string lang="zh">跳過</string>
+        <string lang="jp">スキップ</string>
+    </set>
+    <set id="ui-screenselection-story">
+        <string lang="de">level</string>
+        <string lang="en">stage</string>
+        <string lang="fr">niveau</string>
+        <string lang="zh">水平</string>
+        <string lang="jp">ステージ</string>
+    </set>  
+    <set id="ui-screenselection-module">
+        <string lang="de">module</string>
+        <string lang="en">module</string>
+        <string lang="fr">module</string>
+        <string lang="zh">模組</string>
+        <string lang="jp">モジュール</string>
+    </set>
+    <set id="ui-loot">
+        <string lang="de">Loot</string>
+        <string lang="en">Loot</string>
+        <string lang="fr">Butin</string>
+        <string lang="zh">赃物</string>
+        <string lang="jp">分捕り品</string>
+    </set>
+    <set id="ui-loot-skip">
+        <string lang="de">Über-
+springen
+(+$SKIPBONUS$ $plasmaicon$)</string>
+        <string lang="en">Skip
+(+$SKIPBONUS$ $plasmaicon$)</string>
+        <string lang="fr">Passer 
+(+$SKIPBONUS$ $plasmaicon$)</string>
+        <string lang="zh">跳過
+(+$SKIPBONUS$ $plasmaicon$)</string>
+        <string lang="jp">スキップ
+(+$SKIPBONUS$ $plasmaicon$)</string>
+    </set>
+    <set id="ui-loot-reroll">
+        <string lang="de">Neu
+Auswürfeln 
+(-$REROLLCOST$ $plasmaicon$)</string>
+        <string lang="en">Reroll 
+(-$REROLLCOST$ $plasmaicon$)</string>
+        <string lang="fr">n/a  
+(-$REROLLCOST$ $plasmaicon$)</string>
+        <string lang="zh">重新擲骰
+(-$REROLLCOST$ $plasmaicon$)</string>
+        <string lang="jp">再ロール
+(-$REROLLCOST$ $plasmaicon$)</string>
+    </set>
+    <set id="ui-loot-continue">
+        <string lang="de">Weiter</string>
+        <string lang="en">Continue</string>
+        <string lang="fr">Continuer</string>
+        <string lang="zh">接著說</string>
+        <string lang="jp">続行</string>
+    </set>
+    <set id="ui-loot-continue-timed">
+        <string lang="de">Weiter ($TIMER$)</string>
+        <string lang="en">Continue ($TIMER$)</string>
+        <string lang="fr">Continuer ($TIMER$)</string>
+        <string lang="zh">接著說 ($TIMER$)</string>
+        <string lang="jp">続行 ($TIMER$)</string>
+    </set>
+    <set id="ui-skill">
+        <string lang="de">Fähigkeit</string>
+        <string lang="en">Skill</string>
+        <string lang="fr">Compétence</string>
+        <string lang="zh">技能</string>
+        <string lang="jp">スキル</string>
+    </set>
+    <set id="ui-timeline">
+        <string lang="de">Zeitleiste</string>
+        <string lang="en">Timeline</string>
+        <string lang="fr">Axe de Temps</string>
+        <string lang="zh">時間軸</string>
+        <string lang="jp">タイムライン</string>
+    </set>
+    <set id="ui-timeline-order-0">
+        <string lang="de">0.</string>
+        <string lang="en">0&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">0&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">0号</string>
+        <string lang="jp">0番目</string>
+    </set>
+    <set id="ui-timeline-order-1">
+        <string lang="de">1.</string>
+        <string lang="en">1&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;st&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">1&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;er&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第一</string>
+        <string lang="jp">1位</string>
+    </set>
+    <set id="ui-timeline-order-2">
+        <string lang="de">2.</string>
+        <string lang="en">2&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;nd&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">2&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第二</string>
+        <string lang="jp">2位</string>
+    </set>
+    <set id="ui-timeline-order-3">
+        <string lang="de">3.</string>
+        <string lang="en">3&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;rd&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">3&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第三</string>
+        <string lang="jp">3位</string>
+    </set>
+    <set id="ui-timeline-order-4">
+        <string lang="de">4.</string>
+        <string lang="en">4&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">4&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第四</string>
+        <string lang="jp">4位</string>
+    </set>
+    <set id="ui-timeline-order-5">
+        <string lang="de">5.</string>
+        <string lang="en">5&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">5&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第五</string>
+        <string lang="jp">5位</string>
+    </set>
+    <set id="ui-timeline-order-6">
+        <string lang="de">6.</string>
+        <string lang="en">6&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">6&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第六</string>
+        <string lang="jp">6位</string>
+    </set>
+    <set id="ui-timeline-order-7">
+        <string lang="de">7.</string>
+        <string lang="en">7&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">7&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第七</string>
+        <string lang="jp">7位</string>
+    </set>
+    <set id="ui-timeline-order-8">
+        <string lang="de">8.</string>
+        <string lang="en">8&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">8&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第八</string>
+        <string lang="jp">8位</string>
+    </set>
+    <set id="ui-timeline-order-9">
+        <string lang="de">9.</string>
+        <string lang="en">9&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="fr">9&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+        <string lang="zh">第九</string>
+        <string lang="jp">9位</string>
+    </set>
+    <set id="ui-unconscious">
+        <string lang="de">Bewusstlos</string>
+        <string lang="en">Unconscious</string>
+        <string lang="fr">Inconscient</string>
+        <string lang="zh">昏迷</string>
+        <string lang="jp">意識不明</string>
+    </set>
+    <set id="ui-heal1">
+        <string lang="de">Heilung 1</string>
+        <string lang="en">Heal 1</string>
+        <string lang="fr">Soin 1</string>
+        <string lang="zh">治疗1</string>
+        <string lang="jp">回復1</string>
+    </set>
+    <set id="ui-fullheal">
+        <string lang="de">Vollständig Heilen</string>
+        <string lang="en">Full Heal</string>
+        <string lang="fr">Soin complet</string>
+        <string lang="zh">完全治疗</string>
+        <string lang="jp">完全回復</string>
+    </set>
+    <set id="ui-revive">
+        <string lang="de">Wiederbeleben</string>
+        <string lang="en">Resuscitate</string>
+        <string lang="fr">Résurrection</string>
+        <string lang="zh">复活</string>
+        <string lang="jp">蘇生</string>
+    </set>
+    <set id="ui-automaticlocalization">
+        <string lang="de">Diese Lokalisierung wurde automatisch erzeugt.
+Wenn du dazu beitragen möchtest, komm auf unseren Discord-Server:</string>
+        <string lang="en">This localization has been automatically generated.
+If you want to contribute, join our Discord server:</string>
+        <string lang="fr">Cette localisation a été générée semi-automatiquement.
+Si vous souhaitez contribuer, rejoignez notre serveur Discord:</string>
+        <string lang="zh">此本地化已自动生成。
+如果您想要贡献, 请加入我们的Discord服务器:</string>
+        <string lang="jp">このローカライズは自動生成されました。
+貢献したい場合は、Discordサーバーに参加してください:</string>
+    </set>
+    <set id="ui-credits-gameby">
+        <string lang="de">Ein Spiel von $b$Horizont Computergrafik$/b$</string>
+        <string lang="en">A game by $b$Horizont Computergrafik$/b$</string>
+        <string lang="fr">Un jeu de $b$Horizont Computergrafik$/b$</string>
+        <string lang="zh">由$b$Horizont Computergrafik$/b$制作</string>
+        <string lang="jp">$b$Horizont Computergrafik$/b$製作</string>
+    </set>
+    <set id="ui-settings-music">
+        <string lang="de">Musik</string>
+        <string lang="en">Music</string>
+        <string lang="fr">Musique</string>
+        <string lang="zh">音乐</string>
+        <string lang="jp">音楽</string>
+    </set>
+    <set id="ui-settings-effects">
+        <string lang="de">Effekte</string>
+        <string lang="en">Effects</string>
+        <string lang="fr">Effets</string>
+        <string lang="zh">音效</string>
+        <string lang="jp">効果音</string>
+    </set>
+    <set id="ui-settings-ambience">
+        <string lang="de">Umgebung</string>
+        <string lang="en">Ambience</string>
+        <string lang="fr">Ambiance</string>
+        <string lang="zh">环境音</string>
+        <string lang="jp">環境音</string>
+    </set>
+    <set id="ui-settings-fullscreen">
+        <string lang="de">Vollbild</string>
+        <string lang="en">Full Screen</string>
+        <string lang="fr">Plein écran</string>
+        <string lang="zh">全屏</string>
+        <string lang="jp">フルスクリーン</string>
+    </set>
+    <set id="ui-settings-autofiremodules">
+        <string lang="de">Automatische Einzelzielauswahl</string>
+        <string lang="en">Automatic single target selection</string>
+        <string lang="fr">Sélection automatique de seule cible</string>
+        <string lang="zh">自动选择模块目标</string>
+        <string lang="jp">モジュールの自動ターゲット選択</string>
+    </set>
+    <set id="ui-settings-datacollection">
+        <string lang="de">Statistiken Bereitstellen</string>
+        <string lang="en">Provide Statistics</string>
+        <string lang="fr">Fournir Statistiques</string>
+        <string lang="zh">提供统计数据</string>
+        <string lang="jp">統計データを提供</string>
+    </set>
+    <set id="ui-settings-datacollection-description">
+        <string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Deine Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit zu informieren.</string>
+        <string lang="en">Support development by transmitting anonymous run statistics. Your data will only be used to inform questions of game balancing and difficulty.</string>
+        <string lang="fr">Envoi de statistiques anonymes de la partie pour aider au développement. Vos données seront uniquement utilisées pour aider à l'équilibrage et la difficulté du jeu.</string>
+        <string lang="zh">通过发送匿名的游戏数据来支持开发。您的数据只会用于平衡和难度的调整。</string>
+        <string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
+    </set>
+    <set id="ui-settings-cleardata">
+        <string lang="de">Fortschritt zurücksetzen</string>
+        <string lang="en">Clear all progress</string>
+        <string lang="fr">Effacer tout le progrès</string>
+        <string lang="zh">清除所有进度</string>
+        <string lang="jp">すべての進捗をクリア</string>
+    </set>
+    <set id="ui-settings-cleardata-description">
+        <string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig.
+Achtung: Die Daten können nicht wiederhergestellt werden.</string>
+        <string lang="en">Permanently removes savegame, progression and preferences.
+Careful: Data cannot be retrieved.</string>
+        <string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences.
+Attention: les données ne peuvent pas être récupérées.</string>
+        <string lang="zh">永久删除存档、进度和偏好设置。
+注意：数据无法恢复。</string>
+        <string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。
+注意：データは復元できません。</string>
+    </set>
+    <set id="ui-settings-cleardata-clear">
+        <string lang="de">Permanent
+Löschen</string>
+        <string lang="en">Permanently 
+Clear</string>
+        <string lang="fr">Effacer</string>
+        <string lang="zh">永久清除</string>
+        <string lang="jp">完全にクリア</string>
+    </set>
+    <set id="ui-settings-saveandexit">
+        <string lang="de">Speichern &amp; Run Beenden</string>
+        <string lang="en">Save &amp; Exit Run </string>
+        <string lang="fr">Sauvegarder &amp; Quitter le Run</string>
+        <string lang="zh">保存并退出游戏</string>
+        <string lang="jp">保存してRunを終了</string>
+    </set>
+    <set id="ui-settings-abandonrun">
+        <string lang="de">Run Abbrechen</string>
+        <string lang="en">Abandon Run</string>
+        <string lang="fr">Abandonner le Run</string>
+        <string lang="zh">放弃游戏</string>
+        <string lang="jp">Runを中止</string>
+    </set>
+    <set id="ui-loot-hint-single">
+        <string lang="de">Ziehe das Loot-Modul in dein Rack</string>
+        <string lang="en">Drag the loot module into your rack</string>
+        <string lang="fr">Glissez le module loot dans votre rack</string>
+        <string lang="zh">将战利品模块拖入你的机架</string>
+        <string lang="jp">戦利品モジュールをラックにドラッグ</string>
+    </set>
+    <set id="ui-loot-hint-multiple">
+        <string lang="de">Ziehe das Modul deiner Wahl in dein Rack</string>
+        <string lang="en">Drag the module of your choice into your rack</string>
+        <string lang="fr">Glissez le module de votre choix dans votre rack</string>
+        <string lang="zh">将你选择的模块拖入你的机架</string>
+        <string lang="jp">選択したモジュールをラックにドラッグ</string>
+    </set>
+    <set id="ui-loot-selection-finished">
+        <string lang="de">Belohnung aufgesammelt</string>
+        <string lang="en">Reward collected</string>
+        <string lang="fr">Récompense collectée</string>
+        <string lang="zh">奖励已收集</string>
+        <string lang="jp">報酬を収集しました</string>
+    </set>
+    <set id="selectionscreen-subtitle">
+        <string lang="de">Wähle ein Team aus
+zwei Charakteren</string>
+        <string lang="en">Select a squad of 
+two characters</string>
+        <string lang="fr">Choisissez une équipe de
+deux héros</string>
+        <string lang="zh">选择一个由两个角色组成的小队</string>
+        <string lang="jp">2人のキャラクターでチームを選択</string>
+    </set>
+    <set id="selectionscreen-button">
+        <string lang="de">Beginnt euer 
+Abenteuer!</string>
+        <string lang="en">Start the 
+Adventure!</string>
+        <string lang="fr">Démarrez 
+votre aventure!</string>
+        <string lang="zh">开始冒险！</string>
+        <string lang="jp">冒険を開始！</string>
+    </set>
+    <set id="toggled-module">
+        <string lang="de">Wird während der Feuersequenz aktiviert, 
+wenn angeschaltet</string>
+        <string lang="en">Will be activated during firing sequence, 
+if switched on</string>
+        <string lang="fr">Sera activé pendant la séquence de tir,
+si activé</string>
+        <string lang="zh">如果开启，将在射击序列中被激活</string>
+        <string lang="jp">オンに設定されている場合、発射シーケンス中にアクティブになります</string>
+    </set>
+</localization>

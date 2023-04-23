@@ -1,0 +1,114 @@
+<localization>
+    <set id="unlock-requirement">
+        <string lang="de">Benötigt: </string>
+        <string lang="en">Requires: </string>
+        <string lang="fr">Prérequis: </string>
+        <string lang="zh">需要: </string>
+        <string lang="jp">必要条件: </string>
+    </set>
+    <set id="unlock-clicktounlock">
+        <string lang="de">&lt;color=#67FF73&gt;Zum Freischalten klicken&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#67FF73&gt;Click to unlock&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#67FF73&gt;n/a&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#67FF73&gt;点击解锁&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#67FF73&gt;クリックしてアンロック&lt;/color&gt;</string>
+    </set>
+    <set id="unlock-unlocking">
+        <string lang="de">&lt;color=#67FF73&gt;Wird freigeschaltet&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#67FF73&gt;Unlocking&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#67FF73&gt;n/a&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#67FF73&gt;正在解锁&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#67FF73&gt;アンロック中&lt;/color&gt;</string>
+    </set>
+    <set id="name-campstructure-campfire">
+        <string lang="de">Lagerfeuer</string>
+        <string lang="en">Campfire</string>
+        <string lang="fr">Feu de Camp</string>
+        <string lang="zh">营火</string>
+        <string lang="jp">キャンプファイア</string>
+    </set>
+    <set id="name-campstructure-hangar">
+        <string lang="de">Hangar</string>
+        <string lang="en">Hangar</string>
+        <string lang="fr">Hangar</string>
+        <string lang="zh">机库</string>
+        <string lang="jp">ハンガー</string>
+    </set>
+    <set id="name-campstructure-refinery">
+        <string lang="de">Raffinerie</string>
+        <string lang="en">Refinery</string>
+        <string lang="fr">Raffinerie</string>
+        <string lang="zh">精炼厂</string>
+        <string lang="jp">リファインリー</string>
+    </set>
+    <set id="name-campstructure-silo">
+        <string lang="de">Silo</string>
+        <string lang="en">Silo</string>
+        <string lang="fr">Silo</string>
+        <string lang="zh">仓库</string>
+        <string lang="jp">シロ</string>
+    </set>
+    <set id="name-campstructure-scrapyard">
+        <string lang="de">Schrotthalde</string>
+        <string lang="en">Scrapyard</string>
+        <string lang="fr">Parc à Ferraille</string>
+        <string lang="zh">废料场</string>
+        <string lang="jp">スクラップヤード</string>
+    </set>
+    <set id="name-campstructure-powerplant">
+        <string lang="de">Kraftwerk</string>
+        <string lang="en">Power Plant</string>
+        <string lang="fr">Centrale</string>
+        <string lang="zh">发电厂</string>
+        <string lang="jp">パワープラント</string>
+    </set>
+    <set id="name-campstructure-gradarbeacon">
+        <string lang="de">Gradar Leuchtfeuer</string>
+        <string lang="en">Gradar Beacon</string>
+        <string lang="fr">Phare Gradar</string>
+        <string lang="zh">重力雷达信标</string>
+        <string lang="jp">重力レーダービーコン</string>
+    </set>
+    <set id="description-campstructure-campfire">
+        <string lang="de">Die Grundlage eines jeden Camps</string>
+        <string lang="en">The foundation of every camp</string>
+        <string lang="fr">La base de tous les camps</string>
+        <string lang="zh">每个营地的基础</string>
+        <string lang="jp">キャンプの基礎</string>
+    </set>
+    <set id="description-campstructure-hangar">
+        <string lang="de">Opa Slopper hat hier an seinen Grav-Robotern getüftelt</string>
+        <string lang="en">Grandpa Slopper used to tinker on his Grav.-Robots in here</string>
+        <string lang="fr">Papi Slopper ici a bricolé à ses robots grav.</string>
+        <string lang="zh">这是斯洛珀爷爷用来修理重力机器人的地方</string>
+        <string lang="jp">ここはスロッパおじいちゃんが重力ロボットを修理していた場所です</string>
+    </set>
+    <set id="description-campstructure-scrapyard">
+        <string lang="de">Hier lagern die Bewohner alles Nützliche, auf was sie auf ihren Streifzügen stoßen</string>
+        <string lang="en">Here the residents store everything useful they come across on their forays</string>
+        <string lang="fr">Ici, les résidents stockent tout ce qui leur est utile lors de leurs incursions</string>
+        <string lang="zh">这里是居民们在探险中发现的有用物品的存放地</string>
+        <string lang="jp">ここでは、居住者が探検で見つけたすべての有用なものを保管しています</string>
+    </set>
+    <set id="description-campstructure-powerplant">
+        <string lang="de">Eine neue Energiequelle für unser Lager</string>
+        <string lang="en">A sustainable source of energy for our camp</string>
+        <string lang="fr">Une source d'énergie durable pour notre camp</string>
+        <string lang="zh">为我们的营地提供可持续的能源</string>
+        <string lang="jp">キャンプの持続可能なエネルギー源</string>
+    </set>
+    <set id="description-campstructure-gradarbeacon">
+        <string lang="de">Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
+        <string lang="en">Our only means to contact other survivors</string>
+        <string lang="fr">Notre seul moyen de contacter d'autres survivants</string>
+        <string lang="zh">我们唯一的联系其他幸存者的方式</string>
+        <string lang="jp">他の生存者との唯一の方法</string>
+    </set>
+    <set id="description-campstructure-refinery">
+        <string lang="de">n/a</string>
+        <string lang="en">n/a</string>
+        <string lang="fr">n/a</string>
+        <string lang="zh">n/a</string>
+        <string lang="jp">n/a</string>
+    </set>
+</localization>

@@ -1,0 +1,737 @@
+<localization>
+    <set id="skill-attack">
+        <string lang="de">Angriff</string>
+        <string lang="en">Attack</string>
+        <string lang="fr">Attaque</string>
+        <string lang="zh">攻击</string>
+        <string lang="jp">攻撃</string>
+    </set>
+    <set id="skill-attackWithGrav">
+        <string lang="de">Angriff + Grav.</string>
+        <string lang="en">Attack + Grav.</string>
+        <string lang="fr">Attaque + Grav.</string>
+        <string lang="zh">攻击+重力</string>
+        <string lang="jp">攻撃+重力</string>
+    </set>
+    <set id="skill-onDeath">
+        <string lang="de">Beim Tod</string>
+        <string lang="en">On Death</string>
+        <string lang="fr">À la mort</string>
+        <string lang="zh">死亡时</string>
+        <string lang="jp">死亡時</string>
+    </set>
+    <set id="skill-defense">
+        <string lang="de">Defensiv</string>
+        <string lang="en">Defense</string>
+        <string lang="fr">Defense</string>
+        <string lang="zh">防御</string>
+        <string lang="jp">防御</string>
+    </set>
+    <set id="skill-gravmanipulation">
+        <string lang="de">Grav.-Manipulation</string>
+        <string lang="en">Grav. Manipulation</string>
+        <string lang="fr">Manipulation Grav.</string>
+        <string lang="zh">重力操控</string>
+        <string lang="jp">重力操作</string>
+    </set>
+    <set id="skill-support">
+        <string lang="de">Unterstützung</string>
+        <string lang="en">Support</string>
+        <string lang="fr">Support</string>
+        <string lang="zh">支援</string>
+        <string lang="jp">支援</string>
+    </set>
+    <set id="skill-buff">
+        <string lang="de">Buff</string>
+        <string lang="en">Buff</string>
+        <string lang="fr">Buff</string>
+        <string lang="zh">增益</string>
+        <string lang="jp">バフ</string>
+    </set>
+    <set id="skill-debuff">
+        <string lang="de">Debuff</string>
+        <string lang="en">Debuff</string>
+        <string lang="fr">Debuff</string>
+        <string lang="zh">减益</string>
+        <string lang="jp">デバフ</string>
+    </set>
+    <set id="skill-passive">
+        <string lang="de">Passiv</string>
+        <string lang="en">Passive</string>
+        <string lang="fr">Passif</string>
+        <string lang="zh">被动</string>
+        <string lang="jp">パッシブ</string>
+    </set>
+    <set id="skill-modular">
+        <string lang="de">Modular</string>
+        <string lang="en">Modular</string>
+        <string lang="fr">Modulaire</string>
+        <string lang="zh">模块化</string>
+        <string lang="jp">モジュラー</string>
+    </set>
+    <set id="skill-might">
+        <string lang="de">Macht</string>
+        <string lang="en">Might</string>
+        <string lang="fr">Pouvoir</string>
+        <string lang="zh">力量</string>
+        <string lang="jp">力量</string>
+    </set>
+    <set id="name-skill-damageinheightofpower">
+        <string lang="de">Mächtiger Stromschlag</string>
+        <string lang="en">Mighty Zap</string>
+        <string lang="fr">Coup puissant</string>
+        <string lang="zh">强力电击</string>
+        <string lang="jp">強力な電撃</string>
+    </set>
+    <set id="name-skill-beak">
+        <string lang="de">Schnabel</string>
+        <string lang="en">Beak</string>
+        <string lang="fr">Bec</string>
+        <string lang="zh">喙</string>
+        <string lang="jp">ビーク</string>
+    </set>
+    <set id="name-skill-claw">
+        <string lang="de">Kralle</string>
+        <string lang="en">Claw</string>
+        <string lang="fr">Griffe</string>
+        <string lang="zh">爪</string>
+        <string lang="jp">爪</string>
+    </set>
+    <set id="name-skill-croak">
+        <string lang="de">Betäubendes Quaken $mighticon$</string>
+        <string lang="en">Deafening Croak $mighticon$</string>
+        <string lang="fr">Cri étourdissant $mighticon$</string>
+        <string lang="zh">震耳欲聋的呱呱声 $mighticon$</string>
+        <string lang="jp">耳をつんざくような鳴き声 $mighticon$</string>
+    </set>
+    <set id="name-skill-gravbite">
+        <string lang="de">Grav.-Biss</string>
+        <string lang="en">Grav. Bite</string>
+        <string lang="fr">Morsure Grav.</string>
+        <string lang="zh">重力咬</string>
+        <string lang="jp">重力の噛みつき</string>
+    </set>
+    <set id="name-skill-equilibriumdissipation">
+        <string lang="de">Equilibrium</string>
+        <string lang="en">Equilibrium</string>
+        <string lang="fr">Équilibre</string>
+        <string lang="zh">平衡</string>
+        <string lang="jp">均衡</string>
+    </set>
+    <set id="name-skill-encrustmodule">
+        <string lang="de">Harz $crusticon$</string>
+        <string lang="en">Resin $crusticon$</string>
+        <string lang="fr">Résine $crusticon$</string>
+        <string lang="zh">树脂 $crusticon$</string>
+        <string lang="jp">樹脂 $crusticon$</string>
+    </set>
+    <set id="name-skill-moduleselfencrusting-aoe">
+        <string lang="de">Kristall-Resonanz $crusticon$</string>
+        <string lang="en">Crystal Resonance $crusticon$</string>
+        <string lang="fr">Résonance Cristal $crusticon$</string>
+        <string lang="zh">水晶共振 $crusticon$</string>
+        <string lang="jp">クリスタル・レゾナンス $crusticon$</string>
+    </set>
+    <set id="name-skill-enemyspawn-gravpolyp">
+        <string lang="de">Grav. Ökologie</string>
+        <string lang="en">Grav. Ecology</string>
+        <string lang="fr">Ecologie Grav.</string>
+        <string lang="zh">重力生态</string>
+        <string lang="jp">重力の生態学</string>
+    </set>
+    <set id="name-skill-enemyspawn-protozoon">
+        <string lang="de">Teilen</string>
+        <string lang="en">Divide</string>
+        <string lang="fr">Diviser</string>
+        <string lang="zh">分裂</string>
+        <string lang="jp">分裂</string>
+    </set>
+    <set id="name-skill-enemyspawn-slime">
+        <string lang="de">Duplizieren</string>
+        <string lang="en">Duplicate</string>
+        <string lang="fr">Dupliquer</string>
+        <string lang="zh">复制</string>
+        <string lang="jp">複製</string>
+    </set>
+    <set id="name-skill-gravimpulse">
+        <string lang="de">Grav.-Impuls</string>
+        <string lang="en">Grav. Impulse</string>
+        <string lang="fr">Impulse Grav.</string>
+        <string lang="zh">重力冲击</string>
+        <string lang="jp">重力の衝撃</string>
+    </set>
+    <set id="name-skill-gravimplode">
+        <string lang="de">Grav.-Implosion</string>
+        <string lang="en">Grav. Implosion</string>
+        <string lang="fr">Implosion Grav.</string>
+        <string lang="zh">重力聚爆</string>
+        <string lang="jp">重力の崩壊</string>
+    </set>
+    <set id="name-skill-gravimplode-one">
+        <string lang="de">Grav.-Implosion 1</string>
+        <string lang="en">Grav. Implosion 1</string>
+        <string lang="fr">Implosion Grav. 1</string>
+        <string lang="zh">重力聚爆 1</string>
+        <string lang="jp">重力の崩壊 1</string>
+    </set>
+    <set id="name-skill-gravimplode-bossshroom">
+        <string lang="de">Totale Grav.-Implosion</string>
+        <string lang="en">Total Grav. Implosion</string>
+        <string lang="fr">Implosion Grav. Totale</string>
+        <string lang="zh">重力聚爆</string>
+        <string lang="jp">重力の崩壊</string>
+    </set>
+    <set id="name-skill-gravspore-positive">
+        <string lang="de">Grav.-Sporen $grav+1$</string>
+        <string lang="en">Grav. Spore $grav+1$</string>
+        <string lang="fr">Spore Grav. $grav+1$</string>
+        <string lang="zh">重力孢子 $grav+1$</string>
+        <string lang="jp">重力の孢子 $grav+1$</string>
+    </set>
+    <set id="name-skill-gravspore-positive-bossshroom">
+        <string lang="de">Boss-Sporen $grav+2$</string>
+        <string lang="en">Boss Spores $grav+2$</string>
+        <string lang="fr">Spore Boss $grav+2$</string>
+        <string lang="zh">重力孢子 $grav+2$</string>
+        <string lang="jp">重力の孢子 $grav+2$</string>
+    </set>
+    <set id="name-skill-gravsting">
+        <string lang="de">Grav.-Stachel $grav+1$</string>
+        <string lang="en">Grav. Sting $grav+1$</string>
+        <string lang="fr">Piqure Grav. $grav+1$</string>
+        <string lang="zh">重力刺痛 $grav+1$</string>
+        <string lang="jp">重力の刺 $grav+1$</string>
+    </set>
+    <set id="name-skill-leftclaw">
+        <string lang="de">Linke Schere $grav+2$</string>
+        <string lang="en">Left Claw $grav+2$</string>
+        <string lang="fr">Pince Gauche $grav+2$</string>
+        <string lang="zh">左爪 $grav+2$</string>
+        <string lang="jp">左爪 $grav+2$</string>
+    </set>
+    <set id="name-skill-gravsting2">
+        <string lang="de">Grav.-Stachel $grav+2$</string>
+        <string lang="en">Grav. Sting $grav+2$</string>
+        <string lang="fr">Piqure Grav. $grav+2$</string>
+        <string lang="zh">重力刺痛 $grav+2$</string>
+        <string lang="jp">重力の刺 $grav+2$</string>
+    </set>
+    <set id="name-skill-rightclaw">
+        <string lang="de">Rechte Schere $crusticon$</string>
+        <string lang="en">Right Claw $crusticon$</string>
+        <string lang="fr">Pince Droite $crusticon$</string>
+        <string lang="zh">右爪 $crusticon$</string>
+        <string lang="jp">右爪 $crusticon$</string>
+    </set>
+    <set id="name-skill-gravtransfer">
+        <string lang="de">Grav.-Transfer</string>
+        <string lang="en">Grav. Transfer</string>
+        <string lang="fr">Transfer Grav.</string>
+        <string lang="zh">重力转移</string>
+        <string lang="jp">重力の転移</string>
+    </set>
+    <set id="name-skill-gravpush-1">
+        <string lang="de">Grav.-Stoß $grav+1$</string>
+        <string lang="en">Grav. Push $grav+1$</string>
+        <string lang="fr">Poussée Grav. $grav+1$</string>
+        <string lang="zh">重力冲击 $grav+1$</string>
+        <string lang="jp">重力の衝撃 $grav+1$</string>
+    </set>
+    <set id="name-skill-gravpush-2">
+        <string lang="de">Grav.-Stoß $grav+2$</string>
+        <string lang="en">Grav. Push $grav+2$</string>
+        <string lang="fr">Poussée Grav. $grav+2$</string>
+        <string lang="zh">重力冲击 $grav+2$</string>
+        <string lang="jp">重力の衝撃 $grav+2$</string>
+    </set>
+    <set id="name-skill-gravpush-positive3">
+        <string lang="de">Grav.-Stoß $3grav+$</string>
+        <string lang="en">Grav. Push $3grav+$</string>
+        <string lang="fr">Poussée Grav. $3grav+$</string>
+        <string lang="zh">重力冲击 $3grav+$</string>
+        <string lang="jp">重力の衝撃 $3grav+$</string>
+    </set>
+    <set id="name-skill-lightningstrike">
+        <string lang="de">Blitzschlag $VALUE$</string>
+        <string lang="en">Lightning Strike $VALUE$</string>
+        <string lang="fr">Coup de Foudre $VALUE$</string>
+        <string lang="zh">闪电打击 $VALUE$</string>
+        <string lang="jp">雷撃 $VALUE$</string>
+    </set>
+    <set id="name-skill-lightningstrike-cutoff">
+        <string lang="de">Blitzschlag $VALUE$</string>
+        <string lang="en">Lightning Strike $VALUE$</string>
+        <string lang="fr">Coup de Foudre $VALUE$</string>
+        <string lang="zh">闪电打击 $VALUE$</string>
+        <string lang="jp">雷撃 $VALUE$</string>
+    </set>
+    <set id="name-skill-modularrackfire">
+        <string lang="de">Spannung</string>
+        <string lang="en">Voltage</string>
+        <string lang="fr">Voltage</string>
+        <string lang="zh">电压</string>
+        <string lang="jp">電圧</string>
+    </set>
+    <set id="name-skill-moduleplasmacrepitation">
+        <string lang="de">Plasma-Verpuffung</string>
+        <string lang="en">Plasma Crepitation</string>
+        <string lang="fr">Crépitation Plasma</string>
+        <string lang="zh">等离子爆裂</string>
+        <string lang="jp">プラズマ爆燃</string>
+    </set>
+    <set id="name-skill-modulegravrecoil-slime">
+        <string lang="de">Verschleimen</string>
+        <string lang="en">Ooze</string>
+        <string lang="fr">Glaire</string>
+        <string lang="zh">粘液</string>
+        <string lang="jp">粘液</string>
+    </set>
+    <set id="name-skill-modulegravrecoil-bosscrocodile">
+        <string lang="de">Rohe Gewalt</string>
+        <string lang="en">Brute Force</string>
+        <string lang="fr">Force Brutale</string>
+        <string lang="zh">野蛮力量</string>
+        <string lang="jp">野蛮力</string>
+    </set>
+    <set id="name-skill-modulespawn-timebomb">
+        <string lang="de">Zeitbombe</string>
+        <string lang="en">Time Bomb</string>
+        <string lang="fr">Bombe à Retardement</string>
+        <string lang="zh">定时炸弹</string>
+        <string lang="jp">タイムボム</string>
+    </set>
+    <set id="name-skill-paw">
+        <string lang="de">Pranke</string>
+        <string lang="en">Paw</string>
+        <string lang="fr">Patte</string>
+        <string lang="zh">爪子</string>
+        <string lang="jp">足</string>
+    </set>
+    <set id="name-skill-paw2">
+        <string lang="de">Pranke 2</string>
+        <string lang="en">Paw 2</string>
+        <string lang="fr">Patte 2</string>
+        <string lang="zh">爪子 2</string>
+        <string lang="jp">足 2</string>
+    </set>
+    <set id="name-skill-powertodamage">
+        <string lang="de">Zap $mighticon$</string>
+        <string lang="en">Zap $mighticon$</string>
+        <string lang="fr">Zapper $mighticon$</string>
+        <string lang="zh">闪电 $mighticon$</string>
+        <string lang="jp">ザップ $mighticon$</string>
+    </set>
+    <set id="name-skill-powertodamage-gravpolyp">
+        <string lang="de">Zap $mighticon$</string>
+        <string lang="en">Zap $mighticon$</string>
+        <string lang="fr">Zapper $mighticon$</string>
+        <string lang="zh">闪电 $mighticon$</string>
+        <string lang="jp">ザップ $mighticon$</string>
+    </set>
+    <set id="name-skill-ondeath-hurtcrabbody">
+        <string lang="de">Körperteil</string>
+        <string lang="en">Body Part</string>
+        <string lang="fr">Partie du Corps</string>
+        <string lang="zh">身体部位</string>
+        <string lang="jp">身体部位</string>
+    </set>
+    <set id="name-skill-ondeath-vulnerability">
+        <string lang="de">Durchdringender Schrei</string>
+        <string lang="en">Piercing Shriek</string>
+        <string lang="fr">Cri Perçant</string>
+        <string lang="zh">穿透尖叫</string>
+        <string lang="jp">貫通の叫び</string>
+    </set>
+    <set id="name-skill-ondeath-gravaoe-plus">
+        <string lang="de">Grav.-Austritt $grav+1$</string>
+        <string lang="en">Grav. Spill $grav+1$</string>
+        <string lang="fr">Déversement Grav. $grav+1$</string>
+        <string lang="zh">重力溢出 $grav+1$</string>
+        <string lang="jp">重力漏れ $grav+1$</string>
+    </set>
+    <set id="name-skill-passive-gravtopower">
+        <string lang="de">$grav+$ zu $might$</string>
+        <string lang="en">$grav+$ to $might$</string>
+        <string lang="fr">$grav+$ vers $might$</string>
+        <string lang="zh">$grav+$ 转化为 $might$</string>
+        <string lang="jp">$grav+$ から $might$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifcrustbroken">
+        <string lang="de">Krusten-Detektion $mighticon$</string>
+        <string lang="en">Crust Detection $mighticon$</string>
+        <string lang="fr">Détection Croûte $mighticon$</string>
+        <string lang="zh">晶体检测 $mighticon$</string>
+        <string lang="jp">結晶検出 $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifdamaged">
+        <string lang="de">Trauma-Detektion $mighticon$</string>
+        <string lang="en">Trauma Detection $mighticon$</string>
+        <string lang="fr">Détection Trauma $mighticon$</string>
+        <string lang="zh">伤害检测 $mighticon$</string>
+        <string lang="jp">トラウマ検出 $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifturnorderchanged">
+        <string lang="de">Chrono-Detektion $mighticon$</string>
+        <string lang="en">Chrono Detection $mighticon$</string>
+        <string lang="fr">Détection Chrono $mighticon$</string>
+        <string lang="zh">时间检测 $mighticon$</string>
+        <string lang="jp">時間検出 $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifplasmagenerated">
+        <string lang="de">Plasma-Detektion $mighticon$</string>
+        <string lang="en">Plasma Detection $mighticon$</string>
+        <string lang="fr">Détection Plasma $mighticon$</string>
+        <string lang="zh">等离子检测 $mighticon$</string>
+        <string lang="jp">プラズマ検出 $mighticon$</string>
+    </set>
+    <set id="name-skill-shleck-frog">
+        <string lang="de">Schleck</string>
+        <string lang="en">Shleck</string>
+        <string lang="fr">Laper</string>
+        <string lang="zh">舔</string>
+        <string lang="jp">舐める</string>
+    </set>
+    <set id="name-skill-shleck-protozoon">
+        <string lang="de">Membran</string>
+        <string lang="en">Membrane</string>
+        <string lang="fr">Membrane</string>
+        <string lang="zh">膜</string>
+        <string lang="jp">膜</string>
+    </set>
+    <set id="description-skill-beak">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to an enemy.</string>
+        <string lang="fr">Inflige $1damage$ à une cible.</string>
+        <string lang="zh">对敌人造成 $1damage$</string>
+        <string lang="jp">敵に $1damage$ を与える</string>
+    </set>
+    <set id="description-skill-claw">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to an enemy.</string>
+        <string lang="fr">Inflige $1damage$ à une cible.</string>
+        <string lang="zh">对敌人造成 $1damage$</string>
+        <string lang="jp">敵に $1damage$ を与える</string>
+    </set>
+    <set id="description-skill-croak">
+        <string lang="de">Entfernt alle $might$ um alle Module auf dem Rack eines Gegners mit $gravrecoil$ zu vesehen.</string>
+        <string lang="en">Remove all $might$ to apply $gravrecoil$ to all modules on an enemy rack.</string>
+        <string lang="fr">Retire $might$ pour appliquer $gravrecoil$ à tous les modules d'un rack ennemi.</string>
+        <string lang="zh">移除 $might$ 以对敌人的所有模块施加 $gravrecoil$</string>
+        <string lang="jp">$might$ を消費して敵のラックの全てのモジュールに $gravrecoil$ を与える</string>
+    </set>
+    <set id="description-skill-damageinheightofpower">
+        <string lang="de">Verursacht $damage$ in Höhe der $might$</string>
+        <string lang="en">Deals $damage$ in height of $might$</string>
+        <string lang="fr">Inflige des dégâts équivalents à la $might$</string>
+        <string lang="zh">造成 $damage$ 等同于 $might$</string>
+        <string lang="jp">$might$ に等しいダメージを与える</string>
+    </set>
+    <set id="description-skill-enemyspawn-gravpolyp">
+        <string lang="de">Ruft bis zu zwei $b$Grav.-Polypen$/b$ herbei.</string>
+        <string lang="en">Summons up to two $b$Grav. Polyps$/b$</string>
+        <string lang="fr">Invoque jusqu'à deux $b$Polypes Grav.$/b$</string>
+        <string lang="zh">召唤最多两个 $b$重力息肉$/b$</string>
+        <string lang="jp">最大2体の $b$重力ポリップ$/b$ を召喚する</string>
+    </set>
+    <set id="description-skill-enemyspawn-protozoon">
+        <string lang="de">Wenn seine HP gerade sind, teilt er sich in zwei.</string>
+        <string lang="en">If HP is even, it splits into two.</string>
+        <string lang="fr">Si les PV sont pairs, il se divise en deux.</string>
+        <string lang="zh">如果生命值为偶数，它将分裂成两个</string>
+        <string lang="jp">HPが偶数の場合、2体に分裂する</string>
+    </set>
+    <set id="description-skill-enemyspawn-slime">
+        <string lang="de">Wenn $might$ gefüllt ist, entfernt er alle $might$ um sich zu verdoppeln.</string>
+        <string lang="en">If $might$ is full, it removes all $might$ to duplicate.</string>
+        <string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
+        <string lang="zh">如果 $might$ 充满，它将移除所有 $might$ 以复制自身</string>
+        <string lang="jp">$might$ が満タンの場合、$might$ を消費して自身を複製する</string>
+    </set>
+    <set id="description-skill-encrustmodule">
+        <string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
+        <string lang="en">Deals $1damage$ and inflicts a module with $crust$.</string>
+        <string lang="fr">Inflige $1damage$ et inflige un module avec $crust$.</string>
+        <string lang="zh">对敌人造成 $1damage$ 并给敌人的一个模块施加 $crust$</string>
+        <string lang="jp">敵に $1damage$ を与え、敵のモジュールに $crust$ を与える</string>
+    </set>
+    <set id="description-skill-rightclaw">
+        <string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
+        <string lang="en">Deals $1damage$ and inflicts a module with $crust$.</string>
+        <string lang="fr">Inflige $1damage$ et inflige un module avec $crust$.</string>
+        <string lang="zh">对敌人造成 $1damage$ 并给敌人的一个模块施加 $crust$</string>
+        <string lang="jp">敵に $1damage$ を与え、敵のモジュールに $crust$ を与える</string>
+    </set>
+    <set id="description-skill-moduleselfencrusting-aoe">
+        <string lang="de">Versieht zwei Module mit
+$selfencrusting$</string>
+        <string lang="en">Inflicts two modules with
+$selfencrusting$.</string>
+        <string lang="fr">Inflige deux modules avec 
+$selfencrusting$.</string>
+        <string lang="zh">给敌人的两个模块施加 $selfencrusting$</string>
+        <string lang="jp">敵の2つのモジュールに $selfencrusting$ を与える</string>
+    </set>
+    <set id="description-skill-gravimpulse">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+4$ zu.</string>
+        <string lang="en">Inflicts all combatants on the same time step with $grav+4$.</string>
+        <string lang="fr">Inflige $grav+4$ à tous les combattants sur le même pas de temps.</string>    
+        <string lang="zh">给所有在同一时间步的敌人施加 $grav+4$</string>
+        <string lang="jp">同じタイムステップにいる敵に $grav+4$ を与える</string>
+    </set>
+    <set id="description-skill-gravimplode">
+        <string lang="de">Entfernt alle $grav+$ auf dem Ziel und verursacht ebensoviel $damage$.</string>
+        <string lang="en">Removes all $grav+$ from a target to deal that much $damage$.</string>
+        <string lang="fr">Enlève tous les $grav+$ sur la cible et inflige des $damage$.</string>
+        <string lang="zh">移除目标身上的所有 $grav+$ 并造成相同的 $damage$</string>
+        <string lang="jp">敵の $grav+$ を消費して、その分の $damage$ を与える</string>
+    </set>
+    <set id="description-skill-gravimplode-one">
+        <string lang="de">Entfernt $grav+1$ auf einem Gegner und verursacht $1damage$.</string>
+        <string lang="en">Removes $grav+1$ on an enemy to inflict $1damage$.</string>
+        <string lang="fr">Implose $grav+1$ sur la cible et inflige $1damage$.</string>
+    </set>
+    <set id="description-skill-gravimplode-bossshroom">
+        <string lang="de">Entfernt alle $grav+$ auf dem Ziel und verursacht ebensoviel $damage$.</string>
+        <string lang="en">Removes all $grav+$ from a target to deal that much $damage$.</string>
+        <string lang="fr">Enlève tous les $grav+$ sur la cible et inflige des $damage$.</string>
+        <string lang="zh">移除目标身上的所有 $grav+$ 并造成相同的 $damage$</string>
+        <string lang="jp">敵の $grav+$ を消費して、その分の $damage$ を与える</string>
+    </set>
+    <set id="description-skill-gravspore-positive">
+        <string lang="de">Fügt allen anderen Kampfteilnehmern $grav+1$ zu</string>
+        <string lang="en">Inflicts all other combatants with $grav+1$</string>
+        <string lang="fr">Inflige $grav+1$ à tous les autres combattants.</string>
+        <string lang="zh">给所有其他敌人施加 $grav+1$</string>
+        <string lang="jp">他の敵に $grav+1$ を与える</string>
+    </set>
+    <set id="description-skill-gravspore-positive-bossshroom">
+        <string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-1$ zu</string>
+        <string lang="en">Inflicts all other combatants with $grav+2$ and itself with $grav-1$</string>
+        <string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-1$ à soi-même.</string>
+        <string lang="zh">给所有其他敌人施加 $grav+2$ 并给自己施加 $grav-1$</string>
+        <string lang="jp">他の敵に $grav+2$ を与え、自分に $grav-1$ を与える</string>
+    </set>
+    <set id="description-skill-gravsting">
+        <string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu.</string>
+        <string lang="en">Deals $1damage$
+and inflicts $grav+1$</string>
+        <string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi.</string>
+        <string lang="zh">给敌人造成 $1damage$ 并施加 $grav+1$</string>
+        <string lang="jp">敵に $1damage$ を与え、$grav+1$ を与える</string>
+    </set>
+    <set id="description-skill-gravsting2">
+        <string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
+        <string lang="en">Deals $1damage$ 
+and inflicts $grav+2$</string>
+        <string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
+        <string lang="zh">给敌人造成 $1damage$ 并施加 $grav+2$</string>
+        <string lang="jp">敵に $1damage$ を与え、$grav+2$ を与える</string>
+    </set>
+    <set id="description-skill-leftclaw">
+        <string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
+        <string lang="en">Deals $1damage$ 
+and inflicts $grav+2$</string>
+        <string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
+        <string lang="zh">给敌人造成 $1damage$ 并施加 $grav+2$</string>
+        <string lang="jp">敵に $1damage$ を与え、$grav+2$ を与える</string>
+    </set>
+    <set id="description-skill-gravtransfer">
+        <string lang="de">Entfernt $grav+1$ von einem Ziel und fügt sie einem anderen Ziel zu.</string>
+        <string lang="en">Removes $grav+1$ from target combatant and puts it onto another combatant.</string>
+        <string lang="fr">Enlève $grav+1$ d'un cible et l'applique à un autre cible.</string>
+        <string lang="zh">移除目标身上的 $grav+1$ 并施加到另一个目标身上</string>
+        <string lang="jp">敵の $grav+1$ を消費して、他の敵に与える</string>
+    </set>
+    <set id="description-skill-gravpush-1">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav+1$ zu</string>
+        <string lang="en">Inflicts another combatant with $grav+1$</string>
+        <string lang="fr">Inflige $grav+1$ à un autre combattant.</string>
+        <string lang="zh">给其他敌人施加 $grav+1$</string>
+        <string lang="jp">他の敵に $grav+1$ を与える</string>
+    </set>
+    <set id="description-skill-gravpush-2">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$ zu</string>
+        <string lang="en">Inflicts another combatant with $grav+2$</string>
+        <string lang="fr">Inflige $grav+2$ à un autre combattant.</string>
+        <string lang="zh">给其他敌人施加 $grav+2$</string>
+        <string lang="jp">他の敵に $grav+2$ を与える</string>
+    </set>
+    <set id="description-skill-gravpush-positive3">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $3grav+$ zu</string>
+        <string lang="en">Inflicts another combatant with $3grav+$</string>
+        <string lang="fr">Inflige $3grav+$ à un autre combattant.</string>
+        <string lang="zh">给其他敌人施加 $3grav+$</string>
+        <string lang="jp">他の敵に $3grav+$ を与える</string>
+    </set>
+    <set id="description-skill-lightningstrike">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
+        <string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all combatants on the same time step.</string>
+        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les combattants sur le même pas de temps.</string>
+        <string lang="zh">给所有敌人造成 $b$$VALUE$$/b$ $damage$</string>
+        <string lang="jp">同じタイムステップの敵に $b$$VALUE$$/b$ $damage$ を与える</string>
+    </set>
+    <set id="description-skill-lightningstrike-cutoff">
+        <string lang="de">Fügt allen Spielercharakteren auf diesem Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
+        <string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all player characters on that time step.</string>
+        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les personnages joueurs sur ce pas de temps.</string>
+        <string lang="zh">给所有玩家角色造成 $b$$VALUE$$/b$ $damage$</string>
+        <string lang="jp">同じタイムステップのプレイヤーに $b$$VALUE$$/b$ $damage$ を与える</string>
+    </set>
+    <set id="description-skill-modularrackfire">
+        <string lang="de">Aktiviert Module auf dem Rack.</string>
+        <string lang="en">Activates modules on the rack.</string>
+        <string lang="fr">Applique courant au rack de module.</string>
+        <string lang="zh">给机体上的模块施加电流</string>
+        <string lang="jp">ラックのモジュールに電流を与える</string>
+    </set>
+    <set id="description-skill-modulegravrecoil-slime">
+        <string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts one module with $gravrecoil$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et applique $gravrecoil$ à un module.</string>
+        <string lang="zh">给一个敌人造成 $1damage$ 并给一个模块施加 $gravrecoil$</string>
+        <string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
+    </set>
+    <set id="description-skill-modulegravrecoil-bosscrocodile">
+        <string lang="de">Fügt allen Gegnern $1damage$ zu und versieht je ein Modul mit $gravrecoil$.</string>
+        <string lang="en">Deals $1damage$ to all enemies and inflicts one module each with $gravrecoil$.</string>
+        <string lang="fr">Inflige $1damage$ à tous les ennemis et applique $gravrecoil$ à un module chacun.</string>
+        <string lang="zh">给所有敌人造成 $1damage$ 并给每个模块施加 $gravrecoil$</string>
+        <string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
+    </set>
+    <set id="description-skill-moduleplasmacrepitation">
+        <string lang="de">Verursacht $d1amage$ und versieht ein Modul mit $plasmacrepitation$.</string>
+        <string lang="en">Deals $1damage$ and inflicts a module with $plasmacrepitation$.</string>
+        <string lang="fr">Inflige $1damage$ et applique $plasmacrepitation$ à un module.</string>
+        <string lang="zh">给一个模块施加 $plasmacrepitation$ 并造成 $1damage$</string>
+        <string lang="jp">モジュールに $plasmacrepitation$ を与え、$1damage$ を与える</string>
+    </set>
+    <set id="description-skill-modulespawn-timebomb">
+        <string lang="de">Platziert ein $b$Zeitbomben-Modul$/b$ in eins deiner Racks.</string>
+        <string lang="en">Places a $b$Time Bomb$/b$ module in one of your racks.</string>
+        <string lang="fr">Place une bombe à retardement dans un de vos racks.</string>
+        <string lang="zh">在一个机体上放置一个 $b$时间炸弹$/b$ 模块</string>
+        <string lang="jp">ラックに $b$タイムボム$/b$ モジュールを置く</string>
+    </set>
+    <set id="description-skill-paw">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to an enemy.</string>
+        <string lang="fr">Inflige $1damage$ à une cible.</string>
+        <string lang="zh">对敌人造成 $1damage$</string>
+        <string lang="jp">敵に $1damage$ を与える</string>
+    </set>
+    <set id="description-skill-paw2">
+        <string lang="de">Fügt einem Gegner $2damage$ zu.</string>
+        <string lang="en">Deals $2damage$ to an enemy.</string>
+        <string lang="fr">Inflige $2damage$ à une cible.</string>
+        <string lang="zh">对敌人造成 $2damage$</string>
+        <string lang="jp">敵に $2damage$ を与える</string>
+    </set>
+    <set id="description-skill-powertodamage">
+        <string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $damage$ zuzufügen.</string>
+        <string lang="en">Removes all $might$ to deal that much $damage$ to an enemy.</string>
+        <string lang="fr">Supprime tout $might$ pour infliger $damage$ à une cible.</string>
+        <string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
+        <string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
+    </set>
+    <set id="description-skill-powertodamage-gravpolyp">
+        <string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $damage$ zuzufügen.</string>
+        <string lang="en">Removes all $might$ to deal that much $damage$ to an enemy.</string>
+        <string lang="fr">Supprime tout $might$ pour infliger $damage$ à une cible.</string>
+        <string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
+        <string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
+    </set>
+    <set id="description-skill-ondeath-hurtcrabbody">
+        <string lang="de">Fügt dem Körper $3damage$ zu.</string>
+        <string lang="en">Deals $3damage$ to the body.</string>
+        <string lang="fr">Inflige $3damage$ au corps.</string>
+        <string lang="zh">对机体造成 $3damage$</string>
+        <string lang="jp">機体に $3damage$ を与える</string>
+    </set>
+    <set id="description-skill-ondeath-vulnerability">
+        <string lang="de">Fügt einem Gegner $vulnerable$ zu. Er hält $4$ Zeitschritte an.</string>
+        <string lang="en">Applies $vulnerable$ to an enemy. It lasts for $4$ time steps.</string>
+        <string lang="fr">Applique $vulnerable$ à une cible. Dure $4$ tours.</string>
+        <string lang="zh">对敌人造成 $vulnerable$，持续 $4$ 个时间步</string>
+        <string lang="jp">敵に $vulnerable$ を与える。$4$ ターン持続</string>
+    </set>
+    <set id="description-skill-ondeath-gravaoe-plus">
+        <string lang="de">Fügt allen Gegnern $grav+1$ zu.</string>
+        <string lang="en">Inflicts all enemies with $grav+1$.</string>
+        <string lang="fr">Applique $grav+1$ à toutes les ennemies.</string>
+        <string lang="zh">对所有敌人造成 $grav+1$</string>
+        <string lang="jp">全ての敵に $grav+1$ を与える</string>
+    </set>
+    <set id="description-skill-passive-gravtopower">
+        <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $grav+$ is transformed to $might$.</string>
+        <string lang="fr">$grav+$ entrante est transformée en $might$.</string>
+        <string lang="zh">收到的 $grav+$ 转化为 $might$</string>
+        <string lang="jp">$grav+$ を $might$ に変換する</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifcrustbroken">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
+        <string lang="en">Raises $might$ by $1$ whenever a $crust$ is broken.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'une $crust$ est brisée.</string>
+        <string lang="zh">每当 $crust$ 被破坏时，$might$ 增加 $1$</string>
+        <string lang="jp">$crust$ が破壊されるたびに、$might$ を $1$ 増加する</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifgravinflicted">
+        <string lang="de">Erhöht $might$ aus eingehender $grav+$.</string>
+        <string lang="en">Raises $might$ from inflictions of $grav+$ onto itself.</string>
+        <string lang="fr">Augmente $might$ des $grav+$ infligés sur soi-même.</string>
+        <string lang="zh">从对自身造成的 $grav+$ 增加 $might$</string>
+        <string lang="jp">$grav+$ を自身に与えるたびに、$might$ を増加する</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifdamaged">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn er $damage$ erhält.</string>
+        <string lang="en">Raises $might$ by $1$ whenever it receives $damage$.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'il reçoit $damage$.</string>
+        <string lang="zh">每当受到 $damage$ 时，$might$ 增加 $1$</string>
+        <string lang="jp">$damage$ を受けるたびに、$might$ を $1$ 増加する</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifturnorderchanged">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
+        <string lang="en">Raises $might$ by $1$ whenever the turn order is changed.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois que l'ordre des tours est modifié.</string>
+        <string lang="zh">每当回合顺序改变时，$might$ 增加 $1$</string>
+        <string lang="jp">ターン順が変更されるたびに、$might$ を $1$ 増加する</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifplasmagenerated">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn $plasma$ erzeugt wird.</string>
+        <string lang="en">Raises $might$ by $1$ whenever $plasma$ is created.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois que $plasma$ est créé.</string>
+        <string lang="zh">每当 $plasma$ 产生时，$might$ 增加 $1$</string>
+        <string lang="jp">$plasma$ が生成されるたびに、$might$ を $1$ 増加する</string>
+    </set>
+    <set id="description-skill-shleck-protozoon">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.
+Kann $grav+1$ vom Ziel entfernen, um sich selbst um $1$ zu heilen.</string>
+        <string lang="en">Deals $1damage$ to an enemy.
+May remove $grav+1$ from the target to heal itself by $1$.</string>
+        <string lang="fr">Inflige $1damage$ à une ennemie.
+Peut retirer $grav+1$ de la cible pour se soigner de $1$.</string>
+        <string lang="zh">对敌人造成 $1damage$。
+可以从目标移除 $grav+1$ 以治愈自身。</string>
+        <string lang="jp">敵に $1damage$ を与える。
+ターゲットの $grav+1$ を移除して自身を回復することができる。</string>
+    </set>
+    <set id="description-skill-shleck-frog">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.
+Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
+        <string lang="en">Deals $1damage$ to an enemy.
+May remove $grav+1$ from the target to raise $might$ by $1$.</string>
+        <string lang="fr">Inflige $1damage$ à une ennemie.
+Peut retirer $grav+1$ de la cible pour augmenter $might$ de $1$.</string>
+        <string lang="zh">对敌人造成 $1damage$。
+可以从目标移除 $grav+1$ 以增加 $might$ $1$。</string>
+        <string lang="jp">敵に $1damage$ を与える。
+ターゲットの $grav+1$ を移除して $might$ を $1$ 増加させることができる。</string>
+    </set>
+    <set id="description-skill-gravbite">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $gravamplification$.</string>
+        <string lang="en">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
+        <string lang="fr">Inflige $1damage$ à une ennemie et applique $gravamplification$.</string>
+        <string lang="zh">对敌人造成 $1damage$ 并使其获得 $gravamplification$。</string>
+        <string lang="jp">敵に $1damage$ を与え、$gravamplification$ を付与する。</string>
+    </set>
+</localization>

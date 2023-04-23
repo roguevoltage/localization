@@ -1,0 +1,633 @@
+<localization>
+    <set id="name-happening-chargingstation">
+        <string lang="de">Ladesäule</string>
+        <string lang="en">Charging Station</string>
+        <string lang="fr">Station de chargement</string>
+        <string lang="zh">充电站</string>
+        <string lang="jp">充電ステーション</string>
+    </set>
+    <set id="happening-chargingstation-heading">
+        <string lang="de">Ladesäule</string>
+        <string lang="en">Charging Station</string>
+        <string lang="fr">Station de chargement</string>
+        <string lang="zh">充电站</string>
+        <string lang="jp">充電ステーション</string>
+    </set>
+    <set id="happening-chargingstation-introduction">
+        <string lang="de">Du stößt auf eine</string>
+        <string lang="en">You discover a</string>
+        <string lang="fr">Vous découvrez une</string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="happening-chargingstation-description">
+        <string lang="de">Akzeptiert ausschließlich $b$Speichermodule$/b$
+Lädt eine $b$Speicherzelle$/b$ um $2$ $energy$.</string>
+        <string lang="en">Only accepts $b$Storage Modules$/b$.
+Charges a $b$Storage Module$/b$ with $2$ $energy$.</string>
+        <string lang="fr">N'accepte que les $b$Modules de Stockage$/b$
+Charge un $b$Module de Stockage$/b$ avec $2$ $energy$.</string>
+    <string lang="zh">只接受$b$存储模块$/b$
+为$b$存储模块$/b$充电$2$ $energy$。</string>
+        <string lang="jp">のみ$b$ストレージモジュール$/b$
+$b$ストレージモジュール$/b$を$2$ $energy$で充電します。</string>
+    </set>
+    <set id="happening-chargingstation-description2">
+        <string lang="de">Sie wurde bereits benutzt, 
+aber jemand muss vergessen haben
+die Speicherzelle mitzunehmen.</string>
+        <string lang="en">It has already been used, 
+but somebody must have forgotten to take the storage cell with them.</string>
+        <string lang="fr">Elle a déjà été utilisé, 
+mais il semble que quelqu'un a oublié de prendre la batterie avec lui.</string>
+        <string lang="zh">它已经被使用过了，
+但是有人必须忘记带走存储电池了。</string>
+        <string lang="jp">すでに使用されていますが、
+誰かが存储セルを持っていないことを忘れているようです。</string>
+    </set>
+    <set id="happening-chargingstation-error-nomodule">
+        <string lang="de">Platziere Speichermodul auf den Sockel</string>
+        <string lang="en">Place storage module on the socket</string>
+        <string lang="fr">Placez une module de stockage sur le socket</string>
+        <string lang="zh">将存储模块放置在插座上</string>
+        <string lang="jp">モジュールをソケットに配置します</string>
+    </set>
+    <set id="happening-chargingstation-led-placemodule">
+        <string lang="de">PLATZIERE
+BATTERIE</string>
+        <string lang="en">PLACE
+BATTERY</string>
+        <string lang="fr">PLACE
+BATTERIE</string>
+            <string lang="zh">放置电池</string>
+        <string lang="jp">バッテリーを配置します</string>
+    </set>
+    <set id="happening-chargingstation-led-readytouse">
+        <string lang="de">BEREIT ZUM
+LADEN</string>
+        <string lang="en">READY TO
+CHARGE</string>
+        <string lang="fr">PRET POUR
+CHARGER</string>
+        <string lang="zh">准备好充电</string>
+        <string lang="jp">充電準備完了</string>
+    </set>
+    <set id="happening-chargingstation-led-takemodule">
+        <string lang="de">NIMM
+BATTERIE</string>
+        <string lang="en">TAKE
+BATTERY</string>
+        <string lang="fr">PRELEVE
+BATTERIE</string>
+        <string lang="zh">拿起电池</string>
+        <string lang="jp">バッテリーを取ります</string>
+    </set>
+    <set id="happening-chargingstation-led-goodbye">
+        <string lang="de">AUF
+WIEDERSEHEN</string>
+        <string lang="en">GOODBYE</string>
+        <string lang="fr">AU
+REVOIR</string>
+        <string lang="zh">再见</string>
+        <string lang="jp">さようなら</string>
+    </set>
+    <set id="name-happening-healingstation">
+        <string lang="de">Heilungs-Station</string>
+        <string lang="en">Healing Station</string>
+        <string lang="fr">Station de soin</string>
+        <string lang="zh">治疗站</string>
+        <string lang="jp">ヒーリングステーション</string>
+    </set>
+    <set id="happening-healingstation-heading">
+        <string lang="de">Heilungs-Station</string>
+        <string lang="en">Healing Station</string>
+        <string lang="fr">Station de soin</string>
+        <string lang="zh">治疗站</string>
+        <string lang="jp">ヒーリングステーション</string>
+    </set>
+    <set id="happening-healingstation-introduction">
+        <string lang="de">Du stößt auf eine</string>
+        <string lang="en">You discover a</string>
+        <string lang="fr">Vous découvrez une</string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="happening-healingstation-description">
+        <string lang="de">Heilt beide Spielercharaktere um $1$</string>
+        <string lang="en">Heals both characters by $1$</string>
+        <string lang="fr">Soigne les deux personnages de $1$</string>
+        <string lang="zh">治疗两个角色$1$</string>
+        <string lang="jp">両方のキャラクターを$1$回復します</string>
+    </set>
+    <set id="name-happening-modifierupgrader">
+        <string lang="de">Durchsatz-Booster</string>
+        <string lang="en">Throughput Booster</string>
+        <string lang="fr">Booster de Débit</string>
+        <string lang="zh">吞吐量增强器</string>
+        <string lang="jp">スループットブースター</string>
+    </set>
+    <set id="happening-modifierupgrader-heading">
+        <string lang="de">Durchsatz-Booster</string>
+        <string lang="en">Throughput Booster</string>
+        <string lang="fr">Booster de Débit</string>
+        <string lang="zh">吞吐量增强器</string>
+        <string lang="jp">スループットブースター</string>
+    </set>
+    <set id="happening-modifierupgrader-introduction">
+        <string lang="de">Du stößt auf einen</string>
+        <string lang="en">You discover a</string>
+        <string lang="fr">Vous découvrez un</string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="happening-modifierupgrader-description">
+        <string lang="de">Akzeptiert ausschließlich Module vom Typ $b$Durchsatzmodul$/b$.
+Verleiht dem Modul einen permanenten $boost$.</string>
+        <string lang="en">Only accepts modules of type $b$Throughput Module$/b$.
+Gives modules a permanent $boost$.</string>
+        <string lang="fr">N'accepte que les modules de type $b$Module de Débit$/b$.
+Donne un $boost$ permanent aux modules.</string>
+        <string lang="zh">只接受类型为$b$吞吐量模块$/b$的模块。
+给模块一个永久的$boost$。</string>
+        <string lang="jp">タイプ$b$スループットモジュール$/b$のモジュールのみを受け入れます。
+モジュールに永久的な$boost$を与えます。</string>
+    </set>
+    <set id="happening-modifierupgrader-description2">
+        <string lang="de">Er wurde bereits benutzt, 
+aber jemand hat vergessen, den Verstärker mitzunehmen.</string>
+        <string lang="en">It has already been used, 
+but somebody must have forgotten to take the amplifier with them.</string>
+        <string lang="fr">Il a déjà été utilisé,
+mais quelqu'un a oublié de prendre l'amplificateur avec lui.</string>
+        <string lang="zh">它已经被使用过了，
+但是有人忘记带着放大器了。</string>
+        <string lang="jp">すでに使用されていますが、
+誰かがアンプレッサーを持っていないことを忘れているようです。</string>
+    </set>
+    <set id="happening-modifierupgrader-error-nomodule">
+        <string lang="de">Platziere Modifikator auf den Sockel</string>
+        <string lang="en">Place a modifier on the socket</string>
+        <string lang="fr">Placez un modificateur sur le socket</string>
+        <string lang="zh">在插槽上放置一个修饰符</string>
+        <string lang="jp">ソケットに修飾子を配置します</string>
+    </set>
+    <set id="happening-modifierupgrader-led-placemodule">
+        <string lang="de">PLATZIERE
+MODUL</string>
+        <string lang="en">PLACE
+MODULE</string>
+        <string lang="fr">PLACE
+MODULE</string>
+        <string lang="zh">放置模块</string>
+        <string lang="jp">モジュールを配置する</string>
+    </set>
+    <set id="happening-modifierupgrader-led-readytouse">
+        <string lang="de">BEREIT ZUM
+UPGRADEN</string>
+        <string lang="en">READY TO
+BOOST</string>
+        <string lang="fr">PRET POUR
+AMELIORER</string>
+        <string lang="zh">准备升级</string>
+        <string lang="jp">アップグレードの準備ができています</string>
+    </set>
+    <set id="happening-modifierupgrader-led-takemodule">
+        <string lang="de">NIMM
+MODUL</string>
+        <string lang="en">TAKE
+MODULE</string>
+        <string lang="fr">PRELEVE
+MODULE</string>
+        <string lang="zh">拿起模块</string>
+        <string lang="jp">モジュールを取る</string>
+    </set>
+    <set id="happening-modifierupgrader-led-goodbye">
+        <string lang="de">AUF
+WIEDERSEHEN</string>
+        <string lang="en">GOODBYE</string>
+        <string lang="fr">AU
+REVOIR</string>
+        <string lang="zh">再见</string>
+        <string lang="jp">さようなら</string>
+    </set>
+    <set id="name-happening-moduletransmogrifier">
+        <string lang="de">Transmogrifikator</string>
+        <string lang="en">Transmogrifier</string>
+        <string lang="fr">Transmogrifieur</string>
+        <string lang="zh">变形器</string>
+        <string lang="jp">トランスモグリファイアー</string>
+    </set>
+<set id="happening-moduletransmogrifier-heading">
+        <string lang="de">Transmogrifikator</string>
+        <string lang="en">Transmogrifier</string>
+        <string lang="fr">Transmogrifieur</string>
+        <string lang="zh">变形器</string>
+        <string lang="jp">トランスモグリファイアー</string>
+    </set>
+    <set id="happening-moduletransmogrifier-introduction">
+        <string lang="de">Du stößt auf einen</string>
+        <string lang="en">You discover a</string>
+        <string lang="fr">Vous découvrez un</string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="happening-moduletransmogrifier-description">
+        <string lang="de">Verwandelt ein Modul in ein anderes der gleichen Stufe</string>
+        <string lang="en">Turns a module into another one of the same level</string>
+        <string lang="fr">Transforme un module en un autre de la même niveau</string>
+        <string lang="zh">将一个模块转换为同一级别的另一个模块</string>
+        <string lang="jp">モジュールを同じレベルの別のモジュールに変換します</string>
+    </set>
+    <set id="happening-moduletransmogrifier-error-nomodule">
+        <string lang="de">Platziere Modul auf den Sockel</string>
+        <string lang="en">Place Module on the socket</string>
+        <string lang="fr">Placez un module sur le socket</string>
+        <string lang="zh">在插槽上放置模块</string>
+        <string lang="jp">ソケットにモジュールを配置します</string>
+    </set>
+    <set id="happening-moduletransmogrifier-led-placemodule">
+        <string lang="de">PLATZIERE
+MODUL</string>
+        <string lang="en">PLACE
+MODULE</string>
+        <string lang="fr">PLACE
+MODULE</string>
+        <string lang="zh">放置模块</string>
+        <string lang="jp">モジュールを配置する</string>
+    </set>
+    <set id="happening-moduletransmogrifier-led-readytouse">
+        <string lang="de">BEREIT ZUM
+BENUTZEN</string>
+        <string lang="en">READY TO
+USE</string>
+        <string lang="fr">PRET POUR
+UTILISER</string>
+        <string lang="zh">准备使用</string>
+        <string lang="jp">使用の準備ができています</string>
+    </set>
+    <set id="happening-moduletransmogrifier-led-takemodule">
+        <string lang="de">NIMM
+MODUL</string>
+        <string lang="en">TAKE
+MODULE</string>
+        <string lang="fr">PRELEVE
+MODULE</string>
+        <string lang="zh">拿起模块</string>
+        <string lang="jp">モジュールを取る</string>
+    </set>
+    <set id="happening-moduletransmogrifier-led-goodbye">
+        <string lang="de">AUF
+WIEDERSEHEN</string>
+        <string lang="en">GOODBYE</string>
+        <string lang="fr">AU
+REVOIR</string>
+        <string lang="zh">再见</string>
+        <string lang="jp">さようなら</string>
+    </set>
+    <set id="name-happening-moduleduplicator">
+        <string lang="de">Modul-Duplikator</string>
+        <string lang="en">Duplication Station</string>
+        <string lang="fr">Station de duplication</string>
+        <string lang="zh">复制站</string>
+        <string lang="jp">複製ステーション</string>
+    </set>
+    <set id="happening-moduleduplicator-heading">
+        <string lang="de">Modul-Duplikator</string>
+        <string lang="en">Duplication Station</string>
+        <string lang="fr">Station de duplication</string>
+        <string lang="zh">复制站</string>
+        <string lang="jp">複製ステーション</string>
+    </set>
+    <set id="happening-moduleduplicator-introduction">
+        <string lang="de">Du stößt auf einen</string>
+        <string lang="en">You discover a</string>
+        <string lang="fr">Vous découvrez une</string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="happening-moduleduplicator-description">
+        <string lang="de">Dupliziert ein Modul deiner Wahl</string>
+        <string lang="en">Duplicates a module of your choice</string>
+        <string lang="fr">Duplique un module de votre choix</string>
+        <string lang="zh">复制您选择的模块</string>
+        <string lang="jp">あなたの選択したモジュールを複製します</string>
+    </set>
+    <set id="happening-moduleduplicator-error-nomodule">
+        <string lang="de">Platziere ein zu duplizierendes Modul auf den linken Sockel</string>
+        <string lang="en">Place a module to duplicate on the left socket</string>
+        <string lang="fr">Placez un module à dupliquer sur le socket gauche</string>
+        <string lang="zh">在左插座上放置要复制的模块</string>
+        <string lang="jp">左のソケットに複製するモジュールを配置します</string>
+    </set>
+    <set id="happening-moduleduplicator-error-twomodules">
+        <string lang="de">Platziere ein zu duplizierendes Modul auf den linken Sockel</string>
+        <string lang="en">Place one module to duplicate on the left socket</string>
+        <string lang="fr">Placez un module à dupliquer sur l'embase gauche</string>
+        <string lang="zh">在左插座上放置一个要复制的模块</string>
+        <string lang="jp">左のソケットに複製するモジュールを1つ配置します</string>
+    </set>
+    <set id="happening-moduleduplicator-led-placemodule">
+        <string lang="de">PLATZIERE
+MODUL</string>
+        <string lang="en">PLACE
+MODULE</string>
+        <string lang="fr">PLACE
+MODULE</string>
+            <string lang="zh">放置模块</string>
+            <string lang="jp">モジュールを配置する</string>
+    </set>
+    <set id="happening-moduleduplicator-led-readytouse">
+        <string lang="de">BEREIT ZUM
+DUPLIZIEREN</string>
+        <string lang="en">READY TO
+DUPLICATE</string>
+        <string lang="fr">PRET POUR
+DUPLIQUER</string>
+        <string lang="zh">准备复制</string>
+        <string lang="jp">複製の準備ができています</string>
+    </set>
+    <set id="happening-moduleduplicator-led-takemodule">
+        <string lang="de">NIMM
+MODULE</string>
+        <string lang="en">TAKE
+MODULES</string>
+        <string lang="fr">PRELEVE
+MODULES</string>
+        <string lang="zh">拿起模块</string>
+        <string lang="jp">モジュールを取る</string>
+    </set>
+    <set id="happening-moduleduplicator-led-goodbye">
+        <string lang="de">AUF
+WIEDERSEHEN</string>
+        <string lang="en">GOODBYE</string>
+        <string lang="fr">AU
+REVOIR</string>
+        <string lang="zh">再见</string>
+        <string lang="jp">さようなら</string>
+    </set>
+    <set id="store-module-introduction">
+        <string lang="de">Hier steht ein </string>
+        <string lang="en">You happen on a </string>
+        <string lang="fr">Vous tombez sur un </string>
+        <string lang="zh">你发现了一个</string>
+        <string lang="jp">あなたは発見しました</string>
+    </set>
+    <set id="store-module-heading">
+        <string lang="de">Modulautomat</string>
+        <string lang="en">Module Vending Machine</string>
+        <string lang="fr">Distributeur de modules</string>
+        <string lang="zh">模块售货机</string>
+        <string lang="jp">モジュール自動販売機</string>
+    </set>
+    <set id="store-module-description">
+        <string lang="de">Wundersamerweise scheint er noch zu funktionieren</string>
+        <string lang="en">Miraculously, it still seems to work</string>
+        <string lang="fr">Miraculeusement, il semble encore fonctionner</string>
+        <string lang="zh">奇迹般地，它仍然似乎工作</string>
+    </set>
+    <set id="store-deal">
+        <string lang="de">DEAL</string>
+        <string lang="en">DEAL</string>
+        <string lang="fr">DEAL</string>
+        <string lang="zh">交易</string>
+        <string lang="jp">取引</string>
+    </set>
+    <set id="store-takemodule">
+        <string lang="de">nehmen zum kaufen,
+geben zum verkaufen</string>
+        <string lang="en">take to buy,
+drop to sell</string>
+        <string lang="fr">prendre pour acheter,
+laisser tomber pour vendre</string>
+        <string lang="zh">拿起来购买，放下来出售</string>
+        <string lang="jp">買うために取る、売るために落とす</string>
+    </set>
+    <set id="store-clicktodeal">
+        <string lang="de">zum handeln
+knopf druecken</string>
+        <string lang="en">push button
+to deal</string>
+        <string lang="fr">pour faire un deal,
+appuyez sur le bouton</string>
+        <string lang="zh">按下按钮进行交易</string>
+        <string lang="jp">ボタンを押して取引する</string>
+    </set>
+    <set id="store-clicktobuy">
+        <string lang="de">zum kaufen
+knopf druecken</string>
+        <string lang="en">push button
+to buy</string>
+<string lang="fr">pour faire un deal,
+    appuyez sur le bouton</string>
+        <string lang="zh">按下按钮进行交易</string>
+        <string lang="jp">ボタンを押して取引する</string>
+    </set>
+    <set id="store-clicktosell">
+        <string lang="de">zum verkaufen
+knopf druecken</string>
+        <string lang="en">push button 
+to sell</string>
+        <string lang="fr">pour faire un deal,
+appuyez sur le bouton</string>
+        <string lang="zh">按下按钮进行交易</string>
+        <string lang="jp">ボタンを押して取引する</string>
+    </set>
+    <set id="store-noplasma">
+        <string lang="de">nicht genug plasma</string>
+        <string lang="en">not enough plasma</string>
+        <string lang="fr">pas assez de plasma</string>
+        <string lang="zh">没有足够的等离子体</string>
+        <string lang="jp">プラズマが足りない</string>
+    </set>
+    
+    <set id="happening-gameover-heading">
+        <string lang="de">Game Over</string>
+        <string lang="en">Game Over</string>
+        <string lang="fr">Game Over</string>
+        <string lang="zh">游戏结束</string>
+        <string lang="jp">ゲームオーバー</string>
+    </set>
+    <set id="happening-gameover-text">
+        <string lang="de">"Kinder, das wird mir zu gefährlich!
+Übertragt einen Modul-Bauplan und ich grav.-blaste euch in der Zeit zurück!"</string>
+        <string lang="en">"Folks, this is getting too dangerous! 
+Transmit a module blueprint and I'll grav.-blast you back in time!"</string>
+        <string lang="fr">"Gens, c'est devenu trop dangereux! 
+Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</string>
+        <string lang="zh">"孩子们，这太危险了！
+传输一个模块蓝图，我会把你们重力爆炸回到过去！"</string>
+        <string lang="jp">"子供たち、これは危険すぎます！
+モジュールの設計図を送信して、私が重力爆発で過去に戻ります！"</string>
+    </set>
+    <set id="happening-gameover-salvage-header">
+        <string lang="de">Ein Module hinüberretten</string>
+        <string lang="en">Salvage one module</string>
+        <string lang="fr">Récupérer un module</string>
+        <string lang="zh">回收一个模块</string>
+        <string lang="jp">モジュールを引き継ぐ</string>
+    </set>
+    <set id="happening-gameover-salvage-text">
+        <string lang="de">Platziere ein Modul im Zeitanker, um es in deinen nächsten Versuch hinüberzuretten.</string>
+        <string lang="en">Place a module in the temporal anchor to salvage it over to your next attempt.</string>
+        <string lang="fr">Placez un module dans l'ancre temporelle pour le récupérer pour votre prochaine tentative.</string>
+        <string lang="zh">将一个模块放置在时间锚上，以便在下一次尝试中回收它。</string>
+        <string lang="jp">モジュールを時間アンカーに配置して、次の試行に持ち越します。</string>
+    </set>
+    <set id="happening-gameover-unusual">
+        <string lang="de">Ist etwas unübliches passiert?</string>
+        <string lang="en">Did something unusual happen?</string>
+        <string lang="fr">Quelque chose d'inhabituel s'est-il passé?</string>
+        <string lang="zh">有什么不寻常的事情发生了吗？</string>
+        <string lang="jp">何か変なことが起こりましたか？</string>
+    </set>
+    <set id="happening-gameover-discord">
+        <string lang="de">Lass es mich im Discord-Kanal wissen:</string>
+        <string lang="en">Let me know in the Discord:</string>
+        <string lang="fr">Faites-le moi savoir sur Discord:</string>
+        <string lang="zh">在Discord上让我知道:</string>
+        <string lang="jp">Discordで教えてください:</string>
+    </set>
+    <set id="happening-endofdemo-introduction">
+        <string lang="de">Das ist das</string>
+        <string lang="en">You have reached the</string>
+        <string lang="fr">Vous êtes arrivées à la </string>
+        <string lang="zh">你已经到达了</string>
+        <string lang="jp">あなたは</string>
+    </set>
+    <set id="happening-endofdemo-heading">
+        <string lang="de">Ende der Demo</string>
+        <string lang="en">End of the Demo</string>
+        <string lang="fr">Fin de la Démo</string>
+        <string lang="zh">演示结束</string>
+        <string lang="jp">デモの終わり</string>
+    </set>
+    <set id="happening-endofdemo-thankyou">
+        <string lang="de">Vielen Dank fürs Spielen!
+Wir hoffen, dir hat dieser erste Eindruck vom Stand des Spiels gefallen.</string>
+        <string lang="en">Thank you for playing!
+We hope you enjoyed this first glimpse into the game.</string>
+        <string lang="fr">Merci d'avoir joué !
+Nous espérons que vous avez apprécié cette première impression du jeu.</string>
+        <string lang="zh">感谢您的游玩！
+我们希望您喜欢这个游戏。</string>
+        <string lang="jp">遊んでくれてありがとう！
+私たちはあなたがこのゲームを楽しんでいることを願っています。</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo">
+        <string lang="de">Diese Demo</string>
+        <string lang="en">This Demo</string>
+        <string lang="fr">Cette Démo</string>
+        <string lang="zh">这个演示</string>
+        <string lang="jp">このデモ</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo-date">
+        <string lang="de">Frühjahr '23</string>
+        <string lang="en">Spring '23</string>
+        <string lang="fr">Printemps '23</string>
+        <string lang="zh">春 '23</string>
+        <string lang="jp">春 '23</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo-modules">
+        <string lang="de">40 Module</string>
+        <string lang="en">40 modules</string>
+        <string lang="fr">40 modules</string>
+        <string lang="zh">40个模块</string>
+        <string lang="jp">40モジュール</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo-characters">
+        <string lang="de">2 Charaktere</string>
+        <string lang="en">2 characters</string>
+        <string lang="fr">2 personnages</string>
+        <string lang="zh">2个角色</string>
+        <string lang="jp">2人のキャラクター</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo-biomes">
+        <string lang="de">2 Biome</string>
+        <string lang="en">2 biomes</string>
+        <string lang="fr">2 biomes</string>
+        <string lang="zh">2个生物群落</string>
+        <string lang="jp">2バイオーム</string>
+    </set>
+    <set id="happening-endofdemo-scope-demo-stages">
+        <string lang="de">2 Levels</string>
+        <string lang="en">2 stages</string>
+        <string lang="fr">2 niveaux</string>
+        <string lang="zh">2个阶段</string>
+        <string lang="jp">2レベル</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea">
+        <string lang="de">Early Access</string>
+        <string lang="en">Early Access</string>
+        <string lang="fr">Early Access</string>
+        <string lang="zh">早期访问</string>
+        <string lang="jp">早期アクセス</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea-date">
+        <string lang="de">Ende '23/Anfang '24</string>
+        <string lang="en">Late '23/Early '24</string>
+        <string lang="fr">Fin '23/Début '24</string>
+        <string lang="zh">'23年末/ '24年初</string>
+        <string lang="jp">23年末/ 24年初</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea-modules">
+        <string lang="de">70+ Module</string>
+        <string lang="en">70+ modules</string>
+        <string lang="fr">70+ modules</string>
+        <string lang="zh">70+个模块</string>
+        <string lang="jp">70+モジュール</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea-characters">
+        <string lang="de">6+ Charaktere</string>
+        <string lang="en">6+ characters</string>
+        <string lang="fr">6+ personnages</string>
+        <string lang="zh">6+个角色</string>
+        <string lang="jp">6+キャラクター</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea-biomes">
+        <string lang="de">6+ Biome</string>
+        <string lang="en">6+ biomes</string>
+        <string lang="fr">6+ biomes</string>
+        <string lang="zh">6+个生物群落</string>
+        <string lang="jp">6+バイオーム</string>
+    </set>
+    <set id="happening-endofdemo-scope-ea-stages">
+        <string lang="de">4 Levels</string>
+        <string lang="en">4 stages</string>
+        <string lang="fr">4 niveaux</string>
+        <string lang="zh">4个阶段</string>
+        <string lang="jp">4レベル</string>
+    </set>
+    <set id="happening-endofdemo-wishlist">
+        <string lang="de">+ STEAM WUNSCHLISTE</string>
+        <string lang="en">ADD TO WISHLIST ON STEAM</string>
+        <string lang="fr">+ LISTE DE SOUHAITS</string>
+        <string lang="zh">+ 添加到STEAM愿望清单</string>
+        <string lang="jp">+ STEAMウィッシュリストに追加</string>
+    </set>
+    <set id="happening-endofdemo-calltoaction">
+        <string lang="de">Hast du Feedback, Fragen oder Ideen?
+Möchtest du die Entwicklung unterstützen?</string>
+        <string lang="en">Do you have feedback, questions or ideas?
+Do you want to support the development?</string>
+        <string lang="fr">Aimez-vous la démo?
+Des questions, feedback ou idées?</string>
+        <string lang="zh">你有反馈，问题或想法吗？
+你想支持开发吗？</string>
+        <string lang="jp">フィードバック、質問、アイデアはありますか？
+開発をサポートしたいですか？</string>
+    </set>
+    <set id="happening-endofdemo-spreadtheword">
+        <string lang="de">• Erzähle anderen von dem Spiel</string>
+        <string lang="en">• Spread the word about the game</string>
+        <string lang="fr">• Parlez-en à vos amis</string>
+        <string lang="zh">• 向朋友们推荐这款游戏</string>
+        <string lang="jp">• 他の人にゲームを広めてください</string>
+    </set>
+    <set id="happening-endofdemo-jointhecommunity">
+        <string lang="de">• Werde Teil unserer Community:</string>
+        <string lang="en">• Become a part of the community:</string>
+        <string lang="fr">• Rejoignez notre communauté:</string>
+        <string lang="zh">• 加入我们的社区：</string>
+        <string lang="jp">• コミュニティに参加してください：</string>
+    </set>
+</localization>

@@ -1,0 +1,590 @@
+<localization>
+    <set id="name-skill-vulnerability">
+        <string lang="de">Verwundbarkeit</string>
+        <string lang="en">Vulnerability</string>
+        <string lang="fr">Vulnérabilité</string>
+        <string lang="zh">脆弱</string>
+        <string lang="jp">脆弱</string>
+    </set>
+    <set id="name-skill-beesting">
+        <string lang="de">Stachel</string>
+        <string lang="en">Sting</string>
+        <string lang="fr">Piqûre</string>
+        <string lang="zh">蜂刺</string>
+        <string lang="jp">蜂刺</string>
+    </set>
+    <set id="name-skill-vulnerabilityglobal">
+        <string lang="de">Verwundbarkeit</string>
+        <string lang="en">Vulnerability</string>
+        <string lang="fr">Vulnerabilité</string>
+        <string lang="zh">脆弱</string>
+        <string lang="jp">脆弱</string>
+    </set>
+    <set id="name-skill-shield-global">
+        <string lang="de">Schützender Regen</string>
+        <string lang="en">Shielding Rain</string>
+        <string lang="fr">Pluie Protective</string>
+        <string lang="zh">护盾雨</string>
+        <string lang="jp">シールド雨</string>
+    </set>
+    <set id="name-skill-batter">
+        <string lang="de">Rammen</string>
+        <string lang="en">Batter</string>
+        <string lang="fr">Enfoncer</string>
+        <string lang="zh">冲撞</string>
+        <string lang="jp">打者</string>
+    </set>
+    <set id="name-skill-shield">
+        <string lang="de">Schild</string>
+        <string lang="en">Shield</string>
+        <string lang="fr">Bouclier</string>
+        <string lang="zh">护盾</string>
+        <string lang="jp">シールド</string>
+    </set>
+    <set id="name-skill-shield-self">
+        <string lang="de">Schild</string>
+        <string lang="en">Shield</string>
+        <string lang="fr">Bouclier</string>
+        <string lang="zh">护盾</string>
+        <string lang="jp">シールド</string>
+    </set>
+    <set id="name-skill-shield-gravtank">
+        <string lang="de">Schild</string>
+        <string lang="en">Shield</string>
+        <string lang="fr">Bouclier</string>
+        <string lang="zh">护盾</string>
+        <string lang="jp">シールド</string>
+    </set>
+    <set id="name-skill-modulefire">
+        <string lang="de">Feuer $fireicon$</string>
+        <string lang="en">Fire $fireicon$</string>
+        <string lang="fr">Feu $fireicon$</string>
+    </set>
+    <set id="name-skill-modulefire-firegnat">
+        <string lang="de">Brennender Stich $grav+1$$fireicon$</string>
+        <string lang="en">Burning Sting $grav+1$$fireicon$</string>
+        <string lang="fr">n/a $fireicon$</string>
+    </set>
+    <set id="name-skill-enemyspawn-bees">
+        <string lang="de">Larven Erzeugen</string>
+        <string lang="en">Spawn Larvae</string>
+        <string lang="fr">Larves</string>
+    </set>
+    <set id="name-skill-enemyspawn-goblinbomb">
+        <string lang="de">Bombengoblin</string>
+        <string lang="en">Bomb Goblin</string>
+        <string lang="fr">Gobelin Bombe</string>
+    </set>
+    <set id="name-skill-enemyspawn-owl">
+        <string lang="de">Eule</string>
+        <string lang="en">Owl Companion</string>
+        <string lang="fr">Hibou</string>
+    </set>
+    <set id="name-skill-enemyspawn-livingbomb">
+        <string lang="de">Explosive Apparate</string>
+        <string lang="en">Explosive Contraptions</string>
+        <string lang="fr">Appareils Explosifs</string>
+    </set>
+    <set id="name-skill-gravabsorb">
+        <string lang="de">Grav.-Absorption</string>
+        <string lang="en">Grav. Absorb</string>
+        <string lang="fr">Absorption de Grav.</string>
+    </set>
+    <set id="name-skill-gravamplificationglobal">
+        <string lang="de">Grav.-Verstärkung</string>
+        <string lang="en">Grav. Vulnerability</string>
+        <string lang="fr">Amplification Grav.</string>
+    </set>
+    <set id="name-skill-gravexplode">
+        <string lang="de">Grav.-Explosion</string>
+        <string lang="en">Grav. Explosion</string>
+        <string lang="fr">Explosion Grav.</string>
+    </set>
+    <set id="name-skill-gravinvert">
+        <string lang="de">Grav.-Umkehrung</string>
+        <string lang="en">Grav. Inversion</string>
+        <string lang="fr">Inversion Grav.</string>
+    </set>
+    <set id="name-skill-gravinvert-self">
+        <string lang="de">Grav.-Umkehrung</string>
+        <string lang="en">Grav. Inversion</string>
+        <string lang="fr">Inversion Grav.</string>
+    </set>
+    <set id="name-skill-gravresistance">
+        <string lang="de">Grav.-Resistenz</string>
+        <string lang="en">Grav. Resistance</string>
+        <string lang="fr">Résistance à Grav.</string>
+    </set>
+    <set id="name-skill-gravneutralize-self">
+        <string lang="de">Grav.-Neutralisierung</string>
+        <string lang="en">Grav. Neutralize</string>
+        <string lang="fr">Neutralisation Grav.</string>
+    </set>
+    <set id="name-skill-gravneutralize-self-geothermaldrone">
+        <string lang="de">Wärmesenke $fireicon$</string>
+        <string lang="en">Heat Sink $fireicon$</string>
+        <string lang="fr">Dissipation Thermique $fireicon$</string>
+    </set>
+    <set id="name-skill-gravhowl">
+        <string lang="de">Grav. Heulen</string>
+        <string lang="en">Grav. Howl</string>
+        <string lang="fr">Hurlement Grav.</string>
+    </set>
+        <set id="name-skill-gravshield-gravadillo">
+        <string lang="de">Grav. Schild</string>
+        <string lang="en">Grav. Shield</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-gravspore-negative">
+        <string lang="de">Grav.-Sporen $grav-1$</string>
+        <string lang="en">Grav. Spore $grav-1$</string>
+        <string lang="fr">Spore Grav. $grav-1$</string>
+    </set>
+    <set id="name-skill-gravpull">
+        <string lang="de">Grav.-Ziehen $grav-1$</string>
+        <string lang="en">Grav. Pull $grav-1$</string>
+        <string lang="fr">Tirer Grav. $grav-1$</string>
+    </set>
+    <set id="name-skill-gravpull-bosschronocat">
+        <string lang="de">Grav.-Ziehen $grav-1$</string>
+        <string lang="en">Grav. Pull $grav-1$</string>
+        <string lang="fr">Tirer Grav. $grav-1$</string>
+    </set>
+    <set id="name-skill-gravpush-2-gravadillo">
+        <string lang="de">Ramme $grav+2$ $crusticon$</string>
+        <string lang="en">Pile Driver $grav+2$ $crusticon$</string>
+        <string lang="fr">Poussée Grav. $grav+2$ $crusticon$</string>
+    </set>
+    <set id="name-skill-hatch">
+        <string lang="de">Schlüpfen</string>
+        <string lang="en">Hatch</string>
+        <string lang="fr">Éclore</string>
+    </set>
+    <set id="name-skill-heal">
+        <string lang="de">Heilung</string>
+        <string lang="en">Heal</string>
+        <string lang="fr">Soins</string>
+    </set>
+    <set id="name-skill-healingrain">
+        <string lang="de">Heilender Tropfen</string>
+        <string lang="en">Healing Drop</string>
+        <string lang="fr">Goutte de Soins</string>
+    </set>
+    <set id="name-skill-modulepollution">
+        <string lang="de">Modul-Verschmutzung</string>
+        <string lang="en">Pollute Module</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-moduleseal">
+        <string lang="de">Modulversiegelung</string>
+        <string lang="en">Module Seal</string>
+        <string lang="fr">Sceller Module</string>
+    </set>
+    <set id="name-skill-modulespawn-modifierviral">
+        <string lang="de">Störmodul</string>
+        <string lang="en">Disruption Module</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-modulespawn-mine">
+        <string lang="de">Mine</string>
+        <string lang="en">Mine</string>
+        <string lang="fr">Mine</string>
+    </set>
+    <set id="name-skill-naturaldisasaterspawn-lightning">
+        <string lang="de">Blitzschlag</string>
+        <string lang="en">Lightning Strike</string>
+        <string lang="fr">Coup de Foudre</string>
+    </set>
+    <set id="name-skill-nettle">
+        <string lang="de">Nessel</string>
+        <string lang="en">Nettle</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-nettle-aoe">
+        <string lang="de">Nessel AOE</string>
+        <string lang="en">Nettle AOE</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-packattack">
+        <string lang="de">Rudelangriff</string>
+        <string lang="en">Pack Attack</string>
+        <string lang="fr">Attaque de Meute</string>
+    </set>
+    <set id="name-skill-poisonspore">
+        <string lang="de">Gift-Sporen</string>
+        <string lang="en">Toxic Spore</string>
+        <string lang="fr">Spore Toxique</string>
+    </set>
+    <set id="name-skill-powertodamage-geothermaldrone">
+        <string lang="de">Zap $mighticon$</string>
+        <string lang="en">Zap $mighticon$</string>
+        <string lang="fr">n/a $mighticon$</string>
+    </set>
+    <set id="name-skill-powerraise-livingbomb">
+        <string lang="de">Aufladen</string>
+        <string lang="en">Charge</string>
+        <string lang="fr">Charge</string>
+    </set>
+    <set id="name-skill-powerraise-onallies">
+        <string lang="de">Aufladen AOE</string>
+        <string lang="en">Charge AOE</string>
+        <string lang="fr">Charge AOE</string>
+    </set>
+    <set id="name-skill-powerraise-dynosauregg">
+        <string lang="de">Brüten</string>
+        <string lang="en">Incubate</string>
+        <string lang="fr">Couver</string>
+    </set>
+    <set id="name-skill-ondeath-hurtbrachio">
+        <string lang="de">Körperteil</string>
+        <string lang="en">Body Part</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="name-skill-ondeath-gravaoe-minus">
+        <string lang="de">Grav.-Summen $grav-1$</string>
+        <string lang="en">Grav. Buzz $grav-1$</string>
+        <string lang="fr">n/a $grav-1$</string>
+    </set>
+    <set id="name-skill-passive-volcanodamagetomight">
+        <string lang="de">Vulkan-$damage$ zu $might$</string>
+        <string lang="en">Volcano $damage$ to $might$</string>
+        <string lang="fr">Volcan $damage$ vers $might$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifgravinflicted">
+        <string lang="de">Grav.-Detektion (+) $mighticon$</string>
+        <string lang="en">Grav. Detection (+) $mighticon$</string>
+        <string lang="fr">Détection Grav. (+) $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifmodulecreated">
+        <string lang="de">Fabrik- $mighticon$</string>
+        <string lang="en">Factory Detection $mighticon$</string>
+        <string lang="fr">Détection Fabrique $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifmoduledestroyed">
+        <string lang="de">Trümmer-Detektion $mighticon$</string>
+        <string lang="en">Fracture Detection $mighticon$</string>
+        <string lang="fr">Détection Fracture $mighticon$</string>
+    </set>
+    <set id="name-skill-rabid">
+        <string lang="de">Zerfleischen</string>
+        <string lang="en">Maul</string>
+        <string lang="fr">Mutiler</string>
+    </set>
+    <set id="name-skill-rage">
+        <string lang="de">Wüten</string>
+        <string lang="en">Rage</string>
+        <string lang="fr">Ravager</string>
+    </set>
+    <set id="name-skill-sacrificebee">
+        <string lang="de">Für den Schwarm</string>
+        <string lang="en">For the Swarm</string>
+        <string lang="fr">Pour la Ruche</string>
+    </set>
+    <set id="name-skill-savage">
+        <string lang="de">Wilder Angriff</string>
+        <string lang="en">Savage</string>
+        <string lang="fr">Rage</string>
+    </set>
+    <set id="name-skill-selfdestruct">
+        <string lang="de">Selbstzerstörung</string>
+        <string lang="en">Self-Destruct</string>
+        <string lang="fr">Auto-Destruction</string>
+    </set>
+    <set id="name-skill-selfdestruct-goblinbomb">
+        <string lang="de">Ein erfülltes Leben</string>
+        <string lang="en">A Life Fulfilled</string>
+        <string lang="fr">Une vie bien remplie</string>
+    </set>
+    <set id="name-skill-selfdestruct-livingbomb">
+        <string lang="de">Selbstzerstörung</string>
+        <string lang="en">Self-Destruct</string>
+        <string lang="fr">Auto-Destruction</string>
+    </set>
+    <set id="name-skill-stomp">
+        <string lang="de">Stampfen $shockicon$</string>
+        <string lang="en">Stomp $shockicon$</string>
+        <string lang="fr">Tremper $shockicon$</string>
+    </set>
+    <set id="name-skill-volcanoeruption">
+        <string lang="de">Ausbruch</string>
+        <string lang="en">Eruption</string>
+        <string lang="fr">Éruption</string>
+    </set>
+    <set id="description-skill-vulnerability">
+        <string lang="de">Versieht einen Gegner mit $vulnerable$.</string>
+        <string lang="en">Inflicts an enemy with $vulnerable$.</string>
+        <string lang="fr">Inflige à un ennemi l'état $vulnerable$.</string>
+    </set>
+    <set id="description-skill-beesting">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$.</string>
+        <string lang="en">Deals $1damage$ and inflicts $vulnerable$.</string>
+        <string lang="fr">Inflige à un ennemi $1damage$ et $vulnerable$.</string>
+    </set>
+    <set id="description-skill-gravamplificationglobal">
+        <string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
+        <string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-batter">
+        <string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
+        <string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-vulnerabilityglobal">
+        <string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
+        <string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-enemyspawn-bees">
+        <string lang="de">n/a</string>
+        <string lang="en">Summons two bees.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-enemyspawn-goblinbomb">
+        <string lang="de">Ruft einen $b$Bomben-Goblin$/b$ herbei.</string>
+        <string lang="en">Summons a $b$Bomb Goblin$/b$.</string>
+        <string lang="fr">Invoque un $b$Gobelin Bombe$/b$.</string>
+    </set>
+    <set id="description-skill-enemyspawn-livingbomb">
+        <string lang="de">Stellt zwei $b$Explosive Apparate$/b$ her.</string>
+        <string lang="en">Creates two $b$Explosive Contraptions$/b$.</string>
+        <string lang="fr">Crée deux $b$Appareils Explosifs$/b$.</string>
+    </set>
+    <set id="description-skill-enemyspawn-owl">
+        <string lang="de">Ruft eine Eule herbei.</string>
+        <string lang="en">Summons an Owl</string>
+        <string lang="fr">Invoque un hibou.</string>
+    </set>
+    <set id="description-skill-modulefire-firegnat">
+        <string lang="de">Fügt einem Gegner $grav+1$ zu und versieht zwei Module mit $fire$.</string>
+        <string lang="en">Inflicts and enemy with $grav+1$ and two modules with $fire$.</string>
+        <string lang="fr">Inflige deux modules avec $fire$.</string>
+    </set>
+    <set id="description-skill-gravabsorb">
+        <string lang="de">Absorbiert $grav+$ als Heilung.</string>
+        <string lang="en">Absorbs $grav+$ as healing.</string>
+        <string lang="fr">Absorbe $grav+$ comme soins.</string>
+    </set>
+    <set id="description-skill-gravexplode">
+        <string lang="de">Entfernt $grav+$ vom Charakter und fügt einem Gegner ebenso viel $damage$ zu.</string>
+        <string lang="en">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravhowl">
+        <string lang="de">Entfernt alle $grav$ und versieht alle Kampfteilnehmer mit $gravamplification$.</string>
+        <string lang="en">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravinvert-self">
+        <string lang="de">Kehrt die aktuelle $grav$ des Angreifers um.</string>
+        <string lang="en">Inverts the attackers current $grav$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravneutralize-self">
+        <string lang="de">Entfernt alle $grav$ auf sich selbst.</string>
+        <string lang="en">Removes all $grav$ from itself.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravneutralize-self-geothermaldrone">
+        <string lang="de">Entfernt bis zu $grav+1$ von sich selbst.
+Versieht ein Module mit $fire$.</string>
+        <string lang="en">Removes up to $grav+1$ from itself.
+Inflicts a module with $fire$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravresistance">
+        <string lang="de">Eingehende $grav$ wird um $1$ reduziert</string>
+        <string lang="en">Incoming. $grav$ is reduced by $1$</string>
+        <string lang="fr">La $grav$ entrante est réduite de $1$</string>
+    </set>
+    <set id="description-skill-gravshield-gravadillo">
+        <string lang="de">Entfernt alle $grav+$ und fügt sich selbst den $damage$ to $grav+short$ Status zu.</string>
+        <string lang="en">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravspore-negative">
+        <string lang="de">Fügt allen anderen Kampfteilnehmern $grav-1$ zu</string>
+        <string lang="en">Inflicts all other combatants with $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpull">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
+        <string lang="en">Inflicts another combatant with $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+        <set id="description-skill-gravpull-bosschronocat">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
+        <string lang="en">Inflicts another combatant with $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpull1">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
+        <string lang="en">Inflicts another combatant with negative $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpush-2-gravadillo">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Spielercharakter ist, versieht ein Modul mit $selfencrusting$.</string>
+        <string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
+        <string lang="fr">Ralentit un combattant</string>
+    </set>
+    <set id="description-skill-selfdestruct-goblinbomb">
+        <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
+        <string lang="en">Destroys itself to deal $damage$ in height of its current HP on all enemies on the same time step.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-selfdestruct-livingbomb">
+        <string lang="de">Wenn $might$ gefüllt ist, zerstört er sich selbst, um allen Gegnern $2damage$ zuzufügen.</string>
+        <string lang="en">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-hatch">
+        <string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Dynosaurus$/b$ schlüpfen zu lassen.</string>
+        <string lang="en">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-heal">
+        <string lang="de">Heilt einen Verbündeten</string>
+        <string lang="en">Heals an ally</string>
+        <string lang="fr">Soigne un allié</string>
+    </set>
+    <set id="description-skill-healingrain">
+        <string lang="de">Heilt alle Kampfteilnehmer auf dem gleichen Zeitschritt um $2$.</string>
+        <string lang="en">Heals all combatants on the same time step by $2$.</string>
+        <string lang="fr">Description n/a</string>
+    </set>
+    <set id="description-skill-modulepollution">
+        <string lang="de">Versieht ein Modul mit $pollution$.</string>
+        <string lang="en">Inflicts a module with $pollution$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-moduleseal">
+        <string lang="de">Schwächt ein Modul.</string>
+        <string lang="en">Weakens a module.</string>
+        <string lang="fr">Réduit le module.</string>
+    </set>
+    <set id="description-skill-modulespawn-modifierviral">
+        <string lang="de">Platziert ein $b$Störmodul$/b$ in eins deiner Racks.</string>
+        <string lang="en">Places a $b$Disruption Module$/b$ in one of your racks.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-modulespawn-mine">
+        <string lang="de">Platziert ein Minen-Modul in eins deiner Racks.</string>
+        <string lang="en">Places a mine module in one of your racks.</string>
+        <string lang="fr">Place une mine dans un de vos racks.</string>
+    </set>
+    <set id="description-skill-naturaldisasaterspawn-lightning">
+        <string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
+        <string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
+        <string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la ligne de temps.</string>
+    </set>
+    <set id="description-skill-nettle">
+        <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to an enemy</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-nettle-aoe">
+        <string lang="de">Fügt allen Gegnern $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to all enemies.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-packattack">
+        <string lang="de">Wenn ein weiterer Graviraptor auf dem selben Zeitschritt ist, fügt er einem Gegner $2damage$ zu.</string>
+        <string lang="en">If there is another $b$Graviraptor$/b$ on the same time step, it deals $2damage$ to target enemy.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-poisonspore">
+        <string lang="de">Fügt allen anderen Kampfteilnehmer $1damage$ zu.</string>
+        <string lang="en">Deals $1damage$ to all other combatants.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-powerraise-livingbomb">
+        <string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
+        <string lang="en">Raises $might$ by $1$ and inflicts all enemies with $grav+1$.</string>
+        <string lang="fr">Augmente $might$ de $1$ et applique $grav+1$ à tous les ennemis.</string>
+    </set>
+    <set id="description-skill-powerraise-onallies">
+        <string lang="de">Erhöht $might$ aller Verbündeten um $1$.</string>
+        <string lang="en">Raises $might$ of all allies by $1$.</string>
+        <string lang="fr">Augmente $might$ de tous les alliés de $1$.</string>
+    </set>
+    <set id="description-skill-powerraise-dynosauregg">
+        <string lang="de">Erhöht $might$ um $1$.</string>
+        <string lang="en">Raises $might$ by $1$.</string>
+        <string lang="fr">Augmente $might$ de $1$</string>
+    </set>
+    <set id="description-skill-ondeath-gravaoe-minus">
+        <string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
+        <string lang="en">Inflicts all other allies with $grav-1$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-passive-volcanodamagetomight">
+        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifmodulecreated">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
+        <string lang="en">Raises $might$ by $1$ whenever a module is created.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est créé.</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifmoduledestroyed">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul zerstört wird.</string>
+        <string lang="en">Raises $might$ by $1$ whenever a module is destroyed.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est détruit.</string>
+    </set>
+    <set id="description-skill-rage">
+        <string lang="de">Fügt einem Gegner $2damage$ zu und versieht sich selbst mit $vulnerable$.</string>
+        <string lang="en">Deals $2damage$ to an enemy and inflicts itself with $vulnerable$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-rabid">
+        <string lang="de">Fügt einem Gegner $2damage$ und sich selbst $1damage$ zu.</string>
+        <string lang="en">Deals $2damage$ to an enemy and $1damage$ to itself.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-sacrificebee">
+        <string lang="de">Opfert eine Biene, um allen Gegnern $1damage$ zuzufügen.</string>
+        <string lang="en">Sacrifices a bee to deal $1damage$ to all enemies.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-savage">
+        <string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-1$ zu.</string>
+        <string lang="en">Deals $1damage$ and inflicts itself with $grav-1$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-shield">
+        <string lang="de">Versieht einen Verbündeten mit $shield$.</string>
+        <string lang="en">Applies $shield$ to an ally.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-shield-self">
+        <string lang="de">n/a</string>
+        <string lang="en">n/a</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-shield-global">
+        <string lang="de">Schützt alle Kampfteilnehmer auf dem gleichen Zeitschritt mit $shield$.</string>
+        <string lang="en">Applies $shield$ to all combatants on the same time step.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-shield-gravtank">
+        <string lang="de">n/a</string>
+        <string lang="en">n/a</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-sneaky">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$</string>
+        <string lang="en">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-stomp">
+        <string lang="de">Fügt einem Gegner $2damage$ zu und versieht ein Modul mit $shock$.</string>
+        <string lang="en">Deals $2damage$ to an enemy and inflicts a module with $shock$.</string>
+        <string lang="fr">Attaque forte sur un ennemi.</string>
+    </set>
+    <set id="description-skill-volcanoeruption">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
+        <string lang="en">Deals $2damage$ to all combatants on the same time step.</string>
+        <string lang="fr">Description n/a</string>
+    </set>
+</localization>

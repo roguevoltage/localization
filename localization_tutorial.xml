@@ -1,0 +1,472 @@
+<localization>
+        <set id="tutorial-camp">
+                <string lang="de">Zurück im Lager kannst du dich für $plasma$ heilen oder Gebäude wiederherstellen, um spezielle Module zu entdecken.</string>
+                <string lang="en">Back in camp you can heal yourself for $plasma$ or restore buildings to discover special modules.</string>
+                <string lang="fr">Retour au camp, vous pouvez vous soigner pour $plasma$ ou restaurer des bâtiments pour découvrir des modules spéciaux.</string>
+                <string lang="zh">回到营地，你可以用$plasma$治疗自己或者恢复建筑物来发现特殊模块。</string>
+                <string lang="jp">キャンプに戻ると、$plasma$を使って自分を回復したり、建物を復元して特別なモジュールを発見できます。</string>
+        </set>
+        <set id="tutoriawindow-rack-title">
+                <string lang="de">Das Modul-Rack</string>
+                <string lang="en">The Modular Rack</string>
+                <string lang="fr">Le Rack Modulaire</string>
+                <string lang="zh">模块架</string>
+                <string lang="jp">モジュラーラック</string>
+            </set>
+            <set id="tutoriawindow-rack-description">
+                <string lang="de">Kampfaktionen werden aus $b$Modulen$/b$ zusammengesetzt, die du miteinander verkabelst.
+Manche erzeugen $energy$, manche verstärken oder speichern sie und andere wandeln sie in Effekte um.</string>
+                <string lang="en">Combat actions are constructed from $b$modules$/b$ that you wire together.
+Some generate $energy$, some amplify or store it and others turn it into effects.</string>
+                <string lang="fr">Vos actions de combat sont constituées de $b$modules$/b$ qui sont $b$câblés entre eux$/b$.
+Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'autres encore l'utilisent pour des effets.</string>
+                <string lang="zh">战斗动作由您连接在一起的$b$模块$/b$构成。
+有些产生 $energy$，有些放大或储存它，有些则将其转化为效果。</string>
+                <string lang="jp">戦闘アクションは、$b$モジュール$/b$を接続して作成されます。
+一部は$energy$を生成し、一部は増幅または保存し、他の一部は効果に変換します。</string>
+            </set>
+            <set id="tutorial-wiring-title">
+                <string lang="de">Verkabeln</string>
+                <string lang="en">Wiring</string>
+                <string lang="fr">Cabler</string>
+                <string lang="zh">连接</string>
+                <string lang="jp">配線</string>
+            </set>
+                <set id="tutorial-wiring-description">
+                <string lang="de">Verbinde Module, indem du zwischen $b$Input- und Output-Buchsen der gleichen Farbe$/b$ Kabel ziehst.</string>
+                <string lang="en">Connect modules by dragging cables between $b$input and output jacks of matching colors$/b$.</string>
+                <string lang="fr">Connectez des modules en tirant des câbles entre les $b$prises d'entrée et de sortie de même couleur$/b$.</string>
+                <string lang="zh">通过在$b$相同颜色的输入和输出插孔之间拖动电缆$/b$连接模块。</string>
+                <string lang="jp">$b$同じ色の入力と出力ジャックの間に電線を引いて$/b$モジュールを接続します。</string>
+            </set>
+        <set id="tutorialwindow-backpack-header">
+                <string lang="de">Der Rucksack</string>
+                <string lang="en">The Backpack</string>
+                <string lang="fr">Introduction</string>
+                <string lang="zh">背包</string>
+                <string lang="jp">バックパック</string>
+        </set>
+        <set id="tutorialwindow-backpack-description">
+                <string lang="de">In deinem $b$Rucksack$/b$ kannst du Module lagern, die du nicht unmittelbar benötigst, oder Module zwischen Charakteren tauschen.
+Darin ist ein $b$Heiltrank$/b$, aber du kannst ihn noch nicht benutzen, da seine Input-Buchse &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; ist!</string>
+                <string lang="en">In the $b$backpack$/b$ you can store modules that you don't need immediately and exchange modules between characters.
+There is a $b$Healing Potion$/b$ in it, but you can't use it just yet since its input jack is &lt;color=green&gt;$b$green$/b$&lt;/color&gt;!</string>
+                <string lang="fr">Dans le $b$sac à dos$/b$, vous pouvez stocker des modules que vous n'avez pas besoin immédiatement et échanger des modules entre les personnages.
+Il y a une $b$Potion de soin$/b$ dedans, mais vous ne pouvez pas l'utiliser pour le moment car sa prise d'entrée est &lt;color=green&gt;$b$verte$/b$&lt;/color&gt;!</string>
+                <string lang="zh">在$b$背包$/b$中，您可以存储您不需要立即使用的模块，并在角色之间交换模块。
+它里面有一个$b$治疗药水$/b$，但是你现在还不能使用它，因为它的输入插孔是&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;的！</string>
+                <string lang="jp">バックパックでは、すぐに必要としないモジュールを保管したり、キャラクター間でモジュールを交換したりできます。
+中には$b$回復ポーション$/b$がありますが、まだ使用できません。入力ジャックが&lt;color=green&gt;$b$緑色$/b$&lt;/color&gt;なのです！</string>
+        </set>
+        <set id="tutorialwindow-timeline-header">
+                <string lang="de">Die Zeitleiste</string>
+                <string lang="en">The Timeline</string>
+                <string lang="fr">La Timeline</string>
+                <string lang="zh">时间线</string>
+                <string lang="jp">タイムライン</string>
+        </set>
+        <set id="tutorialwindow-timeline-description">
+                <string lang="de">Die Zeitleiste zeigt an, wann du und deine Gegner an der Reihe sind.
+$b$Jetzt$/b$ ist $slopperjohnson$s Zug. 
+Danach tickt die Zeit vorwärts und in 5 Zeitschritten ist die $chronocat$ an der Reihe.
+Siehst du den markierten Punkt in 7 Schritten? Dann wird $slopperjohnson$s nächster Zug sein.
+Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
+                <string lang="en">The timeline shows when the turns of you and your enemies take place.
+$b$Now$/b$, it's $slopperjohnson$'s turn. 
+Afterwards, time will tick forward and in 5 time steps it'll be the $chronocat$'s turn. 
+See that highlighted circle in 7 steps? That's where $slopperjohnson$'s next turn will be.
+After that, in 8 steps, it'll be the $fox$'s turn.</string>
+                <string lang="fr">La timeline montre quand les tours de vous et de vos ennemis ont lieu.
+$b$Maintenant$/b$, c'est le tour de $slopperjohnson$.
+Ensuite, le temps avancera et dans 5 étapes de temps, ce sera le tour de la $chronocat$.
+Voyez-vous le cercle mis en évidence dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ aura lieu.
+Après cela, dans 8 étapes, ce sera le tour du $fox$.</string>
+                <string lang="zh">时间线显示了你和敌人的回合发生的时间。
+$b$现在$/b$，是$slopperjohnson$的回合。
+之后，时间将向前滴答, 5个时间步骤后, 将是$chronocat$的回合。
+你看到7个步骤中高亮的圆圈吗? 那是$slopperjohnson$下一次回合的地方。
+之后, 在8个步骤中, 将是$fox$的回合。</string>
+                <string lang="jp">タイムラインは、あなたと敵のターンが発生する時間を示しています。
+$b$今$/b$、$slopperjohnson$のターンです。
+その後、時間が進み、5つのタイムステップ後には、$chronocat$のターンになります。
+7ステップの中にハイライトされた円がありますか? それは$slopperjohnson$の次のターンがある場所です。
+その後、8ステップで、$fox$のターンになります。</string>
+        </set>
+        <set id="tutorialwindow-plasma-header">
+                <string lang="de">Plasma Herstellen</string>
+                <string lang="en">Producing Plasma</string>
+                <string lang="fr">Produire du plasma</string>
+                <string lang="zh">生产等离子体</string>
+                <string lang="jp">プラズマの生産</string>
+        </set>
+        <set id="tutorialwindow-plasma-description">
+                <string lang="de">Denk' dran, dass dein $soulsensor$ wieder ausgelöst wird, wenn du einen weiteren Gegner erledigst.
+Mit dem $b$Plasma-Konverter$/b$ kannst du überschüssige Energie in $plasma$ umwandeln – eine wertvolle Ressource in dieser zerstörten Welt.</string>
+                <string lang="en">Remember that your $soulsensor$ will trigger again as you finish off another enemy.
+Have it wired to your new $b$Plasma Converter$/b$ to transform excess energy into $plasma$ – a valuable resource in this destroyed world.</string>
+                <string lang="fr">N'oubliez pas que votre $soulsensor$ se déclenchera à nouveau lorsque vous aurez terminé un autre ennemi.
+Avec le $b$Plasma Converter$/b$, vous pouvez transformer l'énergie excédentaire en $plasma$ – une ressource précieuse dans ce monde détruit.</string>
+                <string lang="zh">记住，当你结束另一个敌人时，你的$soulsensor$将再次触发。
+将它连接到你的新$b$等离子转换器$/b$，将多余的能量转换为$plasma$ - 这个破坏的世界中的一种宝贵资源。</string>
+                <string lang="jp">敵を倒した後、$soulsensor$が再びトリガーされることに注意してください。
+新しい$b$プラズマコンバーター$/b$に接続して、余剰エネルギーを$plasma$に変換することができます - この破壊された世界で貴重な資源です。</string>
+        </set>
+        <set id="tutorialwindow-plasmaconverter-description">
+                <string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!
+Was ein unglaublicher Fund!</string>
+                <string lang="en">A $b$Plasma Converter$/b$ with a $b$universal$/b$ input jack!
+What an amazing find!</string>
+                <string lang="fr">Un $b$Plasma Converter$/b$ avec une prise d'entrée $b$universelle$/b$!
+Quelle trouvaille incroyable!</string>
+                <string lang="zh">带通用输入插孔的等离子转换器！
+这是一个惊人的发现！</string>
+                <string lang="jp">ユニバーサル入力ジャックを備えたプラズマコンバーター！
+これは素晴らしい発見です！</string>
+        </set>
+        <set id="tutorialwindow-potionfactory-description">
+                <string lang="de">Ein voll funktionsfähiges $b$Blaster-Modul$/b$!
+Jackson, es ist endlich an der Zeit, dass du deine eigene Waffe bekommst!</string>
+                <string lang="en">A $b$Blaster Module$/b$! And it seems to work just fine.
+Jackson, I think it's finally time that you have a weapon of your own!</string>
+                <string lang="fr">Un $b$Blaster Module$/b$! Et il semble fonctionner parfaitement.
+Jackson, je pense que c'est enfin le moment où tu auras une arme à toi!</string>
+                <string lang="zh">$b$冲击波模块$/b$！ 它似乎工作得很好。
+杰克逊，我认为现在终于是你拥有自己的武器的时候了！</string>
+                <string lang="jp">$b$ブラスターモジュール$/b$！ そして、それはまさにうまく機能しているようです。
+ジャクソン、あなた自身の武器を持つのは、やっとのことです！</string>
+        </set>
+        <set id="tutorialwindow-bossshroom-description">
+                <string lang="de">Die starke Gravioaktivität in diesen Sümpfen muss von diesem gruseligen Riesenpilz ausgehen.
+Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
+                <string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.
+If we stick to what we have learned, we can defeat it!</string>
+                <string lang="fr">L'activité gravio forte dans ces marais doit venir de ce champignon géant effrayant.
+Si nous nous tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
+                <string lang="zh">这些沼泽地的强烈重力活动必须来自这个可怕的巨型蘑菇。
+如果我们坚持我们所学的，我们就可以打败它！</string>
+                <string lang="jp">この沼地の強力な重力活動は、この怖い巨大キノコから来ているのだろう。
+学んだことを守っていれば、それを倒すことができる！</string>
+        </set>
+        <set id="tutorialwindow-blade-header">
+                <string lang="de">Das Klingenmodul</string>
+                <string lang="en">The Blade Module</string>
+                <string lang="fr">Le module de lame</string>
+                <string lang="zh">刀片模块</string>
+                <string lang="jp">ブレードモジュール</string>
+        </set>
+        <set id="tutorialwindow-blade-description">
+                <string lang="de">Dein neues $blademodule$ schießt nicht auf Ziele, sondern trifft $b$alle Gegner auf dem gleichen Zeitschritt$/b$ wie sein Besitzer.</string>
+                <string lang="en">Your new $blademodule$ does not shoot targets, but instead hits $b$all enemies on the same time step$/b$ as its owner.</string>
+                <string lang="fr">Votre nouveau $blademodule$ ne tire pas sur les cibles, mais touche $b$tous les ennemis sur le même pas de temps$/b$ que son propriétaire.</string>
+                <string lang="zh">你的新刀片模块不会射击目标，而是命中与其所有者在同一时间步骤上的所有敌人。</string>
+                <string lang="jp">あなたの新しい$blademodule$はターゲットを撃ちませんが、代わりにその所有者と同じ時間ステップですべての敵を攻撃します。</string>
+        </set>
+        <set id="tutorialwindow-blade-description2">
+                <string lang="de">Der Zug des $fox$es ist gerade in einer Reihe mit dem von $slopperjohnson$!
+Setz das $blademodule$ ein, um ordentlich Schaden auszuteilen.</string>
+                <string lang="en">That $fox$'s turn is currently $b$aligned$/b$ with that of $slopperjohnson$!
+Use his $blademodule$ to deal serious damage.</string>
+                <string lang="fr">Le tour de ce $fox$ est actuellement $b$aligné$/b$ avec celui de $slopperjohnson$!
+Utilisez son $blademodule$ pour infliger de lourds dégâts.</string>
+                <string lang="zh">那只狐狸的回合目前与$slopperjohnson$的回合$b$对齐$/b$! 
+使用他的刀片模块来造成严重的伤害。</string>
+                <string lang="jp">その $fox$ のターンは、現在 $slopperjohnson$ のターンと $b$ 同期しています $/b$! 
+彼の $blademodule$ を使用して重大なダメージを与えます。</string>
+        </set>
+        <set id="tutorialwindow-decelerate-header">
+                <string lang="de">Zeitmanipulation II</string>
+                <string lang="en">Time Manipulation II</string>
+                <string lang="fr">Manipulation du temps II</string>
+                <string lang="zh">时间操作2</string>
+                <string lang="jp">時間操作2</string>
+        </set>
+        <set id="tutorialwindow-decelerate-description">
+                <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug auf der Zeitleiste mit $grav+$ nach hinten verschoben hat?
+$slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer$/b$-Modul!</string>
+                <string lang="en">Remember how the $chronocat$ pushed back a turn on the timeline with $grav+$?
+$slopperjackson$ can do the same with his $b$Decelerator$/b$ module!</string>
+                <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$?
+$slopperjackson$ peut faire la même chose avec son module $b$Décélérateur$/b$!</string>
+                <string lang="zh">还记得$chronocat$是如何用$grav+$将时间轴上的一个回合向后推的吗？
+$slopperjackson$可以用他的$b$减速器$/b$模块做同样的事情！</string>
+                <string lang="jp">$chronocat$ が $grav+$ でタイムライン上のターンを後ろに押し戻した方法を覚えていますか？
+$slopperjackson$ は、同じことを $b$ 減速器 $/b$ モジュールで行うことができます！</string>
+        </set>
+        <set id="tutorialwindow-decelerate-description2">
+                <string lang="de">Er sollte den Zug seines Bruders auf den nächsten Zeitschritt schieben. Dann ist er erneut auf dem selben Schritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
+                <string lang="en">He should $b$delay his brother's turn$/b$ to the next time step, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
+                <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$ au prochain pas de temps, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le module de lame.</string>
+                <string lang="zh">他应该将他的兄弟的回合$b$延迟$/b$到下一个时间步骤，这样它就会与敌人的回合$b$对齐$/b$，他就可以再次使用刀片模块。</string>
+                <string lang="jp">彼は、彼の兄弟のターンを次のタイムステップに $b$ 遅らせる $/b$ べきで、それは敵のターンと $b$ 同期しているので、彼は再びブレードモジュールを使用できます。</string>
+        </set>
+        <set id="happening-tutorial-slopperjacksonjoin-introduction">
+                <string lang="de">Ereignis</string>
+                <string lang="en">Event</string>
+                <string lang="fr">Événement</string>
+                <string lang="zh">事件</string>
+                <string lang="jp">イベント</string>
+        </set>
+        <set id="happening-tutorial-slopperjacksonjoin-heading">
+                <string lang="de">Brüderliches Wiedersehen</string>
+                <string lang="en">Brotherly Reunion</string>
+                <string lang="fr">Réunion fraternelle</string>
+                <string lang="zh">兄弟团聚</string>
+                <string lang="jp">兄弟団結</string>
+        </set>
+        <set id="happening-tutorial-slopperjacksonjoin-speech">
+                <string lang="de">Bruderherz! Warte!
+Du hast dein $blademodule$ vergessen! Hast du nicht gesagt, es sei deine wichtigste Waffe?
+$b$Wechsle zu meinem Rack$/b$ und ziehe es zuerst in den Rucksack und dann 'rüber in dein eigenes.
+Lass uns diese Monster gemeinsam erledigen!</string>
+                <string lang="en">Brother! Wait!
+You forgot your $blademodule$!
+Remember how you said it's your most important weapon?
+$b$Switch over to my rack$/b$ and drag it into the backpack, then drag it over into yours.
+Let's get rid of those monsters together!</string>
+                <string lang="fr">Frère! Attends!
+Tu as oublié ton $blademodule$! Tu ne m'avais pas dit que c'était ton arme la plus importante?
+$b$Passe à mon rack$/b$ et déplace-le dans le sac à dos, puis déplace-le dans le tien.
+Laissons-nous débarrasser de ces monstres ensemble!</string>
+                <string lang="zh">兄弟！等待！
+你忘了你的$b$刀片模块$！ 你不是说它是你最重要的武器吗？
+$b$切换到我的机架$/b$，然后将它拖到背包中，然后将它拖到你的机架中。
+让我们一起把这些怪物赶走！</string>
+                <string lang="jp">兄弟！ 待って！
+あなたはあなたの $blademodule$ を忘れてしまった！ あなたはそれがあなたの最も重要な武器だと言ったことを覚えていますか？
+$b$ 私のラックに切り替え $/b$ 、そしてそれをバックパックにドラッグし、それをあなたのラックにドラッグします。
+一緒にモンスターを退治しましょう！</string>
+</set>
+    <set id="tutorialwindow-sensors-title">
+        <string lang="de">Sensor-Module</string>
+        <string lang="en">Sensor Modules</string>
+        <string lang="fr">Modules de capteur</string>
+        <string lang="zh">传感器模块</string>
+        <string lang="jp">センサーモジュール</string>
+    </set>
+    <set id="tutorialwindow-sensors-description1">
+        <string lang="de">Dein neuer $soulsensor$ erzeugt $energy$, wenn ein Gegner stirbt.</string>
+        <string lang="en">Your new $soulsensor$ generates $energy$ whenever an enemy dies.</string>
+        <string lang="fr">Votre nouveau $soulsensor$ génère $energy$ chaque fois qu'un ennemi meurt.</string>
+        <string lang="zh">你的新的$b$灵魂传感器$会在敌人死亡时产生$b$能量$。</string>
+        <string lang="jp">あなたの新しい $soulsensor$ は、敵が死ぬたびに $energy$ を生成します。</string>
+    </set>
+<set id="tutorialwindow-sensors-description2">
+        <string lang="de">Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.
+Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.</string>
+        <string lang="en">Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.
+If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.</string>
+        <string lang="fr">Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.
+Si vous avez le $b$Potion de soin$/b$ connecté au $b$Soul Sensor$/b$ lorsque vous avez terminé votre ennemi, il recevra de l'énergie pour vous soigner.</string>
+        <string lang="zh">传感器模块无法存储能量：在同一回合使用它，否则它将消散。
+如果你在结束你的敌人时将$b$治疗药水$/b$连接到$b$灵魂传感器$/b$，它将获得能量来治愈你。</string>
+        <string lang="jp">センサーモジュールはエネルギーを保存できません：同じターンで使用するか、それは消失します。
+あなたの敵を終えるときに、$b$ヒーリングポーション$/b$が$b$ソウルセンサー$/b$に接続されている場合、それはあなたを治療するためのエネルギーを受け取ります。</string>
+    </set>
+    <set id="tutorialwindow-gravcharge-title">
+        <string lang="de">Grav.-Ladung</string>
+        <string lang="en">Grav. Charge</string>
+        <string lang="fr">Charge Grav.</string>
+        <string lang="zh">重力电荷</string>
+        <string lang="jp">重力チャージ</string>
+    </set>
+    <set id="tutorial-grav-equilibrium-window-title">
+        <string lang="de">Das Grav.-Equilibrium</string>
+        <string lang="en">The Grav. Equilibrium</string>
+        <string lang="fr">L'Équilibre Grav.</string>
+        <string lang="zh">重力平衡</string>
+        <string lang="jp">重力均衡</string>
+    </set>
+    <set id="tutorial-grav-equilibrium-window-description-1">
+        <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
+In regelmäßigen Abständen ebnet es Ungleichgewicht von $grav$ ein.</string>
+        <string lang="en">Now it's the turn of the $gravequilibrium$.
+It regularly levels imbalances of $grav$.</string>
+        <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
+Il équilibre régulièrement les déséquilibres de $grav$.</string>
+        <string lang="zh">现在是$b$重力平衡$/b$的回合。
+它定期平衡$grav$的不平衡。</string>
+        <string lang="jp">今度は、$gravequilibrium$ の番です。
+定期的に、$grav$ の不均衡を調整します。</string>
+    </set>
+    <set id="tutorial-grav-equilibrium-window-heading-positive">
+        <string lang="de">$grav+$ 
+wird halbiert$/b$ &lt;size=10&gt;(abgerundet)&lt;/size&gt;</string>
+        <string lang="en">$grav+$
+is halved$/b$ &lt;size=10&gt;(rounded down)&lt;/size&gt;</string>
+        <string lang="fr">$grav+$
+est partagée en deux$/b$</string>
+        <string lang="zh">$grav+$
+被减半$/b$ &lt;size=10&gt;(向下取整)&lt;/size&gt;</string>
+        <string lang="jp">$grav+$ 
+は半分になります$/b$ &lt;size=10&gt;(切り捨て)&lt;/size&gt;</string>
+    </set>
+    <set id="tutorial-grav-equilibrium-window-heading-negative">
+        <string lang="de">$grav-$
+führt zu einer $b$Grav.-Spitze$/b$</string>
+        <string lang="en">$grav-$
+results in a $b$Grav.-Spike$/b$</string>
+        <string lang="fr">$grav-$
+produit une $b$crête grav.$/b$</string>
+        <string lang="zh">$grav-$
+导致$b$重力尖刺$/b$</string>
+        <string lang="jp">$grav-$
+は$b$重力スパイク$/b$を引き起こします</string>
+    </set>
+    <set id="tutorial-grav-equilibrium-window-description-negative">
+        <string lang="de">$grav-$ wird neutralisiert.
+Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
+        <string lang="en">$grav-$ is neutralized. 
+combatants receive $b$half$/b$ of it as $damage$ (rounded up).</string>
+        <string lang="fr">$grav-$ est neutralisée. 
+combattants reçoivent la moitié comme $damage$.</string>
+        <string lang="zh">$grav-$ 被中和。
+战斗者获得$b$一半$/b$的$damage$ (向上取整)。</string>
+        <string lang="jp">$grav-$ は中和されます。
+戦闘参加者は、$damage$ として半分を受け取ります (切り上げ)。</string>
+    </set>
+    <set id="tutorialwindow-gravcharge-description-1">
+        <string lang="de">Die Reihenfolge der Züge kann mit $grav$ manipuliert werden.
+Züge können $b$in der Zeit nach hinten oder vorne$/b$ bewegt werden, indem Kampfteilnehmern $grav+$ oder $grav-$ zugefügt wird.</string>
+<string lang="en">The succession of turns can be manipulated with $grav$.
+Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
+<string lang="fr">$grav$ influence la succédance des événements dans le temps.
+Les tours peuvent être déplacés $b$en avant ou en arrière dans le temps$/b$ en appliquant $grav+$ ou $grav-$ au combattant.</string>
+<string lang="zh">战斗顺序可以通过$b$重力$来调整。
+战斗者可以通过使用$b$重力+$或重力-$来移动战斗顺序。</string>
+<string lang="jp">$grav$ は、ターンの順番を操作します。
+ターンは、戦闘参加者に $grav+$ または $grav-$ を適用することで、時間軸上で前後に移動できます。</string>
+    </set>
+    <set id="tutorialwindow-gravcharge-heading-positive">
+        <string lang="de">$grav+$ $b$verlangsamt Kampfteilnehmer$/b$
+&lt;size=8&gt;(schiebt sie auf der Zeitleiste nach hinten)&lt;/size&gt;
+        </string>
+        <string lang="en">$grav+$ $b$delays combatants$/b$
+&lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
+        <string lang="fr">$grav+$ $b$retarde les combattants$/b$
+&lt;size=8&gt;(pousse les combattants en arrière dans le temps)&lt;/size&gt;</string>
+        <string lang="zh">$grav+$ $b$延迟战斗者$/b$
+&lt;size=8&gt;(在时间轴上向后推进战斗者)&lt;/size&gt;</string>
+        <string lang="jp">$grav+$ $b$戦闘参加者を遅らせます$/b$
+&lt;size=8&gt;(タイムライン上で後ろに押し出します)&lt;/size&gt;</string>
+    </set>
+    <set id="tutorialwindow-gravcharge-heading-negative">
+        <string lang="de">$grav-$ $b$beschleunigt Kampfteilnehmer$/b$
+&lt;size=8&gt;(zieht sie auf der Zeitleiste nach vorne)&lt;/size&gt;</string>
+        <string lang="en">$grav-$ $b$accelerates combatants$/b$
+&lt;size=8&gt;(pulls them forward on the timeline)&lt;/size&gt;</string>
+        <string lang="fr">$grav-$
+accélère les combattants</string>
+        <string lang="zh">$grav-$ $b$加速战斗者$/b$
+&lt;size=8&gt;(在时间轴上向前拉进战斗者)&lt;/size&gt;</string>
+        <string lang="jp">$grav-$ $b$戦闘参加者を加速します$/b$
+&lt;size=8&gt;(タイムライン上で前に引き寄せます)&lt;/size&gt;</string>
+    </set>
+    <set id="tutorial-turn-order-window-title">
+        <string lang="de">Reihenfolge der Züge</string>
+        <string lang="en">Order of Turns</string>
+        <string lang="fr">L'Ordre des Tours</string>
+        <string lang="zh">战斗顺序</string>
+        <string lang="jp">ターンの順番</string>
+    </set>
+    <set id="tutorial-turn-order-window-description-1">
+        <string lang="de">Die $chronocat$ hat $slopperjohnson$ gerade mit $grav+2$ versehen, was seinen Zug hinter den des $fox$es geschoben hat!</string>
+        <string lang="en">That $chronocat$ has just applied $grav+2$ to $slopperjohnson$, pushing his turn behind that of the $fox$!</string>
+        <string lang="fr">Le $chronocat$ vient d'appliquer $grav+2$ à $slopperjohnson$, ce qui a décalé son tour derrière celui du $fox$!</string>
+        <string lang="zh">那个$chronocat$ 给 $slopperjohnson$ 增加了 $grav+2$. 这使他的轮次落后于 $fox$！</string>
+        <string lang="jp">$chronocat$ が $slopperjohnson$ に $grav+2$ を適用し、$fox$ のターンの後ろに押し出しました！</string>
+    </set>
+    <set id="tutorialwindow-battlerating-title">
+        <string lang="de">Die Kampfbewertung</string>
+        <string lang="en">The Battle Rating</string>
+        <string lang="fr">L'Évaluation de la Bataille</string>
+        <string lang="zh">战斗评分</string>
+        <string lang="jp">戦闘の評価</string>
+    </set>
+    <set id="tutorialwindow-battlerating-description1">
+        <string lang="de">Die Qualität der Belohnung hängt davon ab, wie schnell du es schaffst, den Kampf zu beenden.
+Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt.</string>
+        <string lang="en">The quality your loot depends on how quickly you manage to end the battle.
+The rating bar shows how much time you have left.</string>
+        <string lang="fr">La qualité de votre butin dépend de la rapidité avec laquelle vous parvenez à mettre fin au combat.
+La barre d'évaluation indique le temps qui vous reste.</string>
+        <string lang="zh">你的战利品质量取决于你能否快速结束战斗。
+评分条显示你还剩多少时间。</string>
+        <string lang="jp">戦闘を終了するまでの時間によって、戦利品の品質が決まります。
+評価バーは、あとどれくらいの時間があるかを示しています。</string>
+    </set>
+    <set id="tutorialwindow-battlerating-description2">
+        <string lang="de">Versuche immer, die Monster in der &lt;color&#61;#FFF500&gt;$crownicon$$b$Gold$/b$&lt;/color&gt; Bewertung zu besiegen, um $b$haltbarere und wertvollere Module$/b$ zu erhalten.
+Wenn du zu lange brauchst und die &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt; Bewertung verpasst, sammelt sich ein &lt;color&#61;#d16d5f&gt;$stormicon$$b$Sturm$/b$&lt;/color&gt; und der Kampf nimmt eine gefährliche Wendung.</string>
+        <string lang="en">Always aim to defeat the monsters in the &lt;color&#61;#FFF500&gt;$crownicon$$b$Gold$/b$&lt;/color&gt; rating, to receive more $b$durable and valuable$/b$ modules.
+If you take too long and miss &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt; rating, a &lt;color&#61;#d16d5f&gt;$stormicon$$b$Storm$/b$&lt;/color&gt; is gathering and the battle will take a dangerous turn.</string>
+        <string lang="fr">Toujours viser à vaincre les monstres dans la catégorie &lt;color&#61;#FFF500&gt;$crownicon$$b$Or$/b$&lt;/color&gt; pour recevoir des modules $b$plus durables et plus précieux$/b$.
+Si vous prenez trop de temps et que vous manquez la catégorie &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt;, une &lt;color&#61;#d16d5f&gt;$stormicon$$b$Tempête$/b$&lt;/color&gt; se forme et le combat prendra une tournure dangereuse.</string>
+        <string lang="zh">总是试图在 &lt;color&#61;#FFF500&gt;$crownicon$$b$金$/b$&lt;/color&gt; 评分下击败怪物，以获得 $b$更耐用和更有价值的模块$/b$。
+如果你花费太长时间，而且错过了 &lt;color&#61;#FF6008&gt;$crownicon$$b$铜$/b$&lt;/color&gt; 评分，一个 &lt;color&#61;#d16d5f&gt;$stormicon$$b$风暴$/b$&lt;/color&gt; 正在聚集，战斗将会出现危险的转折。</string>
+        <string lang="jp">モンスターを &lt;color&#61;#FFF500&gt;$crownicon$$b$金$/b$&lt;/color&gt; の評価で倒すようにしましょう。そうすれば、より耐久性の高いモジュールを入手できます。
+もし、&lt;color&#61;#FF6008&gt;$crownicon$$b$銅$/b$&lt;/color&gt; の評価を逃すと、&lt;color&#61;#d16d5f&gt;$stormicon$$b$嵐$/b$&lt;/color&gt; が集まり、戦闘は危険な方向に転じるかもしれません。</string>
+    </set>
+    <set id="ui-tutorialbutton-continue">
+        <string lang="de">Alles klar!</string>
+        <string lang="en">Got it!</string>
+        <string lang="fr">J'ai compris!</string>
+        <string lang="zh">明白了！</string>
+        <string lang="jp">わかった！</string>
+    </set>
+    <set id="ui-tutorialbutton-backpack">
+        <string lang="de">Nimm den
+Heiltrank</string>
+        <string lang="en">Take the potion</string>
+        <string lang="fr">Prendre la potion</string>
+        <string lang="zh">拿起药水</string>
+        <string lang="jp">ポーションを取る</string>
+    </set>
+    <set id="ui-tutorialbutton-blademodule-take">
+        <string lang="de">Übergebe das
+Klingenmodul</string>
+        <string lang="en">Hand over the
+Blade Module</string>
+        <string lang="fr">Donner le 
+module lame</string>
+        <string lang="zh">交出刀刃模块</string>
+        <string lang="jp">ブレードモジュールを渡す</string>
+    </set>
+    <set id="ui-tutorialbutton-blademodule">
+        <string lang="de">Verkabeln</string>
+        <string lang="en">Wire up!</string>
+        <string lang="fr">Câblez!</string>
+        <string lang="zh">接线！</string>
+        <string lang="jp">配線！</string>
+    </set>
+        <set id="ui-tutorialbutton-plasma">
+        <string lang="de">Verkabeln</string>
+        <string lang="en">Wire up!</string>
+        <string lang="fr">Câblez!</string>
+        <string lang="zh">接线！</string>
+        <string lang="jp">配線！</string>
+    </set>
+        <set id="ui-tutorialbutton-sensors">
+        <string lang="de">Verkabeln</string>
+        <string lang="en">Wire up!</string>
+        <string lang="fr">Câblez!</string>
+        <string lang="zh">接线！</string>
+        <string lang="jp">配線！</string>
+    </set>
+<set id="ui-tutorialbutton-wiring">
+        <string lang="de">Verkabeln</string>
+        <string lang="en">Wire up!</string>
+        <string lang="fr">Câblez!</string>
+        <string lang="zh">接线！</string>
+        <string lang="jp">配線！</string>
+    </set>
+    <set id="ui-tutorial-continuewithadventure">
+        <string lang="de">Abenteuer
+beginnen</string>
+        <string lang="en">Start the
+Adventure</string>
+        <string lang="fr">Commencer
+l'aventure</string>
+        <string lang="zh">开始冒险</string>
+        <string lang="jp">冒険を始める</string>
+    </set>
+</localization>

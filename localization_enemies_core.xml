@@ -1,0 +1,526 @@
+<localization>
+    <set id="name-boss-crocodile">
+        <string lang="de">Boss-Krokodil</string>
+        <string lang="en">Boss Crocodile</string>
+        <string lang="fr">Boss Crocodile</string>
+        <string lang="zh">頭目鳄鱼</string>
+        <string lang="jp">ボス クロコダイル</string>
+    </set>
+    <set id="name-boss-shroom">
+        <string lang="de">Pilzboss</string>
+        <string lang="en">Boss Shroom</string>
+        <string lang="fr">Boss Champignon</string>
+        <string lang="zh">頭目蘑菇</string>
+        <string lang="jp">ボス シュルム</string>
+    </set>
+    <set id="name-boss-crab">
+        <string lang="de">Kristallkrabbe</string>
+        <string lang="en">Crystal Crab</string>
+        <string lang="fr">Crabe Cristal</string>
+        <string lang="zh">水晶螃蟹</string>
+        <string lang="jp">クリスタルカニ</string>
+    </set>
+    <set id="name-boss-crab-leftclaw">
+        <string lang="de">Linke Schere</string>
+        <string lang="en">Left Claw</string>
+        <string lang="fr">Pince Gauche</string>
+        <string lang="zh">左爪</string>
+        <string lang="jp">左の爪</string>
+    </set>
+    <set id="name-boss-crab-rightclaw">
+        <string lang="de">Rechte Schere</string>
+        <string lang="en">Right Claw</string>
+        <string lang="fr">Pince Droite</string>
+        <string lang="zh">右爪</string>
+    </set>
+    <set id="name-enemy-chronocatnegative">
+        <string lang="de">Chronokatze $grav-icon$</string>
+        <string lang="en">Chronocat $grav-icon$</string>
+        <string lang="fr">Chronochat $grav-icon$</string>
+        <string lang="zh">时光猫 $grav-icon$</string>
+        <string lang="jp">クロノキャット $grav-icon$</string>
+    </set>
+    <set id="name-enemy-chronocatpositive">
+        <string lang="de">Chronokatze $grav+icon$</string>
+        <string lang="en">Chronocat $grav+icon$</string>
+        <string lang="fr">Chronochat $grav+icon$</string>
+        <string lang="zh">时光猫 $grav+icon$</string>
+        <string lang="jp">クロノキャット $grav+icon$</string>
+    </set>
+    <set id="name-enemy-crow">
+        <string lang="de">Krähe</string>
+        <string lang="en">Crow</string>
+        <string lang="fr">Corbeau</string>
+        <string lang="zh">乌鸦</string>
+        <string lang="jp">カラス</string>
+    </set>
+    <set id="name-enemy-crustyant">
+        <string lang="de">Kristall-Ameise</string>
+        <string lang="en">Crystal Ant</string>
+        <string lang="fr">Fourmi Cristal</string>
+        <string lang="zh">水晶蚂蚁</string>
+        <string lang="jp">クリスタル蟻</string>
+    </set>
+    <set id="name-enemy-wardcrust">
+        <string lang="de">Resonanzkristall</string>
+        <string lang="en">Resonant Crystal</string>
+        <string lang="fr">Cristal Résonant</string>
+        <string lang="zh">共振水晶</string>
+        <string lang="jp">共鳴クリスタル</string>
+    </set>
+    <set id="name-enemy-gravgnat">
+        <string lang="de">Grav.-Gnitze</string>
+        <string lang="en">Grav. Gnat</string>
+        <string lang="fr">Moucheron Grav.</string>
+        <string lang="zh">重力蚊子</string>
+        <string lang="jp">グラヴ蚋</string>
+    </set>
+    <set id="name-enemy-fox">
+        <string lang="de">Fuchs</string>
+        <string lang="en">Fox</string>
+        <string lang="fr">Renard</string>
+        <string lang="zh">狐狸</string>
+        <string lang="jp">狐</string>
+    </set>
+    <set id="name-enemy-frog">
+        <string lang="de">Gorf</string>
+        <string lang="en">Gorf</string>
+        <string lang="fr">Grenouille</string>
+        <string lang="zh">青蛙</string>
+        <string lang="jp">カエル</string>
+    </set>
+    <set id="name-enemy-gravanemone">
+        <string lang="de">Grav.-Anemone</string>
+        <string lang="en">Grav. Anemone</string>
+        <string lang="fr">Anémone Grav.</string>
+        <string lang="zh">重力海葵</string>
+        <string lang="jp">グラヴアネモネ</string>
+    </set>
+    <set id="name-enemy-gravcobra">
+        <string lang="de">Grav.-Kobra</string>
+        <string lang="en">Grav. Cobra</string>
+        <string lang="fr">Cobra Grav.</string>
+        <string lang="zh">重力眼镜蛇</string>
+        <string lang="jp">グラヴコブラ</string>
+    </set>
+    <set id="name-enemy-gravpolyp">
+        <string lang="de">Grav.-Polyp</string>
+        <string lang="en">Grav. Polyp</string>
+        <string lang="fr">Polype Grav.</string>
+        <string lang="zh">重力息肉</string>
+        <string lang="jp">重力ポリップ</string>
+    </set>
+    <set id="name-enemy-gravward">
+        <string lang="de">Grav.-Pylon</string>
+        <string lang="en">Grav. Pylon</string>
+        <string lang="fr">Pylône Grav.</string>
+        <string lang="zh">重力塔架</string>
+        <string lang="jp">グラヴパイロン</string>
+    </set>
+    <set id="name-enemy-plasmaward">
+        <string lang="de">Plasma-Pylon</string>
+        <string lang="en">Plasma Pylon</string>
+        <string lang="fr">Pylône Plasma</string>
+        <string lang="zh">等离子塔架</string>
+        <string lang="jp">プラズマパイロン</string>
+    </set>
+    <set id="name-enemy-mushroomblue">
+        <string lang="de">Grav.-Pilz $grav+icon$</string>
+        <string lang="en">Grav.-Shroom $grav+icon$</string>
+        <string lang="fr">Gravignon $grav+icon$</string>
+        <string lang="zh">重力蘑菇 $grav+icon$</string>
+        <string lang="jp">グラヴキノコ $grav+icon$</string>
+    </set>
+    <set id="name-enemy-mushroomyellow">
+        <string lang="de">Grav.-Pilz $grav-icon$</string>
+        <string lang="en">Grav.-Shroom $grav-icon$</string>
+        <string lang="fr">Gravignon $grav-icon$</string>
+        <string lang="zh">重力蘑菇 $grav-icon$</string>
+        <string lang="jp">グラヴキノコ $grav-icon$</string>
+    </set>
+    <set id="name-enemy-mushroomred">
+        <string lang="de">Giftpilz</string>
+        <string lang="en">Toxic Shroom</string>
+        <string lang="fr">Champignon Toxique</string>
+        <string lang="zh">毒蘑菇</string>
+        <string lang="jp">毒キノコ</string>
+    </set>
+    <set id="name-enemy-protozoon">
+        <string lang="de">Protozoon</string>
+        <string lang="en">Protozoan</string>
+        <string lang="fr">Protozoaire</string>
+        <string lang="zh">原生动物</string>
+        <string lang="jp">原生動物</string>
+    </set>
+    <set id="name-enemy-slime">
+        <string lang="de">Schleim</string>
+        <string lang="en">Ooze</string>
+        <string lang="fr">Mucus</string>
+        <string lang="zh">粘液</string>
+        <string lang="jp">スライム</string>
+    </set>
+    <set id="name-enemy-turretbomb">
+        <string lang="de">Bombenwerfer</string>
+        <string lang="en">Bomb Thrower</string>
+        <string lang="fr">Lanceur de Bombes</string>
+        <string lang="zh">炸弹发射器</string>
+        <string lang="jp">爆弾投下者</string>
+    </set>
+    <set id="shortname-boss-crocodile">
+        <string lang="de">Boss</string>
+        <string lang="en">Boss</string>
+        <string lang="fr">Boss</string>
+        <string lang="zh">頭目</string>
+        <string lang="jp">ボス</string>
+    </set>
+    <set id="shortname-boss-shroom">
+        <string lang="de">Boss</string>
+        <string lang="en">Boss</string>
+        <string lang="fr">Boss</string>
+        <string lang="zh">頭目</string>
+        <string lang="jp">ボス</string>
+    </set>
+    <set id="shortname-boss-crab">
+        <string lang="de">Boss</string>
+        <string lang="en">Boss</string>
+        <string lang="fr">Boss</string>
+        <string lang="zh">頭目</string>
+        <string lang="jp">ボス</string>
+    </set>
+    <set id="shortname-boss-crab-leftclaw">
+        <string lang="de">Linke Schere</string>
+        <string lang="en">Left Claw</string>
+        <string lang="fr">Pince Gauche</string>
+        <string lang="zh">左爪</string>
+        <string lang="jp">左の爪</string>
+    </set>
+    <set id="shortname-boss-crab-rightclaw">
+        <string lang="de">Rechte Schere</string>
+        <string lang="en">Right Claw</string>
+        <string lang="fr">Pince Droite</string>
+        <string lang="zh">右爪</string>
+        <string lang="jp">右の爪</string>
+    </set>
+    <set id="shortname-enemy-chronocatnegative">
+        <string lang="de">Chronokatze</string>
+        <string lang="en">Chronocat</string>
+        <string lang="fr">Chronochat</string>
+        <string lang="zh">时光猫</string>
+        <string lang="jp">クロノキャット</string>
+    </set>
+    <set id="shortname-enemy-chronocatpositive">
+        <string lang="de">Chronokatze</string>
+        <string lang="en">Chronocat</string>
+        <string lang="fr">Chronochat</string>
+        <string lang="zh">时光猫</string>
+        <string lang="jp">クロノキャット</string>
+    </set>
+    <set id="shortname-enemy-crow">
+        <string lang="de">Krähe</string>
+        <string lang="en">Crow</string>
+        <string lang="fr">Corbeau</string>
+        <string lang="zh">乌鸦</string>
+        <string lang="jp">カラス</string>
+    </set>
+    <set id="shortname-enemy-crustyant">
+        <string lang="de">Ameise</string>
+        <string lang="en">Ant</string>
+        <string lang="fr">Fourmi</string>
+        <string lang="zh">螞蟻</string>
+        <string lang="jp">蟻</string>
+    </set>
+    <set id="shortname-enemy-wardcrust">
+        <string lang="de">Kristall</string>
+        <string lang="en">Crystal</string>
+        <string lang="fr">Cristal</string>
+        <string lang="zh">水晶</string>
+        <string lang="jp">結晶</string>
+    </set>
+    <set id="shortname-enemy-gravgnat">
+        <string lang="de">Gnitze</string>
+        <string lang="en">Gnat</string>
+        <string lang="fr">Moucheron</string>
+        <string lang="zh">蚊子</string>
+        <string lang="jp">蚋</string>
+    </set>
+    <set id="shortname-enemy-firegnat">
+        <string lang="de">Gnitze</string>
+        <string lang="en">Gnat</string>
+        <string lang="fr">Moucheron</string>
+        <string lang="zh">蚊子</string>
+        <string lang="jp">蚋</string>
+    </set>
+    <set id="shortname-enemy-fox">
+        <string lang="de">Fuchs</string>
+        <string lang="en">Fox</string>
+        <string lang="fr">Renard</string>
+        <string lang="zh">狐狸</string>
+        <string lang="jp">狐</string>
+    </set>
+    <set id="shortname-enemy-frog">
+        <string lang="de">Gorf</string>
+        <string lang="en">Gorf</string>
+        <string lang="fr">Grenouille</string>
+        <string lang="zh">青蛙</string>
+        <string lang="jp">カエル</string>
+    </set>
+    <set id="shortname-enemy-gravanemone">
+        <string lang="de">Anemone</string>
+        <string lang="en">Anemone</string>
+        <string lang="fr">Anémone</string>
+        <string lang="zh">海葵</string>
+        <string lang="jp">海葵</string>
+    </set>
+    <set id="shortname-enemy-gravward">
+        <string lang="de">Pylon</string>
+        <string lang="en">Pylon</string>
+        <string lang="fr">Pylône</string>
+        <string lang="zh">塔</string>
+        <string lang="jp">鉄塔</string>
+    </set>
+    <set id="shortname-enemy-plasmaward">
+        <string lang="de">Pylon</string>
+        <string lang="en">Pylon</string>
+        <string lang="fr">Pylône</string>
+        <string lang="zh">塔</string>
+        <string lang="jp">鉄塔</string>
+    </set>
+    <set id="shortname-enemy-gravpolyp">
+        <string lang="de">Polyp</string>
+        <string lang="en">Polyp</string>
+        <string lang="fr">Polype</string>
+        <string lang="zh">息肉</string>
+        <string lang="jp">ポリープ</string>
+    </set>
+    <set id="shortname-enemy-slime">
+        <string lang="de">Schleim</string>
+        <string lang="en">Ooze</string>
+        <string lang="fr">Mucus</string>
+        <string lang="zh">粘液</string>
+        <string lang="jp">スライム</string>
+    </set>
+    <set id="shortname-enemy-gravcobra">
+        <string lang="de">Kobra</string>
+        <string lang="en">Cobra</string>
+        <string lang="fr">Cobra</string>
+        <string lang="zh">眼镜蛇</string>
+        <string lang="jp">コブラ</string>
+    </set>
+    <set id="shortname-enemy-turretbomb">
+        <string lang="de">Werfer</string>
+        <string lang="en">Thrower</string>
+        <string lang="fr">Lanceur</string>
+        <string lang="zh">投手</string>
+        <string lang="jp">ランチャー</string>
+    </set>
+    <set id="shortname-enemy-mushroomblue">
+        <string lang="de">Pilz</string>
+        <string lang="en">Shroom</string>
+        <string lang="fr">Gravignon</string>
+        <string lang="zh">蘑菇</string>
+        <string lang="jp">キノコ</string>
+    </set>
+    <set id="shortname-enemy-mushroomred">
+        <string lang="de">Pilz</string>
+        <string lang="en">Shroom</string>
+        <string lang="fr">Champignon</string>
+        <string lang="zh">蘑菇</string>
+        <string lang="jp">キノコ</string>
+    </set>
+    <set id="shortname-enemy-mushroomyellow">
+        <string lang="de">Pilz</string>
+        <string lang="en">Shroom</string>
+        <string lang="fr">Gravignon</string>
+        <string lang="zh">蘑菇</string>
+        <string lang="jp">キノコ</string>
+    </set>
+    <set id="shortname-enemy-protozoon">
+        <string lang="de">Protozoon</string>
+        <string lang="en">Protozoan</string>
+        <string lang="fr">Protozoaire</string>
+        <string lang="zh">原生动物</string>
+        <string lang="jp">原生動物</string>
+    </set>
+    <set id="description-boss-crocodile">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-boss-shroom">
+        <string lang="de">"Dieser muss der Ursprung der Pilze sein, die wir hier überall sehen. Wahrscheinlich kommunizieren sie über ein unterirdisches Netzwerk."</string>
+        <string lang="en">"This one must be the source of the smaller mushrooms we saw earlier. They must be communicating via a subterranean rhizome. Chop this one down, would you?"</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-boss-crab">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-boss-crab-leftclaw">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-boss-crab-rightclaw">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-chronocatpositive">
+        <string lang="de">"Sie erinnert vielleicht an eine Hauskatze, aber da hören die Gemeinsamkeiten schon auf. Sie "</string>
+        <string lang="en">"It might look much like a typical house cat, but that's where the similarities end. That and they might scratch you. And the unreliable temperament."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-chronocatnegative">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-crow">
+        <string lang="de">"Hörst du das Krähen? Diese Vögel sind sehr neugierig auf alles Fremde. Wenn sie aber anfangen, sich zu einem Schwarm zusammenzuschließen, solltest du dir Sorgen machen."</string>
+        <string lang="en">"You hear that caw-cawing noise? The crows are very curious about humans, which is fine enough. It’s when they start to form up into a swarm, that’ s when you need to worry."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravgnat">
+        <string lang="de">"Sie legen ihre Eier an besonders gravioaktive Stellen, was bedeutet, dass diese in Minuten schlüpfen."</string>
+        <string lang="en">"Those ones lay their eggs in especially gravioactive locations, meaning they incubate in a matter of minutes. Think about that for a sec. Now you understand why they’re thick as oatmeal down here."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-firegnat">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-crustyant">
+        <string lang="de">"Diese hier krabbeln hier überall am Höhlenboden entlang. Lass sie nicht zu nahe kommen, sonst verkleben sie deine Module. Das Zeug ist 'n echter Albtraum zum Entfernen."</string>
+        <string lang="en">"These ones scrape along the ground all around here. Don’t let them get near you or they’ll gum up your modules. Stuff’s an ordeal and a half to clean off."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-wardcrust">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-fox">
+        <string lang="de">"Diese Fieslinge wissen nur zu gut, wie man jemandem auflauert. Wnn sie dich überfallen, könnte ich schwören, dass man sie kichern hört."</string>
+        <string lang="en">"These meanies know how to sneak up behind and ambush you. When they land a hit, I swear you can hear them chuckle."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-frog">
+        <string lang="de">"Eugene liebte es, diese auf den Grill zu werfen. Seit der Gravistrophe versuchen sie, dasselbe mit ihm zu tun."</string>
+        <string lang="en">"Eugene used to love throwing those on the barbecue. Ever since the Gravistrophe, they’ve been trying to do the same to him."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravanemone">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravadillo">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravcobra">
+        <string lang="de">"Ein gefährliches und faszinierendes Wesen. Das Gute ist, an ihrer Haltung kannst du immer sehen, wenn sie sauer auf dich sind. Das Problem ist, sie sind immer sauer."</string>
+        <string lang="en">"A dangerous and mesmerizing creature. Best thing is, you can always tell when they’re mad at you by the posture. Trouble is, they’re always mad."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravpolyp">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-gravward">
+        <string lang="de">"In der Frühzeit der Gravitonik haben Leute diese Dinger benutzt, um ihre Häuser mit Energie zu versorgen. Sie entluden sich, wenn sie nicht richtig geerdet waren. Diese hier sehen alles andere als geerdet aus."</string>
+        <string lang="en">"In the early days of gravitonics, people would use those to power their homes. They tended to discharge when they weren’t properly grounded. These ones do not look grounded."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-plasmaward">
+        <string lang="de">"In der Frühzeit der Gravitonik haben Leute diese Dinger benutzt, um ihre Häuser mit Energie zu versorgen. Sie entluden sich, wenn sie nicht richtig geerdet waren. Diese hier sehen alles andere als geerdet aus."</string>
+        <string lang="en">"In the early days of gravitonics, people would use those to power their homes. They tended to discharge when they weren’t properly grounded. These ones do not look grounded."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-mushroomblue">
+        <string lang="de">"Ein Pilz so groß wie ein Mensch! Ich konnte es nicht glauben, als ich es hörte. Mit ihren Sporen scheinen sie die Zeit dehnen zu können. Wie sie wohl so geworden sind?"</string>
+        <string lang="en">"A toadstool the size of a human! I didn’t believe it when I heard. With their spores they seem able to dilate time. Wonder how they got to be that way."</string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-mushroomyellow">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-mushroomred">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-protozoon">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-slime">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+    <set id="description-enemy-turretbomb">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+    </set>
+</localization>
