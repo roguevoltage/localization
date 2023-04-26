@@ -806,16 +806,11 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
     </set>
     <set id="description-module-storagecellselfcharging">
-        <string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.
-Kann im Rucksack aufbewahrt werden.</string>
-        <string lang="en">Is charged with $1$ $energy$ at the end of combat.
-Can be kept in backpack.</string>
-        <string lang="fr">Est chargé avec $1$ $energy$ à la fin du combat.
-Peut être conservé dans le sac à dos.</string>
-        <string lang="zh">在戰鬥結束時為 $1$ $energy$ 充電。
-可以保存在背包中。</string>
-        <string lang="jp">戦闘終了時に $1$ $energy$ が充電されます。
-バックパックに保管できます。</string>
+        <string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
+        <string lang="en">Is charged with $1$ $energy$ at the end of combat.</string>
+        <string lang="fr">Est chargé avec $1$ $energy$ à la fin du combat.</string>
+        <string lang="zh">在戰鬥結束時為 $1$ $energy$ 充電。</string>
+        <string lang="jp">戦闘終了時に $1$ $energy$ が充電されます。</string>
     </set>
     <set id="description-module-timebomb">
         <string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.

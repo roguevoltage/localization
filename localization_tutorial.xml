@@ -384,10 +384,8 @@ accélère les combattants</string>
         <string lang="jp">戦闘の評価</string>
     </set>
     <set id="tutorialwindow-battlerating-description1">
-        <string lang="de">Die Qualität der Belohnung hängt davon ab, wie schnell du es schaffst, den Kampf zu beenden.
-Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt.</string>
-        <string lang="en">The quality your loot depends on how quickly you manage to end the battle.
-The rating bar shows how much time you have left.</string>
+        <string lang="de">Die Qualität deiner Belohnung hängt davon ab, wie schnell du es schaffst, den Kampf zu beenden. Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt.</string>
+        <string lang="en">The quality of your loot depends on how quickly you manage to end the battle. The rating bar shows how much time you have left.</string>
         <string lang="fr">La qualité de votre butin dépend de la rapidité avec laquelle vous parvenez à mettre fin au combat.
 La barre d'évaluation indique le temps qui vous reste.</string>
         <string lang="zh">你的战利品质量取决于你能否快速结束战斗。
@@ -396,10 +394,12 @@ La barre d'évaluation indique le temps qui vous reste.</string>
 評価バーは、あとどれくらいの時間があるかを示しています。</string>
     </set>
     <set id="tutorialwindow-battlerating-description2">
-        <string lang="de">Versuche immer, die Monster in der &lt;color&#61;#FFF500&gt;$crownicon$$b$Gold$/b$&lt;/color&gt; Bewertung zu besiegen, um $b$haltbarere und wertvollere Module$/b$ zu erhalten.
-Wenn du zu lange brauchst und die &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt; Bewertung verpasst, sammelt sich ein &lt;color&#61;#d16d5f&gt;$stormicon$$b$Sturm$/b$&lt;/color&gt; und der Kampf nimmt eine gefährliche Wendung.</string>
-        <string lang="en">Always aim to defeat the monsters in the &lt;color&#61;#FFF500&gt;$crownicon$$b$Gold$/b$&lt;/color&gt; rating, to receive more $b$durable and valuable$/b$ modules.
-If you take too long and miss &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt; rating, a &lt;color&#61;#d16d5f&gt;$stormicon$$b$Storm$/b$&lt;/color&gt; is gathering and the battle will take a dangerous turn.</string>
+        <string lang="de">Strebe immer nach der $gold$-Bewertung für die haltbarsten und wertvollsten Module. In $silver$ findest du Module guter Qualität.
+Eine $bronze$-Bewertung führt zu Modulen mit einmaliger Nutzung ($cracked$), die du einsetzen solltest, um wieder auf Kurs zu kommen.
+Solltest du noch länger brauchen, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
+        <string lang="en">Always aim for $gold$ rating for the most durable and valuable modules. $silver$ rating provides you with uncommon modules of good quality.
+In $bronze$ rating you will find single-use ($cracked$) modules, which you should use to get back on track.
+If you take even longer, a $storm$ is gathering and the battle will take a dangerous turn.</string>
         <string lang="fr">Toujours viser à vaincre les monstres dans la catégorie &lt;color&#61;#FFF500&gt;$crownicon$$b$Or$/b$&lt;/color&gt; pour recevoir des modules $b$plus durables et plus précieux$/b$.
 Si vous prenez trop de temps et que vous manquez la catégorie &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt;, une &lt;color&#61;#d16d5f&gt;$stormicon$$b$Tempête$/b$&lt;/color&gt; se forme et le combat prendra une tournure dangereuse.</string>
         <string lang="zh">总是试图在 &lt;color&#61;#FFF500&gt;$crownicon$$b$金$/b$&lt;/color&gt; 评分下击败怪物，以获得 $b$更耐用和更有价值的模块$/b$。

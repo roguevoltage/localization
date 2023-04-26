@@ -448,12 +448,12 @@
         <string lang="jp">$energy$を$1$追加、ターン終了まで。</string>
     </set>
         <set id="description-status-modulecrust">
-        <string lang="de">Modul kann nicht aktiviert werden.
-Die erste eingehende Energie bricht die Kruste</string>
-        <string lang="en">Module cannot be activated.
-First incoming energy will break the crust</string>
+        <string lang="de">Verhindert Aktivierung des Moduls.
+Die erste eingehende $energy$ bricht die Kruste</string>
+        <string lang="en">Prevents activation of module.
+First incoming $energy$ will break the crust</string>
         <string lang="fr">Module non activable.
-La première énergie entrante brise la croûte</string>
+La première $energy$ entrante brise la croûte</string>
         <string lang="zh">模块无法被激活。
 第一次受到的能量将会破坏外壳</string>
         <string lang="jp">モジュールはアクティブ化できません。
@@ -520,6 +520,13 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
     <set id="description-status-modulefragile">
         <string lang="de">Kann 1× pro Kampf sicher aktiviert werden</string>
         <string lang="en">Can be safely activated 1× per battle</string>
+        <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
+        <string lang="zh">可以在每场战斗中安全激活1次</string>
+        <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
+    </set>
+        <set id="description-status-modulefragile-discharge">
+        <string lang="de">Kann 1× pro Kampf sicher entladen werden</string>
+        <string lang="en">Can be safely discharged 1× per battle</string>
         <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
         <string lang="zh">可以在每场战斗中安全激活1次</string>
         <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
@@ -747,10 +754,16 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="zh">更高的$energy$会导致更好的模块</string>
         <string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
     </set>
-    <set id="discharge-storesenergy">
+        <set id="discharge-storesenergy">
         <string lang="de">Speichert $energy$ über Züge und Kämpfe hinweg</string>
-        <string lang="en">Stores $energy$ throughout
-turns and battles</string>
+        <string lang="en">Stores $energy$ throughout turns and battles</string>
+        <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
+        <string lang="zh">在多个回合和战斗中存储$energy$</string>
+        <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
+    </set>
+    <set id="discharge-storesenergy-capped">
+        <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge und Kämpfe hinweg</string>
+        <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ throughout turns and battles</string>
         <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
         <string lang="zh">在多个回合和战斗中存储$energy$</string>
         <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
