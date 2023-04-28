@@ -26,8 +26,8 @@ Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'aut
 一部は$energy$を生成し、一部は増幅または保存し、他の一部は効果に変換します。</string>
             </set>
             <set id="tutorial-wiring-title">
-                <string lang="de">Verkabeln</string>
-                <string lang="en">Wiring</string>
+                <string lang="de">Module Verkabeln</string>
+                <string lang="en">Wiring Modules</string>
                 <string lang="fr">Cabler</string>
                 <string lang="zh">连接</string>
                 <string lang="jp">配線</string>
@@ -47,9 +47,9 @@ Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'aut
                 <string lang="jp">バックパック</string>
         </set>
         <set id="tutorialwindow-backpack-description">
-                <string lang="de">In deinem $b$Rucksack$/b$ kannst du Module lagern, die du nicht unmittelbar benötigst, oder Module zwischen Charakteren tauschen.
+                <string lang="de">In deinem $b$Rucksack$/b$ kannst du Module lagern oder Module zwischen Charakteren tauschen.
 Darin ist ein $b$Heiltrank$/b$, aber du kannst ihn noch nicht benutzen, da seine Input-Buchse &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; ist!</string>
-                <string lang="en">In the $b$backpack$/b$ you can store modules that you don't need immediately and exchange modules between characters.
+                <string lang="en">In the $b$backpack$/b$ you can store modules and exchange modules between characters.
 There is a $b$Healing Potion$/b$ in it, but you can't use it just yet since its input jack is &lt;color=green&gt;$b$green$/b$&lt;/color&gt;!</string>
                 <string lang="fr">Dans le $b$sac à dos$/b$, vous pouvez stocker des modules que vous n'avez pas besoin immédiatement et échanger des modules entre les personnages.
 Il y a une $b$Potion de soin$/b$ dedans, mais vous ne pouvez pas l'utiliser pour le moment car sa prise d'entrée est &lt;color=green&gt;$b$verte$/b$&lt;/color&gt;!</string>
@@ -149,7 +149,7 @@ Si nous nous tenons à ce que nous avons appris, nous pouvons le vaincre!</strin
         </set>
         <set id="tutorialwindow-blade-header">
                 <string lang="de">Das Klingenmodul</string>
-                <string lang="en">The Blade Module</string>
+                <string lang="en">The Blade Module: Aligned Turns</string>
                 <string lang="fr">Le module de lame</string>
                 <string lang="zh">刀片模块</string>
                 <string lang="jp">ブレードモジュール</string>
@@ -175,16 +175,14 @@ Utilisez son $blademodule$ pour infliger de lourds dégâts.</string>
         </set>
         <set id="tutorialwindow-decelerate-header">
                 <string lang="de">Zeitmanipulation II</string>
-                <string lang="en">Time Manipulation II</string>
+                <string lang="en">Time Manipulation II: Aligning Turns</string>
                 <string lang="fr">Manipulation du temps II</string>
                 <string lang="zh">时间操作2</string>
                 <string lang="jp">時間操作2</string>
         </set>
         <set id="tutorialwindow-decelerate-description">
-                <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug auf der Zeitleiste mit $grav+$ nach hinten verschoben hat?
-$slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer$/b$-Modul!</string>
-                <string lang="en">Remember how the $chronocat$ pushed back a turn on the timeline with $grav+$?
-$slopperjackson$ can do the same with his $b$Decelerator$/b$ module!</string>
+                <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug auf der Zeitleiste mit $grav+$ nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer$/b$-Modul!</string>
+                <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator$/b$ module!</string>
                 <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$?
 $slopperjackson$ peut faire la même chose avec son module $b$Décélérateur$/b$!</string>
                 <string lang="zh">还记得$chronocat$是如何用$grav+$将时间轴上的一个回合向后推的吗？
@@ -194,7 +192,7 @@ $slopperjackson$ は、同じことを $b$ 減速器 $/b$ モジュールで行�
         </set>
         <set id="tutorialwindow-decelerate-description2">
                 <string lang="de">Er sollte den Zug seines Bruders auf den nächsten Zeitschritt schieben. Dann ist er erneut auf dem selben Schritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
-                <string lang="en">He should $b$delay his brother's turn$/b$ to the next time step, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
+                <string lang="en">Now he should $b$push his brother's turn$/b$ to the next time step, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
                 <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$ au prochain pas de temps, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le module de lame.</string>
                 <string lang="zh">他应该将他的兄弟的回合$b$延迟$/b$到下一个时间步骤，这样它就会与敌人的回合$b$对齐$/b$，他就可以再次使用刀片模块。</string>
                 <string lang="jp">彼は、彼の兄弟のターンを次のタイムステップに $b$ 遅らせる $/b$ べきで、それは敵のターンと $b$ 同期しているので、彼は再びブレードモジュールを使用できます。</string>
@@ -252,10 +250,10 @@ $b$ 私のラックに切り替え $/b$ 、そしてそれをバックパック�
         <string lang="jp">あなたの新しい $soulsensor$ は、敵が死ぬたびに $energy$ を生成します。</string>
     </set>
 <set id="tutorialwindow-sensors-description2">
-        <string lang="de">Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.
-Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.</string>
-        <string lang="en">Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.
-If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.</string>
+        <string lang="de">Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.
+Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.</string>
+        <string lang="en">If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.
+Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.</string>
         <string lang="fr">Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.
 Si vous avez le $b$Potion de soin$/b$ connecté au $b$Soul Sensor$/b$ lorsque vous avez terminé votre ennemi, il recevra de l'énergie pour vous soigner.</string>
         <string lang="zh">传感器模块无法存储能量：在同一回合使用它，否则它将消散。
@@ -394,10 +392,10 @@ La barre d'évaluation indique le temps qui vous reste.</string>
 評価バーは、あとどれくらいの時間があるかを示しています。</string>
     </set>
     <set id="tutorialwindow-battlerating-description2">
-        <string lang="de">Strebe immer nach der $gold$-Bewertung für die haltbarsten und wertvollsten Module. In $silver$ findest du Module guter Qualität.
+        <string lang="de">Strebe immer nach der $gold$-Bewertung für die haltbarsten und wertvollsten Module.
 Eine $bronze$-Bewertung führt zu Modulen mit einmaliger Nutzung ($cracked$), die du einsetzen solltest, um wieder auf Kurs zu kommen.
 Solltest du noch länger brauchen, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
-        <string lang="en">Always aim for $gold$ rating for the most durable and valuable modules. $silver$ rating provides you with uncommon modules of good quality.
+        <string lang="en">Always aim for $gold$ rating for the most durable and valuable modules.
 In $bronze$ rating you will find single-use ($cracked$) modules, which you should use to get back on track.
 If you take even longer, a $storm$ is gathering and the battle will take a dangerous turn.</string>
         <string lang="fr">Toujours viser à vaincre les monstres dans la catégorie &lt;color&#61;#FFF500&gt;$crownicon$$b$Or$/b$&lt;/color&gt; pour recevoir des modules $b$plus durables et plus précieux$/b$.
@@ -415,9 +413,10 @@ Si vous prenez trop de temps et que vous manquez la catégorie &lt;color&#61;#FF
         <string lang="jp">わかった！</string>
     </set>
     <set id="ui-tutorialbutton-backpack">
-        <string lang="de">Nimm den
-Heiltrank</string>
-        <string lang="en">Take the potion</string>
+        <string lang="de">Ziehe Heiltrank
+aus Rucksack</string>
+        <string lang="en">Drag potion
+from backpack</string>
         <string lang="fr">Prendre la potion</string>
         <string lang="zh">拿起药水</string>
         <string lang="jp">ポーションを取る</string>
@@ -425,8 +424,8 @@ Heiltrank</string>
     <set id="ui-tutorialbutton-blademodule-take">
         <string lang="de">Übergebe das
 Klingenmodul</string>
-        <string lang="en">Hand over the
-Blade Module</string>
+        <string lang="en">Pass the Blade 
+Module to Johnson</string>
         <string lang="fr">Donner le 
 module lame</string>
         <string lang="zh">交出刀刃模块</string>
@@ -434,21 +433,24 @@ module lame</string>
     </set>
     <set id="ui-tutorialbutton-blademodule">
         <string lang="de">Verkabeln</string>
-        <string lang="en">Wire up!</string>
+        <string lang="en">Wire up the
+Blade Module</string>
         <string lang="fr">Câblez!</string>
         <string lang="zh">接线！</string>
         <string lang="jp">配線！</string>
     </set>
         <set id="ui-tutorialbutton-plasma">
         <string lang="de">Verkabeln</string>
-        <string lang="en">Wire up!</string>
+        <string lang="en">Wire up the
+Plasma Converter</string>
         <string lang="fr">Câblez!</string>
         <string lang="zh">接线！</string>
         <string lang="jp">配線！</string>
     </set>
         <set id="ui-tutorialbutton-sensors">
         <string lang="de">Verkabeln</string>
-        <string lang="en">Wire up!</string>
+        <string lang="en">Connect Potion
+and Sensor</string>
         <string lang="fr">Câblez!</string>
         <string lang="zh">接线！</string>
         <string lang="jp">配線！</string>

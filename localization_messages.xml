@@ -276,6 +276,14 @@ le même module</string>
         <string lang="zh">没有目标</string>
         <string lang="jp">ターゲットなし</string>
     </set>
+    <set id="message-notarget-blademodule">
+        <string lang="de">Kein Ziel</string>
+        <string lang="en">No targets.
+Targets must be aligned with character on timeline.</string>
+        <string lang="fr">Pas de cible</string>
+        <string lang="zh">没有目标</string>
+        <string lang="jp">ターゲットなし</string>
+    </set>
     <set id="message-rackconnect">
         <string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
         <string lang="en">Connect the modules you want to activate with wires.</string>
@@ -397,9 +405,9 @@ le même module</string>
     </set>
     <set id="worldmessage-collectorlosesenergy">
         <string lang="de">$energy$
-ungenutzt</string>
+verfliegt</string>
         <string lang="en">$energy$
-unused</string>
+dissipates</string>
         <string lang="fr">$energy$
 non utilisé</string>
         <string lang="zh">$energy$
