@@ -31,7 +31,7 @@
         <string lang="de">Krusten-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Crust Sensor $MODIFICATIONVALUE$</string>
         <string lang="fr">Senseur Croûte $MODIFICATIONVALUE$</string>
-        <string lang="zh">水晶感应器 $MODIFICATIONVALUE$</string>
+        <string lang="zh">结晶感应器 $MODIFICATIONVALUE$</string>
         <string lang="jp">クリスタルセンサー $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-collectorcrust">
@@ -45,7 +45,7 @@
         <string lang="de">Grav.-Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
         <string lang="fr">Senseur Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
-        <string lang="zh">重力感应器 $grav-icon$ $MODIFICATIONVALUE$</string>
+        <string lang="zh">引力感应器 $grav-icon$ $MODIFICATIONVALUE$</string>
         <string lang="jp">重力センサー $grav-icon$ $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-collectorgravneg">
@@ -59,14 +59,14 @@
         <string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
         <string lang="fr">Senseur Crête Grav. $MODIFICATIONVALUE$</string>
-        <string lang="zh">重力尖刺感应器 $MODIFICATIONVALUE$</string>
+        <string lang="zh">引力尖峰感应器 $MODIFICATIONVALUE$</string>
         <string lang="jp">重力スパイクセンサー $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-collectorgravspike">
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a Grav. Spike touches down.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
-        <string lang="zh">每当重力尖刺触地时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当引力尖峰触地时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectormight">
@@ -176,7 +176,7 @@
         <string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Immunizer $MODIFICATIONVALUE$</string>
         <string lang="fr">Immuniseur Grav. $MODIFICATIONVALUE$</string>
-        <string lang="zh">重力免疫器 $MODIFICATIONVALUE$</string>
+        <string lang="zh">引力免疫器 $MODIFICATIONVALUE$</string>
         <string lang="jp">重力免疫装置 $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-effectorgravimmunity">
@@ -315,7 +315,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Grav.-Abnehmer</string>
         <string lang="en">Grav. Outlet</string>
         <string lang="fr">Prise Grav.</string>
-        <string lang="zh">重力排放口</string>
+        <string lang="zh">引力排放口</string>
         <string lang="jp">重力アウトレット</string>
     </set>
     <set id="description-module-gravoutlet">
@@ -329,7 +329,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Grav.-Magnet $grav-icon$</string>
         <string lang="en">Grav. Magnet $grav-icon$</string>
         <string lang="fr">Magnéte Grav. $grav-icon$</string>
-        <string lang="zh">重力磁铁 $grav-icon$</string>
+        <string lang="zh">引力磁铁 $grav-icon$</string>
         <string lang="jp">重力マグネット $grav-icon$</string>
     </set>
     <set id="description-module-magnetgravneg">
@@ -474,7 +474,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Boostergranate</string>
         <string lang="en">Booster Grenade</string>
         <string lang="fr">Grenade de Boost</string>
-        <string lang="zh">增幅手榴弹</string>
+        <string lang="zh">增强手榴弹</string>
         <string lang="jp">ブースターグレネード</string>
     </set>
     <set id="description-module-toggledmodifierbooster">
