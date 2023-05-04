@@ -279,12 +279,12 @@
         <string lang="zh">等离子爆裂</string>
         <string lang="jp">プラズマ爆燃</string>
     </set>
-    <set id="name-skill-modulegravrecoil-slime">
-        <string lang="de">Verschleimen</string>
-        <string lang="en">Ooze</string>
-        <string lang="fr">Glaire</string>
-        <string lang="zh">粘液</string>
-        <string lang="jp">粘液</string>
+    <set id="name-skill-modulepollution-slime">
+        <string lang="de">Verschleimen $pollutionicon$</string>
+        <string lang="en">Toxic Ooze $pollutionicon$</string>
+        <string lang="fr">Glaire $pollutionicon$</string>
+        <string lang="zh">粘液 $pollutionicon$</string>
+        <string lang="jp">粘液 $pollutionicon$</string>
     </set>
     <set id="name-skill-modulegravrecoil-bosscrocodile">
         <string lang="de">Rohe Gewalt</string>
@@ -584,12 +584,12 @@ and inflicts $grav+2$</string>
         <string lang="zh">给机体上的模块施加电流</string>
         <string lang="jp">ラックのモジュールに電流を与える</string>
     </set>
-    <set id="description-skill-modulegravrecoil-slime">
-        <string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
-        <string lang="en">Deals $1damage$ to an enemy and inflicts one module with $gravrecoil$.</string>
-        <string lang="fr">Inflige $1damage$ à un ennemi et applique $gravrecoil$ à un module.</string>
-        <string lang="zh">给一个敌人造成 $1damage$ 并给一个模块施加 $gravrecoil$</string>
-        <string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
+    <set id="description-skill-modulepollution-slime">
+        <string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $pollution$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts one module with $pollution$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et applique $pollution$ à un module.</string>
+        <string lang="zh">给一个敌人造成 $1damage$ 并给一个模块施加 $pollution$</string>
+        <string lang="jp">敵に $1damage$ を与え、モジュールに $pollution$ を与える</string>
     </set>
     <set id="description-skill-modulegravrecoil-bosscrocodile">
         <string lang="de">Fügt allen Gegnern $1damage$ zu und versieht je ein Modul mit $gravrecoil$.</string>
