@@ -34,33 +34,40 @@
         <string lang="zh">跳过回合</string>
         <string lang="jp">ターンをスキップします</string>
     </set>
-    <set id="ui-prototype">
+    <set id="scope-prototype">
         <string lang="de">Prototyp</string>
         <string lang="en">Prototype</string>
         <string lang="fr">Prototype</string>
         <string lang="zh">原型</string>
         <string lang="jp">プロトタイプ</string>
     </set>
-    <set id="ui-alpha-demo">
-        <string lang="de">Alpha Demo</string>
-        <string lang="en">Alpha Demo</string>
-        <string lang="fr">Alpha Démo</string>
-        <string lang="zh">测试版 演示</string>
-        <string lang="jp">アルファ・デモ</string>
+    <set id="scope-demo">
+        <string lang="de">Steam Demo</string>
+        <string lang="en">Steam Demo</string>
+        <string lang="fr">Steam Démo</string>
+        <string lang="zh">Steam 演示</string>
+        <string lang="jp">Steam デモ</string>
     </set>
-        <set id="ui-demo">
-        <string lang="de">Demo</string>
-        <string lang="en">Demo</string>
-        <string lang="fr">Démo</string>
-        <string lang="zh">演示</string>
-        <string lang="jp">デモ</string>
+    <set id="scope-extendeddemo">
+        <string lang="de">Extended Demo</string>
+        <string lang="en">Extended Demo</string>
+        <string lang="fr">Extended Démo</string>
+        <string lang="zh">Extended 演示</string>
+        <string lang="jp">Extended デモ</string>
     </set>
-    <set id="ui-version">
-        <string lang="de">v. </string>
-        <string lang="en">v. </string>
-        <string lang="fr">v. </string>
-        <string lang="zh">v. </string>
-        <string lang="jp">v. </string>
+    <set id="scope-earlyaccess">
+        <string lang="de">Early Access</string>
+        <string lang="en">Early Access</string>
+        <string lang="fr">Early Access</string>
+        <string lang="zh">Early Access</string>
+        <string lang="jp">Early Access</string>
+    </set>
+    <set id="scope-version">
+        <string lang="de">v. $VERSION$</string>
+        <string lang="en">v. $VERSION$</string>
+        <string lang="fr">v. $VERSION$</string>
+        <string lang="zh">v. $VERSION$</string>
+        <string lang="jp">v. $VERSION$</string>
     </set>
     <set id="ui-confidential">
         <string lang="de">Nur für den internen Gebrauch</string>
@@ -659,10 +666,10 @@ Developer</string>
         <string lang="jp">QUIT AND JOIN DISCORD</string>
     </set>
     <set id="quitscreen-justquit">
-        <string lang="de">JUST QUIT</string>
-        <string lang="en">JUST QUIT</string>
-        <string lang="fr">JUST QUIT</string>
-        <string lang="zh">JUST QUIT</string>
-        <string lang="jp">JUST QUIT</string>
+        <string lang="de">QUIT</string>
+        <string lang="en">QUIT</string>
+        <string lang="fr">QUIT</string>
+        <string lang="zh">QUIT</string>
+        <string lang="jp">QUIT</string>
     </set>
 </localization>
