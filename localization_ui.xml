@@ -48,6 +48,13 @@
         <string lang="zh">测试版 演示</string>
         <string lang="jp">アルファ・デモ</string>
     </set>
+        <set id="ui-demo">
+        <string lang="de">Demo</string>
+        <string lang="en">Demo</string>
+        <string lang="fr">Démo</string>
+        <string lang="zh">演示</string>
+        <string lang="jp">デモ</string>
+    </set>
     <set id="ui-version">
         <string lang="de">v. </string>
         <string lang="en">v. </string>
@@ -610,5 +617,52 @@ if toggled on</string>
 si activé</string>
         <string lang="zh">如果开启，将在射击序列中被激活</string>
         <string lang="jp">オンに設定されている場合、発射シーケンス中にアクティブになります</string>
+    </set>
+    <set id="quitscreen-header">
+        <string lang="de">Thank you for playing</string>
+        <string lang="en">Thank you for playing</string>
+        <string lang="fr">Thank you for playing</string>
+        <string lang="zh">Thank you for playing</string>
+        <string lang="jp">Thank you for playing</string>
+    </set>
+    <set id="quitscreen-description">
+        <string lang="de">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="en">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="fr">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="zh">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="jp">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+    </set>
+    <set id="quitscreen-developer">
+        <string lang="de">$b$Luca$/b$
+Developer</string>
+        <string lang="en">$b$Luca$/b$
+Developer</string>
+        <string lang="fr">$b$Luca$/b$
+Developer</string>
+        <string lang="zh">$b$Luca$/b$
+Developer</string>
+        <string lang="jp">$b$Luca$/b$
+Developer</string>
+    </set>
+    <set id="quitscreen-quittowishlist">
+        <string lang="de">QUIT TO STEAM WISHLIST</string>
+        <string lang="en">QUIT TO STEAM WISHLIST</string>
+        <string lang="fr">QUIT TO STEAM WISHLIST</string>
+        <string lang="zh">QUIT TO STEAM WISHLIST</string>
+        <string lang="jp">QUIT TO STEAM WISHLIST</string>
+    </set>
+    <set id="quitscreen-quittodiscord">
+        <string lang="de">QUIT AND JOIN DISCORD</string>
+        <string lang="en">QUIT AND JOIN DISCORD</string>
+        <string lang="fr">QUIT AND JOIN DISCORD</string>
+        <string lang="zh">QUIT AND JOIN DISCORD</string>
+        <string lang="jp">QUIT AND JOIN DISCORD</string>
+    </set>
+    <set id="quitscreen-justquit">
+        <string lang="de">JUST QUIT</string>
+        <string lang="en">JUST QUIT</string>
+        <string lang="fr">JUST QUIT</string>
+        <string lang="zh">JUST QUIT</string>
+        <string lang="jp">JUST QUIT</string>
     </set>
 </localization>
