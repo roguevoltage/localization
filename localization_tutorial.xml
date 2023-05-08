@@ -26,8 +26,8 @@ Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'aut
 一部は$energy$を生成し、一部は増幅または保存し、他の一部は効果に変換します。</string>
             </set>
             <set id="tutorial-wiring-title">
-                <string lang="de">Module Verkabeln</string>
-                <string lang="en">Wiring Modules</string>
+                <string lang="de">Verkabeln</string>
+                <string lang="en">Wiring</string>
                 <string lang="fr">Cabler</string>
                 <string lang="zh">连接</string>
                 <string lang="jp">配線</string>
@@ -71,8 +71,7 @@ $b$Jetzt$/b$ ist $slopperjohnson$s Zug.
 Danach tickt die Zeit vorwärts und in 5 Zeitschritten ist die $chronocat$ an der Reihe.
 Siehst du den markierten Punkt in 7 Schritten? Dann wird $slopperjohnson$s nächster Zug sein.
 Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
-                <string lang="en">The timeline shows when the turns of you and your enemies take place.
-$b$Now$/b$, it's $slopperjohnson$'s turn. 
+                <string lang="en">$b$Now$/b$, it's $slopperjohnson$'s turn. 
 Afterwards, time will tick forward and in 5 time steps it'll be the $chronocat$'s turn. 
 See that highlighted circle in 7 steps? That's where $slopperjohnson$'s next turn will be.
 After that, in 8 steps, it'll be the $fox$'s turn.</string>
@@ -324,10 +323,8 @@ combattants reçoivent la moitié comme $damage$.</string>
 戦闘参加者は、$damage$ として半分を受け取ります (切り上げ)。</string>
     </set>
     <set id="tutorialwindow-gravcharge-description-1">
-        <string lang="de">Die Reihenfolge der Züge kann mit $grav$ manipuliert werden.
-Züge können $b$in der Zeit nach hinten oder vorne$/b$ bewegt werden, indem Kampfteilnehmern $grav+$ oder $grav-$ zugefügt wird.</string>
-<string lang="en">The succession of turns can be manipulated with $grav$.
-Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
+        <string lang="de">Züge können $b$in der Zeit nach hinten oder vorne$/b$ bewegt werden, indem Kampfteilnehmern $grav+$ oder $grav-$ zugefügt wird.</string>
+<string lang="en">Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
 <string lang="fr">$grav$ influence la succédance des événements dans le temps.
 Les tours peuvent être déplacés $b$en avant ou en arrière dans le temps$/b$ en appliquant $grav+$ ou $grav-$ au combattant.</string>
 <string lang="zh">回合的連續性可以用 $grav$ 來控制。
@@ -383,7 +380,7 @@ accélère les combattants</string>
     </set>
     <set id="tutorialwindow-battlerating-description1">
         <string lang="de">Die Qualität deiner Belohnung hängt davon ab, wie schnell du es schaffst, den Kampf zu beenden. Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt.</string>
-        <string lang="en">The quality of your loot depends on how quickly you manage to end the battle. The rating bar shows how much time you have left.</string>
+        <string lang="en">The rating bar shows how much time you have left to end the battle.</string>
         <string lang="fr">La qualité de votre butin dépend de la rapidité avec laquelle vous parvenez à mettre fin au combat.
 La barre d'évaluation indique le temps qui vous reste.</string>
         <string lang="zh">你的战利品质量取决于你能否快速结束战斗。
@@ -395,7 +392,7 @@ La barre d'évaluation indique le temps qui vous reste.</string>
         <string lang="de">Strebe immer nach der $gold$-Bewertung für die haltbarsten und wertvollsten Module.
 Eine $bronze$-Bewertung führt zu Modulen mit einmaliger Nutzung ($cracked$), die du einsetzen solltest, um wieder auf Kurs zu kommen.
 Solltest du noch länger brauchen, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
-        <string lang="en">Always aim for $gold$ rating for the most durable and valuable modules.
+        <string lang="en">Always aim for $gold$ rating to receive the most durable and valuable modules as loot.
 In $bronze$ rating you will find single-use ($cracked$) modules, which you should use to get back on track.
 If you take even longer, a $storm$ is gathering and the battle will take a dangerous turn.</string>
         <string lang="fr">Toujours viser à vaincre les monstres dans la catégorie &lt;color&#61;#FFF500&gt;$crownicon$$b$Or$/b$&lt;/color&gt; pour recevoir des modules $b$plus durables et plus précieux$/b$.

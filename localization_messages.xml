@@ -117,6 +117,13 @@ output jack</string>
         <string lang="zh">将输入连接到输出</string>
         <string lang="jp">入力を出力に接続</string>
     </set>
+        <set id="error-cannotwirecircular">
+        <string lang="de">Kann nicht zirkulär verkabeln</string>
+        <string lang="en">Cannot wire circular</string>
+        <string lang="fr">Cannot wire circular</string>
+        <string lang="zh">Cannot wire circular</string>
+        <string lang="jp">Cannot wire circular</string>
+    </set>
     <set id="error-jacknotwired">
         <string lang="de">Nicht
 verkabelt</string>
