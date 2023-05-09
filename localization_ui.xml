@@ -49,11 +49,11 @@
         <string lang="jp">Steam デモ</string>
     </set>
     <set id="scope-extendeddemo">
-        <string lang="de">Extended Demo</string>
+        <string lang="de">Erweiterte Demo</string>
         <string lang="en">Extended Demo</string>
-        <string lang="fr">Extended Démo</string>
-        <string lang="zh">Extended 演示</string>
-        <string lang="jp">Extended デモ</string>
+        <string lang="fr">Démo Étendue</string>
+        <string lang="zh">扩展演示</string>
+        <string lang="jp">拡張デモ</string>
     </set>
     <set id="scope-earlyaccess">
         <string lang="de">Early Access</string>
@@ -622,54 +622,56 @@ wenn angeschaltet</string>
 if toggled on</string>
         <string lang="fr">Sera activé pendant la séquence de tir,
 si activé</string>
-        <string lang="zh">如果开启，将在射击序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、発射シーケンス中にアクティブになります</string>
+        <string lang="zh">如果开启
+将在射击序列中被激活</string>
+        <string lang="jp">オンに設定されている場合、
+発射シーケンス中にアクティブになります</string>
     </set>
     <set id="quitscreen-header">
-        <string lang="de">Thank you for playing</string>
+        <string lang="de">Danke fürs Spielen</string>
         <string lang="en">Thank you for playing</string>
-        <string lang="fr">Thank you for playing</string>
-        <string lang="zh">Thank you for playing</string>
-        <string lang="jp">Thank you for playing</string>
+        <string lang="fr">Merci d'avoir joué</string>
+        <string lang="zh">感谢您的游玩</string>
+        <string lang="jp">遊んでくれてありがとう</string>
     </set>
     <set id="quitscreen-description">
-        <string lang="de">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
-        <string lang="en">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
-        <string lang="fr">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
-        <string lang="zh">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
-        <string lang="jp">If you enjoyed the Rogue Voltage demo, please consider $b$joining Discord$/b$ or $b$wishlisting$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="de">Wenn dir die Demo gefallen hat, trete gerne dem $b$Discord$/b$ bei oder setze Rogue Voltage auf deine $b$Wunschliste$/b$, um auf unserem Weg zum Early Access auf dem Laufenden zu bleiben.</string>
+        <string lang="en">If you enjoyed the demo, please consider $b$joining Discord$/b$ or $b$wishlisting Rogue Voltage$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+        <string lang="fr">Si vous avez apprécié la démo, n'hésitez pas à $b$rejoindre Discord$/b$ ou à $b$ajouter Rogue Voltage à votre liste de souhaits$/b$ pour rester informé de l'avancement du développement sur notre chemin vers Early Access.</string>
+        <string lang="zh">如果您喜欢这个游戏，请考虑加入$b$Discord$/b$或将Rogue Voltage加入您的$b$愿望单$/b$，以便及时了解我们的开发进度。</string>
+        <string lang="jp">このデモをお楽しみいただけましたら、$b$Discordに参加$/b$するか、$b$Rogue Voltageをウィッシュリストに登録$/b$して、アーリーアクセスへの道のりでの開発の進捗状況についてお知らせください。</string>
     </set>
     <set id="quitscreen-developer">
         <string lang="de">$b$Luca$/b$
-Developer</string>
+Entwickler</string>
         <string lang="en">$b$Luca$/b$
 Developer</string>
         <string lang="fr">$b$Luca$/b$
-Developer</string>
-        <string lang="zh">$b$Luca$/b$
-Developer</string>
-        <string lang="jp">$b$Luca$/b$
-Developer</string>
+Développeur</string>
+        <string lang="zh">$b$卢卡$/b$
+程序员</string>
+        <string lang="jp">$b$ルカ$/b$
+開発者</string>
     </set>
     <set id="quitscreen-quittowishlist">
-        <string lang="de">QUIT TO STEAM WISHLIST</string>
+        <string lang="de">BEENDET UND ZUR WUNSCHLISTE</string>
         <string lang="en">QUIT TO STEAM WISHLIST</string>
-        <string lang="fr">QUIT TO STEAM WISHLIST</string>
-        <string lang="zh">QUIT TO STEAM WISHLIST</string>
-        <string lang="jp">QUIT TO STEAM WISHLIST</string>
+        <string lang="fr">QUITTER VERS LA LISTE DE SOUHAITS</string>
+        <string lang="zh">退出并加入愿望单</string>
+        <string lang="jp">終了してウィッシュリストに移動</string>
     </set>
     <set id="quitscreen-quittodiscord">
-        <string lang="de">QUIT AND JOIN DISCORD</string>
+        <string lang="de">BEENDEN UND DISCORD BEITRETEN</string>
         <string lang="en">QUIT AND JOIN DISCORD</string>
-        <string lang="fr">QUIT AND JOIN DISCORD</string>
-        <string lang="zh">QUIT AND JOIN DISCORD</string>
-        <string lang="jp">QUIT AND JOIN DISCORD</string>
+        <string lang="fr">QUITTER ET REJOINDRE DISCORD</string>
+        <string lang="zh">退出并加入DISCORD</string>
+        <string lang="jp">終了して「DISCORD」へ</string>
     </set>
     <set id="quitscreen-justquit">
-        <string lang="de">QUIT</string>
+        <string lang="de">BEENDEN</string>
         <string lang="en">QUIT</string>
-        <string lang="fr">QUIT</string>
-        <string lang="zh">QUIT</string>
-        <string lang="jp">QUIT</string>
+        <string lang="fr">QUITTER</string>
+        <string lang="zh">退出</string>
+        <string lang="jp">終了</string>
     </set>
 </localization>
