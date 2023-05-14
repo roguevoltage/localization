@@ -423,6 +423,14 @@
         <string lang="jp">トラウマ検出 $mighticon$</string>
         <string lang="ru">Обнаружение Травмы $mighticon$</string>
     </set>
+    <set id="name-skill-passive-powerraiseifdamaged-slime">
+        <string lang="de">Trauma-Detektion $mighticon$</string>
+        <string lang="en">Trauma Detection $mighticon$</string>
+        <string lang="fr">Détection Trauma $mighticon$</string>
+        <string lang="zh">伤害检测 $mighticon$</string>
+        <string lang="jp">トラウマ検出 $mighticon$</string>
+        <string lang="ru">Обнаружение Травмы $mighticon$</string>
+    </set>
     <set id="name-skill-passive-powerraiseifturnorderchanged">
         <string lang="de">Chrono-Detektion $mighticon$</string>
         <string lang="en">Chrono Detection $mighticon$</string>
@@ -788,6 +796,14 @@ and inflicts $grav+2$</string>
         <string lang="zh">每当受到 $damage$ 时，$might$ 增加 $1$</string>
         <string lang="jp">$damage$ を受けるたびに、$might$ を $1$ 増加する</string>
         <string lang="ru">Повышает $might$ на $1$ каждый раз, когда получает $damage$.</string>
+    </set>
+    <set id="description-skill-passive-powerraiseifdamaged-slime">
+        <string lang="de">Füllt $might$, immer wenn er $damage$ erhält.</string>
+        <string lang="en">Fills $might$ whenever it receives $damage$.</string>
+        <string lang="fr">Remplit $might$ à chaque fois qu'il reçoit $damage$.</string>
+        <string lang="zh">每当受到 $damage$ 时，$might$ 增加 $1$</string>
+        <string lang="jp">$damage$ を受けるたびに、$might$ を $1$ 増加する</string>
+        <string lang="ru">Наполняет $might$ каждый раз, когда получает $damage$.</string>
     </set>
     <set id="description-skill-passive-powerraiseifturnorderchanged">
         <string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
