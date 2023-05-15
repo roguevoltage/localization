@@ -476,7 +476,7 @@
         <string lang="ru">Обнаружение Травмы $mighticon$</string>
         <string lang="es">Detección de Trauma $mighticon$</string>
     </set>
-    <set id="name-skill-passive-powerraiseifdamaged-slime">
+    <set id="name-skill-passive-powerraiseifdamaged-full">
         <string lang="de">Trauma-Detektion $mighticon$</string>
         <string lang="en">Trauma Detection $mighticon$</string>
         <string lang="fr">Détection Trauma $mighticon$</string>
@@ -486,6 +486,15 @@
         <string lang="es">Detección de Trauma $mighticon$</string>
     </set>
     <set id="name-skill-passive-powerraiseifturnorderchanged">
+        <string lang="de">Chrono-Detektion $mighticon$</string>
+        <string lang="en">Chrono Detection $mighticon$</string>
+        <string lang="fr">Détection Chrono $mighticon$</string>
+        <string lang="zh">时间检测 $mighticon$</string>
+        <string lang="jp">時間検出 $mighticon$</string>
+        <string lang="ru">Обнаружение Хроно $mighticon$</string>
+        <string lang="es">Detección de Crono $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-powerraiseifturnorderchanged-full">
         <string lang="de">Chrono-Detektion $mighticon$</string>
         <string lang="en">Chrono Detection $mighticon$</string>
         <string lang="fr">Détection Chrono $mighticon$</string>
@@ -703,7 +712,7 @@ and inflicts $grav+2$</string>
     </set>
     <set id="description-skill-gravtransfer">
         <string lang="de">Entfernt $grav+1$ von einem Ziel und fügt sie einem anderen Ziel zu.</string>
-        <string lang="en">Removes $grav+1$ from target combatant and puts it onto another combatant.</string>
+        <string lang="en">Removes $grav+1$ from a target and puts it onto another target.</string>
         <string lang="fr">Enlève $grav+1$ d'un cible et l'applique à un autre cible.</string>
         <string lang="zh">移除目标身上的 $grav+1$ 并施加到另一个目标身上</string>
         <string lang="jp">敵の $grav+1$ を消費して、他の敵に与える</string>
@@ -899,7 +908,7 @@ and inflicts $grav+2$</string>
         <string lang="ru">Повышает $might$ на $1$ каждый раз, когда получает $damage$.</string>
         <string lang="es">Aumenta $might$ en $1$ cada vez que recibe $damage$</string>
     </set>
-    <set id="description-skill-passive-powerraiseifdamaged-slime">
+    <set id="description-skill-passive-powerraiseifdamaged-full">
         <string lang="de">Füllt $might$, immer wenn er $damage$ erhält.</string>
         <string lang="en">Fills $might$ whenever it receives $damage$.</string>
         <string lang="fr">Remplit $might$ à chaque fois qu'il reçoit $damage$.</string>
@@ -917,7 +926,7 @@ and inflicts $grav+2$</string>
         <string lang="ru">Повышает $might$ на $1$ каждый раз, когда порядок ходов меняется.</string>
         <string lang="es">Aumenta $might$ en $1$ cada vez que se cambia el orden de los turnos</string>
     </set>
-        <set id="description-skill-passive-powerraiseifturnorderchanged-gravward">
+        <set id="description-skill-passive-powerraiseifturnorderchanged-full">
         <string lang="de">Füllt $might$, immer wenn sich die Reihenfolge der Züge ändert.</string>
         <string lang="en">Fills $might$ whenever the turn order is changed.</string>
         <string lang="fr">Remplit $might$ à chaque fois que l'ordre des tours est modifié.</string>
