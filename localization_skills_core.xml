@@ -314,7 +314,7 @@
         <string lang="ru">Грав. толчок $grav+2$</string>
         <string lang="es">Empujón Grav. $grav+2$</string>
     </set>
-    <set id="name-skill-gravpush-positive3">
+    <set id="name-skill-gravpush-3">
         <string lang="de">Grav.-Stoß $3grav+$</string>
         <string lang="en">Grav. Push $3grav+$</string>
         <string lang="fr">Poussée Grav. $3grav+$</string>
@@ -322,6 +322,15 @@
         <string lang="jp">重力の衝撃 $3grav+$</string>
         <string lang="ru">Грав. толчок $3grav+$</string>
         <string lang="es">Empujón Grav. $3grav+$</string>
+    </set>
+        <set id="name-skill-gravpull">
+        <string lang="de">Grav.-Ziehen $grav-1$</string>
+        <string lang="en">Grav. Pull $grav-1$</string>
+        <string lang="fr">Tirer Grav. $grav-1$</string>
+        <string lang="zh">引力拉 $grav-1$</string>
+        <string lang="jp">重力の引き $grav-1$</string>
+        <string lang="ru">Грав. тянуть $grav-1$</string>
+        <string lang="es">Tirón Grav. $grav-1$</string>
     </set>
     <set id="name-skill-lightningstrike">
         <string lang="de">Blitzschlag $VALUE$</string>
@@ -737,7 +746,7 @@ and inflicts $grav+2$</string>
         <string lang="ru">Наносит $grav+2$ другому бойцу.</string>
         <string lang="es">Inflige a otro combatiente $grav+2$</string>
     </set>
-    <set id="description-skill-gravpush-positive3">
+    <set id="description-skill-gravpush-3">
         <string lang="de">Fügt einem anderen Kampfteilnehmer $3grav+$ zu</string>
         <string lang="en">Inflicts another combatant with $3grav+$</string>
         <string lang="fr">Inflige $3grav+$ à un autre combattant.</string>
@@ -745,6 +754,15 @@ and inflicts $grav+2$</string>
         <string lang="jp">他の敵に $3grav+$ を与える</string>
         <string lang="ru">Наносит $3grav+$ другому бойцу.</string>
         <string lang="es">Inflige a otro combatiente $3grav+$</string>
+    </set>
+    <set id="description-skill-gravpull">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
+        <string lang="en">Inflicts another combatant with $grav-1$</string>
+        <string lang="fr">Inflige $grav-1$ à un autre combattant.</string>
+        <string lang="zh">给其他敌人施加 $grav-1$</string>
+        <string lang="jp">他の敵に $grav-1$ を与える</string>
+        <string lang="ru">Наносит $grav-1$ другому бойцу.</string>
+        <string lang="es">Inflige a otro combatiente $grav-1$</string>
     </set>
     <set id="description-skill-lightningstrike">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
@@ -803,11 +821,11 @@ and inflicts $grav+2$</string>
     <set id="description-skill-modulespawn-timebomb">
         <string lang="de">Platziert ein $b$Zeitbomben-Modul$/b$ in eins deiner Racks.</string>
         <string lang="en">Places a $b$Time Bomb$/b$ module in one of your racks.</string>
-        <string lang="fr">Place une bombe à retardement dans un de vos racks.</string>
+        <string lang="fr">Place une $b$bombe à retardement$/b$ dans un de vos racks.</string>
         <string lang="zh">在一个机体上放置一个 $b$时间炸弹$/b$ 模块</string>
         <string lang="jp">ラックに $b$タイムボム$/b$ モジュールを置く</string>
-        <string lang="ru">Размещает модуль $b$Time Bomb$/b$ на одной из ваших стоек.</string>
-        <string lang="es">Coloca un módulo $b$Time Bomb$/b$ en uno de tus racks</string>
+        <string lang="ru">Размещает модуль $b$Временная бомба$/b$ на одной из стоек.</string>
+        <string lang="es">Coloca un módulo $b$Bomba de tiempo$/b$ en uno de tus racks.</string>
     </set>
     <set id="description-skill-paw">
         <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
