@@ -602,6 +602,15 @@
         <string lang="ru">Декристаллизующая граната</string>
         <string lang="es">Granada Decrustadora</string>
     </set>
+    <set id="name-module-toggledvulnerabilitygrenade">
+        <string lang="de">Verwundbarkeits-Granate</string>
+        <string lang="en">Vulnerability Grenade</string>
+        <string lang="fr">Grenade de Vulnérabilité</string>
+        <string lang="zh">脆弱手榴弹</string>
+        <string lang="jp">バリアブルヌルファイアー</string>
+        <string lang="ru">граната уязвимости</string>
+        <string lang="es">Granada de Vulnerabilidad</string>
+    </set>
     <set id="name-module-trashcompactor">
         <string lang="de">Schrottpresse</string>
         <string lang="en">Trash Compactor</string>
@@ -1054,6 +1063,15 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Обезвредить за $energy$).</string>
         <string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.
 (Desactivar con $energy$).</string>
+    </set>
+    <set id="description-module-toggledvulnerabilitygrenade">
+        <string lang="de">Versieht alle Kampfteilnehmer mit $vulnerable$. (Dauer: 6)</string>
+        <string lang="en">Applies $vulnerable$ to all combatants. (Duration: 6)</string>
+        <string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
+        <string lang="zh">将$vulnerable$应用于所有战斗者。（持续时间：6）</string>
+        <string lang="jp">すべての戦闘参加者に$vulnerable$を適用します。（持続時間：6）</string>
+        <string lang="ru">Накладывает $vulnerable$ на всех участников боя. (Длительность: 6)</string>
+        <string lang="es">Aplica $vulnerable$ a todos los combatientes. (Duración: 6)</string>
     </set>
     <set id="description-module-toggledgravnullifier">
         <string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
