@@ -458,6 +458,15 @@
         <string lang="ru">Излияние Грав. $grav+1$</string>
         <string lang="es">Derrame Grav. $grav+1$</string>
     </set>
+        <set id="name-skill-ondeath-gravaoe-plus-protozoon">
+        <string lang="de">Grav.-Austritt $grav+1$</string>
+        <string lang="en">Grav. Spill $grav+1$</string>
+        <string lang="fr">Déversement Grav. $grav+1$</string>
+        <string lang="zh">引力溢出 $grav+1$</string>
+        <string lang="jp">重力漏れ $grav+1$</string>
+        <string lang="ru">Излияние Грав. $grav+1$</string>
+        <string lang="es">Derrame Grav. $grav+1$</string>
+    </set>
     <set id="name-skill-passive-gravtopower">
         <string lang="de">$grav+$ zu $might$</string>
         <string lang="en">$grav+$ to $might$</string>
@@ -882,6 +891,15 @@ and inflicts $grav+2$</string>
         <string lang="es">Aplica $vulnerable$ a un enemigo. Dura $4$ turnos</string>
     </set>
     <set id="description-skill-ondeath-gravaoe-plus">
+        <string lang="de">Fügt allen Kampfteilnehmern $grav+1$ zu.</string>
+        <string lang="en">Inflicts all combatants with $grav+1$.</string>
+        <string lang="fr">Applique $grav+1$ à tous les combattants.</string>
+        <string lang="zh">对所有战斗者造成 $grav+1$</string>
+        <string lang="jp">全ての戦闘者に $grav+1$ を与える</string>
+        <string lang="ru">Накладывает $grav+1$ на всех бойцов.</string>
+        <string lang="es">Inflige a todos los combatientes $grav+1$</string>
+    </set>
+    <set id="description-skill-ondeath-gravaoe-plus-protozoon">
         <string lang="de">Fügt allen Gegnern $grav+1$ zu.</string>
         <string lang="en">Inflicts all enemies with $grav+1$.</string>
         <string lang="fr">Applique $grav+1$ à toutes les ennemies.</string>

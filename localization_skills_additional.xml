@@ -300,6 +300,24 @@
         <string lang="en">Stomp $shockicon$</string>
         <string lang="fr">Tremper $shockicon$</string>
     </set>
+    <set id="name-skill-stomp-brachiosaurus">
+        <string lang="de">Stampfen</string>
+        <string lang="en">Stomp</string>
+        <string lang="fr">Tremper</string>
+        <string lang="zh">踩踏</string>
+        <string lang="ja">踏みつけ</string>
+        <string lang="ru">Топот</string>
+        <string lang="es">Pisotón</string>
+    </set>
+    <set id="name-skill-gravstomp-brachiosaurus">
+        <string lang="de">Grav.-Stampfen $grav+2$</string>
+        <string lang="en">Grav. Stomp $grav+2$</string>
+        <string lang="fr">Temper Grav. $grav+2$</string>
+        <string lang="zh">重力踩踏 $grav+2$</string>
+        <string lang="ja">重力踏みつけ $grav+2$</string>
+        <string lang="ru">Грав. Топот $grav+2$</string>
+        <string lang="es">Pisotón Grav. $grav+2$</string>
+    </set>
     <set id="name-skill-volcanoeruption">
         <string lang="de">Ausbruch</string>
         <string lang="en">Eruption</string>
@@ -478,8 +496,10 @@ Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-packattack">
-        <string lang="de">Wenn ein weiterer Graviraptor auf dem selben Zeitschritt ist, fügt er einem Gegner $2damage$ zu.</string>
-        <string lang="en">If there is another $b$Graviraptor$/b$ on the same time step, it deals $2damage$ to target enemy.</string>
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht alle anderen
+Verbündeten mit $grav-1$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts all other allies 
+with $grav-1$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-poisonspore">
@@ -572,9 +592,27 @@ Inflicts a module with $fire$.</string>
         <string lang="en">Deals $2damage$ to an enemy and inflicts a module with $shock$.</string>
         <string lang="fr">Attaque forte sur un ennemi.</string>
     </set>
+    <set id="description-skill-stomp-brachiosaurus">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
+        <string lang="en">Deals $2damage$ to all combatants on the same time step.</string>
+        <string lang="fr">Inflige $2damage$ à tous les combattants sur le même pas de temps.</string>
+        <string lang="zh">对同一时间步骤上的所有战斗者造成$2damage$。</string>
+        <string lang="ja">同じタイムステップ上のすべての戦闘員に$2damage$を与えます。</string>
+        <string lang="ru">Наносит $2damage$ всем участникам боя на одном временном шаге.</string>
+        <string lang="es">Inflige $2damage$ a todos los combatientes en el mismo paso de tiempo.</string>
+    </set>
+    <set id="description-skill-gravstomp-brachiosaurus">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+2$ zu.</string>
+        <string lang="en">Inflicts all combatants on the same time step with $grav+2$.</string>
+        <string lang="fr">Inflige $grav+4$ à tous les combattants sur le même pas de temps.</string>    
+        <string lang="zh">给所有在同一时间步的敌人施加 $grav+2$</string>
+        <string lang="jp">同じタイムステップにいる敵に $grav+2$ を与える</string>
+        <string lang="ru">Наносит $grav+2$ всем бойцам на одном временном шаге.</string>
+        <string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo con $grav+2$.</string>
+    </set>
     <set id="description-skill-volcanoeruption">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
         <string lang="en">Deals $2damage$ to all combatants on the same time step.</string>
-        <string lang="fr">Description n/a</string>
+        <string lang="fr">Inflige $2damage$ à tous les combattants sur le même pas de temps.</string>
     </set>
 </localization>
