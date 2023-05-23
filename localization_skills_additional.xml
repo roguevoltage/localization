@@ -155,6 +155,11 @@
         <string lang="en">Hatch</string>
         <string lang="fr">Éclore</string>
     </set>
+    <set id="name-skill-hatch-graviraptor">
+        <string lang="de">Schlüpfen</string>
+        <string lang="en">Hatch</string>
+        <string lang="fr">Éclore</string>
+    </set>
     <set id="name-skill-heal">
         <string lang="de">Heilung</string>
         <string lang="en">Heal</string>
@@ -226,9 +231,14 @@
         <string lang="fr">Charge AOE</string>
     </set>
     <set id="name-skill-powerraise-egg-dynosaur">
-        <string lang="de">Brüten</string>
-        <string lang="en">Incubate</string>
-        <string lang="fr">Couver</string>
+        <string lang="de">Brüten $mighticon$</string>
+        <string lang="en">Incubate $mighticon$</string>
+        <string lang="fr">Couver $mighticon$</string>
+    </set>
+    <set id="name-skill-powerraise-egg-graviraptor">
+        <string lang="de">Brüten $mighticon$</string>
+        <string lang="en">Incubate $mighticon$</string>
+        <string lang="fr">Couver $mighticon$</string>
     </set>
     <set id="name-skill-ondeath-hurtbrachio">
         <string lang="de">Körperteil</string>
@@ -239,6 +249,11 @@
         <string lang="de">Grav.-Summen $grav-1$</string>
         <string lang="en">Grav. Buzz $grav-1$</string>
         <string lang="fr">n/a $grav-1$</string>
+    </set>
+    <set id="name-skill-ondeath-enemyspawn-egg-graviraptor">
+        <string lang="de">Ei</string>
+        <string lang="en">Egg</string>
+        <string lang="fr">n/a</string>
     </set>
     <set id="name-skill-passive-volcanodamagetomight">
         <string lang="de">Vulkan-$damage$ zu $might$</string>
@@ -310,13 +325,13 @@
         <string lang="es">Pisotón</string>
     </set>
     <set id="name-skill-gravstomp-brachiosaurus">
-        <string lang="de">Grav.-Stampfen $grav+3$</string>
-        <string lang="en">Grav. Stomp $grav+3$</string>
-        <string lang="fr">Temper Grav. $grav+3$</string>
-        <string lang="zh">重力踩踏 $grav+3$</string>
-        <string lang="ja">重力踏みつけ $grav+3$</string>
-        <string lang="ru">Грав. Топот $grav+3$</string>
-        <string lang="es">Pisotón Grav. $grav+3$</string>
+        <string lang="de">Grav.-Stampfen $grav+2$</string>
+        <string lang="en">Grav. Stomp $grav+2$</string>
+        <string lang="fr">Temper Grav. $grav+2$</string>
+        <string lang="zh">重力踩踏 $grav+2$</string>
+        <string lang="ja">重力踏みつけ $grav+2$</string>
+        <string lang="ru">Грав. Топот $grav+2$</string>
+        <string lang="es">Pisotón Grav. $grav+2$</string>
     </set>
     <set id="name-skill-volcanoeruption">
         <string lang="de">Ausbruch</string>
@@ -346,6 +361,11 @@
     <set id="description-skill-vulnerabilityglobal">
         <string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
         <string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-ondeath-enemyspawn-egg-graviraptor">
+        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei.</string>
+        <string lang="en">Summons a $b$Graviraptor-Egg$/b$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-enemyspawn-bees">
@@ -450,6 +470,11 @@ Inflicts a module with $fire$.</string>
         <string lang="en">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
         <string lang="fr">n/a</string>
     </set>
+    <set id="description-skill-hatch-graviraptor">
+        <string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Graviraptor$/b$ schlüpfen zu lassen.</string>
+        <string lang="en">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
+        <string lang="fr">n/a</string>
+    </set>
     <set id="description-skill-heal">
         <string lang="de">Heilt einen Verbündeten</string>
         <string lang="en">Heals an ally</string>
@@ -521,6 +546,11 @@ with $grav-1$.</string>
         <string lang="de">Erhöht $might$ um $1$.</string>
         <string lang="en">Raises $might$ by $1$.</string>
         <string lang="fr">Augmente $might$ de $1$</string>
+    </set>
+    <set id="description-skill-powerraise-egg-graviraptor">
+        <string lang="de">Füllt $might$.</string>
+        <string lang="en">Fills $might$.</string>
+        <string lang="fr">Remplit $might$.</string>
     </set>
     <set id="description-skill-ondeath-gravaoe-minus">
         <string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
@@ -602,13 +632,13 @@ with $grav-1$.</string>
         <string lang="es">Inflige $2damage$ a todos los combatientes en el mismo paso de tiempo.</string>
     </set>
     <set id="description-skill-gravstomp-brachiosaurus">
-        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+3$ zu.</string>
-        <string lang="en">Inflicts all combatants on the same time step with $grav+3$.</string>
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $1damage$ und $grav+2$ zu.</string>
+        <string lang="en">Inflicts all combatants on the same time step with $1damage$ and $grav+2$.</string>
         <string lang="fr">Inflige $grav+4$ à tous les combattants sur le même pas de temps.</string>    
-        <string lang="zh">给所有在同一时间步的敌人施加 $grav+3$</string>
-        <string lang="jp">同じタイムステップにいる敵に $grav+3$ を与える</string>
-        <string lang="ru">Наносит $grav+3$ всем бойцам на одном временном шаге.</string>
-        <string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo con $grav+3$.</string>
+        <string lang="zh">给所有在同一时间步的敌人施加 $grav+2$</string>
+        <string lang="jp">同じタイムステップにいる敵に $grav+2$ を与える</string>
+        <string lang="ru">Наносит $grav+2$ всем бойцам на одном временном шаге.</string>
+        <string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo con $grav+2$.</string>
     </set>
     <set id="description-skill-volcanoeruption">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
