@@ -89,6 +89,42 @@
         <string lang="ru">v. $VERSION$</string>
         <string lang="es">v. $VERSION$</string>
     </set>
+    <set id="difficulty">
+        <string lang="de">SCHWIERIGKEIT</string>
+        <string lang="en">DIFFICULTY</string>
+        <string lang="fr">DIFFICULTÉ</string>
+        <string lang="zh">难度</string>
+        <string lang="jp">難易度</string>
+        <string lang="ru">СЛОЖНОСТЬ</string>
+        <string lang="es">DIFICULTAD</string>
+    </set>
+    <set id="difficulty-beginner">
+        <string lang="de">Anfänger</string>
+        <string lang="en">Beginner</string>
+        <string lang="fr">Débutant</string>
+        <string lang="zh">初学者</string>
+        <string lang="jp">初心者</string>
+        <string lang="ru">Новичок</string>
+        <string lang="es">Principiante</string>
+    </set>
+    <set id="difficulty-normal">
+        <string lang="de">Normal</string>
+        <string lang="en">Normal</string>
+        <string lang="fr">Normal</string>
+        <string lang="zh">正常</string>
+        <string lang="jp">ノーマル</string>
+        <string lang="ru">Нормальный</string>
+        <string lang="es">Normal</string>
+    </set>
+    <set id="difficulty-hard">
+        <string lang="de">Schwer</string>
+        <string lang="en">Hard</string>
+        <string lang="fr">Difficile</string>
+        <string lang="zh">困难</string>
+        <string lang="jp">ハード</string>
+        <string lang="ru">Сложный</string>
+        <string lang="es">Difícil</string>
+    </set>
     <set id="ui-discussion">
         <string lang="de">Komm' ans Lagerfeuer:</string>
         <string lang="en">Join the Campfire:</string>
@@ -797,7 +833,7 @@ aventura!</string>
 wenn angeschaltet</string>
         <string lang="en">Will be activated during firing sequence, 
 if toggled on</string>
-        <string lang="fr">Sera activé pendant la séquence de tir,
+        <string lang="fr">Sera utilisé pendant la séquence de tir, 
 si activé</string>
         <string lang="zh">如果开启
 将在射击序列中被激活</string>
