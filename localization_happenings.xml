@@ -672,7 +672,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
     <set id="happening-endofdemo-thankyou">
         <string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!
 Ich hoffe, dir hat dieser erste Eindruck des Spiels gefallen.</string>
-        <string lang="en">Congratulations and thank you for playing!
+        <string lang="en">Congratulations and thank you for playing! 
 I hope you enjoyed this first glimpse into the game.</string>
         <string lang="fr">Félicitations et merci d'avoir joué!
 J'espère que vous avez apprécié ce premier aperçu du jeu.</string>
@@ -792,6 +792,15 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="jp">4レベル</string>
         <string lang="ru">4 этапа</string>
         <string lang="es">4 etapas</string>
+    </set>
+        <set id="happening-endofdemo-currentdifficulty">
+        <string lang="de">Aktuelle Schwierigkeitsstufe: $DIFFICULTY$</string>
+        <string lang="en">Current difficulty: $DIFFICULTY$</string>
+        <string lang="fr">Difficulté actuelle : $DIFFICULTY$</string>
+        <string lang="zh">当前难度：$DIFFICULTY$</string>
+        <string lang="jp">現在の難易度：$DIFFICULTY$</string>
+        <string lang="ru">Текущая сложность: $DIFFICULTY$</string>
+        <string lang="es">Dificultad actual: $DIFFICULTY$</string>
     </set>
     <set id="happening-endofdemo-wishlist">
         <string lang="de">+ STEAM WUNSCHLISTE</string>
