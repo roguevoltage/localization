@@ -85,6 +85,11 @@
         <string lang="en">Explosive Contraptions</string>
         <string lang="fr">Appareils Explosifs</string>
     </set>
+    <set id="name-skill-enemyspawn-egg-graviraptor-bossminion">
+        <string lang="de">Ei legen</string>
+        <string lang="en">Lay Egg</string>
+        <string lang="fr">Pondre un Oeuf</string>
+    </set>
     <set id="name-skill-gravabsorb">
         <string lang="de">Grav.-Absorption</string>
         <string lang="en">Grav. Absorb</string>
@@ -144,6 +149,11 @@
         <string lang="de">Grav.-Ziehen $grav-1$</string>
         <string lang="en">Grav. Pull $grav-1$</string>
         <string lang="fr">Tirer Grav. $grav-1$</string>
+    </set>
+    <set id="name-skill-gravpull-pterodactyl">
+        <string lang="de">Einkreisen $grav-1$</string>
+        <string lang="en">Circle $grav-1$</string>
+        <string lang="fr">Cercle $grav-1$</string>
     </set>
     <set id="name-skill-gravpush-2-gravadillo">
         <string lang="de">Ramme $grav+2$ $crusticon$</string>
@@ -275,6 +285,21 @@
         <string lang="en">Fracture Detection $mighticon$</string>
         <string lang="fr">Détection Fracture $mighticon$</string>
     </set>
+    <set id="name-skill-passive-powerraiseonallydeath">
+        <string lang="de">Seelen-Detektion $mighticon$</string>
+        <string lang="en">Soul Detection $mighticon$</string>
+        <string lang="fr">Détection d'Âme $mighticon$</string>
+    </set>
+    <set id="name-skill-pterodactyl-riseup">
+        <string lang="de">Aufsteigen</string>
+        <string lang="en">Rise Up</string>
+        <string lang="fr">Surgir</string>
+    </set>
+    <set id="name-skill-pterodactyl-crashdown">
+        <string lang="de">Sturzflug</string>
+        <string lang="en">Crash Down</string>
+        <string lang="fr">Chute</string>
+    </set>
     <set id="name-skill-rabid">
         <string lang="de">Zerfleischen</string>
         <string lang="en">Maul</string>
@@ -388,6 +413,11 @@
         <string lang="en">Summons an Owl</string>
         <string lang="fr">Invoque un hibou.</string>
     </set>
+    <set id="description-skill-enemyspawn-egg-graviraptor-bossminion">
+        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei.</string>
+        <string lang="en">Summons a $b$Graviraptor-Egg$/b$.</string>
+        <string lang="fr">n/a</string>
+    </set>
     <set id="description-skill-modulefire-firegnat">
         <string lang="de">Fügt einem Gegner $grav+1$ zu und versieht zwei Module mit $fire$.</string>
         <string lang="en">Inflicts and enemy with $grav+1$ and two modules with $fire$.</string>
@@ -448,6 +478,11 @@ Inflicts a module with $fire$.</string>
     <set id="description-skill-gravpull1">
         <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
         <string lang="en">Inflicts another combatant with negative $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpull-pterodactyl">
+        <string lang="de">Fügt sich selbst $grav-1$ zu</string>
+        <string lang="en">Inflicts itself with $grav-1$</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravpush-2-gravadillo">
@@ -571,6 +606,21 @@ with $grav-1$.</string>
         <string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul zerstört wird.</string>
         <string lang="en">Raises $might$ by $1$ whenever a module is destroyed.</string>
         <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est détruit.</string>
+    </set>
+    <set id="description-skill-passive-powerraiseonallydeath">
+        <string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
+        <string lang="en">Raises $might$ by $1$ whenever an ally is defeated.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
+    </set>
+    <set id="description-skill-pterodactyl-riseup">
+        <string lang="de">Entfernt alle $grav$ von sich selbst. Steigt auf der Zeitleiste über die Spielercharaktere auf.</string>
+        <string lang="en">Removes all $grav$ from itself. Rises above the player characters on the timeline.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-pterodactyl-crashdown">
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2$ $damage$ zu. Sinkt auf der Zeitleiste unter die Spielercharaktere ab.</string>
+        <string lang="en">Deals $2$ $damage$ to all combatants on the same time step. Sinks below the player characters on the timeline.</string>
+        <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-rage">
         <string lang="de">Fügt einem Gegner $2damage$ zu und versieht sich selbst mit $vulnerable$.</string>
