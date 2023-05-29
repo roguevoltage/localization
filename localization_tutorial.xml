@@ -180,7 +180,7 @@ Jackson, creo que finalmente es el momento de que tengas un arma propia.</string
 Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
                 <string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.
 If we stick to what we have learned, we can defeat it!</string>
-                <string lang="fr">L'activité gravio forte dans ces marais doit venir de ce champignon géant effrayant.
+                <string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant effrayant.
 Si nous nous tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
                 <string lang="zh">这些沼泽地的强烈重力活动必须来自这个可怕的巨型蘑菇。
 如果我们坚持我们所学的，我们就可以打败它！</string>
@@ -226,13 +226,13 @@ Utilisez son $blademodule$ pour infliger de lourds dégâts.</string>
 Usa su $blademodule$ para causar un daño serio.</string>
         </set>
         <set id="tutorialwindow-decelerate-header">
-                <string lang="de">Zeitmanipulation II: Züge ausrichten</string>
-                <string lang="en">Time Manipulation II: Aligning Turns</string>
-                <string lang="fr">Manipulation du temps II</string>
-                <string lang="zh">时间操作2</string>
-                <string lang="jp">時間操作2</string>
-                <string lang="ru">Манипуляция временем II</string>
-                <string lang="es">Manipulación del Tiempo II</string>
+                <string lang="de">Züge ausrichten</string>
+                <string lang="en">Aligning Turns</string>
+                <string lang="fr">Aligner les tours</string>
+                <string lang="zh">对齐回合</string>
+                <string lang="jp">ターンの整列</string>
+                <string lang="ru">Выравнивание ходов</string>
+                <string lang="es">Alineando Turnos</string>
         </set>
         <set id="tutorialwindow-decelerate-description">
                 <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug auf der Zeitleiste mit $grav+$ nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer$/b$-Modul!</string>
@@ -254,6 +254,31 @@ $slopperjackson$ は、同じことを $b$ 減速器 $/b$ モジュールで行�
                 <string lang="jp">彼は、彼の兄弟のターンを次のタイムステップに $b$ 遅らせる $/b$ べきで、それは敵のターンと $b$ 同期しているので、彼は再びブレードモジュールを使用できます。</string>
                 <string lang="ru">Теперь он должен $b$отложить ход своего брата$/b$ на следующий шаг времени, так что он будет $b$выровнен$/b$ с врагом и он сможет снова использовать модуль лезвия.</string>
                 <string lang="es">Ahora debería $b$retrasar el turno de su hermano$/b$ al siguiente paso de tiempo, para que esté $b$alineado$/b$ con el del enemigo y pueda usar el módulo de la Cuchilla de nuevo.</string>
+        </set>
+        <set id="tutorialwindow-generatordual-header">
+                <string lang="de">Der Zweifach-Generator</string>
+                <string lang="en">The Dual Generator</string>
+                <string lang="fr">Le générateur double</string>
+                <string lang="zh">双重发生器</string>
+                <string lang="jp">デュアルジェネレーター</string>
+                <string lang="ru">Двойной генератор</string>
+                <string lang="es">El Generador Dual</string>
+        </set>
+         <set id="tutorialwindow-generatordual-description">
+                <string lang="de">$slopperjackson$s Zweifach-Generator produziert $energy$ auf $b$beiden$/b$ Output-Buchsen.
+Du kannst also sowohl den $b$Verlangsamer$/b$, als auch die $b$Heiltrank-Fabrik$/b$ anschließen!</string>
+                <string lang="en">$slopperjackson$'s Dual Generator produces $energy$ on $b$both$/b$ output jacks.
+You can connect both the $b$Decelerator$/b$ and the $b$Potion Factory$/b$!</string>
+                <string lang="fr">Le générateur double de $slopperjackson$ produit $energy$ sur $b$les deux$/b$ prises de sortie.
+Vous pouvez donc connecter à la fois le $b$Décélérateur$/b$ et la $b$Fabrique de Potions$/b$!</string>
+                <string lang="zh">$slopperjackson$的双重发生器在$b$两个$/b$输出插孔上产生$energy$。
+所以你可以同时连接$b$减速器$/b$和$b$药水工厂$/b$。</string>
+                <string lang="jp">$slopperjackson$ のデュアルジェネレーターは、$energy$ を $b$ 両方の $/b$ 出力ジャックに生成します。
+そのため、$b$ ディセレーター $/b$ と $b$ ポーション工場 $/b$ の両方を接続できます。</string>
+                <string lang="ru">Двойной генератор $slopperjackson$ производит $energy$ на $b$обоих$/b$ выходных разъемах.
+Таким образом, вы можете подключить как $b$Замедлитель$/b$, так и $b$Завод зелий$/b$.</string>
+                <string lang="es">El Generador Dual de $slopperjackson$ produce $energy$ en $b$ambos$/b$ enchufes de salida.
+Así que puedes conectar tanto el $b$Decelerator$/b$ como la $b$Fábrica de Pociones$/b$.</string>
         </set>
         <set id="happening-tutorial-slopperjacksonjoin-introduction">
                 <string lang="de">Ereignis</string>
@@ -380,8 +405,7 @@ Nivela regularmente los desequilibrios de $grav$.</string>
 wird halbiert$/b$ &lt;size=10&gt;(abgerundet)&lt;/size&gt;</string>
         <string lang="en">$grav+$
 is halved$/b$ &lt;size=10&gt;(rounded down)&lt;/size&gt;</string>
-        <string lang="fr">$grav+$
-est partagée en deux$/b$</string>
+        <string lang="fr">$grav+$ est partagée en deux$/b$ &lt;size=10&gt;(arrondi vers le bas)&lt;/size&gt;</string>
         <string lang="zh">$grav+$
 被减半$/b$ &lt;size=10&gt;(向下取整)&lt;/size&gt;</string>
         <string lang="jp">$grav+$ 
@@ -413,7 +437,7 @@ Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
         <string lang="en">$grav-$ is neutralized. 
 combatants receive $b$half$/b$ of it as $damage$ (rounded up).</string>
         <string lang="fr">$grav-$ est neutralisée. 
-combattants reçoivent la moitié comme $damage$.</string>
+combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
         <string lang="zh">$grav-$ 被中和。
 战斗者获得$b$一半$/b$的$damage$ (向上取整)。</string>
         <string lang="jp">$grav-$ は中和されます。
@@ -442,7 +466,7 @@ Les tours peuvent être déplacés $b$en avant ou en arrière dans le temps$/b$ 
         <string lang="en">$grav+$ $b$delays combatants$/b$
 &lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
         <string lang="fr">$grav+$ $b$retarde les combattants$/b$
-&lt;size=8&gt;(pousse les combattants en arrière dans le temps)&lt;/size&gt;</string>
+&lt;size=8&gt;(les pousse en arrière sur la chronologie)&lt;/size&gt;</string>
         <string lang="zh">$grav+$ $b$延迟战斗者$/b$
 &lt;size=8&gt;(在时间轴上向后推进战斗者)&lt;/size&gt;</string>
         <string lang="jp">$grav+$ $b$戦闘参加者を遅らせます$/b$
@@ -457,8 +481,8 @@ Les tours peuvent être déplacés $b$en avant ou en arrière dans le temps$/b$ 
 &lt;size=8&gt;(zieht sie auf der Zeitleiste nach vorne)&lt;/size&gt;</string>
         <string lang="en">$grav-$ $b$accelerates combatants$/b$
 &lt;size=8&gt;(pulls them forward on the timeline)&lt;/size&gt;</string>
-        <string lang="fr">$grav-$
-accélère les combattants</string>
+        <string lang="fr">$grav-$ $b$accélère les combattants$/b$
+&lt;size=8&gt;(les tire en avant sur la chronologie)&lt;/size&gt;</string>
         <string lang="zh">$grav-$ $b$加速战斗者$/b$
 &lt;size=8&gt;(在时间轴上向前拉进战斗者)&lt;/size&gt;</string>
         <string lang="jp">$grav-$ $b$戦闘参加者を加速します$/b$
@@ -487,44 +511,45 @@ accélère les combattants</string>
         <string lang="es">¡Ese $chronocat$ acaba de aplicar $grav+2$ a $slopperjohnson$, retrasando su turno detrás del del $fox$!</string>
     </set>
     <set id="tutorialwindow-battlerating-title">
-        <string lang="de">Die Kampfbewertung</string>
-        <string lang="en">The Battle Rating</string>
-        <string lang="fr">L'Évaluation de la Bataille</string>
-        <string lang="zh">战斗评分</string>
-        <string lang="jp">戦闘の評価</string>
-        <string lang="ru">Оценка битвы</string>
-        <string lang="es">La calificación de la batalla</string>
+        <string lang="de">Die Kampfbewertung (Wichtig!)</string>
+        <string lang="en">The Battle Rating (Important!)</string>
+        <string lang="fr">L'Évaluation de la Bataille (Important!)</string>
+        <string lang="zh">战斗评分 (重要！)</string>
+        <string lang="jp">戦闘の評価 (重要！)</string>
+        <string lang="ru">Оценка битвы (Важно!)</string>
+        <string lang="es">Calificación de la batalla (¡Importante!)</string>
     </set>
     <set id="tutorialwindow-battlerating-description1">
-        <string lang="de">Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt, den Kampf zu beenden</string>
-        <string lang="en">The rating bar shows how much time you have left to end the battle.</string>
-        <string lang="fr">La barre d'évaluation indique le temps qui vous reste à mettre fin au combat.</string>
-        <string lang="zh">你的战利品质量取决于你能否快速结束战斗。
-评分条显示你还剩多少时间。</string>
-        <string lang="jp">戦闘を終了するまでの時間によって、戦利品の品質が決まります。
-評価バーは、あとどれくらいの時間があるかを示しています。</string>
-        <string lang="ru">Полоса оценки показывает, сколько времени у вас осталось, чтобы закончить бой.</string>
-        <string lang="es">La barra de calificación muestra cuánto tiempo te queda para terminar la batalla.</string>
+        <string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute sein. Der Bewertungsbalken zeigt an, wie viel Zeit dir noch bleibt, den Kampf zu beenden</string>
+        <string lang="en">The earlier you end the battle, the better your loot will be. The rating bar shows how much time you have left.</string>
+        <string lang="fr">Plus tôt vous terminez la bataille, meilleur sera votre butin. La barre d'évaluation indique le temps qui vous reste.</string>
+        <string lang="zh">你结束战斗的时间越早，你的战利品就越好。评级条显示了你还剩多少时间。</string>
+        <string lang="jp">戦闘を早く終了すればするほど、戦利品は良くなります。評価バーは、残り時間を示しています。</string>
+        <string lang="ru">Чем раньше вы закончите бой, тем лучше будет ваша добыча. Полоса оценки показывает, сколько времени у вас осталось.</string>
+        <string lang="es">Cuanto antes termines la batalla, mejor será tu botín. La barra de calificación muestra cuánto tiempo te queda.</string>
     </set>
     <set id="tutorialwindow-battlerating-description2">
         <string lang="de">Strebe immer nach der $gold$-Bewertung für die haltbarsten und wertvollsten Module.
-Eine $bronze$-Bewertung führt zu Modulen mit einmaliger Nutzung ($cracked$), die du einsetzen solltest, um wieder auf Kurs zu kommen.
-Solltest du noch länger brauchen, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
+Du wirst viele Modulen mit einmaliger Nutzung ($cracked$) finden. Horte sie nicht, sondern nutze ihren starken einmaligen Effekt, um im nächsten Kampf eine gute Bewertung zu erhalten!
+Wenn du den Kampf nicht rechtzeitig beendest, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
         <string lang="en">Always aim for $gold$ rating to receive the most durable and valuable modules as loot.
-In $bronze$ rating you will find single-use ($cracked$) modules, which you should use to get back on track.
-If you take even longer, a $storm$ is gathering and the battle will take a dangerous turn.</string>
-        <string lang="fr">Toujours viser à vaincre les monstres dans la catégorie &lt;color&#61;#FFF500&gt;$crownicon$$b$Or$/b$&lt;/color&gt; pour recevoir des modules $b$plus durables et plus précieux$/b$.
-Si vous prenez trop de temps et que vous manquez la catégorie &lt;color&#61;#FF6008&gt;$crownicon$$b$Bronze$/b$&lt;/color&gt;, une &lt;color&#61;#d16d5f&gt;$stormicon$$b$Tempête$/b$&lt;/color&gt; se forme et le combat prendra une tournure dangereuse.</string>
-        <string lang="zh">总是试图在 &lt;color&#61;#FFF500&gt;$crownicon$$b$金$/b$&lt;/color&gt; 评分下击败怪物，以获得 $b$更耐用和更有价值的模块$/b$。
-如果你花费太长时间，而且错过了 &lt;color&#61;#FF6008&gt;$crownicon$$b$铜$/b$&lt;/color&gt; 评分，一个 &lt;color&#61;#d16d5f&gt;$stormicon$$b$风暴$/b$&lt;/color&gt; 正在聚集，战斗将会出现危险的转折。</string>
-        <string lang="jp">モンスターを &lt;color&#61;#FFF500&gt;$crownicon$$b$金$/b$&lt;/color&gt; の評価で倒すようにしましょう。そうすれば、より耐久性の高いモジュールを入手できます。
-もし、&lt;color&#61;#FF6008&gt;$crownicon$$b$銅$/b$&lt;/color&gt; の評価を逃すと、&lt;color&#61;#d16d5f&gt;$stormicon$$b$嵐$/b$&lt;/color&gt; が集まり、戦闘は危険な方向に転じるかもしれません。</string>
+You will find many single-use ($cracked$) modules. Don't hoard them, but use their strong one-time effect to secure a good rating in the next battle!
+If you can't manage to end the fight in time, a $storm$ is gathering and the battle will take a dangerous turn.</string>
+        <string lang="fr">Visez toujours la note $gold$ pour recevoir les modules les plus durables et les plus précieux comme butin.
+Vous trouverez de nombreux modules à usage unique ($cracked$). Ne les stockez pas, mais utilisez leur fort effet unique pour obtenir une bonne note dans la prochaine bataille!
+Si vous ne parvenez pas à mettre fin au combat à temps, une $storm$ se rassemble et la bataille prendra une tournure dangereuse.</string>
+        <string lang="zh">总是争取 $gold$ 评级以获得最耐用和最有价值的模块作为战利品。
+你会发现许多一次性使用的 ($cracked$) 模块。不要囤积它们，而是利用它们强大的一次性效果，在下一场战斗中获得良好的评价！
+如果你不能及时结束战斗，$storm$ 将聚集，战斗将采取危险的转折。</string>
+        <string lang="jp">最も耐久性があり、最も価値のあるモジュールを戦利品として受け取るには、常に $gold$ 評価を目指してください。
+あなたは多くの一回限りの ($cracked$) モジュールを見つけるでしょう。それらを貯め込まずに、その強力な一回限りの効果を利用して、次の戦闘で良い評価を得てください！
+戦闘を間に合わせることができない場合、$storm$ が集まり、戦闘は危険な方向に向かいます。</string>
         <string lang="ru">Всегда стремитесь к оценке $gold$, чтобы получить самые прочные и ценные модули в качестве добычи.
-Если вы не успеете и получите оценку $bronze$, то найдете модули одноразового использования ($cracked$), которые вы должны использовать, чтобы вернуться на правильный путь.
-Если это займет у вас еще больше времени, соберется $storm$, и бой примет опасный оборот.</string>
+Вы найдете много одноразовых ($cracked$) модулей. Не складируйте их, а используйте их сильный одноразовый эффект, чтобы получить хорошую оценку в следующей битве!
+Если вы не сможете закончить бой вовремя, соберется $storm$ и битва примет опасный оборот.</string>
         <string lang="es">Siempre apunta a la calificación $gold$ para recibir los módulos más duraderos y valiosos como botín.
-En la calificación $bronze$ encontrarás módulos de un solo uso ($cracked$), que debes usar para volver al camino correcto.
-Si tardas aún más, se formará una $storm$ y la batalla tomará un giro peligroso.</string>
+Encontrarás muchos módulos de un solo uso ($cracked$). No los acumules, sino que usa su fuerte efecto de un solo uso para asegurar una buena calificación en la próxima batalla.
+Si no puedes terminar la pelea a tiempo, se está formando una $storm$ y la batalla tomará un giro peligroso.</string>
     </set>
     <set id="ui-tutorialbutton-continue">
         <string lang="de">Alles klar!</string>
@@ -574,6 +599,14 @@ Blade Module</string>
 модуль лезвия</string>
         <string lang="es">Conecta el
 Módulo de Cuchilla</string>
+    </set>
+        <set id="ui-tutorialbutton-generatordual">
+        <string lang="de">Verkabel beide Buchsen des Zweifach-Generators</string>
+        <string lang="en">Fully wire up the Dual Generator</string>
+        <string lang="fr">Câblez les deux prises du générateur double</string>
+        <string lang="zh">接线双发电机的两个插孔</string>
+        <string lang="jp">デュアルジェネレーターの両方のジャックを配線する</string>
+        <string lang="ru">Подключить оба разъема двойного генератора</string>
     </set>
         <set id="ui-tutorialbutton-plasma">
         <string lang="de">Verkabel
