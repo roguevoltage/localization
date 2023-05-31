@@ -179,6 +179,15 @@
         <string lang="ru">Заблокированный</string>
         <string lang="es">Bloqueado</string>
     </set>
+    <set id="name-status-modulelock-eob">
+        <string lang="de">Passivmodul</string>
+        <string lang="en">Passive Module</string>
+        <string lang="fr">Module Passif</string>
+        <string lang="zh">被動模塊</string>
+        <string lang="jp">パッシブモジュール</string>
+        <string lang="ru">пассивный модуль</string>
+        <string lang="es">Módulo Pasivo</string>
+    </set>
     <set id="name-status-modulelock-nextturn">
         <string lang="de">Gesperrt</string>
         <string lang="en">Locked</string>
@@ -890,6 +899,15 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="ru">Нельзя взять с полки</string>
         <string lang="es">No puede ser tomado del rack</string>
     </set>
+    <set id="description-status-modulelock-eob">
+        <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
+        <string lang="en">Can only be moved outside of combat</string>
+        <string lang="fr">Peut être déplacé seulement en dehors du combat</string>
+        <string lang="zh">只能在战斗外移动</string>
+        <string lang="jp">戦闘外でのみ移動可能</string>
+        <string lang="ru">Может быть перемещено только вне боя</string>
+        <string lang="es">Solo puede ser movido fuera de combate</string>
+    </set>
     <set id="description-status-modulelock-eot">
         <string lang="de">Bis zum Ende des Zuges ans Rack geschlossen</string>
         <string lang="en">Locked to rack until end of turn</string>
@@ -916,24 +934,6 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="jp">ラックから取り外せません</string>
         <string lang="ru">Нельзя взять с полки</string>
         <string lang="es">No puede ser tomado del rack</string>
-    </set>
-    <set id="racklock-canonlybemovedoutsideofcombat">
-        <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
-        <string lang="en">Can only be moved outside of combat</string>
-        <string lang="fr">Peut être déplacé seulement en dehors du combat</string>
-        <string lang="zh">只能在戰鬥外移動</string>
-        <string lang="jp">戦闘外でのみ移動できます</string>
-        <string lang="ru">Можно перемещать только вне боя</string>
-        <string lang="es">Solo puede ser movido fuera de combate</string>
-    </set>
-    <set id="racklock-lockeduntilnextturn">
-        <string lang="de">Modul ist bis zum nächsten Zug ans Rack gesperrt </string>
-        <string lang="en">Module is locked to rack until next turn</string>
-        <string lang="fr">Module est derrouillé au rack jusqu’au prochain tour</string>
-        <string lang="zh">模块被锁定在机架上直到下一回合</string>
-        <string lang="jp">モジュールは次のターンまでラックにロックされています</string>
-        <string lang="ru">Модуль закрыт до следующего хода</string>
-        <string lang="es">El módulo está bloqueado al rack hasta el siguiente turno</string>
     </set>
     <set id="exhaustion-dependingonwiring">
         <string lang="de">$b$Erschöpfung$/b$&#xA;Abhängig von aktivierten Modulen</string>
