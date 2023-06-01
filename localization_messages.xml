@@ -121,14 +121,14 @@ con $energy$</string>
         <string lang="ru">Больше нет выбора</string>
         <string lang="es">No quedan más selecciones</string>
     </set>
-    <set id="error-nospace-module">
-        <string lang="de">Kein Rack-Platz mehr für $NAME$</string>
-        <string lang="en">No rack space left for $NAME$</string>
-        <string lang="fr">Pas d'espace disponible pour $NAME$</string>
-        <string lang="zh">没有更多空间给$NAME$</string>
-        <string lang="jp">$NAME$のためのスペースがありません</string>
-        <string lang="ru">Нет места в стойке для $NAME$</string>
-        <string lang="es">No queda espacio en el rack para $NAME$</string>
+    <set id="error-nospaceinrack">
+        <string lang="de">Kein freier Platz im Rack</string>
+        <string lang="en">No free space in rack</string>
+        <string lang="fr">Pas d'espace libre dans le rack</string>
+        <string lang="zh">机架中没有空闲空间</string>
+        <string lang="jp">ラックに空きスペースがありません</string>
+        <string lang="ru">Нет свободного места в стойке</string>
+        <string lang="es">No hay espacio libre en el rack</string>
     </set>
     <set id="error-inputtooutput">
         <string lang="de">Verkabele Input-

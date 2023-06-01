@@ -501,7 +501,7 @@
         <string lang="ru">Грав. Вакуум</string>
         <string lang="es">Vacío Grav.</string>
     </set>
-        <set id="name-status-moduleunstable">
+    <set id="name-status-moduleunstable">
         <string lang="de">Instabil</string>
         <string lang="en">Unstable</string>
         <string lang="fr">Instable</string>
@@ -509,6 +509,15 @@
         <string lang="jp">不安定</string>
         <string lang="ru">Неустойчивый</string>
         <string lang="es">Inestable</string>
+    </set>
+    <set id="name-status-modulevolatile">
+        <string lang="de">Flüchtig</string>
+        <string lang="en">Volatile</string>
+        <string lang="fr">Volatile</string>
+        <string lang="zh">挥发性</string>
+        <string lang="jp">揮発性</string>
+        <string lang="ru">Летучий</string>
+        <string lang="es">Volátil</string>
     </set>
     <set id="shortname-status-transformation-dmgtograv">
         <string lang="de">DMG zu Grav+</string>
@@ -842,6 +851,15 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="jp">バトル終了時に破壊されます</string>
         <string lang="ru">Будет уничтожен в конце боя</string>
         <string lang="es">Es destruido al final del combate</string>
+    </set>
+    <set id="description-status-modulevolatile">
+        <string lang="de">Wird am Ende des Zuges des Besitzers zerstört</string>
+        <string lang="en">Is destroyed at the end of the owner's turn</string>
+        <string lang="fr">Est détruit à la fin du tour du propriétaire</string>
+        <string lang="zh">在拥有者回合结束时将被摧毁</string>
+        <string lang="jp">オーナーのターン終了時に破壊されます</string>
+        <string lang="ru">Будет уничтожен в конце хода владельца</string>
+        <string lang="es">Es destruido al final del turno del propietario</string>
     </set>
     <set id="description-status-transformation-volcanodamagetomight">
         <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>

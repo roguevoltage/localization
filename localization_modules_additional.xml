@@ -259,7 +259,7 @@
         <string lang="en">Constructs a universal $b$Generator$/b$ with $unstable$.</string>
         <string lang="fr">Construe un $b$Générateur$/b$ universel avec $unstable$.</string>
         <string lang="zh">构造一个通用的$b$Generator$/b$，并带有$unstable$。</string>
-        <string lang="jp">一般的な$b$ジェネレーター$/b$を作成し、$unstable$を搭載します。</string>
+        <string lang="jp">$unstable$を搭載した一般的な$b$ジェネレーター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorymerger">
         <string lang="de">Verbinder-Fabrik $MODIFICATIONVALUE$</string>
@@ -285,6 +285,13 @@ avec $cracked$ und $crust$.</string>
         <string lang="zh">转换器工厂 $MODIFICATIONVALUE$</string>
         <string lang="jp">モディファイアー工場 $MODIFICATIONVALUE$</string>
     </set>
+    <set id="name-module-factoryturbulence">
+        <string lang="de">Turbulenz-Fabrik $MODIFICATIONVALUE$</string>
+        <string lang="en">Turbulence Factory $MODIFICATIONVALUE$</string>
+        <string lang="fr">Fabrique des Turbulences $MODIFICATIONVALUE$</string>
+        <string lang="zh">湍流工厂 $MODIFICATIONVALUE$</string>
+        <string lang="jp">タービュランス工場 $MODIFICATIONVALUE$</string>
+    </set>
     <set id="description-module-factorymodifier">
         <string lang="de">Stellt einen universellen $b$Wandler$/b$
 mit $cracked$ her.</string>
@@ -292,6 +299,13 @@ mit $cracked$ her.</string>
         <string lang="fr">Construe un $b$Modificateur$/b$ universel avec $cracked$.</string>
         <string lang="zh">构造一个通用的$b$Modifier$/b$。</string>
         <string lang="jp">一般的な$b$モディファイアー$/b$を作成します。</string>
+    </set>
+        <set id="description-module-factoryturbulence">
+        <string lang="de">Erzeugt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters.</string>
+        <string lang="en">Constructs a $b$Turbulence$/b$ with $volatile$ on the other character's rack.</string>
+        <string lang="fr">Construe une $b$Turbulence$/b$ avec $volatile$ sur le rack de l'autre personnage.</string>
+        <string lang="zh">在另一个角色的机架上构造一个带有$volatile$的$b$Turbulence$/b$。</string>
+        <string lang="jp">他のキャラクターのラックに$volatile$を搭載した$b$タービュランス$/b$を作成します。</string>
     </set>
     <set id="name-module-generatorplasma">
         <string lang="de">Plasma-Generator</string>
@@ -568,6 +582,24 @@ by $b$10$/b$ time steps.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
         <string lang="zh">将另一个目标模块转换为同一级别的不同模块。</string>
         <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
+    </set>
+    <set id="name-module-turbulence">
+        <string lang="de">Turbulenz</string>
+        <string lang="en">Turbulence</string>
+        <string lang="fr">Turbulence</string>
+        <string lang="zh">湍流</string>
+        <string lang="jp">タービュランス</string>
+    </set>
+
+    <set id="description-module-turbulence">
+        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
+à un courant.</string>
+        <string lang="zh">在一個電流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a una corriente.</string>
     </set>
 
 </localization>
