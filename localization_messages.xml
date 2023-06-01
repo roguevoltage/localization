@@ -112,15 +112,6 @@ con $energy$</string>
         <string lang="ru">Этот уровень недоступен.</string>
         <string lang="es">Este nivel no es viable.</string>
     </set>
-    <set id="error-noenergy">
-        <string lang="de">Keine $energy$</string>
-        <string lang="en">No $energy$</string>
-        <string lang="fr">Pas de $energy$</string>
-        <string lang="zh">没有$energy$</string>
-        <string lang="jp">$energy$がありません</string>
-        <string lang="ru">Нет $energy$</string>
-        <string lang="es">No hay $energy$</string>
-    </set>
     <set id="error-nomorelootpicks">
         <string lang="de">Keine Auswahl mehr übrig</string>
         <string lang="en">No more picks left</string>
@@ -550,6 +541,15 @@ se disipa</string>
         <string lang="jp">$plasma$ がありません</string>
         <string lang="ru">Нет $plasma$</string>
         <string lang="es">No hay $plasma$</string>
+    </set>
+    <set id="worldmessage-noenergy">
+        <string lang="de">Keine $energy$</string>
+        <string lang="en">No $energy$</string>
+        <string lang="fr">Pas de $energy$</string>
+        <string lang="zh">没有$energy$</string>
+        <string lang="jp">$energy$がありません</string>
+        <string lang="ru">Нет $energy$</string>
+        <string lang="es">No hay $energy$</string>
     </set>
     <set id="worldmessage-module-trashcompactor-notarget">
         <string lang="de">Kein Modul zum opfern</string>
