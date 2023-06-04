@@ -9,35 +9,15 @@
         <string lang="en">Queen Bee</string>
         <string lang="fr">Reine Abeille</string>
     </set>  
-    <set id="name-boss-chronocat">
-        <string lang="de">Boss-Katze</string>
-        <string lang="en">Boss Cat</string>
-        <string lang="fr">Boss Chat</string>
+    <set id="name-boss-volcanoboss">
+        <string lang="de">Boss</string>
+        <string lang="en">Boss</string>
+        <string lang="fr">Boss</string>
     </set>
     <set id="name-boss-dynosaurmom">
         <string lang="de">Allmutter</string>
         <string lang="en">Allmother</string>
         <string lang="fr">Mère de Tous</string>
-    </set>
-    <set id="name-boss-brachiosaur-frontleft">
-        <string lang="de">Vorderbein</string>
-        <string lang="en">Front Leg</string>
-        <string lang="fr">Jambe Avant</string>
-    </set>
-    <set id="name-boss-brachiosaur-frontright">
-        <string lang="de">Vorderbein</string>
-        <string lang="en">Front Leg</string>
-        <string lang="fr">Jambe Avant</string>
-    </set>
-    <set id="name-boss-brachiosaur-hindleft">
-        <string lang="de">Hinterbein</string>
-        <string lang="en">Hind Leg</string>
-        <string lang="fr">Jambe Arrière</string>
-    </set>
-    <set id="name-boss-brachiosaur-hindright">
-        <string lang="de">Hinterbein</string>
-        <string lang="en">Hind Leg</string>
-        <string lang="fr">Jambe Arrière</string>
     </set>
     <set id="name-enemy-bee">
         <string lang="de">Biene</string>
@@ -54,6 +34,26 @@
         <string lang="en">Beast</string>
         <string lang="fr">Bête</string>
     </set>  
+    <set id="name-enemy-brachiosaur-frontleft">
+        <string lang="de">Vorderbein</string>
+        <string lang="en">Front Leg</string>
+        <string lang="fr">Jambe Avant</string>
+    </set>
+    <set id="name-enemy-brachiosaur-frontright">
+        <string lang="de">Vorderbein</string>
+        <string lang="en">Front Leg</string>
+        <string lang="fr">Jambe Avant</string>
+    </set>
+    <set id="name-enemy-brachiosaur-hindleft">
+        <string lang="de">Hinterbein</string>
+        <string lang="en">Hind Leg</string>
+        <string lang="fr">Jambe Arrière</string>
+    </set>
+    <set id="name-enemy-brachiosaur-hindright">
+        <string lang="de">Hinterbein</string>
+        <string lang="en">Hind Leg</string>
+        <string lang="fr">Jambe Arrière</string>
+    </set>
     <set id="name-enemy-bull">
         <string lang="de">Stier</string>
         <string lang="en">Bull</string>
@@ -93,6 +93,11 @@
         <string lang="de">Graviraptor-Ei</string>
         <string lang="en">Graviraptor Egg</string>
         <string lang="fr">Oeuf de Graviraptor</string>
+    </set>
+    <set id="name-enemy-egg-phoenix">
+        <string lang="de">Phoenix-Ei</string>
+        <string lang="en">Phoenix Egg</string>
+        <string lang="fr">Oeuf de Phénix</string>
     </set>
     <set id="name-enemy-detectormodulecreation">
         <string lang="de">Fabrik-Detektor</string>
@@ -204,7 +209,7 @@
         <string lang="en">Boss</string>
         <string lang="fr">Boss</string>
     </set>
-    <set id="shortname-boss-chronocat">
+    <set id="shortname-boss-volcanoboss">
         <string lang="de">Boss</string>
         <string lang="en">Boss</string>
         <string lang="fr">Boss</string>
@@ -214,22 +219,22 @@
         <string lang="en">Boss</string>
         <string lang="fr">Boss</string>
     </set>
-    <set id="shortname-boss-brachiosaur-frontleft">
+    <set id="shortname-enemy-brachiosaur-frontleft">
         <string lang="de">Vorderbein</string>
         <string lang="en">Front Leg</string>
         <string lang="fr">Jambe Avant</string>
     </set>
-    <set id="shortname-boss-brachiosaur-frontright">
+    <set id="shortname-enemy-brachiosaur-frontright">
         <string lang="de">Vorderbein</string>
         <string lang="en">Front Leg</string>
         <string lang="fr">Jambe Avant</string>
     </set>
-    <set id="shortname-boss-brachiosaur-hindleft">
+    <set id="shortname-enemy-brachiosaur-hindleft">
         <string lang="de">Hinterbein</string>
         <string lang="en">Hind Leg</string>
         <string lang="fr">Jambe Arrière</string>
     </set>
-    <set id="shortname-boss-brachiosaur-hindright">
+    <set id="shortname-enemy-brachiosaur-hindright">
         <string lang="de">Hinterbein</string>
         <string lang="en">Hind Leg</string>
         <string lang="fr">Jambe Arrière</string>
@@ -280,6 +285,11 @@
         <string lang="fr">Oeuf</string>
     </set>
     <set id="shortname-enemy-egg-graviraptor-bossminion">
+        <string lang="de">Ei</string>
+        <string lang="en">Egg</string>
+        <string lang="fr">Oeuf</string>
+    </set>
+    <set id="shortname-enemy-egg-phoenix">
         <string lang="de">Ei</string>
         <string lang="en">Egg</string>
         <string lang="fr">Oeuf</string>
@@ -384,22 +394,22 @@
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-boss-brachiosaur-frontleft">
+    <set id="description-enemy-brachiosaur-frontleft">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-boss-brachiosaur-frontright">
+    <set id="description-enemy-brachiosaur-frontright">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-boss-brachiosaur-hindleft">
+    <set id="description-enemy-brachiosaur-hindleft">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-boss-brachiosaur-hindright">
+    <set id="description-enemy-brachiosaur-hindright">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
@@ -409,7 +419,7 @@
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-boss-chronocat">
+    <set id="description-boss-volcanoboss">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
@@ -460,6 +470,11 @@
         <string lang="fr"></string>
     </set>
     <set id="description-enemy-egg-graviraptor-bossminion">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+    </set>
+    <set id="description-enemy-egg-phoenix">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
