@@ -12,7 +12,7 @@
                 <string lang="de">Das Modul-Rack</string>
                 <string lang="en">The Modular Rack</string>
                 <string lang="fr">Le Rack Modulaire</string>
-                <string lang="zh">模块架</string>
+                <string lang="zh">模块机架</string>
                 <string lang="jp">モジュラーラック</string>
                 <string lang="ru">Модульная стойка</string>
                 <string lang="es">El Rack Modular</string>
@@ -46,7 +46,7 @@ Algunos generan $energy$, otros la amplifican o almacenan y otros la convierten 
                 <string lang="de">Verbinde Module, indem du zwischen $b$Input- und Output-Buchsen der gleichen Farbe$/b$ Kabel ziehst.</string>
                 <string lang="en">Connect modules by dragging cables between $b$input and output jacks of matching colors$/b$.</string>
                 <string lang="fr">Connectez des modules en tirant des câbles entre les $b$prises d'entrée et de sortie de même couleur$/b$.</string>
-                <string lang="zh">通过在$b$相同颜色的输入和输出插孔之间拖动电缆$/b$连接模块。</string>
+                <string lang="zh">通过在$b$相同颜色的输入和输出口之间拖动电缆$/b$连接模块。</string>
                 <string lang="jp">$b$同じ色の入力と出力ジャックの間に電線を引いて$/b$モジュールを接続します。</string>
                 <string lang="ru">Подключите модули, перетаскивая кабели между $b$входными и выходными разъемами одинакового цвета$/b$.</string>
                 <string lang="es">Conecta módulos arrastrando cables entre $b$enchufes de entrada y salida del mismo color$/b$.</string>
@@ -67,8 +67,8 @@ Darin ist ein $b$Heiltrank$/b$, aber du kannst ihn noch nicht benutzen, da seine
 There is a $b$Healing Potion$/b$ in it, but you can't use it just yet since its input jack is &lt;color=green&gt;$b$green$/b$&lt;/color&gt;!</string>
                 <string lang="fr">Dans le $b$sac à dos$/b$, vous pouvez stocker des modules que vous n'avez pas besoin immédiatement et échanger des modules entre les personnages.
 Il y a une $b$Potion de soin$/b$ dedans, mais vous ne pouvez pas l'utiliser pour le moment car sa prise d'entrée est &lt;color=green&gt;$b$verte$/b$&lt;/color&gt;!</string>
-                <string lang="zh">在$b$背包$/b$中，您可以存储您不需要立即使用的模块，并在角色之间交换模块。
-它里面有一个$b$治疗药水$/b$，但是你现在还不能使用它，因为它的输入插孔是&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;的！</string>
+                <string lang="zh">在$b$背包$/b$中，您可以充能您不需要立即使用的模块，并在角色之间交换模块。
+它里面有一个$b$治疗药水$/b$，但是你现在还不能使用它，因为它的输入口是&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;的！</string>
                 <string lang="jp">バックパックでは、すぐに必要としないモジュールを保管したり、キャラクター間でモジュールを交換したりできます。
 中には$b$回復ポーション$/b$がありますが、まだ使用できません。入力ジャックが&lt;color=green&gt;$b$緑色$/b$&lt;/color&gt;なのです！</string>
                 <string lang="ru">В $b$рюкзаке$/b$ вы можете хранить модули, которые вам не нужны прямо сейчас, и обмениваться ими между персонажами.
@@ -101,7 +101,7 @@ Voyez-vous le cercle mis en évidence dans 7 étapes? C'est là que le prochain 
 Après cela, dans 8 étapes, ce sera le tour du $fox$.</string>
                 <string lang="zh">时间线显示了你和敌人的回合发生的时间。
 $b$现在$/b$，是$slopperjohnson$的回合。
-之后，时间将向前滴答, 5个时间步骤后, 将是$chronocat$的回合。
+之后，时间将向前滴答, 5个时刻后, 将是$chronocat$的回合。
 你看到7个步骤中高亮的圆圈吗? 那是$slopperjohnson$下一次回合的地方。
 之后, 在8个步骤中, 将是$fox$的回合。</string>
                 <string lang="jp">タイムラインは、あなたと敵のターンが発生する時間を示しています。
@@ -122,7 +122,7 @@ Después de eso, en 8 pasos, será el turno de $fox$.</string>
                 <string lang="de">Plasma Herstellen</string>
                 <string lang="en">Producing Plasma</string>
                 <string lang="fr">Produire du plasma</string>
-                <string lang="zh">生产等离子体</string>
+                <string lang="zh">生成等离子体</string>
                 <string lang="jp">プラズマの生産</string>
                 <string lang="ru">Производство плазмы</string>
                 <string lang="es">Produciendo Plasma</string>
@@ -150,7 +150,7 @@ Was ein unglaublicher Fund!</string>
 What an amazing find!</string>
                 <string lang="fr">Un $b$Plasma Converter$/b$ avec une prise d'entrée $b$universelle$/b$!
 Quelle trouvaille incroyable!</string>
-                <string lang="zh">带通用输入插孔的等离子转换器！
+                <string lang="zh">带通用输入口的等离子转换器！
 这是一个惊人的发现！</string>
                 <string lang="jp">ユニバーサル入力ジャックを備えたプラズマコンバーター！
 これは素晴らしい発見です！</string>
@@ -166,7 +166,7 @@ Jackson, es ist endlich an der Zeit, dass du deine eigene Waffe bekommst!</strin
 Jackson, I think it's finally time that you have a weapon of your own!</string>
                 <string lang="fr">Un $b$Blaster Module$/b$! Et il semble fonctionner parfaitement.
 Jackson, je pense que c'est enfin le moment où tu auras une arme à toi!</string>
-                <string lang="zh">$b$冲击波模块$/b$！ 它似乎工作得很好。
+                <string lang="zh">$b$爆能枪模块$/b$！ 它似乎工作得很好。
 杰克逊，我认为现在终于是你拥有自己的武器的时候了！</string>
                 <string lang="jp">$b$ブラスターモジュール$/b$！ そして、それはまさにうまく機能しているようです。
 ジャクソン、あなた自身の武器を持つのは、やっとのことです！</string>
@@ -204,7 +204,7 @@ Si nos atenemos a lo que hemos aprendido, ¡podemos derrotarlo!</string>
                 <string lang="de">Dein neues $blademodule$ schießt nicht auf Ziele, sondern trifft $b$alle Gegner auf dem gleichen Zeitschritt$/b$ wie sein Besitzer.</string>
                 <string lang="en">Your new $blademodule$ does not shoot targets, but instead hits $b$all enemies on the same time step$/b$ as its owner.</string>
                 <string lang="fr">Votre nouveau $blademodule$ ne tire pas sur les cibles, mais touche $b$tous les ennemis sur le même pas de temps$/b$ que son propriétaire.</string>
-                <string lang="zh">你的新刀片模块不会射击目标，而是命中与其所有者在同一时间步骤上的所有敌人。</string>
+                <string lang="zh">你的新刀片模块不会射击目标，而是命中与其所有者在同一时刻上的所有敌人。</string>
                 <string lang="jp">あなたの新しい$blademodule$はターゲットを撃ちませんが、代わりにその所有者と同じ時間ステップですべての敵を攻撃します。</string>
                 <string lang="ru">Ваш новый $blademodule$ не стреляет по целям, а поражает $b$ всех врагов на том же временном шаге$/b$, что и его владелец.</string>
                 <string lang="es">Tu nuevo $blademodule$ no dispara a los objetivos, sino que golpea $b$a todos los enemigos en el mismo paso de tiempo$/b$ que su dueño.</string>
@@ -250,7 +250,7 @@ $slopperjackson$ は、同じことを $b$ 減速器 $/b$ モジュールで行�
                 <string lang="de">Er sollte den Zug seines Bruders auf den nächsten Zeitschritt schieben. Dann ist er erneut auf dem selben Schritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
                 <string lang="en">Now he should $b$push his brother's turn$/b$ to the next time step, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
                 <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$ au prochain pas de temps, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le module de lame.</string>
-                <string lang="zh">他应该将他的兄弟的回合$b$延迟$/b$到下一个时间步骤，这样它就会与敌人的回合$b$对齐$/b$，他就可以再次使用刀片模块。</string>
+                <string lang="zh">他应该将他的兄弟的回合$b$延迟$/b$到下一个时刻，这样它就会与敌人的回合$b$对齐$/b$，他就可以再次使用刀片模块。</string>
                 <string lang="jp">彼は、彼の兄弟のターンを次のタイムステップに $b$ 遅らせる $/b$ べきで、それは敵のターンと $b$ 同期しているので、彼は再びブレードモジュールを使用できます。</string>
                 <string lang="ru">Теперь он должен $b$отложить ход своего брата$/b$ на следующий шаг времени, так что он будет $b$выровнен$/b$ с врагом и он сможет снова использовать модуль лезвия.</string>
                 <string lang="es">Ahora debería $b$retrasar el turno de su hermano$/b$ al siguiente paso de tiempo, para que esté $b$alineado$/b$ con el del enemigo y pueda usar el módulo de la Cuchilla de nuevo.</string>
@@ -271,7 +271,7 @@ Du kannst also sowohl den $b$Verlangsamer$/b$, als auch die $b$Heiltrank-Fabrik$
 You can connect both the $b$Decelerator$/b$ and the $b$Potion Factory$/b$!</string>
                 <string lang="fr">Le générateur double de $slopperjackson$ produit $energy$ sur $b$les deux$/b$ prises de sortie.
 Vous pouvez donc connecter à la fois le $b$Décélérateur$/b$ et la $b$Fabrique de Potions$/b$!</string>
-                <string lang="zh">$slopperjackson$的双重发生器在$b$两个$/b$输出插孔上产生$energy$。
+                <string lang="zh">$slopperjackson$的双重发生器在$b$两个$/b$输出口上产生$energy$。
 所以你可以同时连接$b$减速器$/b$和$b$药水工厂$/b$。</string>
                 <string lang="jp">$slopperjackson$ のデュアルジェネレーターは、$energy$ を $b$ 両方の $/b$ 出力ジャックに生成します。
 そのため、$b$ ディセレーター $/b$ と $b$ ポーション工場 $/b$ の両方を接続できます。</string>
@@ -312,10 +312,10 @@ Let's get rid of those monsters together!</string>
 Tu as oublié ton $blademodule$! Tu ne m'avais pas dit que c'était ton arme la plus importante?
 $b$Passe à mon rack$/b$ et déplace-le dans le sac à dos, puis déplace-le dans le tien.
 Laissons-nous débarrasser de ces monstres ensemble!</string>
-                <string lang="zh">兄弟！等待！
-你忘記了你的 $blademodule$！
-還記得你說過這是你最重要的武器嗎？
-$b$切換到我的架子$/b$ 並將其拖入背包，然後將其拖入你的。
+                <string lang="zh">兄弟！等等！
+你忘记了你的 $blademodule$！
+还记得你说过这是你最重要的武器嗎？
+$b$切换到我的机架$/b$ 并将其拖入背包，然后把他拖到你的机架上。
 讓我們一起擺脫那些怪物吧！</string>
                 <string lang="jp">兄弟！ 待って！
 あなたはあなたの $blademodule$ を忘れてしまった！ あなたはそれがあなたの最も重要な武器だと言ったことを覚えていますか？
@@ -357,10 +357,10 @@ Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, od
 Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.</string>
         <string lang="fr">Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.
 Si vous avez le $b$Potion de soin$/b$ connecté au $b$Soul Sensor$/b$ lorsque vous avez terminé votre ennemi, il recevra de l'énergie pour vous soigner.</string>
-        <string lang="zh">传感器模块无法存储能量：在同一回合使用它，否则它将消散。
+        <string lang="zh">传感器模块无法充能能量：在同一回合使用它，否则它将消散。
 如果你在结束你的敌人时将$b$治疗药水$/b$连接到$b$灵魂传感器$/b$，它将获得能量来治愈你。</string>
         <string lang="jp">センサーモジュールはエネルギーを保存できません：同じターンで使用するか、それは消失します。
-あなたの敵を終えるときに、$b$ヒーリングポーション$/b$が$b$ソウルセンサー$/b$に接続されている場合、それはあなたを治療するためのエネルギーを受け取ります。</string>
+あなたの敵を終えるときに、$b$ヒーリングポーション$/b$が$b$ソウルセンサー$/b$に接続されている場合、それはあなたを治疗するためのエネルギーを受け取ります。</string>
         <string lang="ru">Если у вас есть $b$Лечебное зелье$/b$, подключенное к $b$Датчику души$/b$, когда вы убиваете врага, оно получит энергию, чтобы исцелить вас.
 Модули датчиков не могут хранить энергию: используйте ее в том же ходу, или она рассеется.</string>
         <string lang="es">Los módulos de sensor no pueden almacenar energía: úsalo en el mismo turno, o se disipará.
@@ -452,8 +452,8 @@ Los combatientes reciben $b$la mitad$/b$ de él como $damage$ (redondeado hacia 
 <string lang="en">Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
 <string lang="fr">$grav$ influence la succédance des événements dans le temps.
 Les tours peuvent être déplacés $b$en avant ou en arrière dans le temps$/b$ en appliquant $grav+$ ou $grav-$ au combattant.</string>
-<string lang="zh">回合的連續性可以用 $grav$ 來控制。
-通過對戰鬥員應用 $grav+$ 或 $grav-$ 可以及時向後或向前移動回合。</string>
+<string lang="zh">回合的连续性可以用 $grav$ 来控制。
+通過对战斗者應用 $grav+$ 或 $grav-$ 可以及时向后或向前移動回合。</string>
 <string lang="jp">$grav$ は、ターンの順番を操作します。
 ターンは、戦闘参加者に $grav+$ または $grav-$ を適用することで、時間軸上で前後に移動できます。</string>
 <string lang="ru">Ходы можно перемещать вперед или назад во времени, применяя $grav+$ или $grav-$ к бойцу.</string>

@@ -10,7 +10,7 @@
         <string lang="de">Erhält einen $boost$ bis zum Ende des Kampfes, immer wenn sie $energy$ erhält.</string>
         <string lang="en">Receives a $boost$ until the end of combat whenever it receives $energy$.</string>
         <string lang="fr">Reçoit un $boost$ jusqu'à la fin du combat chaque fois qu'il reçoit $energy$.</string>
-        <string lang="zh">每当获得$energy$时，直到战斗结束时获得$boost$。</string>
+        <string lang="zh">每当获得$energy$时，获得$boost$直到战斗结束时。</string>
         <string lang="jp">エネルギーを受け取るたびに、戦闘終了まで$boost$を受け取ります。</string>
     </set>
     <set id="name-module-coilstorm">
@@ -24,7 +24,7 @@
         <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu und rückt den $storm$ um $5$ Schritte vor. Am Anfang des $storm$ erhält er $boost$ bis zum Ende des Kampfes.</string>
         <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current and advances $storm$ by $5$ steps. At the beginning of $storm$ receives $boost$ until end of combat.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ à un courant et avance $storm$ de $5$ pas. Au début de $storm$ reçoit $boost$ jusqu'à la fin du combat.</string>
-        <string lang="zh">在一個電流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$，並將 $storm$ 前進 $5$ 個時間步驟。在 $storm$ 的開始時獲得 $boost$ 直到戰鬥結束。</string>
+        <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$，并将 $storm$ 前进 $5$ 个时刻。在 $storm$ 开始时获得 $boost$ 直到战斗结束。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加し、$storm$ を $5$ ステップ進めます。$storm$ の開始時に $boost$ を受け取り、戦闘終了まで継続します。</string>
     </set>
     <set id="name-module-collectorcrust">
@@ -66,7 +66,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a Grav. Spike touches down.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
-        <string lang="zh">每当引力尖峰触地时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当引力尖峰发生时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectormight">
@@ -108,7 +108,7 @@
         <string lang="de">Erzeugt eine permanente Kopie eines Moduls deiner Wahl.</string>
         <string lang="en">Creates a permanent copy of another target module.</string>
         <string lang="fr">Crée une copie permanente d'un autre module ciblé.</string>
-        <string lang="zh">创建另一个目标模块的永久副本。</string>
+        <string lang="zh">创建另一个目标模块的永久复制品。</string>
         <string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
     </set>
     <set id="name-module-duplicator-eob">
@@ -122,7 +122,7 @@
         <string lang="de">Erzeugt eine Kopie eines Moduls deiner Wahl. Die Kopie erhält $unstable$.</string>
         <string lang="en">Creates a copy of another target module. The copy has $unstable$.</string>
         <string lang="fr">Crée une copie d'un autre module ciblé. La copie a $unstable$.</string>
-        <string lang="zh">创建另一个目标模块的副本。副本具有$unstable$。</string>
+        <string lang="zh">创建另一个目标模块的复制。复制品具有$unstable$。</string>
         <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
     </set>
     <set id="name-module-effectormine">
@@ -150,28 +150,28 @@
         <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen Blitz niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
         <string lang="en">Summons a lightning strike onto target time step that deals $damage$ to all combatants on it.</string>
         <string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
-        <string lang="zh">召唤一道闪电，对目标时间步骤上的所有战斗者造成$damage$。</string>
+        <string lang="zh">召唤一道闪电，对目标时刻上的所有战斗者造成$damage$。</string>
         <string lang="jp">目標のタイム ステップに雷を落とし、その上のすべての戦闘者に$damage$を与えます。</string>
     </set>
     <set id="name-module-effectorrevitalizer">
         <string lang="de">Revitalisator $MODIFICATIONVALUE$</string>
         <string lang="en">Revitalizer $MODIFICATIONVALUE$</string>
         <string lang="fr">Révitalisateur $MODIFICATIONVALUE$</string>
-        <string lang="zh">復元劑 $MODIFICATIONVALUE$</string>
+        <string lang="zh">复苏剂 $MODIFICATIONVALUE$</string>
         <string lang="jp">リヴィタライザー $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-effectorrevitalizer">
         <string lang="de">Heilt einen Charakter deiner Wahl.</string>
         <string lang="en">Heals target player character.</string>
         <string lang="fr">Soigne le héros ciblé.</string>
-        <string lang="zh">治療目標玩家角色。</string>
+        <string lang="zh">治疗目标玩家角色。</string>
         <string lang="jp">対象のプレイヤー キャラクターを回復します。</string>
     </set>
     <set id="name-module-effectorvulnerability">
         <string lang="de">Verwundbarkeitsmodul $MODIFICATIONVALUE$</string>
         <string lang="en">Vuln. Module $MODIFICATIONVALUE$</string>
         <string lang="fr">Module Vulnérabilité $MODIFICATIONVALUE$</string>
-        <string lang="zh">脆弱模块 $MODIFICATIONVALUE$</string>
+        <string lang="zh">易伤模块 $MODIFICATIONVALUE$</string>
         <string lang="jp">脆弱性モジュール $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-effectorvulnerability">
@@ -200,7 +200,7 @@
 (Duration: $energy$×3).</string>
         <string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.
 (Durée: $energy$×3).</string>
-        <string lang="zh">對目標戰鬥者造成$gravimmunity$。
+        <string lang="zh">对目标角色造成$gravimmunity$。
 (持續時間：$energy$×3)。</string>
         <string lang="jp">ターゲットの戦闘者に$gravimmunity$を与えます。
 (持続時間：$energy$×3)。</string>
@@ -230,7 +230,7 @@
         <string lang="de">Stellt einen universellen $b$Blaster$/b$ her.</string>
         <string lang="en">Constructs a universal $b$Blaster$/b$.</string>
         <string lang="fr">Construe un $b$Blaster$/b$ universel.</string>
-        <string lang="zh">构造一个通用的$b$Blaster$/b$。</string>
+        <string lang="zh">制造一个通用的$b$Blaster$/b$。</string>
         <string lang="jp">一般的な$b$ブラスター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorydecelerator">
@@ -244,7 +244,7 @@
         <string lang="de">Stellt einen universellen $b$Verlangsamer$/b$ her.</string>
         <string lang="en">Constructs a universal $b$Decelerator$/b$.</string>
         <string lang="fr">Construe un $b$Décélerateur$/b$ universel.</string>
-        <string lang="zh">构造一个通用的$b$Decelerator$/b$。</string>
+        <string lang="zh">制造一个通用的$b$Decelerator$/b$。</string>
         <string lang="jp">一般的な$b$ディセレレーター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorygenerator">
@@ -258,7 +258,7 @@
         <string lang="de">Stellt einen universellen $b$Generator$/b$ mit $unstable$ her.</string>
         <string lang="en">Constructs a universal $b$Generator$/b$ with $unstable$.</string>
         <string lang="fr">Construe un $b$Générateur$/b$ universel avec $unstable$.</string>
-        <string lang="zh">构造一个通用的$b$Generator$/b$，并带有$unstable$。</string>
+        <string lang="zh">制造一个通用的$b$Generator$/b$，并带有$unstable$。</string>
         <string lang="jp">$unstable$を搭載した一般的な$b$ジェネレーター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorymerger">
@@ -275,7 +275,7 @@ mit $cracked$ und $crust$ her.</string>
 with $cracked$ and $crust$.</string>
         <string lang="fr">Construe un $b$Fusionneur$/b$ universel
 avec $cracked$ und $crust$.</string>
-        <string lang="zh">构造一个通用的$b$Merger$/b$，并带有$crust$。</string>
+        <string lang="zh">制造一个通用的$b$Merger$/b$，并带有$crust$。</string>
         <string lang="jp">一般的な$b$マージャー$/b$を作成し、$crust$を搭載します。</string>
     </set>
     <set id="name-module-factorymodifier">
@@ -297,21 +297,21 @@ avec $cracked$ und $crust$.</string>
 mit $cracked$ her.</string>
         <string lang="en">Constructs a universal $b$Modifier$/b$ with $cracked$.</string>
         <string lang="fr">Construe un $b$Modificateur$/b$ universel avec $cracked$.</string>
-        <string lang="zh">构造一个通用的$b$Modifier$/b$。</string>
+        <string lang="zh">制造一个通用的$b$Modifier$/b$。</string>
         <string lang="jp">一般的な$b$モディファイアー$/b$を作成します。</string>
     </set>
         <set id="description-module-factoryturbulence">
         <string lang="de">Erzeugt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters.</string>
         <string lang="en">Constructs a $b$Turbulence$/b$ with $volatile$ on the other character's rack.</string>
         <string lang="fr">Construe une $b$Turbulence$/b$ avec $volatile$ sur le rack de l'autre personnage.</string>
-        <string lang="zh">在另一个角色的机架上构造一个带有$volatile$的$b$Turbulence$/b$。</string>
+        <string lang="zh">在另一个角色的机架上制造一个带有$volatile$的$b$Turbulence$/b$。</string>
         <string lang="jp">他のキャラクターのラックに$volatile$を搭載した$b$タービュランス$/b$を作成します。</string>
     </set>
     <set id="name-module-generatorplasma">
         <string lang="de">Plasma-Generator</string>
         <string lang="en">Plasma Generator</string>
         <string lang="fr">Generateur Plasma</string>
-        <string lang="zh">等离子发生器</string>
+        <string lang="zh">等离子体发生器</string>
         <string lang="jp">プラズマジェネレーター</string>
     </set>
     <set id="name-module-generatorfire">
@@ -419,14 +419,14 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Modifiziert einen Strom.</string>
         <string lang="en">Modifies a current.</string>
         <string lang="fr">Modifie un courant.</string>
-        <string lang="zh">修改一个电流。</string>
+        <string lang="zh">调整一个电流。</string>
         <string lang="jp">電流を変更します。</string>
     </set>
     <set id="name-module-plasmadischarger">
         <string lang="de">Plasma-Entlader</string>
         <string lang="en">Plasma Discharger</string>
         <string lang="fr">Déchargeur de Plasma</string>
-        <string lang="zh">等离子放电器</string>
+        <string lang="zh">等离子体卸能器</string>
         <string lang="jp">プラズマディスチャージャー</string>
     </set>
     <set id="description-module-plasmadischarger">
@@ -454,7 +454,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Wird am Ende des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
         <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ at the end of turn, if no $generator$ has been activated on this rack this turn.</string>
         <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ à la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci.</string>
-        <string lang="zh">在回合结束时，如果在本回合中没有在本架上激活过$generator$，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过$generator$，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">ターン終了時に、このラックで$generator$がアクティブ化されていない場合、$b$$SENSORVALUE$$/b$ $energy$が充電されます。</string>
     </set>
     <set id="description-module-storagecellstorm">
@@ -480,7 +480,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Stellt die Haltbarkeit aller Module mit $recovery$ wieder her und entfernt $shock$ von allen Modulen auf allen Racks.</string>
         <string lang="en">Restores durability on all modules with $recovery$ and removes $shock$ from all modules on all racks.</string>
         <string lang="fr">Restaure la durabilité de tous les modules avec $recovery$ et retire $shock$ de tous les modules sur tous les racks.</string>
-        <string lang="zh">恢复所有带有$recovery$的模块的耐久度，并从所有架上的所有模块上移除$shock$。</string>
+        <string lang="zh">恢复所有带有$recovery$的模块的耐久度，并从所有机架上的所有模块上移除$shock$。</string>
         <string lang="jp">$recovery$を持つすべてのモジュールの耐久性を回復し、すべてのラックのすべてのモジュールから$shock$を削除します。</string>
     </set>
     <set id="name-module-toggledmightnullifier">
@@ -494,7 +494,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $might$ from all combatants.</string>
         <string lang="fr">Retire tout $might$ de tous les combattants.</string>
-        <string lang="zh">从所有战斗者中移除所有的$might$。</string>
+        <string lang="zh">移除所有战斗者的$might$。</string>
         <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
     </set>
     <set id="name-module-toggledbooster">
@@ -508,7 +508,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Verleiht einem Modul auf diesem Rack einen permanenten $boost$.</string>
         <string lang="en">Applies a permanent $boost$ to a module on this rack.</string>
         <string lang="fr">Applique un $boost$ permanent à un module sur ce rack.</string>
-        <string lang="zh">将永久的$boost$应用于本架上的一个模块。</string>
+        <string lang="zh">将永久的$boost$应用于本机架上的一个模块。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledbooster-eob">
@@ -522,21 +522,21 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
         <string lang="en">Applies a $boost$ to a non-loadout module on this rack until the end of combat.</string>
         <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
-        <string lang="zh">将$boost$应用于本架上的一个模块，直到战斗结束。</string>
+        <string lang="zh">将$boost$应用于本机架上的一个模块，直到战斗结束。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledbooster-modifiers">
         <string lang="de">Durchsatz-Booster</string>
         <string lang="en">Throughput Booster</string>
         <string lang="fr">Booster de Débit</string>
-        <string lang="zh">吞吐量增强器</string>
+        <string lang="zh">中继器增强器</string>
         <string lang="jp">スループットブースター</string>
     </set>
     <set id="description-module-toggledbooster-modifiers">
         <string lang="de">Versieht alle Module vom Typ $b$Durchsatzmodul$/b$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
         <string lang="en">Applies $boost$ to all modules of type $b$Throughput Module$/b$ on this rack until the end of turn.</string>
         <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Débit$/b$ sur ce rack jusqu'à la fin du tour.</string>
-        <string lang="zh">在本回合结束前，将$boost$应用于本架上所有类型为$b$Throughput Module$/b$的模块。</string>
+        <string lang="zh">在本回合结束前，将$boost$应用于所在机架上所有类型为$b$Throughput Module$/b$的模块。</string>
         <string lang="jp">ターン終了まで、このラックのすべてのタイプ$b$Throughput Module$/b$のモジュールに$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledstormgrenade">
@@ -552,7 +552,7 @@ $b$10$/b$ Zeitschritte zurück.</string>
         <string lang="en">Pushes back $storm$
 by $b$10$/b$ time steps.</string>
         <string lang="fr">Pousse $storm$ de $b$10$/b$ pas de temps en arrière.</string>
-        <string lang="zh">将$storm$推回$b$10$/b$个时间步。</string>
+        <string lang="zh">将$storm$推回$b$10$/b$个时刻。</string>
         <string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
     </set>
     <set id="name-module-toggledgravimmunitygrenade">
@@ -596,7 +596,7 @@ by $b$10$/b$ time steps.</string>
         <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
 à un courant.</string>
-        <string lang="zh">在一個電流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="zh">在一个电流上增加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a una corriente.</string>
