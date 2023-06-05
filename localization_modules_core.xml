@@ -606,7 +606,7 @@
         <string lang="de">Verwundbarkeits-Granate</string>
         <string lang="en">Vulnerability Grenade</string>
         <string lang="fr">Grenade de Vulnérabilité</string>
-        <string lang="zh">易伤手榴弹</string>
+        <string lang="zh">易伤手雷</string>
         <string lang="jp">バリアブルヌルファイアー</string>
         <string lang="ru">граната уязвимости</string>
         <string lang="es">Granada de Vulnerabilidad</string>
@@ -773,7 +773,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
         <string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige $grav+$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与所有者同一时刻的所有敌人造成$grav+$。</string>
+        <string lang="zh">对与拥有者同一时刻的所有敌人造成$grav+$。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$grav+$を与えます。</string>
         <string lang="ru">Наносит $grav+$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -782,7 +782,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige des $damage$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与所有者同一时刻的所有敌人造成$damage$。</string>
+        <string lang="zh">对与拥有者同一时刻的所有敌人造成$damage$。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$damage$を与えます。</string>
         <string lang="ru">Наносит $damage$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $damage$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -791,7 +791,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Heilt den Charakter.</string>
         <string lang="en">Heals the owner.</string>
         <string lang="fr">Soigne le propriétaire.</string>
-        <string lang="zh">治疗所有者。</string>
+        <string lang="zh">治疗拥有者。</string>
         <string lang="jp">持ち主を癒す。</string>
         <string lang="ru">Лечит владельца.</string>
         <string lang="es">Cura al dueño.</string>
@@ -800,7 +800,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Heilt alle Verbündeten.</string>
         <string lang="en">Heals all allies.</string>
         <string lang="fr">Soigne tous les alliés.</string>
-        <string lang="zh">治疗所有同伴。</string>
+        <string lang="zh">治疗所有队友。</string>
         <string lang="jp">全ての味方を癒す。</string>
         <string lang="ru">Лечит всех союзников.</string>
         <string lang="es">Cura a todos los aliados.</string>
@@ -812,7 +812,7 @@ wertvolles $plasma$ um.</string>
 valuable $plasma$.</string>
         <string lang="fr">Convertit $energy$ en
 précieux $plasma$.</string>
-        <string lang="zh">將$energy$转换為有價值的$plasma$。</string>
+        <string lang="zh">将$energy$转换为有价值的$plasma$。</string>
         <string lang="jp">$energy$を有価な$plasma$に変換します。</string>
         <string lang="ru">Преобразует $energy$ в
 ценный $plasma$.</string>
@@ -826,7 +826,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à l'allié ciblé.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对目标同伴造成$shield$。
+        <string lang="zh">对目标队友造成$shield$。
 (持續時間：$energy$×3)。</string>
         <string lang="jp">ターゲットの味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
@@ -842,7 +842,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à tous les alliés.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对所有同伴造成$shield$。
+        <string lang="zh">对所有队友造成$shield$。
 (持續時間：$energy$×3)。</string>
         <string lang="jp">全ての味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
@@ -940,7 +940,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
         <string lang="en">Picks up $grav+$ from $b$another$/b$ combatant as $energy$.</string>
         <string lang="fr">Prend $grav+$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-        <string lang="zh">从 $b$另一个$/b$ 战斗者身上取得 $grav+$ 作為 $energy$。</string>
+        <string lang="zh">从 $b$另一个$/b$ 角色身上取得 $grav+$ 作为 $energy$。</string>
         <string lang="jp">$b$他の$/b$戦闘者から $grav+$ を $energy$ として取得します。</string>
         <string lang="ru">Подбирает $grav+$ от $b$другого$/b$ бойца как $energy$.</string>
         <string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
@@ -1014,7 +1014,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Wenn der Charakter ohnmächtig wird, wird er automatisch in Höhe der gespeicherten $energy$ wiederbelegt.</string>
         <string lang="en">If the owner becomes unconscious, they are automatically revived with HP in height of its stored $energy$.</string>
         <string lang="fr">Si le propriétaire tombe inconscient, il est automatiquement réanimé avec des PV équivalents à son $energy$ stocké.</string>
-        <string lang="zh">如果持有者陷入昏迷，他將自動以其存儲的 $energy$ 的高度恢復 HP。</string>
+        <string lang="zh">如果持有者陷入昏迷，恢复HP到其存储的 $energy$ 的值 。</string>
         <string lang="jp">持有者が無意識になった場合、自動的に保持された $energy$ の高さで HP が回復されます。</string>
         <string lang="ru">Если владелец становится без сознания, он автоматически оживляется с HP в высоте его сохраненной $energy$.</string>
         <string lang="es">Si el propietario queda inconsciente, se revivirá automáticamente con PV en altura de su $energy$ almacenado.</string>
@@ -1034,7 +1034,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
 $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="fr">Peut être déchargé pour
 $b$$CHARGEVALUE$$/b$ $energy$.</string>
-        <string lang="zh">可以為 $b$$CHARGEVALUE$$/b$ $energy$ 放電。</string>
+        <string lang="zh">可以为 $b$$CHARGEVALUE$$/b$ $energy$ 放電。</string>
         <string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
         <string lang="ru">Может быть разряжен на $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="es">Puede ser descargado por $b$$CHARGEVALUE$$/b$ $energy$.</string>
@@ -1043,7 +1043,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
         <string lang="en">Is charged with $1$ $energy$ at the end of combat.</string>
         <string lang="fr">Est chargé avec $1$ $energy$ à la fin du combat.</string>
-        <string lang="zh">在战斗結束時為 $1$ $energy$ 充電。</string>
+        <string lang="zh">在战斗結束時为 $1$ $energy$ 充電。</string>
         <string lang="jp">戦闘終了時に $1$ $energy$ が充電されます。</string>
         <string lang="ru">Заряжается на $1$ $energy$ в конце боя.</string>
         <string lang="es">Se carga con $1$ $energy$ al final del combate.</string>
@@ -1055,7 +1055,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Defuse with $energy$).</string>
         <string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ pas de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.
 (Désamorcez avec $energy$).</string>
-        <string lang="zh">將在 $b$$TIMETOTURN$$/b$ 时刻內爆炸，並对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。
+        <string lang="zh">将在 $b$$TIMETOTURN$$/b$ 时刻內爆炸，並对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。
 （用 $energy$ 拆彈）。</string>
         <string lang="jp">$b$$TIMETOTURN$$/b$ ターン後に爆発し、両者のヒーローに $b$$INVERSECHARGEVALUE$$/b$ $damage$ を与えます。
 （$energy$ で解除）。</string>
@@ -1068,7 +1068,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Versieht alle Kampfteilnehmer mit $vulnerable$. (Dauer: 6)</string>
         <string lang="en">Applies $vulnerable$ to all combatants. (Duration: 6)</string>
         <string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
-        <string lang="zh">将$vulnerable$应用于所有战斗者。（持续时间：6）</string>
+        <string lang="zh">所有角色获得$vulnerable$。（持续时间：6）</string>
         <string lang="jp">すべての戦闘参加者に$vulnerable$を適用します。（持続時間：6）</string>
         <string lang="ru">Накладывает $vulnerable$ на всех участников боя. (Длительность: 6)</string>
         <string lang="es">Aplica $vulnerable$ a todos los combatientes. (Duración: 6)</string>
@@ -1077,7 +1077,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $grav$ from all combatants.</string>
         <string lang="fr">Supprime toute $grav$ de tous les combattants.</string>
-        <string lang="zh">从所有战斗者中移除所有 $grav$。</string>
+        <string lang="zh">移除所有角色的 $grav$。</string>
         <string lang="jp">すべての戦闘参加者からすべての $grav$ を削除します。</string>
         <string lang="ru">Удаляет все $grav$ у всех участников боя.</string>
         <string lang="es">Elimina todo $grav$ de todos los combatientes.</string>
@@ -1086,7 +1086,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Entfernt $crust$ von allen Modulen auf diesem Rack.</string>
         <string lang="en">Removes $crust$ from all modules on this rack.</string>
         <string lang="fr">Supprime $crust$ de tous les modules de ce rack.</string>
-        <string lang="zh">从此机架上的所有模块中移除 $crust$。</string>
+        <string lang="zh">移除此机架上所有模块的 $crust$。</string>
         <string lang="jp">このラックのすべてのモジュールから $crust$ を削除します。</string>
         <string lang="ru">Удаляет $crust$ у всех модулей на этом стеллаже.</string>
         <string lang="es">Elimina $crust$ de todos los módulos de esta estantería.</string>
@@ -1095,7 +1095,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
         <string lang="en">Destroys another target module to generate $2$ $energy$.</string>
         <string lang="fr">Génère $2$ $energy$ à partir de la destruction d'un autre module ciblé.</string>
-        <string lang="zh">销毁另一个目标模块以创建 $2$ $energy$。</string>
+        <string lang="zh">摧毁一个其他模块以创建 $2$ $energy$。</string>
         <string lang="jp">別のターゲットモジュールを破壊して $2$ $energy$ を生成します。</string>
         <string lang="ru">Уничтожает другой модуль, чтобы получить $2$ $energy$.</string>
         <string lang="es">Destruye otro módulo objetivo para generar $2$ $energy$.</string>

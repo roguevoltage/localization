@@ -12,7 +12,7 @@
         <string lang="de">Kann nicht von diesem Socket genommen werden</string>
         <string lang="en">Cannot be taken from this socket</string>
         <string lang="fr">Ne peut pas être pris depuis ce socket</string>
-        <string lang="zh">无法从此插槽中取出</string>
+        <string lang="zh">不能从此插槽中取出</string>
         <string lang="jp">このソケットからは取り出せません</string>
         <string lang="ru">Нельзя взять из этого сокета</string>
         <string lang="es">No se puede sacar de este socket</string>
@@ -21,7 +21,7 @@
         <string lang="de">Kann nicht vom Rack genommen werden</string>
         <string lang="en">Cannot be taken from rack</string>
         <string lang="fr">Ne peut pas être retiré du rack</string>
-        <string lang="zh">无法从机架中取出</string>
+        <string lang="zh">不能从机架中取出</string>
         <string lang="jp">ラックからは取り出せません</string>
         <string lang="ru">Нельзя взять из стойки</string>
         <string lang="es">No se puede sacar del rack</string>
@@ -57,7 +57,7 @@
         <string lang="de">Kann nicht dupliziert werden</string>
         <string lang="en">Cannot be duplicated</string>
         <string lang="fr">Ne peut pas être dupliqué</string>
-        <string lang="zh">无法复制</string>
+        <string lang="zh">不能复制</string>
         <string lang="jp">複製不可</string>
         <string lang="ru">Нельзя дублировать</string>
         <string lang="es">No se puede duplicar</string>
@@ -66,7 +66,7 @@
         <string lang="de">Kann nicht transmogrifiziert werden</string>
         <string lang="en">Cannot be transmogrified</string>
         <string lang="fr">Ne peut pas être transmogrifié</string>
-        <string lang="zh">无法转化</string>
+        <string lang="zh">不能转化</string>
         <string lang="jp">変身不可</string>
         <string lang="ru">Нельзя трансмогрифицировать</string>
         <string lang="es">No se puede transmogrificar</string>
@@ -75,7 +75,7 @@
         <string lang="de">Kann nicht in den nächsten Run hinübergerettet werden</string>
         <string lang="en">Cannot be salvaged</string>
         <string lang="fr">Ne peut pas être récupéré</string>
-        <string lang="zh">无法回收</string>
+        <string lang="zh">不能回收</string>
         <string lang="jp">回収不可</string>
         <string lang="ru">Нельзя спасти</string>
         <string lang="es">No se puede recuperar</string>
@@ -84,7 +84,7 @@
         <string lang="de">Kann nicht verklappt werden</string>
         <string lang="en">Cannot be dumped</string>
         <string lang="fr">Ne peut pas être jeté</string>
-        <string lang="zh">无法丢弃</string>
+        <string lang="zh">不能丢弃</string>
         <string lang="jp">捨てられません</string>
         <string lang="ru">Нельзя выбросить</string>
         <string lang="es">No se puede tirar</string>
@@ -148,7 +148,7 @@ a la salida</string>
         <string lang="de">Kann nicht zirkulär verkabeln</string>
         <string lang="en">Cannot wire circular</string>
         <string lang="fr">Ne peut pas câbler circulairement</string>
-        <string lang="zh">无法循环连接</string>
+        <string lang="zh">不能循环连接</string>
         <string lang="jp">循環的に接続できません</string>
         <string lang="ru">Нельзя провести провод кругом</string>
         <string lang="es">No se puede conectar en círculo</string>
@@ -187,7 +187,7 @@ cablé</string>
         <string lang="de">Kann hier nicht verkabeln</string>
         <string lang="en">Cannot wire from here</string>
         <string lang="fr">Impossible de cabler ici</string>
-        <string lang="zh">无法在此处连接</string>
+        <string lang="zh">不能在此处连接</string>
         <string lang="jp">ここから接続できません</string>
         <string lang="ru">Нельзя провести провод отсюда</string>
         <string lang="es">No se puede conectar desde aquí</string>
@@ -217,7 +217,7 @@ nicht erlaubt</string>
 same module</string>
         <string lang="fr">Ne peut pas cabler
 le même module</string>
-        <string lang="zh">无法连接相同的模块</string>
+        <string lang="zh">不能连接相同的模块</string>
         <string lang="jp">同じモジュールを接続できません</string>
         <string lang="ru">Нельзя провести провод от того же модуля</string>
         <string lang="es">No se puede conectar el mismo módulo</string>
@@ -226,7 +226,7 @@ le même module</string>
         <string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
         <string lang="en">Cannot wire during firing sequence</string>
         <string lang="fr">Cablage interdit pendant une séquence de tir</string>
-        <string lang="zh">无法在发射序列期间连接</string>
+        <string lang="zh">不能在触发序列期间连接</string>
         <string lang="jp">発射シーケンス中に接続できません</string>
         <string lang="ru">Нельзя провести провод во время стрельбы</string>
         <string lang="es">No se puede conectar durante la secuencia de disparo</string>
@@ -458,7 +458,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="de">Verkabeln nicht möglich</string>
         <string lang="en">Wiring impossible</string>
         <string lang="fr">Cablage impossible</string>
-        <string lang="zh">无法连接</string>
+        <string lang="zh">不能连接</string>
         <string lang="jp">配線不可能</string>
         <string lang="ru">Проводка невозможна</string>
         <string lang="es">Cableado imposible</string>
@@ -476,7 +476,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="de">Umschalten während Feuersequenz nicht erlaubt</string>
         <string lang="en">Cannot toggle during firing sequence</string>
         <string lang="fr">Impossible de basculer pendant la séquence de tir</string>
-        <string lang="zh">不能在射击序列中切换</string>
+        <string lang="zh">不能在触发序列中切换</string>
         <string lang="jp">発射シーケンス中に切り替えることはできません</string>
         <string lang="ru">Невозможно переключиться во время стрельбы</string>
         <string lang="es">No se puede cambiar durante la secuencia de disparo</string>

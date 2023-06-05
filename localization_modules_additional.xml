@@ -80,7 +80,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $might$ d'un combattant augmente.</string>
-        <string lang="zh">每当战斗者的$might$提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当角色的$might$提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">戦闘者の$might$が上昇するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorshield">
@@ -108,7 +108,7 @@
         <string lang="de">Erzeugt eine permanente Kopie eines Moduls deiner Wahl.</string>
         <string lang="en">Creates a permanent copy of another target module.</string>
         <string lang="fr">Crée une copie permanente d'un autre module ciblé.</string>
-        <string lang="zh">创建另一个目标模块的永久复制品。</string>
+        <string lang="zh">创建一个其他模块的永久复制品。</string>
         <string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
     </set>
     <set id="name-module-duplicator-eob">
@@ -122,7 +122,7 @@
         <string lang="de">Erzeugt eine Kopie eines Moduls deiner Wahl. Die Kopie erhält $unstable$.</string>
         <string lang="en">Creates a copy of another target module. The copy has $unstable$.</string>
         <string lang="fr">Crée une copie d'un autre module ciblé. La copie a $unstable$.</string>
-        <string lang="zh">创建另一个目标模块的复制。复制品具有$unstable$。</string>
+        <string lang="zh">创建一个其他模块的复制。复制品具有$unstable$。</string>
         <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
     </set>
     <set id="name-module-effectormine">
@@ -136,7 +136,7 @@
         <string lang="de">Fügt dem Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to the owner.</string>
         <string lang="fr">Inflige des $damage$ sur le propriétaire.</string>
-        <string lang="zh">对所有者造成$damage$。</string>
+        <string lang="zh">对拥有者造成$damage$。</string>
         <string lang="jp">オーナーに$damage$を与えます。</string>
     </set>
     <set id="name-module-effectorlightning">
@@ -150,7 +150,7 @@
         <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen Blitz niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
         <string lang="en">Summons a lightning strike onto target time step that deals $damage$ to all combatants on it.</string>
         <string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
-        <string lang="zh">召唤一道闪电，对目标时刻上的所有战斗者造成$damage$。</string>
+        <string lang="zh">召唤一道闪电，对该时刻的所有角色造成$damage$。</string>
         <string lang="jp">目標のタイム ステップに雷を落とし、その上のすべての戦闘者に$damage$を与えます。</string>
     </set>
     <set id="name-module-effectorrevitalizer">
@@ -258,7 +258,7 @@
         <string lang="de">Stellt einen universellen $b$Generator$/b$ mit $unstable$ her.</string>
         <string lang="en">Constructs a universal $b$Generator$/b$ with $unstable$.</string>
         <string lang="fr">Construe un $b$Générateur$/b$ universel avec $unstable$.</string>
-        <string lang="zh">制造一个通用的$b$Generator$/b$，并带有$unstable$。</string>
+        <string lang="zh">制造一个通用的带有$unstable$的$b$Generator$/b$。</string>
         <string lang="jp">$unstable$を搭載した一般的な$b$ジェネレーター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorymerger">
@@ -275,7 +275,7 @@ mit $cracked$ und $crust$ her.</string>
 with $cracked$ and $crust$.</string>
         <string lang="fr">Construe un $b$Fusionneur$/b$ universel
 avec $cracked$ und $crust$.</string>
-        <string lang="zh">制造一个通用的$b$Merger$/b$，并带有$crust$。</string>
+        <string lang="zh">制造一个通用的带有$crust$的$b$Merger$/b$。</string>
         <string lang="jp">一般的な$b$マージャー$/b$を作成し、$crust$を搭載します。</string>
     </set>
     <set id="name-module-factorymodifier">
@@ -377,7 +377,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Nimmt $might$ von einem Kampfteilnehmer als $energy$ ab.</string>
         <string lang="en">Picks up $might$ from a combatant as $energy$.</string>
         <string lang="fr">Supprime $might$ d'un combattant comme $energy$.</string>
-        <string lang="zh">从战斗者中吸收$might$作为$energy$。</string>
+        <string lang="zh">吸收一个角色的$might$变为$energy$。</string>
         <string lang="jp">戦闘者から$might$を$energy$として吸収します。</string>
     </set>
     <set id="name-module-modifiercyclotron">
@@ -412,14 +412,14 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Organischer Wandler</string>
         <string lang="en">Organic Modifier</string>
         <string lang="fr">Modificateur Organique</string>
-        <string lang="zh">有机调节器</string>
+        <string lang="zh">有机修改器</string>
         <string lang="jp">有機モジュレーター</string>
     </set>
     <set id="description-module-mutatingmodifier">
         <string lang="de">Modifiziert einen Strom.</string>
         <string lang="en">Modifies a current.</string>
         <string lang="fr">Modifie un courant.</string>
-        <string lang="zh">调整一个电流。</string>
+        <string lang="zh">修改一个电流。</string>
         <string lang="jp">電流を変更します。</string>
     </set>
     <set id="name-module-plasmadischarger">
@@ -473,7 +473,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Erholungs-Granate</string>
         <string lang="en">Recovery Grenade</string>
         <string lang="fr">Grenade de Récupération</string>
-        <string lang="zh">恢复手榴弹</string>
+        <string lang="zh">恢复手雷</string>
         <string lang="jp">リカバリーグレネード</string>
     </set>
     <set id="description-module-toggleddurabilityrestorer">
@@ -494,7 +494,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $might$ from all combatants.</string>
         <string lang="fr">Retire tout $might$ de tous les combattants.</string>
-        <string lang="zh">移除所有战斗者的$might$。</string>
+        <string lang="zh">移除所有角色的$might$。</string>
         <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
     </set>
     <set id="name-module-toggledbooster">
@@ -543,7 +543,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Sturm-Granate</string>
         <string lang="en">Storm Grenade</string>
         <string lang="fr">Grenade de Tempête</string>
-        <string lang="zh">风暴手榴弹</string>
+        <string lang="zh">风暴手雷</string>
         <string lang="jp">ストームヌルファイアー</string>
     </set>
     <set id="description-module-toggledstormgrenade">
@@ -559,14 +559,14 @@ by $b$10$/b$ time steps.</string>
         <string lang="de">Grav.-Immunitäts-Granate</string>
         <string lang="en">Grav. Immunity Grenade</string>
         <string lang="fr">Grenade de Grav. Immunité</string>
-        <string lang="zh">重力免疫手榴弹</string>
+        <string lang="zh">引力免疫手雷</string>
         <string lang="jp">グラビティヌルファイアー</string>
     </set>
     <set id="description-module-toggledgravimmunitygrenade">
         <string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$. (Dauer: 6)</string>
         <string lang="en">Applies $gravimmunity$ to all combatants. (Duration: 6)</string>
         <string lang="fr">Applique $gravimmunity$ à tous les combattants. (Durée: 6)</string>
-        <string lang="zh">将$gravimmunity$应用于所有战斗者。（持续时间：6）</string>
+        <string lang="zh">将$gravimmunity$应用于所有角色。（持续时间：6）</string>
         <string lang="jp">すべての戦闘参加者に$gravimmunity$を適用します。（持続時間：6）</string>
     </set>
     <set id="name-module-transmogrifier">
@@ -580,7 +580,7 @@ by $b$10$/b$ time steps.</string>
         <string lang="de">Verwandelt ein anderes Modul deiner Wahl in ein anderes Modul der gleichen Stufe.</string>
         <string lang="en">Transforms another target module into a different module of the same level.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
-        <string lang="zh">将另一个目标模块转换为同一级别的不同模块。</string>
+        <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
         <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
     </set>
     <set id="name-module-turbulence">
