@@ -1,0 +1,20 @@
+<localization>
+    <set id="advice-energy">
+        <string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, ist wichtig. Versuche, Energie auf Sensor-Modulen nicht verpuffen zu lassen.</string>
+        <string lang="en">$b$TIP $ADVICENO$:$/b$ Every point of $energy$ you can generate is meaningful. Try to not let energy on sensor modules dissipate.</string>
+        <string lang="fr">Chaque point d'$energy$ que vous pouvez générer est important. Essayez de ne pas laisser l'énergie sur les modules de capteurs se dissiper.</string>
+        <string lang="zh">你能产生的每一点$energy$都很重要。尽量不要让能量在传感器模块上消散。</string>
+        <string lang="jp">あなたが生成できる$energy$の各ポイントは重要です。センサーモジュールのエネルギーが消散しないようにしてください。</string>
+        <string lang="ru">Каждый пункт $energy$, который вы можете сгенерировать, важен. Постарайтесь не допустить рассеивания энергии на модулях сенсоров.</string>
+        <string lang="es">Cada punto de $energy$ que puedas generar es importante. Intenta no dejar que la energía en los módulos de sensores se disipe.</string>
+    </set>
+    <set id="advice-exhaustion-1">
+        <string lang="en">$b$TIP $ADVICENO$:$/b$ Activating a $generator$ sets your next turn back by its exhaustion value. Keep that in mind when trying to align turns.</string>
+    </set>
+    <set id="advice-exhaustion-2">
+        <string lang="en">$b$TIP $ADVICENO$:$/b$ Sometimes the smartest move is to not activate a generator at all.</string>
+    </set>
+    <set id="advice-rerolling">
+        <string lang="en">$b$TIP $ADVICENO$:$/b$ If no loot module does it for you, you can spend plasma to reroll. Note that this will not change the rarity of the loot drop.</string>
+    </set>
+</localization>
