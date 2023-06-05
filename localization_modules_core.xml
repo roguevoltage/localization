@@ -984,13 +984,13 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a una corriente.</string>
     </set>
     <set id="description-module-medikit">
-        <string lang="de">Erhöht die max. HP des Charakters um $1$ und stellt am Ende jedes Kampfes $1$ HP wieder her.</string>
-        <string lang="en">Raises the owner's max. HP by $1$ and restores $1$ HP at the end of each battle.</string>
-        <string lang="fr">Augmente les PV max. du propriétaire de $1$ et restaure $1$ PV à la fin de chaque combat.</string>
-        <string lang="zh">增加持有者的最大 HP $1$，並在每場战斗結束時恢復 $1$ HP。</string>
-        <string lang="jp">持有者の最大 HP を $1$ 増加し、戦闘終了時に $1$ の HP を回復します。</string>
-        <string lang="ru">Повышает макс. HP владельца на $1$ и восстанавливает $1$ HP в конце каждого боя.</string>
-        <string lang="es">Aumenta los PV máx. del propietario en $1$ y restaura $1$ PV al final de cada batalla.</string>
+        <string lang="de">Erhöht die max. HP des Charakters um $1$ und stellt zu Beginn jedes Kampfes $1$ HP wieder her.</string>
+        <string lang="en">Raises the owner's max. HP by $1$ and restores $1$ HP at the beginning of each battle.</string>
+        <string lang="fr">Augmente les PV max. du propriétaire de $1$ et restaure $1$ PV au début de chaque combat.</string>
+        <string lang="zh">增加持有者的最大 HP $1$，每场战斗开始时恢复 $1$ HP。</string>
+        <string lang="jp">持有者の最大 HP を $1$ 増加し、各戦闘の開始時に $1$ HP を回復します。</string>
+        <string lang="ru">Повышает макс. HP владельца на $1$ и восстанавливает $1$ HP в начале каждого боя.</string>
+        <string lang="es">Aumenta los PV máx. del propietario en $1$ y restaura $1$ PV al comienzo de cada batalla.</string>
     </set>
     <set id="description-module-passivegeneratorroll">
         <string lang="de">Module vom Typ $generator$ auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
