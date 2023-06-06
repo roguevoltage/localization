@@ -52,7 +52,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav-$ auf den Charakter eingeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav-$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que le propriétaire est affecté par $grav-$.</string>
-        <string lang="zh">每当受到$grav-$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当获得$grav-$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorgravspike">
@@ -464,8 +464,7 @@ Kann im Rucksack aufbewahrt werden.</string>
 Can be kept in backpack.</string>
         <string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.
 Peut être conservé dans le sac à dos.</string>
-        <string lang="zh">在$storm$开始时被充能$2$ $energy$。
-可以保存在背包中。</string>
+        <string lang="zh">在$storm$开始时充能$2$ $energy$。可以放在背包中。</string>
         <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。
 バックパックに保管できます。</string>
     </set>
