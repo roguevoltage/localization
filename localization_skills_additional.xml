@@ -235,6 +235,11 @@
         <string lang="en">Toxic Spore</string>
         <string lang="fr">Spore Toxique</string>
     </set>
+    <set id="name-skill-piledriver-gravadillo">
+        <string lang="de">Rammen $crusticon$</string>
+        <string lang="en">Pile Driver $crusticon$</string>
+        <string lang="fr">Enfoncer $crusticon$</string>
+    </set>
     <set id="name-skill-powertodamage-geothermaldrone">
         <string lang="de">Zap $mighticon$</string>
         <string lang="en">Zap $mighticon$</string>
@@ -580,6 +585,11 @@ Inflicts a module with $fire$.</string>
 Verbündeten mit $grav-1$.</string>
         <string lang="en">Deals $1damage$ to an enemy and inflicts all other allies 
 with $grav-1$.</string>
+        <string lang="fr">n/a</string>
+    </set>
+        <set id="description-skill-poisonspore">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Module mit $selfencrusting$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts a module with $selfencrusting$.</string> 
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-poisonspore">
