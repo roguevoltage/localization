@@ -3,7 +3,7 @@
         <string lang="de">Verwundbar</string>
         <string lang="en">Vulnerable</string>
         <string lang="fr">Vulnerable</string>
-        <string lang="zh">易受伤</string>
+        <string lang="zh">易伤</string>
         <string lang="jp">弱点</string>
         <string lang="ru">Уязвимость</string>
         <string lang="es">Vulnerable</string>
@@ -21,7 +21,7 @@
         <string lang="de">Grav.-Resistenz</string>
         <string lang="en">Grav. Resistance</string>
         <string lang="fr">Résistance Grav.</string>
-        <string lang="zh">引力抵抗</string>
+        <string lang="zh">引力抗性</string>
         <string lang="jp">重力抵抗</string>
         <string lang="ru">Сопротивление Грав.</string>
         <string lang="es">Resistencia Grav.</string>
@@ -84,7 +84,7 @@
         <string lang="de">Brüchig</string>
         <string lang="en">Cracked</string>
         <string lang="fr">Cassant</string>
-        <string lang="zh">破裂</string>
+        <string lang="zh">碎裂</string>
         <string lang="jp">割れた</string>
         <string lang="ru">Треснувший</string>
         <string lang="es">Agrietado</string>
@@ -93,7 +93,7 @@
         <string lang="de">Brüchig</string>
         <string lang="en">Cracked</string>
         <string lang="fr">Cassant</string>
-        <string lang="zh">破裂</string>
+        <string lang="zh">碎裂</string>
         <string lang="jp">割れた</string>
         <string lang="ru">Треснувший</string>
         <string lang="es">Agrietado</string>
@@ -102,7 +102,7 @@
         <string lang="de">Brüchig</string>
         <string lang="en">Cracked</string>
         <string lang="fr">Cassant</string>
-        <string lang="zh">破裂</string>
+        <string lang="zh">碎裂</string>
         <string lang="jp">割れた</string>
         <string lang="ru">Треснувший</string>
         <string lang="es">Agrietado</string>
@@ -174,7 +174,7 @@
         <string lang="de">Gesperrt</string>
         <string lang="en">Locked</string>
         <string lang="fr">Verrouillé</string>
-        <string lang="zh">模块锁定</string>
+        <string lang="zh">锁定</string>
         <string lang="jp">モジュールロック</string>
         <string lang="ru">Заблокированный</string>
         <string lang="es">Bloqueado</string>
@@ -192,7 +192,7 @@
         <string lang="de">Gesperrt</string>
         <string lang="en">Locked</string>
         <string lang="fr">Verrouillé</string>
-        <string lang="zh">模块锁定</string>
+        <string lang="zh">锁定</string>
         <string lang="jp">モジュールロック</string>
         <string lang="ru">Заблокированный</string>
         <string lang="es">Bloqueado</string>
@@ -201,7 +201,7 @@
         <string lang="de">Ausrüstungsmodul</string>
         <string lang="en">Loadout Module</string>
         <string lang="fr">Module d'Equipement</string>
-        <string lang="zh">裝備模块</string>
+        <string lang="zh">初始模块</string>
         <string lang="jp">装備モジュール</string>
     </set>
     <set id="name-status-moduleselfencrusting">
@@ -343,7 +343,7 @@
         <string lang="de">Verwundbar</string>
         <string lang="en">Vulnerable</string>
         <string lang="fr">Vulnerable</string>
-        <string lang="zh">易受伤</string>
+        <string lang="zh">易伤</string>
         <string lang="jp">弱点</string>
         <string lang="ru">Уязвимость</string>
         <string lang="es">Vulnerable</string>
@@ -379,7 +379,7 @@
         <string lang="de">Grav. Res.</string>
         <string lang="en">Grav. Res.</string>
         <string lang="fr">Res. Grav</string>
-        <string lang="zh">引力抵抗</string>
+        <string lang="zh">引力抗性</string>
         <string lang="jp">重力耐性</string>
         <string lang="ru">Сопротивление Грав.</string>
         <string lang="es">Res. Grav.</string>
@@ -397,7 +397,7 @@
         <string lang="de">Brüchig</string>
         <string lang="en">Cracked</string>
         <string lang="fr">Cassant</string>
-        <string lang="zh">易碎</string>
+        <string lang="zh">碎裂</string>
         <string lang="jp">破損</string>
         <string lang="ru">Треснувший</string>
         <string lang="es">Agrietado</string>
@@ -599,7 +599,7 @@ First incoming $energy$ will break the crust</string>
         <string lang="fr">Module non activable.
 La première $energy$ entrante brise la croûte</string>
         <string lang="zh">阻止模块的激活。
-下一次输入能量将会破坏晶体</string>
+下一次输入能量将会破坏晶壳</string>
         <string lang="jp">モジュールはアクティブ化できません。
 最初の受けるエネルギーは外殻を破壊します</string>
         <string lang="ru">Модуль не может быть активирован.
@@ -629,7 +629,7 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="de">Wird nach zusätzlicher Aktivierung zerstört</string>
         <string lang="en">Destroyed after additional activation</string>
         <string lang="fr">Détruit après activation additionnelle</string>
-        <string lang="zh">额外激活后摧毁</string>
+        <string lang="zh">再次激活后摧毁</string>
         <string lang="jp">追加の活性化後に破壊される</string>
         <string lang="ru">Разрушается после дополнительной активации</string>
         <string lang="es">Destruído después de la activación adicional</string>
@@ -638,7 +638,7 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="de">Wird nach zusätzlicher Entladung zerstört</string>
         <string lang="en">Destroyed after additional discharge</string>
         <string lang="fr">Détruit après décharge additionnelle</string>
-        <string lang="zh">额外放电后摧毁</string>
+        <string lang="zh">再次放电后摧毁</string>
         <string lang="jp">追加の放電後に破壊される</string>
         <string lang="ru">Разрушается после дополнительного разряда</string>
         <string lang="es">Destruído después de la descarga adicional</string>
@@ -666,7 +666,7 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le pour l'éteindre ou il infligera
 $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">激活它来熄灭，或者它将在回合结束时对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="zh">在回合结束时对拥有者造成$b$1$/b$ $damage$，激活它来灭火</string>
         <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
         <string lang="ru">Активация модуля погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
@@ -676,7 +676,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le ce tour pour l'éteindre ou il infligera
 $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在本回合激活它来熄灭，或者它将在回合结束时对拥有者造成$b$1$/b$ $damage$</string>
+        <string lang="zh">在回合结束时对拥有者造成$b$1$/b$ $damage$，激活它来灭火</string>
         <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
         <string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
@@ -685,7 +685,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Kann 1× pro Kampf sicher aktiviert werden</string>
         <string lang="en">Can be safely activated 1× per battle</string>
         <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
-        <string lang="zh">可以在每场战斗中安全激活1次</string>
+        <string lang="zh">在每场战斗中只能安全激活一次（激活第二次后摧毁）</string>
         <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
         <string lang="ru">Может быть активирован 1× в бою</string>
         <string lang="es">Puede ser activado 1× por batalla</string>
@@ -694,7 +694,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Kann 1× pro Kampf sicher entladen werden</string>
         <string lang="en">Can be safely discharged 1× per battle</string>
         <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
-        <string lang="zh">可以在每场战斗中安全激活1次</string>
+        <string lang="zh">在每场战斗中只能安全激活一次（激活第二次后摧毁）</string>
         <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
         <string lang="ru">Может быть активирован 1× в бою</string>
         <string lang="es">Puede ser activado 1× por batalla</string>
@@ -739,7 +739,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Haltbarkeit erholt sich nach Kampf</string>
         <string lang="en">Durability will recover after battle</string>
         <string lang="fr">Durabilité se régénère après le combat</string>
-        <string lang="zh">战斗后耐久度将恢复</string>
+        <string lang="zh">战斗结束后恢复耐久度</string>
         <string lang="jp">戦闘後に耐久度が回復します</string>
         <string lang="ru">Прочность восстановится после боя</string>
         <string lang="es">La durabilidad se recuperará después de la batalla</string>
@@ -748,7 +748,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Kann diese Runde nicht aktiviert werden</string>
         <string lang="en">Can't be activated this turn</string>
         <string lang="fr">Ne peut pas être activé ce tour</string>
-        <string lang="zh">本回合不能激活</string>
+        <string lang="zh">不能在本回合激活</string>
         <string lang="jp">このターンにアクティブ化できません</string>
         <string lang="ru">Нельзя активировать в этом ходу</string>
         <string lang="es">No se puede activar este turno</string>
@@ -757,7 +757,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aus einem vorherigen Run hinübergerettet</string>
         <string lang="en">Salvaged from a previous run</string>
         <string lang="fr">Récupéré d'une précédente mission</string>
-        <string lang="zh">从之前的任务中拯救出来的</string>
+        <string lang="zh">前一局保留的模块</string>
         <string lang="jp">前のミッションから救出された</string>
         <string lang="ru">Спасен из предыдущего рана</string>
         <string lang="es">Rescatado de una misión anterior</string>
@@ -928,7 +928,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Bis zum Ende des Zuges ans Rack geschlossen</string>
         <string lang="en">Locked to rack until end of turn</string>
         <string lang="fr">Verrouillé au rack jusqu'à la fin du tour</string>
-        <string lang="zh">在本回合结束前鎖定在機机架上</string>
+        <string lang="zh">回合结束前锁定在机架</string>
         <string lang="jp">ターン終了までラックに固定</string>
         <string lang="ru">Закрыто до конца хода</string>
         <string lang="es">Bloqueado al rack hasta el final del turno</string>
@@ -937,7 +937,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Bis zum nächsten Zug ans Rack geschlossen</string>
         <string lang="en">Locked to rack until next turn</string>
         <string lang="fr">Verrouillé au rack jusqu'au prochain tour</string>
-        <string lang="zh">在下一回合前鎖定在機机架上</string>
+        <string lang="zh">下一回合前锁定在机架</string>
         <string lang="jp">次のターンまでラックに固定</string>
         <string lang="ru">Закрыто до следующего хода</string>
         <string lang="es">Bloqueado al rack hasta el siguiente turno</string>
@@ -982,7 +982,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
         <string lang="en">Higher $energy$ leads to a better constructed module</string>
         <string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
-        <string lang="zh">更高的$energy$会导致更好的模块</string>
+        <string lang="zh">更高的$energy$能产生更好的模块</string>
         <string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
         <string lang="ru">Большее $energy$ приводит к лучшему модулю</string>
         <string lang="es">Más $energy$ conduce a un módulo mejor construido</string>
@@ -1000,7 +1000,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge und Kämpfe hinweg</string>
         <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ throughout turns and battles</string>
         <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">在多个回合和战斗中充能$energy$</string>
+        <string lang="zh">永久存储最多$energy$</string>
         <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
         <string lang="ru">Сохраняет до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протяжении ходов и битв</string>
         <string lang="es">Almacena hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
@@ -1009,7 +1009,7 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
         <string lang="en">Only holds $energy$ until the end of owner's turn</string>
         <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-        <string lang="zh">只在拥有者的回合结束时保留$energy$</string>
+        <string lang="zh">存储$energy$直到拥有者回合结束</string>
         <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
         <string lang="ru">Хранит $energy$ только до конца хода владельца</string>
         <string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
