@@ -158,7 +158,12 @@
     <set id="name-skill-gravpush-2-gravadillo">
         <string lang="de">Ramme $grav+2$ $crusticon$</string>
         <string lang="en">Pile Driver $grav+2$ $crusticon$</string>
-        <string lang="fr">Poussée Grav. $grav+2$ $crusticon$</string>
+        <string lang="fr">Enfoncer $grav+2$ $crusticon$</string>
+    </set>
+        <set id="name-skill-piledriver-gravadillo">
+        <string lang="de">Ramme $crusticon$</string>
+        <string lang="en">Pile Driver $crusticon$</string>
+        <string lang="fr">Enfoncer $crusticon$</string>
     </set>
     <set id="name-skill-hatch-dynosaur">
         <string lang="de">Schlüpfen</string>
@@ -494,6 +499,11 @@ Inflicts a module with $fire$.</string>
         <string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Spielercharakter ist, versieht ein Modul mit $selfencrusting$.</string>
         <string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
         <string lang="fr">Ralentit un combattant</string>
+    </set>
+    <set id="description-skill-piledriver-gravadillo">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Modul mit $selfencrusting$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts a module with $selfencrusting$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et un module avec $selfencrusting$.</string>
     </set>
     <set id="description-skill-selfdestruct-goblinbomb">
         <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
