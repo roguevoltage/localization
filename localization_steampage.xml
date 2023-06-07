@@ -3,8 +3,8 @@
         <string lang="de">Roguelike Deckbuilder trifft Automation Game. Bau deine Aktionen zusammen, indem du Module verkabelst. Erzeuge und verwalte Energie, manipuliere die Zeit und schalte in einer Welt, in der die Zeit aus den Fugen geraten ist, den Strom wieder an.</string>
         <string lang="en">Roguelike Deckbuilder meets Automation game. Construct your combat actions by wiring up modules. Generate and manage energy, manipulate the timeline, beat procedural threats and try to get the power back on in a world where time is out of joint.</string>
         <string lang="fr">Roguelike Deckbuilder rencontre synthétiseur modulaire. Construisez vos actions de combat en câblant des modules. Générez et gérez de l'énergie, manipulez la chronologie, combattez les menaces procédurales et essayez de rétablir le courant dans un monde où le temps est détraqué.</string>
-        <string lang="zh">Roguelike Deckbuilder 遇上模块化合成器。 通过连接模块来构建你的战斗行动。 产生和管理能量，操纵时间线，战胜程序性威胁，并尝试在时间错乱的世界中恢复能量。</string>
-        <string lang="jp">ローグライクなデッキ ビルダーがモジュラー シンセサイザーと出会う。 モジュールを接続して戦闘アクションを構築します。 エネルギーを生成して管理し、タイムラインを操作し、手続き上の脅威を打ち負かし、タイムシフトされた世界で電気の回復を試みます。</string>
+        <string lang="zh">Roguelike Deckbuilder 是一款自动化编程游戏，连接各种模块化的装备与敌人战斗。生产、管理能量，掌控时间线，战胜随机生成的敌人，在时空错乱的世界中恢复人类的能源供应。</string>
+        <string lang="jp">ローグライクなデッキ ビルダーがモジュラー シンセサイザーと出会う。モジュールを接続して戦闘アクションを構築します。エネルギーを生成して管理し、タイムラインを操作し、手続き上の脅威を打ち負かし、タイムシフトされた世界で電気の回復を試みます。</string>
         <string lang="ru">n/a</string>
         <string lang="es">Roguelike Deckbuilder se encuentra con Modular Synthesizer. Construye tus acciones de combate conectando módulos. Genere y administre energía, manipule la línea de tiempo, supere las amenazas de procedimiento e intente recuperar el poder en un mundo donde el tiempo es inestable.</string>
     </set>
@@ -73,48 +73,44 @@ Votre aventure vous mène à travers une variété de biomes où des groupes d'e
 [img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
 [img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
         <string lang="zh">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
-通过连接专门的[b]模块[/b]来构建角色的技能。 有些产生能量，有些修改或储存能量，有些则将其转化为效果。 [b]建造强大的结构[/b] 来消灭敌人或在需要时保存电池电量。
+通过连接各种[b]模块[/b]来创造角色的不同能力。一些模块生产能量、一些能存储或修改能量类型、剩下的则将能量转化为效果。[b]搭建强大的结构[/b]来消灭敌人或在把能量存入电池以备不时之需。
 
 [img]{STEAM_APP_IMAGE}/extras/rack3.gif[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/headerzap.png[/img]
-每个战斗回合都会提出一个 [b] 战术挑战 [/b] 将你的能量引导到哪里：你是否将它放入冲击波模块中以伤害怪物？ 您是否将能量放入减速器以控制时间线？ 你应该使用治疗药水吗？ 还是将能量储存在电池中并准备采取更雄心勃勃的举措？
+每个回合将能量引导到哪都是一个[b]战术问题[/b]：是导入爆能枪模块直接攻击敌人，还是导入减速枪来控制战场上的时间线？是使用治疗药水恢复生命，还是将能量存入电池准备下个回合打一发大的？
 
 [img]{STEAM_APP_IMAGE}/extras/battle.gif[/img]
 
-每个战斗回合都会提出一个[b]战术挑战[/b] 将你的能量引导到哪里：你是否将它放入冲击波模块中以伤害怪物？ 您是否将能量放入减速器以控制时间线？ 你应该使用治疗药水吗？ 还是将能量储存在电池中以准备更雄心勃勃的行动？
-
 [img]{STEAM_APP_IMAGE}/extras/headerturnbased.png[/img]
 
-在这个支离破碎的世界里，[b]因果[/b] 脱节了。 掌握 Gravitonics 的艺术以[b]在时间上向前或向后移动[/b]：躲避火山喷发和雷击，在敌人面前溜走或将他们扔进毁灭性的 Grav-Spike。
+在这个破碎的世界中，[b]因果律[/b]都被破坏了。通过灵活操控引力荷[b]在时间线上前后移动[/b]来：躲避火山喷发和雷击，从敌人面前溜过，甚至将敌人送入强力的的引力尖峰。
 
 [img]{STEAM_APP_IMAGE}/extras/timeline3.gif[/img]
 
-在这个毁灭的世界里，[b]因果[/b] 是脱节的。 掌握重力学的艺术，[b]及时向前或向后旅行[/b]：躲避火山喷发和雷击，从敌人身边溜走或将他们扔进毁灭性的重力尖峰。
-
 [img]{STEAM_APP_IMAGE}/extras/headerroguelike.png[/img]
-你的冒险将带领你穿越各种生物群落，狡猾的敌人群会试图毁掉你的一天。 明智地构建和连接您的系统，以应对 [b]程序生成的[/b] 和渐进的危险威胁。
+你的冒险将穿越各种生物群落，各种难缠的敌群都有可能毁掉你。巧妙地连接机架上的各种模块，来应对[b]随机生成的[/b]不断增加的威胁。
 
 [img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
 [img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
         <string lang="jp">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
-特殊な[b]モジュール[/b]を接続して、キャラクターのスキルを構築します。 エネルギーを生成するものもあれば、エネルギーを変換または保存するものもあれば、エネルギーを効果に変えるものもあります。 [b]強力な構造物を構築[/b]して敵に衝撃を与えたり、必要なときに備えてエネルギーをバッテリーに蓄えたりします。
+特殊な[b]モジュール[/b]を接続して、キャラクターのスキルを構築します。エネルギーを生成するものもあれば、エネルギーを変換または保存するものもあれば、エネルギーを効果に変えるものもあります。[b]強力な構造物を構築[/b]して敵に衝撃を与えたり、必要なときに備えてエネルギーをバッテリーに蓄えたりします。
 
 [img]{STEAM_APP_IMAGE}/extras/rack3.gif[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/headerzap.png[/img]
-各戦闘ターンは[b]戦術的な課題[/b]を提示します。 どこにエネルギーを向けるべきですか? モンスターを傷つけるためのブラスター モジュールに? タイムラインを制御するレデューサーに? 治癒ポーションを使うべきですか？ それとも、バッテリーを充電して、次のターンにさらに野心的な動きを準備しますか?
+各戦闘ターンは[b]戦術的な課題[/b]を提示します。どこにエネルギーを向けるべきですか? モンスターを傷つけるためのブラスター モジュールに? タイムラインを制御するレデューサーに? 治癒ポーションを使うべきですか？それとも、バッテリーを充電して、次のターンにさらに野心的な動きを準備しますか?
 
 
 [img]{STEAM_APP_IMAGE}/extras/battle.gif[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/headerturnbased.png[/img]
-この粉々になった世界では、[b]原因と結果[/b]は一致していません。 グラビトニクスの技術をマスターして、[b]タイムライン上で戦闘ターンを前後に動かします[/b]: 火山の噴火や落雷をかわし、敵の前にジャンプし、壊滅的な重力スパイクを敵に放ちます。
+この粉々になった世界では、[b]原因と結果[/b]は一致していません。グラビトニクスの技術をマスターして、[b]タイムライン上で戦闘ターンを前後に動かします[/b]: 火山の噴火や落雷をかわし、敵の前にジャンプし、壊滅的な重力スパイクを敵に放ちます。
 
 [img]{STEAM_APP_IMAGE}/extras/timeline3.gif[/img]
 
 [img]{STEAM_APP_IMAGE}/extras/headerroguelike.png[/img]
-あなたの冒険は、トリッキーな敵のグループがあなたの一日を台無しにしようとするさまざまなバイオームを通り抜けます。 [b]システムをインテリジェントに構成し[/b]、手続き的に生成され、ますます危険性を増す脅威に対処します。
+あなたの冒険は、トリッキーな敵のグループがあなたの一日を台無しにしようとするさまざまなバイオームを通り抜けます。[b]システムをインテリジェントに構成し[/b]、手続き的に生成され、ますます危険性を増す脅威に対処します。
 
 [img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
 [img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
@@ -145,7 +141,7 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="de">This roguelike deckbuilder has a great twist</string>
         <string lang="en">This roguelike deckbuilder has a great twist</string>
         <string lang="fr">Ce deckbuilder roguelike a un super twist</string>
-        <string lang="zh">n/a</string>
+        <string lang="zh">这个卡牌Rogue的创意太让我惊喜了</string>
         <string lang="jp">このローグライク デッキ ビルダーには驚くべきひねりがあります</string>
         <string lang="ru">n/a</string>
         <string lang="es">Este roguelike deckbuilder tiene un gran giro</string>
@@ -154,7 +150,7 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="de">An extremely unusual take on the genre</string>
         <string lang="en">An extremely unusual take on the genre</string>
         <string lang="fr">Une approche extrêmement inhabituelle du genre</string>
-        <string lang="zh">n/a</string>
+        <string lang="zh">在同品类游戏里极其罕见的设计</string>
         <string lang="jp">ジャンルに対する非常に珍しい見方</string>
         <string lang="ru">n/a</string>
         <string lang="es">Una versión extremadamente inusual del género</string>
@@ -163,7 +159,7 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="de">HOLY SH** YES</string>
         <string lang="en">HOLY SH** YES</string>
         <string lang="fr">HOLY SH** YES</string>
-        <string lang="zh">天哪，是的!!</string>
+        <string lang="zh">我*，太帅了</string>
         <string lang="jp">なんてこった！！</string>
         <string lang="ru">n/a</string>
         <string lang="es">HOLY SH** YES</string>
