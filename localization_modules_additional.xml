@@ -105,9 +105,9 @@
         <string lang="jp">複製機</string>
     </set>
     <set id="description-module-duplicator">
-        <string lang="de">Erzeugt eine permanente Kopie eines Moduls deiner Wahl.</string>
-        <string lang="en">Creates a permanent copy of another target module.</string>
-        <string lang="fr">Crée une copie permanente d'un autre module ciblé.</string>
+        <string lang="de">Stellt eine permanente Kopie eines Moduls deiner Wahl her.</string>
+        <string lang="en">Constructs a permanent copy of another target module.</string>
+        <string lang="fr">Construit une copie permanente d'un autre module ciblé.</string>
         <string lang="zh">创建一个其他模块的永久复制品。</string>
         <string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
     </set>
@@ -119,9 +119,9 @@
         <string lang="jp">不安定な複製機</string>
     </set>
         <set id="description-module-duplicator-eob">
-        <string lang="de">Erzeugt eine Kopie eines Moduls deiner Wahl. Die Kopie erhält $unstable$.</string>
-        <string lang="en">Creates a copy of another target module. The copy has $unstable$.</string>
-        <string lang="fr">Crée une copie d'un autre module ciblé. La copie a $unstable$.</string>
+        <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her. Die Kopie erhält $unstable$.</string>
+        <string lang="en">Constructs a copy of another target module. The copy has $unstable$.</string>
+        <string lang="fr">Construit une copie d'un autre module ciblé. La copie a $unstable$.</string>
         <string lang="zh">创建一个其他模块的复制。复制品具有$unstable$。</string>
         <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
     </set>
@@ -310,7 +310,7 @@ mit $cracked$ her.</string>
         <string lang="jp">一般的な$b$モディファイアー$/b$を作成します。</string>
     </set>
         <set id="description-module-factoryturbulence">
-        <string lang="de">Erzeugt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters.</string>
+        <string lang="de">Stellt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters her.</string>
         <string lang="en">Constructs a $b$Turbulence$/b$ with $volatile$ on the other character's rack.</string>
         <string lang="fr">Construe une $b$Turbulence$/b$ avec $volatile$ sur le rack de l'autre personnage.</string>
         <string lang="zh">在另一个角色的机架上制造一个带有$volatile$的$b$Turbulence$/b$。</string>
