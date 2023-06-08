@@ -111,7 +111,7 @@
         <string lang="de">Schnabel</string>
         <string lang="en">Beak</string>
         <string lang="fr">Bec</string>
-        <string lang="zh">喙</string>
+        <string lang="zh">啄击</string>
         <string lang="jp">ビーク</string>
         <string lang="ru">Клюв</string>
         <string lang="es">Pico</string>
@@ -120,7 +120,7 @@
         <string lang="de">Kralle</string>
         <string lang="en">Claw</string>
         <string lang="fr">Griffe</string>
-        <string lang="zh">爪</string>
+        <string lang="zh">钳击</string>
         <string lang="jp">爪</string>
         <string lang="ru">Коготь</string>
         <string lang="es">Garra</string>
@@ -129,7 +129,7 @@
         <string lang="de">Betäubendes Quaken $mighticon$</string>
         <string lang="en">Deafening Croak $mighticon$</string>
         <string lang="fr">Cri étourdissant $mighticon$</string>
-        <string lang="zh">震耳欲聋的呱呱声 $mighticon$</string>
+        <string lang="zh">致聋蛙叫 $mighticon$</string>
         <string lang="jp">耳をつんざくような鳴き声 $mighticon$</string>
         <string lang="ru">Оглушающий квак $mighticon$</string>
         <string lang="es">Croar ensordecedor $mighticon$</string>
@@ -138,7 +138,7 @@
         <string lang="de">Grav.-Biss</string>
         <string lang="en">Grav. Bite</string>
         <string lang="fr">Morsure Grav.</string>
-        <string lang="zh">引力咬</string>
+        <string lang="zh">引力叮咬</string>
         <string lang="jp">重力の噛みつき</string>
         <string lang="ru">Укус Грав.</string>
         <string lang="es">Mordisco Grav.</string>
@@ -381,7 +381,7 @@
         <string lang="de">Rohe Gewalt</string>
         <string lang="en">Brute Force</string>
         <string lang="fr">Force Brutale</string>
-        <string lang="zh">蛮力</string>
+        <string lang="zh">撕咬</string>
         <string lang="jp">野蛮力</string>
         <string lang="ru">Грубая Сила</string>
         <string lang="es">Fuerza Bruta</string>
@@ -794,7 +794,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Aktiviert Module auf dem Rack.</string>
         <string lang="en">Activates modules on the rack.</string>
         <string lang="fr">Applique courant au rack de module.</string>
-        <string lang="zh">对机体上的模块施加电流</string>
+        <string lang="zh">激活机架上的模块</string>
         <string lang="jp">ラックのモジュールに電流を与える</string>
         <string lang="ru">Активирует модули на стойке.</string>
         <string lang="es">Activa los módulos en el rack</string>
@@ -830,7 +830,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Platziert ein $b$Zeitbomben-Modul$/b$ in eins deiner Racks.</string>
         <string lang="en">Places a $b$Time Bomb$/b$ module in one of your racks.</string>
         <string lang="fr">Place une $b$bombe à retardement$/b$ dans un de vos racks.</string>
-        <string lang="zh">在一个机体上放置一个 $b$时间炸弹$/b$ 模块</string>
+        <string lang="zh">向玩家的机架上放置一个 $b$定时炸弹$/b$ 模块</string>
         <string lang="jp">ラックに $b$タイムボム$/b$ モジュールを置く</string>
         <string lang="ru">Размещает модуль $b$Временная бомба$/b$ на одной из стоек.</string>
         <string lang="es">Coloca un módulo $b$Bomba de tiempo$/b$ en uno de tus racks.</string>
@@ -875,7 +875,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Fügt dem Körper $2damage$ zu.</string>
         <string lang="en">Deals $2damage$ to the body.</string>
         <string lang="fr">Inflige $2damage$ au corps.</string>
-        <string lang="zh">对机体造成 $2damage$</string>
+        <string lang="zh">对身体造成 $2damage$</string>
         <string lang="jp">機体に $2damage$ を与える</string>
         <string lang="ru">Наносит $2damage$ телу.</string>
         <string lang="es">Inflige al cuerpo $2damage$</string>
@@ -956,7 +956,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
         <string lang="en">Raises $might$ by $1$ whenever the turn order is changed.</string>
         <string lang="fr">Augmente $might$ de $1$ à chaque fois que l'ordre des tours est modifié.</string>
-        <string lang="zh">每当回合顺序改变时，$might$ 增加 $1$</string>
+        <string lang="zh">每当回合顺序变更时，$might$ 增加 $1$</string>
         <string lang="jp">ターン順が変更されるたびに、$might$ を $1$ 増加する</string>
         <string lang="ru">Повышает $might$ на $1$ каждый раз, когда порядок ходов меняется.</string>
         <string lang="es">Aumenta $might$ en $1$ cada vez que se cambia el orden de los turnos</string>
@@ -965,7 +965,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Füllt $might$, immer wenn sich die Reihenfolge der Züge ändert.</string>
         <string lang="en">Fills $might$ whenever the turn order is changed.</string>
         <string lang="fr">Remplit $might$ à chaque fois que l'ordre des tours est modifié.</string>
-        <string lang="zh">每当回合顺序改变时，$might$ 增加 $1$</string>
+        <string lang="zh">每当回合顺序变更时，$might$ 增加 $1$</string>
         <string lang="jp">ターン順が変更されるたびに、$might$ を $1$ 増加する</string>
         <string lang="ru">Повышает $might$ на $1$ каждый раз, когда порядок ходов меняется.</string>
         <string lang="es">Llena $might$ cada vez que se cambia el orden de los turnos</string>
