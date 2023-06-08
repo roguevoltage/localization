@@ -665,19 +665,19 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter am Ende der Runde $1damage$ zu</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le pour l'éteindre ou il infligera
-$b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在回合结束时对拥有者造成$b$1$/b$ $damage$，激活它来灭火</string>
-        <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
+$1damage$ au propriétaire à la fin du tour</string>
+        <string lang="zh">在回合结束时对拥有者造成$1damage$，激活它来灭火</string>
+        <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
     </set>
     <set id="description-status-modulefire-eot">
-        <string lang="de">Aktiviere das Module diese Runde, um es zu löschen, oder es fügt dem Charakter am Ende des Runde $b$1$/b$ $damage$ zu</string>
+        <string lang="de">Aktiviere das Module diese Runde, um es zu löschen, oder es fügt dem Charakter am Ende des Runde $1damage$ zu</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le ce tour pour l'éteindre ou il infligera
-$b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在回合结束时对拥有者造成$b$1$/b$ $damage$，激活它来灭火</string>
-        <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに $b$1$/b$ $damage$を与えます</string>
+$1damage$ au propriétaire à la fin du tour</string>
+        <string lang="zh">在回合结束时对拥有者造成$1damage$，激活它来灭火</string>
+        <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
     </set>
@@ -718,22 +718,22 @@ $b$1$/b$ $damage$ au propriétaire à la fin du tour</string>
         <string lang="es">Cambia el color al final del turno del propietario si se coloca en el rack</string>
     </set>
     <set id="description-status-modulepollution">
-        <string lang="de">Aktivierung fügt dem Charakter $b$1$/b$ $damage$ zu</string>
-        <string lang="en">Activation deals $b$1$/b$ $damage$ to the owner</string>
-        <string lang="fr">Activation inflige $b$1$/b$ $damage$ au propriétaire</string>
-        <string lang="zh">激活将对拥有者造成$b$1$/b$ $damage$</string>
-        <string lang="jp">アクティブ化はオーナーに $b$1$/b$ $damage$を与えます</string>
-        <string lang="ru">Активация наносит $b$1$/b$ $damage$ владельцу</string>
-        <string lang="es">Inflige $b$1$/b$ $damage$ al propietario</string>
+        <string lang="de">Aktivierung fügt dem Charakter $1damage$ zu</string>
+        <string lang="en">Activation deals $1damage$ to the owner</string>
+        <string lang="fr">Activation inflige $1damage$ au propriétaire</string>
+        <string lang="zh">激活将对拥有者造成$1damage$</string>
+        <string lang="jp">アクティブ化はオーナーに$1damage$を与えます</string>
+        <string lang="ru">Активация наносит $1damage$ владельцу</string>
+        <string lang="es">Inflige $1damage$ al propietario</string>
     </set>
         <set id="description-status-modulepollution-eot">
-        <string lang="de">Aktivierung diese Runde fügt dem Charakter $b$1$/b$ $damage$ zu</string>
-        <string lang="en">Activation this turn deals $b$1$/b$ $damage$ to the owner</string>
-        <string lang="fr">Activation ce tour inflige $b$1$/b$ $damage$ au propriétaire</string>
-        <string lang="zh">在本回合激活将对拥有者造成$b$1$/b$ $damage$</string>
-        <string lang="jp">このターンにアクティブ化はオーナーに $b$1$/b$ $damage$を与えます</string>
-        <string lang="ru">Активация в этом ходу наносит $b$1$/b$ $damage$ владельцу</string>
-        <string lang="es">Activación este turno inflige $b$1$/b$ $damage$ al propietario</string>
+        <string lang="de">Aktivierung diese Runde fügt dem Charakter $1damage$ zu</string>
+        <string lang="en">Activation this turn deals $1damage$ to the owner</string>
+        <string lang="fr">Activation ce tour inflige $1damage$ au propriétaire</string>
+        <string lang="zh">在本回合激活将对拥有者造成$1damage$</string>
+        <string lang="jp">このターンにアクティブ化はオーナーに$1damage$を与えます</string>
+        <string lang="ru">Активация в этом ходу наносит $1damage$ владельцу</string>
+        <string lang="es">Activación este turno inflige $1damage$ al propietario</string>
     </set>
     <set id="description-status-modulerecovery">
         <string lang="de">Haltbarkeit erholt sich nach Kampf</string>
