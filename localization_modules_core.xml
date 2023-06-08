@@ -633,10 +633,8 @@
         <string lang="de">Kann ge- oder entladen werden. Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
         <string lang="en">Can be charged or discharged. Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
         <string lang="fr">Peut être chargé ou déchargé. $energy$ entrant est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
-        <string lang="zh">可充电或放电。
-传入的$energy$被$b$$MODIFICATIONVALUE$$/b$放大。</string>
-        <string lang="jp">充電または放電可能。
-入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
+        <string lang="zh">可充电或放电。传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
+        <string lang="jp">充電または放電可能。入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
         <string lang="ru">Может быть заряжен или разряжен. Входящий $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
         <string lang="es">Puede ser cargado o descargado. La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
     </set>
@@ -644,10 +642,8 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn der Charakter geheilt wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is healed.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque le propriétaire est soigné.</string>
-        <string lang="zh">当拥有者被治疗时
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">所有者が回復したとき
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当拥有者被治疗，产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">所有者が回復したとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда владелец исцеляется.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el dueño es curado.</string>
     </set>
@@ -655,10 +651,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn der Charakter $damage$ erhält.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner takes $damage$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque le propriétaire subit des $damage$.</string>
-        <string lang="zh">当拥有者受到$damage$时，
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">所有者が$damage$を受けたとき
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当拥有者受到 $damage$ 时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">所有者が$damage$を受けたとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда владелец получает $damage$.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el dueño recibe $damage$.</string>
     </set>
@@ -666,10 +660,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav+$ auf den Charakter eingeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav+$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque le propriétaire est affecté par $grav+$.</string>
-        <string lang="zh">当拥有者获得$grav+$时，
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">所有者が$grav+$を受けたとき
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当拥有者获得 $grav+$ 时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">所有者が$grav+$を受けたとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда владелец получает $grav+$.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el dueño es afectado con $grav+$.</string>
     </set>
@@ -677,10 +669,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul vom Typ $b$Speichermodul$/b$ geladen wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module of type $b$Storage Module$/b$ is charged.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $b$Module de Stockage$/b$ est chargé.</string>
-        <string lang="zh">当$b$充能模块$/b$充能时，
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">$b$ストレージモジュール$/b$が充電されるとき
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当$b$充能模块$/b$充能时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$b$ストレージモジュール$/b$が充電されるとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль типа $b$Модуль Хранения$/b$ заряжается.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $b$Módulo de Almacenamiento$/b$ es cargado.</string>
     </set>
@@ -688,10 +678,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the turn order is changed.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que l'ordre des tours est modifié.</string>
-        <string lang="zh">当回合顺序变更时，
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">ターン順が変更されるとき
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当回合顺序变更时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">ターン順が変更されるとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда порядок ходов изменяется.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el orden de turno es cambiado.</string>
     </set>
@@ -699,10 +687,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul zerstört wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module is destroyed.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre module est détruit.</string>
-        <string lang="zh">当另一个模块被破坏时生成,
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">別のモジュールが破壊されると
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当另一个模块被破坏时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">別のモジュールが破壊されると $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой модуль уничтожается.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que otro módulo es destruido.</string>
     </set>
@@ -710,10 +696,8 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Kampfteilnehmer stirbt.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a combatant dies.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un combattant meurt.</string>
-        <string lang="zh">当一个角色死亡时，
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">戦闘員が死亡すると
-$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="zh">当一个角色死亡时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">戦闘員が死亡すると $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда участник боя умирает.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un combatiente muere.</string>
     </set>
@@ -721,8 +705,7 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul hergestellt wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is constructed.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est construit.</string>
-        <string lang="zh">当一个模块被制造时
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">当一个模块被制造时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">モジュールが構築されると、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль создается.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo es construido.</string>
@@ -731,8 +714,7 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ erzeugt wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is created.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est créé.</string>
-        <string lang="zh">当$plasma$被制造时
-产生$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">当 $plasma$ 被制造时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">プラズマが生成されると、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда создается $plasma$.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es creado.</string>
@@ -743,7 +725,7 @@ $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
 $grav-$.</string>
         <string lang="fr">Inflige $grav-$
 sur le combattant ciblé.</string>
-        <string lang="zh">对目标造成$grav-$。</string>
+        <string lang="zh">对目标造成 $grav-$ 。</string>
         <string lang="jp">ターゲットに$grav-$を与えます。</string>
         <string lang="ru">Наносит цели $grav-$.</string>
         <string lang="es">Inflige $grav-$ al objetivo.</string>
@@ -753,7 +735,7 @@ sur le combattant ciblé.</string>
         <string lang="en">Deals $damage$ to target enemy.</string>
         <string lang="fr">Inflige des $damage$
 sur l'ennemi ciblé.</string>
-        <string lang="zh">对目标敌人造成$damage$。</string>
+        <string lang="zh">对目标敌人造成 $damage$ 。</string>
         <string lang="jp">ターゲットの敵に$damage$を与えます。</string>
         <string lang="ru">Наносит цели $damage$.</string>
         <string lang="es">Inflige $damage$ al enemigo objetivo.</string>
@@ -764,7 +746,7 @@ sur l'ennemi ciblé.</string>
 $grav+$.</string>
         <string lang="fr">Inflige $grav+$
 sur le combattant ciblé.</string>
-        <string lang="zh">对目标造成$grav+$。</string>
+        <string lang="zh">对目标造成 $grav+$ 。</string>
         <string lang="jp">ターゲットに$grav+$を与えます。</string>
         <string lang="ru">Наносит цели $grav+$.</string>
         <string lang="es">Inflige $grav+$ al objetivo.</string>
@@ -773,7 +755,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
         <string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige $grav+$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与拥有者同一时刻的所有敌人造成$grav+$。</string>
+        <string lang="zh">对与拥有者同一时刻的所有敌人造成 $grav+$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$grav+$を与えます。</string>
         <string lang="ru">Наносит $grav+$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -782,7 +764,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige des $damage$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与拥有者同一时刻的所有敌人造成$damage$。</string>
+        <string lang="zh">对与拥有者同一时刻的所有敌人造成 $damage$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$damage$を与えます。</string>
         <string lang="ru">Наносит $damage$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $damage$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -812,7 +794,7 @@ wertvolles $plasma$ um.</string>
 valuable $plasma$.</string>
         <string lang="fr">Convertit $energy$ en
 précieux $plasma$.</string>
-        <string lang="zh">将$energy$转换为有价值的$plasma$。</string>
+        <string lang="zh">将 $energy$ 转换为有价值的 $plasma$ 。</string>
         <string lang="jp">$energy$を有価な$plasma$に変換します。</string>
         <string lang="ru">Преобразует $energy$ в
 ценный $plasma$.</string>
@@ -826,8 +808,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à l'allié ciblé.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对目标队友造成$shield$。
-(持續時間：$energy$×3)。</string>
+        <string lang="zh">对目标队友造成 $shield$，持续 $energy$×3。</string>
         <string lang="jp">ターゲットの味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
         <string lang="ru">Наносит союзнику $shield$.
@@ -842,8 +823,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à tous les alliés.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对所有队友造成$shield$。
-(持續時間：$energy$×3)。</string>
+        <string lang="zh">对所有队友造成 $shield$，持续 $energy$×3。</string>
         <string lang="jp">全ての味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
         <string lang="ru">Наносит всем союзникам $shield$.
@@ -854,52 +834,45 @@ valioso $plasma$.</string>
     <set id="description-module-factorypotion">
         <string lang="de">Stellt einen universellen $b$Heiltrank$/b$
 mit $cracked$ her.</string>
-        <string lang="en">Constructs a universal
-$b$Healing Potion$/b$ with $cracked$.</string>
+        <string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
         <string lang="fr">Construe un $b$Potion de Soin$/b$ universel
 avec $cracked$.</string>
         <string lang="zh">制造一个通用的$b$治疗药水$/b$。</string>
         <string lang="jp">一般的な $b$回復薬$/b$を作ります。</string>
-        <string lang="ru">Создает универсальный
-$b$Лечебный Напиток$/b$ с $cracked$.</string>
+        <string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
         <string lang="es">Construye una $b$Poción de Curación$/b$ universal
 con $cracked$.</string>
     </set>
     <set id="description-module-factorystoragecell">
         <string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ her.</string>
-        <string lang="en">Constructs a universal
-$b$Storage Cell$/b$ with $cracked$.</string>
+        <string lang="en">Constructs a universal $b$Storage Cell$/b$ with $cracked$.</string>
         <string lang="fr">Construe une $b$Pile$/b$ universelle.</string>
         <string lang="zh">制造一个通用的$b$蓄电池$/b$</string>
         <string lang="jp">一般的な$b$电池$/b$を作ります。</string>
-        <string lang="ru">Создает универсальную
-$b$Ячейку$/b$ с $cracked$.</string>
+        <string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$.</string>
         <string lang="es">Construye una $b$Celda de Almacenamiento$/b$ universal
 con $cracked$.</string>
     </set>
     <set id="description-module-generator">
-        <string lang="de">Erzeugt bei Aktivierung
-$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
-        <string lang="zh">在启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+        <string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
     </set>
     <set id="description-module-generatordirty">
-        <string lang="de">Erzeugt bei Aktivierung
-$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
-        <string lang="zh">在启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+        <string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
     </set>
     <set id="description-module-generatordual">
-        <string lang="de">Erzeugt bei Aktivierung
-$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$
 sur les deux jacks output.</string>
@@ -909,21 +882,19 @@ sur les deux jacks output.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en ambos conectores de salida en la activación.</string>
     </set>
     <set id="description-module-generatordecelerating">
-        <string lang="de">Erzeugt bei Aktivierung
-$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
-        <string lang="zh">在启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+        <string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
     </set>
     <set id="description-module-generatorshocking">
-        <string lang="de">Erzeugt bei Aktivierung
-$b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation but will inflict the next module with $shock$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $shock$ au prochain module.</string>
-        <string lang="zh">在启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但會在下一个模块上引起 $shock$。</string>
+        <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让一个模块被 $shock$ 。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成しますが、次のモジュールに$shock$を与えます。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но нанесет следующему модулю $shock$.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero infligirá $shock$ al siguiente módulo.</string>
@@ -932,7 +903,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 pas de temps.</string>
-        <string lang="zh">在启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但會在持有者身上引起 $vulnerable$ 5 個时刻。</string>
+        <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
         <string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но наносит владельцу $vulnerable$ на 5 шагов времени.</string>
     </set>
@@ -940,7 +911,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
         <string lang="en">Picks up $grav+$ from $b$another$/b$ combatant as $energy$.</string>
         <string lang="fr">Prend $grav+$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-        <string lang="zh">从 $b$另一个$/b$ 角色身上取得 $grav+$ 作为 $energy$。</string>
+        <string lang="zh">将$b$另一个$/b$角色身上的 $grav+$ 全部转换为 $energy$ 。</string>
         <string lang="jp">$b$他の$/b$戦闘者から $grav+$ を $energy$ として取得します。</string>
         <string lang="ru">Подбирает $grav+$ от $b$другого$/b$ бойца как $energy$.</string>
         <string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
@@ -987,7 +958,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Erhöht die max. HP des Charakters um $1$ und stellt zu Beginn jedes Kampfes $1$ HP wieder her.</string>
         <string lang="en">Raises the owner's max. HP by $1$ and restores $1$ HP at the beginning of each battle.</string>
         <string lang="fr">Augmente les PV max. du propriétaire de $1$ et restaure $1$ PV au début de chaque combat.</string>
-        <string lang="zh">增加持有者的最大 HP $1$，每场战斗开始时恢复 $1$ HP。</string>
+        <string lang="zh">拥有者在每场战斗开始时回复$1$点生命值，同时增加$1$点最大生命值。</string>
         <string lang="jp">持有者の最大 HP を $1$ 増加し、各戦闘の開始時に $1$ HP を回復します。</string>
         <string lang="ru">Повышает макс. HP владельца на $1$ и восстанавливает $1$ HP в начале каждого боя.</string>
         <string lang="es">Aumenta los PV máx. del propietario en $1$ y restaura $1$ PV al comienzo de cada batalla.</string>
@@ -996,7 +967,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Module vom Typ $generator$ auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
         <string lang="en">Modules of type $generator$ on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
         <string lang="fr">Les modules de type $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
-        <string lang="zh">在相同机架上的 $generator$ 模块有 $b$33%$/b$ 的几率生成 $b$+1$/b$ $energy$。</string>
+        <string lang="zh">同机架上的 $generator$ 模块有 $b$33%$/b$ 的几率生成 $b$+1$/b$ $energy$。</string>
         <string lang="jp">このラックの $generator$ モジュールは $b$33%$/b$ の確率で $b$+1$/b$ $energy$ を生成します。</string>
         <string lang="ru">Модули типа $generator$ на этом слоте имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
         <string lang="es">Los módulos de tipo $generator$ en este rack tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
@@ -1005,7 +976,7 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
         <string lang="de">Module mit $cracked$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
         <string lang="en">Modules with $cracked$ on this rack have a $b$33% chance$/b$ of not being destroyed when activated.</string>
         <string lang="fr">Les modules avec $cracked$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
-        <string lang="zh">在相同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
+        <string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
         <string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
         <string lang="ru">Модули с $cracked$ на этом слоте имеют $b$33% шанс$/b$ не быть уничтоженными при активации.</string>
         <string lang="es">Los módulos con $cracked$ en este rack tienen una $b$33% de probabilidad$/b$ de no ser destruidos al activarse.</string>
@@ -1030,10 +1001,8 @@ $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.
     </set>
     <set id="description-module-storagecell">
         <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$ entladen werden.</string>
-        <string lang="en">Can be discharged for
-$b$$CHARGEVALUE$$/b$ $energy$.</string>
-        <string lang="fr">Peut être déchargé pour
-$b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="en">Can be discharged for $b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="fr">Peut être déchargé pour $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="zh">可以为 $b$$CHARGEVALUE$$/b$ $energy$ 放电。</string>
         <string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
         <string lang="ru">Может быть разряжен на $b$$CHARGEVALUE$$/b$ $energy$.</string>
@@ -1068,7 +1037,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="de">Versieht alle Kampfteilnehmer mit $vulnerable$. (Dauer: 6)</string>
         <string lang="en">Applies $vulnerable$ to all combatants. (Duration: 6)</string>
         <string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
-        <string lang="zh">所有角色获得$vulnerable$。（持续时间：6）</string>
+        <string lang="zh">所有角色获得 $vulnerable$ 。（持续时间：6）</string>
         <string lang="jp">すべての戦闘参加者に$vulnerable$を適用します。（持続時間：6）</string>
         <string lang="ru">Накладывает $vulnerable$ на всех участников боя. (Длительность: 6)</string>
         <string lang="es">Aplica $vulnerable$ a todos los combatientes. (Duración: 6)</string>

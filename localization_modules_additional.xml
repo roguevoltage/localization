@@ -10,7 +10,7 @@
         <string lang="de">Erhält einen $boost$ bis zum Ende des Kampfes, immer wenn sie $energy$ erhält.</string>
         <string lang="en">Receives a $boost$ until the end of combat whenever it receives $energy$.</string>
         <string lang="fr">Reçoit un $boost$ jusqu'à la fin du combat chaque fois qu'il reçoit $energy$.</string>
-        <string lang="zh">每当获得$energy$时，获得$boost$直到战斗结束时。</string>
+        <string lang="zh">每当获得 $energy$ 时，获得 $boost$ 直到战斗结束时。</string>
         <string lang="jp">エネルギーを受け取るたびに、戦闘終了まで$boost$を受け取ります。</string>
     </set>
     <set id="name-module-coilstorm">
@@ -38,7 +38,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is broken.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une $crust$ est brisée.</string>
-        <string lang="zh">每当破坏一个$crust$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当破坏一个 $crust$ 时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">クリスタルが破壊されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorgravneg">
@@ -52,7 +52,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav-$ auf den Charakter eingeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav-$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que le propriétaire est affecté par $grav-$.</string>
-        <string lang="zh">每当获得$grav-$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当获得 $grav-$ 时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorgravspike">
@@ -80,7 +80,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $might$ d'un combattant augmente.</string>
-        <string lang="zh">每当角色的$might$提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当角色的 $might$ 提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">戦闘者の$might$が上昇するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorshield">
@@ -94,7 +94,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $damage$ durch $shield$ reduziert wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $damage$ is reduced by $shield$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $damage$ est réduit par $shield$.</string>
-        <string lang="zh">每当$damage$被$shield$减少时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当 $damage$ 被 $shield$ 减少时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$damage$が$shield$によって減少するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-duplicator">
@@ -122,7 +122,7 @@
         <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her. Die Kopie erhält $unstable$.</string>
         <string lang="en">Constructs a copy of another target module. The copy has $unstable$.</string>
         <string lang="fr">Construit une copie d'un autre module ciblé. La copie a $unstable$.</string>
-        <string lang="zh">创建一个其他模块的复制。复制品具有$unstable$。</string>
+        <string lang="zh">创建一个其他模块的复制。复制品具有 $unstable$ 。</string>
         <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
     </set>
     <set id="name-module-effectormine">
@@ -136,7 +136,7 @@
         <string lang="de">Fügt dem Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to the owner.</string>
         <string lang="fr">Inflige des $damage$ sur le propriétaire.</string>
-        <string lang="zh">对拥有者造成$damage$。</string>
+        <string lang="zh">对拥有者造成 $damage$ 。</string>
         <string lang="jp">オーナーに$damage$を与えます。</string>
     </set>
     <set id="name-module-effectorlightning">
@@ -150,7 +150,7 @@
         <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen Blitz niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
         <string lang="en">Summons a lightning strike onto target time step that deals $damage$ to all combatants on it.</string>
         <string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
-        <string lang="zh">召唤一道闪电，对该时刻的所有角色造成$damage$。</string>
+        <string lang="zh">召唤一道闪电，对该时刻的所有角色造成 $damage$ 。</string>
         <string lang="jp">目標のタイム ステップに雷を落とし、その上のすべての戦闘者に$damage$を与えます。</string>
     </set>
     <set id="name-module-effectorrevitalizer">
@@ -181,10 +181,10 @@
 (Duration: $energy$×3).</string>
         <string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对目标敌人造成$vulnerable$。
-（持续时间：$energy$×3）。</string>
+        <string lang="zh">对目标敌人造成 $vulnerable$ 。
+（持续时间：$energy$ ×3）。</string>
         <string lang="jp">対象の敵に$vulnerable$を与えます。
-（持続時間：$energy$×3）。</string>
+（持続時間：$energy$ ×3）。</string>
     </set>
     <set id="name-module-effectorgravimmunity">
         <string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
@@ -200,8 +200,7 @@
 (Duration: $energy$×3).</string>
         <string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对目标角色造成$gravimmunity$。
-(持續時間：$energy$×3)。</string>
+        <string lang="zh">对目标角色造成 $gravimmunity$，持续 $energy$×3。</string>
         <string lang="jp">ターゲットの戦闘者に$gravimmunity$を与えます。
 (持続時間：$energy$×3)。</string>
     </set>
@@ -233,7 +232,7 @@ mit $cracked$ her.</string>
 $b$Blaster$/b$ with $cracked$.</string>
         <string lang="fr">Construe un $b$Blaster$/b$ universel
 avec $cracked$.</string>
-        <string lang="zh">制造一个通用的带有$cracked$的$b$Blaster$/b$。</string>
+        <string lang="zh">制造一个通用的带有 $cracked$ 的$b$Blaster$/b$。</string>
         <string lang="jp">一般的な$b$ブラスター$/b$を作成し、$cracked$を搭載します。</string>
     </set>
     <set id="name-module-factorydecelerator">
@@ -267,7 +266,7 @@ mit $unstable$ her.</string>
 with $unstable$.</string>
         <string lang="fr">Construe un $b$Générateur$/b$ universel
 avec $unstable$.</string>
-        <string lang="zh">制造一个通用的带有$unstable$的$b$Generator$/b$。</string>
+        <string lang="zh">制造一个通用的带有 $unstable$ 的$b$Generator$/b$。</string>
         <string lang="jp">$unstable$を搭載した一般的な$b$ジェネレーター$/b$を作成します。</string>
     </set>
     <set id="name-module-factorymerger">
@@ -284,7 +283,7 @@ mit $cracked$ und $crust$ her.</string>
 with $cracked$ and $crust$.</string>
         <string lang="fr">Construe un $b$Fusionneur$/b$ universel
 avec $cracked$ und $crust$.</string>
-        <string lang="zh">制造一个通用的带有$crust$的$b$Merger$/b$。</string>
+        <string lang="zh">制造一个通用的带有 $crust$ 的$b$Merger$/b$。</string>
         <string lang="jp">一般的な$b$マージャー$/b$を作成し、$crust$を搭載します。</string>
     </set>
     <set id="name-module-factorymodifier">
@@ -313,7 +312,7 @@ mit $cracked$ her.</string>
         <string lang="de">Stellt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters her.</string>
         <string lang="en">Constructs a $b$Turbulence$/b$ with $volatile$ on the other character's rack.</string>
         <string lang="fr">Construe une $b$Turbulence$/b$ avec $volatile$ sur le rack de l'autre personnage.</string>
-        <string lang="zh">在另一个角色的机架上制造一个带有$volatile$的$b$Turbulence$/b$。</string>
+        <string lang="zh">在另一个角色的机架上制造一个带有 $volatile$ 的$b$Turbulence$/b$。</string>
         <string lang="jp">他のキャラクターのラックに$volatile$を搭載した$b$タービュランス$/b$を作成します。</string>
     </set>
     <set id="name-module-generatorplasma">
@@ -358,7 +357,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Nimmt $grav+$ vom Charakter ab.</string>
         <string lang="en">Picks up $grav+$ from the owner.</string>
         <string lang="fr">Supprime $grav+$ du personnage.</string>
-        <string lang="zh">从拥有者处吸收$grav+$。</string>
+        <string lang="zh">从拥有者处吸收 $grav+$ 。</string>
         <string lang="jp">オーナーから$grav+$を吸収します。</string>
     </set>
     <set id="name-module-magnetgravneg">
@@ -372,7 +371,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Nimmt $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
         <string lang="en">Picks up $grav-$ from $b$another$/b$ combatant as $energy$.</string>
         <string lang="fr">Supprime $grav-$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-        <string lang="zh">从$grav-$中吸收$energy$。</string>
+        <string lang="zh">从 $grav-$ 中吸收 $energy$ 。</string>
         <string lang="jp">$grav-$から$energy$を吸収します。</string>
     </set>
     <set id="name-module-magnetmight">
@@ -386,7 +385,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Nimmt $might$ von einem Kampfteilnehmer als $energy$ ab.</string>
         <string lang="en">Picks up $might$ from a combatant as $energy$.</string>
         <string lang="fr">Supprime $might$ d'un combattant comme $energy$.</string>
-        <string lang="zh">吸收一个角色的$might$变为$energy$。</string>
+        <string lang="zh">吸收一个角色的 $might$ 变为 $energy$ 。</string>
         <string lang="jp">戦闘者から$might$を$energy$として吸収します。</string>
     </set>
     <set id="name-module-modifiercyclotron">
@@ -442,7 +441,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Verbraucht alles $plasma$ um ebensoviel $energy$ zu erzeugen.</string>
         <string lang="en">Uses up all $plasma$ to generate that much $energy$.</string>
         <string lang="fr">Utilise tout le $plasma$ pour générer autant de $energy$.</string>
-        <string lang="zh">消耗所有的$plasma$来产生相同数量的$energy$。</string>
+        <string lang="zh">消耗所有的 $plasma$ 来产生相同数量的 $energy$ 。</string>
         <string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
     </set>
     <set id="name-module-storagecellstorm">
@@ -463,7 +462,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Wird am Ende des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
         <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ at the end of turn, if no $generator$ has been activated on this rack this turn.</string>
         <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ à la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci.</string>
-        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过$generator$，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过 $generator$ ，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">ターン終了時に、このラックで$generator$がアクティブ化されていない場合、$b$$SENSORVALUE$$/b$ $energy$が充電されます。</string>
     </set>
     <set id="description-module-storagecellstorm">
@@ -473,7 +472,7 @@ Kann im Rucksack aufbewahrt werden.</string>
 Can be kept in backpack.</string>
         <string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.
 Peut être conservé dans le sac à dos.</string>
-        <string lang="zh">在$storm$开始时充能$2$ $energy$。可以放在背包中。</string>
+        <string lang="zh">在 $storm$ 开始时充能$2$ $energy$。可以放在背包中。</string>
         <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。
 バックパックに保管できます。</string>
     </set>
@@ -488,7 +487,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Stellt die Haltbarkeit aller Module mit $recovery$ wieder her und entfernt $shock$ von allen Modulen auf allen Racks.</string>
         <string lang="en">Restores durability on all modules with $recovery$ and removes $shock$ from all modules on all racks.</string>
         <string lang="fr">Restaure la durabilité de tous les modules avec $recovery$ et retire $shock$ de tous les modules sur tous les racks.</string>
-        <string lang="zh">恢复所有带有$recovery$的模块的耐久度，并从所有机架上的所有模块上移除$shock$。</string>
+        <string lang="zh">恢复所有带有 $recovery$ 的模块的耐久度，并从所有机架上的所有模块上移除 $shock$ 。</string>
         <string lang="jp">$recovery$を持つすべてのモジュールの耐久性を回復し、すべてのラックのすべてのモジュールから$shock$を削除します。</string>
     </set>
     <set id="name-module-toggledmightnullifier">
@@ -502,7 +501,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $might$ from all combatants.</string>
         <string lang="fr">Retire tout $might$ de tous les combattants.</string>
-        <string lang="zh">移除所有角色的$might$。</string>
+        <string lang="zh">移除所有角色的 $might$ 。</string>
         <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
     </set>
     <set id="name-module-toggledbooster">
@@ -516,7 +515,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Verleiht einem Modul auf diesem Rack einen permanenten $boost$.</string>
         <string lang="en">Applies a permanent $boost$ to a module on this rack.</string>
         <string lang="fr">Applique un $boost$ permanent à un module sur ce rack.</string>
-        <string lang="zh">将永久的$boost$应用于本机架上的一个模块。</string>
+        <string lang="zh">将永久的 $boost$ 应用于本机架上的一个模块。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledbooster-eob">
@@ -530,7 +529,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
         <string lang="en">Applies a $boost$ to a non-loadout module on this rack until the end of combat.</string>
         <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
-        <string lang="zh">将$boost$应用于本机架上的一个模块，直到战斗结束。</string>
+        <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledbooster-modifiers">
@@ -544,7 +543,7 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="de">Versieht alle Module vom Typ $b$Durchsatzmodul$/b$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
         <string lang="en">Applies $boost$ to all modules of type $b$Throughput Module$/b$ on this rack until the end of turn.</string>
         <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Débit$/b$ sur ce rack jusqu'à la fin du tour.</string>
-        <string lang="zh">在本回合结束前，将$boost$应用于所在机架上所有类型为$b$Throughput Module$/b$的模块。</string>
+        <string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$b$Throughput Module$/b$的模块。</string>
         <string lang="jp">ターン終了まで、このラックのすべてのタイプ$b$Throughput Module$/b$のモジュールに$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledstormgrenade">
@@ -560,7 +559,7 @@ $b$10$/b$ Zeitschritte zurück.</string>
         <string lang="en">Pushes back $storm$
 by $b$10$/b$ time steps.</string>
         <string lang="fr">Pousse $storm$ de $b$10$/b$ pas de temps en arrière.</string>
-        <string lang="zh">将$storm$推回$b$10$/b$个时刻。</string>
+        <string lang="zh">将 $storm$ 推回$b$10$/b$个时刻。</string>
         <string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
     </set>
     <set id="name-module-toggledgravimmunitygrenade">
@@ -574,7 +573,7 @@ by $b$10$/b$ time steps.</string>
         <string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$. (Dauer: 6)</string>
         <string lang="en">Applies $gravimmunity$ to all combatants. (Duration: 6)</string>
         <string lang="fr">Applique $gravimmunity$ à tous les combattants. (Durée: 6)</string>
-        <string lang="zh">将$gravimmunity$应用于所有角色。（持续时间：6）</string>
+        <string lang="zh">将 $gravimmunity$ 应用于所有角色。（持续时间：6）</string>
         <string lang="jp">すべての戦闘参加者に$gravimmunity$を適用します。（持続時間：6）</string>
     </set>
     <set id="name-module-transmogrifier">
