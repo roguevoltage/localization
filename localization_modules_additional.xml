@@ -38,7 +38,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is broken.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une $crust$ est brisée.</string>
-        <string lang="zh">每当破坏一个 $crust$ 时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当破坏一个 $crust$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">クリスタルが破壊されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorgravneg">
@@ -52,7 +52,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav-$ auf den Charakter eingeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav-$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que le propriétaire est affecté par $grav-$.</string>
-        <string lang="zh">每当获得 $grav-$ 时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorgravspike">
@@ -66,7 +66,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a Grav. Spike touches down.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
-        <string lang="zh">每当引力尖峰发生时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当引力尖峰发生时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectormight">
@@ -80,7 +80,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $might$ d'un combattant augmente.</string>
-        <string lang="zh">每当角色的 $might$ 提升时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当角色的 $might$ 提升时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">戦闘者の$might$が上昇するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-collectorshield">
@@ -94,7 +94,7 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $damage$ durch $shield$ reduziert wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $damage$ is reduced by $shield$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $damage$ est réduit par $shield$.</string>
-        <string lang="zh">每当 $damage$ 被 $shield$ 减少时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">每当 $damage$ 被 $shield$ 减少时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$damage$が$shield$によって減少するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
     <set id="name-module-duplicator">
@@ -462,7 +462,7 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Wird am Ende des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
         <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ at the end of turn, if no $generator$ has been activated on this rack this turn.</string>
         <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ à la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci.</string>
-        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过 $generator$ ，则会被充能$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过 $generator$ ，则会被充能 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">ターン終了時に、このラックで$generator$がアクティブ化されていない場合、$b$$SENSORVALUE$$/b$ $energy$が充電されます。</string>
     </set>
     <set id="description-module-storagecellstorm">
@@ -559,7 +559,7 @@ $b$10$/b$ Zeitschritte zurück.</string>
         <string lang="en">Pushes back $storm$
 by $b$10$/b$ time steps.</string>
         <string lang="fr">Pousse $storm$ de $b$10$/b$ pas de temps en arrière.</string>
-        <string lang="zh">将 $storm$ 推回$b$10$/b$个时刻。</string>
+        <string lang="zh">将 $storm$ 推回 $b$10$/b$个时刻。</string>
         <string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
     </set>
     <set id="name-module-toggledgravimmunitygrenade">
