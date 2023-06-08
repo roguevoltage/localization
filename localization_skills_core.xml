@@ -980,7 +980,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Fügt einem Gegner $vulnerable$ zu. Er hält $4$ Zeitschritte an.</string>
         <string lang="en">Applies $vulnerable$ to an enemy. It lasts for $4$ time steps.</string>
         <string lang="fr">Applique $vulnerable$ à une cible. Dure $4$ tours.</string>
-        <string lang="zh">对敌人造成 $vulnerable$，持续 $4$ 个时刻</string>
+        <string lang="zh">让目标敌人获得 $vulnerable$，持续 $4$ 个时刻</string>
         <string lang="jp">敵に $vulnerable$ を与える。$4$ ターン持続</string>
         <string lang="ru">Накладывает $vulnerable$ на врага. Длится $4$ хода.</string>
         <string lang="es">Aplica $vulnerable$ a un enemigo. Dura $4$ turnos</string>
@@ -990,7 +990,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Fügt allen Kampfteilnehmern $grav+1$ zu.</string>
         <string lang="en">Inflicts all combatants with $grav+1$.</string>
         <string lang="fr">Applique $grav+1$ à tous les combattants.</string>
-        <string lang="zh">对所有角色造成 $grav+1$</string>
+        <string lang="zh">让所有角色获得 $grav+1$</string>
         <string lang="jp">全ての戦闘者に $grav+1$ を与える</string>
         <string lang="ru">Накладывает $grav+1$ на всех бойцов.</string>
         <string lang="es">Inflige a todos los combatientes $grav+1$</string>
@@ -1000,7 +1000,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Fügt allen Gegnern $grav+1$ zu.</string>
         <string lang="en">Inflicts all enemies with $grav+1$.</string>
         <string lang="fr">Applique $grav+1$ à toutes les ennemies.</string>
-        <string lang="zh">对所有敌人造成 $grav+1$</string>
+        <string lang="zh">让所有敌人获得 $grav+1$</string>
         <string lang="jp">全ての敵に $grav+1$ を与える</string>
         <string lang="ru">Накладывает $grav+1$ на всех врагов.</string>
         <string lang="es">Inflige a todos los enemigos $grav+1$</string>
@@ -1030,7 +1030,7 @@ and inflicts $grav+2$</string>
         <string lang="de">Erhöht $might$ aus eingehender $grav+$.</string>
         <string lang="en">Raises $might$ from inflictions of $grav+$ onto itself.</string>
         <string lang="fr">Augmente $might$ des $grav+$ infligés sur soi-même.</string>
-        <string lang="zh">从对自身造成的 $grav+$ 增加 $might$</string>
+        <string lang="zh">每当获得 $grav+$ 时将增加 $might$</string>
         <string lang="jp">$grav+$ を自身に与えるたびに、$might$ を増加する</string>
         <string lang="ru">Повышает $might$ от нанесения $grav+$ на себя.</string>
         <string lang="es">Aumenta $might$ de las infligidas de $grav+$ sobre sí mismo</string>

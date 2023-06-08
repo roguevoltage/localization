@@ -805,7 +805,7 @@
 $grav-$.</string>
         <string lang="fr">Inflige $grav-$
 sur le combattant ciblé.</string>
-        <string lang="zh">对目标造成 $grav-$ 。</string>
+        <string lang="zh">让目标获得 $grav-$ 。</string>
         <string lang="jp">ターゲットに$grav-$を与えます。</string>
         <string lang="ru">Наносит цели $grav-$.</string>
         <string lang="es">Inflige $grav-$ al objetivo.</string>
@@ -827,7 +827,7 @@ sur l'ennemi ciblé.</string>
 $grav+$.</string>
         <string lang="fr">Inflige $grav+$
 sur le combattant ciblé.</string>
-        <string lang="zh">对目标造成 $grav+$ 。</string>
+        <string lang="zh">让目标获得 $grav+$ 。</string>
         <string lang="jp">ターゲットに$grav+$を与えます。</string>
         <string lang="ru">Наносит цели $grav+$.</string>
         <string lang="es">Inflige $grav+$ al objetivo.</string>
@@ -837,7 +837,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
         <string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige $grav+$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与拥有者同一时刻的所有敌人造成 $grav+$ 。</string>
+        <string lang="zh">让与拥有者同一时刻的所有敌人获得 $grav+$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$grav+$を与えます。</string>
         <string lang="ru">Наносит $grav+$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -847,7 +847,7 @@ sur le combattant ciblé.</string>
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
         <string lang="fr">Inflige des $damage$ sur tous les ennemis au pas de temps actuel.</string>
-        <string lang="zh">对与拥有者同一时刻的所有敌人造成 $damage$ 。</string>
+        <string lang="zh">让与拥有者同一时刻的所有敌人获得 $damage$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$damage$を与えます。</string>
         <string lang="ru">Наносит $damage$ всем врагам на том же временном шаге, что и владелец.</string>
         <string lang="es">Inflige $damage$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
@@ -895,7 +895,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à l'allié ciblé.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对目标队友造成 $shield$，持续 $energy$×3。</string>
+        <string lang="zh">让目标队友获得 $shield$，持续 $energy$×3。</string>
         <string lang="jp">ターゲットの味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
         <string lang="ru">Наносит союзнику $shield$.
@@ -912,7 +912,7 @@ valioso $plasma$.</string>
 (Duration: $energy$×3).</string>
         <string lang="fr">Applique $shield$ à tous les alliés.
 (Durée: $energy$×3).</string>
-        <string lang="zh">对所有队友造成 $shield$，持续 $energy$×3。</string>
+        <string lang="zh">让目标队友获得 $shield$，持续 $energy$×3。</string>
         <string lang="jp">全ての味方に$shield$を与えます。
 (持続時間：$energy$×3)。</string>
         <string lang="ru">Наносит всем союзникам $shield$.
@@ -1135,7 +1135,7 @@ sur les deux jacks output.</string>
 (Defuse with $energy$).</string>
         <string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ pas de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.
 (Désamorcez avec $energy$).</string>
-        <string lang="zh">将在 $b$$TIMETOTURN$$/b$ 时刻內爆炸，並对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。
+        <string lang="zh">将在 $b$$TIMETOTURN$$/b$ 时刻后爆炸，对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。
 （用 $energy$ 拆彈）。</string>
         <string lang="jp">$b$$TIMETOTURN$$/b$ ターン後に爆発し、両者のヒーローに $b$$INVERSECHARGEVALUE$$/b$ $damage$ を与えます。
 （$energy$ で解除）。</string>
@@ -1170,7 +1170,7 @@ sur les deux jacks output.</string>
         <string lang="de">Entfernt $crust$ von allen Modulen auf diesem Rack.</string>
         <string lang="en">Removes $crust$ from all modules on this rack.</string>
         <string lang="fr">Supprime $crust$ de tous les modules de ce rack.</string>
-        <string lang="zh">移除此机架上所有模块的 $crust$。</string>
+        <string lang="zh">移除同机架上所有模块的 $crust$。</string>
         <string lang="jp">このラックのすべてのモジュールから $crust$ を削除します。</string>
         <string lang="ru">Удаляет $crust$ у всех модулей на этом стеллаже.</string>
         <string lang="es">Elimina $crust$ de todos los módulos de esta estantería.</string>

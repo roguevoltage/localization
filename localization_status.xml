@@ -593,7 +593,7 @@
         <string lang="de">Eingehender $damage$ wird um $1$ verstärkt.</string>
         <string lang="en">Incoming $damage$ is amplified by $1$.</string>
         <string lang="fr">$damage$ entrants sont augmentés de $1$.</string>
-        <string lang="zh">受到的 $damage$ 增加$1$。</string>
+        <string lang="zh">受到的 $damage$ 增加 $1$。</string>
         <string lang="jp">受ける$damage$が$1$増加。</string>
         <string lang="ru">Входящий $damage$ усиливается на $1$.</string>
         <string lang="es">El $damage$ entrante se amplifica en $1$.</string>
@@ -603,7 +603,7 @@
         <string lang="de">Eingehende $grav$ wird um $1$ verstärkt.</string>
         <string lang="en">Incoming $grav$ is amplified by $1$.</string>
         <string lang="fr">$grav$ entrante est augmentée de $1$.</string>
-        <string lang="zh">获得的 $grav$ 增加$1$。</string>
+        <string lang="zh">获得的 $grav$ 增加 $1$。</string>
         <string lang="jp">受ける$grav$が$1$増加。</string>
         <string lang="ru">Входящий $grav$ усиливается на $1$.</string>
         <string lang="es">El $grav$ entrante se amplifica en $1$.</string>
@@ -623,7 +623,7 @@
         <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.</string>
         <string lang="en">Adds $1$ $energy$ to a current</string>
         <string lang="fr">Ajoute $1$ $energy$ à un courant</string>
-        <string lang="zh">增加$1$ $energy$到一个电流</string>
+        <string lang="zh">给一个电流增加 $1$ $energy$</string>
         <string lang="jp">$energy$を$1$追加</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток</string>
         <string lang="es">Añade $1$ $energy$ a una corriente</string>
@@ -633,7 +633,7 @@
         <string lang="de">Fügt einem Strom bis zum Ende des Kampfes $1$ $energy$ hinzu.</string>
         <string lang="en">Adds $1$ $energy$ to a current until the end of combat.</string>
         <string lang="fr">Ajoute $1$ $energy$ à un courant jusqu'à la fin du combat.</string>
-        <string lang="zh">增加$1$ $energy$到一个电流直到战斗结束。</string>
+        <string lang="zh">给一个电流增加 $1$ $energy$，直到战斗结束。</string>
         <string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток до конца боя.</string>
         <string lang="es">Añade $1$ $energy$ a una corriente hasta el final del combate.</string>
@@ -643,7 +643,7 @@
         <string lang="de">Fügt einem Strom bis zum Ende des Zuges $1$ $energy$ hinzu.</string>
         <string lang="en">Adds $1$ $energy$ to a current until the end of turn.</string>
         <string lang="fr">Ajoute $1$ $energy$ à un courant jusqu'à la fin du tour.</string>
-        <string lang="zh">增加$1$ $energy$到一个电流直到回合结束。</string>
+        <string lang="zh">给一个电流增加 $1$ $energy$，直到回合结束。</string>
         <string lang="jp">$energy$を$1$追加、ターン終了まで。</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток до конца хода.</string>
         <string lang="es">Añade $1$ $energy$ a una corriente hasta el final del turno.</string>
@@ -657,7 +657,7 @@ First incoming $energy$ will break the crust</string>
         <string lang="fr">Module non activable.
 La première $energy$ entrante brise la croûte</string>
         <string lang="zh">阻止模块的激活。
-下一次输入能量将会破坏晶壳</string>
+输入能量一次来破坏晶壳</string>
         <string lang="jp">モジュールはアクティブ化できません。
 最初の受けるエネルギーは外殻を破壊します</string>
         <string lang="ru">Модуль не может быть активирован.
@@ -732,7 +732,7 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le pour l'éteindre ou il infligera
 $1damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在回合结束时对拥有者造成$1damage$，激活它来灭火</string>
+        <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
         <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
@@ -743,7 +743,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
         <string lang="fr">Activez-le ce tour pour l'éteindre ou il infligera
 $1damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在回合结束时对拥有者造成$1damage$，激活它来灭火</string>
+        <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
         <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
@@ -793,7 +793,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung fügt dem Charakter $1damage$ zu</string>
         <string lang="en">Activation deals $1damage$ to the owner</string>
         <string lang="fr">Activation inflige $1damage$ au propriétaire</string>
-        <string lang="zh">激活将对拥有者造成$1damage$</string>
+        <string lang="zh">激活将对拥有者造成 $1damage$</string>
         <string lang="jp">アクティブ化はオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация наносит $1damage$ владельцу</string>
         <string lang="es">Inflige $1damage$ al propietario</string>
@@ -803,7 +803,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $1damage$ zu</string>
         <string lang="en">Activation this turn deals $1damage$ to the owner</string>
         <string lang="fr">Activation ce tour inflige $1damage$ au propriétaire</string>
-        <string lang="zh">在本回合激活将对拥有者造成$1damage$</string>
+        <string lang="zh">在本回合激活将对拥有者造成 $1damage$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация в этом ходу наносит $1damage$ владельцу</string>
         <string lang="es">Activación este turno inflige $1damage$ al propietario</string>
@@ -883,7 +883,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung fügt dem Charakter $grav+2$ zu</string>
         <string lang="en">Activation inflicts the owner with $grav+2$</string>
         <string lang="fr">Activation inflige $grav+2$ au propriétaire</string>
-        <string lang="zh">激活将对拥有者造成$grav+2$</string>
+        <string lang="zh">激活将让拥有者获得 $grav+2$</string>
         <string lang="jp">アクティブ化はオーナーに $grav+2$を与えます</string>
         <string lang="ru">Активация даст $grav+2$</string>
         <string lang="es">La activación inflige al propietario con $grav+2$</string>
@@ -893,7 +893,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
         <string lang="en">Activation this turn inflicts the owner with $grav+2$</string>
         <string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
-        <string lang="zh">在本回合激活将对拥有者造成$grav+2$</string>
+        <string lang="zh">在本回合激活将让拥有者获得 $grav+2$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
         <string lang="ru">Активация в этом ходу даст $grav+2$</string>
         <string lang="es">La activación de este turno inflige al propietario con $grav+2$</string>
@@ -903,7 +903,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung fügt dem Charakter $grav-1$ zu</string>
         <string lang="en">Activation inflicts the owner with $grav-1$</string>
         <string lang="fr">Activation inflige $grav-1$ au propriétaire</string>
-        <string lang="zh">激活将对拥有者造成$grav-1$</string>
+        <string lang="zh">激活后让拥有者获得 $grav-1$</string>
         <string lang="jp">アクティブ化はオーナーに $grav-1$を与えます</string>
         <string lang="ru">Активация даст $grav-1$</string>
         <string lang="es">La activación inflige al propietario con $grav-1$</string>
@@ -913,7 +913,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung verbraucht $1plasma$</string>
         <string lang="en">Activation uses up $1plasma$</string>
         <string lang="fr">Activation utilise $1plasma$</string>
-        <string lang="zh">激活将消耗$1plasma$</string>
+        <string lang="zh">激活消耗 $1plasma$</string>
         <string lang="jp">アクティブ化は $1plasma$を消費します</string>
         <string lang="ru">Активация даст $1plasma$</string>
         <string lang="es">La activación usa $1plasma$</string>
@@ -923,7 +923,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Aktivierung diese Runde verbraucht $1plasma$</string>
         <string lang="en">Activation this turn uses up $1plasma$</string>
         <string lang="fr">Activation ce tour utilise $1plasma$</string>
-        <string lang="zh">在本回合激活将消耗$1plasma$</string>
+        <string lang="zh">在本回合激活将消耗 $1plasma$</string>
         <string lang="jp">このターンにアクティブ化は $1plasma$を消費します</string>
         <string lang="ru">Активация в этом ходу даст $1plasma$</string>
         <string lang="es">La activación de este turno usa $1plasma$</string>
@@ -963,7 +963,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt.</string>
         <string lang="en">Incoming $damage$ is transformed to $grav+$.</string>
         <string lang="fr">$damage$ entrants sont transformées en $grav+$.</string>
-        <string lang="zh">来自 $damage$ 将转化为 $grav+$</string>
+        <string lang="zh">将 $damage$ 转化为 $grav+$</string>
         <string lang="jp">$damage$は $grav+$に変換されます</string>
         <string lang="ru">Входящий $damage$ превращается в $grav+$.</string>
         <string lang="es">El daño entrante de $damage$ es transformado en $grav+$.</string>
@@ -973,7 +973,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.</string>
         <string lang="en">Incoming $grav+$ is transformed to $damage$.</string>
         <string lang="fr">$grav+$ entrante est transformée en $damage$.</string>
-        <string lang="zh">来自 $grav+$ 将转化为 $damage$</string>
+        <string lang="zh">将 $grav+$ 转化为 $damage$</string>
         <string lang="jp">$grav+$は $damage$に変換されます</string>
         <string lang="ru">Входящий $grav+$ превращается в $damage$.</string>
         <string lang="es">El daño entrante de $grav+$ es transformado en $damage$.</string>
@@ -983,7 +983,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>
         <string lang="en">Incoming $grav+$ is transformed to $might$.</string>
         <string lang="fr">$grav+$ entrante est transformée en $might$.</string>
-        <string lang="zh">来自 $grav+$ 将转化为 $might$</string>
+        <string lang="zh">将 $grav+$ 转化为 $might$</string>
         <string lang="jp">$grav+$は $might$に変換されます</string>
         <string lang="ru">Входящий $grav+$ превращается в $might$.</string>
         <string lang="es">El daño entrante de $grav+$ es transformado en $might$.</string>
@@ -993,7 +993,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">Eingehender $damage$ wird um $1$ reduziert.</string>
         <string lang="en">Incoming $damage$ is reduced by $1$.</string>
         <string lang="fr">$damage$ entrants sont réduits de $1$.</string>
-        <string lang="zh">来自 $damage$ 将减少$1$</string>
+        <string lang="zh">受到的 $damage$ 将减少 $1$</string>
         <string lang="jp">$damage$は $1$減少します</string>
         <string lang="ru">Входящий $damage$ уменьшается на $1$.</string>
         <string lang="es">El daño entrante de $damage$ es reducido por $1$.</string>
@@ -1063,7 +1063,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$&#xA;Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
         <string lang="en">$b$Exhaustion $EXHAUSTION$$/b$&#xA;Activation sets back the next turn by $b$$EXHAUSTION$$/b$</string>
         <string lang="fr">$b$Fatigue $EXHAUSTION$$/b$&#xA;Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
-        <string lang="zh">$b$疲劳 $EXHAUSTION$$/b$&#xA;使用将下一回合延迟$b$$EXHAUSTION$$/b$</string>
+        <string lang="zh">$b$疲劳 $EXHAUSTION$$/b$&#xA;使用将下一回合延迟 $b$$EXHAUSTION$$/b$</string>
         <string lang="jp">$b$疲労 $EXHAUSTION$$/b$&#xA;使用すると次のターンが$b$$EXHAUSTION$$/b$遅れます</string>
         <string lang="ru">$b$Изнурение $EXHAUSTION$$/b$&#xA;Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
         <string lang="es">$b$Agotamiento $EXHAUSTION$$/b$&#xA;La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
