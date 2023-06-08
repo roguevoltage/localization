@@ -2,11 +2,12 @@
     <set id="steam-shortdescription">
         <string lang="de">Roguelike Deckbuilder trifft Automation Game. Bau deine Aktionen zusammen, indem du Module verkabelst. Erzeuge und verwalte Energie, manipuliere die Zeit und schalte in einer Welt, in der die Zeit aus den Fugen geraten ist, den Strom wieder an.</string>
         <string lang="en">Roguelike Deckbuilder meets Automation game. Construct your combat actions by wiring up modules. Generate and manage energy, manipulate the timeline, beat procedural threats and try to get the power back on in a world where time is out of joint.</string>
-        <string lang="fr">Roguelike Deckbuilder rencontre synthétiseur modulaire. Construisez vos actions de combat en câblant des modules. Générez et gérez de l'énergie, manipulez la chronologie, combattez les menaces procédurales et essayez de rétablir le courant dans un monde où le temps est détraqué.</string>
+        <string lang="fr">Roguelike Deckbuilder rencontre jeu de automatisation. Construisez vos actions de combat en câblant des modules. Générez et gérez de l'énergie, manipulez la chronologie, combattez les menaces procédurales et essayez de rétablir le courant dans un monde où le temps est détraqué.</string>
         <string lang="zh">Roguelike Deckbuilder 是一款自动化编程游戏，连接各种模块化的装备与敌人战斗。生产、管理能量，掌控时间线，战胜随机生成的敌人，在时空错乱的世界中恢复人类的能源供应。</string>
         <string lang="jp">ローグライクなデッキ ビルダーがモジュラー シンセサイザーと出会う。モジュールを接続して戦闘アクションを構築します。エネルギーを生成して管理し、タイムラインを操作し、手続き上の脅威を打ち負かし、タイムシフトされた世界で電気の回復を試みます。</string>
-        <string lang="ru">n/a</string>
-        <string lang="es">Roguelike Deckbuilder se encuentra con Modular Synthesizer. Construye tus acciones de combate conectando módulos. Genere y administre energía, manipule la línea de tiempo, supere las amenazas de procedimiento e intente recuperar el poder en un mundo donde el tiempo es inestable.</string>
+        <string lang="ru">Карточный рогалик встречается с игрой автоматизации. Соберите свои боевые действия, подключая модули. Генерируйте и управляйте энергией, манипулируйте временной линией, побеждайте процедурные угрозы и попытайтесь восстановить электропитание в мире, где время вышло из сустава.</string>
+        <string lang="es">Roguelike Deckbuilder se encuentra con juego de automatizaciòn. Construye tus acciones de combate conectando módulos. Genere y administre energía, manipule la línea de tiempo, supere las amenazas de procedimiento e intente recuperar el poder en un mundo donde el tiempo es inestable.</string>
+        <string lang="kr">Roguelike Deckbuilder는 자동화 게임을 만납니다. 모듈을 연결하여 전투 행동을 구성하십시오. 에너지를 생성하고 관리하고 타임 라인을 조작하고 절차적 위협을 물리치고 시간이 불안정한 세계에서 전력을 되찾으십시오.</string>
     </set>
     <set id="steam-description">
         <string lang="de">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
@@ -114,7 +115,28 @@ Votre aventure vous mène à travers une variété de biomes où des groupes d'e
 
 [img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
 [img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
-        <string lang="ru">n/a</string>
+        <string lang="ru">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
+Собирайте свои навыки из [b]специализированных модулей[/b]. Некоторые генерируют энергию, другие изменяют или сохраняют ее, а другие превращают ее в эффекты. [b]Стройте мощные структуры[/b], чтобы уничтожить врагов или сохранить заряд батареи для нужд в следующий ход.
+
+[img]{STEAM_APP_IMAGE}/extras/rack3.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerzap.png[/img]
+Каждый ход боя представляет собой [b]тактические вызовы[/b]: куда направить свою энергию? На модуль бластера, чтобы нанести урон монстрам? На замедлитель, чтобы контролировать таймлайн? Вы должны сломать лечебное зелье? Или вы сохраните его в батарее и подготовите амбициозный ход на следующий ход?
+
+
+[img]{STEAM_APP_IMAGE}/extras/battle.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerturnbased.png[/img]
+В этом разрушенном мире [b]причина и следствие[/b] не совпадают. Овладейте технологией гравитоники и [b]перемещайте ходы боя вперед и назад по таймлайну[/b]: уклоняйтесь от извержений вулканов и молний, прыгайте перед врагами и выпускайте разрушительные гравитационные шипы на врагов.
+
+[img]{STEAM_APP_IMAGE}/extras/timeline3.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerroguelike.png[/img]
+Ваше приключение пройдет через различные биомы, в которых коварные группы врагов попытаются испортить ваш день. [b]Интеллектуально настройте систему[/b] и справляйтесь с угрозами, которые генерируются процедурно и становятся все более опасными.
+
+[img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]
+    </string>
         <string lang="es">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
 Construye tus habilidades a partir de [b]módulos[/b] especializados. Unos generan energía, otros la modifican o almacenan y otros la convierten en efectos. [b]Construye poderosas estructuras[/b] para eliminar a tus enemigos o conservar la carga de las baterías para los momentos de necesidad.
 
@@ -136,6 +158,27 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
 
 [img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
 [img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
+    <string lang="kr">[img]{STEAM_APP_IMAGE}/extras/headerwireup.png[/img]
+[b]전문 모듈[/b]에서 기술을 구축하십시오. 일부는 에너지를 생성하고 다른 일부는 에너지를 변형하거나 저장하고 다른 일부는 효과로 변환합니다. [b]강력한 구조물을 건설[/b]하여 적을 제거하거나 다음 턴에 필요한 배터리 충전을 유지하십시오.
+
+[img]{STEAM_APP_IMAGE}/extras/rack3.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerzap.png[/img]
+각 전투 턴은 [b]전술적 도전[/b]을 제기합니다. 몬스터를 공격하기 위해 블래스터 모듈로 에너지를 어디에 사용해야합니까? 타임 라인을 제어하기 위해 감속기에? 치유 물약을 부수는 것이 좋습니까? 아니면 배터리에 넣어 다음 턴에 더욱 야심찬 움직임을 준비합니까?
+
+
+[img]{STEAM_APP_IMAGE}/extras/battle.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerturnbased.png[/img]
+이 파괴 된 세계에서 [b]원인과 결과[/b]는 일치하지 않습니다. 시간을 [b]앞뒤로 이동[/b]하는 중력학의 기술을 마스터하십시오. 화산 분화 및 번개를 피하거나 적에게 미친 중력 스파이크를 발사하십시오.
+
+[img]{STEAM_APP_IMAGE}/extras/timeline3.gif[/img]
+
+[img]{STEAM_APP_IMAGE}/extras/headerroguelike.png[/img]
+모험은 다양한 생물 군계가 당신의 날을 망치려고하는 다양한 생물 군계를 통해 진행됩니다. [b]절차적으로 생성 된[/b] 위협과 점차적으로 위험해지는 위협에 대처하기 위해 똑똑하게 랙을 구성하고 수리하십시오.
+
+[img]{STEAM_APP_IMAGE}/extras/levels2.gif[/img]
+[img]{STEAM_APP_IMAGE}/extras/landscape2.png[/img]</string>
     </set>
     <set id="steam-credentials1">
         <string lang="de">This roguelike deckbuilder has a great twist</string>
@@ -143,8 +186,9 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="fr">Ce deckbuilder roguelike a un super twist</string>
         <string lang="zh">这个卡牌Rogue的创意太让我惊喜了</string>
         <string lang="jp">このローグライク デッキ ビルダーには驚くべきひねりがあります</string>
-        <string lang="ru">n/a</string>
+        <string lang="ru">Этот рогалик с колодами имеет отличный поворот</string>
         <string lang="es">Este roguelike deckbuilder tiene un gran giro</string>
+        <string lang="kr">이 로그라이크 덱 빌더는 훌륭한 트위스트가 있습니다</string>
     </set>
     <set id="steam-credentials2">
         <string lang="de">An extremely unusual take on the genre</string>
@@ -152,8 +196,9 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="fr">Une approche extrêmement inhabituelle du genre</string>
         <string lang="zh">在同品类游戏里极其罕见的设计</string>
         <string lang="jp">ジャンルに対する非常に珍しい見方</string>
-        <string lang="ru">n/a</string>
+        <string lang="ru">Чрезвычайно необычный подход к жанру</string>
         <string lang="es">Una versión extremadamente inusual del género</string>
+        <string lang="kr">장르에 대한 매우 특이한 접근</string>
     </set>
         <set id="steam-credentials3">
         <string lang="de">HOLY SH** YES</string>
@@ -161,7 +206,8 @@ Tu aventura te lleva a través de una variedad de biomas donde grupos de enemigo
         <string lang="fr">HOLY SH** YES</string>
         <string lang="zh">我*，太帅了</string>
         <string lang="jp">なんてこった！！</string>
-        <string lang="ru">n/a</string>
-        <string lang="es">HOLY SH** YES</string>
+        <string lang="ru">БЛ*ДЬ ДА</string>
+        <string lang="es">¡SANTA M***DA SÍ!</string>
+        <string lang="kr">HOLY SH** YES</string>
     </set>
 </localization>

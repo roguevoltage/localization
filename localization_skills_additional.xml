@@ -115,11 +115,6 @@
         <string lang="en">Grav. Inversion</string>
         <string lang="fr">Inversion Grav.</string>
     </set>
-    <set id="name-skill-gravresistance">
-        <string lang="de">Grav.-Resistenz</string>
-        <string lang="en">Grav. Resistance</string>
-        <string lang="fr">Résistance à Grav.</string>
-    </set>
     <set id="name-skill-gravneutralize-self">
         <string lang="de">Grav.-Neutralisierung</string>
         <string lang="en">Grav. Neutralize</string>
@@ -464,11 +459,6 @@ Versieht ein Module mit $fire$.</string>
         <string lang="en">Removes up to $grav+1$ from itself.
 Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
-    </set>
-    <set id="description-skill-gravresistance">
-        <string lang="de">Eingehende $grav$ wird um $1$ reduziert</string>
-        <string lang="en">Incoming. $grav$ is reduced by $1$</string>
-        <string lang="fr">La $grav$ entrante est réduite de $1$</string>
     </set>
     <set id="description-skill-gravshield-gravadillo">
         <string lang="de">Entfernt alle $grav+$ und fügt sich selbst den $damage$ to $grav+short$ Status zu.</string>

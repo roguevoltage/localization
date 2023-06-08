@@ -7,6 +7,7 @@
         <string lang="jp">ステーションはすでに使用されています。</string>
         <string lang="ru">Станция уже была использована.</string>
         <string lang="es">La estación ya ha sido usada.</string>
+        <string lang="kr">스테이션은 이미 사용되었습니다.</string>
     </set>
     <set id="error-socketdoesnotallowdrag">
         <string lang="de">Kann nicht von diesem Socket genommen werden</string>
@@ -16,6 +17,7 @@
         <string lang="jp">このソケットからは取り出せません</string>
         <string lang="ru">Нельзя взять из этого сокета</string>
         <string lang="es">No se puede sacar de este socket</string>
+        <string lang="kr">이 소켓에서는 가져올 수 없습니다.</string>
     </set>
     <set id="error-modulecannotbetakenfromrack">
         <string lang="de">Kann nicht vom Rack genommen werden</string>
@@ -25,6 +27,7 @@
         <string lang="jp">ラックからは取り出せません</string>
         <string lang="ru">Нельзя взять из стойки</string>
         <string lang="es">No se puede sacar del rack</string>
+        <string lang="kr">랙에서 가져올 수 없습니다.</string>
     </set>
     <set id="error-racknotwired">
         <string lang="de">Das Rack von $NAME$ ist nicht verkabelt</string>
@@ -34,6 +37,7 @@
         <string lang="jp">$NAME$のラックは接続されていません</string>
         <string lang="ru">Стойка $NAME$ не подключена</string>
         <string lang="es">El rack de $NAME$ no está conectado</string>
+        <string lang="kr">$NAME$의 랙은 연결되지 않았습니다.</string>
     </set>
     <set id="error-module-notownedbyplayer">
         <string lang="de">Gehört dir nicht</string>
@@ -43,6 +47,7 @@
         <string lang="jp">あなたのものではありません</string>
         <string lang="ru">Не принадлежит вам</string>
         <string lang="es">No te pertenece</string>
+        <string lang="kr">당신의 것이 아닙니다.</string>
     </set>
     <set id="error-module-notnegotiable">
         <string lang="de">Unverkäuflich</string>
@@ -52,6 +57,7 @@
         <string lang="jp">交渉不可</string>
         <string lang="ru">Не подлежит торгу</string>
         <string lang="es">No negociable</string>
+        <string lang="kr">협상 불가능</string>
     </set>
     <set id="error-module-notduplicable">
         <string lang="de">Kann nicht dupliziert werden</string>
@@ -61,6 +67,7 @@
         <string lang="jp">複製不可</string>
         <string lang="ru">Нельзя дублировать</string>
         <string lang="es">No se puede duplicar</string>
+        <string lang="kr">복제할 수 없습니다.</string>
     </set>
     <set id="error-module-nottransmogrifiable">
         <string lang="de">Kann nicht transmogrifiziert werden</string>
@@ -70,6 +77,7 @@
         <string lang="jp">変身不可</string>
         <string lang="ru">Нельзя трансмогрифицировать</string>
         <string lang="es">No se puede transmogrificar</string>
+        <string lang="kr">변신할 수 없습니다.</string>
     </set>
     <set id="error-module-cannotbesalvaged">
         <string lang="de">Kann nicht in den nächsten Run hinübergerettet werden</string>
@@ -79,6 +87,7 @@
         <string lang="jp">回収不可</string>
         <string lang="ru">Нельзя спасти</string>
         <string lang="es">No se puede recuperar</string>
+        <string lang="kr">회수할 수 없습니다.</string>
     </set>
     <set id="error-module-cannotbetrashed">
         <string lang="de">Kann nicht verklappt werden</string>
@@ -88,6 +97,7 @@
         <string lang="jp">捨てられません</string>
         <string lang="ru">Нельзя выбросить</string>
         <string lang="es">No se puede tirar</string>
+        <string lang="kr">버릴 수 없습니다.</string>
     </set>
     <set id="error-module-encrusted">
         <string lang="de">Zerbreche $crust$
@@ -102,6 +112,7 @@ avec $energy$</string>
 с помощью $energy$</string>
         <string lang="es">Rompe $crust$
 con $energy$</string>
+        <string lang="kr">$energy$로 $crust$를 부수세요</string>
     </set>
     <set id="error-levelnotviable">
         <string lang="de">Dieses Level ist nicht verfügbar.</string>
@@ -111,6 +122,7 @@ con $energy$</string>
         <string lang="jp">このレベルは利用できません。</string>
         <string lang="ru">Этот уровень недоступен.</string>
         <string lang="es">Este nivel no es viable.</string>
+        <string lang="kr">이 레벨은 사용할 수 없습니다.</string>
     </set>
     <set id="error-nomorelootpicks">
         <string lang="de">Keine Auswahl mehr übrig</string>
@@ -120,6 +132,7 @@ con $energy$</string>
         <string lang="jp">選択肢がありません</string>
         <string lang="ru">Больше нет выбора</string>
         <string lang="es">No quedan más selecciones</string>
+        <string lang="kr">선택할 수 있는 것이 더 이상 없습니다.</string>
     </set>
     <set id="error-nospaceinrack">
         <string lang="de">Kein freier Platz im Rack</string>
@@ -129,6 +142,7 @@ con $energy$</string>
         <string lang="jp">ラックに空きスペースがありません</string>
         <string lang="ru">Нет свободного места в стойке</string>
         <string lang="es">No hay espacio libre en el rack</string>
+        <string lang="kr">랙에 빈 공간이 없습니다.</string>
     </set>
     <set id="error-inputtooutput">
         <string lang="de">Verkabele Input-
@@ -143,6 +157,7 @@ output jack</string>
 от входа к выходу</string>
         <string lang="es">Conecta la entrada
 a la salida</string>
+        <string lang="kr">입력을 출력 잭에 연결하세요</string>
     </set>
         <set id="error-cannotwirecircular">
         <string lang="de">Kann nicht zirkulär verkabeln</string>
@@ -152,6 +167,7 @@ a la salida</string>
         <string lang="jp">循環的に接続できません</string>
         <string lang="ru">Нельзя провести провод кругом</string>
         <string lang="es">No se puede conectar en círculo</string>
+        <string lang="kr">원형으로 연결할 수 없습니다.</string>
     </set>
     <set id="error-jacknotwired">
         <string lang="de">Nicht
@@ -164,6 +180,7 @@ cablé</string>
         <string lang="jp">接続されていません</string>
         <string lang="ru">Не подключено</string>
         <string lang="es">No conectado</string>
+        <string lang="kr">연결되지 않음</string>
     </set>
     <set id="error-jackcolormismatch">
         <string lang="de">Falsche Farbe</string>
@@ -173,6 +190,7 @@ cablé</string>
         <string lang="jp">色が違います</string>
         <string lang="ru">Неверный цвет</string>
         <string lang="es">Color incorrecto</string>
+        <string lang="kr">색상이 잘못되었습니다.</string>
     </set>
     <set id="error-jacklocked">
         <string lang="de">Gesperrt</string>
@@ -182,6 +200,7 @@ cablé</string>
         <string lang="jp">塞がり</string>
         <string lang="ru">Заблокировано</string>
         <string lang="es">Bloqueado</string>
+        <string lang="kr">차단됨</string>
     </set>
     <set id="error-rackwiringimpossible">
         <string lang="de">Kann hier nicht verkabeln</string>
@@ -191,6 +210,7 @@ cablé</string>
         <string lang="jp">ここから接続できません</string>
         <string lang="ru">Нельзя провести провод отсюда</string>
         <string lang="es">No se puede conectar desde aquí</string>
+        <string lang="kr">여기에서 연결할 수 없습니다.</string>
     </set>
     <set id="error-socket-dropforbidden">
         <string lang="de">Sockel akzeptiert keine Module</string>
@@ -200,6 +220,7 @@ cablé</string>
         <string lang="jp">ソケットはモジュールを受け入れません</string>
         <string lang="ru">Сокет не принимает модули</string>
         <string lang="es">El socket no acepta módulos</string>
+        <string lang="kr">소켓은 모듈을 받아들이지 않습니다.</string>
     </set>
     <set id="error-socket-wrongmoduletype">
         <string lang="de">Sockel akzeptiert keine Module von diesem Typ.</string>
@@ -209,6 +230,7 @@ cablé</string>
         <string lang="jp">ソケットはこのタイプのモジュールを受け入れません。</string>
         <string lang="ru">Сокет не принимает модули этого типа.</string>
         <string lang="es">El socket no acepta módulos de este tipo.</string>
+        <string lang="kr">소켓은 이 유형의 모듈을 받아들이지 않습니다.</string>
     </set>
     <set id="error-wiringsamemodule">
         <string lang="de">Verkabelung desselben Moduls 
@@ -221,6 +243,7 @@ le même module</string>
         <string lang="jp">同じモジュールを接続できません</string>
         <string lang="ru">Нельзя провести провод от того же модуля</string>
         <string lang="es">No se puede conectar el mismo módulo</string>
+        <string lang="kr">동일한 모듈을 연결할 수 없습니다.</string>
     </set>
     <set id="error-wiringliverack">
         <string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
@@ -230,6 +253,7 @@ le même module</string>
         <string lang="jp">発射シーケンス中に接続できません</string>
         <string lang="ru">Нельзя провести провод во время стрельбы</string>
         <string lang="es">No se puede conectar durante la secuencia de disparo</string>
+        <string lang="kr">발사 순서 중에는 연결할 수 없습니다.</string>
     </set>
     <set id="error-wrongturn">
         <string lang="de">$NAME$ ist nicht am Zug.</string>
@@ -239,6 +263,7 @@ le même module</string>
         <string lang="jp">$NAME$のターンではありません。</string>
         <string lang="ru">Сейчас не ходит $NAME$.</string>
         <string lang="es">No es el turno de $NAME$.</string>
+        <string lang="kr">$NAME$의 차례가 아닙니다.</string>
     </set>
     <set id="message-battle">
         <string lang="de">Ihr stoßt auf eine Gruppe Monster.</string>
@@ -248,6 +273,7 @@ le même module</string>
         <string lang="jp">あなたはモンスターのグループに出くわします。</string>
         <string lang="ru">Вы натыкаетесь на группу монстров.</string>
         <string lang="es">Te encuentras con un grupo de monstruos.</string>
+        <string lang="kr">몬스터의 그룹을 우연히 만났습니다.</string>
     </set>
     <set id="message-battlewon">
         <string lang="de">Glanzleistung!</string>
@@ -257,6 +283,7 @@ le même module</string>
         <string lang="jp">成功しました！</string>
         <string lang="ru">Вы сделали это!</string>
         <string lang="es">¡Lo hiciste!</string>
+        <string lang="kr">성공했습니다!</string>
     </set>
     <set id="message-unconscious">
         <string lang="de">$NAME$ wird ohnmächtig.</string>
@@ -266,6 +293,7 @@ le même module</string>
         <string lang="jp">$NAME$は意識を失います。</string>
         <string lang="ru">$NAME$ теряет сознание.</string>
         <string lang="es">$NAME$ se desmaya.</string>
+        <string lang="kr">$NAME$가 의식을 잃었습니다.</string>
     </set>
     <set id="message-unconscious2">
         <string lang="de">Du kannst ihn/sie an einem Shop oder zurück im Lager wiederbeleben!</string>
@@ -275,6 +303,7 @@ le même module</string>
         <string lang="jp">あなたは店舗やキャンプで彼らを蘇らせることができます！</string>
         <string lang="ru">вы можете оживить их в магазине или в лагере!</string>
         <string lang="es">¡Puedes resucitarlos en una tienda o en el campamento!</string>
+        <string lang="kr">상점이나 야영지에서 그들을 부활시킬 수 있습니다!</string>
     </set>
     <set id="message-jackcolorchange">
         <string lang="de">$COLOR$</string>
@@ -284,6 +313,7 @@ le même module</string>
         <string lang="jp">$COLOR$</string>
         <string lang="ru">$COLOR$</string>
         <string lang="es">$COLOR$</string>
+        <string lang="kr">$COLOR$</string>
     </set>
     <set id="message-turn-naturaldisaster-gravequilibrium">
         <string lang="de">Das Grav-Equilibrium zieht über den Kampfplatz.</string>
@@ -293,6 +323,7 @@ le même module</string>
         <string lang="jp">重力平衡は戦場を襲います。</string>
         <string lang="ru">Гравитационное равновесие прокатывается по полю боя.</string>
         <string lang="es">El Equilibrio Grav. se extiende por el campo de batalla.</string>
+        <string lang="kr">중력 평형이 전투장을 휩쓸었습니다.</string>
     </set>
     <set id="message-turn-naturaldisaster-volcano">
         <string lang="de">Ein Vulkanausbruch!</string>
@@ -302,6 +333,7 @@ le même module</string>
         <string lang="jp">噴火！</string>
         <string lang="ru">Извержение!</string>
         <string lang="es">¡Una erupción!</string>
+        <string lang="kr">화산 폭발!</string>
     </set>
     <set id="message-turn-naturaldisaster-lightningstrike">
         <string lang="de">Ein Blitzschlag!</string>
@@ -311,6 +343,7 @@ le même module</string>
         <string lang="jp">雷撃！</string>
         <string lang="ru">Удар молнии!</string>
         <string lang="es">¡Un rayo!</string>
+        <string lang="kr">번개!</string>
     </set>
     <set id="message-turn-naturaldisaster-gravspike">
         <string lang="de">Eine Grav.-Spitze!</string>
@@ -320,6 +353,7 @@ le même module</string>
         <string lang="jp">重力の尖り！</string>
         <string lang="ru">Грав. шип!</string>
         <string lang="es">¡Un Pico Grav.!</string>
+        <string lang="kr">중력 스파이크!</string>
     </set>
     <set id="message-turn-naturaldisaster-gravimpulse">
         <string lang="de">Ein Grav.-Impuls!</string>
@@ -329,6 +363,7 @@ le même module</string>
         <string lang="jp">重力の衝撃！</string>
         <string lang="ru">Грав. импульс!</string>
         <string lang="es">¡Un impulso grav.!</string>
+        <string lang="kr">중력 충격!</string>
     </set>
     <set id="message-idleworld">
         <string lang="de">Untätig</string>
@@ -338,6 +373,7 @@ le même module</string>
         <string lang="jp">遊休</string>
         <string lang="ru">Бездействие</string>
         <string lang="es">Inactivo</string>
+        <string lang="kr">유휴</string>
     </set>
     <set id="message-notarget">
         <string lang="de">Kein Ziel</string>
@@ -347,6 +383,7 @@ le même module</string>
         <string lang="jp">ターゲットなし</string>
         <string lang="ru">Нет цели</string>
         <string lang="es">Sin objetivo</string>
+        <string lang="kr">타겟 없음</string>
     </set>
     <set id="message-notarget-blademodule">
         <string lang="de">Kein Ziel.
@@ -363,6 +400,8 @@ Les cibles doivent être alignées avec le personnage sur la timeline.</string>
 Цели должны быть выровнены с персонажем на временной шкале.</string>
         <string lang="es">Sin objetivos.
 Objetivos deben estar alineados con el personaje en la línea de tiempo.</string>
+        <string lang="kr">타겟 없음.
+타겟은 타임라인 상의 캐릭터와 일치해야 합니다.</string>
     </set>
     <set id="message-rackconnect">
         <string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -372,6 +411,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">ワイヤーでアクティブにしたいモジュールを接続します。</string>
         <string lang="ru">Подключите модули, которые вы хотите активировать, проводами.</string>
         <string lang="es">Conecta los módulos que quieres activar con cables.</string>
+        <string lang="kr">활성화하고 싶은 모듈을 선으로 연결하세요.</string>
     </set>
     <set id="message-prompt-readytofire">
         <string lang="de">Bereit zum Handeln</string>
@@ -381,6 +421,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">行動準備完了</string>
         <string lang="ru">Готов к действию</string>
         <string lang="es">Listo para la acción</string>
+        <string lang="kr">행동 준비 완료</string>
     </set>
     <set id="message-prompt-selecttarget">
         <string lang="de">Wähle ein Ziel für&#xA;&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
@@ -390,6 +431,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">ターゲットを選択&#xA;&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
         <string lang="ru">Выберите цель для&#xA;&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
         <string lang="es">Selecciona objetivo para&#xA;&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+        <string lang="kr">타겟 선택&#xA;&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
     </set>
     <set id="message-prompt-selectnextmodule">
         <string lang="de">Wähle das nächste Modul zum Aktivieren</string>
@@ -399,6 +441,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">次のアクティブにするモジュールを選択</string>
         <string lang="ru">Выберите следующий модуль для активации</string>
         <string lang="es">Selecciona el siguiente módulo para activar</string>
+        <string lang="kr">활성화할 다음 모듈을 선택하세요</string>
     </set>
     <set id="bug-noactor">
         <string lang="de">BUG: $TURN$ hat keinen Akteur.</string>
@@ -408,6 +451,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">BUG: $TURN$ にアクターがありません</string>
         <string lang="ru">BUG: $TURN$ не имеет актера</string>
         <string lang="es">BUG: $TURN$ no tiene actor</string>
+        <string lang="kr">BUG: $TURN$ 에는 액터가 없습니다</string>
     </set>
     <set id="bug-actordead">
         <string lang="de">BUG: $NAME$ ist tot.</string>
@@ -417,6 +461,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">BUG: $NAME$ は死んでいます。</string>
         <string lang="ru">BUG: $NAME$ мертв.</string>
         <string lang="es">BUG: $NAME$ está muerto.</string>
+        <string lang="kr">BUG: $NAME$ 이 죽었습니다</string>
     </set>
     <set id="bug-noabilities">
         <string lang="de">BUG: $NAME$ hat keine Fähigkeiten.</string>
@@ -426,6 +471,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">BUG: $NAME$ に能力がありません。</string>
         <string lang="ru">BUG: $NAME$ не имеет способностей.</string>
         <string lang="es">BUG: $NAME$ no tiene habilidades.</string>
+        <string lang="kr">BUG: $NAME$ 에는 능력이 없습니다</string>
     </set>
     <set id="worldmessage-modulelock">
         <string lang="de">Verriegelt</string>
@@ -435,6 +481,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">ロック</string>
         <string lang="ru">Заблокировано</string>
         <string lang="es">Bloqueado</string>
+        <string lang="kr">잠김</string>
     </set>
     <set id="worldmessage-modulelock-canonlybemovedoutsideofcombat">
         <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
@@ -444,6 +491,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">戦闘外でのみ移動可能</string>
         <string lang="ru">Может быть перемещено только вне боя</string>
         <string lang="es">Solo puede ser movido fuera de combate</string>
+        <string lang="kr">전투 외에만 이동할 수 있습니다</string>
     </set>
     <set id="worldmessage-modulelock-cannotdragfromliverack">
         <string lang="de">Wird aktiviert werden</string>
@@ -453,6 +501,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">アクティブになります</string>
         <string lang="ru">Будет активировано</string>
         <string lang="es">Será activado</string>
+        <string lang="kr">활성화됩니다</string>
     </set>
     <set id="worldmessage-module-nofreejacktowire">
         <string lang="de">Verkabeln nicht möglich</string>
@@ -462,6 +511,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">配線不可能</string>
         <string lang="ru">Проводка невозможна</string>
         <string lang="es">Cableado imposible</string>
+        <string lang="kr">와이어링이 불가능합니다</string>
     </set>
     <set id="worldmessage-mutation">
         <string lang="de">Mutation</string>
@@ -471,6 +521,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">突然変異</string>
         <string lang="ru">Мутация</string>
         <string lang="es">Mutación</string>
+        <string lang="kr">돌연변이</string>
     </set>
     <set id="worldmessage-cannottogglemoduleduringfiresequence">
         <string lang="de">Umschalten während Feuersequenz nicht erlaubt</string>
@@ -480,6 +531,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">発射シーケンス中に切り替えることはできません</string>
         <string lang="ru">Невозможно переключиться во время стрельбы</string>
         <string lang="es">No se puede cambiar durante la secuencia de disparo</string>
+        <string lang="kr">발사 순서 중에는 전환할 수 없습니다</string>
     </set>
     <set id="worldmessage-cannottogglemodulefromhere">
         <string lang="de">Kann hier nicht umgeschaltet werden</string>
@@ -489,6 +541,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">ここから切り替えることはできません</string>
         <string lang="ru">Невозможно переключиться отсюда</string>
         <string lang="es">No se puede cambiar desde aquí</string>
+        <string lang="kr">여기서 전환할 수 없습니다</string>
     </set>
     <set id="worldmessage-addedstatuseffect">
         <string lang="de">$b$+ $STATUS$$/b$</string>
@@ -498,6 +551,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">$b$+ $STATUS$$/b$</string>
         <string lang="ru">$b$+ $STATUS$$/b$</string>
         <string lang="es">$b$+ $STATUS$$/b$</string>
+        <string lang="kr">$b$+ $STATUS$$/b$</string>
     </set>
     <set id="worldmessage-losesstatuseffect">
         <string lang="de">$b$- $STATUS$$/b$</string>
@@ -507,6 +561,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">$b$- $STATUS$$/b$</string>
         <string lang="ru">$b$- $STATUS$$/b$</string>
         <string lang="es">$b$- $STATUS$$/b$</string>
+        <string lang="kr">$b$- $STATUS$$/b$</string>
     </set>
     <set id="worldmessage-error-batterychargedischarge">
         <string lang="de">Kann entweder geladen oder entladen werden</string>
@@ -516,6 +571,7 @@ Objetivos deben estar alineados con el personaje en la línea de tiempo.</string
         <string lang="jp">一度に充電または放電できます</string>
         <string lang="ru">Может быть заряжен или разряжен только за раз</string>
         <string lang="es">Solo puede cargarse o descargarse a la vez</string>
+        <string lang="kr">한 번에만 충전 또는 방전할 수 있습니다</string>
     </set>
     <set id="worldmessage-collectorlosesenergy">
         <string lang="de">$energy$
@@ -532,6 +588,8 @@ se dissipe</string>
 рассеивается</string>
         <string lang="es">$energy$
 se disipa</string>
+        <string lang="kr">$energy$
+소멸</string>
     </set>
     <set id="worldmessage-noplasma">
         <string lang="de">Kein $plasma$</string>
@@ -541,6 +599,7 @@ se disipa</string>
         <string lang="jp">$plasma$ がありません</string>
         <string lang="ru">Нет $plasma$</string>
         <string lang="es">No hay $plasma$</string>
+        <string lang="kr">$plasma$가 없습니다</string>
     </set>
     <set id="worldmessage-noenergy">
         <string lang="de">Keine $energy$</string>
@@ -550,6 +609,7 @@ se disipa</string>
         <string lang="jp">$energy$がありません</string>
         <string lang="ru">Нет $energy$</string>
         <string lang="es">No hay $energy$</string>
+        <string lang="kr">$energy$가 없습니다</string>
     </set>
     <set id="worldmessage-module-trashcompactor-notarget">
         <string lang="de">Kein Modul zum opfern</string>
@@ -559,5 +619,6 @@ se disipa</string>
         <string lang="jp">犠牲にするモジュールがありません</string>
         <string lang="ru">Нет модуля для жертвоприношения</string>
         <string lang="es">No hay módulo para sacrificar</string>
+        <string lang="kr">희생할 모듈이 없습니다</string>
     </set>
 </localization>

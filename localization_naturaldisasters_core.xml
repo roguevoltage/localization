@@ -7,6 +7,7 @@
         <string lang="jp">衝撃</string>
         <string lang="ru">Импульс</string>
         <string lang="es">Impulso</string>
+        <string lang="kr">충격</string>
     </set>
     <set id="shortname-naturaldisaster-gravequilibrium">
         <string lang="de">Equilibrium</string>
@@ -16,6 +17,7 @@
         <string lang="jp">均衡</string>
         <string lang="ru">Эквилибриум</string>
         <string lang="es">Equilibrio</string>
+        <string lang="kr">균형</string>
     </set>
     <set id="shortname-naturaldisaster-lightningstrike">
         <string lang="de">Blitz</string>
@@ -25,6 +27,7 @@
         <string lang="jp">雷</string>
         <string lang="ru">Молния</string>
         <string lang="es">Relámpago</string>
+        <string lang="kr">번개</string>
     </set>
     <set id="shortname-naturaldisaster-lightningstrike-cutoff">
         <string lang="de">Sturm</string>
@@ -34,6 +37,7 @@
         <string lang="jp">嵐</string>
         <string lang="ru">Гроза</string>
         <string lang="es">Tormenta</string>
+        <string lang="kr">폭풍</string>
     </set>
     <set id="name-naturaldisaster-gravequilibrium">
         <string lang="de">Grav.-Equilibrium</string>
@@ -43,6 +47,7 @@
         <string lang="jp">重力均衡</string>
         <string lang="ru">Грав. Эквилибриум</string>
         <string lang="es">Equilibrio Grav.</string>
+        <string lang="kr">중력 균형</string>
     </set>
     <set id="name-naturaldisaster-gravimpulse">
         <string lang="de">Grav.-Impuls</string>
@@ -52,6 +57,7 @@
         <string lang="jp">重力衝撃</string>
         <string lang="ru">Грав. Импульс</string>
         <string lang="es">Impulso Grav.</string>
+        <string lang="kr">중력 충격</string>
     </set>
     <set id="name-naturaldisaster-lightningstrike">
         <string lang="de">Blitz</string>
@@ -61,6 +67,7 @@
         <string lang="jp">雷</string>
         <string lang="ru">Молния</string>
         <string lang="es">Relámpago</string>
+        <string lang="kr">번개</string>
     </set>
     <set id="name-naturaldisaster-lightningstrike-cutoff">
         <string lang="de">Sturm</string>
@@ -70,6 +77,7 @@
         <string lang="jp">嵐</string>
         <string lang="ru">Гроза</string>
         <string lang="es">Tormenta</string>
+        <string lang="kr">폭풍</string>
     </set>
     <set id="description-naturaldisaster-gravimpulse">
         <string lang="de">Ein Schwall an $grav+$, der von den Höhlenwänden abprallt.</string>
@@ -79,6 +87,7 @@
         <string lang="jp">洞窟の壁から反響する$grav+$の爆発。</string>
         <string lang="ru">Всплеск $grav+$, отражающийся от стен пещеры.</string>
         <string lang="es">Una ráfaga de $grav+$ que está reverberando en las paredes de la caverna.</string>
+        <string lang="kr">동굴 벽에서 울려퍼지는 $grav+$의 폭발.</string>
     </set>
     <set id="description-naturaldisaster-gravequilibrium">
         <string lang="de">Ein permanenter Sturm, der über die Erde zieht.
@@ -89,6 +98,7 @@ Gleicht lokales Ungleichgewicht an $grav$ aus.</string>
         <string lang="jp">地球の表面を巡回する永久的な嵐。それは、$grav$の局所的な不均衡を調整します。</string>
         <string lang="ru">Постоянный шторм, который кружит поверхность Земли. Он уравнивает местные дисбалансы $grav$.</string>
         <string lang="es">Una tormenta permanente que circula por la superficie de la tierra. Nivela los desequilibrios locales de $grav$.</string>
+        <string lang="kr">지구 표면을 도는 영구적인 폭풍. $grav$의 지역적 불균형을 조절합니다.</string>
     </set>
     <set id="description-naturaldisaster-lightningstrike">
         <string lang="de"></string>
@@ -98,6 +108,7 @@ Gleicht lokales Ungleichgewicht an $grav$ aus.</string>
         <string lang="jp"></string>
         <string lang="ru"></string>
         <string lang="es"></string>
+        <string lang="kr"></string>
     </set>
     <set id="description-naturaldisaster-lightningstrike-cutoff">
         <string lang="de"></string>
@@ -107,5 +118,6 @@ Gleicht lokales Ungleichgewicht an $grav$ aus.</string>
         <string lang="jp"></string>
         <string lang="ru"></string>
         <string lang="es"></string>
+        <string lang="kr"></string>
     </set>
 </localization>

@@ -17,6 +17,7 @@
         <string lang="jp">費用</string>
         <string lang="ru">Расходы</string>
         <string lang="es">Gastos</string>
+        <string lang="kr">비용</string>
     </set>
     <set id="ui-store-revenue">
         <string lang="de">Gewinn</string>
@@ -26,6 +27,7 @@
         <string lang="jp">収益</string>
         <string lang="ru">Доход</string>
         <string lang="es">Ingresos</string>
+        <string lang="kr">수익</string>
     </set>
     <set id="store-module-introduction">
         <string lang="de">Hier steht ein </string>
@@ -35,6 +37,7 @@
         <string lang="jp">あなたは発見しました</string>
         <string lang="ru">Вы обнаруживаете </string>
         <string lang="es">Te encuentras con una </string>
+        <string lang="kr">당신은 발견했습니다</string>
     </set>
     <set id="store-module-heading">
         <string lang="de">Modulautomat</string>
@@ -44,6 +47,7 @@
         <string lang="jp">モジュール自動販売機</string>
         <string lang="ru">Автомат по продаже модулей</string>
         <string lang="es">Máquina expendedora de módulos</string>
+        <string lang="kr">모듈 자판기</string>
     </set>
     <set id="store-deal">
         <string lang="de">DEAL</string>
@@ -53,6 +57,7 @@
         <string lang="jp">取引</string>
         <string lang="ru">СДЕЛКА</string>
         <string lang="es">TRATO</string>
+        <string lang="kr">거래</string>
     </set>
     <set id="store-takemodule">
         <string lang="de">nehmen zum kaufen,
@@ -68,6 +73,8 @@
     БРОСИТЬ ЧТОБЫ ПРОДАТЬ</string>
         <string lang="es">Toma para comprar,
     deja caer para vender</string>
+        <string lang="kr">구매를 위해 가져가고,
+    판매를 위해 내려놓으십시오</string>
     </set>
     <set id="store-clicktodeal">
         <string lang="de">zum handeln
@@ -82,6 +89,7 @@
     ЧТОБЫ СДЕЛАТЬ СДЕЛКУ</string>
         <string lang="es">Presiona el botón
     para tratar</string>
+        <string lang="kr">거래를 위해 버튼을 누르십시오</string>
     </set>
     <set id="store-clicktobuy">
         <string lang="de">zum kaufen
@@ -96,6 +104,8 @@
     ЧТОБЫ КУПИТЬ</string>
         <string lang="es">Presiona el botón
     para comprar</string>
+        <string lang="kr">구매를 위해
+버튼을 누르십시오</string>
     </set>
     <set id="store-clicktosell">
         <string lang="de">zum verkaufen
@@ -110,6 +120,8 @@
     ЧТОБЫ ПРОДАТЬ</string>
         <string lang="es">Presiona el botón
     para vender</string>
+        <string lang="kr">판매를 위해
+버튼을 누르십시오</string>
     </set>
     <set id="store-noplasma">
         <string lang="de">nicht genug plasma</string>
@@ -119,6 +131,7 @@
         <string lang="jp">プラズマが足りない</string>
         <string lang="ru">НЕДОСТАТОЧНО ПЛАЗМЫ</string>
         <string lang="es">no hay suficiente plasma</string>
+        <string lang="kr">플라스마가 충분하지 않습니다</string>
     </set>
     <set id="happening-gameover-heading">
         <string lang="de">Game Over</string>
@@ -128,5 +141,6 @@
         <string lang="jp">ゲームオーバー</string>
         <string lang="ru">ИГРА ОКОНЧЕНА</string>
         <string lang="es">Juego terminado</string>
+        <string lang="kr">게임 오버</string>
     </set>
 </localization>

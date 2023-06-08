@@ -69,10 +69,15 @@
         <string lang="en">Bogmarsh Maggot</string>
         <string lang="fr">Ver</string>        
     </set>
-    <set id="name-enemy-firegnat">
-        <string lang="de">Feuergnitze</string>
-        <string lang="en">Fire Gnat</string>
-        <string lang="fr">Moucheron Feu</string>
+    <set id="name-enemy-chronocatnegative">
+        <string lang="de">Chronokatze $grav-icon$</string>
+        <string lang="en">Chronocat $grav-icon$</string>
+        <string lang="fr">Chronochat $grav-icon$</string>
+        <string lang="zh">时光猫 $grav-icon$</string>
+        <string lang="jp">クロノキャット $grav-icon$</string>
+        <string lang="ru">Хронокот $grav-icon$</string>
+        <string lang="es">Cronogato $grav-icon$</string>
+        <string lang="kr">시간 고양이 $grav-icon$</string>
     </set>
     <set id="name-enemy-dynosaur">
         <string lang="de">Dynosaurus</string>
@@ -108,6 +113,11 @@
         <string lang="de">Trümmer-Detektor</string>
         <string lang="en">Fracture Detector</string>
         <string lang="fr">Détecteur de Fracture</string>
+    </set>
+    <set id="name-enemy-firegnat">
+        <string lang="de">Feuergnitze</string>
+        <string lang="en">Fire Gnat</string>
+        <string lang="fr">Moucheron Feu</string>
     </set>
     <set id="name-enemy-geothermaldrone">
         <string lang="de">Geothermale Drone</string>
@@ -163,6 +173,16 @@
         <string lang="de">Phönix</string>
         <string lang="en">Phoenix</string>
         <string lang="fr">Phénix</string>
+    </set>
+    <set id="name-enemy-plasmaward">
+        <string lang="de">Plasma-Pylon</string>
+        <string lang="en">Plasma Pylon</string>
+        <string lang="fr">Pylône Plasma</string>
+        <string lang="zh">等离子塔</string>
+        <string lang="jp">プラズマパイロン</string>
+        <string lang="ru">Плазма пилоны</string>
+        <string lang="es">Pilón de Plasma</string>
+        <string lang="kr">플라즈마 피라미드</string>
     </set>
     <set id="name-enemy-sneaky">
         <string lang="de">Fox II</string>
@@ -304,6 +324,16 @@
         <string lang="en">Fracture D.</string>
         <string lang="fr">D. Fracture</string>
     </set>
+    <set id="shortname-enemy-firegnat">
+        <string lang="de">Gnitze</string>
+        <string lang="en">Gnat</string>
+        <string lang="fr">Moucheron</string>
+        <string lang="zh">巨蚊</string>
+        <string lang="jp">蚋</string>
+        <string lang="ru">Комар</string>
+        <string lang="es">Mosca</string>
+        <string lang="kr">날벌레</string>
+    </set>
     <set id="shortname-enemy-goblinbomb">
         <string lang="de">Goblin</string>
         <string lang="en">Goblin</string>
@@ -378,6 +408,16 @@
         <string lang="de">Pterodaktylus</string>
         <string lang="en">Pterodactyl</string>
         <string lang="fr">Pterodactyle</string>
+    </set>
+    <set id="shortname-enemy-plasmaward">
+        <string lang="de">Pylon</string>
+        <string lang="en">Pylon</string>
+        <string lang="fr">Pylône</string>
+        <string lang="zh">等离子塔</string>
+        <string lang="jp">鉄塔</string>
+        <string lang="ru">Пилон</string>
+        <string lang="es">Pilón</string>
+        <string lang="kr">파이론</string>
     </set>
     <set id="description-boss-bear">
         <string lang="de"></string>

@@ -307,6 +307,7 @@ estantes de jugadores</string>
         <string lang="jp">キャンセル</string>
         <string lang="ru">Отмена</string>
         <string lang="es">Cancelar</string>
+        <string lang="kr">취소</string>
     </set>
     <set id="ui-error">
         <string lang="de">FEHLER</string>
@@ -316,6 +317,7 @@ estantes de jugadores</string>
         <string lang="jp">エラー</string>
         <string lang="ru">ОШИБКА</string>
         <string lang="es">ERROR</string>
+        <string lang="kr">오류</string>
     </set>
     <set id="ui-startnewrun">
         <string lang="de">Neuen Run
@@ -330,6 +332,7 @@ Nouvelle Partie</string>
 новую игру</string>
         <string lang="es">Jugar otra
 partida</string>
+        <string lang="kr">새로운 런 시작하기</string>
     </set>
     <set id="ui-backtomenu">
         <string lang="de">Zurück zum 
@@ -344,6 +347,7 @@ Menu</string>
 меню</string>
         <string lang="es">Volver al
 menú</string>
+        <string lang="kr">메뉴로 돌아가기</string>
     </set>
     <set id="ui-leave">
         <string lang="de">Verlassen</string>
@@ -353,6 +357,7 @@ menú</string>
         <string lang="jp">離れる</string>
         <string lang="ru">Выйти</string>
         <string lang="es">Salir</string>
+        <string lang="kr">나가기</string>
     </set>
     <set id="ui-new">
         <string lang="de">NEU</string>
@@ -362,6 +367,7 @@ menú</string>
         <string lang="jp">新しい</string>
         <string lang="ru">НОВЫЙ</string>
         <string lang="es">NUEVO</string>
+        <string lang="kr">새로운</string>
     </set>
     <set id="ui-now">
         <string lang="de">jetzt</string>
@@ -372,6 +378,7 @@ nant</string>
         <string lang="jp">今</string>
         <string lang="ru">сейчас</string>
         <string lang="es">ahora</string>
+        <string lang="kr">지금</string>
     </set>
     <set id="ui-plasma">
         <string lang="de">Plasma</string>
@@ -381,6 +388,7 @@ nant</string>
         <string lang="jp">プラズマ</string>
         <string lang="ru">Плазма</string>
         <string lang="es">Plasma</string>
+        <string lang="kr">플라스마</string>
     </set>
     <set id="ui-rack">
         <string lang="de">Rack</string>
@@ -390,6 +398,7 @@ nant</string>
         <string lang="jp">ラック</string>
         <string lang="ru">Стойка</string>
         <string lang="es">Estante</string>
+        <string lang="kr">랙</string>
     </set>
     <set id="ui-readytofire">
         <string lang="de">Bereit zum Handeln</string>
@@ -399,6 +408,7 @@ nant</string>
         <string lang="jp">行動の準備ができている</string>
         <string lang="ru">Готов к действию</string>
         <string lang="es">Listo para la acción</string>
+        <string lang="kr">행동 준비 완료</string>
     </set>
     <set id="ui-skip">
         <string lang="de">Überspringen</string>
@@ -408,6 +418,7 @@ nant</string>
         <string lang="jp">スキップ</string>
         <string lang="ru">Пропустить</string>
         <string lang="es">Saltar</string>
+        <string lang="kr">건너뛰기</string>
     </set>
     <set id="ui-screenselection-story">
         <string lang="de">level</string>
@@ -417,6 +428,7 @@ nant</string>
         <string lang="jp">ステージ</string>
         <string lang="ru">уровень</string>
         <string lang="es">nivel</string>
+        <string lang="kr">스테이지</string>
     </set>  
     <set id="ui-screenselection-module">
         <string lang="de">module</string>
@@ -426,6 +438,7 @@ nant</string>
         <string lang="jp">モジュール</string>
         <string lang="ru">модуль</string>
         <string lang="es">módulo</string>
+        <string lang="kr">모듈</string>
     </set>
     <set id="ui-loot">
         <string lang="de">Loot</string>
@@ -435,6 +448,7 @@ nant</string>
         <string lang="jp">分捕り品</string>
         <string lang="ru">Добыча</string>
         <string lang="es">Botín</string>
+        <string lang="kr">전리품</string>
     </set>
     <set id="ui-loot-skip">
         <string lang="de">Über-
@@ -451,6 +465,8 @@ springen
         <string lang="ru">Пропустить
 (+$SKIPBONUS$ $plasmaicon$)</string>
         <string lang="es">Saltar
+(+$SKIPBONUS$ $plasmaicon$)</string>
+        <string lang="kr">건너뛰기
 (+$SKIPBONUS$ $plasmaicon$)</string>
     </set>
     <set id="ui-loot-reroll">
@@ -469,6 +485,8 @@ Auswürfeln
 (-$REROLLCOST$ $plasmaicon$)</string>
         <string lang="es">Volver a tirar
 (-$REROLLCOST$ $plasmaicon$)</string>
+        <string lang="kr">다시 굴리기
+(-$REROLLCOST$ $plasmaicon$)</string>
     </set>
     <set id="ui-loot-continue">
         <string lang="de">Weiter</string>
@@ -478,6 +496,7 @@ Auswürfeln
         <string lang="jp">続行</string>
         <string lang="ru">Продолжить</string>
         <string lang="es">Continuar</string>
+        <string lang="kr">계속</string>
     </set>
     <set id="ui-loot-continue-timed">
         <string lang="de">Weiter ($TIMER$)</string>
@@ -487,6 +506,7 @@ Auswürfeln
         <string lang="jp">続行 ($TIMER$)</string>
         <string lang="ru">Продолжить ($TIMER$)</string>
         <string lang="es">Continuar ($TIMER$)</string>
+        <string lang="kr">계속 ($TIMER$)</string>
     </set>
     <set id="ui-skill">
         <string lang="de">Fähigkeit</string>
@@ -496,6 +516,7 @@ Auswürfeln
         <string lang="jp">スキル</string>
         <string lang="ru">Навык</string>
         <string lang="es">Habilidad</string>
+        <string lang="kr">스킬</string>
     </set>
     <set id="ui-timeline">
         <string lang="de">Zeitleiste</string>
@@ -505,6 +526,7 @@ Auswürfeln
         <string lang="jp">タイムライン</string>
         <string lang="ru">Шкала времени</string>
         <string lang="es">Línea de tiempo</string>
+        <string lang="kr">타임라인</string>
     </set>
     <set id="ui-timeline-order-0">
         <string lang="de">0.</string>
@@ -514,6 +536,7 @@ Auswürfeln
         <string lang="jp">0番目</string>
         <string lang="ru">0-й</string>
         <string lang="es">0º</string>
+        <string lang="kr">0번째</string>
     </set>
     <set id="ui-timeline-order-1">
         <string lang="de">1.</string>
@@ -523,6 +546,7 @@ Auswürfeln
         <string lang="jp">1位</string>
         <string lang="ru">1-й</string>
         <string lang="es">1º</string>
+        <string lang="kr">1번째</string>
     </set>
     <set id="ui-timeline-order-2">
         <string lang="de">2.</string>
@@ -532,6 +556,7 @@ Auswürfeln
         <string lang="jp">2位</string>
         <string lang="ru">2-й</string>
         <string lang="es">2º</string>
+        <string lang="kr">2번째</string>
     </set>
     <set id="ui-timeline-order-3">
         <string lang="de">3.</string>
@@ -541,6 +566,7 @@ Auswürfeln
         <string lang="jp">3位</string>
         <string lang="ru">3-й</string>
         <string lang="es">3º</string>
+        <string lang="kr">3번째</string>
     </set>
     <set id="ui-timeline-order-4">
         <string lang="de">4.</string>
@@ -550,6 +576,7 @@ Auswürfeln
         <string lang="jp">4位</string>
         <string lang="ru">4-й</string>
         <string lang="es">4º</string>
+        <string lang="kr">4번째</string>
     </set>
     <set id="ui-timeline-order-5">
         <string lang="de">5.</string>
@@ -559,6 +586,7 @@ Auswürfeln
         <string lang="jp">5位</string>
         <string lang="ru">5-й</string>
         <string lang="es">5º</string>
+        <string lang="kr">5번째</string>
     </set>
     <set id="ui-timeline-order-6">
         <string lang="de">6.</string>
@@ -568,6 +596,7 @@ Auswürfeln
         <string lang="jp">6位</string>
         <string lang="ru">6-й</string>
         <string lang="es">6º</string>
+        <string lang="kr">6번째</string>
     </set>
     <set id="ui-timeline-order-7">
         <string lang="de">7.</string>
@@ -577,6 +606,7 @@ Auswürfeln
         <string lang="jp">7位</string>
         <string lang="ru">7-й</string>
         <string lang="es">7º</string>
+        <string lang="kr">7번째</string>
     </set>
     <set id="ui-timeline-order-8">
         <string lang="de">8.</string>
@@ -586,6 +616,7 @@ Auswürfeln
         <string lang="jp">8位</string>
         <string lang="ru">8-й</string>
         <string lang="es">8º</string>
+        <string lang="kr">8번째</string>
     </set>
     <set id="ui-timeline-order-9">
         <string lang="de">9.</string>
@@ -595,6 +626,7 @@ Auswürfeln
         <string lang="jp">9位</string>
         <string lang="ru">9-й</string>
         <string lang="es">9º</string>
+        <string lang="kr">9번째</string>
     </set>
     <set id="ui-unconscious">
         <string lang="de">Bewusstlos</string>
@@ -604,6 +636,7 @@ Auswürfeln
         <string lang="jp">意識不明</string>
         <string lang="ru">Без сознания</string>
         <string lang="es">Inconsciente</string>
+        <string lang="kr">의식불명</string>
     </set>
     <set id="ui-heal1">
         <string lang="de">Heilung 1</string>
@@ -613,6 +646,7 @@ Auswürfeln
         <string lang="jp">回復1</string>
         <string lang="ru">Лечение 1</string>
         <string lang="es">Curar 1</string>
+        <string lang="kr">치유1</string>
     </set>
     <set id="ui-fullheal">
         <string lang="de">Vollständig Heilen</string>
@@ -622,6 +656,7 @@ Auswürfeln
         <string lang="jp">完全回復</string>
         <string lang="ru">Полное лечение</string>
         <string lang="es">Curación completa</string>
+        <string lang="kr">완전치유</string>
     </set>
     <set id="ui-revive">
         <string lang="de">Wiederbeleben</string>
@@ -631,6 +666,7 @@ Auswürfeln
         <string lang="jp">蘇生</string>
         <string lang="ru">Воскрешение</string>
         <string lang="es">Resucitar</string>
+        <string lang="kr">부활</string>
     </set>
     <set id="ui-automaticlocalization">
         <string lang="de">Diese Lokalisierung wurde automatisch erzeugt.
@@ -647,6 +683,8 @@ Si vous souhaitez contribuer, rejoignez notre serveur Discord:</string>
 Если вы хотите внести свой вклад, присоединяйтесь к нашему серверу Discord:</string>
         <string lang="es">Esta localización ha sido generada automáticamente.
 Si quieres contribuir, únete a nuestro servidor de Discord:</string>
+        <string lang="kr">이 지역화는 자동으로 생성되었습니다.
+기여하려면 Discord 서버에 참여하십시오:</string>
     </set>
     <set id="ui-credits-gameby">
         <string lang="de">Ein Spiel von $b$Horizont Computergrafik$/b$</string>
@@ -656,6 +694,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">$b$Horizont Computergrafik$/b$製作</string>
         <string lang="ru">Игра от $b$Horizont Computergrafik$/b$</string>
         <string lang="es">Un juego de $b$Horizont Computergrafik$/b$</string>
+        <string lang="kr">$b$Horizont Computergrafik$/b$의 게임</string>
     </set>
     <set id="ui-settings-music">
         <string lang="de">Musik</string>
@@ -665,6 +704,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">音楽</string>
         <string lang="ru">Музыка</string>
         <string lang="es">Música</string>
+        <string lang="kr">음악</string>
     </set>
     <set id="ui-settings-effects">
         <string lang="de">Effekte</string>
@@ -674,6 +714,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">効果音</string>
         <string lang="ru">Эффекты</string>
         <string lang="es">Efectos</string>
+        <string lang="kr">효과음</string>
     </set>
     <set id="ui-settings-ambience">
         <string lang="de">Umgebung</string>
@@ -683,6 +724,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">環境音</string>
         <string lang="ru">Окружение</string>
         <string lang="es">Ambiente</string>
+        <string lang="kr">환경음</string>
     </set>
     <set id="ui-settings-fullscreen">
         <string lang="de">Vollbild</string>
@@ -692,6 +734,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">フルスクリーン</string>
         <string lang="ru">Полный экран</string>
         <string lang="es">Pantalla completa</string>
+        <string lang="kr">전체 화면</string>
     </set>
     <set id="ui-settings-autofiremodules">
         <string lang="de">Automatisches Feuern auf ein Einzelziel</string>
@@ -701,6 +744,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">モジュールの自動ターゲット選択</string>
         <string lang="ru">Автоматическая стрельба по одной цели</string>
         <string lang="es">Disparo automático a un solo objetivo</string>
+        <string lang="kr">단일 대상에 대한 자동 발사</string>
     </set>
     <set id="ui-settings-datacollection">
         <string lang="de">Statistiken Bereitstellen</string>
@@ -710,6 +754,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">統計データを提供</string>
         <string lang="ru">Предоставить статистику</string>
         <string lang="es">Proporcionar estadísticas</string>
+        <string lang="kr">통계 제공</string>
     </set>
     <set id="ui-settings-datacollection-description">
         <string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit zu informieren.</string>
@@ -719,6 +764,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
         <string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти данные будут использоваться только для информирования вопросов балансировки игры и сложности.</string>
         <string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida. Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad del juego.</string>
+        <string lang="kr">익명의 게임 통계를 전송하여 개발을 지원하십시오. 이 데이터는 게임 균형과 난이도에 대한 질문에 대한 정보를 제공하는 데만 사용됩니다.</string>
     </set>
     <set id="ui-settings-cleardata">
         <string lang="de">Fortschritt zurücksetzen</string>
@@ -728,6 +774,7 @@ Si quieres contribuir, únete a nuestro servidor de Discord:</string>
         <string lang="jp">すべての進捗をクリア</string>
         <string lang="ru">Очистить весь прогресс</string>
         <string lang="es">Borrar todo el progreso</string>
+        <string lang="kr">모든 진행 상황 지우기</string>
     </set>
     <set id="ui-settings-cleardata-description">
         <string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig.
@@ -744,6 +791,8 @@ Attention: les données ne peuvent pas être récupérées.</string>
 Осторожно: данные не могут быть восстановлены.</string>
         <string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias.
 Cuidado: los datos no se pueden recuperar.</string>
+        <string lang="kr">저장된 게임, 진행 상황 및 기본 설정을 영구적으로 제거합니다.
+주의: 데이터를 검색할 수 없습니다.</string>
     </set>
     <set id="ui-settings-cleardata-clear">
         <string lang="de">Permanent
@@ -757,6 +806,8 @@ Clear</string>
 Очистить</string>
         <string lang="es">Eliminar
 permanentemente</string>
+        <string lang="kr">영구적으로
+지우기</string>
     </set>
     <set id="ui-settings-saveandexit">
         <string lang="de">Speichern &amp; Run Beenden</string>
@@ -766,6 +817,7 @@ permanentemente</string>
         <string lang="jp">保存してRunを終了</string>
         <string lang="ru">Сохранить и выйти из прохождения</string>
         <string lang="es">Guardar y salir de la partida</string>
+        <string lang="kr">저장하고 Run 종료</string>
     </set>
     <set id="ui-settings-abandonrun">
         <string lang="de">Run Abbrechen</string>
@@ -775,6 +827,7 @@ permanentemente</string>
         <string lang="jp">Runを中止</string>
         <string lang="ru">Покинуть прохождение</string>
         <string lang="es">Abandonar la partida</string>
+        <string lang="kr">Run 포기</string>
     </set>
     <set id="ui-loot-hint-single">
         <string lang="de">Ziehe das Loot-Modul in dein Rack</string>
@@ -784,6 +837,7 @@ permanentemente</string>
         <string lang="jp">戦利品モジュールをラックにドラッグ</string>
         <string lang="ru">Перетащите модуль добычи в свой стеллаж</string>
         <string lang="es">Arrastra el módulo de botín a tu rack</string>
+        <string lang="kr">전리품 모듈을 랙에 드래그</string>
     </set>
     <set id="ui-loot-hint-multiple">
         <string lang="de">Ziehe das Modul deiner Wahl in dein Rack</string>
@@ -793,6 +847,7 @@ permanentemente</string>
         <string lang="jp">選択したモジュールをラックにドラッグ</string>
         <string lang="ru">Перетащите выбранный вами модуль в свой стеллаж</string>
         <string lang="es">Arrastra el módulo que prefieras a tu rack</string>
+        <string lang="kr">선택한 모듈을 랙에 드래그</string>
     </set>
     <set id="ui-loot-selection-finished">
         <string lang="de">Belohnung aufgesammelt</string>
@@ -802,6 +857,7 @@ permanentemente</string>
         <string lang="jp">報酬を収集しました</string>
         <string lang="ru">Награда собрана</string>
         <string lang="es">Recompensa recogida</string>
+        <string lang="kr">보상 획득</string>
     </set>
     <set id="ui-unlockprogression">
         <string lang="de">Fortschritt</string>
@@ -811,6 +867,7 @@ permanentemente</string>
         <string lang="jp">進捗状況</string>
         <string lang="ru">Прогресс</string>
         <string lang="es">Progresión</string>
+        <string lang="kr">진행 상황</string>
     </set>
     <set id="selectionscreen-subtitle">
         <string lang="de">Wähle ein Team aus
@@ -825,6 +882,7 @@ deux héros</string>
 двух персонажей</string>
         <string lang="es">Selecciona un equipo de
 dos personajes</string>
+        <string lang="kr">두 캐릭터로 팀 선택</string>
     </set>
     <set id="selectionscreen-button">
         <string lang="de">Beginnt euer 
@@ -839,6 +897,7 @@ votre aventure!</string>
 приключение!</string>
         <string lang="es">¡Empieza la
 aventura!</string>
+        <string lang="kr">모험 시작!</string>
     </set>
     <set id="toggled-module">
         <string lang="de">Wird während der Feuersequenz aktiviert, 
@@ -854,6 +913,8 @@ si activé</string>
 если включен</string>
         <string lang="es">Se activará durante la secuencia de disparo,
 si está activado</string>
+        <string lang="kr">총격 순서 중에 활성화됩니다.
+토글이 켜져 있으면</string>
     </set>
     <set id="quitscreen-header">
         <string lang="de">Danke fürs Spielen</string>
@@ -863,6 +924,7 @@ si está activado</string>
         <string lang="jp">遊んでくれてありがとう</string>
         <string lang="ru">Спасибо за игру</string>
         <string lang="es">Gracias por jugar</string>
+        <string lang="kr">플레이해 주셔서 감사합니다</string>
     </set>
     <set id="quitscreen-description">
         <string lang="de">Wenn dir die Demo gefallen hat, trete gerne dem $b$Discord$/b$ bei oder setze Rogue Voltage auf deine $b$Wunschliste$/b$, um auf unserem Weg zum Early Access auf dem Laufenden zu bleiben.</string>
@@ -872,6 +934,7 @@ si está activado</string>
         <string lang="jp">このデモをお楽しみいただけましたら、$b$Discordに参加$/b$するか、$b$Rogue Voltageをウィッシュリストに登録$/b$して、アーリーアクセスへの道のりでの開発の進捗状況についてお知らせください。</string>
         <string lang="ru">Если вам понравилась демо-версия, пожалуйста, подумайте о $b$присоединении к Discord$/b$ или $b$добавлении Rogue Voltage в список желаемого$/b$, чтобы быть в курсе развития проекта на пути к раннему доступу.</string>
         <string lang="es">Si te ha gustado la demo, por favor considera $b$unirte a Discord$/b$ o $b$añadir Rogue Voltage a tu lista de deseos$/b$ para mantenerte informado sobre el progreso del desarrollo en nuestro camino hacia el Early Access.</string>
+        <string lang="kr">데모를 즐겼다면, $b$Discord에 가입$/b$하거나 $b$Rogue Voltage를 위시리스트에 추가$/b$하여 얼리 액세스로의 진행 상황을 알려주세요.</string>
     </set>
     <set id="quitscreen-developer">
         <string lang="de">$b$Luca$/b$
@@ -888,6 +951,8 @@ Développeur</string>
 Разработчик</string>
         <string lang="es">$b$Luca$/b$
 Desarrollador</string>
+        <string lang="kr">$b$Luca$/b$
+개발자</string>
     </set>
     <set id="quitscreen-quittowishlist">
         <string lang="de">BEENDET UND ZUR WUNSCHLISTE</string>
@@ -897,6 +962,7 @@ Desarrollador</string>
         <string lang="jp">終了してウィッシュリストに移動</string>
         <string lang="ru">ВЫХОД В СПИСОК ПОЖЕЛАНИЙ</string>
         <string lang="es">SALIR A LA LISTA DE DESEOS</string>
+        <string lang="kr">위시리스트로 나가기</string>
     </set>
     <set id="quitscreen-quittodiscord">
         <string lang="de">BEENDEN UND DISCORD BEITRETEN</string>
@@ -906,6 +972,7 @@ Desarrollador</string>
         <string lang="jp">終了して「DISCORD」へ</string>
         <string lang="ru">ВЫХОД В ДИСКОРД</string>
         <string lang="es">SALIR Y UNIRSE A DISCORD</string>
+        <string lang="kr">디스코드에 가입하고 나가기</string>
     </set>
     <set id="quitscreen-justquit">
         <string lang="de">BEENDEN</string>
@@ -915,5 +982,6 @@ Desarrollador</string>
         <string lang="jp">終了</string>
         <string lang="ru">ВЫХОД</string>
         <string lang="es">SALIR</string>
+        <string lang="kr">나가기</string>
     </set>
 </localization>

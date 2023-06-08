@@ -7,6 +7,7 @@
         <string lang="jp">アクト</string>
         <string lang="ru">Часть</string>
         <string lang="es">Parte</string>
+        <string lang="kr">부분</string>
     </set>
     <set id="act-1">
         <string lang="de">Teil I:</string>
@@ -16,6 +17,7 @@
         <string lang="jp">アクト1</string>
         <string lang="ru">Часть I:</string>
         <string lang="es">Parte I:</string>
+        <string lang="kr">부분 I:</string>
     </set>
     <set id="name-act-1">
         <string lang="de">Quer durch die 
@@ -29,6 +31,7 @@ le Perimètre</string>
         <string lang="ru">Через Периметр</string>
         <string lang="es">Atravesando el
 Perímetro</string>
+        <string lang="kr">주변을 통과</string>
     </set>
     <set id="prologue-1">
         <string lang="de">Es ist das Jahr 3000 und nochwas.</string>
@@ -38,6 +41,7 @@ Perímetro</string>
         <string lang="jp">西暦3000年とか。</string>
         <string lang="ru">Год 3000 и что-то.</string>
         <string lang="es">El año es 3000 y algo.</string>
+        <string lang="kr">이것은 3000년이고 무언가입니다.</string>
     </set>
     <set id="prologue-2">
         <string lang="de">Die Welt ....</string>
@@ -47,6 +51,7 @@ Perímetro</string>
         <string lang="jp">この世界……</string>
         <string lang="ru">Мир ....</string>
         <string lang="es">El mundo ...</string>
+        <string lang="kr">세계 ....</string>
     </set>
     <set id="prologue-2b">
         <string lang="de">nunja ....</string>
@@ -56,6 +61,7 @@ Perímetro</string>
         <string lang="jp">うーん……</string>
         <string lang="ru">ну ...</string>
         <string lang="es">bueno ...</string>
+        <string lang="kr">음 ...</string>
     </set>
     <set id="prologue-3">
         <string lang="de">sie wurde leider
@@ -64,11 +70,14 @@ ziemlich zerstört.</string>
 pretty much destroyed.</string>
         <string lang="fr">elle malheureusement a été détruite.</string>
         <string lang="zh">可以说基本上是被摧毁了。</string>
-        <string lang="jp">それは基本的に破壊されたとしましょう。</string>
+        <string lang="jp">それは基本的に破壊
+されたとしましょう。</string>
         <string lang="ru">давайте скажем, он был
 типа разрушен.</string>
         <string lang="es">digamos que ha sido
 bastante destruido.</string>
+        <string lang="kr">그것은 기본적으로
+파괴되었다고 말합시다.</string>
     </set>
     <set id="prologue-4">
         <string lang="de">Die wenigen Überlebenden der $b$Gravistrophe$/b$ leben in verstreuten Wohnlagern von gravitonischen Energiespitzen.</string>
@@ -86,6 +95,8 @@ vivent dans des campement de crêtes d'énergie gravitonique.</string>
         <string lang="es">Los pocos sobrevivientes de la $b$gravistrofe$/b$
 viven en campamentos dispersos
 de picos de energía gravitónica.</string>
+        <string lang="kr">$b$중력 재앙$/b$의
+소수 생존자들은 중력 에너지 스파이크에서 흩어져있는 캠프에서 살고 있습니다.</string>
     </set>
     <set id="cycle1-description">
         <string lang="de">Kapitel I:</string>
@@ -95,6 +106,7 @@ de picos de energía gravitónica.</string>
         <string lang="jp">チャプター1</string>
         <string lang="ru">Глава I:</string>
         <string lang="es">Capítulo I:</string>
+        <string lang="kr">1장:</string>
     </set>
     <set id="cycle1-title">
         <string lang="de">Blackout</string>
@@ -104,6 +116,7 @@ de picos de energía gravitónica.</string>
         <string lang="jp">ブラックアウト</string>
         <string lang="ru">Отключение</string>
         <string lang="es">Apagón</string>
+        <string lang="kr">정전</string>
     </set>
     <set id="cycle1-story">
         <string lang="de">Es ist Getreidefest. 
@@ -126,6 +139,9 @@ Quelqu'un devrait aller $b$chercher du plasma$/b$ et étudier ce qui a causé la
         <string lang="es">Es el festival del grano.
 Nana Slopper estaba a punto de poner un pavo gravioactivo en el horno cuando el medidor de plasma llegó a cero.
 Alguien debería ir e investigar qué causó el alboroto esta vez.</string>
+        <string lang="kr">그것은 곡물 축제입니다.
+슬로퍼 할머니는 플라즈마 미터가 0이 될 때 중력 활성 터키를 오븐에 넣을 예정이었습니다.
+누군가가 이번에 무슨 소란을 일으켰는지 조사해야합니다.</string>
     </set>
     <set id="cycle1-requirements">
         <string lang="de">Schließe deinen ersten Run ab</string>
@@ -135,5 +151,6 @@ Alguien debería ir e investigar qué causó el alboroto esta vez.</string>
         <string lang="jp">初めてのランを完了する</string>
         <string lang="ru">Завершите свой первый запуск</string>
         <string lang="es">Completa tu primera carrera</string>
+        <string lang="kr">첫 번째 런을 완료하십시오.</string>
     </set>
 </localization>
