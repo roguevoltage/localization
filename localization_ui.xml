@@ -7,6 +7,7 @@
         <string lang="jp">ローカライズエラー</string>
         <string lang="ru">Ошибка локализации</string>
         <string lang="es">Error de localización</string>
+        <string lang="kr">로컬라이제이션 오류</string>
     </set>
     <set id="(">
         <string lang="de">(</string>
@@ -16,6 +17,7 @@
         <string lang="jp">（</string>
         <string lang="ru">(</string>
         <string lang="es">(</string>
+        <string lang="kr">(</string>
     </set>
     <set id=")">
         <string lang="de">)</string>
@@ -25,6 +27,7 @@
         <string lang="jp">）</string>
         <string lang="ru">)</string>
         <string lang="es">)</string>
+        <string lang="kr">)</string>
     </set>
     <set id="tooltip-removewires">
         <string lang="de">Kabel entfernen</string>
@@ -34,6 +37,7 @@
         <string lang="jp">すべてのワイヤーを取り外します</string>
         <string lang="ru">Удалить все провода</string>
         <string lang="es">Eliminar todos los cables</string>
+        <string lang="kr">모든 전선 제거</string>
     </set>
     <set id="tooltip-skipturn">
         <string lang="de">Zug überspringen</string>
@@ -43,6 +47,7 @@
         <string lang="jp">ターンをスキップします</string>
         <string lang="ru">Пропустить ход</string>
         <string lang="es">Saltar turno</string>
+        <string lang="kr">턴 건너 뛰기</string>
     </set>
     <set id="scope-prototype">
         <string lang="de">Prototyp</string>
@@ -52,6 +57,7 @@
         <string lang="jp">プロトタイプ</string>
         <string lang="ru">Прототип</string>
         <string lang="es">Prototipo</string>
+        <string lang="kr">원형</string>
     </set>
     <set id="scope-demo">
         <string lang="de">Steam Demo</string>
@@ -61,6 +67,7 @@
         <string lang="jp">Steam デモ</string>
         <string lang="ru">Steam Демо</string>
         <string lang="es">Steam Demo</string>
+        <string lang="kr">스팀 데모</string>
     </set>
     <set id="scope-extendeddemo">
         <string lang="de">Erweiterte Demo</string>
@@ -70,6 +77,7 @@
         <string lang="jp">拡張デモ</string>
         <string lang="ru">Расширенное Демо</string>
         <string lang="es">Demo extendida</string>
+        <string lang="kr">확장 데모</string>
     </set>
     <set id="scope-earlyaccess">
         <string lang="de">Early Access Prototype</string>
@@ -79,6 +87,7 @@
         <string lang="jp">Early Access Prototype</string>
         <string lang="ru">Early Access Prototype</string>
         <string lang="es">Early Access Prototype</string>
+        <string lang="kr">Early Access Prototype</string>
     </set>
     <set id="scope-version">
         <string lang="de">v. $VERSION$</string>
@@ -88,6 +97,7 @@
         <string lang="jp">v. $VERSION$</string>
         <string lang="ru">v. $VERSION$</string>
         <string lang="es">v. $VERSION$</string>
+        <string lang="kr">v. $VERSION$</string>
     </set>
     <set id="difficulty">
         <string lang="de">SCHWIERIGKEIT</string>
@@ -97,6 +107,7 @@
         <string lang="jp">難易度</string>
         <string lang="ru">СЛОЖНОСТЬ</string>
         <string lang="es">DIFICULTAD</string>
+        <string lang="kr">난이도</string>
     </set>
     <set id="difficulty-beginner">
         <string lang="de">Anfänger</string>
@@ -106,6 +117,7 @@
         <string lang="jp">初心者</string>
         <string lang="ru">Новичок</string>
         <string lang="es">Principiante</string>
+        <string lang="kr">초보자</string>
     </set>
     <set id="difficulty-normal">
         <string lang="de">Normal</string>
@@ -115,6 +127,7 @@
         <string lang="jp">ノーマル</string>
         <string lang="ru">Нормальный</string>
         <string lang="es">Normal</string>
+        <string lang="kr">일반</string>
     </set>
     <set id="difficulty-hard">
         <string lang="de">Schwer</string>
@@ -124,6 +137,7 @@
         <string lang="jp">ハード</string>
         <string lang="ru">Сложный</string>
         <string lang="es">Difícil</string>
+        <string lang="kr">어려움</string>
     </set>
     <set id="ui-discussion">
         <string lang="de">Komm' ans Lagerfeuer:</string>
@@ -133,6 +147,7 @@
         <string lang="jp">キャンプファイヤーに参加する</string>
         <string lang="ru">Присоединяйтесь к костру:</string>
         <string lang="es">Únete a la hoguera:</string>
+        <string lang="kr">캠프파이어에 참여하세요:</string>
     </set>
     <set id="ui-newgame">
         <string lang="de">Neuer Run</string>
@@ -142,6 +157,7 @@
         <string lang="jp">新しい冒険</string>
         <string lang="ru">Новый Ран</string>
         <string lang="es">Nueva partida</string>
+        <string lang="kr">새로운 모험</string>
     </set>
     <set id="ui-battleground">
         <string lang="de">Battleground</string>
@@ -151,6 +167,7 @@
         <string lang="jp">バトルグラウンド</string>
         <string lang="ru">Боевая площадка</string>
         <string lang="es">Campo de batalla</string>
+        <string lang="kr">전장</string>
     </set>
     <set id="ui-continue">
         <string lang="de">Run Fortsetzen</string>
@@ -160,6 +177,7 @@
         <string lang="jp">冒険を続ける</string>
         <string lang="ru">Продолжить Ран</string>
         <string lang="es">Continuar partida</string>
+        <string lang="kr">모험 계속하기</string>
     </set>
     <set id="ui-credits">
         <string lang="de">Credits</string>
@@ -169,6 +187,7 @@
         <string lang="jp">クレジット</string>
         <string lang="ru">Кредиты</string>
         <string lang="es">Créditos</string>
+        <string lang="kr">제작진</string>
     </set>
     <set id="ui-tutorial">
         <string lang="de">Tutorial</string>
@@ -178,6 +197,7 @@
         <string lang="jp">チュートリアル</string>
         <string lang="ru">Обучение</string>
         <string lang="es">Tutorial</string>
+        <string lang="kr">튜토리얼</string>
     </set>
     <set id="ui-settings">
         <string lang="de">Einstellungen</string>
@@ -187,6 +207,7 @@
         <string lang="jp">設定</string>
         <string lang="ru">Настройки</string>
         <string lang="es">Ajustes</string>
+        <string lang="kr">설정</string>
     </set>
     <set id="ui-quit">
         <string lang="de">Beenden</string>
@@ -196,6 +217,7 @@
         <string lang="jp">終了</string>
         <string lang="ru">Выход</string>
         <string lang="es">Salir</string>
+        <string lang="kr">종료</string>
     </set>
     <set id="ui-green">
         <string lang="de">&lt;color=green&gt;Grün&lt;/color&gt;</string>
@@ -205,6 +227,7 @@
         <string lang="jp">&lt;color=green&gt;緑&lt;/color&gt;</string>
         <string lang="ru">&lt;color=green&gt;Зеленый&lt;/color&gt;</string>
         <string lang="es">&lt;color=green&gt;Verde&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=green&gt;초록색&lt;/color&gt;</string>
     </set>
     <set id="ui-red">
         <string lang="de">&lt;color=#FF5555&gt;Rot&lt;/color&gt;</string>
@@ -214,6 +237,7 @@
         <string lang="jp">&lt;color=#FF5555&gt;赤&lt;/color&gt;</string>
         <string lang="ru">&lt;color=#FF5555&gt;Красный&lt;/color&gt;</string>
         <string lang="es">&lt;color=#FF5555&gt;Rojo&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#FF5555&gt;빨간색&lt;/color&gt;</string>
     </set>
     <set id="ui-blue">
         <string lang="de">&lt;color=#7272FF&gt;Blau&lt;/color&gt;</string>
@@ -223,6 +247,7 @@
         <string lang="jp">&lt;color=#7272FF&gt;青&lt;/color&gt;</string>
         <string lang="ru">&lt;color=#7272FF&gt;Синий&lt;/color&gt;</string>
         <string lang="es">&lt;color=#7272FF&gt;Azul&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#7272FF&gt;파란색&lt;/color&gt;</string>
     </set>
     <set id="ui-universal">
         <string lang="de">&lt;color=#FFFFFF&gt;Universell&lt;/color&gt;</string>
@@ -232,6 +257,7 @@
         <string lang="jp">&lt;color=#FFFFFF&gt;全ての&lt;/color&gt;</string>
         <string lang="ru">&lt;color=#FFFFFF&gt;Универсальный&lt;/color&gt;</string>
         <string lang="es">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#FFFFFF&gt;유니버셜&lt;/color&gt;</string>
     </set>
     <set id="ui-viral">
         <string lang="de">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
@@ -241,6 +267,7 @@
         <string lang="jp">&lt;color=#FF00FF&gt;ウイルス&lt;/color&gt;</string>
         <string lang="ru">&lt;color=#FF00FF&gt;Вирусный&lt;/color&gt;</string>
         <string lang="es">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#FF00FF&gt;바이러스&lt;/color&gt;</string>
     </set>
     <set id="ui-continue-from-camp">
         <string lang="de">Abenteuer Fortsetzen</string>
@@ -253,15 +280,7 @@ la route</string>
 приключение</string>
         <string lang="es">Continuar
 aventura</string>
-    </set>
-    <set id="ui-balance">
-        <string lang="de">Saldo</string>
-        <string lang="en">Balance</string>
-        <string lang="fr">Balance</string>
-        <string lang="zh">平衡</string>
-        <string lang="jp">残高</string>
-        <string lang="ru">Баланс</string>
-        <string lang="es">Balance</string>
+        <string lang="kr">모험 계속하기</string>
     </set>
     <set id="ui-backtoracks">
         <string lang="de">Zurück zu
@@ -277,6 +296,8 @@ racks</string>
 стойкам</string>
         <string lang="es">Volver a
 estantes de jugadores</string>
+        <string lang="kr">플레이어 랙으로
+돌아가기</string>
     </set>
     <set id="ui-cancel">
         <string lang="de">Abbrechen</string>
@@ -295,15 +316,6 @@ estantes de jugadores</string>
         <string lang="jp">エラー</string>
         <string lang="ru">ОШИБКА</string>
         <string lang="es">ERROR</string>
-    </set>
-    <set id="ui-expenses">
-        <string lang="de">Kosten</string>
-        <string lang="en">Expenses</string>
-        <string lang="fr">Dépenses</string>
-        <string lang="zh">支出</string>
-        <string lang="jp">費用</string>
-        <string lang="ru">Расходы</string>
-        <string lang="es">Gastos</string>
     </set>
     <set id="ui-startnewrun">
         <string lang="de">Neuen Run
@@ -360,15 +372,6 @@ nant</string>
         <string lang="jp">今</string>
         <string lang="ru">сейчас</string>
         <string lang="es">ahora</string>
-    </set>
-    <set id="ui-revenue">
-        <string lang="de">Gewinn</string>
-        <string lang="en">Revenue</string>
-        <string lang="fr">Revenu</string>
-        <string lang="zh">收入</string>
-        <string lang="jp">収益</string>
-        <string lang="ru">Доход</string>
-        <string lang="es">Ingresos</string>
     </set>
     <set id="ui-plasma">
         <string lang="de">Plasma</string>
