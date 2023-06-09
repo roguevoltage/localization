@@ -33,7 +33,7 @@
         <string lang="de">Linke Schere</string>
         <string lang="en">Left Claw</string>
         <string lang="fr">Pince Gauche</string>
-        <string lang="zh">左螯</string>
+        <string lang="zh">巨蟹左螯</string>
         <string lang="jp">左の爪</string>
         <string lang="ru">Левая клешня</string>
         <string lang="es">Pinza Izquierda</string>
@@ -43,7 +43,7 @@
         <string lang="de">Rechte Schere</string>
         <string lang="en">Right Claw</string>
         <string lang="fr">Pince Droite</string>
-        <string lang="zh">右螯</string>
+        <string lang="zh">巨蟹右螯</string>
         <string lang="jp">右の爪</string>
         <string lang="ru">Правая клешня</string>
         <string lang="es">Pinza Derecha</string>
@@ -153,7 +153,7 @@
         <string lang="de">Grav.-Pylon</string>
         <string lang="en">Grav. Pylon</string>
         <string lang="fr">Pylône Grav.</string>
-        <string lang="zh">引力塔</string>
+        <string lang="zh">引力塔柱</string>
         <string lang="jp">グラヴパイロン</string>
         <string lang="ru">Грав. пилоны</string>
         <string lang="es">Pilón Grav.</string>
@@ -243,7 +243,7 @@
         <string lang="de">Boss</string>
         <string lang="en">Boss</string>
         <string lang="fr">Boss</string>
-        <string lang="zh">巨蟹</string>
+        <string lang="zh">水晶巨蟹</string>
         <string lang="jp">ボス</string>
         <string lang="ru">Босс</string>
         <string lang="es">Boss</string>
@@ -253,7 +253,7 @@
         <string lang="de">Schere</string>
         <string lang="en">Claw</string>
         <string lang="fr">Pince</string>
-        <string lang="zh">左螯</string>
+        <string lang="zh">巨蟹左螯</string>
         <string lang="jp">爪</string>
         <string lang="ru">Клешня</string>
         <string lang="es">Pinza</string>
@@ -263,7 +263,7 @@
         <string lang="de">Schere</string>
         <string lang="en">Claw</string>
         <string lang="fr">Pince</string>
-        <string lang="zh">右螯</string>
+        <string lang="zh">巨蟹右螯</string>
         <string lang="jp">爪</string>
         <string lang="ru">Клешня</string>
         <string lang="es">Pinza</string>
@@ -303,7 +303,7 @@
         <string lang="de">Ameise</string>
         <string lang="en">Ant</string>
         <string lang="fr">Fourmi</string>
-        <string lang="zh">蚂蚁</string>
+        <string lang="zh">水晶蚂蚁</string>
         <string lang="jp">蟻</string>
         <string lang="ru">Муравей</string>
         <string lang="es">Hormiga</string>
@@ -313,7 +313,7 @@
         <string lang="de">Kristall</string>
         <string lang="en">Crystal</string>
         <string lang="fr">Cristal</string>
-        <string lang="zh">水晶</string>
+        <string lang="zh">共振水晶</string>
         <string lang="jp">結晶</string>
         <string lang="ru">Кристалл</string>
         <string lang="es">Cristal</string>
@@ -323,7 +323,7 @@
         <string lang="de">Gnitze</string>
         <string lang="en">Gnat</string>
         <string lang="fr">Moucheron</string>
-        <string lang="zh">巨蚊</string>
+        <string lang="zh">引力巨蚊</string>
         <string lang="jp">蚋</string>
         <string lang="ru">Комар</string>
         <string lang="es">Mosca</string>
@@ -353,21 +353,21 @@
         <string lang="de">Anemone</string>
         <string lang="en">Anemone</string>
         <string lang="fr">Anémone</string>
-        <string lang="zh">海葵</string>
+        <string lang="zh">引力海葵</string>
         <string lang="jp">海葵</string>
         <string lang="ru">Анемона</string>
         <string lang="es">Anémona</string>
         <string lang="kr">해파리</string>
     </set>
-    <set id="shortname-enemy-gravward">
-        <string lang="de">Pylon</string>
-        <string lang="en">Pylon</string>
-        <string lang="fr">Pylône</string>
-        <string lang="zh">引力塔</string>
-        <string lang="jp">鉄塔</string>
-        <string lang="ru">Пилон</string>
-        <string lang="es">Pilón</string>
-        <string lang="kr">파이론</string>
+    <set id="shortname-enemy-gravcobra">
+        <string lang="de">Kobra</string>
+        <string lang="en">Cobra</string>
+        <string lang="fr">Cobra</string>
+        <string lang="zh">引力眼镜蛇</string>
+        <string lang="jp">コブラ</string>
+        <string lang="ru">Кобра</string>
+        <string lang="es">Cobra</string>
+        <string lang="kr">코브라</string>
     </set>
     <set id="shortname-enemy-gravpolyp">
         <string lang="de">Polyp</string>
@@ -379,35 +379,15 @@
         <string lang="es">Pólipo</string>
         <string lang="kr">폴립</string>
     </set>
-    <set id="shortname-enemy-slime">
-        <string lang="de">Schleim</string>
-        <string lang="en">Ooze</string>
-        <string lang="fr">Mucus</string>
-        <string lang="zh">泥浆怪</string>
-        <string lang="jp">スライム</string>
-        <string lang="ru">Слизь</string>
-        <string lang="es">Baba</string>
-        <string lang="kr">슬라임</string>
-    </set>
-    <set id="shortname-enemy-gravcobra">
-        <string lang="de">Kobra</string>
-        <string lang="en">Cobra</string>
-        <string lang="fr">Cobra</string>
-        <string lang="zh">眼镜蛇</string>
-        <string lang="jp">コブラ</string>
-        <string lang="ru">Кобра</string>
-        <string lang="es">Cobra</string>
-        <string lang="kr">코브라</string>
-    </set>
-    <set id="shortname-enemy-turretbomb">
-        <string lang="de">Werfer</string>
-        <string lang="en">Thrower</string>
-        <string lang="fr">Lanceur</string>
-        <string lang="zh">炸弹投手</string>
-        <string lang="jp">ランチャー</string>
-        <string lang="ru">Бомбомет</string>
-        <string lang="es">Lanzador</string>
-        <string lang="kr">투척병</string>
+    <set id="shortname-enemy-gravward">
+        <string lang="de">Pylon</string>
+        <string lang="en">Pylon</string>
+        <string lang="fr">Pylône</string>
+        <string lang="zh">引力塔柱</string>
+        <string lang="jp">鉄塔</string>
+        <string lang="ru">Пилон</string>
+        <string lang="es">Pilón</string>
+        <string lang="kr">파이론</string>
     </set>
     <set id="shortname-enemy-mushroomblue">
         <string lang="de">Pilz</string>
@@ -443,17 +423,37 @@
         <string lang="de">Protozoon</string>
         <string lang="en">Protozoan</string>
         <string lang="fr">Protozoaire</string>
-        <string lang="zh">原虫</string>
+        <string lang="zh">原生动物</string>
         <string lang="jp">原生動物</string>
         <string lang="ru">Протозоан</string>
         <string lang="es">Protozoo</string>
         <string lang="kr">원생동물</string>
     </set>
+    <set id="shortname-enemy-slime">
+        <string lang="de">Schleim</string>
+        <string lang="en">Ooze</string>
+        <string lang="fr">Mucus</string>
+        <string lang="zh">泥浆怪</string>
+        <string lang="jp">スライム</string>
+        <string lang="ru">Слизь</string>
+        <string lang="es">Baba</string>
+        <string lang="kr">슬라임</string>
+    </set>
+    <set id="shortname-enemy-turretbomb">
+        <string lang="de">Werfer</string>
+        <string lang="en">Thrower</string>
+        <string lang="fr">Lanceur</string>
+        <string lang="zh">炸弹投手</string>
+        <string lang="jp">ランチャー</string>
+        <string lang="ru">Бомбомет</string>
+        <string lang="es">Lanzador</string>
+        <string lang="kr">투척병</string>
+    </set>
     <set id="description-boss-crocodile">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
-        <string lang="zh"></string>
+        <string lang="zh">“下水道里生活着的一只大鳄鱼，它没有引力相关的能力竟然还活了下来，可见其力量的强大。”</string>
         <string lang="jp"></string>
         <string lang="ru"></string>
         <string lang="es"></string>
@@ -473,7 +473,7 @@
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
-        <string lang="zh"></string>
+        <string lang="zh">“一只巨型的水晶蟹，很难想象它是如何长成两个钳子一红一蓝还有不同能力的。他的动作非常敏捷，身体和二肢的配合非常强力，千万小心。”</string>
         <string lang="jp"></string>
         <string lang="ru"></string>
         <string lang="es"></string>
@@ -603,7 +603,7 @@
         <string lang="de">"Ein gefährliches und faszinierendes Wesen. Das Gute ist, an ihrer Haltung kannst du immer sehen, wenn sie sauer auf dich sind. Das Problem ist, sie sind immer sauer."</string>
         <string lang="en">"A dangerous and mesmerizing creature. Best thing is, you can always tell when they’re mad at you by the posture. Trouble is, they’re always mad."</string>
         <string lang="fr"></string>
-        <string lang="zh">“一种危险而迷人的生物。庆幸的是，你可以从它们的姿态看出它们有没有生气；问题是，它们总是生气的。”</string>
+        <string lang="zh">“一种危险而迷人的生物。好消息是你可以从它们的姿态看出它们有没有发怒，但有个问题是，它们几乎总是在发怒。”</string>
         <string lang="jp"></string>
         <string lang="ru"></string>
         <string lang="es"></string>
