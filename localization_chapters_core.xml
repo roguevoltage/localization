@@ -8,6 +8,7 @@
         <string lang="ru">Кристальные пещеры</string>
         <string lang="es">Cavernas de Cristal</string>
         <string lang="kr">크리스탈 동굴</string>
+        <string lang="pt-br">Cavernas de Cristal</string>
     </set>
     <set id="name-chapter-sewers" firstCycle="1" lastCycle="1">
         <string lang="de">Die Kanalisation</string>
@@ -18,6 +19,7 @@
         <string lang="ru">Канализация</string>
         <string lang="es">Las Alcantarillas</string>
         <string lang="kr">하수구</string>
+        <string lang="pt-br">Esgotos</string>
     </set>
     <set id="name-chapter-sewers" firstCycle="2" lastCycle="6">
         <string lang="de">Die Kanalisation</string>
@@ -28,6 +30,7 @@
         <string lang="ru">Канализация</string>
         <string lang="es">Las Alcantarillas</string>
         <string lang="kr">하수구</string>
+        <string lang="pt-br">Esgotos</string>
     </set>
     <set id="story-chapter-sewers" firstCycle="3" lastCycle="6">
         <string lang="de">Um die sichere Zone zu durchqueren, müssen wir gravioaktive Anomalien so gut es geht vermeiden.
@@ -54,6 +57,9 @@ Sostén tu nariz y mantén la calma. Trata de no pensar en lo que está flotando
         <string lang="kr">우리가 퍼리미터를 통과하려면, 중력 이상현상을 피해야 합니다.
 가장 안전한 길? 아래. 아래. 하수구.
 코를 막고, 냉정을 유지하세요. 더러운 물 속에서 당신 주위를 떠다니는 것에 대해 생각하지 마세요.</string>
+        <string lang="pt-br">Se vamos atravessar o Perímetro, precisamos evitar anomalias gravioativas.
+A rota mais segura? Para baixo. Dentro. Dos. Esgotos.
+Segure o nariz e mantenha a calma. Tente não pensar no que está flutuando ao seu redor na lama salobra.</string>
     </set>
     <set id="story-chapter-sewers" firstCycle="1" lastCycle="2">
         <string lang="de">Nach der ersten Grav.-Welle haben viele Überlebende ihr Lager in der Kanalisation aufgeschlagen, bis sie herausfanden, dass auch hier die Zeitverzerrungen wirksam waren.
@@ -79,16 +85,9 @@ Otras se volvieron cremosas como el día en que fueron vertidas.</string>
         <string lang="kr">초기의 중력 파동 이후, 많은 생존자들이 하수구에 야영지를 설치했지만, 시간의 왜곡이 여기에도 영향을 미쳤다는 것을 발견했습니다.
 콘크리트의 일부는 1초에 천 년이 지나가고, 부서지기 쉬워졌습니다.
 다른 것들은 콘크리트가 쏟아진 날과 같이 부드러워졌습니다.</string>
-    </set>
-    <set id="name-chapter-tutorial">
-        <string lang="de">Tutorial</string>
-        <string lang="en">Tutorial</string>
-        <string lang="fr">Tutoriel</string>
-        <string lang="zh">教程</string>
-        <string lang="jp">チュートリアル</string>
-        <string lang="ru">Обучение</string>
-        <string lang="es">Tutorial</string>
-        <string lang="kr">튜토리얼</string>
+        <string lang="pt-br">Depois da onda grav., muitos sobreviventes montaram acampamento nos esgotos, apenas para descobrir que também aqui as distorções temporais haviam surtido efeito.
+Algumas seções de concreto envelheceram mil anos em um segundo, tornaram-se quebradiças e desmoronaram.
+Outras ficaram cremosas como no dia em que foram despejadas.</string>
     </set>
     <set id="story-chapter-caves" firstCycle="1" lastCycle="4">
         <string lang="de">Hast du deine Stiefel? Es geht abwärts.
@@ -130,6 +129,11 @@ Desafortunadamente, y gracias a eso, este entorno proporciona un suministro cons
 불행하게도, 그리고 그것 때문에, 이 환경은 그것을 살아남기 위해 적응한 이상한 생물에게 지속적인 생계 공급을 제공합니다.
 <!-- 여기에서는 물건이 어디에서 왔는지 알아내기가 어렵습니다. 그리고 여기에 살고있는 것을 피할 방법은 없습니다. -->
 </string>
+<string lang="pt-br">Você tem suas botas? Estamos indo para baixo.
+São impulsos de carga grav., que estão refletindo nas paredes da caverna.
+Infelizmente, e graças a isso, este ambiente fornece um suprimento constante de sustento para qualquer criatura estranha que tenha se adaptado a viver dele.
+<!-- Os ecos aqui tornam difícil determinar de onde vêm as coisas. E não há como evitar encontrar o que tem vivido aqui. -->
+</string>
     </set>
     <set id="story-chapter-caves" firstCycle="5" lastCycle="6">
         <string lang="de">Wir haben festgestellt, dass es Impulse aus Grav.-Ladung sind, die von den Höhlenwänden reflektiert werden.
@@ -137,6 +141,17 @@ Dadurch produziert die Umgebung eine kontinuierliche Energiequelle für all die 
         <string lang="en">After some time of observation, we noticed that it's impulses of grav. charge, that are reflecting off the cave walls.
 Unfortunately, and thanks to that, this environment provides a constant supply of sustenance for any strange creature that has adapted to living off of it.</string>
         <string lang="fr">Story n/a</string>
+    </set>
+    <set id="name-chapter-tutorial">
+        <string lang="de">Tutorial</string>
+        <string lang="en">Tutorial</string>
+        <string lang="fr">Tutoriel</string>
+        <string lang="zh">教程</string>
+        <string lang="jp">チュートリアル</string>
+        <string lang="ru">Обучение</string>
+        <string lang="es">Tutorial</string>
+        <string lang="kr">튜토리얼</string>
+        <string lang="pt-br">Tutorial</string>
     </set>
     <set id="story-chapter-tutorial">
         <string lang="de">Unsere Geschichte beginnt an einem Tag wie jeder andere.
@@ -155,5 +170,7 @@ $slopperjohnson$, наш постапокалиптический почталь
 $slopperjohnson$, nuestro transportista de paquetes post-apocalíptico, está buscando $b$módulos$/b$ para llevar de vuelta a su campamento.</string>
         <string lang="kr">우리의 이야기는 어느 날과 같은 날에 시작됩니다.
 우리의 후대적인 소포 운송업자인 $slopperjohnson$은 그의 캠프로 돌아갈 $b$모듈$/b$을 찾고 있습니다.</string>
+        <string lang="pt-br">Nossa história começa em um dia como qualquer outro.
+$slopperjohnson$, nosso transportador de encomendas pós-apocalíptico, está procurando $b$módulos$/b$ para levar de volta ao seu acampamento.</string>
     </set>
 </localization>

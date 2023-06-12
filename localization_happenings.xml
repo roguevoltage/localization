@@ -8,6 +8,7 @@
         <string lang="ru">Зарядная станция</string>
         <string lang="es">Estación de carga</string>
         <string lang="kr">충전소</string>
+        <string lang="pt-br">Estação de carregamento</string>
     </set>
     <set id="happening-chargingstation-heading">
         <string lang="de">Ladesäule</string>
@@ -18,6 +19,7 @@
         <string lang="ru">Зарядная станция</string>
         <string lang="es">Estación de carga</string>
         <string lang="kr">충전소</string>
+        <string lang="pt-br">Estação de carregamento</string>
     </set>
     <set id="happening-chargingstation-introduction">
         <string lang="de">Du stößt auf eine</string>
@@ -28,6 +30,7 @@
         <string lang="ru">Вы обнаружили</string>
         <string lang="es">Descubres una</string>
         <string lang="kr">당신은 발견했습니다</string>
+        <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-chargingstation-description">
         <string lang="de">Akzeptiert ausschließlich $b$Speichermodule$/b$
@@ -46,16 +49,18 @@ $b$ストレージモジュール$/b$を$2$ $energy$で充電します。</strin
 Carga un $b$Módulo de Almacenamiento$/b$ con $2$ $energy$.</string>
         <string lang="kr">$b$저장 모듈$/b$만 허용합니다.
 $b$저장 모듈$/b$을 $2$ $energy$로 충전합니다.</string>
+        <string lang="pt-br">Apenas aceita $b$Módulos de Armazenamento$/b$.
+Carrega um $b$Módulo de Armazenamento$/b$ com $2$ $energy$.</string>
     </set>
     <set id="happening-chargingstation-description2">
         <string lang="de">Sie wurde bereits benutzt, 
-aber jemand muss vergessen haben
-die Speicherzelle mitzunehmen.</string>
+aber jemand muss vergessen haben die Speicherzelle mitzunehmen.</string>
         <string lang="en">It has already been used, 
 but somebody must have forgotten to take the storage cell with them.</string>
         <string lang="fr">Elle a déjà été utilisé, 
 mais il semble que quelqu'un a oublié de prendre la batterie avec lui.</string>
-        <string lang="zh">它已经被使用过，但有人忘记把电池带走了。</string>
+        <string lang="zh">它已经被使用过，
+但有人忘记把电池带走了。</string>
         <string lang="jp">すでに使用されていますが、
 誰かが存储セルを持っていないことを忘れているようです。</string>
         <string lang="ru">Она уже была использована,
@@ -64,6 +69,8 @@ mais il semble que quelqu'un a oublié de prendre la batterie avec lui.</string>
 pero alguien debe haber olvidado llevarse la celda de almacenamiento.</string>
         <string lang="kr">이미 사용되었지만,
 누군가는 저장 셀을 가져 가지 않았을 것입니다.</string>
+        <string lang="pt-br">Já foi usado,
+mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</string>
     </set>
     <set id="happening-chargingstation-error-nomodule">
         <string lang="de">Platziere Speichermodul auf den Sockel</string>
@@ -74,6 +81,7 @@ pero alguien debe haber olvidado llevarse la celda de almacenamiento.</string>
         <string lang="ru">Положите модуль хранения на сокет</string>
         <string lang="es">Coloca el módulo de almacenamiento en el enchufe</string>
         <string lang="kr">저장 모듈을 소켓에 놓으십시오</string>
+        <string lang="pt-br">Coloque o módulo de armazenamento no soquete</string>
     </set>
     <set id="happening-led-ready">
         <string lang="de">BEREIT</string>
@@ -84,6 +92,7 @@ pero alguien debe haber olvidado llevarse la celda de almacenamiento.</string>
         <string lang="ru">ГОТОВО</string>
         <string lang="es">LISTO</string>
         <string lang="kr">준비</string>
+        <string lang="pt-br">PRONTO</string>
     </set>
     <set id="happening-led-takemodule">
         <string lang="de">NIMM
@@ -98,6 +107,10 @@ MODULE</string>
 МОДУЛЬ</string>
         <string lang="es">COGE
 MÓDULO</string>
+        <string lang="kr">모듈을 가져 
+가십시오</string>
+        <string lang="pt-br">PEGUE
+MÓDULO</string>
     </set>
     <set id="happening-led-goodbye">
         <string lang="de">AUF
@@ -111,6 +124,7 @@ REVOIR</string>
 СВИДАНИЯ</string>
         <string lang="es">ADIOS</string>
         <string lang="kr">안녕</string>
+        <string lang="pt-br">ADEUS</string>
     </set>
     <set id="name-happening-healingstation">
         <string lang="de">Heilungs-Station</string>
@@ -121,6 +135,7 @@ REVOIR</string>
         <string lang="ru">Станция лечения</string>
         <string lang="es">Estación de curación</string>
         <string lang="kr">치유 스테이션</string>
+        <string lang="pt-br">Estação de cura</string>
     </set>
     <set id="happening-healingstation-heading">
         <string lang="de">Heilungs-Station</string>
@@ -131,6 +146,7 @@ REVOIR</string>
         <string lang="ru">Станция лечения</string>
         <string lang="es">Estación de curación</string>
         <string lang="kr">치유 스테이션</string>
+        <string lang="pt-br">Estação de cura</string>
     </set>
     <set id="happening-healingstation-introduction">
         <string lang="de">Du stößt auf eine</string>
@@ -141,6 +157,7 @@ REVOIR</string>
         <string lang="ru">Вы обнаруживаете</string>
         <string lang="es">Descubres una</string>
         <string lang="kr">당신은 발견했습니다</string>
+        <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-healingstation-description">
         <string lang="de">Heilt beide Spielercharaktere um $1$</string>
@@ -151,6 +168,7 @@ REVOIR</string>
         <string lang="ru">Лечит обоих персонажей на $1$</string>
         <string lang="es">Cura a ambos personajes en $1$</string>
         <string lang="kr">두 캐릭터 모두 $1$을 치유합니다</string>
+        <string lang="pt-br">Cura ambos os personagens em $1$</string>
     </set>
     <set id="name-happening-modifierupgrader">
         <string lang="de">Durchsatz-Booster</string>
@@ -161,6 +179,7 @@ REVOIR</string>
         <string lang="ru">Усилитель пропускной способности</string>
         <string lang="es">Amplificador de rendimiento</string>
         <string lang="kr">처리량 부스터</string>
+        <string lang="pt-br">Impulsionador de rendimento</string>
     </set>
     <set id="happening-modifierupgrader-heading">
         <string lang="de">Durchsatz-Booster</string>
@@ -171,6 +190,7 @@ REVOIR</string>
         <string lang="ru">Усилитель пропускной способности</string>
         <string lang="es">Potenciador de rendimiento</string>
         <string lang="kr">처리량 부스터</string>
+        <string lang="pt-br">Impulsionador de rendimento</string>
     </set>
     <set id="happening-modifierupgrader-introduction">
         <string lang="de">Du stößt auf einen</string>
@@ -181,6 +201,7 @@ REVOIR</string>
         <string lang="ru">Вы обнаруживаете</string>
         <string lang="es">Descubres un</string>
         <string lang="kr">당신은 발견했습니다</string>
+        <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-modifierupgrader-description">
         <string lang="de">Akzeptiert ausschließlich Module vom Typ $b$Durchsatzmodul$/b$.
@@ -199,6 +220,8 @@ Donne un $boost$ permanent aux modules.</string>
 Da a los módulos un $boost$ permanente.</string>
         <string lang="kr">$b$처리량 모듈$/b$ 타입의 모듈만 허용합니다.
 모듈에 영구적인 $boost$를 부여합니다.</string>
+        <string lang="pt-br">Apenas aceita módulos do tipo $b$Módulo de Atravessar$/b$.
+Dá aos módulos um $boost$ permanente.</string>
     </set>
     <set id="happening-modifierupgrader-description2">
         <string lang="de">Er wurde bereits benutzt, 
@@ -217,6 +240,8 @@ mais quelqu'un a oublié de prendre l'amplificateur avec lui.</string>
 pero alguien debe haber olvidado llevarse el amplificador.</string>
         <string lang="kr">이미 사용되었지만,
 누군가는 증폭기를 가져 가지 않았을 것입니다.</string>
+        <string lang="pt-br">Já foi usado,
+mas alguém deve ter esquecido de levar o amplificador com eles.</string>
     </set>
     <set id="happening-modifierupgrader-error-nomodule">
         <string lang="de">Platziere Modifikator auf den Sockel</string>
@@ -227,6 +252,7 @@ pero alguien debe haber olvidado llevarse el amplificador.</string>
         <string lang="ru">Поместите модификатор в сокет</string>
         <string lang="es">Coloca un modificador en el zócalo</string>
         <string lang="kr">소켓에 변환기를 놓으십시오</string>
+        <string lang="pt-br">Coloque um modificador no soquete</string>
     </set>
     <set id="happening-led-placemodule">
         <string lang="de">PLATZIERE
@@ -242,6 +268,8 @@ MODULE</string>
         <string lang="es">COLOCA
 MÓDULO</string>
         <string lang="kr">모듈을 놓으십시오</string>
+        <string lang="pt-br">COLOQUE
+MÓDULO</string>
     </set>
     <set id="name-happening-moduletransmogrifier">
         <string lang="de">Transmogrifikator</string>
@@ -252,6 +280,7 @@ MÓDULO</string>
         <string lang="ru">Трансмогрификатор</string>
         <string lang="es">Transmogrificador</string>
         <string lang="kr">변환기</string>
+        <string lang="pt-br">Transmogrificador</string>
     </set>
     <set id="happening-moduletransmogrifier-heading">
         <string lang="de">Transmogrifikator</string>
@@ -262,6 +291,7 @@ MÓDULO</string>
         <string lang="ru">Трансмогрификатор</string>
         <string lang="es">Transmogrificador</string>
         <string lang="kr">변환기</string>
+        <string lang="pt-br">Transmogrificador</string>
     </set>
     <set id="happening-moduletransmogrifier-introduction">
         <string lang="de">Du stößt auf einen</string>
@@ -272,6 +302,7 @@ MÓDULO</string>
         <string lang="ru">Вы обнаруживаете</string>
         <string lang="es">Descubres un</string>
         <string lang="kr">당신은 발견합니다</string>
+        <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-moduletransmogrifier-description">
         <string lang="de">Verwandelt ein Modul in ein anderes der gleichen Stufe</string>
@@ -282,8 +313,9 @@ MÓDULO</string>
         <string lang="ru">Превращает модуль в другой модуль того же уровня</string>
         <string lang="es">Convierte un módulo en otro del mismo nivel</string>
         <string lang="kr">모듈을 동일한 레벨의 다른 모듈로 변환합니다</string>
+        <string lang="pt-br">Transforma um módulo em outro do mesmo nível</string>
     </set>
-    <set id="happening-moduletransmogrifier-error-nomodule">
+    <set id="happening-error-nomodule">
         <string lang="de">Platziere Modul auf den Sockel</string>
         <string lang="en">Place Module on the socket</string>
         <string lang="fr">Placez un module sur le socket</string>
@@ -292,6 +324,7 @@ MÓDULO</string>
         <string lang="ru">Поместите модуль в сокет</string>
         <string lang="es">Coloca un módulo en el zócalo</string>
         <string lang="kr">소켓에 모듈을 배치하십시오</string>
+        <string lang="pt-br">Coloque o módulo no soquete</string>
     </set>
     <set id="name-happening-moduleduplicator">
         <string lang="de">Modul-Duplikator</string>
@@ -302,6 +335,7 @@ MÓDULO</string>
         <string lang="ru">Станция дублирования</string>
         <string lang="es">Estación de duplicación</string>
         <string lang="kr">복제 스테이션</string>
+        <string lang="pt-br">Estação de duplicação</string>
     </set>
     <set id="happening-moduleduplicator-heading">
         <string lang="de">Modul-Duplikator</string>
@@ -312,6 +346,7 @@ MÓDULO</string>
         <string lang="ru">Станция дублирования</string>
         <string lang="es">Estación de duplicación</string>
         <string lang="kr">복제 스테이션</string>
+        <string lang="pt-br">Estação de duplicação</string>
     </set>
     <set id="happening-moduleduplicator-introduction">
         <string lang="de">Du stößt auf einen</string>
@@ -322,6 +357,7 @@ MÓDULO</string>
         <string lang="ru">Вы обнаруживаете</string>
         <string lang="es">Descubres una</string>
         <string lang="kr">당신은 발견합니다</string>
+        <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-moduleduplicator-description">
         <string lang="de">Verdoppelt ein Modul deiner Wahl</string>
@@ -332,16 +368,7 @@ MÓDULO</string>
         <string lang="ru">Дублирует модуль по вашему выбору</string>
         <string lang="es">Duplica un módulo de tu elección</string>
         <string lang="kr">당신의 선택에 따라 모듈을 복제합니다</string>
-    </set>
-    <set id="happening-moduleduplicator-error-nomodule">
-        <string lang="de">Platziere ein zu verdoppelndes Modul auf den linken Sockel</string>
-        <string lang="en">Place a module to duplicate on the left socket</string>
-        <string lang="fr">Placez un module à dupliquer sur le socket gauche</string>
-        <string lang="zh">在左插槽上放置要复制的模块</string>
-        <string lang="jp">左のソケットに複製するモジュールを配置します</string>
-        <string lang="ru">Поместите модуль для дублирования в левый сокет</string>
-        <string lang="es">Coloca un módulo para duplicar en el zócalo izquierdo</string>
-        <string lang="kr">왼쪽 소켓에 복제 할 모듈을 배치하십시오</string>
+        <string lang="pt-br">Duplica um módulo de sua escolha</string>
     </set>
     <set id="happening-moduleduplicator-error-twomodules">
         <string lang="de">Platziere ein zu verdoppelndes Modul auf den linken Sockel</string>
@@ -352,6 +379,18 @@ MÓDULO</string>
         <string lang="ru">Поместите один модуль для дублирования в левый сокет</string>
         <string lang="es">Coloca un módulo para duplicar en el zócalo izquierdo</string>
         <string lang="kr">왼쪽 소켓에 복제 할 모듈을 배치하십시오</string>
+        <string lang="pt-br">Coloque um módulo para duplicar no soquete esquerdo</string>
+    </set>
+    <set id="happening-gameover-heading">
+        <string lang="de">Game Over</string>
+        <string lang="en">Game Over</string>
+        <string lang="fr">Game Over</string>
+        <string lang="zh">游戏结束</string>
+        <string lang="jp">ゲームオーバー</string>
+        <string lang="ru">ИГРА ОКОНЧЕНА</string>
+        <string lang="es">Juego terminado</string>
+        <string lang="kr">게임 오버</string>
+        <string lang="pt-br">Fim de jogo</string>
     </set>
     <set id="happening-gameover-text">
         <string lang="de">"Kinder, das wird mir zu gefährlich!
@@ -370,6 +409,8 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
 ¡Transmitan un plano de módulo y los grav.-expulsaré de regreso a tiempo!"</string>
         <string lang="kr">"아이들, 이것은 너무 위험해지고 있습니다!
 모듈 청사진을 전송하고 나는 시간을 거슬러 너를 물리칠 것이다!"</string>
+        <string lang="pt-br">"Pessoal, isso está ficando muito perigoso!
+Transmita um plano de módulo e eu grav.-expulsarei você de volta no tempo!"</string>
     </set>
     <set id="happening-gameover-salvage-header">
         <string lang="de">Ein Modul bergen</string>
@@ -380,6 +421,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Спасти один модуль</string>
         <string lang="es">Recuperar un módulo</string>
         <string lang="kr">모듈 하나를 구조하십시오</string>
+        <string lang="pt-br">Recuperar um módulo</string>
     </set>
     <set id="happening-gameover-salvage-text">
         <string lang="de">Platziere ein Modul im Zeitanker, um es in deinen nächsten Versuch hinüberzuretten.</string>
@@ -390,6 +432,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Поместите модуль во временной якорь, чтобы спасти его на следующую попытку.</string>
         <string lang="es">Coloca un módulo en el ancla temporal para recuperarlo en tu próximo intento.</string>
         <string lang="kr">모듈을 시간 앵커에 배치하여 다음 시도에 구조하십시오.</string>
+        <string lang="pt-br">Coloque um módulo na âncora temporal para salvá-lo para sua próxima tentativa.</string>
     </set>
     <set id="happening-gameover-unusual">
         <string lang="de">Ist etwas unübliches passiert?</string>
@@ -400,6 +443,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Что-то необычное случилось?</string>
         <string lang="es">¿Ocurrió algo inusual?</string>
         <string lang="kr">무언가 이상한 일이 있었습니까?</string>
+        <string lang="pt-br">Aconteceu algo incomum?</string>
     </set>
     <set id="happening-gameover-discord">
         <string lang="de">Lass es mich im Discord-Kanal wissen:</string>
@@ -410,6 +454,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Дай мне знать в Discord:</string>
         <string lang="es">Házmelo saber en Discord:</string>
         <string lang="kr">Discord에서 알려주세요:</string>
+        <string lang="pt-br">Deixe-me saber no Discord:</string>
     </set>
     <set id="happening-endofdemo-introduction">
         <string lang="de">Das ist das</string>
@@ -420,6 +465,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Вы достигли</string>
         <string lang="es">Has llegado al</string>
         <string lang="kr">당신은</string>
+        <string lang="pt-br">Você chegou ao</string>
     </set>
     <set id="happening-endofdemo-heading">
         <string lang="de">Ende der Demo</string>
@@ -430,6 +476,7 @@ Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</st
         <string lang="ru">Конец демо</string>
         <string lang="es">Fin de la demo</string>
         <string lang="kr">데모의 끝</string>
+        <string lang="pt-br">Fim da demonstração</string>
     </set>
     <set id="happening-endofdemo-thankyou">
         <string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!
@@ -448,6 +495,8 @@ J'espère que vous avez apprécié ce premier aperçu du jeu.</string>
 Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="kr">축하하고 플레이 해 주셔서 감사합니다!
 이 게임에 대한 첫인상을 즐기셨기를 바랍니다.</string>
+        <string lang="pt-br">Parabéns e obrigado por jogar!
+Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
     </set>
     <set id="happening-endofdemo-scope-demo">
         <string lang="de">Diese Demo</string>
@@ -458,16 +507,18 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">Эта демо</string>
         <string lang="es">Esta demo</string>
         <string lang="kr">이 데모</string>
+        <string lang="pt-br">Esta demonstração</string>
     </set>
     <set id="happening-endofdemo-scope-demo-date">
-        <string lang="de">Frühjahr '23</string>
-        <string lang="en">Spring '23</string>
-        <string lang="fr">Printemps '23</string>
-        <string lang="zh">23年春</string>
-        <string lang="jp">春 '23</string>
-        <string lang="ru">Весна '23</string>
-        <string lang="es">Primavera '23</string>
-        <string lang="kr">봄 '23</string>
+        <string lang="de">Sommer '23</string>
+        <string lang="en">Summer '23</string>
+        <string lang="fr">Été '23</string>
+        <string lang="zh">23年夏</string>
+        <string lang="jp">23年夏</string>
+        <string lang="ru">Лето '23</string>
+        <string lang="es">Verano '23</string>
+        <string lang="kr">23년 여름</string>
+        <string lang="pt-br">Verão '23</string>
     </set>
     <set id="happening-endofdemo-scope-demo-modules">
         <string lang="de">35 Module</string>
@@ -478,6 +529,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">35 модулей</string>
         <string lang="es">35 módulos</string>
         <string lang="kr">35개의 모듈</string>
+        <string lang="pt-br">35 módulos</string>
     </set>
     <set id="happening-endofdemo-scope-demo-characters">
         <string lang="de">2 Charaktere</string>
@@ -488,6 +540,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">2 персонажа</string>
         <string lang="es">2 personajes</string>
         <string lang="kr">2명의 캐릭터</string>
+        <string lang="pt-br">2 personagens</string>
     </set>
     <set id="happening-endofdemo-scope-demo-biomes">
         <string lang="de">2 Biome</string>
@@ -498,6 +551,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">2 биома</string>
         <string lang="es">2 biomas</string>
         <string lang="kr">2개의 생물군계</string>
+        <string lang="pt-br">2 biomas</string>
     </set>
     <set id="happening-endofdemo-scope-demo-stages">
         <string lang="de">2 Levels</string>
@@ -508,6 +562,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">2 этапа</string>
         <string lang="es">2 etapas</string>
         <string lang="kr">2개의 스테이지</string>
+        <string lang="pt-br">2 etapas</string>
     </set>
     <set id="happening-endofdemo-scope-ea">
         <string lang="de">Early Access</string>
@@ -516,8 +571,9 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="zh">提前体验</string>
         <string lang="jp">早期アクセス</string>
         <string lang="ru">Ранний доступ</string>
-        <string lang="es">Early Access</string>
+        <string lang="es">Acceso anticipado</string>
         <string lang="kr">얼리 액세스</string>
+        <string lang="pt-br">Acesso Antecipado</string>
     </set>
     <set id="happening-endofdemo-scope-ea-date">
         <string lang="de">Ende '23/Anfang '24</string>
@@ -528,6 +584,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">Конец '23/Начало '24</string>
         <string lang="es">Fin. de '23/Princ. de '24</string>
         <string lang="kr">'23년 말/ '24년 초</string>
+        <string lang="pt-br">Fim de '23/Início de '24</string>
     </set>
     <set id="happening-endofdemo-scope-ea-modules">
         <string lang="de">70+ Module</string>
@@ -538,6 +595,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">70+ модулей</string>
         <string lang="es">70+ módulos</string>
         <string lang="kr">70개 이상의 모듈</string>
+        <string lang="pt-br">70+ módulos</string>
     </set>
     <set id="happening-endofdemo-scope-ea-characters">
         <string lang="de">6+ Charaktere</string>
@@ -548,6 +606,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">6+ персонажей</string>
         <string lang="es">6+ personajes</string>
         <string lang="kr">6명 이상의 캐릭터</string>
+        <string lang="pt-br">6+ personagens</string>
     </set>
     <set id="happening-endofdemo-scope-ea-biomes">
         <string lang="de">6+ Biome</string>
@@ -558,6 +617,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">6+ биомов</string>
         <string lang="es">6+ biomas</string>
         <string lang="kr">6개 이상의 생물군계</string>
+        <string lang="pt-br">6+ biomas</string>
     </set>
     <set id="happening-endofdemo-scope-ea-stages">
         <string lang="de">4 Levels</string>
@@ -568,6 +628,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">4 этапа</string>
         <string lang="es">4 etapas</string>
         <string lang="kr">4개의 스테이지</string>
+        <string lang="pt-br">4 etapas</string>
     </set>
         <set id="happening-endofdemo-currentdifficulty">
         <string lang="de">Aktuelle Schwierigkeitsstufe: $DIFFICULTY$</string>
@@ -578,6 +639,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">Текущая сложность: $DIFFICULTY$</string>
         <string lang="es">Dificultad actual: $DIFFICULTY$</string>
         <string lang="kr">현재 난이도: $DIFFICULTY$</string>
+        <string lang="pt-br">Dificuldade atual: $DIFFICULTY$</string>
     </set>
     <set id="happening-endofdemo-wishlist">
         <string lang="de">+ STEAM WUNSCHLISTE</string>
@@ -588,6 +650,7 @@ Espero que hayas disfrutado de este primer vistazo al juego.</string>
         <string lang="ru">+ ДОБАВИТЬ В СПИСОК ЖЕЛАЕМОГО</string>
         <string lang="es">+ LISTA DE DESEOS DE STEAM</string>
         <string lang="kr">+ 스팀 위시리스트에 추가</string>
+        <string lang="pt-br">+ LISTA DE DESEJOS DA STEAM</string>
     </set>
     <set id="happening-endofdemo-calltoaction">
         <string lang="de">Hast du Feedback, Fragen oder Ideen?
@@ -606,6 +669,8 @@ Des questions, feedback ou idées?</string>
 ¿Quieres apoyar el desarrollo?</string>
         <string lang="kr">피드백, 질문 또는 아이디어가 있습니까?
 개발을 지원하고 싶습니까?</string>
+        <string lang="pt-br">Você tem feedback, perguntas ou ideias?
+Você quer apoiar o desenvolvimento?</string>
     </set>
     <set id="happening-endofdemo-spreadtheword">
         <string lang="de">• Erzähle anderen von Rogue Voltage</string>
@@ -616,6 +681,7 @@ Des questions, feedback ou idées?</string>
         <string lang="ru">• Расскажите другим о Rogue Voltage</string>
         <string lang="es">• Corre la voz sobre Rogue Voltage</string>
         <string lang="kr">• Rogue Voltage에 대해 말해보세요</string>
+        <string lang="pt-br">• Espalhe a palavra sobre Rogue Voltage</string>
     </set>
     <set id="happening-endofdemo-jointhecommunity">
         <string lang="de">• Werde Teil unserer Community:</string>
@@ -626,5 +692,6 @@ Des questions, feedback ou idées?</string>
         <string lang="ru">• Станьте частью сообщества:</string>
         <string lang="es">• Forma parte de la comunidad:</string>
         <string lang="kr">• 커뮤니티의 일원이 되세요:</string>
+        <string lang="pt-br">• Faça parte da comunidade:</string>
     </set>
 </localization>
