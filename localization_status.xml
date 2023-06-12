@@ -8,6 +8,7 @@
         <string lang="ru">Уязвимость</string>
         <string lang="es">Vulnerable</string>
         <string lang="kr">취약</string>
+        <string lang="pt-br">Vulnerável</string>
     </set>
     <set id="name-status-gravamplification">
         <string lang="de">Grav.-Verstärkung</string>
@@ -18,6 +19,7 @@
         <string lang="ru">Усиление Грав.</string>
         <string lang="es">Amplificación Grav.</string>
         <string lang="kr">중력 증폭</string>
+        <string lang="pt-br">Amplificação Grav.</string>
     </set>
     <set id="name-status-gravimmunity">
         <string lang="de">Grav.-Immunität</string>
@@ -28,6 +30,7 @@
         <string lang="ru">Иммунитет Грав.</string>
         <string lang="es">Inmunidad Grav.</string>
         <string lang="kr">중력 면역</string>
+        <string lang="pt-br">Imunidade Grav.</string>
     </set>
     <set id="name-status-jackcolormutation">
         <string lang="de">Farb-Mutation</string>
@@ -38,6 +41,7 @@
         <string lang="ru">Мутация Цвета</string>
         <string lang="es">Mutación de Color</string>
         <string lang="kr">색상 변이</string>
+        <string lang="pt-br">Mutação de Cor</string>
     </set>
     <set id="name-status-moduleboost">
         <string lang="de">Boost +1</string>
@@ -48,6 +52,7 @@
         <string lang="ru">Усиление +1</string>
         <string lang="es">Aumento +1</string>
         <string lang="kr">부스트 +1</string>
+        <string lang="pt-br">Impulso +1</string>
     </set>
     <set id="name-status-moduleboost-eob">
         <string lang="de">Boost +1</string>
@@ -58,6 +63,7 @@
         <string lang="ru">Усиление +1</string>
         <string lang="es">Aumento +1</string>
         <string lang="kr">부스트 +1</string>
+        <string lang="pt-br">Amplificação +1</string>
     </set>
     <set id="name-status-moduleboost-eot">
         <string lang="de">Boost +1</string>
@@ -68,6 +74,7 @@
         <string lang="ru">Усиление +1</string>
         <string lang="es">Aumento +1</string>
         <string lang="kr">부스트 +1</string>
+        <string lang="pt-br">Amplificação +1</string>
     </set>
     <set id="name-status-modulecrust">
         <string lang="de">Kruste</string>
@@ -78,6 +85,7 @@
         <string lang="ru">кристалл</string>
         <string lang="es">Corteza</string>
         <string lang="kr">크러스트</string>
+        <string lang="pt-br">Crosta</string>
     </set>
     <set id="name-status-modulecracked">
         <string lang="de">Brüchig</string>
@@ -88,6 +96,7 @@
         <string lang="ru">Треснувший</string>
         <string lang="es">Agrietado</string>
         <string lang="kr">깨진</string>
+        <string lang="pt-br">Rachado</string>
     </set>
     <set id="name-status-modulecracked-eob">
         <string lang="de">Brüchig</string>
@@ -128,6 +137,16 @@
         <string lang="ru">Хрупкий</string>
         <string lang="es">Frágil</string>
         <string lang="kr">깨지기 쉬운</string>
+    </set>
+    <set id="name-status-moduleoutoforder">
+        <string lang="de">Außer Betrieb</string>
+        <string lang="en">Out of Order</string>
+        <string lang="fr">Hors Service</string>
+        <string lang="zh">故障</string>
+        <string lang="jp">故障</string>
+        <string lang="ru">Неисправность</string>
+        <string lang="es">Fuera de Servicio</string>
+        <string lang="kr">고장</string>
     </set>
     <set id="name-status-modulepollution">
         <string lang="de">Verschmutzung</string>
@@ -750,23 +769,23 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
     </set>
     <set id="description-status-modulefragile">
-        <string lang="de">Kann 1× pro Kampf sicher aktiviert werden</string>
-        <string lang="en">Can be safely activated 1× per battle</string>
-        <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
-        <string lang="zh">在每场战斗中只能安全激活一次（激活第二次后摧毁）</string>
-        <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
+        <string lang="de">Kann 1× pro Kampf aktiviert werden</string>
+        <string lang="en">Can be activated 1× per battle</string>
+        <string lang="fr">Peut être activé 1× par combat</string>
+        <string lang="zh">在每场战斗中只能激活一次</string>
+        <string lang="jp">戦闘ごとに1回アクティブ化できます</string>
         <string lang="ru">Может быть активирован 1× в бою</string>
         <string lang="es">Puede ser activado 1× por batalla</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
     </set>
         <set id="description-status-modulefragile-discharge">
-        <string lang="de">Kann 1× pro Kampf sicher entladen werden</string>
-        <string lang="en">Can be safely discharged 1× per battle</string>
-        <string lang="fr">Peut être activé en toute sécurité 1× par combat</string>
-        <string lang="zh">在每场战斗中只能安全激活一次（激活第二次后摧毁）</string>
-        <string lang="jp">戦闘ごとに安全に1回アクティブ化できます</string>
-        <string lang="ru">Может быть активирован 1× в бою</string>
-        <string lang="es">Puede ser activado 1× por batalla</string>
+        <string lang="de">Kann 1× pro Kampf entladen werden</string>
+        <string lang="en">Can be discharged 1× per battle</string>
+        <string lang="fr">Peut être activé 1× par combat</string>
+        <string lang="zh">在每场战斗中只能放电一次</string>
+        <string lang="jp">戦闘ごとに1回放電できます</string>
+        <string lang="ru">Может быть разряжен 1× в бою</string>
+        <string lang="es">Puede ser descargado 1× por batalla</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
     </set>
     <set id="description-status-modulemodificationmutation">
@@ -787,6 +806,16 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="jp">ラックに置かれた場合、オーナーのターン終了時に色を変更します</string>
         <string lang="ru">Изменяет цвет в конце хода владельца, если размещен в стойке</string>
         <string lang="es">Cambia el color al final del turno del propietario si se coloca en el rack</string>
+        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
+    </set>
+    <set id="description-status-moduleoutoforder">
+        <string lang="de">Kann in diesem Kampf nicht mehr aktiviert werden</string>
+        <string lang="en">Cannot be activated anymore in this battle</string>
+        <string lang="fr">Ne peut plus être activé dans ce combat</string>
+        <string lang="zh">在本场战斗中不能再次激活</string>
+        <string lang="jp">この戦闘ではもうアクティブ化できません</string>
+        <string lang="ru">Больше не может быть активирован в этом бою</string>
+        <string lang="es">No puede ser activado más en esta batalla</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
     </set>
     <set id="description-status-modulepollution">
@@ -1102,22 +1131,48 @@ $1damage$ au propriétaire à la fin du tour</string>
     <set id="discharge-storesenergy-capped">
         <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge und Kämpfe hinweg</string>
         <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ throughout turns and battles</string>
-        <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">永久存储最多 $energy$</string>
-        <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
+        <string lang="fr">Stocke jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
+        <string lang="zh">在多个回合和战斗中最多充能 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+        <string lang="jp">ターンや戦闘をまたいで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
         <string lang="ru">Сохраняет до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протяжении ходов и битв</string>
         <string lang="es">Almacena hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
         <string lang="kr">여러 턴과 전투를 거쳐 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 축적합니다</string>
     </set>
+    <set id="discharge-endofbattle">
+        <string lang="de">Hält bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+bis zum Ende des Kampfes</string>
+        <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+until the end of battle</string>
+        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+jusqu'à la fin du combat</string>
+        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，
+直到战斗结束</string>
+        <string lang="jp">バトル終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+を保持します</string>
+        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+до конца боя</string>
+        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+hasta el final de la batalla</string>
+        <string lang="kr">전투 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 
+보유합니다</string>        
+    </set>
     <set id="discharge-endofturn">
-        <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Only holds $energy$ until the end of owner's turn</string>
-        <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-        <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
-        <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
-        <string lang="ru">Хранит $energy$ только до конца хода владельца</string>
-        <string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
-        <string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
+        <string lang="de">Hält bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+bis zum Ende des Zuges des Charakters</string>
+        <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+until the end of owner's turn</string>
+        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+jusqu'à la fin du tour du propriétaire</string>
+        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，
+直到拥有者回合结束</string>
+        <string lang="jp">オーナーのターン終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+を保持します</string>
+        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
+до конца хода владельца</string>
+        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
+hasta el final del turno del propietario</string>
+        <string lang="kr">소유자의 턴 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 
+보유합니다</string>
     </set>
     <set id="discharge-endofturn-impending">
         <string lang="de">Verliert $energy$ am Ende des Zuges</string>
