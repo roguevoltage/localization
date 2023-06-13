@@ -188,24 +188,24 @@ Conecte-o ao seu novo $b$Conversor de Plasma$/b$ para transformar o excesso de e
         <string lang="pt-br">Propriedades dos Módulos</string>
     </set>
     <set id="tutorialwindow-modulemodifiers-description">
-        <string lang="de">Dein Heiltrank hat $b$+1$/b$, das heißt er fügt dem eingehenden Strom $b$+1$/b$ $energy$ hinzu, wird dich also um $2$ Punkte heilen.
-Er hat außerdem $cracked$, was bedeutet, dass er nach der Aktivierung zerstört wird.</string>
-        <string lang="en">Your Healing Potion has $b$+1$/b$, which means it adds $b$+1$/b$ $energy$ to the incoming current, healing you by $2$ points.
+        <string lang="de">Die $b$+1$/b$ auf dem Heiltrank bedeutet, dass er dem eingehenden Strom $b$+1$/b$ $energy$ hinzufügt. Er wird dich also um $2$ Punkte heilen.
+$cracked$ bedeutet, dass er nach der Aktivierung zerstört wird.</string>
+        <string lang="en">The $b$+1$/b$ on the Healing Potion means it adds $b$+1$/b$ $energy$ to the incoming current, healing you by $2$ points.
 $cracked$ means it will become destroyed after activation.</string>
-        <string lang ="fr">Votre Potion de Soin a $b$+1$/b$, ce qui signifie qu'elle ajoutera $b$+1$/b$ $energy$ au courant, vous soignant de $2$.
+        <string lang ="fr">Le $b$+1$/b$ sur la Potion de Soin signifie qu'elle ajoute $b$+1$/b$ $energy$ au courant entrant, vous soignant de $2$ points.
 Elle a aussi $cracked$, ce qui signifie qu'elle sera détruite après activation.</string>
-        <string lang="zh">治疗药水有 $b$+1$/b$，这意味着它会给电流增加 $b$+1$/b$ $energy$，治疗你 $2$ 点。
+        <string lang="zh">你的治疗药水有 $b$+1$/b$，这意味着它会给输入电流增加 $b$+1$/b$ $energy$，治疗你 $2$ 点。
 它还有 $cracked$，这意味着它在使用后会被摧毁。</string>
-        <string lang="jp">回復ポーションには、$b$+1$/b$があります。これは、現在の電流に$b$+1$/b$ $energy$を追加し、$2$で回復することを意味します。
+        <string lang="jp">回復ポーションの$b$+1$/b$は、入力電流に$b$+1$/b$ $energy$を追加し、$2$ポイント回復することを意味します。
 また、$cracked$もあります。これは、使用後に破壊されることを意味します。</string>
-        <string lang="ru">Лечебное зелье имеет $b$+1$/b$, что означает, что оно добавит $b$+1$/b$ $energy$ к текущему, и вылечит вас на $2$.
+        <string lang="ru">$b$+1$/b$ на лечебном зелье означает, что оно добавляет $b$+1$/b$ $energy$ во входящий ток, исцеляя вас на $2$ очка.
 Оно также имеет $cracked$, что означает, что оно будет уничтожено после использования.</string>
-        <string lang="es">Tu Poción de Curación tiene $b$+1$/b$, lo que significa que añade $b$+1$/b$ $energy$ a la corriente entrante, curándote en $2$.
-También tiene $cracked$, lo que significa que se destruirá después de la activación.</string>
-        <string lang="kr">회복 물약에는 $b$+1$/b$가 있습니다. 이는 현재 전류에 $b$+1$/b$ $energy$를 추가하여 $2$로 회복한다는 것을 의미합니다.
-또한 $cracked$가 있습니다. 이는 사용 후 파괴된다는 것을 의미합니다.</string>
-        <string lang="pt-br">Sua Poção de Cura tem $b$+1$/b$, o que significa que adiciona $b$+1$/b$ $energy$ à corrente de entrada, curando você em $2$.
-Também tem $cracked$, o que significa que será destruída após a ativação.</string>
+        <string lang="es">El $b$+1$/b$ en la Poción de Curación significa que agrega $b$+1$/b$ $energy$ a la corriente entrante, curándote en $2$ puntos.
+$cracked$ significa que será destruida después de la activación.</string>
+        <string lang="kr">회복 물약의 $b$+1$/b$은 입력 전류에 $b$+1$/b$ $energy$를 추가하여 2 점을 회복한다는 것을 의미합니다.
+$cracked$는 활성화 후에 파괴될 것이라는 것을 의미합니다.</string>
+        <string lang="pt-br">O $b$+1$/b$ na Poção de Cura significa que ela adiciona $b$+1$/b$ $energy$ à corrente de entrada, curando você em $2$ pontos.
+$cracked$ significa que será destruída após a ativação.</string>
     </set>
     <set id="tutorialwindow-plasmaconverter-description">
         <string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!
@@ -274,7 +274,7 @@ Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
         <string lang="zh">战斧模块：回合对齐</string>
         <string lang="jp">ブレードモジュール: アラインされたターン</string>
         <string lang="ru">Модуль лезвия: выровненные ходы</string>
-        <string lang="es">El módulo de Cuchilla: Turnos alineados</string>
+        <string lang="es">El Módulo de Cuchilla: Turnos alineados</string>
         <string lang="kr">블레이드 모듈：정렬된 턴</string>
         <string lang="pt-br">O Módulo de Lâmina: Turnos Alinhados</string>
     </set>
@@ -290,22 +290,19 @@ Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
         <string lang="pt-br">Seu novo $blademodule$ não atira em alvos, mas atinge $b$todos os inimigos no mesmo passo de tempo$/b$ que seu dono.</string>
     </set>
     <set id="tutorialwindow-blade-description2">
-        <string lang="de">Der Zug des $fox$es ist gerade in einer Reihe mit dem von $slopperjohnson$!
+        <string lang="de">Die Züge deiner Gegner sind gerade einer Linie mit dem von $slopperjohnson$!
 Setz das $blademodule$ ein, um ordentlich Schaden auszuteilen.</string>
-        <string lang="en">That $fox$'s turn is currently $b$aligned$/b$ with that of $slopperjohnson$!
+        <string lang="en">The enemies' turns are currently $b$aligned$/b$ with that of $slopperjohnson$!
 Use his $blademodule$ to deal serious damage.</string>
-        <string lang="fr">Le tour de ce $fox$ est actuellement $b$aligné$/b$ avec celui de $slopperjohnson$!
 Utilisez son $blademodule$ pour infliger de lourds dégâts.</string>
-        <string lang="zh">那只狐狸的回合与 $slopperjohnson$ 的回合$b$对齐$/b$了！使用战斧模块来给他一记重击。</string>
-        <string lang="jp">その $fox$ のターンは、現在 $slopperjohnson$ のターンと $b$ 同期しています $/b$！
 彼の $blademodule$ を使用して重大なダメージを与えます。</string>
-        <string lang="ru">Ход этого $fox$ в настоящее время $b$выровнен$/b$ с ходом $slopperjohnson$!
+        <string lang="ru">Ходы ваших врагов в настоящее время $b$выровнены$/b$ с ходом $slopperjohnson$!
 Используйте его $blademodule$, чтобы нанести серьезный урон.</string>
-        <string lang="es">El turno de ese $fox$ está actualmente $b$alineado$/b$ con el de $slopperjohnson$.
+        <string lang="es">¡Los turnos de tus enemigos están actualmente $b$alineados$/b$ con los de $slopperjohnson$!
 Usa su $blademodule$ para causar un daño serio.</string>
-        <string lang="kr">그 $fox$의 차례는 현재 $slopperjohnson$의 차례와 $b$정렬되어 있습니다$/b$!
+        <string lang="kr">적의 턴은 현재 $slopperjohnson$의 턴과 $b$정렬$/b$되어 있습니다!
 심각한 피해를 입히기 위해 그의 $blademodule$을 사용하십시오.</string>
-        <string lang="pt-br">O turno desse $fox$ está atualmente $b$alinhado$/b$ com o de $slopperjohnson$!
+        <string lang="pt-br">Os turnos dos inimigos estão atualmente $b$alinhados$/b$ com os de $slopperjohnson$!
 Use seu $blademodule$ para causar um dano sério.</string>
     </set>
     <set id="tutorialwindow-decelerate-header">
