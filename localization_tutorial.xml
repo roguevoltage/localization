@@ -176,6 +176,37 @@ Conéctalo a tu nuevo $b$Convertidor de Plasma$/b$ para transformar el exceso de
         <string lang="pt-br">Lembre-se de que seu $soulsensor$ será acionado novamente quando você terminar outro inimigo.
 Conecte-o ao seu novo $b$Conversor de Plasma$/b$ para transformar o excesso de energia em $plasma$ – a moeda deste mundo destruído.</string>
     </set>
+        <set id="tutorialwindow-modulemodifiers-header">
+        <string lang="de">Moduleigenschaften</string>
+        <string lang="en">Module Properties</string>
+        <string lang="fr">Propriétés des Modules</string>
+        <string lang="zh">模块属性</string>
+        <string lang="jp">モジュールのプロパティ</string>
+        <string lang="ru">Свойства модулей</string>
+        <string lang="es">Propiedades de los Módulos</string>
+        <string lang="kr">모듈 속성</string>
+        <string lang="pt-br">Propriedades dos Módulos</string>
+    </set>
+    <set id="tutorialwindow-modulemodifiers-description">
+        <string lang="de">Dein Heiltrank hat $b$+1$/b$, das heißt er fügt dem eingehenden Strom $b$+1$/b$ $energy$ hinzu, wird dich also um $2$ Punkte heilen.
+Er hat außerdem $cracked$, was bedeutet, dass er nach der Aktivierung zerstört wird.</string>
+        <string lang="en">Your Healing Potion has $b$+1$/b$, which means it adds $b$+1$/b$ $energy$ to the incoming current, healing you by $2$ points.
+$cracked$ means it will become destroyed after activation.</string>
+        <string lang ="fr">Votre Potion de Soin a $b$+1$/b$, ce qui signifie qu'elle ajoutera $b$+1$/b$ $energy$ au courant, vous soignant de $2$.
+Elle a aussi $cracked$, ce qui signifie qu'elle sera détruite après activation.</string>
+        <string lang="zh">治疗药水有 $b$+1$/b$，这意味着它会给电流增加 $b$+1$/b$ $energy$，治疗你 $2$ 点。
+它还有 $cracked$，这意味着它在使用后会被摧毁。</string>
+        <string lang="jp">回復ポーションには、$b$+1$/b$があります。これは、現在の電流に$b$+1$/b$ $energy$を追加し、$2$で回復することを意味します。
+また、$cracked$もあります。これは、使用後に破壊されることを意味します。</string>
+        <string lang="ru">Лечебное зелье имеет $b$+1$/b$, что означает, что оно добавит $b$+1$/b$ $energy$ к текущему, и вылечит вас на $2$.
+Оно также имеет $cracked$, что означает, что оно будет уничтожено после использования.</string>
+        <string lang="es">Tu Poción de Curación tiene $b$+1$/b$, lo que significa que añade $b$+1$/b$ $energy$ a la corriente entrante, curándote en $2$.
+También tiene $cracked$, lo que significa que se destruirá después de la activación.</string>
+        <string lang="kr">회복 물약에는 $b$+1$/b$가 있습니다. 이는 현재 전류에 $b$+1$/b$ $energy$를 추가하여 $2$로 회복한다는 것을 의미합니다.
+또한 $cracked$가 있습니다. 이는 사용 후 파괴된다는 것을 의미합니다.</string>
+        <string lang="pt-br">Sua Poção de Cura tem $b$+1$/b$, o que significa que adiciona $b$+1$/b$ $energy$ à corrente de entrada, curando você em $2$.
+Também tem $cracked$, o que significa que será destruída após a ativação.</string>
+    </set>
     <set id="tutorialwindow-plasmaconverter-description">
         <string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!
 Was ein unglaublicher Fund!</string>
@@ -402,15 +433,15 @@ $b$Mude para o meu rack$/b$ e arraste-o para a nossa mochila compartilhada, depo
 Vamos nos livrar desses monstros juntos!</string>
     </set>
     <set id="tutorialwindow-sensors-title">
-        <string lang="de">Sensor-Module</string>
-        <string lang="en">Sensor Modules</string>
-        <string lang="fr">Modules de capteur</string>
-        <string lang="zh">感应器模块</string>
-        <string lang="jp">センサーモジュール</string>
-        <string lang="ru">Модули датчиков</string>
-        <string lang="es">Módulos de Sensor</string>
+        <string lang="de">Sensoren Auslösen</string>
+        <string lang="en">Triggering Sensors</string>
+        <string lang="fr">Déclencher les Capteurs</string>
+        <string lang="zh">触发传感器</string>
+        <string lang="jp">センサーをトリガーする</string>
+        <string lang="ru">Срабатывание датчиков</string>
+        <string lang="es">Disparando Sensores</string>
         <string lang="kr">센서 모듈</string>
-        <string lang="pt-br">Módulos de Sensor</string>
+        <string lang="pt-br">Disparando Sensores</string>
     </set>
     <set id="tutorialwindow-sensors-description1">
         <string lang="de">Dein neuer $soulsensor$ erzeugt $energy$, wenn ein Gegner stirbt.</string>
@@ -460,7 +491,7 @@ Vamos nos livrar desses monstros juntos!</string>
         <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
 Es ebnet Ungleichgewicht von $grav$ ein.</string>
         <string lang="en">Now it's the turn of the $gravequilibrium$.
-It levels imbalances of $grav$.</string>
+It flattens out imbalances of $grav$.</string>
         <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
 Il équilibre les déséquilibres de $grav$.</string>
         <string lang="zh">现在是$b$引力平衡$/b$的回合。
