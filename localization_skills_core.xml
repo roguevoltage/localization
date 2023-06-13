@@ -789,7 +789,7 @@ $selfencrusting$.</string>
     <set id="description-skill-gravimpulse">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+4$ zu.</string>
         <string lang="en">Inflicts all combatants on the same time step with $grav+4$.</string>
-        <string lang="fr">Inflige $grav+4$ à tous les combattants sur le même pas de temps.</string>    
+        <string lang="fr">Inflige $grav+4$ à tous les combattants sur le même étape de temps.</string>    
         <string lang="zh">对所有在该时刻的角色施加 $grav+4$</string>
         <string lang="jp">同じタイムステップにいる敵に $grav+4$ を与える</string>
         <string lang="ru">Наносит $grav+4$ всем бойцам на одном временном шаге.</string>
@@ -945,7 +945,7 @@ and inflicts $grav+2$</string>
     <set id="description-skill-lightningstrike">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
         <string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all combatants on the same time step.</string>
-        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les combattants sur le même pas de temps.</string>
+        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les combattants sur le même étape de temps.</string>
         <string lang="zh">对所有角色造成 $b$$VALUE$$/b$ $damage$</string>
         <string lang="jp">同じタイムステップの敵に $b$$VALUE$$/b$ $damage$ を与える</string>
         <string lang="ru">Наносит $b$$VALUE$$/b$ $damage$ всем бойцам на одном временном шаге.</string>
@@ -956,7 +956,7 @@ and inflicts $grav+2$</string>
     <set id="description-skill-lightningstrike-cutoff">
         <string lang="de">Fügt allen Spielercharakteren auf diesem Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
         <string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all player characters on that time step.</string>
-        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les personnages joueurs sur ce pas de temps.</string>
+        <string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les personnages joueurs sur ce étape de temps.</string>
         <string lang="zh">对所有玩家角色造成 $b$$VALUE$$/b$ $damage$</string>
         <string lang="jp">同じタイムステップのプレイヤーに $b$$VALUE$$/b$ $damage$ を与える</string>
         <string lang="ru">Наносит $b$$VALUE$$/b$ $damage$ всем игрокам на этом временном шаге.</string>

@@ -332,13 +332,13 @@
     <set id="name-module-collectorkill">
         <string lang="de">Seelen-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Soul Sensor $MODIFICATIONVALUE$</string>
-        <string lang="fr">Capteur de Cœur $MODIFICATIONVALUE$</string>
+        <string lang="fr">Capteur d'Âme $MODIFICATIONVALUE$</string>
         <string lang="zh">灵魂感应器 $MODIFICATIONVALUE$</string>
         <string lang="jp">魂センサー $MODIFICATIONVALUE$</string>
         <string lang="ru">датчик души $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Almas $MODIFICATIONVALUE$</string>
         <string lang="kr">영혼 센서 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Sensor de Alma $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Almas $MODIFICATIONVALUE$</string>
     </set>
     <set id="name-module-collectormodulecreation">
         <string lang="de">Fabrik-Sensor $MODIFICATIONVALUE$</string>
@@ -420,7 +420,7 @@
     <set id="name-module-effectorblade">
         <string lang="de">Klingenmodul $MODIFICATIONVALUE$</string>
         <string lang="en">Blade Module $MODIFICATIONVALUE$</string>
-        <string lang="fr">Module Épée $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module Lame $MODIFICATIONVALUE$</string>
         <string lang="zh">战斧 $MODIFICATIONVALUE$</string>
         <string lang="jp">ブレードモジュール $MODIFICATIONVALUE$</string>
         <string lang="ru">модуль клинка $MODIFICATIONVALUE$</string>
@@ -920,7 +920,7 @@ sur le combattant ciblé.</string>
     <set id="description-module-effectordeceleratormelee">
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
         <string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
-        <string lang="fr">Inflige $grav+$ sur tous les ennemis au pas de temps actuel.</string>
+        <string lang="fr">Inflige $grav+$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
         <string lang="zh">让与拥有者同一时刻的所有敌人获得 $grav+$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$grav+$を与えます。</string>
         <string lang="ru">Наносит $grav+$ всем врагам на том же временном шаге, что и владелец.</string>
@@ -931,7 +931,7 @@ sur le combattant ciblé.</string>
     <set id="description-module-effectorblade">
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
         <string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
-        <string lang="fr">Inflige des $damage$ sur tous les ennemis au pas de temps actuel.</string>
+        <string lang="fr">Inflige des $damage$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
         <string lang="zh">让与拥有者同一时刻的所有敌人获得 $damage$ 。</string>
         <string lang="jp">所有者と同じ時間ステップにいる敵に$damage$を与えます。</string>
         <string lang="ru">Наносит $damage$ всем врагам на том же временном шаге, что и владелец.</string>
@@ -1026,11 +1026,9 @@ avec $cracked$.</string>
         <string lang="zh">制造一个通用的$b$治疗药水$/b$。</string>
         <string lang="jp">一般的な $b$回復薬$/b$を作ります。</string>
         <string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
-        <string lang="es">Construye una $b$Poción de Curación$/b$ universal
-con $cracked$.</string>
+        <string lang="es">Construye una $b$Poción de Curación$/b$ universal con $cracked$.</string>
         <string lang="kr">일반적인 $b$치유 물약$/b$을(를) 만듭니다.</string>
-        <string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal
-com $cracked$.</string>
+        <string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
     </set>
     <set id="description-module-factorystoragecell">
         <string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ her.</string>
@@ -1104,7 +1102,7 @@ sur les deux jacks output.</string>
     <set id="description-module-generatorvulnerability">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 pas de temps.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
         <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
         <string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но наносит владельцу $vulnerable$ на 5 шагов времени.</string>
@@ -1153,9 +1151,11 @@ sur les deux jacks output.</string>
         <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
-        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a una corriente.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
+a una corriente.</string>
         <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ a uma corrente.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
+a uma corrente.</string>
     </set>
     <set id="description-module-modifierdecelerating">
         <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -1165,9 +1165,11 @@ sur les deux jacks output.</string>
         <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
-        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a una corriente.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
+a una corriente.</string>
         <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ a uma corrente.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
+a uma corrente.</string>
     </set>
     <set id="description-module-medikit">
         <string lang="de">Erhöht die max. HP des Charakters um $1$ und stellt zu Beginn jedes Kampfes $1$ HP wieder her.</string>
@@ -1251,7 +1253,7 @@ sur les deux jacks output.</string>
 (Entschärfe mit $energy$).</string>
         <string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps and deal $b$$INVERSECHARGEVALUE$$/b$ $damage$ to both heroes.
 (Defuse with $energy$).</string>
-        <string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ pas de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.
+        <string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.
 (Désamorcez avec $energy$).</string>
         <string lang="zh">将在 $b$$TIMETOTURN$$/b$ 时刻后爆炸，对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。
 （用 $energy$ 拆彈）。</string>
