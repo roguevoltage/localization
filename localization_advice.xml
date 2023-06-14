@@ -34,7 +34,7 @@
     </set>
     <set id="advice-timeline">
         <string lang="de">Zusätzliche Module, um die Zeitleiste zu manipulieren, sind äußerst nützlich für eine zuverlässigige Ausrichtung und Kontrolle der Züge.</string>
-        <string lang="en">Additional Modules to manipulate the timeline are very useful for reliable turn alignment and control.</string>
+        <string lang="en">Additional modules to manipulate the timeline are very useful for reliable turn alignment and control.</string>
         <string lang="fr">Des modules supplémentaires pour manipuler la chronologie sont très utiles pour un alignement et un contrôle fiables des tours.</string>
         <string lang="zh">操控时间线的模块在对齐或错开后续回合的角度上非常好用</string>
         <string lang="jp">タイムラインを操作するための追加モジュールは、信頼性の高いターンの整列と制御に非常に役立ちます。</string>
@@ -44,8 +44,10 @@
         <string lang="pt-br">Módulos adicionais para manipular a linha do tempo são muito úteis para alinhamento e controle de turnos confiáveis.</string>
     </set>
     <set id="advice-energy">
-        <string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, zählt. Versuche, Energie auf Sensor-Modulen nicht verpuffen zu lassen.</string>
-        <string lang="en">Every point of $energy$ you can generate is meaningful. Try to not let energy on sensor modules dissipate.</string>
+        <string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, zählt.
+Versuche, Energie auf Sensor-Modulen nicht verpuffen zu lassen.</string>
+        <string lang="en">Every point of $energy$ you can generate is meaningful.
+Try to not let energy on sensor modules dissipate.</string>
         <string lang="fr">Chaque point d'$energy$ que vous pouvez générer est important. Essayez de ne pas laisser l'énergie sur les modules de capteurs se dissiper.</string>
         <string lang="zh">产生的每一点 $energy$ 都很重要。尽量不要让传感器模块上的能量消散。</string>
         <string lang="jp">あなたが生成できる$energy$の各ポイントは重要です。センサーモジュールのエネルギーが消散しないようにしてください。</string>
@@ -133,7 +135,7 @@
     </set>
     <set id="advice-draft">
         <string lang="de">Wenn du Loot-Module auswählst, achte auf eine gute Balance zwischen Energiequellen, Durchsatzmodulen und Effektoren.</string>
-        <string lang="en">When picking modules as loot, find a nice balance between energy sources, throughput modules and effectors.</string>
+        <string lang="en">Key to a good build is a nice balance between energy sources, throughput modules and effectors.</string>
         <string lang="fr">Lorsque vous choisissez des modules comme butin, trouvez un bon équilibre entre les sources d'énergie, les modules de débit et les effecteurs.</string>
         <string lang="zh">选择战利品模块时，你需要控制能源模块、转换模块和效果模块的数量，保持一个良好的平衡。</string>
         <string lang="jp">モジュールを戦利品として選ぶときは、エネルギー源、スループットモジュール、エフェクターの間でバランスを取ってください。</string>
@@ -143,8 +145,8 @@
         <string lang="pt-br">Ao escolher módulos como saque, encontre um bom equilíbrio entre fontes de energia, módulos de transferência e effectors.</string>
     </set>
     <set id="advice-cracked">
-        <string lang="de">Horte Module mit $cracked$ nicht, sondern nutze ihren starken einmaligen Effekt, um eine $gold$-Wertung zu erhalten oder einen Kampf zügig zu beenden.</string>
-        <string lang="en">Don't hoard single-use ($cracked$) modules, but use their strong one-time effect to secure a $gold$ rating or end a combat that is getting out of hand.</string>
+        <string lang="de">Horte Module mit $cracked$ nicht, sondern nutze ihren starken einmaligen Effekt, um eine gute Wertung zu erhalten oder einen Kampf zügig zu beenden.</string>
+        <string lang="en">Don't hoard $cracked$ modules, but use their strong one-time effect to secure a good rating or end a combat that is getting out of hand.</string>
         <string lang="fr">Ne stockez pas les modules à usage unique ($cracked$), mais utilisez leur fort effet unique pour obtenir une note $gold$ ou gagner un combat qui vous échappe.</string>
         <string lang="zh">游戏过程中你会获得许多一次性（$cracked$）的模块。不要攒着它们不用，请利用它们强大的一次性效果，在下一场战斗中获得良好的评价！</string>
         <string lang="jp">一度きりの使用 ($cracked$) モジュールを貯め込まないでください。代わりに、強力な一度きりの効果を利用して、$gold$の評価を確保したり、手に負えなくなった戦闘に勝利したりしてください。</string>
