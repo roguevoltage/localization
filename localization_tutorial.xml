@@ -290,7 +290,7 @@ Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
         <string lang="pt-br">Seu novo $blademodule$ não atira em alvos, mas atinge $b$todos os inimigos no mesmo passo de tempo$/b$ que seu dono.</string>
     </set>
     <set id="tutorialwindow-blade-description2">
-        <string lang="de">Die Züge deiner Gegner sind gerade einer Linie mit dem von $slopperjohnson$!
+        <string lang="de">Die Züge deiner Gegner sind gerade in einer Linie mit dem von $slopperjohnson$!
 Setz das $blademodule$ ein, um ordentlich Schaden auszuteilen.</string>
         <string lang="en">The enemies' turns are currently $b$aligned$/b$ with that of $slopperjohnson$!
 Use his $blademodule$ to deal serious damage.</string>
@@ -321,7 +321,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
         <string lang="pt-br">Alinhando Turnos</string>
     </set>
     <set id="tutorialwindow-decelerate-description">
-        <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug auf der Zeitleiste mit $grav+$ nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$-Modul!</string>
+        <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug mit $grav+$ auf der Zeitleiste nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$-Modul!</string>
         <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$ module!</string>
         <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son module $b$Décélérateur$/b$!</string>
         <string lang="zh">还记得 $chronocat$ 是如何用 $grav+$ 将时间轴上的一个回合向后推的吗？$slopperjackson$可以用他的$b$减速器 +1$/b$模块做同样的事情！</string>
@@ -332,15 +332,15 @@ Use seu $blademodule$ para causar um dano sério.</string>
         <string lang="pt-br">Lembra como o $chronocat$ atrasou um turno com $grav+$? $slopperjackson$ pode fazer o mesmo com seu módulo $b$Desacelerador +1$/b$!</string>
     </set>
     <set id="tutorialwindow-decelerate-description2">
-        <string lang="de">Er sollte den Zug seines Bruders auf den nächsten Zeitschritt schieben. Dann ist er erneut auf dem selben Schritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
-        <string lang="en">Now he should $b$push his brother's turn$/b$ to the next time step, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
-        <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$ au prochain étape de temps, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le module lame.</string>
-        <string lang="zh">他可以将他的兄弟的回合$b$延迟$/b$到下一个时刻，这样它就会与敌人的回合$b$对齐$/b$，这样就可以再次使用战斧模块。</string>
-        <string lang="jp">彼は、彼の兄弟のターンを次のタイムステップに $b$ 遅らせる $/b$ べきで、それは敵のターンと $b$ 同期しているので、彼は再びブレードモジュールを使用できます。</string>
-        <string lang="ru">Теперь он должен $b$отложить ход своего брата$/b$ на следующий шаг времени, так что он будет $b$выровнен$/b$ с врагом и он сможет снова использовать модуль лезвия.</string>
-        <string lang="es">Ahora debería $b$retrasar el turno de su hermano$/b$ al siguiente paso de tiempo, para que esté $b$alineado$/b$ con el del enemigo y pueda usar el módulo de la Cuchilla de nuevo.</string>
-        <string lang="kr">이제 그는 그의 형제의 턴을 다음 시간 단계로 $b$밀어 넣어야$/b$합니다. 그래서 그것은 적과 $b$정렬$/b$되고 그는 다시 블레이드 모듈을 사용할 수 있습니다.</string>
-        <string lang="pt-br">Agora ele deve $b$atrasar o turno de seu irmão$/b$ para o próximo passo de tempo, para que esteja $b$alinhado$/b$ com o do inimigo e ele possa usar o Módulo de Lâmina novamente.</string>
+        <string lang="de">Er sollte den Zug seines Bruders nach hinten versetzen. Dann ist er erneut auf dem selben Zeitschritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
+        <string lang="en">Now he should $b$push his brother's turn$/b$ back, so it will be $b$aligned$/b$ with the enemy's and he can use the Blade Module again.</string>
+        <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le module lame.</string>
+        <string lang="zh">现在他应该将他兄弟的回合$b$推后$/b$，这样它就会与敌人的回合$b$对齐$/b$，这样就可以再次使用战斧模块。</string>
+        <string lang="jp">今度は、彼は兄弟のターンを後ろに押し戻すべきです。そうすれば、敵と$b$整列された$/b$状態になり、ブレードモジュールを再び使用できます。</string>
+        <string lang="ru">Теперь он должен $b$отодвинуть ход своего брата$/b$ назад, чтобы он был $b$выровнен$/b$ с врагом, и он снова может использовать модуль лезвия.</string>
+        <string lang="es">Ahora debería $b$retrasar el turno de su hermano$/b$, para que esté $b$alineado$/b$ con el del enemigo y pueda usar el módulo de Cuchilla de nuevo.</string>
+        <string lang="kr">이제 그는 $b$형제의 턴을 뒤로 미뤄야$/b$합니다. 그러면 적과 $b$정렬된$/b$ 상태가 되어 블레이드 모듈을 다시 사용할 수 있습니다.</string>
+        <string lang="pt-br">Agora ele deve $b$empurrar o turno de seu irmão$/b$ para trás, para que esteja $b$alinhado$/b$ com o do inimigo e ele possa usar o Módulo de Lâmina novamente.</string>
     </set>
     <set id="tutorialwindow-generatordual-header">
         <string lang="de">Der Zweifach-Generator</string>
@@ -644,19 +644,19 @@ Os combatentes recebem metade dele como $damage$ (arredondado para cima).</strin
         <string lang="pt-br">Esse $chronocat$ acabou de aplicar $grav+2$ a $slopperjohnson$, empurrando seu turno atrás do do $fox$!</string>
     </set>
     <set id="tutorialwindow-battlerating-title">
-        <string lang="de">Die Kampfbewertung (Wichtig!)</string>
-        <string lang="en">The Battle Rating (Important!)</string>
-        <string lang="fr">L'Évaluation de la Bataille (Important!)</string>
-        <string lang="zh">战斗评分 (重要！)</string>
-        <string lang="jp">戦闘の評価 (重要！)</string>
-        <string lang="ru">Оценка битвы (Важно!)</string>
-        <string lang="es">Calificación de la batalla (¡Importante!)</string>
-        <string lang="kr">전투 평가 (중요!)</string>
-        <string lang="pt-br">Avaliação da Batalha (Importante!)</string>
+        <string lang="de">Die Kampfbewertung</string>
+        <string lang="en">The Battle Rating</string>
+        <string lang="fr">L'Évaluation de la Bataille</string>
+        <string lang="zh">战斗评分</string>
+        <string lang="jp">戦闘の評価</string>
+        <string lang="ru">Оценка битвы</string>
+        <string lang="es">Calificación de la batalla</string>
+        <string lang="kr">전투 평가</string>
+        <string lang="pt-br">Avaliação da Batalha</string>
     </set>
     <set id="tutorialwindow-battlerating-description1">
-        <string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute sein. Der Balken zeigt an, wie viel Zeit dir pro Bewertung bleibt.</string>
-        <string lang="en">The earlier you end the battle, the better your loot will be. The bar shows how much time you have left per rating.</string>
+        <string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute sein. Der Bewertungsbalken zeigt an, wie viel Zeit dir pro Stufe bleibt.</string>
+        <string lang="en">The earlier you end the battle, the better your loot will be. The rating bar shows how much time you have left per rating.</string>
         <string lang="fr">Plus tôt vous terminez la bataille, meilleur sera votre butin. La barre indique le temps qui vous reste par évaluation.</string>
         <string lang="zh">战斗结束得越快，获得的战利品模块就会越好。时间轴上方的评级条显示了获取评价的要求。</string>
         <string lang="jp">戦闘を早く終了すればするほど、戦利品は良くなります。評価バーは、残り時間を示しています。</string>
