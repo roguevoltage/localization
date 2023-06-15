@@ -745,6 +745,26 @@ La primera $energy$ entrante romperá la corteza</string>
         <string lang="pt-br">Impede a ativação do módulo.
 A primeira $energy$ recebida quebrará a crosta</string>
     </set>
+    <set id="description-status-modulecrust-discharge">
+        <string lang="de">Verhindert Entladung des Modules.
+Die erste Auslösung bricht die Kruste</string>
+        <string lang="en">Prevents module discharge.
+First triggering will break the crust</string>
+        <string lang="fr">Module non déchargeable.
+Le premier déclenchement brise la croûte</string>
+        <string lang="zh">阻止模块的放电。
+第一次触发将破坏晶壳</string>
+        <string lang="jp">モジュールは放電できません。
+最初のトリガーは外殻を破壊します</string>
+        <string lang="ru">Модуль не может быть разряжен.
+Первый разряд разбивает кристалл.</string>
+        <string lang="es">Impide la descarga del módulo.
+El primer disparo romperá la corteza</string>
+        <string lang="kr">모듈 방전을 방지합니다.
+첫 번째 트리거는 껍질을 깨뜨립니다</string>
+        <string lang="pt-br">Impede a descarga do módulo.
+O primeiro gatilho quebrará a crosta</string>
+    </set>
     <set id="description-status-modulecracked">
         <string lang="de">Wird nach Aktivierung zerstört</string>
         <string lang="en">Destroyed after activation</string>
@@ -1263,24 +1283,15 @@ hasta el final de la batalla</string>
 até o final da batalha</string>
     </set>
     <set id="discharge-endofturn">
-        <string lang="de">Hält bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-until the end of owner's turn</string>
-        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-jusqu'à la fin du tour du propriétaire</string>
-        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，
-直到拥有者回合结束</string>
-        <string lang="jp">オーナーのターン終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-を保持します</string>
-        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-до конца хода владельца</string>
-        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-hasta el final del turno del propietario</string>
-        <string lang="kr">소유자의 턴 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 
-보유합니다</string>
-        <string lang="pt-br">Mantém até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-até o final do turno do dono</string>
+        <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
+        <string lang="en">Only holds $energy$ until the end of owner's turn</string>
+        <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
+        <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
+        <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
+        <string lang="ru">Хранит $energy$ только до конца хода владельца</string>
+        <string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
+        <string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
+        <string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
     </set>
     <set id="discharge-endofturn-impending">
         <string lang="de">Verliert $energy$ am Ende des Zuges</string>

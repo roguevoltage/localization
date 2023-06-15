@@ -455,16 +455,25 @@ Vamos nos livrar desses monstros juntos!</string>
         <string lang="kr">당신의 새로운 $soulsensor$는 적이 죽을 때마다 $energy$를 생성합니다.</string>
         <string lang="pt-br">Seu novo $soulsensor$ gera $energy$ sempre que um inimigo morre.</string>
     </set>
-    <set id="tutorialwindow-sensors-description2">
-        <string lang="de">Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.</string>
-        <string lang="en">If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.</string>
-        <string lang="fr">Si vous avez le $b$Potion de Soin$/b$ connecté au $b$Capteur d'Âme$/b$ lorsque vous terminez votre ennemi, il recevra de l'énergie pour vous soigner.</string>
-        <string lang="zh">如果你在结束你的敌人时将$b$治疗药水$/b$连接到$b$灵魂感应器$/b$，它将获得能量来治愈你。</string>
-        <string lang="jp">あなたの敵を終えるときに、$b$ヒーリングポーション$/b$が$b$ソウルセンサー$/b$に接続されている場合、それはあなたを治疗するためのエネルギーを受け取ります。</string>
-        <string lang="ru">Если у вас есть $b$Лечебное зелье$/b$, подключенное к $b$Датчику души$/b$, когда вы убиваете врага, оно получит энергию, чтобы исцелить вас.</string>
-        <string lang="es">Si tienes la $b$Poción de Curación$/b$ conectada al $b$Sensor de Almas$/b$ mientras terminas con tu enemigo, recibirá energía para curarte.</string>
-        <string lang="kr">당신이 적을 끝마칠 때 $b$치유 물약$/b$이 $b$영혼 센서$/b$에 연결되어 있다면, 그것은 당신을 치유하기 위해 에너지를 받을 것입니다.</string>
-        <string lang="pt-br">Se você tiver a $b$Poção de Cura$/b$ conectada ao $b$Sensor de Almas$/b$ enquanto termina com seu inimigo, ela receberá energia para curá-lo.</string>
+  <set id="tutorialwindow-sensors-description2">
+        <string lang="de">Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.
+Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.</string>
+        <string lang="en">If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.
+Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.</string>
+        <string lang="fr">Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.
+Si vous avez le $b$Potion de soin$/b$ connecté au $b$Soul Sensor$/b$ lorsque vous avez terminé votre ennemi, il recevra de l'énergie pour vous soigner.</string>
+        <string lang="zh">感应器模块无法充能能量：在同一回合使用它，否则它将消散。
+如果你在结束你的敌人时将$b$治疗药水$/b$连接到$b$灵魂感应器$/b$，它将获得能量来治愈你。</string>
+        <string lang="jp">センサーモジュールはエネルギーを保存できません：同じターンで使用するか、それは消失します。
+あなたの敵を終えるときに、$b$ヒーリングポーション$/b$が$b$ソウルセンサー$/b$に接続されている場合、それはあなたを治疗するためのエネルギーを受け取ります。</string>
+        <string lang="ru">Если у вас есть $b$Лечебное зелье$/b$, подключенное к $b$Датчику души$/b$, когда вы убиваете врага, оно получит энергию, чтобы исцелить вас.
+Модули датчиков не могут хранить энергию: используйте ее в том же ходу, или она рассеется.</string>
+        <string lang="es">Los módulos de sensor no pueden almacenar energía: úsalo en el mismo turno, o se disipará.
+Si tienes la $b$Poción de Curación$/b$ conectada al $b$Sensor de Almas$/b$ mientras terminas con tu enemigo, recibirá energía para curarte.</string>
+        <string lang="kr">센서 모듈은 에너지를 저장할 수 없습니다. 같은 턴에 사용하거나 에너지가 소멸합니다.
+적을 끝내는 동안 $b$치유 물약$/b$을 $b$영혼 센서$/b$에 연결하면 치유를 위한 에너지를 받게됩니다.</string>
+        <string lang="pt-br">Os módulos de sensor não podem armazenar energia: use-o na mesma rodada, ou ele se dissipará.
+Se você tiver a $b$Poção de Cura$/b$ conectada ao $b$Sensor de Almas$/b$ enquanto termina com seu inimigo, ela receberá energia para curá-lo.</string>
     </set>
     <set id="tutorialwindow-gravcharge-title">
         <string lang="de">Grav.-Ladung</string>
