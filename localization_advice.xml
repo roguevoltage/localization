@@ -2,7 +2,7 @@
     <set id="advice-camp">
         <string lang="de">Die Modul-Belohnungen der Camp-Gebäude sind mächtig. Plane, jedes Level mit genügend Plasma abzuschließen, um sie freizuschalten.</string>
         <string lang="en">Module rewards from the camp structures are powerful. Plan to finish each stage with enough plasma to purchase them.</string>
-        <string lang="fr">Les récompenses des modules des structures du camp sont puissantes. Prévoyez de terminer chaque étape avec suffisamment de plasma pour les acheter.</string>
+        <string lang="fr">Les récompenses des modules des structures du camp sont puissantes. Prévoyez de terminer chaque étapes avec suffisamment de plasma pour les acheter.</string>
         <string lang="zh">从营地建筑获取的奖励模块非常强大，在每个大关卡结束前准备好足够的等离子体来购买它们。</string>
         <string lang="jp">キャンプの建物からのモジュール報酬は強力です。それらを購入するために十分なプラズマで各ステージを終了するように計画してください。</string>
         <string lang="ru">Награды за модули от структур лагеря могут быть мощными. Планируйте завершать каждый этап с достаточным количеством плазмы для их покупки.</string>
@@ -24,7 +24,7 @@
     <set id="advice-rating-2">
         <string lang="de">Nicht alle Kämpfe können mit einer $gold$-Belohnung abgeschlossen werden. In diesen Fällen kannst du dir mehr Zeit nehmen, um dich zu heilen und Plasma und Ressourcen für zukünftige Kämpfe zu generieren.</string>
         <string lang="en">Not all battles can be completed in time for a $gold$ rating. In these cases, consider taking extra time to heal up and generate plasma and resources for future fights.</string>
-        <string lang="fr">Tous les combats ne peuvent pas être terminés à temps pour une récompense $gold$. Dans ces cas, envisagez de prendre plus de temps pour vous soigner et générer du plasma et des ressources pour les combats futurs.</string>
+        <string lang="fr">Tous les combats ne peuvent pas être terminés à temps pour une récompense $gold$. Dans ces cas, envisagez de prendre plus de temps pour vous soigner et générer du plasma et des ressources pour les futurs combats.</string>
         <string lang="zh">你不可能在所有战斗中获得 $gold$ 评级。获取不了的那些情况下你应该考虑回复血量、生产等离子体、积攒资源以备后续使用。</string>
         <string lang="jp">$gold$の報酬を得るためにすべての戦闘を時間内に完了することはできません。この場合、追加の時間をかけて回復し、将来の戦いのためにプラズマとリソースを生成することを検討してください。</string>
         <string lang="ru">Не все бои можно завершить вовремя для получения награды $gold$. В этих случаях рассмотрите возможность потратить дополнительное время на лечение и генерацию плазмы и ресурсов для будущих сражений.</string>
@@ -35,7 +35,7 @@
     <set id="advice-timeline">
         <string lang="de">Zusätzliche Module, um die Zeitleiste zu manipulieren, sind äußerst nützlich für eine zuverlässigige Ausrichtung und Kontrolle der Züge.</string>
         <string lang="en">Additional modules to manipulate the timeline are very useful for reliable turn alignment and control.</string>
-        <string lang="fr">Des modules supplémentaires pour manipuler la chronologie sont très utiles pour un alignement et un contrôle fiables des tours.</string>
+        <string lang="fr">Des modules supplémentaires impactant l'ordre chronologique sont très utiles pour se réaligner et contrôler l'ordonnancement des tours.</string>
         <string lang="zh">操控时间线的模块在对齐或错开后续回合的角度上非常好用</string>
         <string lang="jp">タイムラインを操作するための追加モジュールは、信頼性の高いターンの整列と制御に非常に役立ちます。</string>
         <string lang="ru">Дополнительные модули для манипулирования линией времени очень полезны для надежного выравнивания и контроля ходов.</string>
@@ -70,7 +70,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-exhaustion">
         <string lang="de">Wenn du einen $generator$ aktivierst, wird dein nächster Zug um dessen Erschöpfungswert zurückgesetzt.</string>
         <string lang="en">Activating a $generator$ sets your next turn back by its Exhaustion value.</string>
-        <string lang="fr">L'activation d'un $generator$ fait reculer votre prochain tour de sa valeur d'épuisement.</string>
+        <string lang="fr">Activer un $generator$ fait reculer votre prochain tour de sa valeur d'épuisement.</string>
         <string lang="zh">激活 $generator$ 会增加疲劳值，让你的下一回合至少在疲劳值时刻数之后才能到来。</string>
         <string lang="jp">$generator$をアクティブにすると、次のターンが疲労値でリセットされます。</string>
         <string lang="ru">Активация $generator$ сбрасывает ваш следующий ход на его значение Изнурения. </string>
@@ -92,7 +92,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-rerolling">
         <string lang="de">Wenn dir keines der drei Loot-Module zusagt, kannst du Plasma ausgeben, um den Loot neu auszuwürfeln. Dies ändert nicht dessen Seltenheit.</string>
         <string lang="en">If no loot module does it for you, you can spend plasma to reroll. This will not change the rarity of the loot.</string>
-        <string lang="fr">Si aucun module de butin ne vous convient, vous pouvez dépenser du plasma pour relancer. Cela ne changera pas la rareté du butin.</string>
+        <string lang="fr">Si aucun module de butin ne vous convient, vous pouvez dépenser du plasma pour renouveler les modules. Cela ne changera pas leurs rareté.</string>
         <string lang="zh">如果战利品模块中没有一个是想要的，可以花费一些等离子体来重新生成一批（不会改变稀有度）</string>
         <string lang="jp">戦利品モジュールがあなたにとって役に立たない場合、プラズマを使ってやり直すことができます。これは戦利品のレアリティを変更しません。</string>
         <string lang="ru">Если ни один модуль добычи не подходит вам, вы можете потратить плазму, чтобы перебросить. Это не изменит редкость добычи.</string>
@@ -114,7 +114,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-enemies-2">
         <string lang="de">Überprüfe die Fähigkeiten der Gegner auf Störquellen wie $grav+$ oder $crust$.</string>
         <string lang="en">Check enemy movesets for sources of disruption, such as $grav+$ or $crust$.</string>
-        <string lang="fr">Vérifiez les mouvements des ennemis pour savoir s'ils peuvent perturber, comme $grav+$ ou $crust$.</string>
+        <string lang="fr">Vérifiez les mouvements des ennemis pour savoir s'ils peuvent vous perturber, comme $grav+$ ou $crust$.</string>
         <string lang="zh">记得检查敌人的能力中是否有能破坏你计划的特殊效果，例如 $grav+$ 或 $crust$ 。</string>
         <string lang="jp">敵の動きをチェックして、$grav+$や$crust$などの妨害源があるかどうかを確認してください。</string>
         <string lang="ru">Проверьте наборы ходов врагов на наличие источников нарушений, таких как $grav+$ или $crust$.</string>
@@ -147,7 +147,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-cracked">
         <string lang="de">Horte Module mit $cracked$ nicht, sondern nutze ihren starken einmaligen Effekt, um eine gute Wertung zu erhalten oder einen Kampf zügig zu beenden.</string>
         <string lang="en">Don't hoard $cracked$ modules, but use their strong one-time effect to secure a good rating or end a combat that is getting out of hand.</string>
-        <string lang="fr">Ne stockez pas les modules à usage unique ($cracked$), mais utilisez leur fort effet unique pour obtenir une note $gold$ ou gagner un combat qui vous échappe.</string>
+        <string lang="fr">Ne stockez pas les modules à usage unique ($cracked$), mais utilisez leurs puissant effet unique pour obtenir une note $gold$ ou gagner un combat qui vous échappe.</string>
         <string lang="zh">游戏过程中你会获得许多一次性（$cracked$）的模块。不要攒着它们不用，请利用它们强大的一次性效果，在下一场战斗中获得良好的评价！</string>
         <string lang="jp">一度きりの使用 ($cracked$) モジュールを貯め込まないでください。代わりに、強力な一度きりの効果を利用して、$gold$の評価を確保したり、手に負えなくなった戦闘に勝利したりしてください。</string>
         <string lang="ru">Не запасайте одноразовые ($cracked$) модули, а используйте их сильный одноразовый эффект, чтобы получить оценку $gold$ или выиграть бой, который выходит из-под контроля.</string>
@@ -169,7 +169,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-middleclick">
         <string lang="de">Mittelklick auf ein Modul sendet es in den Rucksack und wieder zurück.</string>
         <string lang="en">Middle-clicking on a module will send it in and out of the backpack.</string>
-        <string lang="fr">Un clic du milieu sur un module l'envoie dans et hors du sac à dos.</string>
+        <string lang="fr">Un clic du milieu sur un module le renvoie dans ou du sac à dos.</string>
         <string lang="zh">中键单击模块可以将其快速放入/移出背包。</string>
         <string lang="jp">モジュールを中クリックすると、モジュールがバックパックに送信され、バックパックから送信されます。</string>
         <string lang="ru">Средний щелчок мыши по модулю отправит его в рюкзак и обратно.</string>
@@ -191,7 +191,7 @@ Try to not let energy on sensor modules dissipate.</string>
     <set id="advice-salvage">
         <string lang="de">Wenn du Game Over gehst, vergiss nicht, dein bestes Modul in den nächsten Run hinüberzuretten.</string>
         <string lang="en">If you go Game Over, don't forget to salvage your best module for the next run.</string>
-        <string lang="fr">Si vous allez Game Over, n'oubliez pas de récupérer votre meilleur module pour la prochaine partie.</string>
+        <string lang="fr">Si vous perdez, n'oubliez pas de récupérer votre meilleur module pour la prochaine partie.</string>
         <string lang="zh">失败的时候不要忘记保存回收你重要的模块，将其加入下一局开始时的背包。</string>
         <string lang="jp">ゲームオーバーになった場合は、次のランに向けて最高のモジュールを回収することを忘れないでください。</string>
         <string lang="ru">Если вы проиграете, не забудьте спасти свой лучший модуль для следующего запуска.</string>
