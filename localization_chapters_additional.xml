@@ -17,7 +17,7 @@ Wir werden auf Riesenkröten und intelligente Pilze treffen. Haltet die Augen na
 We’re liable to see giant toads and sentient mushrooms. Keep your eyes peeled for any modules people have left behind. <!-- Also, try to keep your socks dry. -->
 </string>
         <string lang="fr">Les marais sont humides. Les palustres sont humides. Les marais palustres sont les plus humides de tous.
-Nous allons rencontrer des crapauds géants et des champignons intelligents. Gardez les yeux ouverts pour les modules que les gens ont laissés derrière eux. <!-- Et surtout, essayez de garder vos chaussettes sèches. -->
+Nous allons rencontrer des crapauds géants et des champignons intelligents. Gardez les yeux ouverts pour récupérer des modules que des gens ont pu laisser derrière eux. <!-- Et surtout, essayez de garder vos chaussettes sèches. -->
 </string>
         <string lang="zh">沼泽是潮湿的，湿地是潮湿的。湿沼地是个极度潮湿的地方。
 我们可能会看到巨大的蟾蜍和有意识的蘑菇。请留意关注前人留在这里的模块。<!-- 也试着保持你的袜子干燥。 -->
@@ -45,7 +45,7 @@ Peat turns into coal in an afternoon. The mangroves grow so quick you can hear �
 Also, try to keep your socks dry.<!-- Thankfully the toads are big enough to keep them toadstools in check. -->
 </string>
         <string lang="fr">Les marais sont censés se décomposer lentement, mais avec le champ grav. instable ici, le temps passe en saccades.
-Le tourbe se transforme en charbon en après-midi. Les mangroves poussent si vite que vous pouvez les entendre gémir. Ne vous approchez pas des spores de champignons, sinon vous manquerez le dîner!
+L'après-midi, le tourbe se transforme en charbon. Les mangroves poussent si vite que vous pouvez les entendre gémir. Ne vous approchez pas des spores de champignons, sinon vous manquerez le dîner!
 <!-- Heureusement, les crapauds sont assez grands pour garder les champignons sous contrôle. -->
 </string>
         <string lang="zh">沼泽通常是缓慢腐败的，但在不稳定的引力场中，时间可能会断断续续。
@@ -81,7 +81,7 @@ El turba se convierte en carbón en una tarde. Los manglares crecen tan rápido 
     <set id="name-chapter-lavacaves">
         <string lang="de">Lava-Höhlen</string>
         <string lang="en">Lava Caves</string>
-        <string lang="fr">Cavernes</string>
+        <string lang="fr">Cavernes de lave</string>
     </set>
     <set id="name-chapter-plains">
         <string lang="de">Steppe</string>
@@ -99,8 +99,8 @@ Allerdings ist der Grund, warum hier überhaupt noch wertvolles Zeug rumliegt, d
         <string lang="en">The ruins of what appears to have been a city. Great gear should be around here. 
 That said, the only reason valuable stuff is still lying around out in the open is that there are traps and contraptions everywhere.
 </string>
-        <string lang="fr">Les restes de la Cité Silo. Équipement de grande qualité doix être autour ici.
-Cependant, la seule raison que des choses valables sont toujours en train de se trouver en dehors de la porte est qu'il y a des gangs de renards voraces au pouvoir.
+        <string lang="fr">Les restes de la Cité Silo. De l'équipement de grande qualité doit se trouver ici.
+Cependant, la seule raison que des choses de valeurs soient trouvables à ciel ouvert, est qu'il y a des gangs de renards voraces au pouvoir.
 </string>
     </set>
     <set id="name-chapter-silvestria">
@@ -111,12 +111,12 @@ Cependant, la seule raison que des choses valables sont toujours en train de se 
     <set id="name-chapter-thunderpeak">
         <string lang="de">Donnerspitze</string>
         <string lang="en">Thunder Peak</string>
-        <string lang="fr">Cime de tonnerre</string>
+        <string lang="fr">Cime du tonnerre</string>
     </set>
     <set id="name-chapter-walledgarden">
         <string lang="de">n/a</string>
         <string lang="en">Walled Garden</string>
-        <string lang="fr">n/a</string>
+        <string lang="fr">Jardin Walled</string>
     </set>
     <set id="story-chapter-lavacaves">
         <string lang="de">Sei vorsichtig, die Felsen sind hier rasiermesserscharf.
@@ -127,7 +127,9 @@ Wir sollten wahrscheinlich unsere Mäntel ausziehen.</string>
 That skittering in the dark is another strange collection of creatures. They have lived down here for compressed eons and can easily avoid the eruptions. 
 We will have to watch when and where we step in order to avoid the emissions of lava.
 We should probably take off our coats.</string>
-        <string lang="fr">Story n/a</string>
+        <string lang="fr">Ces ondulations dans la pénombre sont la manifestation d'étranges créatures. Elles vivent ici bas pour des eons compressés et peuvent aisément éviter les éruptions.
+		Nous devrons être vigilant à quand et où nous devrons poser nos pieds, afin d'éviter les éruptions volcaniques.
+	Nous devrions enelever nos vestes.</string>
     </set>
     <set id="story-chapter-plains">
         <string lang="de">Story n/a</string>
@@ -146,8 +148,8 @@ Ups. Diese Fußabdrücke sehen groß aus.</string>
         <string lang="en">The damp here is good for the plants. Or the plants are making it damp here. Source’s not totally clear.
 I haven’t been out here in a long time. I don’t even know what to expect. 
 Yikes. Those footprints look big.</string>
-        <string lang="fr">Les forêts gravioactiveux de Silvestria. Je n’ai pas été loin de longtemps. Je ne sais pas ce que je dois attendre.
-Oh là là, ces traces de pieds semblent grandes.</string>
+        <string lang="fr">Le marais est bon pour les plantes. Ou les plantes créées leur propre marais. Leur source n'est pas très clair. Je n’ai pas été loin longtemps. Je ne sais pas à quoi m'attendre.
+Oh là là, ces traces de pieds semblent grandes...</string>
     </set>
     <set id="story-chapter-silvestria" firstCycle="3" lastCycle="6">
         <string lang="de">Üppiger gravioaktiver Wald, so weit das Auge reicht (was nicht allzu weit ist, denn der Wuchs ist überaus dicht). 
@@ -156,8 +158,9 @@ Die Bienen scheinen heute besonders wütend.</string>
         <string lang="en">Lush gravioactive forest as far as you can see, which ain’t too far, because it is thick. Ferns, marsh grasses, and cactuses grow in little pockets of sunlight. 
 Most eclectic jungle I’ve ever seen. Also the one with the largest bee population. 
 The bees seem especially angry today.</string>
-        <string lang="fr">Les forêts gravioactiveux de Silvestria. Je n’ai pas été loin de longtemps. Je ne sais pas ce que je dois attendre.
-Oh là là, ces traces de pieds semblent grandes.</string>
+        <string lang="fr">Les forêts gravioactiveux de Silvestria aussi loin que vous pouvez voir, ce qui n'est pas très loin, car c'est opaque. Fougères, graminées, et cactus grandissent tel des rayons de lumières. 
+		La forêt la plus électrique que j'ai jamais vu. Aussi celle avec le plus d'abeilles. 
+	Aujourd'hui, elles semblent particulièrement énervées.</string>
     </set>
     <set id="story-chapter-thunderpeak">
         <string lang="de">Story N/A</string>
