@@ -1,7 +1,8 @@
 <localization>
     <set id="advice-camp">
         <string lang="de">Die Modul-Belohnungen der Camp-Gebäude sind mächtig. Plane, jedes Level mit genügend Plasma abzuschließen, um sie freizuschalten.</string>
-        <string lang="en">Module rewards from the camp structures are powerful. Plan to finish each stage with enough plasma to purchase them.</string>
+        <string lang="en">Module rewards from the camp structures are powerful.
+Plan to finish each stage with enough plasma to purchase them.</string>
         <string lang="fr">Les récompenses des modules des structures du camp sont puissantes. Prévoyez de terminer chaque étapes avec suffisamment de plasma pour les acheter.</string>
         <string lang="zh">从营地建筑获取的奖励模块非常强大，在每个大关卡结束前准备好足够的等离子体来购买它们。</string>
         <string lang="jp">キャンプの建物からのモジュール報酬は強力です。それらを購入するために十分なプラズマで各ステージを終了するように計画してください。</string>
@@ -102,7 +103,8 @@ Try to not let energy on sensor modules dissipate.</string>
     </set>
     <set id="advice-enemies-1">
         <string lang="de">Klicke auf Gegner, um ihre Fähigkeiten zu sehen. Gegner werden immer versuchen, deine Pläne zu durchkreuzen und ihre Verbündeten zu unterstützen.</string>
-        <string lang="en">Click on enemies to see their abilities. Enemies will always try to disrupt your plans and support their allies.</string>
+        <string lang="en">Click on enemies to see their abilities.
+Enemies will always try to disrupt your plans and support their allies.</string>
         <string lang="fr">Cliquez sur les ennemis pour voir leurs capacités. Les ennemis essaieront toujours de perturber vos plans et de soutenir leurs alliés.</string>
         <string lang="zh">敌人会试图破坏你的计划并在同伴之间配合，点击敌人来查看他们的能力。</string>
         <string lang="jp">敵をクリックして能力を確認してください。敵は常にあなたの計画を妨害し、味方を支援しようとします。</string>
@@ -112,19 +114,19 @@ Try to not let energy on sensor modules dissipate.</string>
         <string lang="pt-br">Clique nos inimigos para ver suas habilidades. Os inimigos sempre tentarão interromper seus planos e apoiar seus aliados.</string>
     </set>
     <set id="advice-enemies-2">
-        <string lang="de">Überprüfe die Fähigkeiten der Gegner auf Störquellen wie $grav+$ oder $crust$.</string>
-        <string lang="en">Check enemy movesets for sources of disruption, such as $grav+$ or $crust$.</string>
-        <string lang="fr">Vérifiez les mouvements des ennemis pour savoir s'ils peuvent vous perturber, comme $grav+$ ou $crust$.</string>
-        <string lang="zh">记得检查敌人的能力中是否有能破坏你计划的特殊效果，例如 $grav+$ 或 $crust$ 。</string>
-        <string lang="jp">敵の動きをチェックして、$grav+$や$crust$などの妨害源があるかどうかを確認してください。</string>
-        <string lang="ru">Проверьте наборы ходов врагов на наличие источников нарушений, таких как $grav+$ или $crust$.</string>
-        <string lang="es">Revisa los movimientos de los enemigos en busca de fuentes de interrupción, como $grav+$ o $crust$.</string>
+        <string lang="de">Überprüfe die Fähigkeiten der Gegner auf Störquellen wie $grav$ oder $crust$.</string>
+        <string lang="en">Check enemy movesets for sources of disruption, such as $grav$ or $crust$.</string>
+        <string lang="fr">Vérifiez les mouvements des ennemis pour savoir s'ils peuvent vous perturber, comme $grav$ ou $crust$.</string>
+        <string lang="zh">记得检查敌人的能力中是否有能破坏你计划的特殊效果，例如 $grav$ 或 $crust$ 。</string>
+        <string lang="jp">敵の動きをチェックして、$grav$や$crust$などの妨害源があるかどうかを確認してください。</string>
+        <string lang="ru">Проверьте наборы ходов врагов на наличие источников нарушений, таких как $grav$ или $crust$.</string>
+        <string lang="es">Revisa los movimientos de los enemigos en busca de fuentes de interrupción, como $grav$ o $crust$.</string>
         <string lang="kr">적의 움직임을 확인하여 $grav+$ 또는 $crust$와 같은 방해 요소가 있는지 확인하십시오.</string>
-        <string lang="pt-br">Verifique os movimentos do inimigo em busca de fontes de interrupção, como $grav+$ ou $crust$.</string>
+        <string lang="pt-br">Verifique os movimentos do inimigo em busca de fontes de interrupção, como $grav$ ou $crust$.</string>
     </set>
     <set id="advice-happenings">
         <string lang="de">$b$?$/b$-Ereignisse bieten die Möglichkeit, deine Module zu duplizieren, zu transformieren oder zu verbessern.</string>
-        <string lang="en">$b$?$/b$-Events offer options to duplicate, transform or improve your modules.</string>
+        <string lang="en">$b$?$/b$-Levels offer options to duplicate, transform or improve your modules.</string>
         <string lang="fr">Les événements $b$?$/b$ offrent des options pour dupliquer, transformer ou améliorer vos modules.</string>
         <string lang="zh">地图上的$b$?$/b$-事件可能会出现复制、转换或升级模块的功能。</string>
         <string lang="jp">$b$?$/b$-イベントでは、モジュールを複製、変換、または改善するオプションが用意されています。</string>
@@ -177,17 +179,6 @@ Try to not let energy on sensor modules dissipate.</string>
         <string lang="kr">모듈을 마우스 가운데 버튼으로 클릭하면 해당 모듈이 배낭 안팎으로 전송됩니다.</string>
         <string lang="pt-br">Clicar com o botão do meio em um módulo o enviará para dentro e para fora da mochila.</string>
     </set>
-    <set id="advice-strategy">
-        <string lang="de">Manche Kämpfe können dich mit gespawnten Monstern oder Status-Effekten überwältigen. Überlege dir sorgfältig, welche Ziele du priorisieren solltest.</string>
-        <string lang="en">Some battles can overwhelm you with spawned monsters or debilitating status effects. Carefully consider your target priorities.</string>
-        <string lang="fr">Certains combats peuvent vous submerger avec des monstres apparus ou des effets de statut débilitants. Considérez soigneusement vos priorités de cible.</string>
-        <string lang="zh">一些战斗中的敌人可能会用能力或者环境效果克制你。谨慎安排你攻击敌人的优先级。</string>
-        <string lang="jp">一部の戦闘では、生成されたモンスターや弱体化効果で圧倒される可能性があります。ターゲットの優先順位を慎重に考えてください。</string>
-        <string lang="ru">Некоторые бои могут подавить вас с помощью появившихся монстров или ослабляющих статусных эффектов. Тщательно обдумайте свои приоритеты целей.</string>
-        <string lang="es">Algunas batallas pueden abrumarte con monstruos generados o efectos de estado debilitantes. Considera cuidadosamente tus prioridades de objetivo.</string>
-        <string lang="kr">몇몇 전투에서는 생성된 몬스터나 약화 상태 효과로 압도당할 수 있습니다. 대상 우선 순위를 신중히 고려하십시오.</string>
-        <string lang="pt-br">Algumas batalhas podem sobrecarregá-lo com monstros gerados ou efeitos de status debilitantes. Considere cuidadosamente suas prioridades de alvo.</string>
-    </set>
     <set id="advice-salvage">
         <string lang="de">Wenn du Game Over gehst, vergiss nicht, dein bestes Modul in den nächsten Run hinüberzuretten.</string>
         <string lang="en">If you go Game Over, don't forget to salvage your best module for the next run.</string>
@@ -199,4 +190,28 @@ Try to not let energy on sensor modules dissipate.</string>
         <string lang="kr">게임 오버가 되면 다음 런을 위해 최고의 모듈을 회수하는 것을 잊지 마십시오.</string>
         <string lang="pt-br">Se você for Game Over, não se esqueça de salvar seu melhor módulo para a próxima rodada.</string>
     </set>
+    <set id="advice-strategy">
+        <string lang="de">Manche Kämpfe können dich mit gespawnten Monstern oder Status-Effekten überwältigen. Überlege dir sorgfältig, welche Ziele du priorisieren solltest.</string>
+        <string lang="en">Some battles can overwhelm you with spawned monsters or debilitating status effects.
+Carefully consider your target priorities.</string>
+        <string lang="fr">Certains combats peuvent vous submerger avec des monstres apparus ou des effets de statut débilitants. Considérez soigneusement vos priorités de cible.</string>
+        <string lang="zh">一些战斗中的敌人可能会用能力或者环境效果克制你。谨慎安排你攻击敌人的优先级。</string>
+        <string lang="jp">一部の戦闘では、生成されたモンスターや弱体化効果で圧倒される可能性があります。ターゲットの優先順位を慎重に考えてください。</string>
+        <string lang="ru">Некоторые бои могут подавить вас с помощью появившихся монстров или ослабляющих статусных эффектов. Тщательно обдумайте свои приоритеты целей.</string>
+        <string lang="es">Algunas batallas pueden abrumarte con monstruos generados o efectos de estado debilitantes. Considera cuidadosamente tus prioridades de objetivo.</string>
+        <string lang="kr">몇몇 전투에서는 생성된 몬스터나 약화 상태 효과로 압도당할 수 있습니다. 대상 우선 순위를 신중히 고려하십시오.</string>
+        <string lang="pt-br">Algumas batalhas podem sobrecarregá-lo com monstros gerados ou efeitos de status debilitantes. Considere cuidadosamente suas prioridades de alvo.</string>
+    </set>
+    <set id="advice-storm">
+        <string lang="de">Wenn du einen Kampf nicht rechtzeitig beendest, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
+        <string lang="en">If you can't manage to end a battle in time, a $storm$ is gathering and the battle will take a dangerous turn.</string>
+        <string lang="fr">Si vous ne parvenez pas à mettre fin au combat à temps, une $storm$ se rassemble et la bataille prendra une tournure dangereuse.</string>
+        <string lang="zh">如果战斗持续得太久，$storm$将会聚集，让战斗变得越来越危险。</string>
+        <string lang="jp">戦闘を間に合わせることができない場合、$storm$ が集まり、戦闘は危険な方向に向かいます。</string>
+        <string lang="ru">Если вы не сможете закончить бой вовремя, соберется $storm$ и битва примет опасный оборот.</string>
+        <string lang="es">Si no puedes terminar la pelea a tiempo, se está formando una $storm$ y la batalla tomará un giro peligroso.</string>
+        <string lang="kr">시간 내에 전투를 끝내지 못하면 $storm$이 모이고 전투는 위험한 방향으로 전환됩니다.</string>
+        <string lang="pt-br">Se você não conseguir terminar a luta a tempo, uma $storm$ está se formando e a batalha tomará um rumo perigoso.</string>
+    </set>
+
 </localization>

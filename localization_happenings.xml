@@ -630,16 +630,38 @@ Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
         <string lang="kr">4개의 스테이지</string>
         <string lang="pt-br">4 etapas</string>
     </set>
-        <set id="happening-endofdemo-currentdifficulty">
+<set id="happening-endofdemo-currentdifficulty">
         <string lang="de">Aktuelle Schwierigkeitsstufe: $DIFFICULTY$</string>
-        <string lang="en">Current difficulty: $DIFFICULTY$</string>
+        <string lang="en">Current Difficulty: $DIFFICULTY$</string>
         <string lang="fr">Difficulté actuelle : $DIFFICULTY$</string>
         <string lang="zh">当前难度：$DIFFICULTY$</string>
         <string lang="jp">現在の難易度：$DIFFICULTY$</string>
         <string lang="ru">Текущая сложность: $DIFFICULTY$</string>
-        <string lang="es">Dificultad actual: $DIFFICULTY$</string>
+        <string lang="es">Dificultad Actual: $DIFFICULTY$</string>
         <string lang="kr">현재 난이도: $DIFFICULTY$</string>
         <string lang="pt-br">Dificuldade atual: $DIFFICULTY$</string>
+    </set>
+        <set id="happening-endofdemo-runduration">
+        <string lang="de">Dauer des Runs: $DURATION$</string>
+        <string lang="en">Run Duration: $DURATION$</string>
+        <string lang="fr">Durée du Run : $DURATION$</string>
+        <string lang="zh">游戏时长：$DURATION$</string>
+        <string lang="jp">ランの期間：$DURATION$</string>
+        <string lang="ru">Продолжительность раунда: $DURATION$</string>
+        <string lang="es">Duración: $DURATION$</string>
+        <string lang="kr">런 기간: $DURATION$</string>
+        <string lang="pt-br">Duração: $DURATION$</string>
+    </set>
+            <set id="happening-endofdemo-currentplasma">
+        <string lang="de">Plasma: $PLASMA$</string>
+        <string lang="en">Plasma: $PLASMA$</string>
+        <string lang="fr">Plasma : $PLASMA$</string>
+        <string lang="zh">等离子：$PLASMA$</string>
+        <string lang="jp">プラズマ：$PLASMA$</string>
+        <string lang="ru">Плазма: $PLASMA$</string>
+        <string lang="es">Plasma: $PLASMA$</string>
+        <string lang="kr">플라즈마: $PLASMA$</string>
+        <string lang="pt-br">Plasma: $PLASMA$</string>
     </set>
     <set id="happening-endofdemo-wishlist">
         <string lang="de">+ STEAM WUNSCHLISTE</string>
@@ -684,14 +706,14 @@ Você quer apoiar o desenvolvimento?</string>
         <string lang="pt-br">• Espalhe a palavra sobre Rogue Voltage</string>
     </set>
     <set id="happening-endofdemo-jointhecommunity">
-        <string lang="de">• Werde Teil unserer Community:</string>
-        <string lang="en">• Become a part of the community:</string>
-        <string lang="fr">• Rejoignez notre communauté:</string>
-        <string lang="zh">• 加入我们的社区：</string>
-        <string lang="jp">• コミュニティに参加してください：</string>
-        <string lang="ru">• Станьте частью сообщества:</string>
-        <string lang="es">• Forma parte de la comunidad:</string>
-        <string lang="kr">• 커뮤니티의 일원이 되세요:</string>
-        <string lang="pt-br">• Faça parte da comunidade:</string>
+        <string lang="de">Zeige deinen Build in der Community</string>
+        <string lang="en">Show off your build in the community</string>
+        <string lang="fr">Montrez votre build dans la communauté</string>
+        <string lang="zh">在社区展示你的建筑</string>
+        <string lang="jp">コミュニティでビルドを見せてください</string>
+        <string lang="ru">Покажите свой билд в сообществе</string>
+        <string lang="es">Muestra tu construcción en la comunidad</string>
+        <string lang="kr">커뮤니티에서 빌드를 자랑하세요</string>
+        <string lang="pt-br">Mostre sua construção na comunidade</string>
     </set>
 </localization>

@@ -472,6 +472,17 @@
         <string lang="kr">보호 스크린 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Tela Protetora $MODIFICATIONVALUE$</string>
     </set>
+        <set id="name-module-effectorvulnerability">
+        <string lang="de">Verwundbarkeitsmodul $MODIFICATIONVALUE$</string>
+        <string lang="en">Vuln. Module $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module Vulnérabilité $MODIFICATIONVALUE$</string>
+        <string lang="zh">易伤模块 $MODIFICATIONVALUE$</string>
+        <string lang="jp">脆弱性モジュール $MODIFICATIONVALUE$</string>
+        <string lang="ru">модуль уязвимости $MODIFICATIONVALUE$</string>
+        <string lang="es">Módulo de Vulnerabilidad $MODIFICATIONVALUE$</string>
+        <string lang="kr">취약성 모듈 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Módulo de Vulnerabilidade $MODIFICATIONVALUE$</string>
+    </set>
     <set id="name-module-factorypotion">
         <string lang="de">Heiltrank-Fabrik $MODIFICATIONVALUE$</string>
         <string lang="en">Potion Factory $MODIFICATIONVALUE$</string>
@@ -1017,6 +1028,26 @@ valioso $plasma$.</string>
         <string lang="pt-br">Aplica $shield$ a todos os aliados.
 (Duração: $energy$×3).</string>
     </set>
+        <set id="description-module-effectorvulnerability">
+        <string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.
+(Dauer: $energy$×3)</string>
+        <string lang="en">Inflicts target enemy with $vulnerable$.
+(Duration: $energy$×3).</string>
+        <string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.
+(Durée: $energy$×3).</string>
+        <string lang="zh">让目标获得 $vulnerable$ 。
+（持续时间：$energy$ ×3）。</string>
+        <string lang="jp">対象の敵に$vulnerable$を与えます。
+（持続時間：$energy$ ×3）。</string>
+        <string lang="ru">Наносит цели $vulnerable$.
+(Длительность: $energy$×3).</string>
+        <string lang="es">Inflige $vulnerable$ al enemigo objetivo.
+(Duración: $energy$×3).</string>
+        <string lang="kr">대상 적에게 $vulnerable$를 줍니다.
+(지속시간: $energy$×3).</string>
+        <string lang="pt-br">Inflige $vulnerable$ ao inimigo alvo.
+(Duração: $energy$×3).</string>
+    </set>
     <set id="description-module-factorypotion">
         <string lang="de">Stellt einen universellen $b$Heiltrank$/b$
 mit $cracked$ her.</string>
@@ -1228,14 +1259,19 @@ a uma corrente.</string>
     </set>
     <set id="description-module-storagecell">
         <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$ entladen werden.</string>
-        <string lang="en">Can be discharged for $b$$CHARGEVALUE$$/b$ $energy$.</string>
-        <string lang="fr">Peut être déchargé pour $b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="en">Can be discharged for 
+$b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="fr">Peut être déchargé pour
+$b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="zh">释放 $b$$CHARGEVALUE$$/b$ $energy$ 能量。</string>
         <string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
-        <string lang="ru">Может быть разряжен на $b$$CHARGEVALUE$$/b$ $energy$.</string>
-        <string lang="es">Puede ser descargado por $b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="ru">Может быть разряжен на
+$b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="es">Puede ser descargado por
+$b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를 방전할 수 있습니다.</string>
-        <string lang="pt-br">Pode ser descarregado por $b$$CHARGEVALUE$$/b$ $energy$.</string>
+        <string lang="pt-br">Pode ser descarregado por 
+$b$$CHARGEVALUE$$/b$ $energy$.</string>
     </set>
     <set id="description-module-storagecellselfcharging">
         <string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>

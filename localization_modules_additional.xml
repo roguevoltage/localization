@@ -167,25 +167,6 @@
         <string lang="zh">治疗目标玩家角色。</string>
         <string lang="jp">対象のプレイヤー キャラクターを回復します。</string>
     </set>
-    <set id="name-module-effectorvulnerability">
-        <string lang="de">Verwundbarkeitsmodul $MODIFICATIONVALUE$</string>
-        <string lang="en">Vuln. Module $MODIFICATIONVALUE$</string>
-        <string lang="fr">Module Vulnérabilité $MODIFICATIONVALUE$</string>
-        <string lang="zh">易伤模块 $MODIFICATIONVALUE$</string>
-        <string lang="jp">脆弱性モジュール $MODIFICATIONVALUE$</string>
-    </set>
-    <set id="description-module-effectorvulnerability">
-        <string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.
-(Dauer: $energy$×3)</string>
-        <string lang="en">Inflicts target enemy with $vulnerable$.
-(Duration: $energy$×3).</string>
-        <string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.
-(Durée: $energy$×3).</string>
-        <string lang="zh">让目标获得 $vulnerable$ 。
-（持续时间：$energy$ ×3）。</string>
-        <string lang="jp">対象の敵に$vulnerable$を与えます。
-（持続時間：$energy$ ×3）。</string>
-    </set>
     <set id="name-module-effectorgravimmunity">
         <string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Immunizer $MODIFICATIONVALUE$</string>

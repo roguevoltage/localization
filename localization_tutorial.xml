@@ -321,9 +321,9 @@ Use seu $blademodule$ para causar um dano sério.</string>
         <string lang="pt-br">Alinhando Turnos</string>
     </set>
     <set id="tutorialwindow-decelerate-description">
-        <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug mit $grav+$ auf der Zeitleiste nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$-Modul!</string>
-        <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$ module!</string>
-        <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son module $b$Décélérateur$/b$!</string>
+        <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug mit $grav+$ auf der Zeitleiste nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$!</string>
+        <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$!</string>
+        <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son $b$Décélérateur$/b$!</string>
         <string lang="zh">还记得 $chronocat$ 是如何用 $grav+$ 将时间轴上的一个回合向后推的吗？$slopperjackson$可以用他的$b$减速器 +1$/b$模块做同样的事情！</string>
         <string lang="jp">$chronocat$ が $grav+$ でタイムライン上のターンを後ろに押し戻した方法を覚えていますか？ $slopperjackson$ は、同じことを $b$ 減速器 +1$/b$ モジュールで行うことができます！</string>
         <string lang="ru">Помните, как $chronocat$ отложил ход с $grav+$? $slopperjackson$ может сделать то же самое с его модулем $b$Замедлитель +1$/b$!</string>
@@ -501,7 +501,7 @@ Se você tiver a $b$Poção de Cura$/b$ conectada ao $b$Sensor de Almas$/b$ enqu
         <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
 Es ebnet Ungleichgewicht von $grav$ ein.</string>
         <string lang="en">Now it's the turn of the $gravequilibrium$.
-It flattens out imbalances of $grav$.</string>
+It levels imbalances of $grav$.</string>
         <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
 Il équilibre les déséquilibres de $grav$.</string>
         <string lang="zh">现在是$b$引力平衡$/b$的回合。
@@ -675,24 +675,15 @@ Os combatentes recebem metade dele como $damage$ (arredondado para cima).</strin
         <string lang="pt-br">Quanto mais cedo você terminar a batalha, melhor será o seu saque. A barra de classificação mostra quanto tempo você tem.</string>
     </set>
     <set id="tutorialwindow-battlerating-description2">
-        <string lang="de">Strebe immer nach der bestmöglichen Bewertung, um wertvollere Module zu erhalten.
-Wenn du den Kampf nicht rechtzeitig beendest, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
-        <string lang="en">Always aim for the best possible rating to receive more durable and valuable modules as loot.
-If you can't manage to end the fight in time, a $storm$ is gathering and the battle will take a dangerous turn.</string>
-        <string lang="fr">Visez toujours la meilleure note possible pour recevoir des modules plus durables et plus précieux comme butin.
-Si vous ne parvenez pas à mettre fin au combat à temps, une $storm$ se rassemble et la bataille prendra une tournure dangereuse.</string>
-        <string lang="zh">始终以最佳评级为目标，以获得更耐用和更有价值的模块作为战利品。
-如果战斗持续得太久，$storm$将会聚集，让战斗变得越来越危险。</string>
-        <string lang="jp">戦利品としてより耐久性の高い貴重なモジュールを受け取るためには、常に最高の評価を目指してください。
-戦闘を間に合わせることができない場合、$storm$ が集まり、戦闘は危険な方向に向かいます。</string>
-        <string lang="ru">Всегда стремитесь к оценке $gold$, чтобы получить самые прочные и ценные модули в качестве добычи.
-Если вы не сможете закончить бой вовремя, соберется $storm$ и битва примет опасный оборот.</string>
-        <string lang="es">Apunta siempre a la mejor calificación posible para recibir módulos más duraderos y valiosos como botín.
-Si no puedes terminar la pelea a tiempo, se está formando una $storm$ y la batalla tomará un giro peligroso.</string>
-        <string lang="kr">전리품으로 더 튼튼하고 값진 모듈을 받으려면 항상 최상의 등급을 목표로 하세요.
-시간 내에 전투를 끝내지 못하면 $storm$이 모이고 전투는 위험한 방향으로 전환됩니다.</string>
-        <string lang="pt-br">Sempre aponte para a melhor classificação possível para receber módulos mais duráveis e valiosos como saque.
-Se você não conseguir terminar a luta a tempo, uma $storm$ está se formando e a batalha tomará um rumo perigoso.</string>
+        <string lang="de">Strebe immer nach der bestmöglichen Bewertung, um wertvollere Module zu erhalten.</string>
+        <string lang="en">Always aim for the best possible rating to receive more durable and valuable modules as loot.</string>
+        <string lang="fr">Visez toujours la meilleure note possible pour recevoir des modules plus durables et plus précieux comme butin.</string>
+        <string lang="zh">始终以最佳评级为目标，以获得更耐用和更有价值的模块作为战利品。</string>
+        <string lang="jp">戦利品としてより耐久性の高い貴重なモジュールを受け取るためには、常に最高の評価を目指してください。</string>
+        <string lang="ru">Всегда стремитесь к оценке $gold$, чтобы получить самые прочные и ценные модули в качестве добычи.</string>
+        <string lang="es">Apunta siempre a la mejor calificación posible para recibir módulos más duraderos y valiosos como botín.</string>
+        <string lang="kr">전리품으로 더 튼튼하고 값진 모듈을 받으려면 항상 최상의 등급을 목표로 하세요.</string>
+        <string lang="pt-br">Sempre aponte para a melhor classificação possível para receber módulos mais duráveis e valiosos como saque.</string>
     </set>
     <set id="ui-tutorialbutton-continue">
         <string lang="de">Alles klar!</string>
