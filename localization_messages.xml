@@ -21,6 +21,39 @@
         <string lang="kr">이 소켓에서는 가져올 수 없습니다.</string>
         <string lang="pt-br">Não pode ser retirado deste socket</string>
     </set>
+    <set id="error-modulelock-startingmodule">
+        <string lang="de">Charakterausrüstung kann nicht vom Rack genommen werden</string>
+        <string lang="en">Character loadout cannot be taken from rack</string>
+        <string lang="fr">L'équipement du personnage ne peut pas être pris depuis le rack</string>
+        <string lang="zh">角色装备不能从机架中取出</string>
+        <string lang="jp">キャラクターの装備はラックから取り出せません</string>
+        <string lang="ru">Снаряжение персонажа нельзя взять из стойки</string>
+        <string lang="es">Equipo del personaje no se puede sacar del rack</string>
+        <string lang="kr">캐릭터 장비는 랙에서 가져올 수 없습니다.</string>
+        <string lang="pt-br">O equipamento do personagem não pode ser retirado do rack</string>
+    </set>
+    <set id="error-modulelock-eob">
+        <string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
+        <string lang="en">Can only be moved outside of combat</string>
+        <string lang="fr">Peut être déplacé seulement en dehors du combat</string>
+        <string lang="zh">只能在战斗外移动</string>
+        <string lang="jp">戦闘外でのみ移動可能</string>
+        <string lang="ru">Может быть перемещено только вне боя</string>
+        <string lang="es">Solo puede ser movido fuera de combate</string>
+        <string lang="kr">전투 외에만 이동할 수 있습니다</string>
+        <string lang="pt-br">Só pode ser movido fora do combate</string>
+    </set>
+    <set id="error-modulelock-nextturn">
+        <string lang="de">Bis zum nächsten Zug ans Rack geschlossen</string>
+        <string lang="en">Locked to rack until next turn</string>
+        <string lang="fr">Verrouillé au rack jusqu'au prochain tour</string>
+        <string lang="zh">下一回合前锁定在机架</string>
+        <string lang="jp">次のターンまでラックに固定</string>
+        <string lang="ru">Закрыто до следующего хода</string>
+        <string lang="es">Bloqueado al rack hasta el siguiente turno</string>
+        <string lang="kr">다음 턴까지 랙에 고정됩니다</string>
+        <string lang="pt-br">Trancado no rack até o próximo turno</string>
+    </set>
     <set id="error-modulecannotbetakenfromrack">
         <string lang="de">Kann nicht vom Rack genommen werden</string>
         <string lang="en">Cannot be taken from rack</string>
