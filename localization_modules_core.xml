@@ -794,7 +794,7 @@
     <set id="description-module-condensator">
         <string lang="de">Kann ge- oder entladen werden. Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
         <string lang="en">Can be charged or discharged. Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
-        <string lang="fr">Peut être chargé ou déchargé. $energy$ entrant est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
+        <string lang="fr">Peut être chargé ou déchargé. $energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
         <string lang="zh">可充电或放电。传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
         <string lang="jp">充電または放電可能。入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
         <string lang="ru">Может быть заряжен или разряжен. Входящий $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
@@ -1025,7 +1025,8 @@ valioso $plasma$.</string>
 (Dauer: $energy$×3)</string>
         <string lang="en">Applies $shield$ to all allies.
 (Duration: $energy$×3).</string>
-        <string lang="fr">Applique $shield$ à tous les alliés.
+        <string lang="fr">Applique $shield$
+à tous les alliés.
 (Durée: $energy$×3).</string>
         <string lang="zh">让目标队友获得 $shield$，持续 $energy$×3。</string>
         <string lang="jp">全ての味方に$shield$を与えます。
@@ -1063,8 +1064,7 @@ valioso $plasma$.</string>
         <string lang="de">Stellt einen universellen $b$Heiltrank$/b$
 mit $cracked$ her.</string>
         <string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
-        <string lang="fr">Construe un $b$Potion de Soin$/b$ universel
-avec $cracked$.</string>
+        <string lang="fr">Construe un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
         <string lang="zh">制造一个通用的$b$治疗药水$/b$。</string>
         <string lang="jp">一般的な $b$回復薬$/b$を作ります。</string>
         <string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
