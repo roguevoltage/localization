@@ -506,26 +506,12 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="zh">增强器</string>
         <string lang="jp">ブースター</string>
     </set>
-    <set id="description-module-toggledboostere-eob">
+    <set id="description-module-toggledbooster-eob">
         <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
         <string lang="en">Applies a $boost$ to a non-loadout module on this rack until the end of combat.</string>
         <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
         <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
-    </set>
-    <set id="name-module-toggledbooster-modifiers">
-        <string lang="de">Durchsatz-Booster</string>
-        <string lang="en">Throughput Booster</string>
-        <string lang="fr">Booster de Débit</string>
-        <string lang="zh">中继器增强器</string>
-        <string lang="jp">スループットブースター</string>
-    </set>
-    <set id="description-module-toggledbooster-modifiers">
-        <string lang="de">Versieht alle Module vom Typ $b$Durchsatzmodul$/b$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-        <string lang="en">Applies $boost$ to all modules of type $b$Throughput Module$/b$ on this rack until the end of turn.</string>
-        <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Débit$/b$ sur ce rack jusqu'à la fin du tour.</string>
-        <string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$b$Throughput Module$/b$的模块。</string>
-        <string lang="jp">ターン終了まで、このラックのすべてのタイプ$b$Throughput Module$/b$のモジュールに$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>
