@@ -513,6 +513,22 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
         <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
+    <set id="name-module-toggleddurabilityenhancer">
+        <string lang="de">Booster</string>
+        <string lang="en">Durability Enhancer</string>
+        <string lang="fr">Booster</string>
+        <string lang="zh">增强器</string>
+        <string lang="jp">ブースター</string>
+    </set>
+    <set id="description-module-toggleddurabilityenhancer">
+        <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Permanently removes $overload$ from a module 
+- or -
+permanently removes $fragile$ from a module and replaces it with $overload$.</string>
+        <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
+        <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
+        <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
+    </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>
         <string lang="en">Storm Grenade</string>

@@ -725,9 +725,9 @@
         <string lang="kr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;중력 반동&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Recuo Grav.&lt;/color&gt;&lt;/b&gt;</string>
     </set>
-    <set id="$plasmacrepitation$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Plasma-Verpuffung&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Plasma Crepitation&lt;/color&gt;&lt;/b&gt;</string>
+    <set id="$plasmacombustion$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Plasma-Verbrennung&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Plasma Combustion&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Crépitation Plasma&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;等离子爆炸&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;プラズマ爆発&lt;/color&gt;&lt;/b&gt;</string>
@@ -759,15 +759,26 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Rachado&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$fragile$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Fragil&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Fragile&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Fragile&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;易碎&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;脆弱&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Хрупкий&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Frágil&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;깨지기 쉬운&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#54FFFE&gt;&lt;sprite name="fragile" tint=1&gt;Frágil&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Fragil&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Fragile&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Fragile&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;易碎&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;脆弱&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Хрупкий&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Frágil&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;깨지기 쉬운&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="fragile" tint=1&gt;&lt;/color&gt;Frágil&lt;/b&gt;</string>
+    </set>
+    <set id="$overload$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Überlastet&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Overload&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Surcharge&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;过载&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;オーバーロード&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Перегрузка&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Sobrecarga&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;과부하&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#86B5B0&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Sobrecarga&lt;/b&gt;</string>
     </set>
     <set id="$unstable$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#86b5b0&gt;&lt;sprite name="cloud" tint=1&gt;Instabil&lt;/color&gt;&lt;/b&gt;</string>

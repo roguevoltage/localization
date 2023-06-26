@@ -450,9 +450,9 @@
         <string lang="kr">전압</string>
         <string lang="pt-br">Voltagem</string>
     </set>
-    <set id="name-skill-moduleplasmacrepitation">
-        <string lang="de">Plasma-Verpuffung</string>
-        <string lang="en">Plasma Crepitation</string>
+    <set id="name-skill-moduleplasmacombustion">
+        <string lang="de">Plasma-Verbrennung</string>
+        <string lang="en">Plasma Combustion</string>
         <string lang="fr">Crépitation Plasma</string>
         <string lang="zh">等离子爆裂</string>
         <string lang="jp">プラズマ爆燃</string>
@@ -1019,16 +1019,16 @@ and inflicts $grav+2$</string>
         <string lang="kr">모든 적에게 $1damage$ 를 적용하고 모듈에 $gravrecoil$ 를 적용합니다.</string>
         <string lang="pt-br">Inflige a todos os inimigos $1damage$ e lhes aplica um módulo com $gravrecoil$</string>
     </set>
-    <set id="description-skill-moduleplasmacrepitation">
-        <string lang="de">Verursacht $d1amage$ und versieht ein Modul mit $plasmacrepitation$.</string>
-        <string lang="en">Deals $1damage$ and inflicts a module with $plasmacrepitation$.</string>
-        <string lang="fr">Inflige $1damage$ et applique $plasmacrepitation$ à un module.</string>
-        <string lang="zh">对一个模块施加 $plasmacrepitation$ 并造成 $1damage$</string>
-        <string lang="jp">モジュールに $plasmacrepitation$ を与え、$1damage$ を与える</string>
-        <string lang="ru">Наносит $1damage$ и накладывает $plasmacrepitation$ на модуль.</string>
-        <string lang="es">Inflige $1damage$ y le aplica un módulo con $plasmacrepitation$</string>
-        <string lang="kr">모듈에 $plasmacrepitation$ 를 적용하고 $1damage$ 를 적용합니다.</string>
-        <string lang="pt-br">Inflige $1damage$ e lhe aplica um módulo com $plasmacrepitation$</string>
+    <set id="description-skill-moduleplasmacombustion">
+        <string lang="de">Verursacht $d1amage$ und versieht ein Modul mit $plasmacombustion$.</string>
+        <string lang="en">Deals $1damage$ and inflicts a module with $plasmacombustion$.</string>
+        <string lang="fr">Inflige $1damage$ et applique $plasmacombustion$ à un module.</string>
+        <string lang="zh">对一个模块施加 $plasmacombustion$ 并造成 $1damage$</string>
+        <string lang="jp">モジュールに $plasmacombustion$ を与え、$1damage$ を与える</string>
+        <string lang="ru">Наносит $1damage$ и накладывает $plasmacombustion$ на модуль.</string>
+        <string lang="es">Inflige $1damage$ y le aplica un módulo con $plasmacombustion$</string>
+        <string lang="kr">모듈에 $plasmacombustion$ 를 적용하고 $1damage$ 를 적용합니다.</string>
+        <string lang="pt-br">Inflige $1damage$ e lhe aplica um módulo com $plasmacombustion$</string>
     </set>
     <set id="description-skill-modulespawn-timebomb">
         <string lang="de">Platziert ein $b$Zeitbomben-Modul$/b$ in eins deiner Racks.</string>

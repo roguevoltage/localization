@@ -637,16 +637,16 @@
         <string lang="kr">반동 증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador de Rebote $MODIFICATIONVALUE$</string>
     </set>
-    <set id="name-module-modifierplasmacrepitation">
+    <set id="name-module-modifierplasmacombustion">
         <string lang="de">Plasmaverbrennender Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Plasma-Combusting Amplifier $MODIFICATIONVALUE$</string>
         <string lang="fr">Amplificateur Plasma-Combustion $MODIFICATIONVALUE$</string>
         <string lang="zh">等离子体燃烧增幅器 $MODIFICATIONVALUE$</string>
         <string lang="jp">プラズマ燃焼増幅器 $MODIFICATIONVALUE$</string>
         <string lang="ru">плазменный усилитель сгорания $MODIFICATIONVALUE$</string>
-        <string lang="es">Amplificador de Combustión de Plasma $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador de Combustión $MODIFICATIONVALUE$</string>
         <string lang="kr">플라즈마 연소 증폭기 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Amplificador de Combustão de Plasma $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador de Combustão $MODIFICATIONVALUE$</string>
     </set>
     <set id="name-module-medikit">
         <string lang="de">Medikit</string>
@@ -1211,6 +1211,20 @@ a una corriente.</string>
 a uma corrente.</string>
     </set>
     <set id="description-module-modifierdecelerating">
+        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
+à un courant.</string>
+        <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
+a una corriente.</string>
+        <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
+a uma corrente.</string>
+    </set>
+        <set id="description-module-modifierplasmacombustion">
         <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
         <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$

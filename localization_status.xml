@@ -329,7 +329,7 @@
         <string lang="kr">중력 진공</string>
         <string lang="pt-br">Vácuo Grav.</string>
     </set>
-    <set id="name-status-moduleplasmacrepitation">
+    <set id="name-status-moduleplasmacombustion">
         <string lang="de">Plasma-Verbrennung</string>
         <string lang="en">Plasma Combustion</string>
         <string lang="fr">Combustion Plasma</string>
@@ -340,7 +340,7 @@
         <string lang="kr">플라즈마 연소</string>
         <string lang="pt-br">Combustão de Plasma</string>
     </set>
-    <set id="name-status-moduleplasmacrepitation-eot">
+    <set id="name-status-moduleplasmacombustion-eot">
         <string lang="de">Plasma-Verbrennung</string>
         <string lang="en">Plasma Combustion</string>
         <string lang="fr">Combustion Plasma</string>
@@ -560,9 +560,9 @@
         <string lang="kr">과부하</string>
         <string lang="pt-br">Sobrecarga</string>
     </set>
-    <set id="shortname-status-moduleplasmacrepitation">
-        <string lang="de">Plasma-Verpuffung</string>
-        <string lang="en">Plasma Crepitation</string>
+    <set id="shortname-status-moduleplasmacombustion">
+        <string lang="de">Plasma-Verbrennung</string>
+        <string lang="en">Plasma Combustion</string>
         <string lang="fr">Crépitation Plasma</string>
         <string lang="zh">等离子爆裂</string>
         <string lang="jp">プラズマ爆燃</string>
@@ -571,9 +571,9 @@
         <string lang="kr">플라즈마 폭발</string>
         <string lang="pt-br">Crepitação de Plasma</string>
     </set>
-    <set id="shortname-status-moduleplasmacrepitation-eot">
-        <string lang="de">Plasma-Verpuffung</string>
-        <string lang="en">Plasma Crepitation</string>
+    <set id="shortname-status-moduleplasmacombustion-eot">
+        <string lang="de">Plasma-Verbrennung</string>
+        <string lang="en">Plasma Combustion</string>
         <string lang="fr">Crépitation Plasma</string>
         <string lang="zh">等离子爆裂</string>
         <string lang="jp">プラズマ爆燃</string>
@@ -1042,7 +1042,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="kr">활성화는 소유자에게 $grav-1$를 입힙니다</string>
         <string lang="pt-br">A ativação inflige ao dono com $grav-1$</string>
     </set>
-    <set id="description-status-moduleplasmacrepitation">
+    <set id="description-status-moduleplasmacombustion">
         <string lang="de">Aktivierung verbraucht $1plasma$</string>
         <string lang="en">Activation uses up $1plasma$</string>
         <string lang="fr">Activation utilise $1plasma$</string>
@@ -1053,7 +1053,7 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="kr">활성화는 $1plasma$를 사용합니다</string>
         <string lang="pt-br">A ativação usa $1plasma$</string>
     </set>
-    <set id="description-status-moduleplasmacrepitation-eot">
+    <set id="description-status-moduleplasmacombustion-eot">
         <string lang="de">Aktivierung diese Runde verbraucht $1plasma$</string>
         <string lang="en">Activation this turn uses up $1plasma$</string>
         <string lang="fr">Activation ce tour utilise $1plasma$</string>
