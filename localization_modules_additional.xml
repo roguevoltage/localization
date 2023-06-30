@@ -485,20 +485,6 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="zh">移除所有角色的 $might$ 。</string>
         <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
     </set>
-    <set id="name-module-toggledbooster">
-        <string lang="de">Booster</string>
-        <string lang="en">Booster</string>
-        <string lang="fr">Booster</string>
-        <string lang="zh">增强器</string>
-        <string lang="jp">ブースター</string>
-    </set>
-    <set id="description-module-toggledbooster">
-        <string lang="de">Verleiht einem Modul auf diesem Rack einen permanenten $boost$.</string>
-        <string lang="en">Applies a permanent $boost$ to a module on this rack.</string>
-        <string lang="fr">Applique un $boost$ permanent à un module sur ce rack.</string>
-        <string lang="zh">将永久的 $boost$ 应用于本机架上的一个模块。</string>
-        <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
-    </set>
     <set id="name-module-toggledbooster-eob">
         <string lang="de">Booster</string>
         <string lang="en">Booster</string>
@@ -507,11 +493,9 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">ブースター</string>
     </set>
     <set id="description-module-toggledbooster-eob">
-        <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
-        <string lang="en">Applies a $boost$ to a non-loadout module on this rack until the end of combat.</string>
+        <string lang="de">Verleiht einem Modul des Typs $b$Durchsatzmodul$/b$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Applies a $boost$ to a module of type $Passthrough Module$/b$ on this rack until the end of combat.</string>
         <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
-        <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
-        <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggleddurabilityenhancer">
         <string lang="de">Booster</string>

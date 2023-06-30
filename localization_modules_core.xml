@@ -10,14 +10,14 @@
         <string lang="kr">에너지 소스</string>
         <string lang="pt-br">Fonte de Energia</string>
     </set>
-    <set id="module-type-throughputmodule">
+    <set id="module-type-passthroughmodule">
         <string lang="de">Durchsatzmodul</string>
-        <string lang="en">Throughput Module</string>
-        <string lang="fr">Module de Débit</string>
+        <string lang="en">Passthrough Module</string>
+        <string lang="fr">Module de Relais</string>
         <string lang="zh">中继模块</string>
         <string lang="jp">スループットモジュール</string>
         <string lang="ru">пропускной модуль</string>
-        <string lang="es">Módulo de Rendimiento</string>
+        <string lang="es">Módulo de Traspaso</string>
         <string lang="kr">처리량 모듈</string>
         <string lang="pt-br">Módulo de Atravessar</string>
     </set>
@@ -736,16 +736,27 @@
         <string lang="kr">시한폭탄</string>
         <string lang="pt-br">Bomba Relógio</string>
     </set>
+    <set id="name-module-toggledbooster">
+        <string lang="de">Durchsatz-Upgrader</string>
+        <string lang="en">Passthrough Upgrader</string>
+        <string lang="fr">Améliorateur de Relais</string>
+        <string lang="zh">中继器升级器</string>
+        <string lang="jp">スループットアップグレーダー</string>
+        <string lang="ru">ускоритель пропускной способности</string>
+        <string lang="es">Mejorador de Traspaso</string>
+        <string lang="kr">처리량 업그레이더</string>
+        <string lang="pt-br">Melhorador de Atravessar</string>
+    </set>
     <set id="name-module-toggledbooster-modifiers">
         <string lang="de">Durchsatz-Booster</string>
-        <string lang="en">Throughput Booster</string>
-        <string lang="fr">Booster de Débit</string>
+        <string lang="en">Passthrough Booster</string>
+        <string lang="fr">Booster de Relais</string>
         <string lang="zh">中继器增强器</string>
         <string lang="jp">スループットブースター</string>
         <string lang="ru">ускоритель пропускной способности</string>
-        <string lang="es">Acelerador de Rendimiento</string>
+        <string lang="es">Amplicador de Traspaso</string>
         <string lang="kr">처리량 부스터</string>
-        <string lang="pt-br">Acelerador de Desempenho</string>
+        <string lang="pt-br">Amplificador de Atravessar</string>
     </set>
     <set id="name-module-toggledcrustremover">
         <string lang="de">Entkruster-Granate</string>
@@ -1340,14 +1351,25 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.
 (Reduza o efeito com $energy$).</string>
     </set>
+    <set id="description-module-toggledbooster">
+        <string lang="de">Verleiht einem Modul des Typs $b$Durchsatzmodul$/b$ auf diesem Rack einen permanenten $boost$.</string>
+        <string lang="en">Applies a permanent $boost$ to a module of type $b$Passthrough Module$/b$ on this rack.</string>
+        <string lang="fr">Applique un $boost$ permanent à un module de type $b$Module de Relais$/b$ sur ce rack.</string>
+        <string lang="zh">在本机架上的一个类型为 $b$中继模块$/b$ 的模块上应用永久 $boost$。</string>
+        <string lang="jp">このラックのタイプ$b$スループットモジュール$/b$のモジュールに恒久的な$boost$を適用します。</string>
+        <string lang="ru">Применяет постоянный $boost$ к модулю типа $b$пропускной модуль$/b$ на этом стеллаже.</string>
+        <string lang="es">Aplica un $boost$ permanente a un módulo de tipo $b$Módulo de Traspaso$/b$ en este rack.</string>
+        <string lang="kr">이 랙에 있는 $b$스루풋 모듈$/b$ 타입의 모듈에 영구적인 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Aplica um $boost$ permanente a um módulo do tipo $b$Módulo de Atravessar$/b$ neste rack.</string>
+    </set>
     <set id="description-module-toggledbooster-modifiers">
         <string lang="de">Versieht alle Module vom Typ $b$Durchsatzmodul$/b$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-        <string lang="en">Applies $boost$ to all modules of type $b$Throughput Module$/b$ on this rack until the end of turn.</string>
-        <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Débit$/b$ sur ce rack jusqu'à la fin du tour.</string>
+        <string lang="en">Applies $boost$ to all modules of type $b$Passthrough Module$/b$ on this rack until the end of turn.</string>
+        <string lang="fr">Applique $boost$ à tous les modules de type $b$Module de Relais$/b$ sur ce rack jusqu'à la fin du tour.</string>
         <string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$b$中继模块$/b$的模块。</string>
         <string lang="jp">ターン終了まで、このラックのすべてのタイプ$b$スループットモジュール$/b$のモジュールに$boost$を適用します。</string>
         <string lang="ru">Накладывает $boost$ на все модули типа $b$пропускной модуль$/b$ на этом стеллаже до конца хода.</string>
-        <string lang="es">Aplica $boost$ a todos los módulos de tipo $b$Módulo de rendimiento$/b$ en este rack hasta el final del turno.</string>
+        <string lang="es">Aplica $boost$ a todos los módulos de tipo $b$Módulo de Traspaso$/b$ en este rack hasta el final del turno.</string>
         <string lang="kr">이 랙의 모든 $b$처리량 모듈$/b$ 타입의 모듈에 $boost$를 턴 종료까지 적용합니다.</string>
         <string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $b$Módulo de Atravessar$/b$ neste rack até o final do turno.</string>
     </set>

@@ -178,25 +178,25 @@ but somebody must have forgotten to take the potion with them.</string>
     </set>
     <set id="name-happening-modifierupgrader">
         <string lang="de">Durchsatz-Booster</string>
-        <string lang="en">Throughput Booster</string>
-        <string lang="fr">Booster de Débit</string>
+        <string lang="en">Passthrough Booster</string>
+        <string lang="fr">Booster de Relais</string>
         <string lang="zh">中继增强器</string>
         <string lang="jp">スループットブースター</string>
         <string lang="ru">Усилитель пропускной способности</string>
-        <string lang="es">Amplificador de Rendimiento</string>
+        <string lang="es">Potenciador de Traspaso</string>
         <string lang="kr">처리량 부스터</string>
-        <string lang="pt-br">Amplificador de Rendimento</string>
+        <string lang="pt-br">Amplificador de Atravessar</string>
     </set>
     <set id="happening-modifierupgrader-heading">
         <string lang="de">Durchsatz-Booster</string>
-        <string lang="en">Throughput Booster</string>
-        <string lang="fr">Booster de Débit</string>
+        <string lang="en">Passthrough Booster</string>
+        <string lang="fr">Booster de Relais</string>
         <string lang="zh">中继增强器</string>
         <string lang="jp">スループットブースター</string>
         <string lang="ru">Усилитель пропускной способности</string>
-        <string lang="es">Potenciador de rendimiento</string>
+        <string lang="es">Potenciador de Traspaso</string>
         <string lang="kr">처리량 부스터</string>
-        <string lang="pt-br">Amplificador de Rendimento</string>
+        <string lang="pt-br">Amplificador de Atravessar</string>
     </set>
     <set id="happening-modifierupgrader-introduction">
         <string lang="de">Du stößt auf einen</string>
@@ -212,9 +212,9 @@ but somebody must have forgotten to take the potion with them.</string>
     <set id="happening-modifierupgrader-description">
         <string lang="de">Akzeptiert ausschließlich Module vom Typ $b$Durchsatzmodul$/b$.
 Verleiht dem Modul einen permanenten $boost$.</string>
-        <string lang="en">Only accepts modules of type $b$Throughput Module$/b$.
+        <string lang="en">Only accepts modules of type $b$Passthrough Module$/b$.
 Gives modules a permanent $boost$.</string>
-        <string lang="fr">N'accepte que les modules de type $b$Module de Débit$/b$.
+        <string lang="fr">N'accepte que les modules de type $b$Module de Relais$/b$.
 Donne un $boost$ permanent aux modules.</string>
         <string lang="zh">只接受类型为$b$中继模块$/b$的模块。
 给模块一个永久的 $boost$。</string>
@@ -222,7 +222,7 @@ Donne un $boost$ permanent aux modules.</string>
 モジュールに永久的な$boost$を与えます。</string>
         <string lang="ru">Принимает только модули типа $b$пропускной модуль$/b$.
 Дает модулям постоянный $boost$.</string>
-        <string lang="es">Solo acepta módulos de tipo $b$Módulo de rendimiento$/b$.
+        <string lang="es">Solo acepta módulos de tipo $b$Módulo de Traspaso$/b$.
 Da a los módulos un $boost$ permanente.</string>
         <string lang="kr">$b$처리량 모듈$/b$ 타입의 모듈만 허용합니다.
 모듈에 영구적인 $boost$를 부여합니다.</string>
