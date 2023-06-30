@@ -465,11 +465,11 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">リカバリーグレネード</string>
     </set>
     <set id="description-module-toggleddurabilityrestorer">
-        <string lang="de">Stellt die Haltbarkeit aller Module mit $recovery$ wieder her und entfernt $shock$ von allen Modulen auf allen Racks.</string>
-        <string lang="en">Restores durability on all modules with $recovery$ and removes $shock$ from all modules on all racks.</string>
-        <string lang="fr">Restaure la durabilité de tous les modules avec $recovery$ et retire $shock$ de tous les modules sur tous les racks.</string>
-        <string lang="zh">恢复所有带有 $recovery$ 的模块的耐久度，并从所有机架上的所有模块上移除 $shock$ 。</string>
-        <string lang="jp">$recovery$を持つすべてのモジュールの耐久性を回復し、すべてのラックのすべてのモジュールから$shock$を削除します。</string>
+        <string lang="de">Entfernt $shock$ und $outoforder$ von allen Modulen auf diesem Rack.</string>
+        <string lang="en">Removes $shock$ and $outoforder$ from all modules on this rack.</string>
+        <string lang="fr">Retire $shock$ et $outoforder$ de tous les modules sur ce rack.</string>
+        <string lang="zh">从本机架上的所有模块中移除 $shock$ 和 $outoforder$ 。</string>
+        <string lang="jp">このラックのすべてのモジュールから$shock$と$outoforder$を取り除きます。</string>
     </set>
     <set id="name-module-toggledmightnullifier">
         <string lang="de">Macht-Nullifizierer</string>
@@ -493,9 +493,9 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">ブースター</string>
     </set>
     <set id="description-module-toggledbooster-eob">
-        <string lang="de">Verleiht einem Modul des Typs $b$Durchsatzmodul$/b$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
-        <string lang="en">Applies a $boost$ to a module of type $Passthrough Module$/b$ on this rack until the end of combat.</string>
-        <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
+        <string lang="de">Verleiht einem Modul des Typs $passthrough$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Applies a $boost$ to a module of type $passthrough$ on this rack until the end of combat.</string>
+        <string lang="fr">Applique un $boost$ à un module de type $passthrough$ sur ce rack jusqu'à la fin du combat.</string>
     </set>
     <set id="name-module-toggleddurabilityenhancer">
         <string lang="de">Booster</string>
@@ -505,13 +505,9 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">ブースター</string>
     </set>
     <set id="description-module-toggleddurabilityenhancer">
-        <string lang="de">Verleiht einem nicht-Ausrüstungsmodul auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
         <string lang="en">Permanently removes $overload$ from a module 
 - or -
 permanently removes $fragile$ from a module and replaces it with $overload$.</string>
-        <string lang="fr">Applique un $boost$ à un module sur ce rack jusqu'à la fin du combat.</string>
-        <string lang="zh">将 $boost$ 应用于本机架上的一个模块，直到战斗结束。</string>
-        <string lang="jp">このラックのモジュールに永久的な$boost$を適用します。</string>
     </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>

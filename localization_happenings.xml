@@ -210,23 +210,23 @@ but somebody must have forgotten to take the potion with them.</string>
         <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-modifierupgrader-description">
-        <string lang="de">Akzeptiert ausschließlich Module vom Typ $b$Durchsatzmodul$/b$.
+        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthrough$.
 Verleiht dem Modul einen permanenten $boost$.</string>
-        <string lang="en">Only accepts modules of type $b$Passthrough Module$/b$.
+        <string lang="en">Only accepts modules of type $passthrough$.
 Gives modules a permanent $boost$.</string>
         <string lang="fr">N'accepte que les modules de type $b$Module de Relais$/b$.
 Donne un $boost$ permanent aux modules.</string>
-        <string lang="zh">只接受类型为$b$中继模块$/b$的模块。
+        <string lang="zh">只接受类型为$passthrough$的模块。
 给模块一个永久的 $boost$。</string>
-        <string lang="jp">タイプ$b$スループットモジュール$/b$のモジュールのみを受け入れます。
+        <string lang="jp">タイプ$passthrough$のモジュールのみを受け入れます。
 モジュールに永久的な$boost$を与えます。</string>
-        <string lang="ru">Принимает только модули типа $b$пропускной модуль$/b$.
+        <string lang="ru">Принимает только модули типа $passthrough$.
 Дает модулям постоянный $boost$.</string>
-        <string lang="es">Solo acepta módulos de tipo $b$Módulo de Traspaso$/b$.
+        <string lang="es">Solo acepta módulos de tipo $passthrough$.
 Da a los módulos un $boost$ permanente.</string>
-        <string lang="kr">$b$처리량 모듈$/b$ 타입의 모듈만 허용합니다.
+        <string lang="kr">$passthrough$ 타입의 모듈만 허용합니다.
 모듈에 영구적인 $boost$를 부여합니다.</string>
-        <string lang="pt-br">Apenas aceita módulos do tipo $b$Módulo de Atravessar$/b$.
+        <string lang="pt-br">Apenas aceita módulos do tipo $passthrough$.
 Dá aos módulos um $boost$ permanente.</string>
     </set>
     <set id="happening-modifierupgrader-description2">
