@@ -505,15 +505,11 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">耐久性向上剤</string>
     </set>
     <set id="description-module-toggleddurabilityenhancer">
-<<<<<<< Updated upstream
-        <string lang="en">Permanently removes $overload$ from a module 
-- or -
-permanently removes $fragile$ from a module and replaces it with $overload$.</string>
-=======
         <string lang="de">Entfernt dauerhaft $overload$ von einem Modul auf diesem Rack
 - oder -
 entfernt dauerhaft $fragile$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
-        <string lang="en">Permanently removes $overload$ from a module on this rack
+        <string lang="en">Permanently removes $overload$ from a module
+on this rack
 - or -
 permanently removes $fragile$ from a module om this rack and replaces it with $overload$.</string>
         <string lang="fr">Retire définitivement $overload$ d'un module sur ce rack
@@ -525,7 +521,6 @@ retire définitivement $fragile$ d'un module sur ce rack et le remplace par $ove
         <string lang="jp">このラックのモジュールから$overload$を永久に削除します
 - または -
 このラックのモジュールから$fragile$を永久に削除し、$overload$に置き換えます。</string>
->>>>>>> Stashed changes
     </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>

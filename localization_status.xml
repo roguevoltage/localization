@@ -859,7 +859,7 @@ $1damage$ au propriétaire à la fin du tour</string>
     </set>
     <set id="description-status-modulefragile">
         <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
-        <string lang="en">When activated, it receives $outoforder$ until the end of battle.</string>
+        <string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
         <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
         <string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
         <string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
@@ -870,7 +870,7 @@ $1damage$ au propriétaire à la fin du tour</string>
     </set>
         <set id="description-status-modulefragile-discharge">
         <string lang="de">Wenn entladen, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
-        <string lang="en">When discharged, it receives $outoforder$ until the end of battle.</string>
+        <string lang="en">When discharged, receives $outoforder$ until the end of battle.</string>
         <string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
         <string lang="zh">当放电时，直到战斗结束，它将获得 $outoforder$。</string>
         <string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
@@ -914,7 +914,8 @@ $1damage$ au propriétaire à la fin du tour</string>
     </set>
     <set id="description-status-modulepollution">
         <string lang="de">Aktivierung fügt dem Charakter $1damage$ zu</string>
-        <string lang="en">Activation deals $1damage$ to the owner</string>
+        <string lang="en">Activation deals $1damage$
+to the owner</string>
         <string lang="fr">Activation inflige $1damage$ au propriétaire</string>
         <string lang="zh">激活将对拥有者造成 $1damage$</string>
         <string lang="jp">アクティブ化はオーナーに$1damage$を与えます</string>
@@ -925,7 +926,8 @@ $1damage$ au propriétaire à la fin du tour</string>
     </set>
         <set id="description-status-modulepollution-eot">
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $1damage$ zu</string>
-        <string lang="en">Activation this turn deals $1damage$ to the owner</string>
+        <string lang="en">Activation this turn deals $1damage$
+to the owner</string>
         <string lang="fr">Activation ce tour inflige $1damage$ au propriétaire</string>
         <string lang="zh">在本回合激活将对拥有者造成 $1damage$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに$1damage$を与えます</string>
@@ -990,15 +992,18 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="pt-br">A ativação deste turno levará a $crust$</string>
     </set>
     <set id="description-status-moduleoverload">
-        <string lang="de">Erhält nach Aktivierung $shock$ für eine Runde</string>
-        <string lang="en">When activated, it receives $shock$ for one turn</string>
+        <string lang="de">Erhält nach Aktivierung $shock$
+für eine Runde</string>
+        <string lang="en">When activated, receives $shock$
+for one turn</string>
         <string lang="fr">Reçoit $shock$ pour un tour après activation</string>
         <string lang="zh">激活后将获得 $shock$ 一回合</string>
         <string lang="jp">アクティブ化すると、1ターンに$shock$を受け取ります</string>
         <string lang="ru">Получает $shock$ на один ход после активации</string>
         <string lang="es">Cuando se activa, recibe $shock$ por un turno</string>
         <string lang="kr">활성화하면 $shock$를 한 턴 동안 받습니다</string>
-        <string lang="pt-br">Quando ativado, recebe $shock$ por um turno</string>
+        <string lang="pt-br">Quando ativado, recebe $shock$
+por um turno</string>
     </set>
     <set id="description-status-moduleoverload-eot">
         <string lang="de">Aktivierung diese Runde führt zu $shock$</string>
@@ -1141,7 +1146,8 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="ru">Входящий $damage$ уменьшается на $1$.</string>
         <string lang="es">El daño entrante de $damage$ es reducido por $1$.</string>
         <string lang="kr">$damage$는 $1$만큼 감소합니다</string>
-        <string lang="pt-br">O dano recebido de $damage$ é reduzido por $1$.</string>
+        <string lang="pt-br">O dano recebido de $damage$
+é reduzido por $1$.</string>
     </set>
     <set id="description-status-modulelock">
         <string lang="de">Kann nicht vom Rack genommen werden</string>
