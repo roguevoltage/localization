@@ -498,16 +498,34 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="fr">Applique un $boost$ à un module de type $passthrough$ sur ce rack jusqu'à la fin du combat.</string>
     </set>
     <set id="name-module-toggleddurabilityenhancer">
-        <string lang="de">Booster</string>
+        <string lang="de">Haltbarkeits-Verstärker</string>
         <string lang="en">Durability Enhancer</string>
-        <string lang="fr">Booster</string>
-        <string lang="zh">增强器</string>
-        <string lang="jp">ブースター</string>
+        <string lang="fr">Améliorant de Durabilité</string>
+        <string lang="zh">耐久增强器</string>
+        <string lang="jp">耐久性向上剤</string>
     </set>
     <set id="description-module-toggleddurabilityenhancer">
+<<<<<<< Updated upstream
         <string lang="en">Permanently removes $overload$ from a module 
 - or -
 permanently removes $fragile$ from a module and replaces it with $overload$.</string>
+=======
+        <string lang="de">Entfernt dauerhaft $overload$ von einem Modul auf diesem Rack
+- oder -
+entfernt dauerhaft $fragile$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
+        <string lang="en">Permanently removes $overload$ from a module on this rack
+- or -
+permanently removes $fragile$ from a module om this rack and replaces it with $overload$.</string>
+        <string lang="fr">Retire définitivement $overload$ d'un module sur ce rack
+- ou -
+retire définitivement $fragile$ d'un module sur ce rack et le remplace par $overload$.</string>
+        <string lang="zh">永久地从本机架上的一个模块中移除 $overload$
+- 或 -
+永久地从本机架上的一个模块中移除 $fragile$ 并用 $overload$ 替换它。</string>
+        <string lang="jp">このラックのモジュールから$overload$を永久に削除します
+- または -
+このラックのモジュールから$fragile$を永久に削除し、$overload$に置き換えます。</string>
+>>>>>>> Stashed changes
     </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>
