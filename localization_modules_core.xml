@@ -640,7 +640,7 @@
     <set id="name-module-modifierplasmacombustion">
         <string lang="de">Plasmaverbrennender Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Plasma-Combusting Amplifier $MODIFICATIONVALUE$</string>
-        <string lang="fr">Amplificateur Plasma-Combustion $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur de Combustion Plasma $MODIFICATIONVALUE$</string>
         <string lang="zh">等离子体燃烧增幅器 $MODIFICATIONVALUE$</string>
         <string lang="jp">プラズマ燃焼増幅器 $MODIFICATIONVALUE$</string>
         <string lang="ru">плазменный усилитель сгорания $MODIFICATIONVALUE$</string>
@@ -1283,15 +1283,15 @@ a uma corrente.</string>
         <string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
     </set>
         <set id="description-module-reviver">
-        <string lang="de">Wenn der Charakter ohnmächtig wird, wird er automatisch in Höhe der gespeicherten $energy$ wiederbelegt.</string>
-        <string lang="en">If the owner becomes unconscious, they are automatically revived with HP in height of its stored $energy$.</string>
-        <string lang="fr">Si le propriétaire tombe inconscient, il est automatiquement réanimé avec des PV équivalents à son $energy$ stocké.</string>
+        <string lang="de">Wenn der Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
+        <string lang="en">If the owner becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
+        <string lang="fr">Si le propriétaire tombe inconscient, il est réanimé avec des PV équivalents à son $energy$ stocké.</string>
         <string lang="zh">如果拥有者陷入昏迷，恢复HP到其存储的 $energy$ 的值 。</string>
         <string lang="jp">持有者が無意識になった場合、自動的に保持された $energy$ の高さで HP が回復されます。</string>
-        <string lang="ru">Если владелец становится без сознания, он автоматически оживляется с HP в высоте его сохраненной $energy$.</string>
-        <string lang="es">Si el propietario queda inconsciente, se revivirá automáticamente con PV en altura de su $energy$ almacenado.</string>
+        <string lang="ru">Если владелец становится без сознания, он оживляется с HP в высоте его сохраненной $energy$.</string>
+        <string lang="es">Si el propietario queda inconsciente, se revivirá con PV en altura de su $energy$ almacenado.</string>
         <string lang="kr">소유자가 의식을 잃으면, 저장된 $energy$의 HP로 자동으로 부활합니다.</string>
-        <string lang="pt-br">Se o dono ficar inconsciente, ele será automaticamente revivido com HP na altura de sua $energy$ armazenada.</string>
+        <string lang="pt-br">Se o dono ficar inconsciente, ele será revivido com HP na altura de sua $energy$ armazenada.</string>
     </set>
     <set id="description-module-splitter">
         <string lang="de">Verdoppelt einen Strom.</string>

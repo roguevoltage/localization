@@ -97,7 +97,7 @@ Há uma $b$Poção de Cura +1$/b$ nela, mas você não pode usá-la agora, pois 
     <set id="tutorialwindow-timeline-header">
         <string lang="de">Die Zeitleiste</string>
         <string lang="en">The Timeline</string>
-        <string lang="fr">La Ligne du Temps</string>
+        <string lang="fr">La Chronologie</string>
         <string lang="zh">时间轴</string>
         <string lang="jp">タイムライン</string>
         <string lang="ru">Временная шкала</string>
@@ -168,7 +168,7 @@ Avec le $b$Convertisseur de Plasma$/b$, vous pouvez transformer l'énergie excé
         <string lang="jp">敵を倒した後、$soulsensor$が再びトリガーされることに注意してください。
 新しい$b$プラズマコンバーター$/b$に接続して、余剰エネルギーを$plasma$に変換することができます - この破壊された世界で貴重な資源です。</string>
         <string lang="ru">Помните, что ваш $soulsensor$ снова сработает, когда вы убьете еще одного врага.
-Подключите его к вашему новому $b$Plasma Converter$/b$, чтобы превратить избыточную энергию в $plasma$ – ценный ресурс в этом разрушенном мире.</string>
+Подключите его к вашему новому $b$плазменному конвертеру$/b$, чтобы превратить избыточную энергию в $plasma$ – валюту этого разрушенного мира.</string>
         <string lang="es">Recuerda que tu $soulsensor$ se activará de nuevo cuando termines con otro enemigo.
 Conéctalo a tu nuevo $b$Convertidor de Plasma$/b$ para transformar el exceso de energía en $plasma$ – la moneda de este mundo destruido.</string>
         <string lang="kr">$soulsensor$가 다른 적을 끝내면 다시 트리거됨을 기억하십시오.
@@ -252,8 +252,8 @@ Jackson, acho que finalmente é hora de você ter uma arma própria.</string>
 Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
         <string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.
 If we stick to what we have learned, we can defeat it!</string>
-        <string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant effrayant.
-Si nous nous tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
+        <string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant.
+Si nous nous en tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
         <string lang="zh">沼泽地里的强烈引力活动来源一定是这个可怕的巨型蘑菇。
 回想你所学会的操作，我们一定可以打败它！</string>
         <string lang="jp">この沼地の強力な重力活動は、この怖い巨大キノコから来ているのだろう。
@@ -294,7 +294,7 @@ Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
 Setz das $blademodule$ ein, um ordentlich Schaden auszuteilen.</string>
         <string lang="en">The enemies' turns are currently $b$aligned$/b$ with that of $slopperjohnson$!
 Use his $blademodule$ to deal serious damage.</string>
-        <string lang="fr">Le tour de vos ennemis est actuellement $b$aligné$/b$ avec celui de $slopperjohnson$!
+        <string lang="fr">Les tours de vos ennemis sont actuellement $b$alignés$/b$ avec celui de $slopperjohnson$!
 Utilisez son $blademodule$ pour infliger de lourds dégâts.</string>
         <string lang="zh">敌人的回合目前与$slopperjohnson$的回合$b$对齐$/b$！
 使用战斧模块来给他一记重击。</string>
@@ -323,7 +323,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
     <set id="tutorialwindow-decelerate-description">
         <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug mit $grav+$ auf der Zeitleiste nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$!</string>
         <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$!</string>
-        <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son $b$Décélérateur$/b$!</string>
+        <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son $b$Décélérateur +1$/b$!</string>
         <string lang="zh">还记得 $chronocat$ 是如何用 $grav+$ 将时间轴上的一个回合向后推的吗？$slopperjackson$可以用他的$b$减速器 +1$/b$模块做同样的事情！</string>
         <string lang="jp">$chronocat$ が $grav+$ でタイムライン上のターンを後ろに押し戻した方法を覚えていますか？ $slopperjackson$ は、同じことを $b$ 減速器 +1$/b$ モジュールで行うことができます！</string>
         <string lang="ru">Помните, как $chronocat$ отложил ход с $grav+$? $slopperjackson$ может сделать то же самое с его модулем $b$Замедлитель +1$/b$!</string>
@@ -334,7 +334,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
     <set id="tutorialwindow-decelerate-description2">
         <string lang="de">Er sollte den Zug seines Bruders nach hinten versetzen. Dann ist er erneut auf dem selben Zeitschritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
         <string lang="en">Now he should $b$push his brother's turn$/b$ back, so it will be $b$aligned$/b$ with the enemy's and he can use the $blademodule$ again.</string>
-        <string lang="fr">Il devrait $b$délaisser le tour de son frère$/b$, de sorte qu'il sera $b$aligné$/b$ avec celui de l'ennemi et qu'il pourra à nouveau utiliser le $blademodule$.</string>
+        <string lang="fr">Maintenant, il devrait $b$repousser le tour de son frère$/b$ en arrière, afin qu'il soit $b$aligné$/b$ avec celui de l'ennemi et qu'il puisse à nouveau utiliser le $blademodule$.</string>
         <string lang="zh">现在他应该将他兄弟的回合$b$推后$/b$，这样它就会与敌人的回合$b$对齐$/b$，这样就可以再次使用战斧模块。</string>
         <string lang="jp">今度は、彼は兄弟のターンを後ろに押し戻すべきです。そうすれば、敵と$b$整列された$/b$状態になり、ブレードモジュールを再び使用できます。</string>
         <string lang="ru">Теперь он должен $b$отодвинуть ход своего брата$/b$ назад, чтобы он был $b$выровнен$/b$ с врагом, и он снова может использовать модуль лезвия.</string>
@@ -407,7 +407,7 @@ Let's get rid of those monsters together!</string>
         <string lang="fr">Frère! Attends!
 Tu as oublié ton $blademodule$! Tu ne m'avais pas dit que c'était ton arme la plus importante?
 $b$Passe à mon rack$/b$ et déplace-le dans notre sac à dos partagé, puis dans ton propre rack.
-Laissons-nous débarrasser de ces monstres ensemble!</string>
+Débarrassons-nous de ces monstres ensemble!</string>
         <string lang="zh">兄弟！等等！
 你忘记了你的 $blademodule$！ 还记得你说过这是你最重要的武器嗎？
 $b$切换到我的机架$/b$ 并将其拖入背包，然后把他拖到你的机架上。
@@ -460,8 +460,8 @@ Vamos nos livrar desses monstros juntos!</string>
 Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.</string>
         <string lang="en">If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.
 Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.</string>
-        <string lang="fr">Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.
-Si vous avez le $b$Potion de soin$/b$ connecté au $b$Soul Sensor$/b$ lorsque vous avez terminé votre ennemi, il recevra de l'énergie pour vous soigner.</string>
+        <string lang="fr">Si vous avez le $b$Potion de soin$/b$ connecté au $b$Capteur d'Âme$/b$ lorsque vous terminez votre ennemi, il recevra de l'énergie pour vous soigner.
+Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.</string>
         <string lang="zh">感应器模块无法充能能量：在同一回合使用它，否则它将消散。
 如果你在结束你的敌人时将$b$治疗药水$/b$连接到$b$灵魂感应器$/b$，它将获得能量来治愈你。</string>
         <string lang="jp">センサーモジュールはエネルギーを保存できません：同じターンで使用するか、それは消失します。
@@ -499,23 +499,23 @@ Se você tiver a $b$Poção de Cura$/b$ conectada ao $b$Sensor de Almas$/b$ enqu
     </set>
     <set id="tutorial-grav-equilibrium-window-description-1">
         <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
-Es ebnet Ungleichgewicht von $grav$ ein.</string>
+Es gleicht $grav$ aus.</string>
         <string lang="en">Now it's the turn of the $gravequilibrium$.
-It levels imbalances of $grav$.</string>
+It equalizes $grav$.</string>
         <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
-Il équilibre les déséquilibres de $grav$.</string>
+Il égalise $grav$.</string>
         <string lang="zh">现在是$b$引力平衡$/b$的回合。
-它会定期缓解 $grav$ 的不平衡。</string>
+它平衡了$grav$。</string>
         <string lang="jp">今度は、$gravequilibrium$ の番です。
-定期的に、$grav$ の不均衡を調整します。</string>
+それは $grav$ を均等化します。</string>
         <string lang="ru">Теперь очередь $gravequilibrium$.
-Он регулярно уравнивает дисбаланс $grav$.</string>
+Он уравнивает $grav$.</string>
         <string lang="es">Ahora es el turno del $gravequilibrium$.
-Nivela los desequilibrios de $grav$.</string>
+Iguala $grav$.</string>
         <string lang="kr">$gravequilibrium$의 차례입니다.
-정기적으로 $grav$의 불균형을 조정합니다.</string>
+그것은 $grav$를 균등하게 합니다.</string>
         <string lang="pt-br">Agora é a vez do $gravequilibrium$.
-Ele nivela os desequilíbrios de $grav$.</string>
+Iguala $grav$.</string>
     </set>
     <set id="tutorial-grav-equilibrium-window-heading-positive">
         <string lang="de">$grav+$ 
@@ -559,23 +559,23 @@ resulta en un $b$Pico Grav.$/b$</string>
 resulta em um $b$Pico Grav.$/b$</string>
     </set>
     <set id="tutorial-grav-equilibrium-window-description-negative">
-        <string lang="de">$grav-$ wird neutralisiert.
+        <string lang="de">$grav-$ wird vollständig entfernt.
 Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
-        <string lang="en">$grav-$ is neutralized. 
+        <string lang="en">$grav-$ is completely removed.
 combatants receive half of it as $damage$ (rounded up).</string>
-        <string lang="fr">$grav-$ est neutralisée. 
+        <string lang="fr">$grav-$ est complètement supprimé.
 combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
-        <string lang="zh">$grav-$ 被中和。
+        <string lang="zh">$grav-$ 被完全移除。
 角色获得$b$一半$/b$的$damage$ (向上取整)。</string>
-        <string lang="jp">$grav-$ は中和されます。
+        <string lang="jp">$grav-$ は完全に削除されます。
 戦闘参加者は、$damage$ として半分を受け取ります (切り上げ)。</string>
-        <string lang="ru">$grav-$ нейтрализован.
+        <string lang="ru">$grav-$ полностью удаляется.
 Бойцы получают половину в виде $damage$ (округление вверх).</string>
-        <string lang="es">$grav-$ es neutralizado.
+        <string lang="es">$grav-$ se elimina por completo.
 Los combatientes reciben la mitad de él como $damage$ (redondeado hacia arriba).</string>
-        <string lang="kr">$grav-$ 는 중화됩니다.
+        <string lang="kr">$grav-$ 가 완전히 제거됩니다.
 전투 참가자는 $damage$의 $b$반$/b$을 받습니다 (올림).</string>
-        <string lang="pt-br">$grav-$ é neutralizado.
+        <string lang="pt-br">$grav-$ é completamente removido.
 Os combatentes recebem metade dele como $damage$ (arredondado para cima).</string>
     </set>
     <set id="tutorialwindow-gravcharge-description-1">
@@ -644,7 +644,7 @@ Os combatentes recebem metade dele como $damage$ (arredondado para cima).</strin
     <set id="tutorial-turn-order-window-description-1">
         <string lang="de">Die $chronocat$ hat $slopperjohnson$ gerade mit $grav+2$ versehen, was seinen Zug hinter den des $fox$es geschoben hat!</string>
         <string lang="en">That $chronocat$ has just applied $grav+2$ to $slopperjohnson$, pushing his turn behind that of the $fox$!</string>
-        <string lang="fr">Le $chronocat$ vient d'appliquer $grav+2$ à $slopperjohnson$, ce qui a décalé son tour derrière celui du $fox$!</string>
+        <string lang="fr">Le $chronocat$ vient d'appliquer $grav+2$ à $slopperjohnson$, repoussant son tour derrière celui du $fox$!</string>
         <string lang="zh">那个$chronocat$ 给 $slopperjohnson$ 增加了 $grav+2$. 这使他的轮次落后于 $fox$！</string>
         <string lang="jp">$chronocat$ が $slopperjohnson$ に $grav+2$ を適用し、$fox$ のターンの後ろに押し出しました！</string>
         <string lang="ru">Этот $chronocat$ только что применил $grav+2$ к $slopperjohnson$, отталкивая его ход позади хода $fox$!</string>

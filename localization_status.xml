@@ -10,6 +10,28 @@
         <string lang="kr">취약</string>
         <string lang="pt-br">Vulnerável</string>
     </set>
+    <set id="name-status-stasis">
+        <string lang="de">Stasis</string>
+        <string lang="en">Stasis</string>
+        <string lang="fr">Stase</string>
+        <string lang="zh">停滞</string>
+        <string lang="jp">スタシス</string>
+        <string lang="ru">Стазис</string>
+        <string lang="es">Estasis</string>
+        <string lang="kr">정지</string>
+        <string lang="pt-br">Estase</string>
+    </set>
+    <set id="shortname-status-stasis">
+        <string lang="de">Stasis</string>
+        <string lang="en">Stasis</string>
+        <string lang="fr">Stase</string>
+        <string lang="zh">停滞</string>
+        <string lang="jp">スタシス</string>
+        <string lang="ru">Стазис</string>
+        <string lang="es">Estasis</string>
+        <string lang="kr">정지</string>
+        <string lang="pt-br">Estase</string>
+    </set>
     <set id="name-status-gravamplification">
         <string lang="de">Grav.-Verstärkung</string>
         <string lang="en">Grav. Amplification</string>
@@ -670,6 +692,17 @@
         <string lang="kr">입는 $damage$가 $1$ 증가</string>
         <string lang="pt-br">O $damage$ recebido é amplificado em $1$.</string>
     </set>
+    <set id="description-status-stasis">
+        <string lang="de">Die Zeit steht für diesen Character still.</string>
+        <string lang="en">Time stands still for this character.</string>
+        <string lang="fr">Le temps s'arrête pour ce personnage.</string>
+        <string lang="zh">时间停止。</string>
+        <string lang="jp">時間が止まる。</string>
+        <string lang="ru">Время останавливается для этого персонажа.</string>
+        <string lang="es">El tiempo se detiene para este personaje.</string>
+        <string lang="kr">시간이 멈춥니다.</string>
+        <string lang="pt-br">O tempo para para este personagem.</string>
+    </set>
     <set id="description-status-gravamplification">
         <string lang="de">Eingehende $grav$ wird um $1$ verstärkt.</string>
         <string lang="en">Incoming $grav$ is amplified by $1$.</string>
@@ -683,14 +716,21 @@
     </set>
     <set id="description-status-gravimmunity">
         <string lang="de">Kann keine $grav$ erhalten.</string>
-        <string lang="en">Cannot receive $grav$.</string>
-        <string lang="fr">Ne peut pas recevoir $grav$.</string>
-        <string lang="zh">无法获得 $grav$ 。</string>
+        <string lang="en">Cannot receive 
+$grav$.</string>
+        <string lang="fr">Ne peut pas recevoir
+$grav$.</string>
+        <string lang="zh">无法获得 
+$grav$ 。</string>
         <string lang="jp">$grav$を受け取ることができません。</string>
-        <string lang="ru">Не может получить $grav$.</string>
-        <string lang="es">No puede recibir $grav$.</string>
-        <string lang="kr">$grav$를 받을 수 없습니다.</string>
-        <string lang="pt-br">Não pode receber $grav$.</string>
+        <string lang="ru">Не может получить
+$grav$.</string>
+        <string lang="es">No puede recibir
+$grav$.</string>
+        <string lang="kr">$grav$를 
+받을 수 없습니다.</string>
+        <string lang="pt-br">Não pode receber
+$grav$.</string>
     </set>
     <set id="description-status-moduleboost">
         <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.</string>
