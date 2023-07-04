@@ -33,11 +33,11 @@
         <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-chargingstation-description">
-        <string lang="de">Akzeptiert ausschließlich $b$Speichermodule$/b$
+        <string lang="de">Akzeptiert ausschließlich $storagemodule$e.
 Lädt ein Speichermodul um $2$ $energy$.</string>
-        <string lang="en">Only accepts $b$Storage Modules$/b$.
+        <string lang="en">Only accepts $storagemodule$s.
 Charges a $b$Storage Module$/b$ with $2$ $energy$.</string>
-        <string lang="fr">N'accepte que les $b$Modules de Stockage$/b$
+        <string lang="fr">N'accepte que les modules de type $storagemodule$.
 Charge un $b$Module de Stockage$/b$ avec $2$ $energy$.</string>
     <string lang="zh">只接受$b$充能模块$/b$
 为$b$充能模块$/b$充电$2$ $energy$。</string>
@@ -210,23 +210,23 @@ but somebody must have forgotten to take the potion with them.</string>
         <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-modifierupgrader-description">
-        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthrough$.
+        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthroughmodule$.
 Verleiht dem Modul einen permanenten $boost$.</string>
-        <string lang="en">Only accepts modules of type $passthrough$.
-Gives modules a permanent $boost$.</string>
+        <string lang="en">Only accepts modules of type $passthroughmodule$.
+Gives a module a permanent $boost$.</string>
         <string lang="fr">N'accepte que les modules de type $b$Module de Relais$/b$.
-Donne un $boost$ permanent aux modules.</string>
-        <string lang="zh">只接受类型为$passthrough$的模块。
+Donne un $boost$ permanent à un module.</string>
+        <string lang="zh">只接受类型为$passthroughmodule$的模块。
 给模块一个永久的 $boost$。</string>
-        <string lang="jp">タイプ$passthrough$のモジュールのみを受け入れます。
+        <string lang="jp">タイプ$passthroughmodule$のモジュールのみを受け入れます。
 モジュールに永久的な$boost$を与えます。</string>
-        <string lang="ru">Принимает только модули типа $passthrough$.
+        <string lang="ru">Принимает только модули типа $passthroughmodule$.
 Дает модулям постоянный $boost$.</string>
-        <string lang="es">Solo acepta módulos de tipo $passthrough$.
+        <string lang="es">Solo acepta módulos de tipo $passthroughmodule$.
 Da a los módulos un $boost$ permanente.</string>
-        <string lang="kr">$passthrough$ 타입의 모듈만 허용합니다.
+        <string lang="kr">$passthroughmodule$ 타입의 모듈만 허용합니다.
 모듈에 영구적인 $boost$를 부여합니다.</string>
-        <string lang="pt-br">Apenas aceita módulos do tipo $passthrough$.
+        <string lang="pt-br">Apenas aceita módulos do tipo $passthroughmodule$.
 Dá aos módulos um $boost$ permanente.</string>
     </set>
     <set id="happening-modifierupgrader-description2">

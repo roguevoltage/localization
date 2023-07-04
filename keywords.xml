@@ -692,7 +692,7 @@
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="outoforder" tint=1&gt;고장&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="outoforder" tint=1&gt;Fora de Serviço&lt;/color&gt;&lt;/b&gt;</string>
     </set>
-    <set id="$passthrough$">
+    <set id="$passthroughmodule$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;Durchsatzmodul&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;Passthrough Module&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;Module de Relais&lt;/color&gt;&lt;/b&gt;</string>
@@ -702,6 +702,17 @@
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;Módulo de Traspaso&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;처리량 모듈&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="passthrough" tint=1&gt;Módulo de Atravessar&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$storagemodule$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Speichermodul&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Storage Module&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Module de Stockage&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;充能模块&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;ストレージモジュール&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;модуль хранения&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Módulo de Almacenamiento&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;저장 모듈&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="storages" tint=1&gt;Módulo de Armazenamentos&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$recovery$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFBE00&gt;&lt;sprite name="recovery" tint=1&gt;Erholung&lt;/color&gt;&lt;/b&gt;</string>
@@ -746,6 +757,17 @@
         <string lang="es">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Retroceso Grav.&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;중력 반동&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Recuo Grav.&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$gravvacuum$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Grav.-Vakuum&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Grav. Vacuum&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Vacuum grav.&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;引力真空&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;重力真空&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Грав. Вакуум&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Vacío Grav.&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;중력 진공&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Vácuo Grav.&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$plasmacombustion$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF00FF&gt;&lt;sprite name="plasma" tint=1&gt;Plasma-Verbrennung&lt;/color&gt;&lt;/b&gt;</string>

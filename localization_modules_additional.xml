@@ -487,6 +487,12 @@ on this rack.</string>
         <string lang="zh">移除所有角色的 $might$ 。</string>
         <string lang="jp">すべての戦闘参加者からすべての$might$を削除します。</string>
     </set>
+    <set id="name-module-toggledgravvacuum">
+        <string lang="en">Passthrough Vacuumizer</string>
+    </set>
+        <set id="description-module-toggledgravvacuum">
+        <string lang="en">Permanently applies $gravvacuum$ to a $passthroughmodule$ on this rack.</string>
+    </set>
     <set id="name-module-toggledbooster-eob">
         <string lang="de">Booster</string>
         <string lang="en">Booster</string>
@@ -495,9 +501,9 @@ on this rack.</string>
         <string lang="jp">ブースター</string>
     </set>
     <set id="description-module-toggledbooster-eob">
-        <string lang="de">Verleiht einem Modul des Typs $passthrough$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
-        <string lang="en">Applies a $boost$ to a module of type $passthrough$ on this rack until the end of combat.</string>
-        <string lang="fr">Applique un $boost$ à un module de type $passthrough$ sur ce rack jusqu'à la fin du combat.</string>
+        <string lang="de">Verleiht einem $passthroughmodule$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Applies a $boost$ to a $passthroughmodule$ on this rack until the end of combat.</string>
+        <string lang="fr">Applique un $boost$ à un $passthroughmodule$ sur ce rack jusqu'à la fin du combat.</string>
     </set>
     <set id="name-module-toggleddurabilityenhancer">
         <string lang="de">Haltbarkeits-Verstärker</string>

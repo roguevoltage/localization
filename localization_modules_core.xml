@@ -65,6 +65,17 @@
         <string lang="kr">수류탄</string>
         <string lang="pt-br">Granada</string>
     </set>
+        <set id="module-type-moduleupgrader">
+        <string lang="de">Modul-Upgrader</string>
+        <string lang="en">Module Upgrader</string>
+        <string lang="fr">Améliorateur de Module</string>
+        <string lang="zh">模块升级器</string>
+        <string lang="jp">モジュールアップグレーダー</string>
+        <string lang="ru">модуль улучшитель</string>
+        <string lang="es">Mejorador de Módulo</string>
+        <string lang="kr">모듈 업그레이더</string>
+        <string lang="pt-br">Melhorador de Módulo</string>
+    </set>
     <set id="module-type-factory">
         <string lang="de">Fabrik</string>
         <string lang="en">Factory</string>
@@ -869,15 +880,15 @@
         <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
     </set>
     <set id="description-module-collectoraccumulation">
-        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul vom Typ $b$Speichermodul$/b$ geladen wird.</string>
-        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module of type $b$Storage Module$/b$ is charged.</string>
-        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $b$Module de Stockage$/b$ est chargé.</string>
-        <string lang="zh">当$b$充能模块$/b$充能时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">$b$ストレージモジュール$/b$が充電されるとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль типа $b$Модуль Хранения$/b$ заряжается.</string>
-        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $b$Módulo de Almacenamiento$/b$ es cargado.</string>
-        <string lang="kr">$b$저장 모듈$/b$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
-        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $b$Módulo de Armazenamento$/b$ é carregado.</string>
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ geladen wird.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
+        <string lang="zh">当$storagemodule$充能时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$storagemodule$が充電されるとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль типа $storagemodule$ заряжается.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
+        <string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
     </set>
     <set id="description-module-collectorchrono">
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -1272,15 +1283,15 @@ a uma corrente.</string>
         <string lang="pt-br">Cura o dono em $1$ HP no início de cada batalha.</string>
     </set>
     <set id="description-module-passivegeneratorroll">
-        <string lang="de">Module vom Typ $generator$ auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
-        <string lang="en">Modules of type $generator$ on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
-        <string lang="fr">Les modules de type $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
+        <string lang="de">$generator$-Module auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
+        <string lang="en">$generator$ modules on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
+        <string lang="fr">Les modules $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
         <string lang="zh">同机架上的 $generator$ 模块有 $b$33%$/b$ 的几率生成 $b$+1$/b$ $energy$。</string>
         <string lang="jp">このラックの $generator$ モジュールは $b$33%$/b$ の確率で $b$+1$/b$ $energy$ を生成します。</string>
-        <string lang="ru">Модули типа $generator$ на этом слоте имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
-        <string lang="es">Los módulos de tipo $generator$ en este rack tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
+        <string lang="ru">Модули $generator$ на этом слоте имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
+        <string lang="es">Los módulos $generator$ en este rack tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
         <string lang="kr">이 랙에 있는 $generator$ 타입의 모듈은 $b$33%$/b$의 확률로 $b$+1$/b$ $energy$를 생성합니다.</string>
-        <string lang="pt-br">Módulos do tipo $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
+        <string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
     </set>
     <set id="description-module-passivedurabilitysafeguarding">
         <string lang="de">Module mit $cracked$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
@@ -1363,26 +1374,26 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Reduza o efeito com $energy$).</string>
     </set>
     <set id="description-module-toggledbooster">
-        <string lang="de">Verleiht einem Modul des Typs $passthrough$ auf diesem Rack einen permanenten $boost$.</string>
-        <string lang="en">Applies a permanent $boost$ to a module of type $passthrough$ on this rack.</string>
-        <string lang="fr">Applique un $boost$ permanent à un module de type $passthrough$ sur ce rack.</string>
-        <string lang="zh">在本机架上的一个类型为 $passthrough$ 的模块上应用永久 $boost$。</string>
-        <string lang="jp">このラックのタイプ$passthrough$のモジュールに恒久的な$boost$を適用します。</string>
-        <string lang="ru">Применяет постоянный $boost$ к модулю типа $passthrough$ на этом стеллаже.</string>
-        <string lang="es">Aplica un $boost$ permanente a un módulo de tipo $passthrough$ en este rack.</string>
-        <string lang="kr">이 랙에 있는 $passthrough$ 타입의 모듈에 영구적인 $boost$를 적용합니다.</string>
-        <string lang="pt-br">Aplica um $boost$ permanente a um módulo do tipo $passthrough$ neste rack.</string>
+        <string lang="de">Verleiht einem Modul des Typs $passthroughmodule$ auf diesem Rack einen permanenten $boost$.</string>
+        <string lang="en">Applies a permanent $boost$ to a module of type $passthroughmodule$ on this rack.</string>
+        <string lang="fr">Applique un $boost$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
+        <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $boost$。</string>
+        <string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$boost$を適用します。</string>
+        <string lang="ru">Применяет постоянный $boost$ к модулю типа $passthroughmodule$ на этом стеллаже.</string>
+        <string lang="es">Aplica un $boost$ permanente a un módulo de tipo $passthroughmodule$ en este rack.</string>
+        <string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Aplica um $boost$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
     </set>
     <set id="description-module-toggledbooster-modifiers">
-        <string lang="de">Versieht alle Module vom Typ $passthrough$ auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-        <string lang="en">Applies $boost$ to all modules of type $passthrough$ on this rack until the end of turn.</string>
-        <string lang="fr">Applique $boost$ à tous les modules de type $passthrough$ sur ce rack jusqu'à la fin du tour.</string>
-        <string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$passthrough$的模块。</string>
-        <string lang="jp">ターン終了まで、このラックのすべてのタイプ$passthrough$のモジュールに$boost$を適用します。</string>
-        <string lang="ru">Накладывает $boost$ на все модули типа $passthrough$ на этом стеллаже до конца хода.</string>
-        <string lang="es">Aplica $boost$ a todos los módulos de tipo $passthrough$ en este rack hasta el final del turno.</string>
-        <string lang="kr">이 랙의 모든 $passthrough$ 타입의 모듈에 $boost$를 턴 종료까지 적용합니다.</string>
-        <string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthrough$ neste rack até o final do turno.</string>
+        <string lang="de">Versieht alle $passthroughmodule$e auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+        <string lang="en">Applies $boost$ to all $passthroughmodule$s on this rack until the end of turn.</string>
+        <string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
+        <string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$passthroughmodule$的模块。</string>
+        <string lang="jp">ターン終了まで、このラックのすべてのタイプ$passthroughmodule$のモジュールに$boost$を適用します。</string>
+        <string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этом стеллаже до конца хода.</string>
+        <string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este rack hasta el final del turno.</string>
+        <string lang="kr">이 랙의 모든 $passthroughmodule$ 타입의 모듈에 $boost$를 턴 종료까지 적용합니다.</string>
+        <string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
     </set>
     <set id="description-module-toggledvulnerabilitygrenade">
         <string lang="de">Versieht alle Gegner und Spielercharaktere mit $vulnerable$. (Dauer: 6)</string>
