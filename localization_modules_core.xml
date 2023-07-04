@@ -780,6 +780,17 @@
         <string lang="kr">중력 중화기</string>
         <string lang="pt-br">Neutralizador Grav.</string>
     </set>
+    <set id="name-module-toggledmaxhpenhancer">
+        <string lang="de">Gesundheits-Booster</string>
+        <string lang="en">Health Enhancer</string>
+        <string lang="fr">Améliorateur de Santé</string>
+        <string lang="zh">生命值增强器</string>
+        <string lang="jp">ヘルスエンハンサー</string>
+        <string lang="ru">усилитель здоровья</string>
+        <string lang="es">Mejorador de Salud</string>
+        <string lang="kr">체력 증가기</string>
+        <string lang="pt-br">Melhorador de Saúde</string>
+    </set>
     <set id="name-module-toggledvulnerabilitygrenade">
         <string lang="de">Verwundbarkeits-Granate</string>
         <string lang="en">Vulnerability Grenade</string>
@@ -1250,15 +1261,15 @@ a una corriente.</string>
 a uma corrente.</string>
     </set>
     <set id="description-module-medikit">
-        <string lang="de">Erhöht die max. HP des Charakters um $1$ und stellt zu Beginn jedes Kampfes $1$ HP wieder her.</string>
-        <string lang="en">Raises the owner's max. HP by $1$ and restores $1$ HP at the beginning of each battle.</string>
-        <string lang="fr">Augmente les PV max. du propriétaire de $1$ et restaure $1$ PV au début de chaque combat.</string>
-        <string lang="zh">拥有者增加 $1$ 点最大生命值，同时在每场战斗开始时回复 $1$ 点生命值。</string>
-        <string lang="jp">持有者の最大 HP を $1$ 増加し、各戦闘の開始時に $1$ HP を回復します。</string>
-        <string lang="ru">Повышает макс. HP владельца на $1$ и восстанавливает $1$ HP в начале каждого боя.</string>
-        <string lang="es">Aumenta los PV máx. del propietario en $1$ y restaura $1$ PV al comienzo de cada batalla.</string>
-        <string lang="kr">소유자의 최대 HP를 $1$ 증가시키고, 각 전투의 시작 시 $1$ HP를 회복합니다.</string>
-        <string lang="pt-br">Aumenta o PV máx. do dono em $1$ e restaura $1$ PV no início de cada batalha.</string>
+        <string lang="de">Heilt den Charakter am Beginn jedes Kampfes um $1$ HP.</string>
+        <string lang="en">Heals the owner by $1$ HP at the beginning of each battle.</string>
+        <string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
+        <string lang="zh">在每场战斗开始时为拥有者恢复 $1$ HP。</string>
+        <string lang="jp">戦闘の開始時に所有者を $1$ HP 回復します。</string>
+        <string lang="ru">Восстанавливает $1$ HP владельцу в начале каждого боя.</string>
+        <string lang="es">Cura al propietario en $1$ HP al comienzo de cada batalla.</string>
+        <string lang="kr">각 전투의 시작 시점에 소유자를 $1$ HP 회복합니다.</string>
+        <string lang="pt-br">Cura o dono em $1$ HP no início de cada batalha.</string>
     </set>
     <set id="description-module-passivegeneratorroll">
         <string lang="de">Module vom Typ $generator$ auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
@@ -1405,6 +1416,17 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="es">Elimina $crust$ de todos los módulos de esta estantería.</string>
         <string lang="kr">이 랙의 모든 모듈에서 $crust$를 제거합니다.</string>
         <string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
+    </set>
+    <set id="description-module-toggledmaxhpenhancer">
+        <string lang="de">Erhöht die Mmx. HP des Characters um $1$</string>
+        <string lang="en">Increases the character's max. HP by $1$</string>
+        <string lang="fr">Augmente les PV max. du personnage de $1$</string>
+        <string lang="zh">增加角色的最大生命值 $1$</string>
+        <string lang="jp">キャラクターの最大HPを$1$増加させます</string>
+        <string lang="ru">Увеличивает макс. HP персонажа на $1$</string>
+        <string lang="es">Aumenta los PV máx. del personaje en $1$</string>
+        <string lang="kr">캐릭터의 최대 HP를 $1$ 증가시킵니다.</string>
+        <string lang="pt-br">Aumenta o PV máx. do personagem em $1$</string>
     </set>
     <set id="description-module-trashcompactor">
         <string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
