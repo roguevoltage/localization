@@ -289,7 +289,7 @@ mit $cracked$ her.</string>
         <string lang="zh">制造一个通用的$b$Modifier$/b$。</string>
         <string lang="jp">一般的な$b$モディファイアー$/b$を作成します。</string>
     </set>
-        <set id="description-module-factoryturbulence">
+    <set id="description-module-factoryturbulence">
         <string lang="de">Stellt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters her.</string>
         <string lang="en">Constructs a $b$Turbulence$/b$ with $volatile$ on the other character's rack.</string>
         <string lang="fr">Construe une $b$Turbulence$/b$ avec $volatile$ sur le rack de l'autre personnage.</string>
@@ -396,6 +396,31 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="fr">Modifie un courant.</string>
         <string lang="zh">修改一个电流。</string>
         <string lang="jp">電流を変更します。</string>
+    </set>
+    <set id="name-module-modifiervulnerability">
+        <string lang="de">Gefährlicher Verstärker $MODIFICATIONVALUE$</string>
+        <string lang="en">Hazardous Amplifier $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur Périleux $MODIFICATIONVALUE$</string>
+        <string lang="zh">危险放大器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">危険な増幅器 $MODIFICATIONVALUE$</string>
+        <string lang="ru">Опасный усилитель $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador Peligroso $MODIFICATIONVALUE$</string>
+        <string lang="kr">위험한 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador Perigoso $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-modifiervulnerability">
+        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
+à un courant.</string>
+        <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
+a una corriente.</string>
+        <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
+a uma corrente.</string>
     </set>
     <set id="name-module-mutatingmodifier">
         <string lang="de">Organischer Wandler</string>

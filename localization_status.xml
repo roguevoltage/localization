@@ -1137,6 +1137,10 @@ por um turno</string>
         <string lang="kr">소유자의 턴 종료시 파괴됩니다</string>
         <string lang="pt-br">É destruído no final do turno do dono</string>
     </set>
+    <set id="description-status-modulevulnerability">
+        <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu.</string>
+        <string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps.</string>
+    </set>
     <set id="description-status-transformation-volcanodamagetomight">
         <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
         <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
