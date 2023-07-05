@@ -568,11 +568,17 @@ by $b$10$/b$ time steps.</string>
         <string lang="jp">トランスモグリファイアー</string>
     </set>
     <set id="description-module-transmogrifier">
-        <string lang="de">Verwandelt ein anderes Modul deiner Wahl in ein anderes Modul der gleichen Stufe.</string>
-        <string lang="en">Transforms another target module into a different module of the same level.</string>
+        <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein anderes Modul der gleichen Stufe her.</string>
+        <string lang="en">Destroys another target module and constructs a different module of the same level.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
         <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
         <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
+    </set>
+    <set id="name-module-disassembler">
+        <string lang="en">Disassembler</string>
+    </set>
+    <set id="description-module-disassembler">
+        <string lang="en">Destroys another target module to generate $2$ $plasma$.</string>
     </set>
     <set id="name-module-turbulence">
         <string lang="de">Turbulenz</string>
