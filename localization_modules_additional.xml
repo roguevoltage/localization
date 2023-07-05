@@ -370,11 +370,11 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="jp">戦闘者から$might$を$energy$として吸収します。</string>
     </set>
     <set id="name-module-modifiercyclotron">
-        <string lang="de">Zyklotron $grav-1$ $MODIFICATIONVALUE$</string>
-        <string lang="en">Cyclotron $grav-1$ $MODIFICATIONVALUE$</string>
-        <string lang="fr">Cyclotron $grav-1$ $MODIFICATIONVALUE$</string>
-        <string lang="zh">环状加速器 $grav-1$ $MODIFICATIONVALUE$</string>
-        <string lang="jp">サイクロトロン $grav-1$ $MODIFICATIONVALUE$</string>
+        <string lang="de">Zyklotron $MODIFICATIONVALUE$</string>
+        <string lang="en">Cyclotron $MODIFICATIONVALUE$</string>
+        <string lang="fr">Cyclotron $MODIFICATIONVALUE$</string>
+        <string lang="zh">环状加速器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">サイクロトロン $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-modifiercyclotron">
         <string lang="de">Modifiziert einen Strom.</string>
