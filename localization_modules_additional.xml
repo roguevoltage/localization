@@ -1,10 +1,10 @@
 <localization>
     <set id="name-module-coil">
-        <string lang="de">Spule</string>
-        <string lang="en">Coil</string>
-        <string lang="fr">Bobine</string>
-        <string lang="zh">线圈</string>
-        <string lang="jp">コイル</string>
+        <string lang="de">Spule $MODIFICATIONVALUE$</string>
+        <string lang="en">Coil $MODIFICATIONVALUE$</string>
+        <string lang="fr">Bobine $MODIFICATIONVALUE$</string>
+        <string lang="zh">线圈 $MODIFICATIONVALUE$</string>
+        <string lang="jp">コイル $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-coil">
         <string lang="de">Erhält einen $boost$ bis zum Ende des Kampfes, immer wenn sie $energy$ erhält.</string>
