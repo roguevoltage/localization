@@ -912,9 +912,42 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
     </set>
-        <set id="description-status-modulefragile-discharge">
+    <set id="description-status-modulefragile">
+        <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
+        <string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
+        <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
+        <string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
+        <string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
+        <string lang="ru">При активации получает $outoforder$ до конца боя.</string>
+        <string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
+        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
+        <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
+    </set>
+     <set id="description-status-modulefragile-safeguarded">
+        <string lang="de">$CHANCETOBREAK$% Chance, bei Aktivierung $outoforder$ bis zum Ende des Kampfes zu erhalten.</string>
+        <string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when activated.</string>
+        <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
+        <string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
+        <string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
+        <string lang="ru">При активации получает $outoforder$ до конца боя.</string>
+        <string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
+        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
+        <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
+    </set>
+    <set id="description-status-modulefragile-discharge">
         <string lang="de">Wenn entladen, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
         <string lang="en">When discharged, receives $outoforder$ until the end of battle.</string>
+        <string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
+        <string lang="zh">当放电时，直到战斗结束，它将获得 $outoforder$。</string>
+        <string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
+        <string lang="ru">При разряде получает $outoforder$ до конца боя.</string>
+        <string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
+        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
+        <string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
+    </set>
+    <set id="description-status-modulefragile-discharge-safeguarded">
+        <string lang="de">$CHANCETOBREAK$% Chance, bei Entladung $outoforder$ bis zum Ende des Kampfes zu erhalten.</string>
+        <string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when discharged.</string>
         <string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
         <string lang="zh">当放电时，直到战斗结束，它将获得 $outoforder$。</string>
         <string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
