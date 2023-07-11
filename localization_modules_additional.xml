@@ -516,7 +516,7 @@ on this rack.</string>
         <string lang="en">Passthrough Vacuumizer</string>
     </set>
         <set id="description-module-toggledgravvacuum">
-        <string lang="en">Permanently applies $gravvacuum$ to a $passthroughmodule$ on this rack.</string>
+        <string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.</string>
     </set>
     <set id="name-module-toggledbooster-eob">
         <string lang="de">Booster</string>
@@ -526,9 +526,9 @@ on this rack.</string>
         <string lang="jp">ブースター</string>
     </set>
     <set id="description-module-toggledbooster-eob">
-        <string lang="de">Verleiht einem $passthroughmodule$ auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
-        <string lang="en">Applies a $boost$ to a $passthroughmodule$ on this rack until the end of combat.</string>
-        <string lang="fr">Applique un $boost$ à un $passthroughmodule$ sur ce rack jusqu'à la fin du combat.</string>
+        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack einen $boost$ bis zum Ende des Kampfes.</string>
+        <string lang="en">Applies a $boost$ to target $passthroughmodule$ on this rack until the end of combat.</string>
+        <string lang="fr">Applique un $boost$ à un $passthroughmodule$ ciblé sur ce rack jusqu'à la fin du combat.</string>
     </set>
     <set id="name-module-toggleddurabilityenhancer">
         <string lang="de">Haltbarkeits-Verstärker</string>

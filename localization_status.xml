@@ -772,12 +772,10 @@ jusqu'à la fin du combat.</string>
         <string lang="pt-br">Adiciona $1$ $energy$ a uma corriente até o final do turno.</string>
     </set>
         <set id="description-status-modulecrust">
-        <string lang="de">Verhindert Aktivierung des Moduls.
-Die erste eingehende $energy$ bricht die Kruste</string>
-        <string lang="en">Prevents module activation.
-First incoming $energy$ will break the crust</string>
+        <string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ bricht die Kruste dauerhaft.</string>
+        <string lang="en">Prevents module activation. First incoming $energy$ will permanently break the crust.</string>
         <string lang="fr">Module non activable.
-La première $energy$ entrante brise la croûte</string>
+La première $energy$ entrante brisera la croûte de façon permanente.</string>
         <string lang="zh">阻止模块的激活。
 输入能量一次来破坏晶壳</string>
         <string lang="jp">モジュールはアクティブ化できません。
@@ -900,17 +898,6 @@ $1damage$ au propriétaire à la fin du tour</string>
         <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Inflige $1damage$ ao dono no final do turno. Ative o módulo para extinguir.</string>
-    </set>
-    <set id="description-status-modulefragile">
-        <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
-        <string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
-        <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
-        <string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
-        <string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
-        <string lang="ru">При активации получает $outoforder$ до конца боя.</string>
-        <string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
-        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
-        <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
     </set>
     <set id="description-status-modulefragile">
         <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
@@ -1072,6 +1059,20 @@ to the owner</string>
         <string lang="de">Erhält nach Aktivierung $shock$
 für eine Runde</string>
         <string lang="en">When activated, receives $shock$
+for one turn</string>
+        <string lang="fr">Reçoit $shock$ pour un tour après activation</string>
+        <string lang="zh">激活后将获得 $shock$ 一回合</string>
+        <string lang="jp">アクティブ化すると、1ターンに$shock$を受け取ります</string>
+        <string lang="ru">Получает $shock$ на один ход после активации</string>
+        <string lang="es">Cuando se activa, recibe $shock$ por un turno</string>
+        <string lang="kr">활성화하면 $shock$를 한 턴 동안 받습니다</string>
+        <string lang="pt-br">Quando ativado, recebe $shock$
+por um turno</string>
+    </set>
+        <set id="description-status-moduleoverload-discharge">
+        <string lang="de">Erhält nach Entladung $shock$
+für eine Runde</string>
+        <string lang="en">When discharged, receives $shock$
 for one turn</string>
         <string lang="fr">Reçoit $shock$ pour un tour après activation</string>
         <string lang="zh">激活后将获得 $shock$ 一回合</string>
