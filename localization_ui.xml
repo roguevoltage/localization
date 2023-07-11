@@ -1028,13 +1028,28 @@ aventura!</string>
         <string lang="pt-br">Comece a
 aventura!</string>
     </set>
-    <set id="toggled-module">
-        <string lang="de">Wird während der Feuersequenz aktiviert, 
+    <set id="toggled-module-off">
+        <string lang="de">Wird während der Spannungssequenz aktiviert, 
 wenn angeschaltet</string>
-        <string lang="en">Will be activated during firing sequence, 
+        <string lang="en">Will be activated during voltage sequence, 
 if toggled on</string>
         <string lang="fr">Sera utilisé pendant la séquence de tir, 
 si activé</string>
+        <string lang="zh">打开开关后会在触发序列中被激活</string>
+        <string lang="jp">オンに設定されている場合、
+発射シーケンス中にアクティブになります</string>
+        <string lang="ru">Будет активирован во время стрельбы,
+если включен</string>
+        <string lang="es">Se activará durante la secuencia de disparo,
+si está activado</string>
+        <string lang="kr">총격 순서 중에 활성화됩니다.
+토글이 켜져 있으면</string>
+        <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
+    </set>
+        <set id="toggled-module-on">
+        <string lang="de">Wird während der Spannungssequenz aktiviert</string>
+        <string lang="en">Will be activated during voltage sequence</string>
+        <string lang="fr">Sera utilisé pendant la séquence de tir</string>
         <string lang="zh">打开开关后会在触发序列中被激活</string>
         <string lang="jp">オンに設定されている場合、
 発射シーケンス中にアクティブになります</string>
