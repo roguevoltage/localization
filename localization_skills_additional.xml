@@ -633,13 +633,14 @@ with $grav-1$.</string>
         <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
     </set>
     <set id="description-skill-pterodactyl-riseup">
-        <string lang="de">Entfernt alle $grav$ von sich selbst. Steigt auf der Zeitleiste über die Spielercharaktere auf.</string>
-        <string lang="en">Removes all $grav$ from itself. Rises above the player characters on the timeline.</string>
+        <string lang="de">Steigt auf der Zeitleiste über die Spielercharaktere auf.</string>
+        <string lang="en">Rises above the player characters on the timeline.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-pterodactyl-crashdown">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu. Sinkt auf der Zeitleiste unter die Spielercharaktere ab.</string>
-        <string lang="en">Deals $2damage$ to all combatants on the same time step. Sinks below the player characters on the timeline.</string>
+        <string lang="en">Deals $1damage$ to all enemies on the same time step and inflicts one module each with $shock$. Inflicts itself with $grav+4$. 
+Sinks below the player characters on the timeline.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-rage">
