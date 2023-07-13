@@ -125,6 +125,10 @@
         <string lang="en">Heat Sink $fireicon$</string>
         <string lang="fr">Dissipation Thermique $fireicon$</string>
     </set>
+    <set id="name-skill-gravpush-thunderbird">
+        <string lang="de">Sturmrufer $grav+2$</string>
+        <string lang="en">Storm Caller $grav+2$</string>
+    </set>
     <set id="name-skill-gravhowl">
         <string lang="de">Grav. Heulen</string>
         <string lang="en">Grav. Howl</string>
@@ -437,6 +441,10 @@
         <string lang="de">Entfernt $grav+$ vom Charakter und fügt einem Gegner ebenso viel $damage$ zu.</string>
         <string lang="en">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
         <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpush-thunderbird">
+        <string lang="de">Rückt den $storm$ vorwärts und versieht einen Kampfteilnehmer mit $grav+2$.</string>
+        <string lang="en">Advances $storm$ and inflicts another combatant with $grav+2$</string>
     </set>
     <set id="description-skill-gravhowl">
         <string lang="de">Entfernt alle $grav$ und versieht alle Kampfteilnehmer mit $gravamplification$.</string>
