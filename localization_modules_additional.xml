@@ -303,13 +303,6 @@ mit $cracked$ her.</string>
         <string lang="zh">等离子体发生器</string>
         <string lang="jp">プラズマジェネレーター</string>
     </set>
-    <set id="name-module-generatorfire">
-        <string lang="de">Pyro-Generator</string>
-        <string lang="en">Pyro Generator</string>
-        <string lang="fr">Generateur Pyro</string>
-        <string lang="zh">火焰发生器</string>
-        <string lang="jp">パイロジェネレーター</string>
-    </set>
     <set id="description-module-generatorplasma">
         <string lang="de">Erzeugt bei Aktivierung
 $b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -317,6 +310,13 @@ $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-generatorfire">
+        <string lang="de">Pyro-Generator</string>
+        <string lang="en">Pyro Generator</string>
+        <string lang="fr">Generateur Pyro</string>
+        <string lang="zh">火焰发生器</string>
+        <string lang="jp">パイロジェネレーター</string>
     </set>
     <set id="description-module-generatorfire">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.
@@ -326,6 +326,36 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+    </set>
+    <set id="name-module-generatorvulnerability">
+        <string lang="de">Gefährlicher Generator</string>
+        <string lang="en">Hazardous Generator</string>
+        <string lang="fr">Generateur Périleux</string>
+        <string lang="zh">危险发电机</string>
+        <string lang="jp">危険なジェネレーター</string>
+        <string lang="ru">опасный генератор</string>
+        <string lang="es">Generador Peligroso</string>
+        <string lang="kr">위험한 발전기</string>
+        <string lang="pt-br">Gerador Perigoso</string>
+    </set>
+    <set id="description-module-generatorvulnerability">
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
+        <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
+        <string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но наносит владельцу $vulnerable$ на 5 шагов времени.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
+        <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
+    </set>
+    <set id="name-module-generatorstorm">
+        <string lang="de">Sturmsucher-Generator</string>
+        <string lang="en">Stormseeker Generator</string>
+    </set>
+    <set id="description-module-generatorstorm">
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but attracts the $storm$ by $5$ time steps.</string>
     </set>
     <set id="name-module-gravoutlet">
         <string lang="de">Grav.-Abnehmer</string>
@@ -570,6 +600,12 @@ by $b$10$/b$ time steps.</string>
         <string lang="fr">Pousse $storm$ de $b$10$/b$ étapes de temps en arrière.</string>
         <string lang="zh">将 $storm$ 推回 $b$10$/b$个时刻。</string>
         <string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
+    </set>
+    <set id="name-module-toggledstormrepeller">
+        <string lang="en">Storm Repeller</string>
+    </set>
+    <set id="description-module-toggledstormrepeller">
+        <string lang="en">Permanently applies the $b$Storm Repeller$/b$ status to target $passthroughmodule$ on this rack.</string>
     </set>
     <set id="name-module-toggledgravimmunitygrenade">
         <string lang="de">Grav.-Immunitäts-Granate</string>

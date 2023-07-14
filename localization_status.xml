@@ -230,6 +230,17 @@
         <string lang="kr">구조된</string>
         <string lang="pt-br">Resgatado</string>
     </set>
+    <set id="name-status-modulestormrepeller">
+        <string lang="de">Sturmabwehr</string>
+        <string lang="en">Storm Repeller</string>
+        <string lang="fr">Répulsif de Tempête</string>
+        <string lang="zh">风暴驱逐器</string>
+        <string lang="jp">嵐の撃退者</string>
+        <string lang="ru">Отталкиватель Шторма</string>
+        <string lang="es">Repelente de Tormentas</string>
+        <string lang="kr">폭풍 방어기</string>
+        <string lang="pt-br">Repelente de Tempestades</string>
+    </set>
     <set id="name-status-modulelock">
         <string lang="de">Gesperrt</string>
         <string lang="en">Locked</string>
@@ -988,7 +999,7 @@ to the owner</string>
         <string lang="kr">활성화는 소유자에게  $1damage$를 줍니다.</string>
         <string lang="pt-br">Ativação causa $1damage$ ao dono</string>
     </set>
-        <set id="description-status-modulepollution-eot">
+    <set id="description-status-modulepollution-eot">
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $1damage$ zu</string>
         <string lang="en">Activation this turn deals $1damage$
 to the owner</string>
@@ -1054,6 +1065,12 @@ to the owner</string>
         <string lang="es">La activación de este turno conducirá a $crust$</string>
         <string lang="kr">이번 턴에 활성화하면 $crust$가 됩니다</string>
         <string lang="pt-br">A ativação deste turno levará a $crust$</string>
+    </set>
+    <set id="description-status-modulestormrepeller">
+        <string lang="de">Aktivierung drängt den $storm$
+um $4$ Zeitschritte zurück</string>
+        <string lang="en">Activation pushes back the $storm$
+by $4$ time steps</string>
     </set>
     <set id="description-status-moduleoverload">
         <string lang="de">Erhält nach Aktivierung $shock$
