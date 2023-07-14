@@ -239,15 +239,19 @@
         <string lang="en">Zap $mighticon$</string>
         <string lang="fr">n/a $mighticon$</string>
     </set>
+    <set id="name-skill-powertograv">
+        <string lang="de">Grav.-Zap $mighticon$$grav+icon$</string>
+        <string lang="en">Grav.-Zap $mighticon$$grav+icon$</string>
+    </set>
     <set id="name-skill-powerraise-livingbomb">
         <string lang="de">Aufladen</string>
         <string lang="en">Charge</string>
         <string lang="fr">Charge</string>
     </set>
     <set id="name-skill-powerraise-onallies">
-        <string lang="de">Aufladen AOE</string>
-        <string lang="en">Charge AOE</string>
-        <string lang="fr">Charge AOE</string>
+        <string lang="de">Brüten $mighticon$</string>
+        <string lang="en">Incubate $mighticon$</string>
+        <string lang="fr">Couver $mighticon$</string>
     </set>
     <set id="name-skill-powerraise-egg-dynosaur">
         <string lang="de">Brüten $mighticon$</string>
@@ -263,6 +267,11 @@
         <string lang="de">Brüten $mighticon$</string>
         <string lang="en">Incubate $mighticon$</string>
         <string lang="fr">Couver $mighticon$</string>
+    </set>
+        <set id="name-skill-powerraise-egg-pollution">
+        <string lang="de">Schädliches Brüten $mighticon$$pollutionicon$</string>
+        <string lang="en">Noxious Brooding $mighticon$$pollutionicon$</string>
+        <string lang="fr">Couvaison Nocive $mighticon$$pollutionicon$</string>
     </set>
     <set id="name-skill-ondeath-gravaoe-minus">
         <string lang="de">Grav.-Summen $grav-1$</string>
@@ -614,6 +623,15 @@ with $grav-1$.</string>
         <string lang="de">Füllt $might$.</string>
         <string lang="en">Fills $might$.</string>
         <string lang="fr">Remplit $might$.</string>
+    </set>
+    <set id="description-skill-powerraise-egg-pollution">
+        <string lang="de">Füllt $might$ und versieht zwei Module mit $pollution$..</string>
+        <string lang="en">Fills $might$ and inflicts two modules with $pollution$.</string>
+        <string lang="fr">Remplit $might$ et applique $pollution$ à deux modules.</string>
+    </set>
+    <set id="description-skill-powertograv">
+        <string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
+        <string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
     </set>
     <set id="description-skill-ondeath-gravaoe-minus">
         <string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
