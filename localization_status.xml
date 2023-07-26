@@ -208,9 +208,9 @@
         <string lang="kr">회복</string>
         <string lang="pt-br">Recuperação</string>
     </set>
-    <set id="name-status-moduleshock">
-        <string lang="de">Schock</string>
-        <string lang="en">Shock</string>
+    <set id="name-status-modulecooldown">
+        <string lang="de">Cooldown</string>
+        <string lang="en">Cooldown</string>
         <string lang="fr">Choc</string>
         <string lang="zh">震荡</string>
         <string lang="jp">ショック</string>
@@ -549,16 +549,16 @@
         <string lang="kr">오염</string>
         <string lang="pt-br">Poluição</string>
     </set>
-    <set id="shortname-status-moduleshock">
-        <string lang="de">Schock</string>
-        <string lang="en">Shock</string>
-        <string lang="fr">Choc</string>
-        <string lang="zh">震荡</string>
-        <string lang="jp">衝撃</string>
-        <string lang="ru">Шок</string>
-        <string lang="es">Impacto</string>
-        <string lang="kr">충격</string>
-        <string lang="pt-br">Choque</string>
+    <set id="shortname-status-modulecooldown">
+        <string lang="de">Cooldown</string>
+        <string lang="en">Cooldown</string>
+        <string lang="fr">Cooldown</string>
+        <string lang="zh">冷却时间</string>
+        <string lang="jp">クールダウン</string>
+        <string lang="ru">Перезагрузить</string>
+        <string lang="es">Reutilizacion</string>
+        <string lang="kr">재사용 대기</string>
+        <string lang="pt-br">Reutilização</string>
     </set>
     <set id="shortname-status-moduleselfencrusting">
         <string lang="de">Selbstverkrustend</string>
@@ -1022,7 +1022,7 @@ to the owner</string>
         <string lang="kr">전투 후 내구도가 회복됩니다</string>
         <string lang="pt-br">A durabilidade se recuperará após a batalha</string>
     </set>
-    <set id="description-status-moduleshock">
+    <set id="description-status-modulecooldown">
         <string lang="de">Kann diese Runde nicht aktiviert werden</string>
         <string lang="en">Can't be activated this turn</string>
         <string lang="fr">Ne peut pas être activé ce tour</string>
@@ -1073,43 +1073,54 @@ um $4$ Zeitschritte zurück</string>
 by $4$ time steps</string>
     </set>
     <set id="description-status-moduleoverload">
-        <string lang="de">Erhält nach Aktivierung $shock$
+        <string lang="de">Erhält nach Aktivierung $cooldown$
 für eine Runde</string>
-        <string lang="en">When activated, receives $shock$
+        <string lang="en">When activated, receives $cooldown$
 for one turn</string>
-        <string lang="fr">Reçoit $shock$ pour un tour après activation</string>
-        <string lang="zh">激活后将获得 $shock$ 一回合</string>
-        <string lang="jp">アクティブ化すると、1ターンに$shock$を受け取ります</string>
-        <string lang="ru">Получает $shock$ на один ход после активации</string>
-        <string lang="es">Cuando se activa, recibe $shock$ por un turno</string>
-        <string lang="kr">활성화하면 $shock$를 한 턴 동안 받습니다</string>
-        <string lang="pt-br">Quando ativado, recebe $shock$
+        <string lang="fr">Reçoit $cooldown$ pour un tour après activation</string>
+        <string lang="zh">激活后将获得 $cooldown$ 一回合</string>
+        <string lang="jp">アクティブ化すると、1ターンに$cooldown$を受け取ります</string>
+        <string lang="ru">Получает $cooldown$ на один ход после активации</string>
+        <string lang="es">Cuando se activa, recibe $cooldown$ por un turno</string>
+        <string lang="kr">활성화하면 $cooldown$를 한 턴 동안 받습니다</string>
+        <string lang="pt-br">Quando ativado, recebe $cooldown$
 por um turno</string>
     </set>
         <set id="description-status-moduleoverload-discharge">
-        <string lang="de">Erhält nach Entladung $shock$
+        <string lang="de">Erhält nach Entladung $cooldown$
 für eine Runde</string>
-        <string lang="en">When discharged, receives $shock$
+        <string lang="en">When discharged, receives $cooldown$
 for one turn</string>
-        <string lang="fr">Reçoit $shock$ pour un tour après activation</string>
-        <string lang="zh">激活后将获得 $shock$ 一回合</string>
-        <string lang="jp">アクティブ化すると、1ターンに$shock$を受け取ります</string>
-        <string lang="ru">Получает $shock$ на один ход после активации</string>
-        <string lang="es">Cuando se activa, recibe $shock$ por un turno</string>
-        <string lang="kr">활성화하면 $shock$를 한 턴 동안 받습니다</string>
-        <string lang="pt-br">Quando ativado, recebe $shock$
+        <string lang="fr">Reçoit $cooldown$ pour un tour après décharge</string>
+        <string lang="zh">放电后将获得 $cooldown$ 一回合</string>
+        <string lang="jp">放電すると、1ターンに$cooldown$を受け取ります</string>
+        <string lang="ru">Получает $cooldown$ на один ход после разрядки</string>
+        <string lang="es">Cuando se descarga, recibe $cooldown$ por un turno</string>
+        <string lang="kr">방전하면 $cooldown$를 한 턴 동안 받습니다</string>
+        <string lang="pt-br">Quando descarregado, recebe $cooldown$
 por um turno</string>
     </set>
     <set id="description-status-moduleoverload-eot">
-        <string lang="de">Aktivierung diese Runde führt zu $shock$</string>
-        <string lang="en">Activation this turn will lead to $shock$</string>
-        <string lang="fr">Activation ce tour mènera à $shock$</string>
-        <string lang="zh">在本回合激活将导致 $shock$</string>
-        <string lang="jp">このターンにアクティブ化は $shock$を引き起こします</string>
-        <string lang="ru">Активация в этом ходу даст $shock$</string>
-        <string lang="es">La activación de este turno conducirá a $shock$</string>
-        <string lang="kr">이번 턴에 활성화하면 $shock$가 됩니다</string>
-        <string lang="pt-br">A ativação deste turno levará a $shock$</string>
+        <string lang="de">Aktivierung diese Runde führt zu $cooldown$</string>
+        <string lang="en">Activation this turn will lead to $cooldown$</string>
+        <string lang="fr">Activation ce tour mènera à $cooldown$</string>
+        <string lang="zh">在本回合激活将导致 $cooldown$</string>
+        <string lang="jp">このターンにアクティブ化は $cooldown$を引き起こします</string>
+        <string lang="ru">Активация в этом ходу даст $cooldown$</string>
+        <string lang="es">La activación de este turno conducirá a $cooldown$</string>
+        <string lang="kr">이번 턴에 활성화하면 $cooldown$가 됩니다</string>
+        <string lang="pt-br">A ativação deste turno levará a $cooldown$</string>
+    </set>
+        <set id="description-status-moduleoverload-eot-discharge">
+        <string lang="de">Entladung diese Runde führt zu $cooldown$</string>
+        <string lang="en">Discharge this turn will lead to $cooldown$</string>
+        <string lang="fr">Décharge ce tour mènera à $cooldown$</string>
+        <string lang="zh">在本回合放电将导致 $cooldown$</string>
+        <string lang="jp">このターンに放電は $cooldown$を引き起こします</string>
+        <string lang="ru">Разрядка в этом ходу даст $cooldown$</string>
+        <string lang="es">La descarga de este turno conducirá a $cooldown$</string>
+        <string lang="kr">이번 턴에 방전하면 $cooldown$가 됩니다</string>
+        <string lang="pt-br">A descarga deste turno levará a $cooldown$</string>
     </set>
     <set id="description-status-modulegravrecoil">
         <string lang="de">Aktivierung fügt dem Charakter $grav+2$ zu</string>
@@ -1168,7 +1179,7 @@ por um turno</string>
     </set>
     <set id="description-status-moduleunstable">
         <string lang="de">Wird am Ende des Kampfes zerstört</string>
-        <string lang="en">Is destroyed at the end of combat</string>
+        <string lang="en">Module will be destroyed at the end of combat</string>
         <string lang="fr">Est détruit à la fin du combat</string>
         <string lang="zh">战斗结束时摧毁</string>
         <string lang="jp">バトル終了時に破壊されます</string>
@@ -1179,7 +1190,7 @@ por um turno</string>
     </set>
     <set id="description-status-modulevolatile">
         <string lang="de">Wird am Ende des Zuges des Besitzers zerstört</string>
-        <string lang="en">Is destroyed at the end of the owner's turn</string>
+        <string lang="en">Module will be destroyed at the end of the owner's turn</string>
         <string lang="fr">Est détruit à la fin du tour du propriétaire</string>
         <string lang="zh">拥有者回合结束时摧毁</string>
         <string lang="jp">オーナーのターン終了時に破壊されます</string>

@@ -118,7 +118,7 @@
         <string lang="zh">不稳定的复制器</string>
         <string lang="jp">不安定な複製機</string>
     </set>
-        <set id="description-module-duplicator-eob">
+    <set id="description-module-duplicator-eob">
         <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her. Die Kopie erhält $unstable$.</string>
         <string lang="en">Constructs a copy of another target module. The copy has $unstable$.</string>
         <string lang="fr">Construit une copie d'un autre module ciblé. La copie a $unstable$.</string>
@@ -520,13 +520,13 @@ Peut être conservé dans le sac à dos.</string>
         <string lang="jp">リカバリーグレネード</string>
     </set>
     <set id="description-module-toggleddurabilityrestorer">
-        <string lang="de">Entfernt $shock$ und $outoforder$ von allen Modulen auf diesem Rack.</string>
+        <string lang="de">Entfernt $cooldown$ und $outoforder$ von allen Modulen auf diesem Rack.</string>
         <string lang="en">Removes $outoforder$ and 
-$shock$ from all modules
+$cooldown$ from all modules
 on this rack.</string>
-        <string lang="fr">Retire $shock$ et $outoforder$ de tous les modules sur ce rack.</string>
-        <string lang="zh">从本机架上的所有模块中移除 $shock$ 和 $outoforder$ 。</string>
-        <string lang="jp">このラックのすべてのモジュールから$shock$と$outoforder$を取り除きます。</string>
+        <string lang="fr">Retire $cooldown$ et $outoforder$ de tous les modules sur ce rack.</string>
+        <string lang="zh">从本机架上的所有模块中移除 $cooldown$ 和 $outoforder$ 。</string>
+        <string lang="jp">このラックのすべてのモジュールから$cooldown$と$outoforder$を取り除きます。</string>
     </set>
     <set id="name-module-toggledmightnullifier">
         <string lang="de">Macht-Nullifizierer</string>
@@ -629,7 +629,21 @@ by $b$10$/b$ time steps.</string>
         <string lang="jp">トランスモグリファイアー</string>
     </set>
     <set id="description-module-transmogrifier">
-        <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein anderes Modul der gleichen Stufe her.</string>
+        <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
+        <string lang="en">Destroys another target module to construct a different module of the same level.</string>
+        <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
+        <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
+        <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
+    </set>
+    <set id="name-module-transmogrifier-cracked">
+        <string lang="de">Transmogrifikator</string>
+        <string lang="en">Transmogrifier</string>
+        <string lang="fr">Transmogrificateur</string>
+        <string lang="zh">改变模块</string>
+        <string lang="jp">トランスモグリファイアー</string>
+    </set>
+    <set id="description-module-transmogrifier-cracked">
+        <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
         <string lang="en">Destroys another target module to construct a different module of the same level.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
         <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>

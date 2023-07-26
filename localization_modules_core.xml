@@ -406,7 +406,18 @@
         <string lang="kr">블래스터 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Blaster $MODIFICATIONVALUE$</string>
     </set>
-    <set id="name-module-effectordecelerator">
+    <set id="name-module-effectorblade">
+        <string lang="de">Klingenmodul $MODIFICATIONVALUE$</string>
+        <string lang="en">Blade Module $MODIFICATIONVALUE$</string>
+        <string lang="fr">Module Lame $MODIFICATIONVALUE$</string>
+        <string lang="zh">战斧 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ブレードモジュール $MODIFICATIONVALUE$</string>
+        <string lang="ru">модуль клинка $MODIFICATIONVALUE$</string>
+        <string lang="es">Módulo de Cuchilla $MODIFICATIONVALUE$</string>
+        <string lang="kr">블레이드 모듈 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Módulo de Lâmina $MODIFICATIONVALUE$</string>
+    </set>
+        <set id="name-module-effectordecelerator">
         <string lang="de">Verlangsamer $MODIFICATIONVALUE$</string>
         <string lang="en">Decelerator $MODIFICATIONVALUE$</string>
         <string lang="fr">Décélérateur $MODIFICATIONVALUE$</string>
@@ -428,16 +439,27 @@
         <string lang="kr">근접 감속기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Desacelerador Corpo a Corpo $MODIFICATIONVALUE$</string>
     </set>
-    <set id="name-module-effectorblade">
-        <string lang="de">Klingenmodul $MODIFICATIONVALUE$</string>
-        <string lang="en">Blade Module $MODIFICATIONVALUE$</string>
-        <string lang="fr">Module Lame $MODIFICATIONVALUE$</string>
-        <string lang="zh">战斧 $MODIFICATIONVALUE$</string>
-        <string lang="jp">ブレードモジュール $MODIFICATIONVALUE$</string>
-        <string lang="ru">модуль клинка $MODIFICATIONVALUE$</string>
-        <string lang="es">Módulo de Cuchilla $MODIFICATIONVALUE$</string>
-        <string lang="kr">블레이드 모듈 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Módulo de Lâmina $MODIFICATIONVALUE$</string>
+    <set id="name-module-effectorgatlinggun">
+        <string lang="de">Gatling-Gun $MODIFICATIONVALUE$</string>
+        <string lang="en">Gatling Gun $MODIFICATIONVALUE$</string>
+        <string lang="fr">Mitrailleuse Gatling $MODIFICATIONVALUE$</string>
+        <string lang="zh">加特林机枪 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ガトリングガン $MODIFICATIONVALUE$</string>
+        <string lang="ru">гатлинг-пушка $MODIFICATIONVALUE$</string>
+        <string lang="es">Ametralladora Gatling $MODIFICATIONVALUE$</string>
+        <string lang="kr">가틀링 건 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
+    </set>
+        <set id="name-module-effectorgatlingdecelerator">
+        <string lang="de">Gatling-Verlangsamer $MODIFICATIONVALUE$</string>
+        <string lang="en">Gatling Decelerator $MODIFICATIONVALUE$</string>
+        <string lang="fr">Mitrailleuse Gatling $MODIFICATIONVALUE$</string>
+        <string lang="zh">加特林机枪 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ガトリングガン $MODIFICATIONVALUE$</string>
+        <string lang="ru">гатлинг-пушка $MODIFICATIONVALUE$</string>
+        <string lang="es">Ametralladora Gatling $MODIFICATIONVALUE$</string>
+        <string lang="kr">가틀링 건 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
     </set>
     <set id="name-module-effectorpotion">
         <string lang="de">Heiltrank $MODIFICATIONVALUE$</string>
@@ -960,6 +982,20 @@ sur l'ennemi ciblé.</string>
         <string lang="kr">대상 적에게 $damage$를 줍니다.</string>
         <string lang="pt-br">Inflige $damage$ ao inimigo alvo.</string>
     </set>
+        <set id="description-module-effectorgatlinggun">
+        <string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
+        <string lang="en">For each point of $energy$
+on this module:
+[Deal $1damage$
+to a random enemy].</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
+        <string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $1damage$ 。</string>
+        <string lang="jp">このモジュールの$energy$の各ポイントにつき、ランダムな敵に$1damage$を与えます。</string>
+        <string lang="ru">Наносит $1damage$ случайному врагу за каждый $energy$ на этом модуле.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo aleatorio por cada punto de $energy$ en este módulo.</string>
+        <string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $1damage$를 줍니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
+    </set>
     <set id="description-module-effectordecelerator">
         <string lang="de">Fügt einem Ziel deiner Wahl $grav+$ zu.</string>
         <string lang="en">Inflicts target with 
@@ -983,6 +1019,19 @@ sur le combattant ciblé.</string>
         <string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
         <string lang="kr">소유자와 같은 시간 단계에 있는 모든 적에게 $grav+$를 줍니다.</string>
         <string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
+    </set>
+            <set id="description-module-effectorgatlingdecelerator">
+        <string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
+        <string lang="en">For each point of $energy$
+on this module:
+[Deal $grav+1$ to a random enemy].</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
+        <string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $1damage$ 。</string>
+        <string lang="jp">このモジュールの$energy$の各ポイントにつき、ランダムな敵に$1damage$を与えます。</string>
+        <string lang="ru">Наносит $1damage$ случайному врагу за каждый $energy$ на этом модуле.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo aleatorio por cada punto de $energy$ en este módulo.</string>
+        <string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $1damage$를 줍니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
     </set>
     <set id="description-module-effectorblade">
         <string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
@@ -1167,15 +1216,15 @@ sur les deux jacks output.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
     </set>
     <set id="description-module-generatorshocking">
-        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $shock$.</string>
-        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation but will inflict the next module with $shock$.</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $shock$ au prochain module.</string>
-        <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让一个模块被 $shock$ 。</string>
-        <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成しますが、次のモジュールに$shock$を与えます。</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но нанесет следующему модулю $shock$.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero infligirá $shock$ al siguiente módulo.</string>
-        <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 다음 모듈에게 $shock$를 입힙니다.</string>
-        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o próximo módulo com $shock$.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $cooldown$.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation but will inflict the next module with $cooldown$.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $cooldown$ au prochain module.</string>
+        <string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让一个模块被 $cooldown$ 。</string>
+        <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成しますが、次のモジュールに$cooldown$を与えます。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но нанесет следующему модулю $cooldown$.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero infligirá $cooldown$ al siguiente módulo.</string>
+        <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 다음 모듈에게 $cooldown$를 입힙니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o próximo módulo com $cooldown$.</string>
     </set>
     <set id="description-module-magnetgravpos">
         <string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
@@ -1276,7 +1325,8 @@ a uma corrente.</string>
     </set>
     <set id="description-module-passivedurabilitysafeguarding">
         <string lang="de">Module mit $cracked$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
-        <string lang="en">Modules with $cracked$ on this rack have a $b$33% chance$/b$ of not being destroyed when activated.</string>
+        <string lang="en">Modules with $fragile$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.
+Modules with $cracked$ have a</string>
         <string lang="fr">Les modules avec $cracked$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
         <string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
         <string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
@@ -1410,15 +1460,15 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
     </set>
     <set id="description-module-toggledmaxhpenhancer">
-        <string lang="de">Erhöht die Mmx. HP des Characters um $1$</string>
-        <string lang="en">Increases the character's max. HP by $1$</string>
-        <string lang="fr">Augmente les PV max. du personnage de $1$</string>
-        <string lang="zh">增加角色的最大生命值 $1$</string>
-        <string lang="jp">キャラクターの最大HPを$1$増加させます</string>
-        <string lang="ru">Увеличивает макс. HP персонажа на $1$</string>
-        <string lang="es">Aumenta los PV máx. del personaje en $1$</string>
-        <string lang="kr">캐릭터의 최대 HP를 $1$ 증가시킵니다.</string>
-        <string lang="pt-br">Aumenta o PV máx. do personagem em $1$</string>
+        <string lang="de">Erhöht die Max. HP des Characters dauerhaft um $1$</string>
+        <string lang="en">Permanently increases the character's max. HP by $1$</string>
+        <string lang="fr">Augmente définitivement les PV max. du personnage de $1$</string>
+        <string lang="zh">永久性地增加角色的最大 HP $1$</string>
+        <string lang="jp">キャラクターの最大HPを$1$増やします。</string>
+        <string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$</string>
+        <string lang="es">Aumenta permanentemente la máx. HP del personaje en $1$</string>
+        <string lang="kr">캐릭터의 최대 HP를 $1$ 영구적으로 증가시킵니다.</string>
+        <string lang="pt-br">Aumenta permanentemente o máx. HP do personagem em $1$</string>
     </set>
     <set id="description-module-trashcompactor">
         <string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
