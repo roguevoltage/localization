@@ -692,17 +692,6 @@
         <string lang="kr">압축기</string>
         <string lang="pt-br">Compressor</string>
     </set>
-    <set id="name-module-passivedurabilitysafeguarding">
-        <string lang="de">Regler</string>
-        <string lang="en">Regulator</string>
-        <string lang="fr">Régulateur</string>
-        <string lang="zh">调节器</string>
-        <string lang="jp">レギュレーター</string>
-        <string lang="ru">регулятор</string>
-        <string lang="es">Regulador</string>
-        <string lang="kr">레귤레이터</string>
-        <string lang="pt-br">Regulador</string>
-    </set>
     <set id="name-module-reviver">
         <string lang="de">Defibrillator</string>
         <string lang="en">Defibrillator</string>
@@ -1323,19 +1312,7 @@ a uma corrente.</string>
         <string lang="kr">이 랙에 있는 $generator$ 타입의 모듈은 $b$33%$/b$의 확률로 $b$+1$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
     </set>
-    <set id="description-module-passivedurabilitysafeguarding">
-        <string lang="de">Module mit $cracked$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
-        <string lang="en">Modules with $fragile$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.
-Modules with $cracked$ have a</string>
-        <string lang="fr">Les modules avec $cracked$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
-        <string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
-        <string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
-        <string lang="ru">Модули с $cracked$ на этом слоте имеют $b$33% шанс$/b$ не быть уничтоженными при активации.</string>
-        <string lang="es">Los módulos con $cracked$ en este rack tienen una $b$33% de probabilidad$/b$ de no ser destruidos al activarse.</string>
-        <string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$33%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
-        <string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
-    </set>
-        <set id="description-module-reviver">
+    <set id="description-module-reviver">
         <string lang="de">Wenn der Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
         <string lang="en">If the owner becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
         <string lang="fr">Si le propriétaire tombe inconscient, il est réanimé avec des PV équivalents à son $energy$ stocké.</string>
@@ -1406,7 +1383,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
     </set>
     <set id="description-module-toggledbooster">
         <string lang="de">Verleiht einem Modul des Typs $passthroughmodule$ auf diesem Rack einen permanenten $boost$.</string>
-        <string lang="en">Applies a permanent $boost$ to a module of type $passthroughmodule$ on this rack.</string>
+        <string lang="en">Applies a permanent $boost$ to target $passthroughmodule$ on this rack.</string>
         <string lang="fr">Applique un $boost$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $boost$。</string>
         <string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$boost$を適用します。</string>

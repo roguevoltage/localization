@@ -480,6 +480,28 @@ a uma corrente.</string>
         <string lang="zh">消耗所有的 $plasma$ 来产生相同数量的 $energy$ 。</string>
         <string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
     </set>
+        <set id="name-module-passivedurabilitysafeguarding">
+        <string lang="de">Regulator</string>
+        <string lang="en">Regulator</string>
+        <string lang="fr">Régulateur</string>
+        <string lang="zh">调节器</string>
+        <string lang="jp">レギュレーター</string>
+        <string lang="ru">регулятор</string>
+        <string lang="es">Regulador</string>
+        <string lang="kr">레귤레이터</string>
+        <string lang="pt-br">Regulador</string>
+    </set>
+    <set id="description-module-passivedurabilitysafeguarding">
+        <string lang="de">Module mit $fragile$ oder $overload$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
+        <string lang="en">Modules with $fragile$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
+        <string lang="fr">Les modules avec $fragile$ ou $overload$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
+        <string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
+        <string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
+        <string lang="ru">Модули с $cracked$ на этом слоте имеют $b$33% шанс$/b$ не быть уничтоженными при активации.</string>
+        <string lang="es">Los módulos con $cracked$ en este rack tienen una $b$33% de probabilidad$/b$ de no ser destruidos al activarse.</string>
+        <string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$33%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
+        <string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
+    </set>
     <set id="name-module-storagecellstorm">
         <string lang="de">Sturmjäger-Zelle $MODIFICATIONVALUE$</string>
         <string lang="en">Storm Chaser Cell $MODIFICATIONVALUE$</string>
