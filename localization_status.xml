@@ -888,7 +888,7 @@ O primeiro gatilho quebrará a crosta</string>
     </set>
     <set id="description-status-modulefire">
         <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter am Ende der Runde $1damage$ zu</string>
-        <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
+        <string lang="en">Activate this turn to extinguish, otherwise it will deal $1damage$ to the owner at the end of turn. </string>
         <string lang="fr">Activez-le pour l'éteindre ou il infligera
 $1damage$ au propriétaire à la fin du tour</string>
         <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
