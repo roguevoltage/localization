@@ -188,11 +188,11 @@ Conecte-o ao seu novo $b$Conversor de Plasma$/b$ para transformar o excesso de e
         <string lang="pt-br">Propriedades dos Módulos</string>
     </set>
     <set id="tutorialwindow-modulemodifiers-description">
-        <string lang="de">Die $b$+1$/b$ auf dem Heiltrank bedeutet, dass er dem eingehenden Strom $b$+1$/b$ $energy$ hinzufügt. Er wird dich also um $2$ Punkte heilen.
-$cracked$ bedeutet, dass er nach der Aktivierung zerstört wird.</string>
-        <string lang="en">The $b$+1$/b$ on the Healing Potion means it will add $b$+1$/b$ $energy$ to the incoming current, healing you by $2$ points.
-$cracked$ means that it will become destroyed after activation.</string>
-        <string lang ="fr">Le $b$+1$/b$ sur la Potion de Soin signifie qu'elle ajoute $b$+1$/b$ $energy$ au courant entrant, vous soignant de $2$ points.
+        <string lang="de">Die $b$+1$/b$ auf dem Heiltrank bedeutet, dass er dem Strom $b$+1$/b$ $energy$ hinzufügt. Er wird dich also um $2$ Punkte heilen.
+Module mit $cracked$ werden nach der Aktivierung zerstört.</string>
+        <string lang="en">The $b$+1$/b$ on the Healing Potion means it will add $b$+1$/b$ $energy$ to the current, healing you by $2$ points.
+Modules with $cracked$ will become destroyed after activation.</string>
+        <string lang ="fr">Le $b$+1$/b$ sur la Potion de Soin signifie qu'elle ajoute $b$+1$/b$ $energy$ au courant, vous soignant de $2$ points.
 Elle a aussi $cracked$, ce qui signifie qu'elle sera détruite après activation.</string>
         <string lang="zh">你的治疗药水有 $b$+1$/b$，这意味着它会给输入电流增加 $b$+1$/b$ $energy$，治疗你 $2$ 点。
 它还有 $cracked$，这意味着它在使用后会被摧毁。</string>
@@ -700,7 +700,7 @@ Os combatentes recebem metade dele como $damage$ (arredondado para cima).</strin
         <string lang="de">Ziehe Heiltrank
 aus Rucksack</string>
         <string lang="en">Drag potion
-from backpack</string>
+out of backpack</string>
         <string lang="fr">Faites glisser potion
 depuis sac à dos</string>
         <string lang="zh">拿起药水</string>

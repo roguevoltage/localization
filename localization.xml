@@ -227,16 +227,27 @@ Vencer batalha</string>
         <string lang="kr">연결 가능</string>
         <string lang="pt-br">Pode ser conectado</string>
     </set>
+    <set id="jack-status-cannotbewired">
+        <string lang="de">Kann nicht verkabelt werden</string>
+        <string lang="en">Cannot be wired</string>
+        <string lang="fr">Ne peut pas être cablé</string>
+        <string lang="zh">无法连接</string>
+        <string lang="jp">接続不可</string>
+        <string lang="ru">Нельзя подключить</string>
+        <string lang="es">No puede ser conectado</string>
+        <string lang="kr">연결할 수 없음</string>
+        <string lang="pt-br">Não pode ser conectado</string>
+    </set>
     <set id="jack-status-wiredto">
-        <string lang="de">&lt;color=green&gt;Verkabelt mit $OTHER$&lt;/color&gt;</string>
-        <string lang="en">&lt;color=green&gt;Wired to $OTHER$&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=green&gt;Cablé à $OTHER$&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=green&gt;连接到$OTHER$&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=green&gt;$OTHER$に接続されています&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=green&gt;Подключено к $OTHER$&lt;/color&gt;</string>
-        <string lang="es">&lt;color=green&gt;Conectado a $OTHER$&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=green&gt;$OTHER$에 연결됨&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=green&gt;Conectado a $OTHER$&lt;/color&gt;</string>
+        <string lang="de">&lt;color=green&gt;Verkabelt&lt;/color&gt;</string>
+        <string lang="en">&lt;color=green&gt;Wired&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=green&gt;Cablé&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=green&gt;已连接&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=green&gt;接続済み&lt;/color&gt;</string>
+        <string lang="ru">&lt;color=green&gt;Подключено&lt;/color&gt;</string>
+        <string lang="es">&lt;color=green&gt;Conectado&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=green&gt;연결됨&lt;/color&gt;</string>
+        <string lang="pt-br">&lt;color=green&gt;Conectado&lt;/color&gt;</string>
     </set>
     <set id="jack-status-wiring">
         <string lang="de">&lt;color=yellow&gt;Wird gerade verkabelt&lt;/color&gt;</string>
