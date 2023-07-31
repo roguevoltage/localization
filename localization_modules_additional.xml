@@ -27,6 +27,16 @@
         <string lang="zh">把一个电流增强 $b$$MODIFICATIONVALUE$$/b$ $energy$，并将 $storm$ 推进 $5$ 个时刻。在 $storm$ 开始时获得 $boost$ 直到战斗结束。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加し、$storm$ を $5$ ステップ進めます。$storm$ の開始時に $boost$ を受け取り、戦闘終了まで継続します。</string>
     </set>
+    <set id="name-module-thermaldissipator">
+        <string lang="de">Wärmeableiter</string>
+        <string lang="en">Thermal Dissipator</string>
+        <string lang="fr">Dissipateur Thermique</string>
+        <string lang="zh">热量散射器</string>
+    </set>
+    <set id="description-module-thermaldissipator">
+        <string lang="de"></string>
+        <string lang="en">Has no effect.</string>
+    </set>
     <set id="name-module-collectorcrust">
         <string lang="de">Krusten-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Crust Sensor $MODIFICATIONVALUE$</string>
@@ -412,6 +422,27 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="fr">Modifie un courant.</string>
         <string lang="zh">修改一个电流。</string>
         <string lang="jp">電流を変更します。</string>
+        <string lang="ru">Модифицирует поток.</string>
+        <string lang="es">Modifica una corriente.</string>
+        <string lang="kr">전류를 수정합니다.</string>
+        <string lang="pt-br">Modifica uma corrente.</string>
+    </set>
+        <set id="name-module-modifiermolten">
+        <string lang="de">Geschmolzene Trümmer</string>
+        <string lang="en">Molten Debris</string>
+        <string lang="fr">Débris Carbonisés</string>
+        <string lang="zh">烧焦碎片</string>
+    </set>
+    <set id="description-module-modifiermolten">
+        <string lang="de">Modifiziert einen Strom.</string>
+        <string lang="en">Modifies a current.</string>
+        <string lang="fr">Modifie un courant.</string>
+        <string lang="zh">修改一个电流。</string>
+        <string lang="jp">電流を変更します。</string>
+        <string lang="ru">Модифицирует поток.</string>
+        <string lang="es">Modifica una corriente.</string>
+        <string lang="kr">전류를 수정합니다.</string>
+        <string lang="pt-br">Modifica uma corrente.</string>
     </set>
     <set id="name-module-modifierviral">
         <string lang="de">Störmodul $MODIFICATIONVALUE$</string>
@@ -426,6 +457,10 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="fr">Modifie un courant.</string>
         <string lang="zh">修改一个电流。</string>
         <string lang="jp">電流を変更します。</string>
+        <string lang="ru">Модифицирует поток.</string>
+        <string lang="es">Modifica una corriente.</string>
+        <string lang="kr">전류를 수정합니다.</string>
+        <string lang="pt-br">Modifica uma corrente.</string>
     </set>
     <set id="name-module-modifiervulnerability">
         <string lang="de">Gefährlicher Verstärker $MODIFICATIONVALUE$</string>
@@ -465,6 +500,10 @@ a uma corrente.</string>
         <string lang="fr">Modifie un courant.</string>
         <string lang="zh">修改一个电流。</string>
         <string lang="jp">電流を変更します。</string>
+        <string lang="ru">Модифицирует поток.</string>
+        <string lang="es">Modifica una corriente.</string>
+        <string lang="kr">전류를 수정합니다.</string>
+        <string lang="pt-br">Modifica uma corrente.</string>
     </set>
     <set id="name-module-plasmadischarger">
         <string lang="de">Plasma-Entlader</string>
