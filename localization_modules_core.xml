@@ -593,7 +593,7 @@
         <string lang="kr">중력 발전기</string>
         <string lang="pt-br">Gerador Grav.</string>
     </set>
-    <set id="name-module-generatorshocking">
+    <set id="name-module-generatoroverload">
         <string lang="de">Überlast-Generator</string>
         <string lang="en">Overload Generator</string>
         <string lang="fr">Generateur de Surcharge</string>
@@ -1204,7 +1204,7 @@ sur les deux jacks output.</string>
         <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
     </set>
-    <set id="description-module-generatorshocking">
+    <set id="description-module-generatoroverload">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $cooldown$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation but will inflict the next module with $cooldown$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $cooldown$ au prochain module.</string>
