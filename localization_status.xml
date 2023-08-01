@@ -887,28 +887,16 @@ O primeiro gatilho quebrará a crosta</string>
         <string lang="pt-br">A descarga deste turno destruirá o módulo</string>
     </set>
     <set id="description-status-modulefire">
-        <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter am Ende der Runde $1damage$ zu</string>
-        <string lang="en">Activate this turn to extinguish, otherwise it will deal $1damage$ to the owner at the end of turn. </string>
+        <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
+        <string lang="en">Activate this turn to extinguish, or it will deal $1damage$ to the owner after their turn </string>
         <string lang="fr">Activez-le pour l'éteindre ou il infligera
-$1damage$ au propriétaire à la fin du tour</string>
-        <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
-        <string lang="jp">アクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
-        <string lang="ru">Активация модуля погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
-        <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
-        <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
-        <string lang="pt-br">Inflige $1damage$ ao dono no final do turno. Ative o módulo para extinguir.</string>
-    </set>
-    <set id="description-status-modulefire-eot">
-        <string lang="de">Aktiviere das Module diese Runde, um es zu löschen, oder es fügt dem Charakter am Ende des Runde $1damage$ zu</string>
-        <string lang="en">Deals $1damage$ to the owner at the end of turn. Activate the module to extinguish.</string>
-        <string lang="fr">Activez-le ce tour pour l'éteindre ou il infligera
-$1damage$ au propriétaire à la fin du tour</string>
+$1damage$ au propriétaire après son tour</string>
         <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
         <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
-        <string lang="es">Inflige $1damage$ al propietario al final del turno. Activa el módulo para extinguirlo.</string>
+        <string lang="es">Activa el módulo para extinguirlo, de lo contrario infligirá $1damage$ al propietario después de su turno</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
-        <string lang="pt-br">Inflige $1damage$ ao dono no final do turno. Ative o módulo para extinguir.</string>
+        <string lang="pt-br">Ative o módulo para extinguir, caso contrário, ele causará $1damage$ ao dono após o turno dele</string>
     </set>
     <set id="description-status-modulefragile">
         <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
@@ -1178,15 +1166,15 @@ por um turno</string>
         <string lang="pt-br">A ativação deste turno usa $1plasma$</string>
     </set>
     <set id="description-status-moduleunstable">
-        <string lang="de">Wird am Ende des Kampfes zerstört</string>
-        <string lang="en">Will be destroyed at the end of combat</string>
-        <string lang="fr">Est détruit à la fin du combat</string>
-        <string lang="zh">战斗结束时摧毁</string>
-        <string lang="jp">バトル終了時に破壊されます</string>
-        <string lang="ru">Будет уничтожен в конце боя</string>
-        <string lang="es">Es destruido al final del combate</string>
-        <string lang="kr">전투 종료시 파괴됩니다</string>
-        <string lang="pt-br">É destruído no final do combate</string>
+        <string lang="de">Wird nach dem Kampf zerstört</string>
+        <string lang="en">Will be destroyed after combat</string>
+        <string lang="fr">Est détruit après le combat</string>
+        <string lang="zh">在战斗后被摧毁</string>
+        <string lang="jp">戦闘後に破壊されます</string>
+        <string lang="ru">Будет уничтожен после боя</string>
+        <string lang="es">Será destruido después de la batalla</string>
+        <string lang="kr">전투 후 파괴됩니다</string>
+        <string lang="pt-br">Será destruído após a batalha</string>
     </set>
     <set id="description-status-modulevolatile">
         <string lang="de">Wird am Ende des Zuges des Besitzers zerstört</string>

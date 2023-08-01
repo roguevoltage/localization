@@ -556,11 +556,11 @@ a uma corrente.</string>
         <string lang="jp">アスタリティーセル $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-storagecellausterity">
-        <string lang="de">Wird am Ende des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
-        <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ at the end of turn, if no $generator$ has been activated on this rack this turn.</string>
-        <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ à la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci.</string>
-        <string lang="zh">在回合结束时，如果在本回合中没有在本机架上激活过 $generator$ ，则会被充能 $b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">ターン終了時に、このラックで$generator$がアクティブ化されていない場合、$b$$SENSORVALUE$$/b$ $energy$が充電されます。</string>
+        <string lang="de">Wird nach der Runde um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in dieser Runde auf diesem Rack kein $generator$ aktiviert wurde.</string>
+        <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after the turn, if no $generator$ has been activated on this rack this turn.</string>
+        <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après le tour, si aucun $generator$ n'a été activé sur ce rack ce tour.</string>
+        <string lang="zh">如果本回合没有在本机架上激活 $generator$ ，则在回合结束时充能 $b$$SENSORVALUE$$/b$ $energy$ 。</string>
+        <string lang="jp">このターンにこのラックで$generator$がアクティブ化されていない場合、ターン後に$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
     </set>
     <set id="description-module-storagecellstorm">
         <string lang="de">Wird am Beginn des $storm$s um $2$ $energy$ geladen.
