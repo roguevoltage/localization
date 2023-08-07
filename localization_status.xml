@@ -153,6 +153,9 @@
         <string lang="kr">불</string>
         <string lang="pt-br">Fogo</string>
     </set>
+    <set id="name-status-modulegravpulse">
+        <string lang="en">Grav. Pulse</string>
+    </set>
     <set id="name-status-modulefragile">
         <string lang="de">Fehlfunktion</string>
         <string lang="en">Malfunctioning</string>
@@ -952,6 +955,9 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="es">Cambia el rendimiento al final del turno del propietario si se coloca en el rack</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Muda a taxa de transferência no final do turno do dono se colocado no rack</string>
+    </set>
+    <set id="description-status-modulegravpulse">
+        <string lang="en">Activate this turn to remove, or it will deal $grav+3$ to the owner after their turn </string>
     </set>
     <set id="description-status-jackcolormutation">
         <string lang="de">Farbe mutiert am Ende des Zuges des Charakters</string>
