@@ -640,17 +640,6 @@
         <string lang="kr">불안정</string>
         <string lang="pt-br">Instável</string>
     </set>
-    <set id="name-status-modulevolatile">
-        <string lang="de">Flüchtig</string>
-        <string lang="en">Volatile</string>
-        <string lang="fr">Volatile</string>
-        <string lang="zh">挥发性</string>
-        <string lang="jp">揮発性</string>
-        <string lang="ru">Летучий</string>
-        <string lang="es">Volátil</string>
-        <string lang="kr">휘발성</string>
-        <string lang="pt-br">Volátil</string>
-    </set>
     <set id="shortname-status-transformation-dmgtograv">
         <string lang="de">DMG zu Grav+</string>
         <string lang="en">DMG to Grav+</string>
@@ -1131,17 +1120,6 @@ por um turno</string>
         <string lang="es">Será destruido después de la batalla</string>
         <string lang="kr">전투 후 파괴됩니다</string>
         <string lang="pt-br">Será destruído após a batalha</string>
-    </set>
-    <set id="description-status-modulevolatile">
-        <string lang="de">Wird am Ende des Zuges des Besitzers zerstört</string>
-        <string lang="en">Will be destroyed at the end of the owner's turn</string>
-        <string lang="fr">Est détruit à la fin du tour du propriétaire</string>
-        <string lang="zh">拥有者回合结束时摧毁</string>
-        <string lang="jp">オーナーのターン終了時に破壊されます</string>
-        <string lang="ru">Будет уничтожен в конце хода владельца</string>
-        <string lang="es">Es destruido al final del turno del propietario</string>
-        <string lang="kr">소유자의 턴 종료시 파괴됩니다</string>
-        <string lang="pt-br">É destruído no final do turno do dono</string>
     </set>
     <set id="description-status-modulevulnerability">
         <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu.</string>

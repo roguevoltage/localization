@@ -56,4 +56,19 @@ by $4$ time steps</string>
         <string lang="kr">시간이 멈춥니다.</string>
         <string lang="pt-br">O tempo para para este personagem.</string>
     </set>
+        <set id="name-status-modulevolatile">
+        <string lang="de">Flüchtig</string>
+        <string lang="en">Volatile</string>
+        <string lang="fr">Volatile</string>
+        <string lang="zh">挥发性</string>
+        <string lang="jp">揮発性</string>
+        <string lang="ru">Летучий</string>
+        <string lang="es">Volátil</string>
+        <string lang="kr">휘발성</string>
+        <string lang="pt-br">Volátil</string>
+    </set>
+    <set id="description-status-modulevolatile">
+        <string lang="de">Wird nach dem Zug des Besitzers zerstört</string>
+        <string lang="en">Will be destroyed after the owner's turn</string>
+    </set>
 </localization>

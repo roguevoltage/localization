@@ -112,9 +112,10 @@
     </set>
         <set id="description-module-collectorstorm">
         <string lang="en">Whenever the owner is
-hit by a $storm$ strike, 
-prevent $1damage$
-and generate $b$$SENSORVALUE$$/b$ $energy$.</string>
+hit by the $storm$, 
+prevent $1damage$,
+the Lightning Rod generates 
+$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
     </set>
     <set id="name-module-duplicator">
         <string lang="de">Duplikator</string>
@@ -240,7 +241,7 @@ avec $cracked$.</string>
     </set>
         <set id="description-module-factorycollectorstorm">
         <string lang="en">Constructs a universal 
-$b$Lightning Rod$/b$ with $cracked$.</string>
+$b$Lightning Rod$/b$.</string>
     </set>
     <set id="name-module-factorydecelerator">
         <string lang="de">Verlangsamer-Fabrik $MODIFICATIONVALUE$</string>
