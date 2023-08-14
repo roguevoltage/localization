@@ -107,6 +107,15 @@
         <string lang="zh">每当 $damage$ 被 $shield$ 减少时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$damage$が$shield$によって減少するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
+        <set id="name-module-collectorstorm">
+        <string lang="en">Lightning Rod $MODIFICATIONVALUE$</string>
+    </set>
+        <set id="description-module-collectorstorm">
+        <string lang="en">Whenever the owner is
+hit by a $storm$ strike, 
+prevent $1damage$
+and generate $b$$SENSORVALUE$$/b$ $energy$.</string>
+    </set>
     <set id="name-module-duplicator">
         <string lang="de">Duplikator</string>
         <string lang="en">Duplicator</string>
@@ -225,6 +234,13 @@ $b$Blaster$/b$ with $cracked$.</string>
 avec $cracked$.</string>
         <string lang="zh">制造一个通用的带有 $cracked$ 的$b$Blaster$/b$。</string>
         <string lang="jp">一般的な$b$ブラスター$/b$を作成し、$cracked$を搭載します。</string>
+    </set>
+    <set id="name-module-factorycollectorstorm">
+        <string lang="en">Lightning Rod Factory $MODIFICATIONVALUE$</string>
+    </set>
+        <set id="description-module-factorycollectorstorm">
+        <string lang="en">Constructs a universal 
+$b$Lightning Rod$/b$ with $cracked$.</string>
     </set>
     <set id="name-module-factorydecelerator">
         <string lang="de">Verlangsamer-Fabrik $MODIFICATIONVALUE$</string>
@@ -372,8 +388,7 @@ Inflicts all other modules on this rack with $fire$.</string>
     </set>
     <set id="description-module-generatordual-storm">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
-        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.
-At the beginning of $storm$, it receives $boost$ until the end of combat.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
     </set>
     <set id="name-module-gravoutlet">
         <string lang="de">Grav.-Abnehmer</string>
