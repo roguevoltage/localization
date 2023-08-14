@@ -236,8 +236,7 @@ avec $cracked$.</string>
     <set id="description-module-factorydecelerator">
         <string lang="de">Stellt einen universellen $b$Verlangsamer$/b$
 mit $cracked$ her.</string>
-        <string lang="en">Constructs a universal $b$Decelerator$/b$
-with $cracked$.</string>
+        <string lang="en">Constructs a universal $b$Decelerator$/b$ with $cracked$.</string>
         <string lang="fr">Construe un $b$Décélerateur$/b$ universel
 avec $cracked$.</string>
         <string lang="zh">制造一个通用的$b$Decelerator$/b$。</string>
@@ -363,9 +362,18 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="de">Sturmsucher-Generator</string>
         <string lang="en">Stormseeker Generator</string>
     </set>
+    <set id="name-module-generatordual-storm">
+        <string lang="de">Sturmsucher-Generator</string>
+        <string lang="en">Stormseeker Generator</string>
+    </set>
     <set id="description-module-generatorstorm">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but attracts the $storm$ by $5$ time steps.</string>
+    </set>
+    <set id="description-module-generatordual-storm">
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.
+At the beginning of $storm$, it receives $boost$ until the end of combat.</string>
     </set>
     <set id="name-module-gravoutlet">
         <string lang="de">Grav.-Abnehmer</string>
@@ -555,6 +563,13 @@ a uma corrente.</string>
         <string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$33%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
         <string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
     </set>
+    <set id="name-module-passivestormlantern">
+        <string lang="de">Sturmlaterne</string>
+        <string lang="en">Storm Lantern</string>
+    </set>
+    <set id="description-module-passivestormlantern">
+        <string lang="en">$storm$ will also strike enemies.</string>
+    </set>
     <set id="name-module-storagecellstorm">
         <string lang="de">Sturmjäger-Zelle $MODIFICATIONVALUE$</string>
         <string lang="en">Storm Chaser Cell $MODIFICATIONVALUE$</string>
@@ -577,15 +592,11 @@ a uma corrente.</string>
         <string lang="jp">このターンにこのラックで$generator$がアクティブ化されていない場合、ターン後に$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
     </set>
     <set id="description-module-storagecellstorm">
-        <string lang="de">Wird am Beginn des $storm$s um $2$ $energy$ geladen.
-Kann im Rucksack aufbewahrt werden.</string>
-        <string lang="en">Is charged with $2$ $energy$ at the beginning of $storm$.
-Can be kept in backpack.</string>
-        <string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.
-Peut être conservé dans le sac à dos.</string>
-        <string lang="zh">在 $storm$ 开始时充能$2$ $energy$。可以放在背包中。</string>
-        <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。
-バックパックに保管できます。</string>
+        <string lang="de">Wird am Beginn des $storm$s um $2$ $energy$ geladen.</string>
+        <string lang="en">Is charged with $2$ $energy$ at the beginning of $storm$.</string>
+        <string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.</string>
+        <string lang="zh">在 $storm$ 开始时充能$2$ $energy$。</string>
+        <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。</string>
     </set>
     <set id="name-module-toggleddurabilityrestorer">
         <string lang="de">Erholungs-Granate</string>
