@@ -71,4 +71,26 @@ by $4$ time steps</string>
         <string lang="de">Wird nach dem Zug des Besitzers zerstört</string>
         <string lang="en">Will be destroyed after the owner's turn</string>
     </set>
+    <set id="name-status-modulelock-startingmodule-hardlock">
+        <string lang="de">Charakterausrüstung</string>
+        <string lang="en">Character Loadout</string>
+        <string lang="fr">Equipement de Personnage</string>
+        <string lang="zh">角色装备</string>
+        <string lang="jp">キャラクター装備</string>
+        <string lang="ru">Снаряжение персонажа</string>
+        <string lang="es">Equipo de Personaje</string>
+        <string lang="kr">캐릭터 장비</string>
+        <string lang="pt-br">Equipamento do Personagem</string>
+    </set>
+        <set id="description-status-modulelock-startingmodule-hardlock">
+        <string lang="de">Kann nicht vom Rack genommen werden</string>
+        <string lang="en">Cannot be taken from rack</string>
+        <string lang="fr">Ne peut pas être enlevé du rack</string>
+        <string lang="zh">不能从机架上取下</string>
+        <string lang="jp">ラックから取り外せません</string>
+        <string lang="ru">Нельзя взять с полки</string>
+        <string lang="es">No puede ser tomado del rack</string>
+        <string lang="kr">랙에서 가져올 수 없습니다</string>
+        <string lang="pt-br">Não pode ser retirado do rack</string>
+    </set>
 </localization>
