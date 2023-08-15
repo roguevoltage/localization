@@ -13,20 +13,6 @@
         <string lang="zh">每当获得 $energy$ 时，获得 $boost$ 直到战斗结束。</string>
         <string lang="jp">エネルギーを受け取るたびに、戦闘終了まで$boost$を受け取ります。</string>
     </set>
-    <set id="name-module-coilstorm">
-        <string lang="de">Sturmjäger-Spule $MODIFICATIONVALUE$</string>
-        <string lang="en">Storm Chaser Coil $MODIFICATIONVALUE$</string>
-        <string lang="fr">Bobine Chasseur d'Orages $MODIFICATIONVALUE$</string>
-        <string lang="zh">风暴追击线圈 $MODIFICATIONVALUE$</string>
-        <string lang="jp">ストームチェイサー コイル $MODIFICATIONVALUE$</string>
-    </set>
-    <set id="description-module-coilstorm">
-        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu und rückt den $storm$ um $5$ Schritte vor. Am Anfang des $storm$ erhält er $boost$ bis zum Ende des Kampfes.</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current and advances $storm$ by $5$ steps. At the beginning of $storm$ receives $boost$ until end of combat.</string>
-        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ à un courant et avance $storm$ de $5$ pas. Au début de $storm$ reçoit $boost$ jusqu'à la fin du combat.</string>
-        <string lang="zh">把一个电流增强 $b$$MODIFICATIONVALUE$$/b$ $energy$，并将 $storm$ 推进 $5$ 个时刻。在 $storm$ 开始时获得 $boost$ 直到战斗结束。</string>
-        <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加し、$storm$ を $5$ ステップ進めます。$storm$ の開始時に $boost$ を受け取り、戦闘終了まで継続します。</string>
-    </set>
     <set id="name-module-thermaldissipator">
         <string lang="de">Wärmeableiter</string>
         <string lang="en">Thermal Dissipator</string>
@@ -384,8 +370,8 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="en">Stormseeker Generator</string>
     </set>
     <set id="description-module-generatorstorm">
-        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
-        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but attracts the $storm$ by $5$ time steps.</string>
+        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $4$ Zeitschritte an.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but attracts the $storm$ by $4$ time steps.</string>
     </set>
     <set id="description-module-generatordual-storm">
         <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
