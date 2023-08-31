@@ -134,7 +134,7 @@
     <set id="name-status-modulegravpulse">
         <string lang="en">Grav. Pulse</string>
     </set>
-    <set id="name-status-modulefragile">
+    <set id="name-status-modulemalfunctioning">
         <string lang="de">Fehlfunktion</string>
         <string lang="en">Malfunctioning</string>
         <string lang="fr">Défaillance</string>
@@ -846,7 +846,7 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Ative o módulo para extinguir, caso contrário, ele causará $1damage$ ao dono após o turno dele</string>
     </set>
-    <set id="description-status-modulefragile">
+    <set id="description-status-modulemalfunctioning">
         <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
         <string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
         <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
@@ -857,7 +857,7 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
     </set>
-     <set id="description-status-modulefragile-safeguarded">
+     <set id="description-status-modulemalfunctioning-safeguarded">
         <string lang="de">$CHANCETOBREAK$% Chance, bei Aktivierung $outoforder$ bis zum Ende des Kampfes zu erhalten.</string>
         <string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when activated.</string>
         <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
@@ -868,7 +868,7 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
     </set>
-    <set id="description-status-modulefragile-discharge">
+    <set id="description-status-modulemalfunctioning-discharge">
         <string lang="de">Wenn entladen, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
         <string lang="en">When discharged, receives $outoforder$ until the end of battle.</string>
         <string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
@@ -879,7 +879,7 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
         <string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
     </set>
-    <set id="description-status-modulefragile-discharge-safeguarded">
+    <set id="description-status-modulemalfunctioning-discharge-safeguarded">
         <string lang="de">$CHANCETOBREAK$% Chance, bei Entladung $outoforder$ bis zum Ende des Kampfes zu erhalten.</string>
         <string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when discharged.</string>
         <string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>

@@ -555,9 +555,9 @@ a uma corrente.</string>
         <string lang="pt-br">Regulador</string>
     </set>
     <set id="description-module-passivedurabilitysafeguarding">
-        <string lang="de">Module mit $fragile$ oder $overload$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
-        <string lang="en">Modules with $fragile$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
-        <string lang="fr">Les modules avec $fragile$ ou $overload$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
+        <string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
+        <string lang="en">Modules with $malfunctioning$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
+        <string lang="fr">Les modules avec $malfunctioning$ ou $overload$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
         <string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
         <string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
         <string lang="ru">Модули с $cracked$ на этом слоте имеют $b$33% шанс$/b$ не быть уничтоженными при активации.</string>
@@ -658,20 +658,20 @@ on this rack.</string>
     <set id="description-module-toggleddurabilityenhancer">
         <string lang="de">Entfernt dauerhaft $overload$ von einem Modul auf diesem Rack
 - oder -
-entfernt dauerhaft $fragile$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
+entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
         <string lang="en">Permanently removes $overload$ from a module
 on this rack
 - or -
-permanently removes $fragile$ from a module on this rack and replaces it with $overload$.</string>
+permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
         <string lang="fr">Retire définitivement $overload$ d'un module sur ce rack
 - ou -
-retire définitivement $fragile$ d'un module sur ce rack et le remplace par $overload$.</string>
+retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
         <string lang="zh">永久地从本机架上的一个模块中移除 $overload$
 - 或 -
-永久地从本机架上的一个模块中移除 $fragile$ 并用 $overload$ 替换它。</string>
+永久地从本机架上的一个模块中移除 $malfunctioning$ 并用 $overload$ 替换它。</string>
         <string lang="jp">このラックのモジュールから$overload$を永久に削除します
 - または -
-このラックのモジュールから$fragile$を永久に削除し、$overload$に置き換えます。</string>
+このラックのモジュールから$malfunctioning$を永久に削除し、$overload$に置き換えます。</string>
     </set>
     <set id="name-module-toggledstormgrenade">
         <string lang="de">Sturm-Granate</string>
