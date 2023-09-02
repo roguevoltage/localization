@@ -65,7 +65,7 @@
         <string lang="kr">수류탄</string>
         <string lang="pt-br">Granada</string>
     </set>
-        <set id="module-type-modulenhancer">
+        <set id="module-type-moduleenhancer">
         <string lang="de">Modul-Verbesserer</string>
         <string lang="en">Module Enhancer</string>
         <string lang="fr">Améliorateur de Module</string>
@@ -1439,15 +1439,15 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
     </set>
     <set id="description-module-toggledmaxhpenhancer">
-        <string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$</string>
-        <string lang="en">Permanently increases the character's max. HP by $1$</string>
-        <string lang="fr">Augmente définitivement les PV max. du personnage de $1$</string>
-        <string lang="zh">永久性地增加角色的最大 HP $1$</string>
-        <string lang="jp">キャラクターの最大HPを$1$増やします。</string>
-        <string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$</string>
-        <string lang="es">Aumenta permanentemente la máx. HP del personaje en $1$</string>
-        <string lang="kr">캐릭터의 최대 HP를 $1$ 영구적으로 증가시킵니다.</string>
-        <string lang="pt-br">Aumenta permanentemente o máx. HP do personagem em $1$</string>
+        <string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und heilt ihn/sie um $1$.</string>
+        <string lang="en">Permanently increases the character's max. HP by $1$ and heals them by $1$.</string>
+        <string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et le soigne de $1$.</string>
+        <string lang="zh">永久增加角色的最大 HP $1$ 并治疗 $1$。</string>
+        <string lang="jp">キャラクターの最大 HP を $1$ 増加させ、$1$ 回復します。</string>
+        <string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и лечит его на $1$.</string>
+        <string lang="es">Aumenta permanentemente la máx. HP del personaje en $1$ y lo cura en $1$.</string>
+        <string lang="kr">캐릭터의 최대 HP를 $1$ 증가시키고 $1$ 회복합니다.</string>
+        <string lang="pt-br">Aumenta permanentemente o máx. HP do personagem em $1$ e cura-o em $1$.</string>
     </set>
     <set id="description-module-trashcompactor">
         <string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
