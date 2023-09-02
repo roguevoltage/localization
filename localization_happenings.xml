@@ -94,6 +94,17 @@ mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</st
         <string lang="kr">준비</string>
         <string lang="pt-br">PRONTO</string>
     </set>
+    <set id="happening-led-inuse">
+        <string lang="de">IN BENUTZUNG</string>
+        <string lang="en">IN USE</string>
+        <string lang="fr">EN UTILISATION</string>
+        <string lang="zh">使用中</string>
+        <string lang="jp">使用中</string>
+        <string lang="ru">ИСПОЛЬЗУЕТСЯ</string>
+        <string lang="es">EN USO</string>
+        <string lang="kr">사용 중</string>
+        <string lang="pt-br">EM USO</string>
+    </set>
     <set id="happening-led-takemodule">
         <string lang="de">NIMM
 MODUL</string>
@@ -333,7 +344,7 @@ MODULO</string>
         <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-moduledurabilityenhancer-heading">
-        <string lang="de">Haltbarkeits-Versstärker</string>
+        <string lang="de">Haltbarkeits-Verstärker</string>
         <string lang="en">Durability Enhancer</string>
         <string lang="fr">Amplificateur de Durabilité</string>
         <string lang="zh">耐久增强器</string>
