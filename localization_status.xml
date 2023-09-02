@@ -43,16 +43,16 @@
         <string lang="kr">색상 변이</string>
         <string lang="pt-br">Mutação de Cor</string>
     </set>
-    <set id="name-status-moduleboost">
-        <string lang="de">Boost +1</string>
-        <string lang="en">Boost +1</string>
-        <string lang="fr">Sursaut +1</string>
-        <string lang="zh">增强 +1</string>
-        <string lang="jp">ブースト +1</string>
-        <string lang="ru">Усиление +1</string>
-        <string lang="es">Aumento +1</string>
-        <string lang="kr">부스트 +1</string>
-        <string lang="pt-br">Amplificação +1</string>
+    <set id="name-status-moduleupgrade">
+        <string lang="de">Upgrade +1</string>
+        <string lang="en">Upgrade +1</string>
+        <string lang="fr">Amélioration +1</string>
+        <string lang="zh">升级 +1</string>
+        <string lang="jp">アップグレード +1</string>
+        <string lang="ru">улучшение +1</string>
+        <string lang="es">Mejora +1</string>
+        <string lang="kr">업그레이드 +1</string>
+        <string lang="pt-br">Melhoria +1</string>
     </set>
     <set id="name-status-moduleboost-eob">
         <string lang="de">Boost +1</string>
@@ -695,7 +695,7 @@
         <string lang="kr">$grav$를 받을 수 없습니다.</string>
         <string lang="pt-br">Não pode receber $grav$.</string>
     </set>
-    <set id="description-status-moduleboost">
+    <set id="description-status-moduleupgrade">
         <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.</string>
         <string lang="en">Adds $1$ $energy$ to a current</string>
         <string lang="fr">Ajoute $1$ $energy$ à un courant</string>
@@ -707,11 +707,12 @@
         <string lang="pt-br">Adiciona $1$ $energy$ a uma corrente</string>
     </set>
     <set id="description-status-moduleboost-eob">
-        <string lang="de">Fügt einem Strom bis zum Ende des Kampfes $1$ $energy$ hinzu.</string>
-        <string lang="en">Adds $1$ $energy$ to a current
-until the end of combat.</string>
-        <string lang="fr">Ajoute $1$ $energy$ à un courant
-jusqu'à la fin du combat.</string>
+        <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.
+Hält bis zum Ende des Kampfes an.</string>
+        <string lang="en">Adds $1$ $energy$ to a current.
+Lasts until the end of combat.</string>
+        <string lang="fr">Ajoute $1$ $energy$ à un courant.
+Dure jusqu'à la fin du combat.</string>
         <string lang="zh">给一个电流增加 $1$ $energy$，直到战斗结束。</string>
         <string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток до конца боя.</string>
