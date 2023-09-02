@@ -93,4 +93,41 @@ by $4$ time steps</string>
         <string lang="kr">랙에서 가져올 수 없습니다</string>
         <string lang="pt-br">Não pode ser retirado do rack</string>
     </set>
+    <set id="name-status-modulevulnerability">
+        <string lang="de">Gefährlich</string>
+        <string lang="en">Hazardous</string>
+        <string lang="fr">Périleux</string>
+        <string lang="zh">危险</string>
+        <string lang="jp">危険</string>
+        <string lang="ru">Опасность</string>
+        <string lang="es">Peligroso</string>
+        <string lang="kr">위험</string>
+        <string lang="pt-br">Perigoso</string>
+    </set>
+    <set id="description-status-modulevulnerability">
+        <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
+        <string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+    </set>
+    <set id="name-status-transformation-volcanodamagetomight">
+        <string lang="de">Vulkan-$damage$ zu $might$</string>
+        <string lang="en">Volcano $damage$ to $might$</string>
+        <string lang="fr">Volcan $damage$ vers $might$</string>
+        <string lang="zh">火山- $damage$ 到 $might$</string>
+        <string lang="jp">火山-$damage$から$might$へ</string>
+        <string lang="ru">Вулкан $damage$ в $might$</string>
+        <string lang="es">Volcán $damage$ a $might$</string>
+        <string lang="kr">화산 $damage$ to $might$</string>
+        <string lang="pt-br">Vulcão $damage$ para $might$</string>
+    </set>
+    <set id="description-status-transformation-volcanodamagetomight">
+        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
+        <string lang="fr">$damage$ entrant par le volcan est transformé en $might$.</string>
+        <string lang="zh">来自火山的 $damage$ 将转化为 $might$</string>
+        <string lang="jp">火山からの$damage$は $might$に変換されます</string>
+        <string lang="ru">Входящий $damage$ от вулкана превращается в $might$.</string>
+        <string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
+        <string lang="kr">화산으로부터의 $damage$는 $might$로 변환됩니다</string>
+        <string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
+    </set>
 </localization>

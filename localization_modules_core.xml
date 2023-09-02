@@ -65,9 +65,9 @@
         <string lang="kr">수류탄</string>
         <string lang="pt-br">Granada</string>
     </set>
-        <set id="module-type-moduleupgrader">
-        <string lang="de">Modul-Upgrader</string>
-        <string lang="en">Module Upgrader</string>
+        <set id="module-type-modulenhancer">
+        <string lang="de">Modul-Verbesserer</string>
+        <string lang="en">Module Enhancer</string>
         <string lang="fr">Améliorateur de Module</string>
         <string lang="zh">模块升级器</string>
         <string lang="jp">モジュールアップグレーダー</string>
@@ -792,7 +792,7 @@
         <string lang="pt-br">Neutralizador Grav.</string>
     </set>
     <set id="name-module-toggledmaxhpenhancer">
-        <string lang="de">Gesundheits-Booster</string>
+        <string lang="de">Gesundheits-Upgrader</string>
         <string lang="en">Health Enhancer</string>
         <string lang="fr">Améliorateur de Santé</string>
         <string lang="zh">生命值增强器</string>
@@ -1135,8 +1135,7 @@ valioso $plasma$.</string>
 (Duração: $energy$×3).</string>
     </set>
     <set id="description-module-factorypotion">
-        <string lang="de">Stellt einen universellen $b$Heiltrank$/b$
-mit $cracked$ her.</string>
+        <string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>
         <string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
         <string lang="fr">Construe un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
         <string lang="zh">制造一个通用的$b$治疗药水$/b$。</string>
@@ -1160,7 +1159,8 @@ con $cracked$.</string>
 com $cracked$.</string>
     </set>
     <set id="description-module-generator">
-        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="de">Erzeugt bei Aktivierung
+$b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
@@ -1171,7 +1171,8 @@ com $cracked$.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
     </set>
     <set id="description-module-generatordirty">
-        <string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="de">Erzeugt bei Aktivierung 
+$b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
         <string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
@@ -1249,49 +1250,49 @@ sur les deux jacks output.</string>
         <string lang="pt-br">Modifica uma corrente.</string>
     </set>
     <set id="description-module-amplifier">
-        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
-à un courant.</string>
+au courant.</string>
         <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
-a una corriente.</string>
+a la corriente.</string>
         <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
-a uma corrente.</string>
+à corrente.</string>
     </set>
     <set id="description-module-modifierdecelerating">
-        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
-à un courant.</string>
+au courant.</string>
         <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
-a una corriente.</string>
+a la corriente.</string>
         <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
-a uma corrente.</string>
+à corrente.</string>
     </set>
         <set id="description-module-modifierplasmacombustion">
-        <string lang="de">Fügt einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to a current.</string>
+        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$
-à un courant.</string>
+au courant.</string>
         <string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
         <string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
         <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$
-a una corriente.</string>
+a la corriente.</string>
         <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
-a uma corrente.</string>
+à corrente.</string>
     </set>
     <set id="description-module-medikit">
-        <string lang="de">Heilt den Charakter am Beginn jedes Kampfes um $1$ HP.</string>
+        <string lang="de">Heilt den Charakter zu Beginn jedes Kampfes um $1$ HP.</string>
         <string lang="en">Heals the owner by $1$ HP at the beginning of each battle.</string>
         <string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
         <string lang="zh">在每场战斗开始时为拥有者恢复 $1$ HP。</string>
@@ -1335,7 +1336,8 @@ a uma corrente.</string>
         <string lang="pt-br">Duplica uma corrente.</string>
     </set>
     <set id="description-module-storagecell">
-        <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$ entladen werden.</string>
+        <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$
+entladen werden.</string>
         <string lang="en">Can be discharged for 
 $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="fr">Peut être déchargé pour
@@ -1382,7 +1384,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Reduza o efeito com $energy$).</string>
     </set>
     <set id="description-module-toggledupgrader">
-        <string lang="de">Verleiht einem Modul des Typs $passthroughmodule$ auf diesem Rack ein permanentes $upgrade$.</string>
+        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
         <string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.</string>
         <string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
@@ -1437,7 +1439,7 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
         <string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
     </set>
     <set id="description-module-toggledmaxhpenhancer">
-        <string lang="de">Erhöht die Max. HP des Characters dauerhaft um $1$</string>
+        <string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$</string>
         <string lang="en">Permanently increases the character's max. HP by $1$</string>
         <string lang="fr">Augmente définitivement les PV max. du personnage de $1$</string>
         <string lang="zh">永久性地增加角色的最大 HP $1$</string>

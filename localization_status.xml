@@ -54,16 +54,16 @@
         <string lang="kr">업그레이드 +1</string>
         <string lang="pt-br">Melhoria +1</string>
     </set>
-    <set id="name-status-moduleboost-eob">
-        <string lang="de">Boost +1</string>
-        <string lang="en">Boost +1</string>
-        <string lang="fr">Sursaut +1</string>
-        <string lang="zh">增强 +1</string>
-        <string lang="jp">ブースト +1</string>
-        <string lang="ru">Усиление +1</string>
-        <string lang="es">Aumento +1</string>
-        <string lang="kr">부스트 +1</string>
-        <string lang="pt-br">Amplificação +1</string>
+    <set id="name-status-moduleturbo">
+        <string lang="de">Turbo +1</string>
+        <string lang="en">Turbo +1</string>
+        <string lang="fr">Turbo +1</string>
+        <string lang="zh">涡轮 +1</string>
+        <string lang="jp">ターボ +1</string>
+        <string lang="ru">Турбо +1</string>
+        <string lang="es">Turbo +1</string>
+        <string lang="kr">터보 +1</string>
+        <string lang="pt-br">Turbo +1</string>
     </set>
     <set id="name-status-moduleboost-eot">
         <string lang="de">Boost +1</string>
@@ -365,17 +365,6 @@
         <string lang="kr">돌연변이</string>
         <string lang="pt-br">Mutação</string>
     </set>
-    <set id="name-status-modulevulnerability">
-        <string lang="de">Gefährlich</string>
-        <string lang="en">Hazardous</string>
-        <string lang="fr">Périleux</string>
-        <string lang="zh">危险</string>
-        <string lang="jp">危険</string>
-        <string lang="ru">Опасность</string>
-        <string lang="es">Peligroso</string>
-        <string lang="kr">위험</string>
-        <string lang="pt-br">Perigoso</string>
-    </set>
     <set id="name-status-shield">
         <string lang="de">Schild</string>
         <string lang="en">Shield</string>
@@ -386,17 +375,6 @@
         <string lang="es">Escudo</string>
         <string lang="kr">방어막</string>
         <string lang="pt-br">Escudo</string>
-    </set>
-    <set id="name-status-transformation-volcanodamagetomight">
-        <string lang="de">Vulkan-$damage$ zu $might$</string>
-        <string lang="en">Volcano $damage$ to $might$</string>
-        <string lang="fr">Volcan $damage$ vers $might$</string>
-        <string lang="zh">火山- $damage$ 到 $might$</string>
-        <string lang="jp">火山-$damage$から$might$へ</string>
-        <string lang="ru">Вулкан $damage$ в $might$</string>
-        <string lang="es">Volcán $damage$ a $might$</string>
-        <string lang="kr">화산 $damage$ to $might$</string>
-        <string lang="pt-br">Vulcão $damage$ para $might$</string>
     </set>
     <set id="name-status-transformation-dmgtograv">
         <string lang="de">$damage$ zu $grav+short$</string>
@@ -663,73 +641,75 @@
         <string lang="pt-br">$grav+short$ para DMG</string>
     </set>
     <set id="description-status-vulnerable">
-        <string lang="de">Eingehender $damage$ wird um $1$ verstärkt.</string>
-        <string lang="en">Incoming $damage$ is amplified by $1$.</string>
-        <string lang="fr">$damage$ entrants sont augmentés de $1$.</string>
-        <string lang="zh">受到的 $damage$ 增加 $1$。</string>
-        <string lang="jp">受ける$damage$が$1$増加。</string>
-        <string lang="ru">Входящий $damage$ усиливается на $1$.</string>
-        <string lang="es">El $damage$ entrante se amplifica en $1$.</string>
+        <string lang="de">Eingehender $damage$ wird um $1$ verstärkt</string>
+        <string lang="en">Incoming $damage$ is amplified by $1$</string>
+        <string lang="fr">$damage$ entrants sont augmentés de $1$</string>
+        <string lang="zh">受到的 $damage$ 增加 $1$</string>
+        <string lang="jp">受ける$damage$が$1$増加</string>
+        <string lang="ru">Входящий $damage$ усиливается на $1$</string>
+        <string lang="es">El $damage$ entrante se amplifica en $1$</string>
         <string lang="kr">입는 $damage$가 $1$ 증가</string>
-        <string lang="pt-br">O $damage$ recebido é amplificado em $1$.</string>
+        <string lang="pt-br">O $damage$ recebido é amplificado em $1$</string>
     </set>
     <set id="description-status-gravamplification">
-        <string lang="de">Eingehende $grav$ wird um $1$ verstärkt.</string>
-        <string lang="en">Incoming $grav$ is amplified by $1$.</string>
-        <string lang="fr">$grav$ entrante est augmentée de $1$.</string>
-        <string lang="zh">获得的 $grav$ 增加 $1$。</string>
-        <string lang="jp">受ける$grav$が$1$増加。</string>
-        <string lang="ru">Входящий $grav$ усиливается на $1$.</string>
-        <string lang="es">El $grav$ entrante se amplifica en $1$.</string>
+        <string lang="de">Eingehende $grav$ wird um $1$ verstärkt</string>
+        <string lang="en">Incoming $grav$ is amplified by $1$</string>
+        <string lang="fr">$grav$ entrante est augmentée de $1$</string>
+        <string lang="zh">获得的 $grav$ 增加 $1$</string>
+        <string lang="jp">受ける$grav$が$1$増加</string>
+        <string lang="ru">Входящий $grav$ усиливается на $1$</string>
+        <string lang="es">El $grav$ entrante se amplifica en $1$</string>
         <string lang="kr">입는 $grav$가 $1$ 증가</string>
-        <string lang="pt-br">O $grav$ recebido é amplificado em $1$.</string>
+        <string lang="pt-br">O $grav$ recebido é amplificado em $1$</string>
     </set>
     <set id="description-status-gravimmunity">
-        <string lang="de">Kann keine $grav$ erhalten.</string>
-        <string lang="en">Cannot receive $grav$.</string>
-        <string lang="fr">Ne peut pas recevoir $grav$.</string>
-        <string lang="zh">无法获得  $grav$ 。</string>
-        <string lang="jp">$grav$を受け取ることができません。</string>
-        <string lang="ru">Не может получить $grav$.</string>
-        <string lang="es">No puede recibir $grav$.</string>
-        <string lang="kr">$grav$를 받을 수 없습니다.</string>
-        <string lang="pt-br">Não pode receber $grav$.</string>
+        <string lang="de">Kann keine $grav$ erhalten</string>
+        <string lang="en">Cannot receive $grav$</string>
+        <string lang="fr">Ne peut pas recevoir $grav$</string>
+        <string lang="zh">无法获得  $grav$ </string>
+        <string lang="jp">$grav$を受け取ることができません</string>
+        <string lang="ru">Не может получить $grav$</string>
+        <string lang="es">No puede recibir $grav$</string>
+        <string lang="kr">$grav$를 받을 수 없습니다</string>
+        <string lang="pt-br">Não pode receber $grav$</string>
     </set>
     <set id="description-status-moduleupgrade">
-        <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.</string>
-        <string lang="en">Adds $1$ $energy$ to a current</string>
-        <string lang="fr">Ajoute $1$ $energy$ à un courant</string>
+        <string lang="de">Fügt dem Strom $1$ $energy$ hinzu</string>
+        <string lang="en">Adds $1$ $energy$ to the current</string>
+        <string lang="fr">Ajoute $1$ $energy$ au courant</string>
         <string lang="zh">给一个电流增加 $1$ $energy$</string>
         <string lang="jp">$energy$を$1$追加</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток</string>
-        <string lang="es">Añade $1$ $energy$ a una corriente</string>
+        <string lang="es">Añade $1$ $energy$ a la corriente</string>
         <string lang="kr">$energy$를 $1$ 추가</string>
-        <string lang="pt-br">Adiciona $1$ $energy$ a uma corrente</string>
+        <string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
     </set>
-    <set id="description-status-moduleboost-eob">
-        <string lang="de">Fügt einem Strom $1$ $energy$ hinzu.
-Hält bis zum Ende des Kampfes an.</string>
-        <string lang="en">Adds $1$ $energy$ to a current.
-Lasts until the end of combat.</string>
-        <string lang="fr">Ajoute $1$ $energy$ à un courant.
-Dure jusqu'à la fin du combat.</string>
+    <set id="description-status-moduleturbo">
+        <string lang="de">Fügt dem Strom $1$ $energy$ hinzu.
+Hält bis zum Ende des Kampfes an</string>
+        <string lang="en">Adds $1$ $energy$ to the current.
+Lasts until the end of combat</string>
+        <string lang="fr">Ajoute $1$ $energy$ au courant.
+Dure jusqu'à la fin du combat</string>
         <string lang="zh">给一个电流增加 $1$ $energy$，直到战斗结束。</string>
         <string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
-        <string lang="ru">Добавляет $1$ $energy$ в ток до конца боя.</string>
-        <string lang="es">Añade $1$ $energy$ a una corriente hasta el final del combate.</string>
+        <string lang="ru">Добавляет $1$ $energy$ в ток до конца боя</string>
+        <string lang="es">Añade $1$ $energy$ a la corriente.
+Dura hasta el final del combate</string>
         <string lang="kr">$energy$를 $1$ 추가, 전투 종료까지</string>
-        <string lang="pt-br">Adiciona $1$ $energy$ a uma corriente até o final do combate.</string>
+        <string lang="pt-br">Adiciona $1$ $energy$ à corrente.
+Dura até o final do combate</string>
     </set>
     <set id="description-status-moduleboost-eot">
-        <string lang="de">Fügt einem Strom bis zum Ende des Zuges $1$ $energy$ hinzu.</string>
-        <string lang="en">Adds $1$ $energy$ to a current until the end of turn.</string>
-        <string lang="fr">Ajoute $1$ $energy$ à un courant jusqu'à la fin du tour.</string>
-        <string lang="zh">给一个电流增加 $1$ $energy$，直到回合结束。</string>
-        <string lang="jp">$energy$を$1$追加、ターン終了まで。</string>
-        <string lang="ru">Добавляет $1$ $energy$ в ток до конца хода.</string>
-        <string lang="es">Añade $1$ $energy$ a una corriente hasta el final del turno.</string>
+        <string lang="de">Fügt dem Strom bis zum Ende des Zuges $1$ $energy$ hinzu</string>
+        <string lang="en">Adds $1$ $energy$ to the current until the end of turn</string>
+        <string lang="fr">Ajoute $1$ $energy$ au courant jusqu'à la fin du tour</string>
+        <string lang="zh">给一个电流增加 $1$ $energy$，直到回合结束</string>
+        <string lang="jp">$energy$を$1$追加、ターン終了まで</string>
+        <string lang="ru">Добавляет $1$ $energy$ в ток до конца хода</string>
+        <string lang="es">Añade $1$ $energy$ a la corriente hasta el final del turno</string>
         <string lang="kr">$energy$를 $1$ 추가, 턴 종료까지</string>
-        <string lang="pt-br">Adiciona $1$ $energy$ a uma corriente até o final do turno.</string>
+        <string lang="pt-br">Adiciona $1$ $energy$ à corrente até o final do turno</string>
     </set>
         <set id="description-status-modulecrust">
         <string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ bricht die Kruste dauerhaft.</string>
@@ -848,7 +828,7 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="pt-br">Ative o módulo para extinguir, caso contrário, ele causará $1damage$ ao dono após o turno dele</string>
     </set>
     <set id="description-status-modulemalfunctioning">
-        <string lang="de">Wenn aktiviert, erhält es $outoforder$ bis zum Ende des Kampfes.</string>
+        <string lang="de">Erhält nach Aktivierung $outoforder$ bis zum Ende des Kampfes.</string>
         <string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
         <string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
         <string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
@@ -928,7 +908,8 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="pt-br">Não pode ser ativado mais nesta batalha</string>
     </set>
     <set id="description-status-modulepollution">
-        <string lang="de">Aktivierung fügt dem Charakter $1damage$ zu</string>
+        <string lang="de">Aktivierung fügt dem Charakter
+$1damage$ zu</string>
         <string lang="en">Activation deals $1damage$
 to the owner</string>
         <string lang="fr">Activation inflige $1damage$ au propriétaire</string>
@@ -1122,65 +1103,50 @@ por um turno</string>
         <string lang="kr">전투 후 파괴됩니다</string>
         <string lang="pt-br">Será destruído após a batalha</string>
     </set>
-    <set id="description-status-modulevulnerability">
-        <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu.</string>
-        <string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps.</string>
-    </set>
-    <set id="description-status-transformation-volcanodamagetomight">
-        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
-        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
-        <string lang="fr">$damage$ entrant par le volcan est transformé en $might$.</string>
-        <string lang="zh">来自火山的 $damage$ 将转化为 $might$</string>
-        <string lang="jp">火山からの$damage$は $might$に変換されます</string>
-        <string lang="ru">Входящий $damage$ от вулкана превращается в $might$.</string>
-        <string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
-        <string lang="kr">화산으로부터의 $damage$는 $might$로 변환됩니다</string>
-        <string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
-    </set>
     <set id="description-status-transformation-dmgtograv">
-        <string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt.</string>
-        <string lang="en">Incoming $damage$ is transformed to $grav+$.</string>
-        <string lang="fr">$damage$ entrants sont transformées en $grav+$.</string>
+        <string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt</string>
+        <string lang="en">Incoming $damage$ is transformed to $grav+$</string>
+        <string lang="fr">$damage$ entrants sont transformées en $grav+$</string>
         <string lang="zh">将 $damage$ 转化为 $grav+$</string>
         <string lang="jp">$damage$は $grav+$に変換されます</string>
-        <string lang="ru">Входящий $damage$ превращается в $grav+$.</string>
-        <string lang="es">El daño entrante de $damage$ es transformado en $grav+$.</string>
+        <string lang="ru">Входящий $damage$ превращается в $grav+$</string>
+        <string lang="es">El daño entrante de $damage$ es transformado en $grav+$</string>
         <string lang="kr">$damage$는 $grav+$로 변환됩니다</string>
-        <string lang="pt-br">O dano recebido de $damage$ é transformado em $grav+$.</string>
+        <string lang="pt-br">O dano recebido de $damage$ é transformado em $grav+$</string>
     </set>
     <set id="description-status-transformation-gravtodmg">
-        <string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.</string>
-        <string lang="en">Incoming $grav+$ is transformed to $damage$.</string>
-        <string lang="fr">$grav+$ entrante est transformée en $damage$.</string>
+        <string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt</string>
+        <string lang="en">Incoming $grav+$ is transformed to $damage$</string>
+        <string lang="fr">$grav+$ entrante est transformée en $damage$</string>
         <string lang="zh">将 $grav+$ 转化为 $damage$</string>
         <string lang="jp">$grav+$は $damage$に変換されます</string>
-        <string lang="ru">Входящий $grav+$ превращается в $damage$.</string>
-        <string lang="es">El daño entrante de $grav+$ es transformado en $damage$.</string>
+        <string lang="ru">Входящий $grav+$ превращается в $damage$</string>
+        <string lang="es">El daño entrante de $grav+$ es transformado en $damage$</string>
         <string lang="kr">$grav+$는 $damage$로 변환됩니다</string>
-        <string lang="pt-br">O dano recebido de $grav+$ é transformado em $damage$.</string>
+        <string lang="pt-br">O dano recebido de $grav+$ é transformado em $damage$</string>
     </set>
     <set id="description-status-transformation-gravtopower">
-        <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>
-        <string lang="en">Incoming $grav+$ is transformed to $might$.</string>
-        <string lang="fr">$grav+$ entrante est transformée en $might$.</string>
+        <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt</string>
+        <string lang="en">Incoming $grav+$ is transformed to $might$</string>
+        <string lang="fr">$grav+$ entrante est transformée en $might$</string>
         <string lang="zh">将 $grav+$ 转化为 $might$</string>
         <string lang="jp">$grav+$は $might$に変換されます</string>
-        <string lang="ru">Входящий $grav+$ превращается в $might$.</string>
-        <string lang="es">El daño entrante de $grav+$ es transformado en $might$.</string>
+        <string lang="ru">Входящий $grav+$ превращается в $might$</string>
+        <string lang="es">El daño entrante de $grav+$ es transformado en $might$</string>
         <string lang="kr">$grav+$는 $might$로 변환됩니다</string>
-        <string lang="pt-br">O dano recebido de $grav+$ é transformado em $might$.</string>
+        <string lang="pt-br">O dano recebido de $grav+$ é transformado em $might$</string>
     </set>
     <set id="description-status-shield">
-        <string lang="de">Eingehender $damage$ wird um $1$ reduziert.</string>
-        <string lang="en">Incoming $damage$ is reduced by $1$.</string>
-        <string lang="fr">$damage$ entrants sont réduits de $1$.</string>
+        <string lang="de">Eingehender $damage$ wird um $1$ reduziert</string>
+        <string lang="en">Incoming $damage$ is reduced by $1$</string>
+        <string lang="fr">$damage$ entrants sont réduits de $1$</string>
         <string lang="zh">受到的 $damage$ 将减少 $1$</string>
         <string lang="jp">$damage$は $1$減少します</string>
-        <string lang="ru">Входящий $damage$ уменьшается на $1$.</string>
-        <string lang="es">El daño entrante de $damage$ es reducido por $1$.</string>
+        <string lang="ru">Входящий $damage$ уменьшается на $1$</string>
+        <string lang="es">El daño entrante de $damage$ es reducido por $1$</string>
         <string lang="kr">$damage$는 $1$만큼 감소합니다</string>
         <string lang="pt-br">O dano recebido de $damage$
-é reduzido por $1$.</string>
+é reduzido por $1$</string>
     </set>
     <set id="description-status-modulelock">
         <string lang="de">Kann nicht vom Rack genommen werden</string>

@@ -594,15 +594,26 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Autoencrustação&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$upgrade$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;Upgrade +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;Upgrade +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;Amélioration +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;升级 +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;アップグレード +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;улучшение +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;Mejora +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;업그레이드 +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#a2d18f&gt;&lt;sprite name="boost" tint=1&gt;Melhoria +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Upgrade +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Upgrade +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Amélioration +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;升级 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;アップグレード +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;улучшение +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Mejora +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;업그레이드 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Melhoria +1&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$turbo$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;涡轮 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;ターボ +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;турбо +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;터보 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$boost$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Boost +1&lt;/color&gt;&lt;/b&gt;</string>
@@ -638,15 +649,15 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;Imunidade Grav.&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$cooldown$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;Cooldown&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;Cooldown&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;冷却时间&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;クールダウン&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;Перезагрузить&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;Reutilizacion&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;재사용 대기&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;Reutilização&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;冷却时间&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;クールダウン&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезагрузить&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilizacion&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;재사용 대기&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilização&lt;/b&gt;</string>
     </set>
     <set id="$cooldownicon$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
