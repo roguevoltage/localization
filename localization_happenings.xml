@@ -33,24 +33,20 @@
         <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-chargingstation-description">
-        <string lang="de">Akzeptiert ausschließlich $storagemodule$e.
-Lädt ein Speichermodul um $2$ $energy$.</string>
-        <string lang="en">Only accepts $storagemodule$s.
-Charges a $b$Storage Module$/b$ with $2$ $energy$.</string>
-        <string lang="fr">N'accepte que les modules de type $storagemodule$.
-Charge un $b$Module de Stockage$/b$ avec $2$ $energy$.</string>
-    <string lang="zh">只接受$b$充能模块$/b$
-为$b$充能模块$/b$充电$2$ $energy$。</string>
-        <string lang="jp">のみ$b$ストレージモジュール$/b$
-$b$ストレージモジュール$/b$を$2$ $energy$で充電します。</string>
-        <string lang="ru">Принимает только $b$Модули хранения$/b$
-Заряжает $b$Модуль хранения$/b$ на $2$ $energy$.</string>
-        <string lang="es">Solo acepta $b$Módulos de Almacenamiento$/b$.
-Carga un $b$Módulo de Almacenamiento$/b$ con $2$ $energy$.</string>
-        <string lang="kr">$b$저장 모듈$/b$만 허용합니다.
-$b$저장 모듈$/b$을 $2$ $energy$로 충전합니다.</string>
-        <string lang="pt-br">Apenas aceita $b$Módulos de Armazenamento$/b$.
-Carrega um $b$Módulo de Armazenamento$/b$ com $2$ $energy$.</string>
+        <string lang="de">Lädt ein $storagemodule$
+um $2$ $energy$.</string>
+        <string lang="en">Charges a $storagemodule$
+with $2$ $energy$.</string>
+        <string lang="fr">Charge un $storagemodule$ 
+avec $2$ $energy$.</string>
+        <string lang="zh">为$storagemodule$充电$2$ $energy$。</string>
+        <string lang="jp">$storagemodule$を$2$ $energy$で充電します。</string>
+        <string lang="ru">Заряжает $storagemodule$ на $2$ $energy$.</string>
+        <string lang="es">Carga un $storagemodule$
+con $2$ $energy$.</string>
+        <string lang="kr">$storagemodule$을 $2$ $energy$로 충전합니다.</string>
+        <string lang="pt-br">Carrega um $storagemodule$
+com $2$ $energy$.</string>
     </set>
     <set id="happening-chargingstation-description2">
         <string lang="de">Sie wurde bereits benutzt, 
@@ -85,7 +81,8 @@ mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</st
     </set>
     <set id="happening-led-ready">
         <string lang="de">BEREIT</string>
-        <string lang="en">READY</string>
+        <string lang="en">PRESS BUTTON
+TO USE</string>
         <string lang="fr">PRET</string>
         <string lang="zh">准备</string>
         <string lang="jp">準備</string>
@@ -367,7 +364,7 @@ MODULO</string>
     </set>
     <set id="happening-error-nomodule">
         <string lang="de">Platziere Modul auf den Sockel</string>
-        <string lang="en">Place Module on the socket</string>
+        <string lang="en">Place module on the socket</string>
         <string lang="fr">Placez un module sur le socket</string>
         <string lang="zh">在插槽上放置模块</string>
         <string lang="jp">ソケットにモジュールを配置します</string>
