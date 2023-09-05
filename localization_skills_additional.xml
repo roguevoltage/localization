@@ -289,10 +289,8 @@
         <string lang="en">Phoenix Egg</string>
         <string lang="fr">Oeuf Phoenix</string>
     </set>
-    <set id="name-skill-passive-volcanodamagetomight">
-        <string lang="de">Vulkan-$damage$ zu $might$</string>
-        <string lang="en">Volcano $damage$ to $might$</string>
-        <string lang="fr">Volcan $damage$ vers $might$</string>
+    <set id="name-skill-passive-modulefireifdamaged">
+        <string lang="en">Molten Shell $fireicon$</string>
     </set>
     <set id="name-skill-passive-powerraiseifgravinflicted">
         <string lang="de">Grav.-Detektion (+) $mighticon$</string>
@@ -313,6 +311,11 @@
         <string lang="de">Seelen-Detektion $mighticon$</string>
         <string lang="en">Soul Detection $mighticon$</string>
         <string lang="fr">Détection d'Âme $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-volcanodamagetomight">
+        <string lang="de">Vulkan-$damage$ zu $might$</string>
+        <string lang="en">Volcano $damage$ to $might$</string>
+        <string lang="fr">Volcan $damage$ vers $might$</string>
     </set>
     <set id="name-skill-pterodactyl-riseup">
         <string lang="de">Aufsteigen</string>
@@ -386,6 +389,10 @@
         <string lang="de">Ausbruch</string>
         <string lang="en">Eruption</string>
         <string lang="fr">Éruption</string>
+    </set>
+    <set id="name-skill-volcanosnail-slag">
+        <string lang="de">Schlacke $crusticon$</string>
+        <string lang="en">Slag $crusticon$</string>
     </set>
     <set id="description-skill-vulnerability">
         <string lang="de">Versieht einen Gegner mit $vulnerable$.</string>
@@ -650,10 +657,8 @@ with $grav-1$.</string>
         <string lang="en">Inflicts all other allies with $grav-1$.</string>
         <string lang="fr">n/a</string>
     </set>
-    <set id="description-skill-passive-volcanodamagetomight">
-        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
-        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
-        <string lang="fr">n/a</string>
+    <set id="description-skill-passive-modulefireifdamaged">
+        <string lang="en">Whenever it receives damages, inflicts a module with $fire$.</string>
     </set>
     <set id="description-skill-passive-powerraiseifmodulecreated">
         <string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
@@ -669,6 +674,11 @@ with $grav-1$.</string>
         <string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
         <string lang="en">Raises $might$ by $1$ whenever an ally is defeated.</string>
         <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
+    </set>
+    <set id="description-skill-passive-volcanodamagetomight">
+        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$.</string>
+        <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-pterodactyl-riseup">
         <string lang="de">Steigt auf der Zeitleiste über die Spielercharaktere auf.</string>
@@ -750,5 +760,10 @@ with $grav-1$.</string>
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
         <string lang="en">Deals $2damage$ to all combatants on the same time step.</string>
         <string lang="fr">Inflige $2damage$ à tous les combattants sur le même étape de temps.</string>
+    </set>
+    <set id="description-skill-volcanosnail-slag">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Modul mit $selfencrusting$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts a module with $selfencrusting$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et un module avec $selfencrusting$.</string>
     </set>
 </localization>
