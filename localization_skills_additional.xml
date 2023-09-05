@@ -211,8 +211,8 @@
         <string lang="fr">Mine</string>
     </set>
     <set id="name-skill-naturaldisasaterspawn-lightning">
-        <string lang="de">Blitzschlag</string>
-        <string lang="en">Lightning Strike</string>
+        <string lang="de">Blitz</string>
+        <string lang="en">Lightning</string>
         <string lang="fr">Coup de Foudre</string>
     </set>
     <set id="name-skill-nettle">
@@ -260,9 +260,9 @@
         <string lang="fr">Couver $mighticon$</string>
     </set>
     <set id="name-skill-powerraise-egg-dynosaur">
-        <string lang="de">Brüten $mighticon$</string>
-        <string lang="en">Incubate $mighticon$</string>
-        <string lang="fr">Couver $mighticon$</string>
+        <string lang="de">Grav.-Brüten $mighticon$$grav-icon$</string>
+        <string lang="en">Grav.-Incubate $mighticon$$grav-icon$</string>
+        <string lang="fr">Couver Grav. $mighticon$$grav-icon$</string>
     </set>
     <set id="name-skill-powerraise-egg-graviraptor">
         <string lang="de">Brüten $mighticon$</string>
@@ -629,8 +629,10 @@ with $grav-1$.</string>
         <string lang="fr">Augmente $might$ de tous les alliés de $1$.</string>
     </set>
     <set id="description-skill-powerraise-egg-dynosaur">
-        <string lang="de">Erhöht $might$ um $1$.</string>
-        <string lang="en">Raises $might$ by $1$.</string>
+        <string lang="de">Erhöht $might$ um $1$.
+Fügt allen anderen Kampfteilnehmern $grav-1$ hin zu.</string>
+        <string lang="en">Raises $might$ by $1$.
+Inflicts all other combatants with $grav-1$.</string>
         <string lang="fr">Augmente $might$ de $1$</string>
     </set>
     <set id="description-skill-powerraise-egg-phoenix">

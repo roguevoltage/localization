@@ -47,16 +47,16 @@
         <string lang="zh">每当获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
-    <set id="name-module-collectorgravspike">
+    <set id="name-module-passivegravspike">
         <string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
         <string lang="fr">Capteur Crête Grav. $MODIFICATIONVALUE$</string>
         <string lang="zh">引力尖峰感应器 $MODIFICATIONVALUE$</string>
         <string lang="jp">重力スパイクセンサー $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-collectorgravspike">
+    <set id="description-module-passivegravspike">
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
-        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a Grav. Spike touches down.</string>
+        <string lang="en">Heals both player characters by $1$ whenever the $b$Grav. Equilibrium$/b$ produces a Grav. Spike.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
         <string lang="zh">每当引力尖峰发生时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
@@ -94,7 +94,7 @@
     </set>
         <set id="description-module-collectorstorm">
         <string lang="en">Whenever the owner is
-hit by the $storm$, 
+hit by $storm$ or $lightning$, 
 prevent $1damage$,
 the Lightning Rod generates 
 $b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
@@ -149,8 +149,8 @@ $b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
         <string lang="jp">ライトニングモジュール $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-effectorlightning">
-        <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen Blitz niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
-        <string lang="en">Summons a lightning strike onto target time step that deals $damage$ to all combatants on it.</string>
+        <string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen $lightning$ niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
+        <string lang="en">Summons a single $lightning$ strike onto target time step that deals $damage$ to all combatants on it.</string>
         <string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
         <string lang="zh">召唤一道闪电，对该时刻的所有角色造成 $damage$ 。</string>
         <string lang="jp">目標のタイム ステップに雷を落とし、その上のすべての戦闘者に$damage$を与えます。</string>
