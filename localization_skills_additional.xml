@@ -343,9 +343,9 @@
         <string lang="fr">Pour la Ruche</string>
     </set>
     <set id="name-skill-savage">
-        <string lang="de">Wilder Angriff</string>
-        <string lang="en">Savage</string>
-        <string lang="fr">Rage</string>
+        <string lang="de">Wilder Angriff $cooldownicon$</string>
+        <string lang="en">Savage $cooldownicon$</string>
+        <string lang="fr">Rage $cooldownicon$</string>
     </set>
     <set id="name-skill-selfdestruct">
         <string lang="de">Selbstzerstörung</string>
@@ -361,11 +361,6 @@
         <string lang="de">Selbstzerstörung</string>
         <string lang="en">Self-Destruct</string>
         <string lang="fr">Auto-Destruction</string>
-    </set>
-    <set id="name-skill-stomp">
-        <string lang="de">Stampfen $cooldownicon$</string>
-        <string lang="en">Stomp $cooldownicon$</string>
-        <string lang="fr">Tremper $cooldownicon$</string>
     </set>
     <set id="name-skill-stomp-brachiosaurus">
         <string lang="de">Stampfen</string>
@@ -384,6 +379,10 @@
         <string lang="ja">重力踏みつけ $grav+2$</string>
         <string lang="ru">Грав. Топот $grav+2$</string>
         <string lang="es">Pisotón Grav. $grav+2$</string>
+    </set>
+    <set id="name-skill-swiftstrike">
+        <string lang="de">Flinker Angriff</string>
+        <string lang="en">Swift Strike</string>
     </set>
     <set id="name-skill-volcanoeruption">
         <string lang="de">Ausbruch</string>
@@ -707,7 +706,7 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="en">Sacrifices a bee to deal $1damage$ to all enemies.</string>
         <string lang="fr">n/a</string>
     </set>
-    <set id="description-skill-savage">
+    <set id="description-skill-swiftstrike">
         <string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-1$ zu.</string>
         <string lang="en">Deals $1damage$ and inflicts itself with $grav-1$.</string>
         <string lang="fr">n/a</string>
@@ -737,7 +736,8 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="en">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
         <string lang="fr">n/a</string>
     </set>
-    <set id="description-skill-stomp">
+    <set id="description-skill-savage">
+        <string lang="de">Fügt einem Gegner $2damage$ zu und versieht ein Modul mit $cooldown$.</string>
         <string lang="en">Deals $2damage$ to an enemy and inflicts one module with $cooldown$.</string>
     </set>
     <set id="description-skill-stomp-brachiosaurus">
