@@ -85,10 +85,9 @@
         <string lang="en">Explosive Contraptions</string>
         <string lang="fr">Appareils Explosifs</string>
     </set>
-    <set id="name-skill-enemyspawn-egg-graviraptor-bossminion">
-        <string lang="de">Ei legen</string>
-        <string lang="en">Lay Egg</string>
-        <string lang="fr">Pondre un Oeuf</string>
+    <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
+        <string lang="de">Brutpflege</string> 
+        <string lang="en">Tend Nest</string>
     </set>
     <set id="name-skill-gravabsorb">
         <string lang="de">Grav.-Absorption</string>
@@ -443,9 +442,13 @@
         <string lang="en">Summons an Owl</string>
         <string lang="fr">Invoque un hibou.</string>
     </set>
-    <set id="description-skill-enemyspawn-egg-graviraptor-bossminion">
-        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei.</string>
-        <string lang="en">Summons a $b$Graviraptor-Egg$/b$.</string>
+    <set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
+        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei
+- oder -
+verleiht einem bestehenden Ei $1$ $might$.</string>
+        <string lang="en">Summons a $b$Graviraptor Egg$/b$
+- or -
+grants an existing egg $1$ $might$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-modulefire-firegnat">
@@ -645,9 +648,9 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="fr">Remplit $might$.</string>
     </set>
     <set id="description-skill-powerraise-egg-pollution">
-        <string lang="de">Füllt $might$ und versieht zwei Module mit $pollution$..</string>
-        <string lang="en">Fills $might$ and inflicts two modules with $pollution$.</string>
-        <string lang="fr">Remplit $might$ et applique $pollution$ à deux modules.</string>
+        <string lang="de">Füllt $might$ und versieht ein Modul mit $pollution$..</string>
+        <string lang="en">Fills $might$ and inflicts one module with $pollution$.</string>
+        <string lang="fr">Remplit $might$ et applique $pollution$ à un module.</string>
     </set>
     <set id="description-skill-powertograv">
         <string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
