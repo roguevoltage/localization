@@ -189,6 +189,9 @@
         <string lang="es">Pilón de Plasma</string>
         <string lang="kr">플라즈마 피라미드</string>
     </set>
+    <set id="name-enemy-rhino">
+        <string lang="en">Grav.-Rhino</string>
+    </set>  
     <set id="name-enemy-sneaky">
         <string lang="de">Fox II</string>
         <string lang="en">Fox II</string>
@@ -198,7 +201,7 @@
         <string lang="en">Stalagmite</string>
     </set>
     <set id="name-enemy-stormcolumn">
-        <string lang="en">Runic Column</string>
+        <string lang="en">Runic Monolith</string>
     </set>
     <set id="name-enemy-thunderbird">
         <string lang="de">Sturmvogel</string>
@@ -391,7 +394,7 @@
         <string lang="en">Stalagmite</string>
     </set>
     <set id="shortname-enemy-stormcolumn">
-        <string lang="en">Storm Column</string>
+        <string lang="en">Monolith</string>
     </set>
     <set id="shortname-enemy-thunderbird">
         <string lang="de">Sturmvogel</string>
@@ -454,6 +457,9 @@
         <string lang="ru">Пилон</string>
         <string lang="es">Pilón</string>
         <string lang="kr">파이론</string>
+    </set>
+    <set id="shortname-enemy-rhino">
+        <string lang="en">Rhino</string>
     </set>
     <set id="description-boss-bear">
         <string lang="de"></string>
@@ -617,6 +623,11 @@
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
+    <set id="description-enemy-rhino">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+    </set>
     <set id="description-enemy-sneaky">
         <string lang="de"></string>
         <string lang="en"></string>
@@ -633,6 +644,11 @@
         <string lang="fr"></string>
     </set>
     <set id="description-enemy-turretmine">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+    </set>
+    <set id="description-enemy-thunderbird">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>

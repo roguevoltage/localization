@@ -104,6 +104,11 @@
         <string lang="en">Grav. Explosion</string>
         <string lang="fr">Explosion Grav.</string>
     </set>
+    <set id="name-skill-gravhowl">
+        <string lang="de">Grav. Heulen</string>
+        <string lang="en">Grav. Howl</string>
+        <string lang="fr">Hurlement Grav.</string>
+    </set>
     <set id="name-skill-gravinvert">
         <string lang="de">Grav.-Umkehrung</string>
         <string lang="en">Grav. Inversion</string>
@@ -128,12 +133,10 @@
         <string lang="de">Sturmrufer $grav+2$</string>
         <string lang="en">Storm Caller $grav+2$</string>
     </set>
-    <set id="name-skill-gravhowl">
-        <string lang="de">Grav. Heulen</string>
-        <string lang="en">Grav. Howl</string>
-        <string lang="fr">Hurlement Grav.</string>
+        <set id="name-skill-gravtackle">
+        <string lang="en">Grav. Tackle</string>
     </set>
-        <set id="name-skill-gravshield-gravadillo">
+    <set id="name-skill-gravshield-gravadillo">
         <string lang="de">Grav. Schild</string>
         <string lang="en">Grav. Shield</string>
         <string lang="fr">n/a</string>
@@ -287,6 +290,9 @@
         <string lang="de">Phoenix-Ei</string>
         <string lang="en">Phoenix Egg</string>
         <string lang="fr">Oeuf Phoenix</string>
+    </set>
+    <set id="name-skill-passive-gravifdamaged">
+        <string lang="en">Grav.-Armor $grav+1$</string>
     </set>
     <set id="name-skill-passive-modulefireifdamaged">
         <string lang="en">Molten Shell $fireicon$</string>
@@ -502,6 +508,10 @@ Inflicts a module with $fire$.</string>
         <string lang="en">Inflicts all other combatants with $grav-1$</string>
         <string lang="fr">n/a</string>
     </set>
+    <set id="description-skill-gravtackle">
+        <string lang="de">Fügt einem Gegner $2damage$ zu und versieht ihn mit $gravamplification$.</string>
+        <string lang="en">Inflicts $2damage$ to an enemy and applies $gravamplification$.</string>
+    </set>
     <set id="description-skill-gravpull-bosschronocat">
         <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
         <string lang="en">Inflicts another combatant with $grav-1$</string>
@@ -660,6 +670,9 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
         <string lang="en">Inflicts all other allies with $grav-1$.</string>
         <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-passive-gravifdamaged">
+        <string lang="en">Whenever it receives $damage$, inflicts the attacker with $grav+1$.</string>
     </set>
     <set id="description-skill-passive-modulefireifdamaged">
         <string lang="en">Inflicts a module with $fire$ whenever it receives $damage$.</string>
