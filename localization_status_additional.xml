@@ -21,6 +21,9 @@
         <string lang="kr">정지</string>
         <string lang="pt-br">Estase</string>
     </set>
+    <set id="name-status-modulegravpulse">
+        <string lang="en">Grav. Pulse</string>
+    </set>
     <set id="name-status-modulestormattractor">
         <string lang="en">Storm Attractor</string>
     </set>
@@ -129,5 +132,8 @@ by $4$ time steps</string>
         <string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
         <string lang="kr">화산으로부터의 $damage$는 $might$로 변환됩니다</string>
         <string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
+    </set>
+        <set id="description-status-modulegravpulse">
+        <string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
     </set>
 </localization>
