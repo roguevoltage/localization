@@ -19,6 +19,9 @@
         <string lang="en">Allmother</string>
         <string lang="fr">Mère de Tous</string>
     </set>
+    <set id="name-boss-stormboss">
+        <string lang="en">Boss</string>
+    </set>  
     <set id="name-enemy-bee">
         <string lang="de">Biene</string>
         <string lang="en">Bee</string>
@@ -200,7 +203,7 @@
     <set id="name-enemy-stalagmite">
         <string lang="en">Stalagmite</string>
     </set>
-    <set id="name-enemy-stormcolumn">
+    <set id="name-enemy-monolith">
         <string lang="en">Runic Monolith</string>
     </set>
     <set id="name-enemy-thunderbird">
@@ -256,6 +259,11 @@
         <string lang="fr">Boss</string>
     </set>
     <set id="shortname-boss-dynosaurmom">
+        <string lang="de">Boss</string>
+        <string lang="en">Boss</string>
+        <string lang="fr">Boss</string>
+    </set>
+    <set id="shortname-boss-stormboss">
         <string lang="de">Boss</string>
         <string lang="en">Boss</string>
         <string lang="fr">Boss</string>
@@ -393,7 +401,7 @@
     <set id="shortname-enemy-stalagmite">
         <string lang="en">Stalagmite</string>
     </set>
-    <set id="shortname-enemy-stormcolumn">
+    <set id="shortname-enemy-monolith">
         <string lang="en">Monolith</string>
     </set>
     <set id="shortname-enemy-thunderbird">
@@ -472,6 +480,11 @@
         <string lang="fr"></string>
     </set>
     <set id="description-boss-queenbee">
+        <string lang="de"></string>
+        <string lang="en"></string>
+        <string lang="fr"></string>
+    </set>
+    <set id="description-boss-stormboss">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>
@@ -638,7 +651,7 @@
         <string lang="en"></string>
         <string lang="fr"></string>
     </set>
-    <set id="description-enemy-stormcolumn">
+    <set id="description-enemy-monolith">
         <string lang="de"></string>
         <string lang="en"></string>
         <string lang="fr"></string>

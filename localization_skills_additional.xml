@@ -124,16 +124,16 @@
         <string lang="en">Grav. Neutralize</string>
         <string lang="fr">Neutralisation Grav.</string>
     </set>
+    <set id="name-skill-gravneutralize-aoe">
+        <string lang="de">Grav.-Nullifizierung</string>
+        <string lang="en">Grav. Nullify</string>
+    </set>
     <set id="name-skill-gravneutralize-self-geothermaldrone">
         <string lang="de">Wärmesenke $fireicon$</string>
         <string lang="en">Heat Sink $fireicon$</string>
         <string lang="fr">Dissipation Thermique $fireicon$</string>
     </set>
-    <set id="name-skill-gravpush-thunderbird">
-        <string lang="de">Sturmrufer $grav+2$</string>
-        <string lang="en">Storm Caller $grav+2$</string>
-    </set>
-        <set id="name-skill-gravtackle">
+    <set id="name-skill-gravtackle-rhino">
         <string lang="en">Grav. Tackle</string>
     </set>
     <set id="name-skill-gravshield-gravadillo">
@@ -217,6 +217,10 @@
         <string lang="en">Lightning</string>
         <string lang="fr">Coup de Foudre</string>
     </set>
+    <set id="name-skill-naturaldisasterspawn-lightning-stormboss">
+        <string lang="de">Blitzschlag-Feld</string>
+        <string lang="en">Lightning Array</string>
+    </set>
     <set id="name-skill-nettle">
         <string lang="de">Nessel</string>
         <string lang="en">Nettle</string>
@@ -293,6 +297,16 @@
     </set>
     <set id="name-skill-passive-gravifdamaged">
         <string lang="en">Grav.-Armor $grav+1$</string>
+    </set>
+    <set id="name-skill-passive-gravneutralizeonbeginningofturn">
+        <string lang="en">Grav.-Dissipation</string>
+    </set>
+    <set id="name-skill-passive-gravneutralizeaoeonbeginningofturn">
+        <string lang="en">Grav.-Nullify</string>
+    </set>
+    <set id="name-skill-passive-advancestormonbeginningofturn">
+        <string lang="de">Sturmruf $stormicon$</string>
+        <string lang="en">Storm Call $stormicon$</string>
     </set>
     <set id="name-skill-passive-modulefireifdamaged">
         <string lang="en">Molten Shell $fireicon$</string>
@@ -472,9 +486,9 @@ grants an existing egg $1$ $might$.</string>
         <string lang="en">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
         <string lang="fr">n/a</string>
     </set>
-    <set id="description-skill-gravpush-thunderbird">
-        <string lang="de">Rückt den $storm$ vorwärts und versieht einen Kampfteilnehmer mit $grav+2$.</string>
-        <string lang="en">Advances $storm$ and inflicts another combatant with $grav+2$</string>
+    <set id="description-skill-passive-advancestormonbeginningofturn">
+        <string lang="de">Am Anfang des eigenen Zuges, rückt $storm$ vor.</string>
+        <string lang="en">On the beginning of its turn, advances $storm$.</string>
     </set>
     <set id="description-skill-gravhowl">
         <string lang="de">Entfernt alle $grav$ und versieht alle Kampfteilnehmer mit $gravamplification$.</string>
@@ -489,6 +503,11 @@ grants an existing egg $1$ $might$.</string>
     <set id="description-skill-gravneutralize-self">
         <string lang="de">Entfernt alle $grav$ auf sich selbst.</string>
         <string lang="en">Removes all $grav$ from itself.</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravneutralize-aoe">
+        <string lang="de">Entfernt alle $grav$ auf allen Kampfteilnehmern.</string>
+        <string lang="en">Removes all $grav$ from all combatants.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravneutralize-self-geothermaldrone">
@@ -508,9 +527,9 @@ Inflicts a module with $fire$.</string>
         <string lang="en">Inflicts all other combatants with $grav-1$</string>
         <string lang="fr">n/a</string>
     </set>
-    <set id="description-skill-gravtackle">
-        <string lang="de">Fügt einem Gegner $2damage$ zu und versieht ihn mit $gravamplification$.</string>
-        <string lang="en">Inflicts $2damage$ to an enemy and applies $gravamplification$.</string>
+    <set id="description-skill-gravtackle-rhino">
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $gravamplification$.</string>
+        <string lang="en">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
     </set>
     <set id="description-skill-gravpull-bosschronocat">
         <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
@@ -539,7 +558,7 @@ Inflicts a module with $fire$.</string>
     </set>
     <set id="description-skill-selfdestruct-goblinbomb">
         <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
-        <string lang="en">Destroys itself to deal $damage$ in height of its current HP on all enemies on the same time step.</string>
+        <string lang="en">Destroys itself to deal $damage$ in height of its current HP to all enemies on the same time step.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-selfdestruct-livingbomb">
@@ -586,7 +605,7 @@ Inflicts a module with $fire$.</string>
         <string lang="en">Places a $b$Burning Debris$/b$ module in each of your racks.</string>
     </set>
     <set id="description-skill-modulespawn-pulsar">
-        <string lang="en">Places a $b$Pulsar$/b$ module in each of your racks.</string>
+        <string lang="en">Places a $b$Pulsar$/b$ module in one of your racks.</string>
     </set>
     <set id="description-skill-modulespawn-modifierviral">
         <string lang="de">Platziert ein $b$Störmodul$/b$ in eins deiner Racks.</string>
@@ -602,6 +621,9 @@ Inflicts a module with $fire$.</string>
         <string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
         <string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
         <string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la chronologie.</string>
+    </set>
+    <set id="description-skill-naturaldisasterspawn-lightning-stormboss">
+        <string lang="en">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
     </set>
     <set id="description-skill-nettle">
         <string lang="de">Fügt einem Gegner $1damage$ zu.</string>
@@ -673,6 +695,12 @@ Inflicts all other combatants with $grav-1$.</string>
     </set>
     <set id="description-skill-passive-gravifdamaged">
         <string lang="en">Whenever it receives $damage$, inflicts the attacker with $grav+1$.</string>
+    </set>
+    <set id="description-skill-passive-gravneutralizeonbeginningofturn">
+        <string lang="en">On the beginning of its turn, neutralize all $grav$.</string>
+    </set>
+    <set id="description-skill-passive-gravneutralizeaoeonbeginningofturn">
+        <string lang="en">On the beginning of its turn, neutralizes all $grav$ on all combatants.</string>
     </set>
     <set id="description-skill-passive-modulefireifdamaged">
         <string lang="en">Inflicts a module with $fire$ whenever it receives $damage$.</string>
