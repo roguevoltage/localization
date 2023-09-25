@@ -450,7 +450,7 @@
         <string lang="kr">가틀링 건 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
     </set>
-        <set id="name-module-effectorgatlingdecelerator">
+        <set id="name-module-effectordeceleratorgatling">
         <string lang="de">Gatling-Verlangsamer $MODIFICATIONVALUE$</string>
         <string lang="en">Gatling Decelerator $MODIFICATIONVALUE$</string>
         <string lang="fr">Mitrailleuse Gatling $MODIFICATIONVALUE$</string>
@@ -1009,7 +1009,7 @@ sur le combattant ciblé.</string>
         <string lang="kr">소유자와 같은 시간 단계에 있는 모든 적에게 $grav+$를 줍니다.</string>
         <string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
     </set>
-            <set id="description-module-effectorgatlingdecelerator">
+            <set id="description-module-effectordeceleratorgatling">
         <string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
         <string lang="en">For each point of $energy$
 on this module:
