@@ -1044,7 +1044,8 @@ por um turno</string>
     </set>
     <set id="description-status-modulegravrecoil-eot">
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
-        <string lang="en">Activation this turn inflicts the owner with $grav+2$</string>
+        <string lang="en">Activation this turn inflicts the owner
+with $grav+2$</string>
         <string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
         <string lang="zh">在本回合激活将让拥有者获得 $grav+2$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
@@ -1196,113 +1197,5 @@ por um turno</string>
         <string lang="es">No puede ser tomado del rack</string>
         <string lang="kr">랙에서 가져올 수 없습니다</string>
         <string lang="pt-br">Não pode ser retirado do rack</string>
-    </set>
-    <set id="exhaustion-dependingonwiring">
-        <string lang="de">$b$Erschöpfung$/b$&#xA;Abhängig von aktivierten Modulen</string>
-        <string lang="en">$b$Exhaustion$/b$&#xA;Depending on activated modules</string>
-        <string lang="fr">$b$Fatigue$/b$&#xA;En fonction du câble</string>
-        <string lang="zh">$b$疲劳$/b$&#xA;连接了的发电机会导致疲劳效果</string>
-        <string lang="jp">$b$疲労$/b$&#xA;配線によって異なります</string>
-        <string lang="ru">$b$Изнурение$/b$&#xA;В зависимости от подключенных модулей</string>
-        <string lang="es">$b$Agotamiento$/b$&#xA;Dependiendo de los módulos activados</string>
-        <string lang="kr">$b$피로$/b$&#xA;활성화된 모듈에 따라 달라집니다</string>
-        <string lang="pt-br">$b$Exaustão$/b$&#xA;Dependendo dos módulos ativados</string>
-    </set>
-    <set id="exhaustion-turndelay">
-        <string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$&#xA;Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
-        <string lang="en">$b$Exhaustion $EXHAUSTION$$/b$&#xA;Activation sets back the next turn by $b$$EXHAUSTION$$/b$</string>
-        <string lang="fr">$b$Fatigue $EXHAUSTION$$/b$&#xA;Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
-        <string lang="zh">$b$疲劳 $EXHAUSTION$$/b$&#xA;使用将下一回合延迟 $b$$EXHAUSTION$$/b$</string>
-        <string lang="jp">$b$疲労 $EXHAUSTION$$/b$&#xA;使用すると次のターンが$b$$EXHAUSTION$$/b$遅れます</string>
-        <string lang="ru">$b$Изнурение $EXHAUSTION$$/b$&#xA;Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
-        <string lang="es">$b$Agotamiento $EXHAUSTION$$/b$&#xA;La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
-        <string lang="kr">$b$피로 $EXHAUSTION$$/b$&#xA;활성화는 다음 턴을 $b$$EXHAUSTION$$/b$만큼 뒤로 미룹니다</string>
-        <string lang="pt-br">$b$Exaustão $EXHAUSTION$$/b$&#xA;A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
-    </set>
-    <set id="exhaustion">
-        <string lang="de">$b$Erschöpfung$/b$</string>
-        <string lang="en">$b$Exhaustion$/b$</string>
-        <string lang="fr">$b$Fatigue$/b$</string>
-        <string lang="zh">$b$疲劳$/b$</string>
-        <string lang="jp">$b$疲労$/b$</string>
-        <string lang="ru">$b$Изнурение$/b$</string>
-        <string lang="es">$b$Agotamiento$/b$</string>
-        <string lang="kr">$b$피로$/b$</string>
-        <string lang="pt-br">$b$Exaustão$/b$</string>
-    </set>
-    <set id="factory-proportion">
-        <string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
-        <string lang="en">Higher $energy$ leads to a better constructed module</string>
-        <string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
-        <string lang="zh">更高的 $energy$ 能产生更好的模块</string>
-        <string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
-        <string lang="ru">Большее $energy$ приводит к лучшему модулю</string>
-        <string lang="es">Más $energy$ conduce a un módulo mejor construido</string>
-        <string lang="kr">$energy$가 높을수록 더 좋은 모듈을 만들 수 있습니다</string>
-        <string lang="pt-br">Mais $energy$ leva a um módulo melhor construído</string>
-    </set>
-        <set id="discharge-storesenergy">
-        <string lang="de">Speichert $energy$ über Züge und Kämpfe hinweg</string>
-        <string lang="en">Stores $energy$ throughout turns and battles</string>
-        <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">在多个回合和战斗中充能 $energy$</string>
-        <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
-        <string lang="ru">Сохраняет $energy$ на протяжении ходов и битв</string>
-        <string lang="es">Almacena $energy$ a lo largo de los turnos y batallas</string>
-        <string lang="kr">여러 턴과 전투를 거쳐 $energy$를 축적합니다</string>
-        <string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
-    </set>
-    <set id="discharge-storesenergy-capped">
-        <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge und Kämpfe hinweg</string>
-        <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ throughout turns and battles</string>
-        <string lang="fr">Stocke jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">在多个回合和战斗中最多充能 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="jp">ターンや戦闘をまたいで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
-        <string lang="ru">Сохраняет до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протяжении ходов и битв</string>
-        <string lang="es">Almacena hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
-        <string lang="kr">여러 턴과 전투를 거쳐 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 축적합니다</string>
-        <string lang="pt-br">Armazena até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ ao longo dos turnos e batalhas</string>
-    </set>
-    <set id="discharge-endofbattle">
-        <string lang="de">Hält bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-bis zum Ende des Kampfes</string>
-        <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-until the end of battle</string>
-        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-jusqu'à la fin du combat</string>
-        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，
-直到战斗结束</string>
-        <string lang="jp">バトル終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-を保持します</string>
-        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-до конца боя</string>
-        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-hasta el final de la batalla</string>
-        <string lang="kr">전투 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 
-보유합니다</string>
-        <string lang="pt-br">Mantém até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-até o final da batalha</string>
-    </set>
-    <set id="discharge-endofturn">
-        <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Only holds $energy$ until the end of owner's turn</string>
-        <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-        <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
-        <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
-        <string lang="ru">Хранит $energy$ только до конца хода владельца</string>
-        <string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
-        <string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
-        <string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
-    </set>
-    <set id="discharge-endofturn-impending">
-        <string lang="de">Verliert $energy$ am Ende des Zuges</string>
-        <string lang="en">Will lose $energy$ at the end of turn</string>
-        <string lang="fr">Perdra $energy$ à la fin du tour</string>
-        <string lang="zh">将在回合结束时失去 $energy$</string>
-        <string lang="jp">ターン終了時に$energy$を失います</string>
-        <string lang="ru">Потеряет $energy$ в конце хода</string>
-        <string lang="es">Perderá $energy$ al final del turno</string>
-        <string lang="kr">턴이 끝날 때 $energy$를 잃습니다</string>
-        <string lang="pt-br">Perderá $energy$ no final do turno</string>
     </set>
 </localization>
