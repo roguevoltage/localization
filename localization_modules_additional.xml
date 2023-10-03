@@ -1,4 +1,10 @@
 <localization>
+    <set id="name-module-shieldcell">
+        <string lang="en">Shield Cell $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-shieldcell">
+        <string lang="en">If the owner receives $damage$, reduce it by $1$ and remove $1$ $energy$ from it.</string>
+    </set>
     <set id="name-module-coil">
         <string lang="de">Spule $MODIFICATIONVALUE$</string>
         <string lang="en">Coil $MODIFICATIONVALUE$</string>
