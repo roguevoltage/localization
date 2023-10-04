@@ -1050,37 +1050,6 @@ aventura!</string>
         <string lang="pt-br">Comece a
 aventura!</string>
     </set>
-    <set id="toggled-module-off">
-        <string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
-        <string lang="en">Toggle to activate during voltage sequence</string>
-        <string lang="fr">Sera utilisé pendant la séquence de tir, 
-si activé</string>
-        <string lang="zh">打开开关后会在触发序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、
-発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы,
-если включен</string>
-        <string lang="es">Se activará durante la secuencia de disparo,
-si está activado</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다.
-토글이 켜져 있으면</string>
-        <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
-    </set>
-        <set id="toggled-module-on">
-        <string lang="de">Wird während der Spannungssequenz aktiviert</string>
-        <string lang="en">Will be activated during voltage sequence</string>
-        <string lang="fr">Sera utilisé pendant la séquence de tir</string>
-        <string lang="zh">打开开关后会在触发序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、
-発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы,
-если включен</string>
-        <string lang="es">Se activará durante la secuencia de disparo,
-si está activado</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다.
-토글이 켜져 있으면</string>
-        <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
-    </set>
     <set id="quitscreen-header">
         <string lang="de">Danke fürs Spielen</string>
         <string lang="en">Thank you for playing</string>
@@ -1155,5 +1124,299 @@ Desenvolvedor</string>
         <string lang="es">SALIR</string>
         <string lang="kr">나가기</string>
         <string lang="pt-br">SAIR</string>
+    </set>
+    <set id="tutorial">
+        <string lang="de">Tutorial</string>
+        <string lang="en">Tutorial</string>
+        <string lang="fr">Tutoriel</string>
+        <string lang="zh">教学</string>
+        <string lang="jp">チュートリアル</string>
+        <string lang="ru">Обучение</string>
+        <string lang="es">Tutorial</string>
+        <string lang="kr">튜토리얼</string>
+        <string lang="pt-br">Tutorial</string>
+    </set>
+    <set id="chapter">
+        <string lang="de">Level</string>
+        <string lang="en">Stage</string>
+        <string lang="fr">Niveau</string>
+        <string lang="zh">章节</string>
+        <string lang="jp">レベル</string>
+        <string lang="ru">Уровень</string>
+        <string lang="es">Nivel</string>
+        <string lang="kr">스테이지</string>
+        <string lang="pt-br">Fase</string>
+    </set>
+    <set id="chapter-1">
+        <string lang="de">Level I:</string>
+        <string lang="en">Stage I:</string>
+        <string lang="fr">Niveau I:</string>
+        <string lang="zh">第一章</string>
+        <string lang="jp">レベル1</string>
+        <string lang="ru">Уровень I:</string>
+        <string lang="es">Nivel I:</string>
+        <string lang="kr">스테이지 I:</string>
+        <string lang="pt-br">Fase I:</string>
+    </set>
+    <set id="chapter-2">
+        <string lang="de">Level II:</string>
+        <string lang="en">Stage II:</string>
+        <string lang="fr">Niveau II:</string>
+        <string lang="zh">第二章</string>
+        <string lang="jp">レベル2</string>
+        <string lang="ru">Уровень II:</string>
+        <string lang="es">Nivel II:</string>
+        <string lang="kr">스테이지 II:</string>
+        <string lang="pt-br">Fase II:</string>
+    </set>
+    <set id="chapter-3">
+        <string lang="de">Level III:</string>
+        <string lang="en">Stage III:</string>
+        <string lang="fr">Niveau III:</string>
+        <string lang="zh">第三章</string>
+        <string lang="jp">レベル3</string>
+        <string lang="ru">Уровень III:</string>
+        <string lang="es">Nivel III:</string>
+        <string lang="kr">스테이지 III:</string>
+        <string lang="pt-br">Fase III:</string>
+    </set>
+    <set id="chapter-4">
+        <string lang="de">Level IV:</string>
+        <string lang="en">Stage IV:</string>
+        <string lang="fr">Niveau IV:</string>
+        <string lang="zh">第四章</string>
+        <string lang="jp">レベル4</string>
+        <string lang="ru">Уровень IV:</string>
+        <string lang="es">Nivel IV:</string>
+        <string lang="kr">스테이지 IV:</string>
+        <string lang="pt-br">Fase IV:</string>
+    </set>
+    <set id="chapter-5">
+        <string lang="de">Finale:</string>
+        <string lang="en">Finale:</string>
+        <string lang="fr">Finale:</string>
+        <string lang="zh">最终章</string>
+        <string lang="jp">最終レベル</string>
+        <string lang="ru">Финал:</string>
+        <string lang="es">Final:</string>
+        <string lang="kr">마지막 스테이지:</string>
+        <string lang="pt-br">Final:</string>
+    </set>
+    <set id="abilities">
+        <string lang="de">Fähigkeiten</string>
+        <string lang="en">Abilities</string>
+        <string lang="fr">Capacités</string>
+        <string lang="zh">能力</string>
+        <string lang="jp">能力</string>
+        <string lang="ru">Способности</string>
+        <string lang="es">Habilidades</string>
+        <string lang="kr">능력</string>
+        <string lang="pt-br">Habilidades</string>
+    </set>
+    <set id="category">
+        <string lang="de">Kategorie</string>
+        <string lang="en">Category</string>
+        <string lang="fr">Catégorie</string>
+        <string lang="zh">类别</string>
+        <string lang="jp">カテゴリー</string>
+        <string lang="ru">Категория</string>
+        <string lang="es">Categoría</string>
+        <string lang="kr">카테고리</string>
+        <string lang="pt-br">Categoria</string>
+    </set>
+    <set id="offense">
+        <string lang="de">Offensiv</string>
+        <string lang="en">Offense</string>
+        <string lang="fr">Offense</string>
+        <string lang="zh">进攻</string>
+        <string lang="jp">オフェンス</string>
+        <string lang="ru">Атака</string>
+        <string lang="es">Ofensivo</string>
+        <string lang="kr">공격</string>
+        <string lang="pt-br">Ofensivo</string>
+    </set>
+    <set id="unique">
+        <string lang="de">Einzigartig</string>
+        <string lang="en">Unique</string>
+        <string lang="fr">Unique</string>
+        <string lang="zh">唯一</string>
+        <string lang="jp">個性的</string>
+        <string lang="ru">Уникальный</string>
+        <string lang="es">Único</string>
+        <string lang="kr">유일한</string>
+        <string lang="pt-br">Único</string>
+    </set>
+    <set id="cheat-incentive">
+        <string lang="de">Drücke F1 für den
+Cheat-Modus</string>
+        <string lang="en">Press F1 to toggle
+cheat mode</string>
+        <string lang="fr">Appuyez sur F1 pour activer le mode Cheat</string>
+        <string lang="zh">按F1切换作弊模式</string>
+        <string lang="jp">F1を押してチートモードを切り替える</string>
+        <string lang="ru">Нажмите F1 для включения режима читов</string>
+        <string lang="es">Pulsa F1 para activar el modo trucos</string>
+        <string lang="kr">F1을 눌러 치트 모드를 전환합니다</string>
+    </set>
+    <set id="cheat-free-plasma">
+        <string lang="de">$b$DEMO$/b$
++1 Plasma</string>
+        <string lang="en">$b$DEMO:$/b$
++1 Plasma</string>
+        <string lang="fr">$b$DEMO:$/b$
++1 Plasma</string>
+        <string lang="zh">$b$DEMO:$/b$
++1等离子体</string>
+        <string lang="jp">$b$DEMO:$/b$
++1プラズマ</string>
+        <string lang="ru">$b$DEMO:$/b$
++1 Плазма</string>
+        <string lang="es">$b$DEMO:$/b$
++1 Plasma</string>
+        <string lang="kr">$b$DEMO:$/b$
++1 플라즈마</string>
+        <string lang="pt-br">$b$DEMO:$/b$
++1 Plasma</string>
+    </set>
+    <set id="cheat-win-battle">
+        <string lang="de">$b$DEMO$/b$
+Kampf gewinnen</string>
+        <string lang="en">$b$DEMO:$/b$
+Win Battle</string>
+        <string lang="fr">$b$DEMO:$/b$
+Gagner combat</string>
+        <string lang="zh">$b$DEMO:$/b$
+战斗胜利</string>
+        <string lang="jp">$b$DEMO:$/b$
+戦闘勝利</string>
+        <string lang="ru">$b$DEMO:$/b$
+Выиграть бой</string>
+        <string lang="es">$b$DEMO:$/b$
+Ganar batalla</string>
+        <string lang="kr">$b$DEMO:$/b$
+전투 승리</string>
+        <string lang="pt-br">$b$DEMO:$/b$
+Vencer batalha</string>
+    </set>
+    <set id="name-backpack">
+        <string lang="de">Rucksack</string>
+        <string lang="en">Backpack</string>
+        <string lang="fr">Sac à dos</string>
+        <string lang="zh">背包</string>
+        <string lang="jp">バックパック</string>
+        <string lang="ru">Рюкзак</string>
+        <string lang="es">Mochila</string>
+        <string lang="kr">배낭</string>
+        <string lang="pt-br">Mochila</string>
+    </set>
+    <set id="name-jack-output">
+        <string lang="de">Output-Buchse</string>
+        <string lang="en">Output Jack</string>
+        <string lang="fr">Prise de Sortie</string>
+        <string lang="zh">输出端</string>
+        <string lang="jp">出力ジャック</string>
+        <string lang="ru">Выходной разъем</string>
+        <string lang="es">Enchufe de salida</string>
+        <string lang="kr">출력 잭</string>
+        <string lang="pt-br">Jack de Saída</string>
+    </set>
+    <set id="name-jack-input">
+        <string lang="de">Input-Buchse</string>
+        <string lang="en">Input Jack</string>
+        <string lang="fr">Prise d'Entrée</string>
+        <string lang="zh">输入端</string>
+        <string lang="jp">入力ジャック</string>
+        <string lang="ru">Входной разъем</string>
+        <string lang="es">Enchufe de entrada</string>
+        <string lang="kr">입력 잭</string>
+        <string lang="pt-br">Jack de Entrada</string>
+    </set>
+    <set id="jack-status-canbewired">
+        <string lang="de">Kann verkabelt werden</string>
+        <string lang="en">Can be wired</string>
+        <string lang="fr">Peut être cablé</string>
+        <string lang="zh">可连接</string>
+        <string lang="jp">接続可能</string>
+        <string lang="ru">Можно подключить</string>
+        <string lang="es">Puede ser conectado</string>
+        <string lang="kr">연결 가능</string>
+        <string lang="pt-br">Pode ser conectado</string>
+    </set>
+    <set id="jack-status-cannotbewired">
+        <string lang="de">Kann nicht verkabelt werden</string>
+        <string lang="en">Cannot be wired</string>
+        <string lang="fr">Ne peut pas être cablé</string>
+        <string lang="zh">无法连接</string>
+        <string lang="jp">接続不可</string>
+        <string lang="ru">Нельзя подключить</string>
+        <string lang="es">No puede ser conectado</string>
+        <string lang="kr">연결할 수 없음</string>
+        <string lang="pt-br">Não pode ser conectado</string>
+    </set>
+    <set id="jack-status-wiredto">
+        <string lang="de">Verkabelt</string>
+        <string lang="en">Wired</string>
+        <string lang="fr">Cablé</string>
+        <string lang="zh">已连接</string>
+        <string lang="jp">接続済み</string>
+        <string lang="ru">Подключено</string>
+        <string lang="es">Conectado</string>
+        <string lang="kr">연결됨</string>
+        <string lang="pt-br">Conectado</string>
+    </set>
+    <set id="jack-status-wiring">
+        <string lang="de">&lt;color=yellow&gt;Wird gerade verkabelt&lt;/color&gt;</string>
+        <string lang="en">&lt;color=yellow&gt;Currently wiring&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=yellow&gt;En cours de cablage&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=yellow&gt;正在连接&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=yellow&gt;接続中&lt;/color&gt;</string>
+        <string lang="ru">&lt;color=yellow&gt;Подключение...&lt;/color&gt;</string>
+        <string lang="es">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=yellow&gt;연결 중&lt;/color&gt;</string>
+        <string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
+    </set> 
+    <set id="selectionscreen-calltoaction">
+        <string lang="de">Wer bricht auf?</string>
+        <string lang="en">Who is heading out?</string>
+        <string lang="fr">Qui va partir?</string>
+        <string lang="zh">派谁出发？</string>
+        <string lang="jp">誰が出発しますか？</string>
+        <string lang="ru">Кто отправится?</string>
+        <string lang="es">¿Quién va a salir?</string>
+        <string lang="kr">누가 나갈까요?</string>
+        <string lang="pt-br">Quem vai sair?</string>
+    </set>
+    <set id="selectionscreen-characters">
+        <string lang="de">CHARAKTERE</string>
+        <string lang="en">CHARACTERS</string>
+        <string lang="fr">HÉROS</string>
+        <string lang="zh">角色</string>
+        <string lang="jp">キャラクター</string>
+        <string lang="ru">ГЕРОИ</string>
+        <string lang="es">PERSONAJES</string>
+        <string lang="kr">캐릭터</string>
+        <string lang="pt-br">PERSONAGENS</string>
+    </set>
+    <set id="selectionscreen-salvagedmodule">
+        <string lang="de">GEBORGENES MODUL</string>
+        <string lang="en">SALVAGED MODULE</string>
+        <string lang="fr">MODULE SAUVÉ</string>
+        <string lang="zh">保留的模块</string>
+        <string lang="jp">回収されたモジュール</string>
+        <string lang="ru">МОДУЛЬ</string>
+        <string lang="es">MÓDULO RECUPERADO</string>
+        <string lang="kr">회수된 모듈</string>
+        <string lang="pt-br">MÓDULO RECUPERADO</string>
+    </set>
+    <set id="scope-notpartofdemo">
+        <string lang="de">Nicht Teil der Demo</string>
+        <string lang="en">Not part of demo</string>
+        <string lang="fr">Pas part de la démo</string>
+        <string lang="zh">非预览版部分</string>
+        <string lang="jp">デモの一部ではありません</string>
+        <string lang="ru">Не входит в демо</string>
+        <string lang="es">No forma parte de la demo</string>
+        <string lang="kr">데모의 일부가 아닙니다</string>
+        <string lang="pt-br">Não faz parte da demo</string>
     </set>
 </localization>
