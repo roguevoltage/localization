@@ -5,6 +5,12 @@
     <set id="description-module-shieldcell">
         <string lang="en">Whenever the owner receives $damage$, reduce that damage by $1$ and remove $1$ $energy$ charge from it.</string>
     </set>
+    <set id="name-module-regenerationcell">
+        <string lang="en">Regeneration Cell $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-regenerationcell">
+        <string lang="en">At the beginning of the owner's turn, heal them by $1$ and remove $1$ $energy$ charge from it.</string>
+    </set>
     <set id="name-module-coil">
         <string lang="de">Spule $MODIFICATIONVALUE$</string>
         <string lang="en">Coil $MODIFICATIONVALUE$</string>
