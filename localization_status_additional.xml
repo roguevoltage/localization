@@ -102,6 +102,21 @@ by $4$ time steps</string>
         <string lang="kr">랙에서 가져올 수 없습니다</string>
         <string lang="pt-br">Não pode ser retirado do rack</string>
     </set>
+    <set id="name-status-modulelock-whilecharged">
+        <string lang="de">Gesperrt</string>
+        <string lang="en">Locked</string>
+        <string lang="fr">Verrouillé</string>
+        <string lang="zh">锁定</string>
+        <string lang="jp">モジュールロック</string>
+        <string lang="ru">Заблокированный</string>
+        <string lang="es">Bloqueado</string>
+        <string lang="kr">잠긴</string>
+        <string lang="pt-br">Bloqueado</string>
+    </set>
+    <set id="description-status-modulelock-whilecharged">
+        <string lang="en">Cannot be taken from rack
+while holding $energy$</string>
+    </set>
     <set id="name-status-modulevulnerability">
         <string lang="de">Gefährlich</string>
         <string lang="en">Hazardous</string>
