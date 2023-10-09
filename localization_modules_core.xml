@@ -1120,15 +1120,24 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Reduza o efeito com $energy$).</string>
     </set>
     <set id="description-module-toggledupgrader">
-        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
-        <string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.</string>
-        <string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
-        <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
-        <string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
-        <string lang="ru">Применяет постоянный $upgrade$ к модулю типа $passthroughmodule$ на этом стеллаже.</string>
-        <string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este rack.</string>
-        <string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.</string>
-        <string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
+        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.
+Module können nur ein $upgrade$ erhalten.</string>
+        <string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.
+Modules can only receive one $upgrade$.</string>
+        <string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.
+Modules ne peuvent recevoir qu'une seule $upgrade$.</string>
+        <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。
+模块只能获得一个 $upgrade$。</string>
+        <string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。
+モジュールは$upgrade$を1つしか受け取れません。</string>
+        <string lang="ru">Применяет постоянный $upgrade$ к модулю типа $passthroughmodule$ на этом стеллаже.
+Модули могут получить только один $upgrade$.</string>
+        <string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este rack.
+Módulos sólo pueden recibir un $upgrade$.</string>
+        <string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.
+모듈은 $upgrade$를 하나만 받을 수 있습니다.</string>
+        <string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.
+Módulos só podem receber um $upgrade$.</string>
     </set>
     <set id="description-module-toggledbooster-eot">
         <string lang="de">Versieht alle $passthroughmodule$e auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
