@@ -949,16 +949,24 @@ to the owner</string>
         <string lang="pt-br">Não pode ser ativado neste turno</string>
     </set>
     <set id="description-status-modulesalvaged">
-        <string lang="de">Aus einem vorherigen Run hinübergerettet</string>
+        <string lang="de">Aus einem vorherigen Run hinübergerettet.
+Kann nicht dupliziert werden.</string>
         <string lang="en">Salvaged from a previous run.
 Cannot be duplicated.</string>
-        <string lang="fr">Récupéré d'une précédente mission</string>
-        <string lang="zh">前一局保留的模块</string>
-        <string lang="jp">前のミッションから救出された</string>
-        <string lang="ru">Спасен из предыдущего рана</string>
-        <string lang="es">Rescatado de una misión anterior</string>
-        <string lang="kr">이전 런에서 구조되었습니다</string>
-        <string lang="pt-br">Resgatado de uma missão anterior</string>
+        <string lang="fr">Récupéré d'une précédente mission.
+Ne peut pas être dupliqué.</string>
+        <string lang="zh">前一局保留的模块。
+不能被复制。</string>
+        <string lang="jp">前のミッションから救出された。
+複製できません。</string>
+        <string lang="ru">Спасен из предыдущего рана.
+Не может быть дублирован.</string>
+        <string lang="es">Rescatado de una misión anterior.
+No se puede duplicar.</string>
+        <string lang="kr">이전 런에서 구조되었습니다.
+복제할 수 없습니다.</string>
+        <string lang="pt-br">Resgatado de uma missão anterior.
+Não pode ser duplicado.</string>
     </set>
     <set id="description-status-moduleselfencrusting">
         <string lang="de">Erhält nach Aktivierung $crust$</string>
