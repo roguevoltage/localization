@@ -34,9 +34,9 @@
     </set>
     <set id="happening-chargingstation-description">
         <string lang="de">Lädt ein $storagemodule$
-um $2$ $energy$.</string>
+um bis zu $2$ $energy$.</string>
         <string lang="en">Charges a $storagemodule$
-with $2$ $energy$.</string>
+with up to $2$ $energy$.</string>
         <string lang="fr">Charge un $storagemodule$ 
 avec $2$ $energy$.</string>
         <string lang="zh">为$storagemodule$充电$2$ $energy$。</string>
@@ -218,11 +218,11 @@ but somebody must have forgotten to take the potion with them.</string>
         <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-modifierupgrader-description">
-        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthroughmodule$.
+        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthroughmodule$ ohne $upgrade$.
 Verleiht dem Modul ein permanentes $upgrade$.</string>
-        <string lang="en">Only accepts modules of type $passthroughmodule$.
+        <string lang="en">Only accepts modules of type $passthroughmodule$ without $upgrade$.
 Gives a module a permanent $upgrade$.</string>
-        <string lang="fr">N'accepte que les modules de type $b$Module de Relais$/b$.
+        <string lang="fr">N'accepte que les modules de type $passthroughmodule$ sans $upgrade$.
 Donne une $upgrade$ permanent à un module.</string>
         <string lang="zh">只接受类型为$passthroughmodule$的模块。
 给模块一个永久的 $upgrade$。</string>

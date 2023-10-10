@@ -70,6 +70,17 @@ até o próximo turno</string>
         <string lang="kr">랙에서 가져올 수 없습니다.</string>
         <string lang="pt-br">Não pode ser retirado do rack</string>
     </set>
+    <set id="error-module-cannotbeupgradedfurther">
+        <string lang="de">Module können nur ein $upgrade$ erhalten</string>
+        <string lang="en">Modules can only receive one $upgrade$</string>
+        <string lang="fr">Modules ne peuvent recevoir qu'une seule $upgrade$</string>
+        <string lang="zh">模块只能获得一个 $upgrade$</string>
+        <string lang="jp">モジュールは$upgrade$を1つしか受け取れません</string>
+        <string lang="ru">Модули могут получить только один $upgrade$</string>
+        <string lang="es">Módulos sólo pueden recibir un $upgrade$</string>
+        <string lang="kr">모듈은 $upgrade$를 하나만 받을 수 있습니다</string>
+        <string lang="pt-br">Módulos só podem receber um $upgrade$</string>
+    </set>
     <set id="error-racknotwired">
         <string lang="de">Das Rack von $NAME$ ist nicht verkabelt</string>
         <string lang="en">Rack of $NAME$ is not wired</string>
