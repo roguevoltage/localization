@@ -240,8 +240,10 @@
         <string lang="fr">Spore Toxique</string>
     </set>
     <set id="name-skill-plasmaimplode">
-        <string lang="de">Rudelangriff</string>
         <string lang="en">Plasma Implosion $plasmaicon$</string>
+    </set>
+        <set id="name-skill-plasmatograv">
+        <string lang="en">Plasma Conflagration $plasmaicon$$grav+icon$</string>
     </set>
     <set id="name-skill-piledriver-gravadillo">
         <string lang="de">Rammen $crusticon$</string>
@@ -560,6 +562,9 @@ Inflicts a module with $fire$.</string>
     </set>
     <set id="description-skill-plasmaimplode">
         <string lang="en">Removes up to $2$ $plasma$ and deals that much $damage$.</string>
+    </set>
+     <set id="description-skill-plasmatograv">
+        <string lang="en">Removes up to $2$ $plasma$ and inflicts another combatant with that much $grav+$</string>
     </set>
     <set id="description-skill-selfdestruct-goblinbomb">
         <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
