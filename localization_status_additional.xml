@@ -117,6 +117,10 @@ by $4$ time steps</string>
         <string lang="en">Cannot be taken from rack
 while holding $energy$</string>
     </set>
+    <set id="description-status-modulelock-wiredtoviral">
+        <string lang="en">Cannot be taken from rack
+while wired to a threat module</string>
+    </set>
     <set id="name-status-modulevulnerability">
         <string lang="de">Gefährlich</string>
         <string lang="en">Hazardous</string>
