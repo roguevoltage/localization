@@ -197,6 +197,9 @@
     <set id="name-skill-modulespawn-pulsar">
         <string lang="en">Pulsar</string>
     </set>
+    <set id="name-skill-modulespawn-effectorplasmaconverter">
+        <string lang="en">Plasma Converter</string>
+    </set>
     <set id="name-skill-modulespawn-modifierviral">
         <string lang="de">Störmodul</string>
         <string lang="en">Disruption Module</string>
@@ -599,20 +602,20 @@ Inflicts a module with $fire$.</string>
         <string lang="fr">Réduit le module.</string>
     </set>
     <set id="description-skill-modulespawn-burningdebris">
-        <string lang="en">Places a $b$Burning Debris$/b$ module in each of your racks.</string>
+        <string lang="en">Constructs a $b$Burning Debris$/b$ module and forces it onto each of your racks.</string>
     </set>
     <set id="description-skill-modulespawn-pulsar">
-        <string lang="en">Places a $b$Pulsar$/b$ module in one of your racks.</string>
+        <string lang="en">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
     </set>
     <set id="description-skill-modulespawn-modifierviral">
-        <string lang="de">Platziert ein $b$Störmodul$/b$ in eins deiner Racks.</string>
-        <string lang="en">Places a $b$Disruption Module$/b$ in one of your racks.</string>
+        <string lang="en">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-modulespawn-mine">
-        <string lang="de">Platziert ein Minen-Modul in eins deiner Racks.</string>
-        <string lang="en">Places a mine module in one of your racks.</string>
-        <string lang="fr">Place une mine dans un de vos racks.</string>
+        <string lang="en">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
+    </set>
+        <set id="description-skill-modulespawn-effectorplasmaconverter">
+        <string lang="en">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
     </set>
     <set id="description-skill-naturaldisasterspawn-lightning">
         <string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
