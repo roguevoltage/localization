@@ -239,10 +239,13 @@
         <string lang="en">Toxic Spore</string>
         <string lang="fr">Spore Toxique</string>
     </set>
-    <set id="name-skill-plasmaimplode">
-        <string lang="en">Plasma Implosion $plasmaicon$</string>
+    <set id="name-skill-plasmaexplode">
+        <string lang="en">Plasma Explosion $plasmaicon$</string>
     </set>
-        <set id="name-skill-plasmatograv">
+    <set id="name-skill-plasmaimplode">
+        <string lang="en">Plasma Void $plasmaicon$</string>
+    </set>
+    <set id="name-skill-plasmatograv">
         <string lang="en">Plasma Conflagration $plasmaicon$$grav+icon$</string>
     </set>
     <set id="name-skill-piledriver-gravadillo">
@@ -560,11 +563,14 @@ Inflicts a module with $fire$.</string>
         <string lang="en">Deals $1damage$ to an enemy and inflicts a module with $selfencrusting$.</string>
         <string lang="fr">Inflige $1damage$ à un ennemi et un module avec $selfencrusting$.</string>
     </set>
-    <set id="description-skill-plasmaimplode">
+    <set id="description-skill-plasmaexplode">
         <string lang="en">Removes up to $2$ $plasma$ and deals that much $damage$.</string>
     </set>
+    <set id="description-skill-plasmaimplode">
+        <string lang="en">If $plasma$ is $0$, deal $2$ $damage$ to target enemy.</string>
+    </set>
      <set id="description-skill-plasmatograv">
-        <string lang="en">Removes up to $2$ $plasma$ and inflicts another combatant with that much $grav+$</string>
+        <string lang="en">Removes up to $3$ $plasma$ and inflicts another combatant with that much $grav+$</string>
     </set>
     <set id="description-skill-selfdestruct-goblinbomb">
         <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
