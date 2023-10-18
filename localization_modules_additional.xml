@@ -1,14 +1,14 @@
 <localization>
-    <set id="name-module-shieldcell">
-        <string lang="en">Shield Cell $MODIFICATIONVALUE$</string>
+    <set id="name-module-shieldvault">
+        <string lang="en">Shield Vault $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-shieldcell">
+    <set id="description-module-shieldvault">
         <string lang="en">Whenever the owner receives $damage$, reduce that damage by $1$ and remove $1$ $energy$ charge from it.</string>
     </set>
-    <set id="name-module-regenerationcell">
-        <string lang="en">Regeneration Cell $MODIFICATIONVALUE$</string>
+    <set id="name-module-regenerationvault">
+        <string lang="en">Regenerator $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-regenerationcell">
+    <set id="description-module-regenerationvault">
         <string lang="en">At the beginning of the owner's turn, heal them by $1$ and remove $1$ stored $energy$.</string>
     </set>
     <set id="name-module-coil">
