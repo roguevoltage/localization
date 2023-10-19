@@ -246,7 +246,10 @@
         <string lang="en">Plasma Void $plasmaicon$</string>
     </set>
     <set id="name-skill-plasmatograv">
-        <string lang="en">Plasma Conflagration $plasmaicon$$grav+icon$</string>
+        <string lang="en">Plasma to Grav. $plasmaicon$$grav+icon$</string>
+    </set>
+    <set id="name-skill-globalplasmadissipation">
+        <string lang="en">Antiplasma $-2$ $plasmaicon$</string>
     </set>
     <set id="name-skill-piledriver-gravadillo">
         <string lang="de">Rammen $crusticon$</string>
@@ -520,7 +523,7 @@ grants an existing egg $1$ $might$.</string>
     <set id="description-skill-gravneutralize-self-geothermaldrone">
         <string lang="de">Entfernt bis zu $grav+1$ von sich selbst.
 Versieht ein Module mit $fire$.</string>
-        <string lang="en">Removes up to $grav+1$ from itself.
+        <string lang="en">May remove $grav+1$ from itself.
 Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
     </set>
@@ -571,6 +574,9 @@ Inflicts a module with $fire$.</string>
     </set>
      <set id="description-skill-plasmatograv">
         <string lang="en">Removes up to $3$ $plasma$ and inflicts another combatant with that much $grav+$</string>
+    </set>
+    <set id="description-skill-globalplasmadissipation">
+        <string lang="en">Removes up to $2$ $plasma$.</string>
     </set>
     <set id="description-skill-selfdestruct-goblinbomb">
         <string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>

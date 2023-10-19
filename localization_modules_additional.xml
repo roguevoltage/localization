@@ -19,11 +19,12 @@
         <string lang="jp">コイル $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-coil">
-        <string lang="de">Erhält $turbo$ bis zum Ende des Kampfes, immer wenn sie $energy$ erhält.</string>
-        <string lang="en">Receives $turbo$ until the end of combat whenever it receives $energy$.</string>
-        <string lang="fr">Reçoit $turbo$ jusqu'à la fin du combat chaque fois qu'il reçoit $energy$.</string>
-        <string lang="zh">每当获得 $energy$ 时，获得 $turbo$ 直到战斗结束。</string>
-        <string lang="jp">エネルギーを受け取るたびに、戦闘終了まで$turbo$を受け取ります。</string>
+        <string lang="de">Erhält $turbo$, immer wenn sie $energy$ erhält.</string>
+        <string lang="en">Receives $turbo$
+whenever it receives $energy$.</string>
+        <string lang="fr">Reçoit $turbo$ chaque fois qu'il reçoit $energy$.</string>
+        <string lang="zh">每当获得 $energy$ 时，获得 $turbo$。</string>
+        <string lang="jp">$energy$を受け取るたびに、$turbo$を受け取ります。</string>
     </set>
     <set id="name-module-burningdebris">
         <string lang="en">Burning Debris</string>
