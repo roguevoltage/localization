@@ -1120,8 +1120,9 @@ $b$$CHARGEVALUE$$/b$ $energy$.</string>
 (Reduza o efeito com $energy$).</string>
     </set>
     <set id="description-module-toggledupgrader">
-        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
-        <string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.</string>
+        <string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.
+Module können nur ein $upgrade$ erhalten.</string>
+        <string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack that does not already have $upgrade$.</string>
         <string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
         <string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
