@@ -483,27 +483,27 @@
         <string lang="kr">플라즈마 폭발</string>
         <string lang="pt-br">Creptação de Plasma</string>
     </set>
-    <set id="name-skill-modulepollution-slime">
-        <string lang="de">Verschleimen $pollutionicon$</string>
-        <string lang="en">Toxic Ooze $pollutionicon$</string>
-        <string lang="fr">Glaire Toxique $pollutionicon$</string>
-        <string lang="zh">剧毒粘液 $pollutionicon$</string>
-        <string lang="jp">有毒な粘液 $pollutionicon$</string>
-        <string lang="ru">Токсичная Слизь $pollutionicon$</string>
-        <string lang="es">Baba Tóxica $pollutionicon$</string>
-        <string lang="kr">독성 점액질 $pollutionicon$</string>
-        <string lang="pt-br">Muco Tóxico $pollutionicon$</string>
+    <set id="name-skill-modulegravrecoil-slime">
+        <string lang="de">Verschleimen $gravrecoilicon$</string>
+        <string lang="en">Slime $gravrecoilicon$</string>
+        <string lang="fr">Bave $gravrecoilicon$</string>
+        <string lang="zh">粘液 $gravrecoilicon$</string>
+        <string lang="jp">粘液 $gravrecoilicon$</string>
+        <string lang="ru">Слизь $gravrecoilicon$</string>
+        <string lang="es">Baba $gravrecoilicon$</string>
+        <string lang="kr">점액질 $gravrecoilicon$</string>
+        <string lang="pt-br">Baba $gravrecoilicon$</string>
     </set>
     <set id="name-skill-modulegravrecoil-bosscrocodile">
-        <string lang="de">Rohe Gewalt</string>
-        <string lang="en">Brute Force</string>
-        <string lang="fr">Force Brutale</string>
-        <string lang="zh">蛮力撕咬</string>
-        <string lang="jp">野蛮力</string>
-        <string lang="ru">Грубая Сила</string>
-        <string lang="es">Fuerza Bruta</string>
-        <string lang="kr">폭력</string>
-        <string lang="pt-br">Força Bruta</string>
+        <string lang="de">Rohe Gewalt $gravrecoilicon$</string>
+        <string lang="en">Brute Force $gravrecoilicon$</string>
+        <string lang="fr">Force Brutale $gravrecoilicon$</string>
+        <string lang="zh">蛮力撕咬 $gravrecoilicon$</string>
+        <string lang="jp">野蛮力 $gravrecoilicon$</string>
+        <string lang="ru">Грубая Сила $gravrecoilicon$</string>
+        <string lang="es">Fuerza Bruta $gravrecoilicon$</string>
+        <string lang="kr">폭력 $gravrecoilicon$</string>
+        <string lang="pt-br">Força Bruta $gravrecoilicon$</string>
     </set>
     <set id="name-skill-modulespawn-timebomb">
         <string lang="de">Zeitbombe</string>
@@ -1033,16 +1033,16 @@ and inflicts $grav+2$</string>
         <string lang="kr">랙에 있는 모듈을 활성화합니다.</string>
         <string lang="pt-br">Ativa os módulos no rack</string>
     </set>
-    <set id="description-skill-modulepollution-slime">
-        <string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $pollution$.</string>
-        <string lang="en">Deals $1damage$ to an enemy and inflicts one module with $pollution$.</string>
-        <string lang="fr">Inflige $1damage$ à un ennemi et applique $pollution$ à un module.</string>
-        <string lang="zh">对一个敌人造成 $1damage$ 并给一个模块施加 $pollution$</string>
-        <string lang="jp">敵に $1damage$ を与え、モジュールに $pollution$ を与える</string>
-        <string lang="ru">Наносит $1damage$ врагу и накладывает $pollution$ на модуль.</string>
-        <string lang="es">Inflige a un enemigo $1damage$ y le aplica un módulo con $pollution$</string>
-        <string lang="kr">적에게 $1damage$ 를 적용하고 모듈에 $pollution$ 를 적용합니다.</string>
-        <string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $pollution$</string>
+    <set id="description-skill-modulegravrecoil-slime">
+        <string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and inflicts one module with $gravrecoil$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et applique $gravrecoil$ à un module.</string>
+        <string lang="zh">对一个敌人造成 $1damage$ 并给一个模块施加 $gravrecoil$</string>
+        <string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
+        <string lang="ru">Наносит $1damage$ врагу и накладывает $gravrecoil$ на модуль.</string>
+        <string lang="es">Inflige a un enemigo $1damage$ y le aplica un módulo con $gravrecoil$</string>
+        <string lang="kr">적에게 $1damage$ 를 적용하고 모듈에 $gravrecoil$ 를 적용합니다.</string>
+        <string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $gravrecoil$</string>
     </set>
     <set id="description-skill-modulegravrecoil-bosscrocodile">
         <string lang="de">Fügt allen Gegnern $1damage$ zu und versieht je ein Modul mit $gravrecoil$.</string>
