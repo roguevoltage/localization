@@ -368,13 +368,13 @@ racks de jogadores</string>
     <set id="ui-startnewrun">
         <string lang="de">Neuen Run
 Beginnen</string>
-        <string lang="en">Play 
+        <string lang="en">Play
 Another Run</string>
-        <string lang="fr">Commencer 
+        <string lang="fr">Commencer
 Nouvelle Partie</string>
         <string lang="zh">开始新的游戏</string>
         <string lang="jp">新しいゲームを開始する</string>
-        <string lang="ru">Начать 
+        <string lang="ru">Начать
 новую игру</string>
         <string lang="es">Jugar otra
 partida</string>
@@ -383,7 +383,7 @@ partida</string>
 partida</string>
     </set>
     <set id="ui-backtomenu">
-        <string lang="de">Zurück zum 
+        <string lang="de">Zurück zum
 Hauptmenü</string>
         <string lang="en">Back to
 Menu</string>
@@ -487,7 +487,7 @@ nant</string>
         <string lang="es">nivel</string>
         <string lang="kr">스테이지</string>
         <string lang="pt-br">estagio</string>
-    </set>  
+    </set>
     <set id="ui-screenselection-module">
         <string lang="de">module</string>
         <string lang="en">modules</string>
@@ -516,7 +516,7 @@ springen
 (+$SKIPBONUS$ $plasmaicon$)</string>
         <string lang="en">Skip
 (+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="fr">Passer 
+        <string lang="fr">Passer
 (+$SKIPBONUS$ $plasmaicon$)</string>
         <string lang="zh">跳过
 (+$SKIPBONUS$ $plasmaicon$)</string>
@@ -533,11 +533,11 @@ springen
     </set>
     <set id="ui-loot-reroll">
         <string lang="de">Neu
-Auswürfeln 
+Auswürfeln
 (-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="en">Reroll 
+        <string lang="en">Reroll
 (-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="fr">Relancer 
+        <string lang="fr">Relancer
 (-$REROLLCOST$ $plasmaicon$)</string>
         <string lang="zh">重新生成
 (-$REROLLCOST$ $plasmaicon$)</string>
@@ -859,15 +859,20 @@ Se você quiser contribuir, junte-se ao nosso servidor do Discord:</string>
         <string lang="pt-br">Modo Big Brain</string>
     </set>
     <set id="ui-settings-bigbrainmode-description">
-        <string lang="de">Sensormodule verlieren Energie nicht am Ende des Kampfes sondern am Ende des Zuges.</string>
-        <string lang="en">Sensor modules lose energy not at the end of combat but at the end of the turn.</string>
-        <string lang="fr">Les modules de capteurs ne perdent pas d'énergie à la fin du combat mais à la fin du tour.</string>
+        <string lang="de">Sensormodule verlieren Energie nicht am Ende des Kampfes sondern am Ende
+des Zuges.</string>
+        <string lang="en">Sensor modules lose energy not at the end of combat but at the end of the
+turn.</string>
+        <string lang="fr">Les modules de capteurs ne perdent pas d'énergie à la fin du combat mais à
+la fin du tour.</string>
         <string lang="zh">传感器模块不会在战斗结束时失去能量，而是在回合结束时失去能量。</string>
         <string lang="jp">センサーモジュールは戦闘の終わりではなくターンの終わりにエネルギーを失います。</string>
         <string lang="ru">Сенсорные модули теряют энергию не в конце боя, а в конце хода.</string>
-        <string lang="es">Los módulos de sensor pierden energía no al final de la pelea sino al final del turno.</string>
+        <string lang="es">Los módulos de sensor pierden energía no al final de la pelea sino al
+final del turno.</string>
         <string lang="kr">센서 모듈은 전투가 끝나는 것이 아니라 턴이 끝날 때 에너지를 잃습니다.</string>
-        <string lang="pt-br">Os módulos de sensor perdem energia não no final da luta, mas no final do turno.</string>
+        <string lang="pt-br">Os módulos de sensor perdem energia não no final da luta, mas no final
+do turno.</string>
     </set>
     <set id="ui-settings-datacollection">
         <string lang="de">Statistiken Bereitstellen</string>
@@ -881,63 +886,49 @@ Se você quiser contribuir, junte-se ao nosso servidor do Discord:</string>
         <string lang="pt-br">Fornecer estatísticas</string>
     </set>
     <set id="ui-settings-datacollection-description">
-        <string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit zu informieren.</string>
-        <string lang="en">Support development by transmitting anonymous run statistics. This data will only be used to inform questions of game balancing and difficulty.</string>
-        <string lang="fr">Envoi de statistiques anonymes de la partie pour aider au développement. Cettes données seront uniquement utilisées pour aider à l'équilibrage et la difficulté du jeu.</string>
+        <string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs
+bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit
+zu informieren.</string>
+        <string lang="en">Support development by transmitting anonymous run statistics. This data
+will only be used to inform questions of game balancing and difficulty.</string>
+        <string lang="fr">Envoi de statistiques anonymes de la partie pour aider au développement.
+Cettes données seront uniquement utilisées pour aider à l'équilibrage et la difficulté
+du jeu.</string>
         <string lang="zh">通过发送匿名的游戏数据来支持开发。你的数据只会用于平衡和难度的调整。</string>
         <string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
-        <string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти данные будут использоваться только для информирования вопросов балансировки игры и сложности.</string>
-        <string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida. Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad del juego.</string>
-        <string lang="kr">익명의 게임 통계를 전송하여 개발을 지원하십시오. 이 데이터는 게임 균형과 난이도에 대한 질문에 대한 정보를 제공하는 데만 사용됩니다.</string>
-        <string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run. Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do jogo.</string>
+        <string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти
+данные будут использоваться только для информирования вопросов балансировки игры и
+сложности.</string>
+        <string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida.
+Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad
+del juego.</string>
+        <string lang="kr">익명의 게임 통계를 전송하여 개발을 지원하십시오. 이 데이터는 게임 균형과 난이도에 대한 질문에 대한 정보를 제공하는 데만
+사용됩니다.</string>
+        <string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run.
+Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do
+jogo.</string>
     </set>
     <set id="ui-settings-cleardata">
-        <string lang="de">Fortschritt zurücksetzen</string>
-        <string lang="en">Clear all progress</string>
-        <string lang="fr">Effacer tout le progrès</string>
-        <string lang="zh">清除所有进度</string>
-        <string lang="jp">すべての進捗をクリア</string>
-        <string lang="ru">Очистить весь прогресс</string>
-        <string lang="es">Borrar todo el progreso</string>
-        <string lang="kr">모든 진행 상황 지우기</string>
-        <string lang="pt-br">Limpar todo o progresso</string>
+        <string lang="de">Alle Daten löschen</string>
+        <string lang="en">Clear all data</string>
+        <string lang="fr">Effacer toutes les données</string>
+        <string lang="zh">清除所有数据</string>
+        <string lang="jp">すべてのデータを削除</string>
+        <string lang="ru">Очистить все данные</string>
+        <string lang="es">Borrar todos los datos</string>
+        <string lang="kr">모든 데이터 지우기</string>
+        <string lang="pt-br">Limpar todos os dados</string>
     </set>
     <set id="ui-settings-cleardata-description">
-        <string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig.
-Achtung: Die Daten können nicht wiederhergestellt werden.</string>
-        <string lang="en">Permanently removes savegame, progression and preferences.
-Careful: Data cannot be retrieved.</string>
-        <string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences.
-Attention: les données ne peuvent pas être récupérées.</string>
-        <string lang="zh">永久清除存档、进度和设置。
-警告：删除后无法恢复。</string>
-        <string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。
-注意：データは復元できません。</string>
-        <string lang="ru">Окончательно удаляет сохранение, прогресс и предпочтения.
-Осторожно: данные не могут быть восстановлены.</string>
-        <string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias.
-Cuidado: los datos no se pueden recuperar.</string>
-        <string lang="kr">저장된 게임, 진행 상황 및 기본 설정을 영구적으로 제거합니다.
-주의: 데이터를 검색할 수 없습니다.</string>
-        <string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências.
-Cuidado: os dados não podem ser recuperados.</string>
-    </set>
-    <set id="ui-settings-cleardata-clear">
-        <string lang="de">Permanent
-Löschen</string>
-        <string lang="en">Permanently 
-Clear</string>
-        <string lang="fr">Effacer</string>
-        <string lang="zh">永久清除</string>
-        <string lang="jp">完全にクリア</string>
-        <string lang="ru">Окончательно
-Очистить</string>
-        <string lang="es">Eliminar
-permanentemente</string>
-        <string lang="kr">영구적으로
-지우기</string>
-        <string lang="pt-br">Limpar
-permanentemente</string>
+        <string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig. Achtung: Die Daten können nicht wiederhergestellt werden.</string>
+        <string lang="en">Permanently removes savegame, progression and preferences. Careful: Data cannot be retrieved.</string>
+        <string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences. Attention: les données ne peuvent pas être récupérées.</string>
+        <string lang="zh">永久清除存档、进度和设置。警告：删除后无法恢复。</string>
+        <string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。注意：データは復元できません。</string>
+        <string lang="ru">Окончательно удаляет сохранение, прогресс и предпочтения. Осторожно: данные не могут быть восстановлены.</string>
+        <string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias. Cuidado: los datos no se pueden recuperar.</string>
+        <string lang="kr">저장된 게임, 진행 상황 및 기본 설정을 영구적으로 제거합니다. 주의: 데이터를 검색할 수 없습니다.</string>
+        <string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências. Cuidado: os dados não podem ser recuperados.</string>
     </set>
     <set id="ui-settings-saveandexit">
         <string lang="de">Speichern &amp; Run Beenden</string>
@@ -962,26 +953,26 @@ permanentemente</string>
         <string lang="pt-br">Abandonar o run</string>
     </set>
     <set id="ui-loot-hint-single">
-        <string lang="de">Ziehe das Loot-Modul ganz hinüber in dein Rack</string>
-        <string lang="en">Drag the loot module all the way over into your rack</string>
-        <string lang="fr">Glissez le module de butin tout le chemin dans votre rack</string>
-        <string lang="zh">将战利品模块拖到你的机架上</string>
-        <string lang="jp">戦利品モジュールをラックにドラッグ</string>
-        <string lang="ru">Перетащите модуль добычи на свою стойку</string>
-        <string lang="es">Arrastra el módulo de botín hasta tu rack</string>
-        <string lang="kr">전리품 모듈을 랙에 드래그</string>
-        <string lang="pt-br">Arraste o módulo de loot até o seu rack</string>
+        <string lang="de">Wähle das Loot-Modul aus, um es in dein Rack zu nehmen</string>
+        <string lang="en">Select the loot module to take it into your rack</string>
+        <string lang="fr">Sélectionnez le module de butin pour le prendre dans votre rack</string>
+        <string lang="zh">选择战利品模块并将其放入你的架子</string>
+        <string lang="jp">戦利品モジュールを選択してラックに入れます</string>
+        <string lang="ru">Выберите модуль добычи, чтобы взять его в свой стеллаж</string>
+        <string lang="es">Selecciona el módulo de botín para llevarlo a tu rack</string>
+        <string lang="kr">전리품 모듈을 선택하여 랙에 넣으십시오</string>
+        <string lang="pt-br">Selecione o módulo de loot para colocá-lo em seu rack</string>
     </set>
     <set id="ui-loot-hint-multiple">
-        <string lang="de">Ziehe das Modul deiner Wahl in dein Rack</string>
-        <string lang="en">Drag the module of your choice into your rack</string>
-        <string lang="fr">Glissez le module de votre choix dans votre rack</string>
-        <string lang="zh">将你的选择拖入机架</string>
-        <string lang="jp">選択したモジュールをラックにドラッグ</string>
-        <string lang="ru">Перетащите выбранный вами модуль на свою стойку</string>
-        <string lang="es">Arrastra el módulo que prefieras a tu rack</string>
-        <string lang="kr">선택한 모듈을 랙에 드래그</string>
-        <string lang="pt-br">Arraste o módulo de sua escolha para o seu rack</string>
+        <string lang="de">Wähle ein Modul als Belohnung</string>
+        <string lang="en">Choose one module as your reward</string>
+        <string lang="fr">Choisissez un module comme récompense</string>
+        <string lang="zh">选择一个模块作为你的奖励</string>
+        <string lang="jp">報酬として1つのモジュールを選択します</string>
+        <string lang="ru">Выберите один модуль в качестве награды</string>
+        <string lang="es">Elige un módulo como tu recompensa</string>
+        <string lang="kr">보상으로 하나의 모듈을 선택하십시오</string>
+        <string lang="pt-br">Escolha um módulo como sua recompensa</string>
     </set>
     <set id="ui-loot-selection-finished">
         <string lang="de">Belohnung aufgesammelt</string>
@@ -1019,7 +1010,7 @@ permanentemente</string>
     <set id="selectionscreen-subtitle">
         <string lang="de">Wähle ein Team aus
 zwei Charakteren</string>
-        <string lang="en">Select a squad of 
+        <string lang="en">Select a squad of
 two characters</string>
         <string lang="fr">Choisissez une équipe de
 deux héros</string>
@@ -1034,11 +1025,11 @@ dos personajes</string>
 dois personagens</string>
     </set>
     <set id="selectionscreen-button">
-        <string lang="de">Beginnt euer 
+        <string lang="de">Beginnt euer
 Abenteuer!</string>
-        <string lang="en">Start the 
+        <string lang="en">Start the
 Adventure!</string>
-        <string lang="fr">Démarrez 
+        <string lang="fr">Démarrez
 votre aventure!</string>
         <string lang="zh">开始冒险！</string>
         <string lang="jp">冒険を開始！</string>
@@ -1374,7 +1365,7 @@ Vencer batalha</string>
         <string lang="es">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
         <string lang="kr">&lt;color=yellow&gt;연결 중&lt;/color&gt;</string>
         <string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
-    </set> 
+    </set>
     <set id="selectionscreen-calltoaction">
         <string lang="de">Wer bricht auf?</string>
         <string lang="en">Who is heading out?</string>

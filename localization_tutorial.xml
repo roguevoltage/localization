@@ -228,24 +228,24 @@ Quelle trouvaille incroyable!</string>
 Que descoberta incrível!</string>
     </set>
     <set id="tutorialwindow-potionfactory-description">
-        <string lang="de">Ein voll funktionsfähiges $b$Blaster-Modul$/b$!
-Jackson, es ist endlich an der Zeit, dass du deine eigene Waffe bekommst!</string>
-        <string lang="en">A $b$Blaster Module$/b$! And it seems to work just fine.
-Jackson, I think it's finally time that you have a weapon of your own!</string>
-        <string lang="fr">Un module $b$Blaster$/b$! Et il semble fonctionner parfaitement.
-Jackson, je pense que c'est enfin le moment où tu auras une arme à toi!</string>
-        <string lang="zh">$b$爆能枪模块$/b$！ 它还能用。
-杰克逊，现在你可以有自己的武器了！</string>
-        <string lang="jp">$b$ブラスターモジュール$/b$！ そして、それはまさにうまく機能しているようです。
-ジャクソン、あなた自身の武器を持つのは、やっとのことです！</string>
-        <string lang="ru">$b$Бластерный модуль$/b$! И он, кажется, работает нормально.
-Джексон, я думаю, что пришло время, когда у тебя будет свое собственное оружие!</string>
-        <string lang="es">¡Un $b$Blaster$/b$! Y parece que funciona muy bien.
-Jackson, creo que finalmente es el momento de que tengas un arma propia.</string>
-        <string lang="kr">$b$블래스터 모듈$/b$! 그리고 잘 작동하는 것 같습니다.
+        <string lang="de">Ein $b$Blaster-Modul$/b$ mit &lt;color=#7272FF&gt;blauem&lt;/color&gt; Input!
+$b$Jackson$/b$, es ist endlich an der Zeit, dass du deine eigene Waffe bekommst!</string>
+        <string lang="en">A $b$Blaster Module$/b$ with a &lt;color=#7272FF&gt;blue&lt;/color&gt; input!
+$b$Jackson$/b$, I think it's finally time that you have a weapon of your own!</string>
+        <string lang="fr">Un module $b$Blaster$/b$ avec une entrée &lt;color=#7272FF&gt;bleue&lt;/color&gt;!
+$b$Jackson$/b$, je pense que c'est enfin le moment où tu auras une arme à toi!</string>
+        <string lang="zh">$b$爆能枪模块$/b$的输入端是&lt;color=#7272FF&gt;蓝色&lt;/color&gt;的！
+$b$杰克逊$/b$，现在你可以有自己的武器了！</string>
+        <string lang="jp">$b$ブラスターモジュール$/b$の入力は&lt;color=#7272FF&gt;青&lt;/color&gt;です！
+$b$ジャクソン$/b$、あなた自身の武器を持つのは、やっとのことです！</string>
+        <string lang="ru">$b$Бластерный модуль$/b$ с входом &lt;color=#7272FF&gt;синего&lt;/color&gt; цвета!
+$b$Джексон$/b$, я думаю, что пришло время, когда у тебя будет свое собственное оружие!</string>
+        <string lang="es">¡Un $b$Blaster$/b$ con una entrada &lt;color=#7272FF&gt;azul&lt;/color&gt;!
+$b$Jackson$/b$, creo que finalmente es el momento de que tengas un arma propia.</string>
+        <string lang="kr">$b$블래스터 모듈$/b$ 입력이 &lt;color=#7272FF&gt;파란색&lt;/color&gt;입니다!
 잭슨, 당신이 자신의 무기를 가질 때가 된 것 같습니다!</string>
-        <string lang="pt-br">Um $b$Módulo de Blaster$/b$! E parece que funciona muito bem.
-Jackson, acho que finalmente é hora de você ter uma arma própria.</string>
+        <string lang="pt-br">Um $b$Módulo de Blaster$/b$ com uma entrada &lt;color=#7272FF&gt;azul&lt;/color&gt;!
+$b$Jackson$/b$, acho que finalmente é hora de você ter uma arma própria.</string>
     </set>
     <set id="tutorialwindow-bossshroom-description">
         <string lang="de">Die starke Gravioaktivität in diesen Sümpfen muss von diesem gruseligen Riesenpilz ausgehen.
@@ -398,40 +398,60 @@ Então você pode conectar tanto o $b$Decelerator$/b$ quanto a $b$Fábrica de Po
     <set id="happening-tutorial-slopperjacksonjoin-speech">
         <string lang="de">Bruderherz! Warte!
 Du hast dein $blademodule$ vergessen! Hast du nicht gesagt, es sei deine wichtigste Waffe?
-$b$Wechsle zu meinem Rack$/b$ und ziehe es zuerst in unseren geteilten Rucksack und dann 'rüber in dein eigenes Rack.
-Lass uns diese Monster gemeinsam erledigen!</string>
+Lass mich dir helfen, diese Monster zu erledigen!</string>
         <string lang="en">Brother! Wait!
 You forgot your $blademodule$! Remember how you said it's your most important weapon?
-$b$Switch over to my rack$/b$ and drag it into our shared backpack, then drag it over into your own rack.
-Let's get rid of those monsters together!</string>
+Let me help you get rid of these monsters!</string>
         <string lang="fr">Frère! Attends!
 Tu as oublié ton $blademodule$! Tu ne m'avais pas dit que c'était ton arme la plus importante?
-$b$Passe à mon rack$/b$ et déplace-le dans notre sac à dos partagé, puis dans ton propre rack.
-Débarrassons-nous de ces monstres ensemble!</string>
+Laisse-moi t'aider à te débarrasser de ces monstres!</string>
         <string lang="zh">兄弟！等等！
 你忘记了你的 $blademodule$！ 还记得你说过这是你最重要的武器嗎？
-$b$切换到我的机架$/b$ 并将其拖入背包，然后把他拖到你的机架上。
-讓我們一起擺脫那些怪物吧！</string>
+让我帮你摆脱这些怪物！</string>
         <string lang="jp">兄弟！ 待って！
 あなたはあなたの $blademodule$ を忘れてしまった！ あなたはそれがあなたの最も重要な武器だと言ったことを覚えていますか？
-$b$ 私のラックに切り替え $/b$ 、そしてそれをバックパックにドラッグし、それをあなたのラックにドラッグします。
-一緒にモンスターを退治しましょう！</string>
+これらのモンスターを倒すのを手伝ってあげましょう！</string>
         <string lang="ru">Брат! Подожди!
 Ты забыл свой $blademodule$! Помнишь, как ты сказал, что это твое самое важное оружие?
-$b$Переключись на мою стойку$/b$ и перетащи его в рюкзак, затем перетащи его к себе.
-Давайте одолеем этих монстров вместе!</string>
+Позволь мне помочь тебе избавиться от этих монстров!</string>
         <string lang="es">¡Hermano! ¡Espera!
 ¡Olvidaste tu $blademodule$! ¿Recuerdas cómo dijiste que es tu arma más importante?
-$b$Cambia a mi estante$/b$ y arrástralo a nuestra mochila compartida, luego arrástralo a tu propio estante.
-¡Deshagámonos de esos monstruos juntos!</string>
+¡Déjame ayudarte a deshacerte de estos monstruos!</string>
         <string lang="kr">형제! 기다려!
 $blademodule$을 잊었어! 그게 네가 가장 중요한 무기라고 말했던 걸 기억하니?
-$b$내 랙으로 전환$/b$하고 배낭에 드래그 한 다음 너의 것으로 드래그하십시오.
-우리는 함께 그 괴물들을 없애자!</string>
+이 괴물들을 없애는 데 도움을 줄게!</string>
         <string lang="pt-br">Irmão! Espere!
 Você esqueceu seu $blademodule$! Lembra como você disse que é sua arma mais importante?
-$b$Mude para o meu rack$/b$ e arraste-o para a nossa mochila compartilhada, depois arraste-o para o seu próprio rack.
-Vamos nos livrar desses monstros juntos!</string>
+Deixe-me ajudá-lo a se livrar desses monstros!</string>
+    </set>
+    <set id="happening-tutorial-slopperjacksonjoin-instructions">
+        <string lang="de">Wechsle hinüber zu $slopperjackson$s rack.
+Ziehe das $blademodule$ in den geteilten Rucksack.
+Wechsle zurück und gib es $slopperjohnson$.</string>
+        <string lang="en">Switch over to $slopperjackson$'s rack.
+Drag the $blademodule$ into the shared backpack.
+Switch back and pass it to $slopperjohnson$.</string>
+        <string lang="fr">Passez à la rack de $slopperjackson$.
+Faites glisser le $blademodule$ dans le sac à dos partagé.
+Revenez en arrière et passez-le à $slopperjohnson$.</string>
+        <string lang="zh">切换到 $slopperjackson$ 的架子。
+将 $blademodule$ 拖到共享背包中。
+切换回来并将其传递给 $slopperjohnson$。</string>
+        <string lang="jp">$slopperjackson$ のラックに切り替えます。
+$blademodule$ を共有バックパックにドラッグします。
+戻って $slopperjohnson$ に渡します。</string>
+        <string lang="ru">Переключитесь на стойку $slopperjackson$.
+Перетащите $blademodule$ в общий рюкзак.
+Переключитесь обратно и передайте его $slopperjohnson$.</string>
+        <string lang="es">Cambia a la estantería de $slopperjackson$.
+Arrastra el $blademodule$ a la mochila compartida.
+Cambia de nuevo y pásalo a $slopperjohnson$.</string>
+        <string lang="kr">$slopperjackson$의 랙으로 전환하십시오.
+$blademodule$을 공유 배낭에 드래그하십시오.
+다시 전환하여 $slopperjohnson$에게 전달하십시오.</string>
+        <string lang="pt-br">Mude para o rack de $slopperjackson$.
+Arraste o $blademodule$ para a mochila compartilhada.
+Volte e passe para $slopperjohnson$.</string>
     </set>
     <set id="tutorialwindow-sensors-title">
         <string lang="de">Sensoren Auslösen</string>
@@ -664,8 +684,8 @@ Os combatentes recebem metade dele como $damage$ (arredondado para cima).</strin
         <string lang="pt-br">Avaliação da Batalha</string>
     </set>
     <set id="tutorialwindow-battlerating-description1">
-        <string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute sein. Der Bewertungsbalken zeigt an, wie viel Zeit dir pro Stufe bleibt.</string>
-        <string lang="en">The earlier you end the battle, the better your loot will be. The rating bar shows how much time you have left per rating.</string>
+        <string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute ausfallen. Der Bewertungsbalken zeigt an, wie viel Zeit dir pro Stufe bleibt.</string>
+        <string lang="en">The earlier you end the battle, the better loot you will receive. The rating bar shows how much time you have left per rating.</string>
         <string lang="fr">Plus tôt vous terminez la bataille, meilleur sera votre butin. La barre indique le temps qui vous reste par évaluation.</string>
         <string lang="zh">战斗结束得越快，获得的战利品模块就会越好。时间轴上方的评级条显示了获取评价的要求。</string>
         <string lang="jp">戦闘を早く終了すればするほど、戦利品は良くなります。評価バーは、残り時間を示しています。</string>
