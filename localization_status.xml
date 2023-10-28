@@ -927,7 +927,7 @@ to the owner</string>
         <string lang="pt-br">Não pode ser ativado neste turno</string>
     </set>
     <set id="description-status-modulesalvaged">
-        <string lang="de">Aus einem vorherigen Run hinübergerettet.
+        <string lang="de">Aus einem vorherigen Run geborgen.
 Kann nicht dupliziert werden.</string>
         <string lang="en">Salvaged from a previous run.
 Cannot be duplicated.</string>
@@ -1184,5 +1184,27 @@ with $grav+2$</string>
         <string lang="es">No puede ser tomado del rack</string>
         <string lang="kr">랙에서 가져올 수 없습니다</string>
         <string lang="pt-br">Não pode ser retirado do rack</string>
+    </set>
+    <set id="name-status-moduleconstructed">
+        <string lang="de">Hergestellt</string>
+        <string lang="en">Constructed</string>
+        <string lang="fr">Fabriqué</string>
+        <string lang="zh">制造</string>
+        <string lang="jp">製造</string>
+        <string lang="ru">Создан</string>
+        <string lang="es">Construido</string>
+        <string lang="kr">제작</string>
+        <string lang="pt-br">Construído</string>
+    </set>
+    <set id="description-status-moduleconstructed">
+        <string lang="de">Kann nicht verkauft werden</string>
+        <string lang="en">Cannot be sold</string>
+        <string lang="fr">Ne peut pas être vendu</string>
+        <string lang="zh">不能出售</string>
+        <string lang="jp">売却できません</string>
+        <string lang="ru">Нельзя продать</string>
+        <string lang="es">No puede ser vendido</string>
+        <string lang="kr">판매할 수 없습니다</string>
+        <string lang="pt-br">Não pode ser vendido</string>
     </set>
 </localization>
