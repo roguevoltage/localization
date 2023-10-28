@@ -268,10 +268,26 @@
         <string lang="pt-br">Único</string>
     </set>
     <set id="exchangeable">
+        <string lang="de">Wird bei Aktivierung nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
         <string lang="en">Will not become locked after activation and can be freely exchanged between characters</string>
+        <string lang="fr">Ne sera pas verrouillé après activation et peut être échangé librement entre les personnages</string>
+        <string lang="zh">激活后不会被锁定，可以在角色之间自由交换</string>
+        <string lang="jp">アクティベート後にロックされず、キャラクター間で自由に交換できます</string>
+        <string lang="ru">Не будет заблокирован после активации и может быть свободно обменян между персонажами</string>
+        <string lang="es">No se bloqueará después de la activación y se puede intercambiar libremente entre los personajes</string>
+        <string lang="kr">활성화 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
+        <string lang="pt-br">Não será bloqueado após a ativação e pode ser trocado livremente entre os personagens</string>
     </set>
     <set id="exchangeable-charge">
+        <string lang="de">Wird beim Aufladen nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
         <string lang="en">Will not become locked after charging and can be freely exchanged between characters</string>
+        <string lang="fr">Ne sera pas verrouillé après chargement et peut être échangé librement entre les personnages</string>
+        <string lang="zh">充能后不会被锁定，可以在角色之间自由交换</string>
+        <string lang="jp">チャージ後にロックされず、キャラクター間で自由に交換できます</string>
+        <string lang="ru">Не будет заблокирован после зарядки и может быть свободно обменян между персонажами</string>
+        <string lang="es">No se bloqueará después de la carga y se puede intercambiar libremente entre los personajes</string>
+        <string lang="kr">충전 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
+        <string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
     </set>
     <set id="toggled-module-off">
         <string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
@@ -285,24 +301,19 @@ si activé</string>
 если включен</string>
         <string lang="es">Se activará durante la secuencia de disparo,
 si está activado</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다.
-토글이 켜져 있으면</string>
+        <string lang="kr">총격 순서 중에 활성화됩니다, 활성화되어 있을 경우</string>
         <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
     </set>
         <set id="toggled-module-on">
         <string lang="de">Wird während der Spannungssequenz aktiviert</string>
         <string lang="en">Will be activated during voltage sequence</string>
         <string lang="fr">Sera utilisé pendant la séquence de tir</string>
-        <string lang="zh">打开开关后会在触发序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、
-発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы,
-если включен</string>
-        <string lang="es">Se activará durante la secuencia de disparo,
-si está activado</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다.
-토글이 켜져 있으면</string>
-        <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
+        <string lang="zh">在触发序列中被激活</string>
+        <string lang="jp">発射シーケンス中にアクティブになります</string>
+        <string lang="ru">Будет активирован во время стрельбы</string>
+        <string lang="es">Se activará durante la secuencia de disparo</string>
+        <string lang="kr">총격 순서 중에 활성화됩니다</string>
+        <string lang="pt-br">Será ativado durante a sequência de disparo</string>
     </set>
     <set id="timeline-targeting-minimumdistance-3">
         <string lang="de">Mindestabstand $b$+3$/b$</string>
@@ -407,7 +418,8 @@ até o final da batalha</string>
     </set>
     <set id="module-properties-discharge-endofturn">
         <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Loses all $energy$ at the end of owner's turn</string>
+        <string lang="en">Loses all $energy$
+at the end of owner's turn</string>
         <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
         <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
         <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
