@@ -582,27 +582,16 @@
         <string lang="kr">관통의 외침</string>
         <string lang="pt-br">Grito Perfurante</string>
     </set>
-    <set id="name-skill-ondeath-gravaoe-plus">
-        <string lang="de">Grav.-Austritt $grav+1$</string>
-        <string lang="en">Grav. Spill $grav+1$</string>
-        <string lang="fr">Déversement Grav. $grav+1$</string>
-        <string lang="zh">引力溢出 $grav+1$</string>
-        <string lang="jp">重力漏れ $grav+1$</string>
-        <string lang="ru">Грав. Излияние $grav+1$</string>
-        <string lang="es">Derrame Grav. $grav+1$</string>
-        <string lang="kr">중력 유출 $grav+1$</string>
-        <string lang="pt-br">Derrame Grav. $grav+1$</string>
-    </set>
-        <set id="name-skill-ondeath-gravaoe-plus-protozoon">
-        <string lang="de">Grav.-Austritt $grav+1$</string>
-        <string lang="en">Grav. Spill $grav+1$</string>
-        <string lang="fr">Déversement Grav. $grav+1$</string>
-        <string lang="zh">引力溢出 $grav+1$</string>
-        <string lang="jp">重力漏れ $grav+1$</string>
-        <string lang="ru">Грав. Излияние $grav+1$</string>
-        <string lang="es">Derrame Grav. $grav+1$</string>
-        <string lang="kr">중력 유출 $grav+1$</string>
-        <string lang="pt-br">Derrame Grav. $grav+1$</string>
+    <set id="name-skill-ondeath-gravspill">
+        <string lang="de">Grav.-Austritt $grav+icon$</string>
+        <string lang="en">Grav. Spill $grav+icon$</string>
+        <string lang="fr">Déversement Grav. $grav+icon$</string>
+        <string lang="zh">引力溢出 $grav+icon$</string>
+        <string lang="jp">重力漏れ $grav+icon$</string>
+        <string lang="ru">Грав. Излияние $grav+icon$</string>
+        <string lang="es">Derrame Grav. $grav+icon$</string>
+        <string lang="kr">중력 유출 $grav+icon$</string>
+        <string lang="pt-br">Derrame Grav. $grav+icon$</string>
     </set>
     <set id="name-skill-passive-gravtopower">
         <string lang="de">$grav+$ zu $might$</string>
@@ -1143,27 +1132,16 @@ and inflicts $grav+2$</string>
         <string lang="kr">적에게 $vulnerable$ 를 적용합니다. $4$ 턴 지속됩니다.</string>
         <string lang="pt-br">Aplica $vulnerable$ a um inimigo. Dura $4$ turnos</string>
     </set>
-    <set id="description-skill-ondeath-gravaoe-plus">
-        <string lang="de">Fügt allen Kampfteilnehmern $grav+1$ zu.</string>
-        <string lang="en">Inflicts all combatants with $grav+1$.</string>
-        <string lang="fr">Applique $grav+1$ à tous les combattants.</string>
-        <string lang="zh">让所有角色获得 $grav+1$</string>
-        <string lang="jp">全ての戦闘者に $grav+1$ を与える</string>
-        <string lang="ru">Накладывает $grav+1$ на всех бойцов.</string>
-        <string lang="es">Inflige a todos los combatientes $grav+1$</string>
-        <string lang="kr">모든 전투 참여자에게 $grav+1$ 를 적용합니다.</string>
-        <string lang="pt-br">Inflige a todos os combatentes $grav+1$</string>
-    </set>
-    <set id="description-skill-ondeath-gravaoe-plus-protozoon">
-        <string lang="de">Fügt allen Gegnern $grav+1$ zu.</string>
-        <string lang="en">Inflicts all enemies with $grav+1$.</string>
-        <string lang="fr">Applique $grav+1$ à toutes les ennemies.</string>
-        <string lang="zh">让所有敌人获得 $grav+1$</string>
-        <string lang="jp">全ての敵に $grav+1$ を与える</string>
-        <string lang="ru">Накладывает $grav+1$ на всех врагов.</string>
-        <string lang="es">Inflige a todos los enemigos $grav+1$</string>
-        <string lang="kr">모든 적에게 $grav+1$ 를 적용합니다.</string>
-        <string lang="pt-br">Inflige a todos os inimigos $grav+1$</string>
+    <set id="description-skill-ondeath-gravspill">
+        <string lang="de">Verteilt seine aktuelle $grav+$ auf alle Gegner.</string>
+        <string lang="en">Spreads its current $grav+$ over all enemies.</string>
+        <string lang="fr">Répartit son $grav+$ actuel sur tous les ennemis.</string>
+        <string lang="zh">将自身的 $grav+$ 分散到所有敌人身上</string>
+        <string lang="jp">現在の $grav+$ を全ての敵に与える</string>
+        <string lang="ru">Распространяет свой текущий $grav+$ на всех врагов.</string>
+        <string lang="es">Distribuye su actual $grav+$ sobre todos los enemigos</string>
+        <string lang="kr">현재 $grav+$ 를 모든 적에게 분산시킵니다.</string>
+        <string lang="pt-br">Espalha seu atual $grav+$ sobre todos os inimigos</string>
     </set>
     <set id="description-skill-passive-gravtopower">
         <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>

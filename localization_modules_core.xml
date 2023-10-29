@@ -1050,15 +1050,15 @@ a la corriente.</string>
         <string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
     </set>
     <set id="description-module-defibrillator">
-        <string lang="de">Wenn der Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
-        <string lang="en">If the owner becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
-        <string lang="fr">Si le propriétaire tombe inconscient, il est réanimé avec des PV équivalents à son $energy$ stocké.</string>
-        <string lang="zh">如果拥有者陷入昏迷，恢复HP到其存储的 $energy$ 的值 。</string>
-        <string lang="jp">持有者が無意識になった場合、自動的に保持された $energy$ の高さで HP が回復されます。</string>
-        <string lang="ru">Если владелец теряет сознание, он оживает с HP в количестве накопленной $energy$.</string>
-        <string lang="es">Si el propietario queda inconsciente, se revivirá con PV en altura de su $energy$ almacenado.</string>
-        <string lang="kr">소유자가 의식을 잃으면, 저장된 $energy$의 HP로 자동으로 부활합니다.</string>
-        <string lang="pt-br">Se o dono ficar inconsciente, ele será revivido com HP na altura de sua $energy$ armazenada.</string>
+        <string lang="de">Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
+        <string lang="en">If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
+        <string lang="fr">Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
+        <string lang="zh">如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
+        <string lang="jp">キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
+        <string lang="ru">Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
+        <string lang="es">Si un personaje se vuelve inconsciente, se revivirá con HP en altura de su almacenado $energy$.</string>
+        <string lang="kr">캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
+        <string lang="pt-br">Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
     </set>
     <set id="description-module-splitter">
         <string lang="de">Verdoppelt einen Strom.</string>
