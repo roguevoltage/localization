@@ -450,6 +450,17 @@
         <string lang="kr">분리기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Divisor $MODIFICATIONVALUE$</string>
     </set>
+    <set id="name-module-distributor">
+        <string lang="de">Verteiler $MODIFICATIONVALUE$</string>
+        <string lang="en">Distributor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Distributeur $MODIFICATIONVALUE$</string>
+        <string lang="zh">分配器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ディストリビューター $MODIFICATIONVALUE$</string>
+        <string lang="ru">Дистрибьютор $MODIFICATIONVALUE$</string>
+        <string lang="es">Distribuidor $MODIFICATIONVALUE$</string>
+        <string lang="kr">분배기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Distribuidor $MODIFICATIONVALUE$</string>
+    </set>
     <set id="name-module-storagecell">
         <string lang="de">Speicherzelle</string>
         <string lang="en">Storage Cell</string>
@@ -1070,6 +1081,17 @@ a la corriente.</string>
         <string lang="es">Duplica una corriente.</string>
         <string lang="kr">전류를 복제합니다.</string>
         <string lang="pt-br">Duplica uma corrente.</string>
+    </set>
+    <set id="description-module-distributor">
+        <string lang="de">Verteilt $energy$ über beide Output-Buchsen.</string>
+        <string lang="en">Distributes $energy$ over both output jacks.</string>
+        <string lang="fr">Distribue $energy$ sur les deux jacks output.</string>
+        <string lang="zh">在两个输出端上分配 $energy$。</string>
+        <string lang="jp">両方の出力ジャックに $energy$ を分配します。</string>
+        <string lang="ru">Распределяет $energy$ на обоих выходных разъемах.</string>
+        <string lang="es">Distribuye $energy$ en ambos conectores de salida.</string>
+        <string lang="kr">양쪽 출력 잭에 $energy$를 분배합니다.</string>
+        <string lang="pt-br">Distribui $energy$ em ambos conectores de saída.</string>
     </set>
     <set id="description-module-storagecell">
         <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$
