@@ -230,9 +230,9 @@
         <string lang="fr">n/a</string>
     </set>
     <set id="name-skill-packattack">
-        <string lang="de">Rudelangriff</string>
-        <string lang="en">Pack Attack</string>
-        <string lang="fr">Attaque de Meute</string>
+        <string lang="de">Rudelangriff $grav-icon$</string>
+        <string lang="en">Pack Attack $grav-icon$</string>
+        <string lang="fr">Attaque de Meute $grav-icon$</string>
     </set>
     <set id="name-skill-poisonspore">
         <string lang="de">Gift-Sporen</string>
@@ -653,10 +653,8 @@ Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-packattack">
-        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht alle anderen
-Verbündeten mit $grav-1$.</string>
-        <string lang="en">Deals $1damage$ to an enemy and inflicts all other allies 
-with $grav-1$.</string>
+        <string lang="de">Fügt einem Gegner $1damage$ zu und versieht alle anderen Verbündeten mit $grav-1$.</string>
+        <string lang="en">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
         <string lang="fr">n/a</string>
     </set>
         <set id="description-skill-poisonspore">
