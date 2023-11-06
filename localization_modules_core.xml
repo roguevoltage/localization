@@ -384,6 +384,17 @@
         <string lang="kr">증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador $MODIFICATIONVALUE$</string>
     </set>
+    <set id="name-module-amplifiercollector">
+        <string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>
+        <string lang="en">Sensor Amplifier $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur de Capteur $MODIFICATIONVALUE$</string>
+        <string lang="zh">感应器放大器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">センサーアンプ $MODIFICATIONVALUE$</string>
+        <string lang="ru">усилитель датчика $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador de Sensor $MODIFICATIONVALUE$</string>
+        <string lang="kr">센서 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador de Sensor $MODIFICATIONVALUE$</string>
+    </set>
     <set id="name-module-modifierdecelerating">
         <string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Recoil Amplifier $MODIFICATIONVALUE$</string>
@@ -1010,6 +1021,26 @@ a la corriente.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
 à corrente.</string>
     </set>
+    <set id="description-module-amplifiercollector">
+        <string lang="de">Modifiziert einen Strom.
+Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
+        <string lang="en">Modifies a current.
+Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
+        <string lang="fr">Modifie un courant.
+Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
+        <string lang="zh">修改一个电流。
+如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
+        <string lang="jp">電流を変更します。
+$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+        <string lang="ru">Модифицирует ток.
+Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
+        <string lang="es">Modifica una corriente.
+Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
+        <string lang="kr">전류를 수정합니다.
+$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Modifica uma corrente.
+Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+    </set>
     <set id="description-module-modifierdecelerating">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
         <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
@@ -1083,15 +1114,15 @@ a la corriente.</string>
         <string lang="pt-br">Duplica uma corrente.</string>
     </set>
     <set id="description-module-distributor">
-        <string lang="de">Verteilt $energy$ über beide Output-Buchsen.</string>
-        <string lang="en">Distributes $energy$ over both output jacks.</string>
-        <string lang="fr">Distribue $energy$ sur les deux jacks output.</string>
-        <string lang="zh">在两个输出端上分配 $energy$。</string>
-        <string lang="jp">両方の出力ジャックに $energy$ を分配します。</string>
-        <string lang="ru">Распределяет $energy$ на обоих выходных разъемах.</string>
-        <string lang="es">Distribuye $energy$ en ambos conectores de salida.</string>
-        <string lang="kr">양쪽 출력 잭에 $energy$를 분배합니다.</string>
-        <string lang="pt-br">Distribui $energy$ em ambos conectores de saída.</string>
+        <string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
+        <string lang="en">Distributes $energy$ alternatingly over both output jacks, starting with the left one.</string>
+        <string lang="fr">Distribue $energy$ alternativement sur les deux jacks output, en commençant par le gauche.</string>
+        <string lang="zh">交替地将 $energy$ 分配到两个输出端口，从左边开始。</string>
+        <string lang="jp">左側から始めて、両方の出力ジャックに交互に $energy$ を分配します。</string>
+        <string lang="ru">Распределяет $energy$ поочередно на оба выходных разъема, начиная с левого.</string>
+        <string lang="es">Distribuye $energy$ alternativamente sobre ambos conectores de salida, comenzando con el izquierdo.</string>
+        <string lang="kr">왼쪽부터 시작하여 양쪽 출력 잭에 $energy$를 교대로 분배합니다.</string>
+        <string lang="pt-br">Distribui $energy$ alternadamente sobre ambos conectores de saída, começando com o esquerdo.</string>
     </set>
     <set id="description-module-storagecell">
         <string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$
