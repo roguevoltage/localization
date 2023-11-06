@@ -1022,24 +1022,16 @@ a la corriente.</string>
 à corrente.</string>
     </set>
     <set id="description-module-amplifiercollector">
-        <string lang="de">Modifiziert einen Strom.
-Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
-        <string lang="en">Modifies a current.
-Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
-        <string lang="fr">Modifie un courant.
-Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
+        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
         <string lang="zh">修改一个电流。
 如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
-        <string lang="jp">電流を変更します。
-$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
-        <string lang="ru">Модифицирует ток.
-Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
-        <string lang="es">Modifica una corriente.
-Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
-        <string lang="kr">전류를 수정합니다.
-$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Modifica uma corrente.
-Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+        <string lang="jp">$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
+        <string lang="kr">$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
     </set>
     <set id="description-module-modifierdecelerating">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
