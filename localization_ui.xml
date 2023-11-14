@@ -131,7 +131,7 @@
         <string lang="kr">난이도</string>
         <string lang="pt-br">DIFICULDADE</string>
     </set>
-    <set id="difficulty-beginner">
+    <set id="name-difficulty-0">
         <string lang="de">Anfänger</string>
         <string lang="en">Beginner</string>
         <string lang="fr">Débutant</string>
@@ -142,7 +142,7 @@
         <string lang="kr">초보자</string>
         <string lang="pt-br">Iniciante</string>
     </set>
-    <set id="difficulty-normal">
+    <set id="name-difficulty-1">
         <string lang="de">Normal</string>
         <string lang="en">Normal</string>
         <string lang="fr">Normal</string>
@@ -153,7 +153,7 @@
         <string lang="kr">일반</string>
         <string lang="pt-br">Normal</string>
     </set>
-    <set id="difficulty-hard">
+    <set id="name-difficulty-2">
         <string lang="de">Schwer</string>
         <string lang="en">Hard</string>
         <string lang="fr">Difficile</string>
@@ -163,6 +163,17 @@
         <string lang="es">Difícil</string>
         <string lang="kr">어려움</string>
         <string lang="pt-br">Difícil</string>
+    </set>
+    <set id="name-difficulty-3">
+        <string lang="de">Unmöglich</string>
+        <string lang="en">Impossible</string>
+        <string lang="fr">Impossible</string>
+        <string lang="zh">不可能</string>
+        <string lang="jp">不可能</string>
+        <string lang="ru">Невозможный</string>
+        <string lang="es">Imposible</string>
+        <string lang="kr">불가능</string>
+        <string lang="pt-br">Impossível</string>
     </set>
     <set id="ui-discussion">
         <string lang="de">Komm' ans Lagerfeuer:</string>
@@ -1007,6 +1018,17 @@ jogo.</string>
         <string lang="kr">새로운 모듈 잠금 해제</string>
         <string lang="pt-br">MÓDULOS DESBLOQUEADOS</string>
     </set>
+    <set id="selectionscreen-calltoaction">
+        <string lang="de">Wer bricht auf?</string>
+        <string lang="en">Who is heading out?</string>
+        <string lang="fr">Qui va partir?</string>
+        <string lang="zh">派谁出发？</string>
+        <string lang="jp">誰が出発しますか？</string>
+        <string lang="ru">Кто отправится?</string>
+        <string lang="es">¿Quién va a salir?</string>
+        <string lang="kr">누가 나갈까요?</string>
+        <string lang="pt-br">Quem vai sair?</string>
+    </set>
     <set id="selectionscreen-subtitle">
         <string lang="de">Wähle ein Team aus
 zwei Charakteren</string>
@@ -1040,6 +1062,39 @@ aventura!</string>
         <string lang="kr">모험 시작!</string>
         <string lang="pt-br">Comece a
 aventura!</string>
+    </set>
+    <set id="selectionscreen-characters">
+        <string lang="de">CHARAKTERE</string>
+        <string lang="en">CHARACTERS</string>
+        <string lang="fr">HÉROS</string>
+        <string lang="zh">角色</string>
+        <string lang="jp">キャラクター</string>
+        <string lang="ru">ГЕРОИ</string>
+        <string lang="es">PERSONAJES</string>
+        <string lang="kr">캐릭터</string>
+        <string lang="pt-br">PERSONAGENS</string>
+    </set>
+    <set id="selectionscreen-salvagedmodule">
+        <string lang="de">GEBORGENES MODUL</string>
+        <string lang="en">SALVAGED MODULE</string>
+        <string lang="fr">MODULE SAUVÉ</string>
+        <string lang="zh">保留的模块</string>
+        <string lang="jp">回収されたモジュール</string>
+        <string lang="ru">МОДУЛЬ</string>
+        <string lang="es">MÓDULO RECUPERADO</string>
+        <string lang="kr">회수된 모듈</string>
+        <string lang="pt-br">MÓDULO RECUPERADO</string>
+    </set>
+    <set id="difficultyscreen-title">
+        <string lang="de">Wähle eine Schwierigkeit</string>
+        <string lang="en">Select a difficulty</string>
+        <string lang="fr">Choisissez une difficulté</string>
+        <string lang="zh">选择难度</string>
+        <string lang="jp">難易度を選択</string>
+        <string lang="ru">Выберите сложность</string>
+        <string lang="es">Selecciona una dificultad</string>
+        <string lang="kr">난이도 선택</string>
+        <string lang="pt-br">Selecione uma dificuldade</string>
     </set>
     <set id="quitscreen-header">
         <string lang="de">Danke fürs Spielen</string>
@@ -1365,39 +1420,6 @@ Vencer batalha</string>
         <string lang="es">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
         <string lang="kr">&lt;color=yellow&gt;연결 중&lt;/color&gt;</string>
         <string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
-    </set>
-    <set id="selectionscreen-calltoaction">
-        <string lang="de">Wer bricht auf?</string>
-        <string lang="en">Who is heading out?</string>
-        <string lang="fr">Qui va partir?</string>
-        <string lang="zh">派谁出发？</string>
-        <string lang="jp">誰が出発しますか？</string>
-        <string lang="ru">Кто отправится?</string>
-        <string lang="es">¿Quién va a salir?</string>
-        <string lang="kr">누가 나갈까요?</string>
-        <string lang="pt-br">Quem vai sair?</string>
-    </set>
-    <set id="selectionscreen-characters">
-        <string lang="de">CHARAKTERE</string>
-        <string lang="en">CHARACTERS</string>
-        <string lang="fr">HÉROS</string>
-        <string lang="zh">角色</string>
-        <string lang="jp">キャラクター</string>
-        <string lang="ru">ГЕРОИ</string>
-        <string lang="es">PERSONAJES</string>
-        <string lang="kr">캐릭터</string>
-        <string lang="pt-br">PERSONAGENS</string>
-    </set>
-    <set id="selectionscreen-salvagedmodule">
-        <string lang="de">GEBORGENES MODUL</string>
-        <string lang="en">SALVAGED MODULE</string>
-        <string lang="fr">MODULE SAUVÉ</string>
-        <string lang="zh">保留的模块</string>
-        <string lang="jp">回収されたモジュール</string>
-        <string lang="ru">МОДУЛЬ</string>
-        <string lang="es">MÓDULO RECUPERADO</string>
-        <string lang="kr">회수된 모듈</string>
-        <string lang="pt-br">MÓDULO RECUPERADO</string>
     </set>
     <set id="scope-notpartofdemo">
         <string lang="de">Nicht Teil der Demo</string>
