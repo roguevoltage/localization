@@ -142,6 +142,24 @@
         <string lang="kr">초보자</string>
         <string lang="pt-br">Iniciante</string>
     </set>
+    <set id="description-difficulty-0">
+        <string lang="de">Du lernst gerade die Mechaniken von Rogue Voltage kennen.</string>
+        <string lang="en">You are still learning about the mechanics of Rogue Voltage.</string>
+        <string lang="fr">Vous apprenez encore les mécanismes de Rogue Voltage.</string>
+        <string lang="zh">您仍在了解《Rogue Voltage》的机制。</string>
+        <string lang="jp">あなたはまだRogue Voltageのメカニクスについて学んでいます。</string>
+        <string lang="ru">Вы все еще учитесь механике Rogue Voltage.</string>
+        <string lang="es">Todavía estás aprendiendo sobre la mecánica de Rogue Voltage.</string>
+        <string lang="kr">아직 로그 볼티지의 메커니즘에 대해 배우고 있습니다.</string>
+        <string lang="pt-br">Você ainda está aprendendo sobre a mecânica do Rogue Voltage.</string>
+    </set>
+    <set id="modalities-difficulty-0">
+        <string lang="en">&lt;color=#67FF73&gt;-40% enemy HP scaling
++1 battle rating handicap&lt;/color&gt;</string>
+    </set>
+    <set id="progression-difficulty-0">
+        <string lang="en">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
+    </set>
     <set id="name-difficulty-1">
         <string lang="de">Normal</string>
         <string lang="en">Normal</string>
@@ -152,6 +170,23 @@
         <string lang="es">Normal</string>
         <string lang="kr">일반</string>
         <string lang="pt-br">Normal</string>
+    </set>
+    <set id="description-difficulty-1">
+        <string lang="de">Eine ausgewogene Herausforderung für alle, die mit den Grundprinzipien vertraut sind.</string>
+        <string lang="en">A balanced challenge for those familiar with the core principles.</string>
+        <string lang="fr">Un défi équilibré pour les joueurs qui sont familiers avec les principes de base.</string>
+        <string lang="zh">对于熟悉核心原则的玩家来说，这是一个平衡的挑战。</string>
+        <string lang="jp">コア原則に精通しているプレイヤーにとって、バランスの取れた挑戦です。</string>
+        <string lang="ru">Сбалансированный вызов для игроков, которые знакомы с основными принципами.</string>
+        <string lang="es">Un desafío equilibrado para los jugadores que están familiarizados con los principios básicos.</string>
+        <string lang="kr">핵심 원칙에 익숙한 플레이어를 위한 균형 잡힌 도전 과제입니다.</string>
+        <string lang="pt-br">Um desafio equilibrado para jogadores que estão familiarizados com os princípios básicos.</string>
+    </set>
+    <set id="modalities-difficulty-1">
+        <string lang="en"></string>
+    </set>
+    <set id="progression-difficulty-1">
+        <string lang="en"></string>
     </set>
     <set id="name-difficulty-2">
         <string lang="de">Schwer</string>
@@ -164,6 +199,25 @@
         <string lang="kr">어려움</string>
         <string lang="pt-br">Difícil</string>
     </set>
+    <set id="modalities-difficulty-2">
+        <string lang="en">&lt;color=#FF5555&gt;+35% enemy HP scaling
+-1 battle rating handicap 
+-1 storm handicap&lt;/color&gt;</string>
+    </set>
+    <set id="progression-difficulty-2">
+        <string lang="en">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
+    </set>
+    <set id="description-difficulty-2">
+        <string lang="de">Ein kniffliges Denkspiel mit sehr wenig Spielraum für Fehler.</string>
+        <string lang="en">A tough engineering puzzle with very little room for misplays.</string>
+        <string lang="fr">Un puzzle d'ingénierie difficile avec très peu de marge de manœuvre pour les erreurs de jeu.</string>
+        <string lang="zh">一个非常难的工程难题，几乎没有任何错误的余地。</string>
+        <string lang="jp">ミスプレイの余地がほとんどない、難しいエンジニアリングパズル。</string>
+        <string lang="ru">Сложная инженерная головоломка с очень малым пространством для ошибок.</string>
+        <string lang="es">Un rompecabezas de ingeniería difícil con muy poco margen de maniobra para errores de juego.</string>
+        <string lang="kr">실수할 여지가 거의 없는 어려운 엔지니어링 퍼즐입니다.</string>
+        <string lang="pt-br">Um quebra-cabeça de engenharia difícil com muito pouco espaço para erros.</string>
+    </set>
     <set id="name-difficulty-3">
         <string lang="de">Unmöglich</string>
         <string lang="en">Impossible</string>
@@ -174,6 +228,28 @@
         <string lang="es">Imposible</string>
         <string lang="kr">불가능</string>
         <string lang="pt-br">Impossível</string>
+    </set>
+    <set id="description-difficulty-3">
+        <string lang="de">Selbst der Entwickler hat Schwierigkeiten,
+auf diesem Modus zu bestehen.</string>
+        <string lang="en">Even the developer struggles
+to beat this mode.</string>
+        <string lang="fr">Même le développeur a du mal
+à battre ce mode.</string>
+        <string lang="zh">即使是开发者也很难打败这个模式。</string>
+        <string lang="jp">開発者でさえこのモードを打ち負かすのに苦労しています。</string>
+        <string lang="ru">Даже разработчику трудно победить в этом режиме.</string>
+        <string lang="es">Incluso el desarrollador lucha por vencer este modo.</string>
+        <string lang="kr">개발자조차도 이 모드를 이기기 위해 고군분투합니다.</string>
+        <string lang="pt-br">Mesmo o desenvolvedor luta para vencer este modo.</string>
+    </set>
+    <set id="modalities-difficulty-3">
+        <string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling
+-1 battle rating handicap 
+-2 storm handicap&lt;/color&gt;</string>
+    </set>
+    <set id="progression-difficulty-3">
+        <string lang="en">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
     </set>
     <set id="ui-discussion">
         <string lang="de">Komm' ans Lagerfeuer:</string>
