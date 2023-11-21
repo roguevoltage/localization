@@ -384,7 +384,7 @@
         <string lang="kr">증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador $MODIFICATIONVALUE$</string>
     </set>
-    <set id="name-module-amplifiercollector">
+    <set id="name-module-modifiercollector">
         <string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Sensor Amplifier $MODIFICATIONVALUE$</string>
         <string lang="fr">Amplificateur de Capteur $MODIFICATIONVALUE$</string>
@@ -1021,7 +1021,7 @@ a la corriente.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
 à corrente.</string>
     </set>
-    <set id="description-module-amplifiercollector">
+    <set id="description-module-modifiercollector">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
         <string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
