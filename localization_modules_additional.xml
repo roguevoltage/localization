@@ -3,13 +3,13 @@
         <string lang="en">Shield Vault $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-shieldvault">
-        <string lang="en">Whenever the owner receives $damage$, reduce that damage by $1$ and remove $1$ $energy$ charge from it.</string>
+        <string lang="en">Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
     </set>
     <set id="name-module-regenerationvault">
-        <string lang="en">Regenerator $MODIFICATIONVALUE$</string>
+        <string lang="en">Regeneration Vault $MODIFICATIONVALUE$</string>
     </set>
     <set id="description-module-regenerationvault">
-        <string lang="en">At the beginning of the owner's turn, heal them by $1$ and remove $1$ stored $energy$.</string>
+        <string lang="en">At the end of the owner's turn, remove $1$ stored $energy$ to heal the owner by $1$.</string>
     </set>
     <set id="name-module-coil">
         <string lang="de">Spule $MODIFICATIONVALUE$</string>
