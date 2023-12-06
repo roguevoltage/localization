@@ -10,7 +10,7 @@
         <string lang="kr">크리스탈 동굴</string>
         <string lang="pt-br">Cavernas de Cristal</string>
     </set>
-    <set id="name-chapter-sewers" firstCycle="1" lastCycle="1">
+    <set id="name-chapter-sewers">
         <string lang="de">Die Kanalisation</string>
         <string lang="en">The Sewers</string>
         <string lang="fr">Les Égouts</string>
@@ -21,18 +21,7 @@
         <string lang="kr">하수구</string>
         <string lang="pt-br">Esgotos</string>
     </set>
-    <set id="name-chapter-sewers" firstCycle="2" lastCycle="6">
-        <string lang="de">Die Kanalisation</string>
-        <string lang="en">The Sewers</string>
-        <string lang="fr">Les Égouts</string>
-        <string lang="zh">下水道</string>
-        <string lang="jp">下水道</string>
-        <string lang="ru">Канализация</string>
-        <string lang="es">Las Alcantarillas</string>
-        <string lang="kr">하수구</string>
-        <string lang="pt-br">Esgotos</string>
-    </set>
-    <set id="story-chapter-sewers" firstCycle="3" lastCycle="6">
+    <set id="story-chapter-sewers-cycle3">
         <string lang="de">Um die sichere Zone zu durchqueren, müssen wir gravioaktive Anomalien so gut es geht vermeiden.
 Der sicherste Weg? Ab. In. Die. Kanalisation.
 Haltet euch die Nase zu und verliert nicht den Kopf. Versucht nicht an das zu denken, was im Brackwasser an euch vorbeitreibt.
@@ -61,7 +50,7 @@ Sostén tu nariz y mantén la calma. Trata de no pensar en lo que está flotando
 A rota mais segura? Para baixo. Dentro. Dos. Esgotos.
 Segure o nariz e mantenha a calma. Tente não pensar no que está flutuando ao seu redor na lama salobra.</string>
     </set>
-    <set id="story-chapter-sewers" firstCycle="1" lastCycle="2">
+    <set id="story-chapter-sewers">
         <string lang="de">Nach der ersten Grav.-Welle haben viele Überlebende ihr Lager in der Kanalisation aufgeschlagen, bis sie herausfanden, dass auch hier die Zeitverzerrungen wirksam waren.
 Einige Abschnitte aus Beton waren in einem Sekundenbruchteil um tausend Jahre gealtert, wurden brüchig und brachen zusammen.
 Andere wurden cremig wie am Tag, an dem sie gegossen wurden.</string>
@@ -89,7 +78,7 @@ Otras se volvieron cremosas como el día en que fueron vertidas.</string>
 Algumas seções de concreto envelheceram mil anos em um segundo, tornaram-se quebradiças e desmoronaram.
 Outras ficaram cremosas como no dia em que foram despejadas.</string>
     </set>
-    <set id="story-chapter-caves" firstCycle="1" lastCycle="4">
+    <set id="story-chapter-caves">
         <string lang="de">Hast du deine Stiefel? Es geht abwärts.
 Es sind Impulse aus Grav.-Ladung, die von den Felswänden hier zurückgeworfen werden.
 Dadurch produziert die Umgebung eine zuverlässige Energiequelle für all die merkwürdigen Kreaturen, die sich daran angepasst haben.
@@ -135,7 +124,7 @@ Infelizmente, e graças a isso, este ambiente fornece um suprimento constante de
 <!-- Os ecos aqui tornam difícil determinar de onde vêm as coisas. E não há como evitar encontrar o que tem vivido aqui. -->
 </string>
     </set>
-    <set id="story-chapter-caves" firstCycle="5" lastCycle="6">
+    <set id="story-chapter-caves-cycle5">
         <string lang="de">Wir haben festgestellt, dass es Impulse aus Grav.-Ladung sind, die von den Höhlenwänden reflektiert werden.
 Dadurch produziert die Umgebung eine kontinuierliche Energiequelle für all die merkwürdigen Kreaturen, die sich daran angepasst haben.</string>
         <string lang="en">After some time of observation, we noticed that it's impulses of grav. charge, that are reflecting off the cave walls.
