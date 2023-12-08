@@ -121,7 +121,7 @@ $b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
     </set>
     <set id="description-module-duplicator">
         <string lang="de">Stellt eine permanente Kopie eines Moduls deiner Wahl her.</string>
-        <string lang="en">Constructs a permanent copy of another target module.</string>
+        <string lang="en">Constructs a permanent copy of another target module on this rack.</string>
         <string lang="fr">Construit une copie permanente d'un autre module ciblé.</string>
         <string lang="zh">创建一个其他模块的永久复制品。</string>
         <string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
@@ -135,7 +135,7 @@ $b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
     </set>
     <set id="description-module-duplicator-eob">
         <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her. Die Kopie erhält $unstable$.</string>
-        <string lang="en">Constructs a copy of another target module. The copy has $unstable$.</string>
+        <string lang="en">Constructs a copy of another target module on this rack. The copy has $unstable$.</string>
         <string lang="fr">Construit une copie d'un autre module ciblé. La copie a $unstable$.</string>
         <string lang="zh">创建一个其他模块的复制。复制品具有 $unstable$ 。</string>
         <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
@@ -469,6 +469,13 @@ Inflicts all other modules on this rack with $fire$.</string>
         <string lang="kr">전류를 수정합니다.</string>
         <string lang="pt-br">Modifica uma corrente.</string>
     </set>
+    <set id="name-module-toggledmirror">
+        <string lang="de">Spiegel</string>
+        <string lang="en">Mirror</string>
+    </set>
+        <set id="description-module-toggledmirror">
+        <string lang="en">Applies $replicating$ to another target module on this rack with $cracked$.</string>
+    </set>
     <set id="name-module-pulsar">
         <string lang="en">Pulsar</string>
     </set>
@@ -709,7 +716,7 @@ by $b$10$/b$ time steps.</string>
     </set>
     <set id="description-module-transmogrifier">
         <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
-        <string lang="en">Destroys another target module to construct a different module of the same level.</string>
+        <string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
         <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
         <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
@@ -723,7 +730,7 @@ by $b$10$/b$ time steps.</string>
     </set>
     <set id="description-module-transmogrifier-cracked">
         <string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
-        <string lang="en">Destroys another target module to construct a different module of the same level.</string>
+        <string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
         <string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
         <string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
         <string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
