@@ -42,7 +42,13 @@
         <string lang="en">Replicating</string>
     </set>
     <set id="description-status-modulereplicating">
-        <string lang="en">Before becoming destroyed, will create a copy of itself. The copy has $outoforder$.</string>
+        <string lang="en">Will create a copy of itself on activation. The copy has $outoforder$.</string>
+    </set>
+    <set id="name-status-modulereplicating-once">
+        <string lang="en">Replicating Once</string>
+    </set>
+        <set id="description-status-modulereplicating-once">
+        <string lang="en">Will create a copy of itself on activation. The copy has $outoforder$ and loses $/b$Replicating$b$.</string>
     </set>
     <set id="description-status-modulestormattractor">
         <string lang="en">Activation attracts the $storm$
