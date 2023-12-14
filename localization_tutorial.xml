@@ -10,7 +10,7 @@
         <string lang="kr">캠프로 돌아가면 $plasma$로 자신을 치료하거나 특별한 모듈을 발견하기 위해 건물을 복원할 수 있습니다.</string>
         <string lang="pt-br">De volta ao acampamento, você pode se curar por $plasma$ ou restaurar edifícios para descobrir módulos especiais.</string>
     </set>
-    <set id="tutoriawindow-rack-title">
+    <set id="tutorialwindow-rack-title">
         <string lang="de">Das Modul-Rack</string>
         <string lang="en">The Modular Rack</string>
         <string lang="fr">Le Rack Modulaire</string>
@@ -21,27 +21,49 @@
         <string lang="kr">모듈 랙</string>
         <string lang="pt-br">O Rack Modular</string>
     </set>
-    <set id="tutoriawindow-rack-description">
-        <string lang="de">Deine Aktionen werden aus $b$Modulen$/b$ zusammengesetzt, die du miteinander verkabelst.
-Manche erzeugen $energy$, manche verstärken oder speichern sie und andere wandeln sie in Effekte um.</string>
-        <string lang="en">Your actions are constructed from $b$modules$/b$ that you wire together.
-Some generate $energy$, some amplify or store it and others turn it into effects.</string>
-        <string lang="fr">Vos actions sont constituées de $b$modules$/b$ que vous reliez entre eux.
-Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'autres encore l'utilisent pour des effets.</string>
-        <string lang="zh">战斗动作由你连接的$b$模块$/b$组合构成。
+    <set id="tutorialwindow-rack-description">
+        <string lang="de">In diesem Spiel baust du deine Aktionen selbst zusammen, indem du $b$Module$/b$ miteinander verkabelst.</string>
+        <string lang="en">In this game, you construct your own actions with $b$modules$/b$ that you wire together.</string>
+        <string lang="fr">Vos actions sont constituées de $b$modules$/b$ que vous reliez entre eux.</string>
+        <string lang="zh">战斗动作由你连接的$b$模块$/b$组合构成。</string>
+        <string lang="jp">戦闘アクションは、$b$モジュール$/b$を接続して作成されます。</string>
+        <string lang="ru">Боевые действия состоят из $b$модулей$/b$, которые вы связываете вместе.</string>
+        <string lang="es">Tus acciones se construyen a partir de $b$módulos$/b$ que conectas.</string>
+        <string lang="kr">전투 액션은 서로 연결된 $b$모듈$/b$로 구성됩니다.</string>
+        <string lang="pt-br">Suas ações são construídas a partir de $b$módulos$/b$ que você conecta.</string>
+    </set>
+<set id="tutorialwindow-energy-title">
+        <string lang="de">$energy$</string>
+        <string lang="en">$energy$</string>
+        <string lang="fr">$energy$</string>
+        <string lang="zh">$energy$</string>
+        <string lang="jp">$energy$</string>
+        <string lang="ru">$energy$</string>
+        <string lang="es">$energy$</string>
+        <string lang="kr">$energy$</string>
+        <string lang="pt-br">$energy$</string>
+    </set>
+    <set id="tutorialwindow-energy-description">
+        <string lang="de">Module laufen mit $energy$punkten.
+Manche erzeugen sie, manche verstärken oder speichern sie und andere wandeln sie in Effekte um.</string>
+        <string lang="en">Modules run on $energy$ points.
+Some generate it, some amplify or store it and others turn it into effects.</string>
+        <string lang="fr">Les modules fonctionnent avec de l'$energy$.
+Certains génèrent de l'$energy$, certains la modifient ou la stockent et d'autres encore utilisent des points d'$energy$ pour des effets.</string>
+        <string lang="zh">模块运行时需要$energy$。
 一些模块产生 $energy$，一些模块放大或储存$energy$，另一些模块能把$energy$转化为效果。</string>
-        <string lang="jp">戦闘アクションは、$b$モジュール$/b$を接続して作成されます。
+        <string lang="jp">モジュールは$energy$で動作します。
 一部は$energy$を生成し、一部は増幅または保存し、他の一部は効果に変換します。</string>
-        <string lang="ru">Боевые действия состоят из $b$модулей$/b$, которые вы связываете вместе.
+        <string lang="ru">Модули работают на $energy$.
 Некоторые генерируют $energy$, некоторые усиливают или сохраняют ее, а другие превращают ее в эффекты.</string>
-        <string lang="es">Tus acciones se construyen a partir de $b$módulos$/b$ que conectas.
+        <string lang="es">Los módulos funcionan con $energy$.
 Algunos generan $energy$, otros la amplifican o almacenan y otros la convierten en efectos.</string>
-        <string lang="kr">전투 액션은 서로 연결된 $b$모듈$/b$로 구성됩니다.
+        <string lang="kr">모듈은 $energy$로 작동합니다.
 일부는 $energy$를 생성하고, 일부는 증폭하거나 저장하고, 다른 일부는 효과로 전환합니다.</string>
-        <string lang="pt-br">Suas ações são construídas a partir de $b$módulos$/b$ que você conecta.
+        <string lang="pt-br">Módulos funcionam com $energy$.
 Alguns geram $energy$, alguns a amplificam ou armazenam e outros a transformam em efeitos.</string>
     </set>
-    <set id="tutorial-wiring-title">
+    <set id="tutorialwindow-wiring-title">
         <string lang="de">Verkabeln</string>
         <string lang="en">Wiring</string>
         <string lang="fr">Cabler</string>
@@ -52,7 +74,7 @@ Alguns geram $energy$, alguns a amplificam ou armazenam e outros a transformam e
         <string lang="kr">연결</string>
         <string lang="pt-br">Conexão</string>
     </set>
-        <set id="tutorial-wiring-description">
+        <set id="tutorialwindow-wiring-description">
         <string lang="de">Verbinde Module, indem du zwischen $b$Input- und Output-Buchsen der gleichen Farbe$/b$ Kabel ziehst.</string>
         <string lang="en">Connect modules by dragging cables between $b$input and output jacks of matching colors$/b$.</string>
         <string lang="fr">Connectez des modules en tirant des câbles entre les $b$prises d'entrée et de sortie de même couleur$/b$.</string>
@@ -160,7 +182,7 @@ Depois disso, em 8 passos, será a vez de $fox$.</string>
         <string lang="de">Denk' dran, dass dein $soulsensor$ wieder ausgelöst wird, wenn du einen weiteren Gegner erledigst.
 Mit dem $b$Plasma-Konverter$/b$ kannst du überschüssige Energie in $plasma$ umwandeln – die Währung in dieser zerstörten Welt.</string>
         <string lang="en">Remember that your $soulsensor$ will trigger again as you finish off another enemy.
-Have it wired to your new $b$Plasma Converter$/b$ to transform excess energy into $plasma$ – the currency of this destroyed world.</string>
+Wire it to your new $b$Plasma Converter$/b$ to convert excess energy into $plasma$ – the currency of this destroyed world.</string>
         <string lang="fr">N'oubliez pas que votre $soulsensor$ se déclenchera à nouveau lorsque vous aurez terminé un autre ennemi.
 Avec le $b$Convertisseur de Plasma$/b$, vous pouvez transformer l'énergie excédentaire en $plasma$ – la monnaie de ce monde détruit.</string>
         <string lang="zh">别忘了， $soulsensor$ 会在你杀死另一个敌人时再次触发。
@@ -311,7 +333,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
     </set>
     <set id="tutorialwindow-decelerate-header">
         <string lang="de">Züge ausrichten</string>
-        <string lang="en">Aligning Turns</string>
+        <string lang="en">Aligning Turns with $grav$</string>
         <string lang="fr">Aligner les tours</string>
         <string lang="zh">对齐回合</string>
         <string lang="jp">ターンの整列</string>
@@ -333,7 +355,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
     </set>
     <set id="tutorialwindow-decelerate-description2">
         <string lang="de">Er sollte den Zug seines Bruders nach hinten versetzen. Dann ist er erneut auf dem selben Zeitschritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
-        <string lang="en">Now he should $b$push his brother's turn$/b$ back, so it will be $b$aligned$/b$ with the enemy's and he can use the $blademodule$ again.</string>
+        <string lang="en">Now he should $b$push his brother's turn$/b$ back to $b$align it$/b$ with the enemy's, so he can use the $blademodule$ again.</string>
         <string lang="fr">Maintenant, il devrait $b$repousser le tour de son frère$/b$ en arrière, afin qu'il soit $b$aligné$/b$ avec celui de l'ennemi et qu'il puisse à nouveau utiliser le $blademodule$.</string>
         <string lang="zh">现在他应该将他兄弟的回合$b$推后$/b$，这样它就会与敌人的回合$b$对齐$/b$，这样就可以再次使用战斧模块。</string>
         <string lang="jp">今度は、彼は兄弟のターンを後ろに押し戻すべきです。そうすれば、敵と$b$整列された$/b$状態になり、ブレードモジュールを再び使用できます。</string>
@@ -427,13 +449,13 @@ Deixe-me ajudá-lo a se livrar desses monstros!</string>
     <set id="happening-tutorial-slopperjacksonjoin-instructions">
         <string lang="de">Wechsle hinüber zu $slopperjackson$s rack.
 Ziehe das $blademodule$ in den geteilten Rucksack.
-Wechsle zurück und gib es $slopperjohnson$.</string>
+Wechsle zurück zu $slopperjohnson$ und ziehe es in sein Rack.</string>
         <string lang="en">Switch over to $slopperjackson$'s rack.
 Drag the $blademodule$ into the shared backpack.
-Switch back and pass it to $slopperjohnson$.</string>
-        <string lang="fr">Passez à la rack de $slopperjackson$.
+Switch back to $slopperjohnson$ and drag it into his rack.</string>
+        <string lang="fr">Passez à le rack de $slopperjackson$.
 Faites glisser le $blademodule$ dans le sac à dos partagé.
-Revenez en arrière et passez-le à $slopperjohnson$.</string>
+Revenez à $slopperjohnson$ et faites-le glisser dans son rack.</string>
         <string lang="zh">切换到 $slopperjackson$ 的架子。
 将 $blademodule$ 拖到共享背包中。
 切换回来并将其传递给 $slopperjohnson$。</string>
@@ -466,7 +488,8 @@ Volte e passe para $slopperjohnson$.</string>
     </set>
     <set id="tutorialwindow-sensors-description1">
         <string lang="de">Dein neuer $soulsensor$ erzeugt $energy$, wenn ein Gegner stirbt.</string>
-        <string lang="en">Your new $soulsensor$ generates $energy$ whenever an enemy dies.</string>
+        <string lang="en">Let's build your first chain reaction:
+Your new $soulsensor$ generates $energy$ whenever an enemy dies.</string>
         <string lang="fr">Votre nouveau $soulsensor$ génère $energy$ chaque fois qu'un ennemi meurt.</string>
         <string lang="zh">你的新的$b$灵魂感应器$会在敌人死亡时产生$b$能量$。</string>
         <string lang="jp">あなたの新しい $soulsensor$ は、敵が死ぬたびに $energy$ を生成します。</string>
@@ -478,7 +501,7 @@ Volte e passe para $slopperjohnson$.</string>
   <set id="tutorialwindow-sensors-description2">
         <string lang="de">Wenn der $b$Heiltrank$/b$ mit dem $b$Seelen-Sensor$/b$ verkabelt ist, während du deinen Gegner erledigst, wird er Energie erhalten, um dich zu heilen.
 Sensor-Module können Energie nicht speichern: Setze sie im gleichen Zug ein, oder sie verfliegt.</string>
-        <string lang="en">If you have the $b$Healing Potion$/b$ connected to the $b$Soul Sensor$/b$ as you finish off your enemy, it will receive energy to heal you.
+        <string lang="en">If you have it connected to the $b$Healing Potion$/b$ as you finish off your enemy, the generated $energy$ will heal you.
 Sensor modules cannot store energy: Use it in the same turn, or it will dissipate.</string>
         <string lang="fr">Si vous avez le $b$Potion de soin$/b$ connecté au $b$Capteur d'Âme$/b$ lorsque vous terminez votre ennemi, il recevra de l'énergie pour vous soigner.
 Les modules de capteur ne peuvent pas stocker d'énergie: utilisez-le au même tour, ou il se dissipe.</string>
@@ -496,15 +519,15 @@ Los módulos de sensor no pueden almacenar energía: Úsalo en el mismo turno, o
 Os módulos de sensor não podem armazenar energia: Use-o na mesma rodada, ou ele se dissipará.</string>
     </set>
     <set id="tutorialwindow-gravcharge-title">
-        <string lang="de">Grav.-Ladung</string>
-        <string lang="en">Grav. Charge</string>
-        <string lang="fr">Charge Grav.</string>
-        <string lang="zh">引力荷</string>
-        <string lang="jp">重力チャージ</string>
-        <string lang="ru">Грав. Заряд</string>
-        <string lang="es">Carga Grav.</string>
-        <string lang="kr">중력 충전</string>
-        <string lang="pt-br">Carga Grav.</string>
+        <string lang="de">$grav$</string>
+        <string lang="en">$grav$</string>
+        <string lang="fr">$grav$</string>
+        <string lang="zh">$grav$</string>
+        <string lang="jp">$grav$</string>
+        <string lang="ru">$grav$</string>
+        <string lang="es">$grav$</string>
+        <string lang="kr">$grav$</string>
+        <string lang="pt-br">$grav$</string>
     </set>
     <set id="tutorial-grav-equilibrium-window-title">
         <string lang="de">Das Grav.-Equilibrium</string>
@@ -521,7 +544,7 @@ Os módulos de sensor não podem armazenar energia: Use-o na mesma rodada, ou el
         <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
 Es gleicht $grav$ aus.</string>
         <string lang="en">Now it's the turn of the $gravequilibrium$.
-It equalizes $grav$.</string>
+It appears regularly and equalizes $grav$ on the combatants.</string>
         <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
 Il égalise $grav$.</string>
         <string lang="zh">现在是$b$引力平衡$/b$的回合。
@@ -562,7 +585,7 @@ se divide a la mitad$/b$
         <string lang="de">$grav-$
 führt zu einer $b$Grav.-Spitze$/b$</string>
         <string lang="en">$grav-$
-results in a $b$Grav.-Spike$/b$</string>
+leads to a $b$Grav.-Spike$/b$</string>
         <string lang="fr">$grav-$
 produit une $b$crête grav.$/b$</string>
         <string lang="zh">$grav-$
@@ -581,8 +604,7 @@ resulta em um $b$Pico Grav.$/b$</string>
     <set id="tutorial-grav-equilibrium-window-description-negative">
         <string lang="de">$grav-$ wird vollständig entfernt.
 Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
-        <string lang="en">$grav-$ is completely removed.
-combatants receive half of it as $damage$ (rounded up).</string>
+        <string lang="en">$grav-$ on a combatant is completely removed and they receive half of it as $damage$ (rounded up).</string>
         <string lang="fr">$grav-$ est complètement supprimé.
 combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
         <string lang="zh">$grav-$ 被完全移除。
