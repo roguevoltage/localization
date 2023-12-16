@@ -99,6 +99,12 @@
         <string lang="en">Grav. Vulnerability</string>
         <string lang="fr">Amplification Grav.</string>
     </set>
+    <set id="name-skill-gravbarrage">
+        <string lang="en">Grav. Barrage</string>
+    </set>
+    <set id="description-skill-gravbarrage">
+        <string lang="en">Inflicts $grav+1$ to target enemy. Repeat 2 times.</string>
+    </set>
     <set id="name-skill-gravexplode">
         <string lang="de">Grav.-Explosion</string>
         <string lang="en">Grav. Explosion</string>
@@ -619,7 +625,7 @@ Inflicts a module with $fire$.</string>
         <string lang="fr">Réduit le module.</string>
     </set>
     <set id="description-skill-modulespawn-burningdebris">
-        <string lang="en">Constructs a $b$Burning Debris$/b$ module and forces it onto each of your racks.</string>
+        <string lang="en">Constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
     </set>
     <set id="description-skill-modulespawn-pulsar">
         <string lang="en">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
