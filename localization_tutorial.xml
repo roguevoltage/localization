@@ -344,7 +344,7 @@ Use seu $blademodule$ para causar um dano sério.</string>
     </set>
     <set id="tutorialwindow-decelerate-description">
         <string lang="de">Erinnerst du dich, wie die $chronocat$ einen Zug mit $grav+$ auf der Zeitleiste nach hinten verschoben hat? $slopperjackson$ kann das gleiche mit seinem $b$Verlangsamer +1$/b$!</string>
-        <string lang="en">Remember how the $chronocat$ delayed a turn with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$!</string>
+        <string lang="en">Remember how the $chronocat$ pushed a turn back with $grav+$? $slopperjackson$ can do the same with his $b$Decelerator +1$/b$!</string>
         <string lang="fr">Souviens-toi comment le $chronocat$ a poussé un tour sur la chronologie avec $grav+$? $slopperjackson$ peut faire la même chose avec son $b$Décélérateur +1$/b$!</string>
         <string lang="zh">还记得 $chronocat$ 是如何用 $grav+$ 将时间轴上的一个回合向后推的吗？$slopperjackson$可以用他的$b$减速器 +1$/b$模块做同样的事情！</string>
         <string lang="jp">$chronocat$ が $grav+$ でタイムライン上のターンを後ろに押し戻した方法を覚えていますか？ $slopperjackson$ は、同じことを $b$ 減速器 +1$/b$ モジュールで行うことができます！</string>
@@ -354,8 +354,8 @@ Use seu $blademodule$ para causar um dano sério.</string>
         <string lang="pt-br">Lembra como o $chronocat$ atrasou um turno com $grav+$? $slopperjackson$ pode fazer o mesmo com seu módulo $b$Desacelerador +1$/b$!</string>
     </set>
     <set id="tutorialwindow-decelerate-description2">
-        <string lang="de">Er sollte den Zug seines Bruders nach hinten versetzen. Dann ist er erneut auf dem selben Zeitschritt wie der $fox$ und kann wieder das $blademodule$ einsetzen.</string>
-        <string lang="en">Now he should $b$push his brother's turn$/b$ back to $b$align it$/b$ with the enemy's, so he can use the $blademodule$ again.</string>
+        <string lang="de">Er sollte den Zug von $slopperjohnson$ $b$nach hinten versetzen$/b$. Dann ist er erneut auf dem selben Zeitschritt wie der des Gegners und kann wieder das $blademodule$ einsetzen.</string>
+        <string lang="en">Now he should $b$push $slopperjohnson$'s turn back$/b$ to align it with the enemy's, so he can use the $blademodule$ again.</string>
         <string lang="fr">Maintenant, il devrait $b$repousser le tour de son frère$/b$ en arrière, afin qu'il soit $b$aligné$/b$ avec celui de l'ennemi et qu'il puisse à nouveau utiliser le $blademodule$.</string>
         <string lang="zh">现在他应该将他兄弟的回合$b$推后$/b$，这样它就会与敌人的回合$b$对齐$/b$，这样就可以再次使用战斧模块。</string>
         <string lang="jp">今度は、彼は兄弟のターンを後ろに押し戻すべきです。そうすれば、敵と$b$整列された$/b$状態になり、ブレードモジュールを再び使用できます。</string>
@@ -542,9 +542,9 @@ Os módulos de sensor não podem armazenar energia: Use-o na mesma rodada, ou el
     </set>
     <set id="tutorial-grav-equilibrium-window-description-1">
         <string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.
-Es gleicht $grav$ aus.</string>
+Es taucht regelmäßig auf um $grav$ auszugleichen.</string>
         <string lang="en">Now it's the turn of the $gravequilibrium$.
-It appears regularly and equalizes $grav$ on the combatants.</string>
+It regularly appears to equalize $grav$ on the combatants.</string>
         <string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.
 Il égalise $grav$.</string>
         <string lang="zh">现在是$b$引力平衡$/b$的回合。
