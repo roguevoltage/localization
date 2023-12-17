@@ -60,6 +60,13 @@ whenever it receives $energy$.</string>
         <string lang="zh">每当获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
     </set>
+    <set id="name-module-passiveshockabsorber">
+        <string lang="de">Stoßdämpfer</string>
+        <string lang="en">Shock Absorber</string>
+    </set>
+    <set id="description-module-passiveshockabsorber">
+        <string lang="en">If another module on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
+    </set>
     <set id="name-module-passivegravspike">
         <string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
