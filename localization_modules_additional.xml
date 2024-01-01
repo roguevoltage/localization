@@ -630,21 +630,19 @@ At the beginning of the owner's turn, attract the $storm$ by up to $3$ time step
         <string lang="zh">在 $storm$ 开始时充能$2$ $energy$。</string>
         <string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。</string>
     </set>
-    <set id="name-module-toggleddurabilityrestorer">
-        <string lang="de">Erholungs-Granate</string>
-        <string lang="en">Recovery Grenade</string>
-        <string lang="fr">Grenade de Récupération</string>
-        <string lang="zh">恢复手雷</string>
-        <string lang="jp">リカバリーグレネード</string>
+    <set id="name-module-toggledrepairkit">
+        <string lang="de">Reparatur-Kit</string>
+        <string lang="en">Repair Kit</string>
+        <string lang="fr">Kit de Réparation</string>
+        <string lang="zh">修理工具包</string>
+        <string lang="jp">修理キット</string>
     </set>
-    <set id="description-module-toggleddurabilityrestorer">
-        <string lang="de">Entfernt $cooldown$ und $outoforder$ von allen Modulen auf diesem Rack.</string>
-        <string lang="en">Removes $outoforder$ and 
-$cooldown$ from all modules
-on this rack.</string>
-        <string lang="fr">Retire $cooldown$ et $outoforder$ de tous les modules sur ce rack.</string>
-        <string lang="zh">从本机架上的所有模块中移除 $cooldown$ 和 $outoforder$ 。</string>
-        <string lang="jp">このラックのすべてのモジュールから$cooldown$と$outoforder$を取り除きます。</string>
+    <set id="description-module-toggledrepairkit">
+        <string lang="de">Entfernt $cooldown$ und $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
+        <string lang="en">Removes $outoforder$ or $cooldown$ from target module on this rack.</string>
+        <string lang="fr">Retire $cooldown$ ou $outoforder$ d'un module ciblé sur ce rack.</string>
+        <string lang="zh">从本机架上的目标模块中移除 $outoforder$ 或 $cooldown$ 。</string>
+        <string lang="jp">このラックのターゲットモジュールから$cooldown$または$outoforder$を削除します。</string>
     </set>
     <set id="name-module-toggledmightnullifier">
         <string lang="de">Macht-Nullifizierer</string>
