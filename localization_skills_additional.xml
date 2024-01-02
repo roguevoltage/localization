@@ -100,10 +100,12 @@
         <string lang="fr">Amplification Grav.</string>
     </set>
     <set id="name-skill-gravbarrage">
-        <string lang="en">Grav. Barrage</string>
+        <string lang="en">Grav. Barrage $grav+1$×3</string>
     </set>
     <set id="description-skill-gravbarrage">
-        <string lang="en">Inflicts $grav+1$ to target enemy. Repeat 2 times.</string>
+        <string lang="en">Inflicts $grav+1$ to target combatant.
+Inflicts $grav+1$ to target combatant.
+Inflicts $grav+1$ to target combatant.</string>
     </set>
     <set id="name-skill-gravexplode">
         <string lang="de">Grav.-Explosion</string>
