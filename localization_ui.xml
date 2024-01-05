@@ -934,6 +934,15 @@ Se você quiser contribuir, junte-se ao nosso servidor do Discord.</string>
         <string lang="kr">게임 속도</string>
         <string lang="pt-br">Velocidade do jogo</string>
     </set>
+	<set id="ui-settings-twitch">
+        <string lang="en">Enable Twitch Integration</string>      
+    </set>
+	<set id="ui-settings-twitch-channel">
+        <string lang="en">Channel Name</string>      
+    </set>
+	<set id="ui-settings-twitch-token">
+        <string lang="en">Channel Token</string>      
+    </set>
     <set id="ui-settings-autofiremodules">
         <string lang="de">Automatisches Feuern auf ein Einzelziel</string>
         <string lang="en">Automatic firing on single target</string>
