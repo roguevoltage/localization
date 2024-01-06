@@ -417,7 +417,7 @@
         <string lang="kr">플라즈마 연소 증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador de Combustão $MODIFICATIONVALUE$</string>
     </set>
-    <set id="name-module-medikit">
+    <set id="name-module-passivemedikit">
         <string lang="de">Medikit</string>
         <string lang="en">Med-Kit</string>
         <string lang="fr">Kit Médical</string>
@@ -538,7 +538,7 @@
         <string lang="kr">부식 제거 키트</string>
         <string lang="pt-br">Kit de Decrustação</string>
     </set>
-    <set id="name-module-toggledgravnullifier">
+    <set id="name-module-toggledgrenadegravnullifier">
         <string lang="de">Grav.-Neutralisator</string>
         <string lang="en">Grav. Neutralizer</string>
         <string lang="fr">Neutralisant Grav.</string>
@@ -560,7 +560,7 @@
         <string lang="kr">체력 증가기</string>
         <string lang="pt-br">Melhorador de Saúde</string>
     </set>
-    <set id="name-module-toggledvulnerabilitygrenade">
+    <set id="name-module-toggledgrenadevulnerability">
         <string lang="de">Verwundbarkeits-Granate</string>
         <string lang="en">Vulnerability Grenade</string>
         <string lang="fr">Grenade de Vulnérabilité</string>
@@ -1061,7 +1061,7 @@ a la corriente.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
 à corrente.</string>
     </set>
-    <set id="description-module-medikit">
+    <set id="description-module-passivemedikit">
         <string lang="de">Heilt den Charakter zu Beginn jedes Kampfes um $1$ HP.</string>
         <string lang="en">Heals the owner by $1$ HP at the beginning of each battle.</string>
         <string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
@@ -1187,7 +1187,7 @@ Module können nur ein $upgrade$ erhalten.</string>
         <string lang="kr">이 랙의 모든 $passthroughmodule$ 타입의 모듈에 $boost$를 턴 종료까지 적용합니다.</string>
         <string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
     </set>
-    <set id="description-module-toggledvulnerabilitygrenade">
+    <set id="description-module-toggledgrenadevulnerability">
         <string lang="de">Versieht alle Gegner und Spielercharaktere mit $vulnerable$. (Dauer: 6)</string>
         <string lang="en">Applies $vulnerable$ to all enemies and player characters. (Duration: 6)</string>
         <string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
@@ -1198,7 +1198,7 @@ Module können nur ein $upgrade$ erhalten.</string>
         <string lang="kr">모든 전투 참가자에게 $vulnerable$를 적용합니다. (지속시간: 6)</string>
         <string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
     </set>
-    <set id="description-module-toggledgravnullifier">
+    <set id="description-module-toggledgrenadegravnullifier">
         <string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $grav$ from all combatants.</string>
         <string lang="fr">Supprime toute $grav$ de tous les combattants.</string>

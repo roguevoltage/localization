@@ -1,14 +1,14 @@
 <localization>
-    <set id="name-module-shieldvault">
+    <set id="name-module-vaultshield">
         <string lang="en">Shield Vault $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-shieldvault">
+    <set id="description-module-vaultshield">
         <string lang="en">Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
     </set>
-    <set id="name-module-regenerationvault">
+    <set id="name-module-vaultregeneration">
         <string lang="en">Regeneration Vault $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-regenerationvault">
+    <set id="description-module-vaultregeneration">
         <string lang="en">At the end of the owner's turn, remove $1$ stored $energy$ to heal the owner by $1$.</string>
     </set>
     <set id="name-module-coil">
@@ -540,14 +540,14 @@ a la corriente.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$
 à corrente.</string>
     </set>
-    <set id="name-module-mutatingmodifier">
+    <set id="name-module-modifiermutating">
         <string lang="de">Organischer Wandler $MODIFICATIONVALUE$</string>
         <string lang="en">Organic Modifier $MODIFICATIONVALUE$</string>
         <string lang="fr">Modificateur Organique $MODIFICATIONVALUE$</string>
         <string lang="zh">有机修改器 $MODIFICATIONVALUE$</string>
         <string lang="jp">有機モジュレーター $MODIFICATIONVALUE$</string>
     </set>
-    <set id="description-module-mutatingmodifier">
+    <set id="description-module-modifiermutating">
         <string lang="de">Modifiziert einen Strom.</string>
         <string lang="en">Modifies a current.</string>
         <string lang="fr">Modifie un courant.</string>
@@ -644,14 +644,14 @@ At the beginning of the owner's turn, attract the $storm$ by up to $3$ time step
         <string lang="zh">从本机架上的目标模块中移除 $outoforder$ 或 $cooldown$ 。</string>
         <string lang="jp">このラックのターゲットモジュールから$cooldown$または$outoforder$を削除します。</string>
     </set>
-    <set id="name-module-toggledmightnullifier">
+    <set id="name-module-toggledgrenademightnullifier">
         <string lang="de">Macht-Nullifizierer</string>
         <string lang="en">Might Nullifier</string>
         <string lang="fr">Anullateur Pouvoir</string>
         <string lang="zh">力量消除器</string>
         <string lang="jp">マイトヌルファイアー</string>
     </set>
-    <set id="description-module-toggledmightnullifier">
+    <set id="description-module-toggledgrenademightnullifier">
         <string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
         <string lang="en">Removes all $might$ from all combatants.</string>
         <string lang="fr">Retire tout $might$ de tous les combattants.</string>
@@ -676,14 +676,14 @@ At the beginning of the owner's turn, attract the $storm$ by up to $3$ time step
         <string lang="en">Applies $turbo$ to target $passthroughmodule$ on this rack.</string>
         <string lang="fr">Applique $turbo$ à un $passthroughmodule$ ciblé sur ce rack.</string>
     </set>
-    <set id="name-module-toggledstormgrenade">
+    <set id="name-module-toggledgrenadestorm">
         <string lang="de">Sturm-Granate</string>
         <string lang="en">Storm Grenade</string>
         <string lang="fr">Grenade de Tempête</string>
         <string lang="zh">风暴手雷</string>
         <string lang="jp">ストームヌルファイアー</string>
     </set>
-    <set id="description-module-toggledstormgrenade">
+    <set id="description-module-toggledgrenadestorm">
         <string lang="de">Drängt den $storm$
 $b$10$/b$ Zeitschritte zurück.</string>
         <string lang="en">Pushes back $storm$
@@ -698,14 +698,14 @@ by $b$10$/b$ time steps.</string>
     <set id="description-module-toggledstormrepeller">
         <string lang="en">Permanently applies the $b$Storm Repeller$/b$ status to target $passthroughmodule$ on this rack.</string>
     </set>
-    <set id="name-module-toggledgravimmunitygrenade">
+    <set id="name-module-toggledgrenadegravimmunity">
         <string lang="de">Grav.-Immunitäts-Granate</string>
         <string lang="en">Grav. Immunity Grenade</string>
         <string lang="fr">Grenade de Grav. Immunité</string>
         <string lang="zh">引力免疫手雷</string>
         <string lang="jp">グラビティヌルファイアー</string>
     </set>
-    <set id="description-module-toggledgravimmunitygrenade">
+    <set id="description-module-toggledgrenadegravimmunity">
         <string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$. (Dauer: 6)</string>
         <string lang="en">Applies $gravimmunity$ to all combatants. (Duration: 6)</string>
         <string lang="fr">Applique $gravimmunity$ à tous les combattants. (Durée: 6)</string>
