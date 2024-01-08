@@ -1,8 +1,8 @@
 <localization>
     <set id="tutorial-camp">
-        <string lang="de">Zurück im Lager kannst du dich für $plasma$ heilen oder Gebäude wiederherstellen, um spezielle Module zu entdecken.</string>
-        <string lang="en">Back in camp you can heal yourself for $plasma$ or restore buildings to discover special modules.</string>
-        <string lang="fr">Retour au camp, vous pouvez vous soigner pour $plasma$ ou restaurer des bâtiments pour découvrir des modules spéciaux.</string>
+        <string lang="de">Zurück im Lager kannst du für $plasma$ deine Charactere heilen oder Gebäude wiederherstellen, um spezielle Module zu entdecken.</string>
+        <string lang="en">Back in camp you use $plasma$ to heal yourself or restore buildings to discover special modules.</string>
+        <string lang="fr">Retour au camp, vous pouvez utiliser $plasma$ pour vous soigner ou restaurer des bâtiments pour découvrir des modules spéciaux.</string>
         <string lang="zh">回到营地后，你可以用 $plasma$ 治疗自己或者恢复建筑物来发现特殊模块。</string>
         <string lang="jp">キャンプに戻ると、$plasma$を使って自分を回復したり、建物を復元して特別なモジュールを発見できます。</string>
         <string lang="ru">Вернувшись в лагерь, вы можете исцелить себя за $plasma$ или восстановить здания, чтобы открыть специальные модули.</string>
@@ -22,26 +22,26 @@
         <string lang="pt-br">O Rack Modular</string>
     </set>
     <set id="tutorialwindow-rack-description">
-        <string lang="de">In diesem Spiel baust du deine Aktionen selbst zusammen, indem du $b$Module$/b$ miteinander verkabelst.</string>
-        <string lang="en">In this game, you construct your own actions with $b$modules$/b$ that you wire together.</string>
-        <string lang="fr">Vos actions sont constituées de $b$modules$/b$ que vous reliez entre eux.</string>
-        <string lang="zh">战斗动作由你连接的$b$模块$/b$组合构成。</string>
-        <string lang="jp">戦闘アクションは、$b$モジュール$/b$を接続して作成されます。</string>
-        <string lang="ru">Боевые действия состоят из $b$модулей$/b$, которые вы связываете вместе.</string>
-        <string lang="es">Tus acciones se construyen a partir de $b$módulos$/b$ que conectas.</string>
-        <string lang="kr">전투 액션은 서로 연결된 $b$모듈$/b$로 구성됩니다.</string>
-        <string lang="pt-br">Suas ações são construídas a partir de $b$módulos$/b$ que você conecta.</string>
+        <string lang="de">In Rogue Voltage baust du Maschinen aus $b$Modulen$/b$, die du miteinander verkabelst.</string>
+        <string lang="en">In Rogue Voltage, you construct machines from $b$modules$/b$ that you wire together.</string>
+        <string lang="fr">Dans Rogue Voltage, vous construisez vos propres actions avec des $b$modules$/b$ que vous reliez entre eux.</string>
+        <string lang="zh">在Rogue Voltage中，你通过连接$b$模块$/b$来构建自己的动作。</string>
+        <string lang="jp">Rogue Voltageでは、$b$モジュール$/b$を組み合わせて自分自身のアクションを構築します。</string>
+        <string lang="ru">В Rogue Voltage вы сами создаете свои действия с помощью $b$модулей$/b$, которые вы соединяете вместе.</string>
+        <string lang="es">En Rogue Voltage, construyes tus propias acciones con $b$módulos$/b$ que conectas entre sí.</string>
+        <string lang="kr">Rogue Voltage에서는 $b$모듈$/b$을 연결하여 자신만의 행동을 구성합니다.</string>
+        <string lang="pt-br">Em Rogue Voltage, você constrói suas próprias ações com $b$módulos$/b$ que você conecta entre si.</string>
     </set>
 <set id="tutorialwindow-energy-title">
-        <string lang="de">$energy$</string>
-        <string lang="en">$energy$</string>
-        <string lang="fr">$energy$</string>
-        <string lang="zh">$energy$</string>
-        <string lang="jp">$energy$</string>
-        <string lang="ru">$energy$</string>
-        <string lang="es">$energy$</string>
-        <string lang="kr">$energy$</string>
-        <string lang="pt-br">$energy$</string>
+        <string lang="de">Energie</string>
+        <string lang="en">Energy</string>
+        <string lang="fr">Énergie</string>
+        <string lang="zh">能量</string>
+        <string lang="jp">エネルギー</string>
+        <string lang="ru">Энергия</string>
+        <string lang="es">Energía</string>
+        <string lang="kr">에너지</string>
+        <string lang="pt-br">Energia</string>
     </set>
     <set id="tutorialwindow-energy-description">
         <string lang="de">Module laufen mit $energy$punkten.
@@ -210,12 +210,12 @@ Conecte-o ao seu novo $b$Conversor de Plasma$/b$ para transformar o excesso de e
         <string lang="pt-br">Propriedades dos Módulos</string>
     </set>
     <set id="tutorialwindow-modulemodifiers-description">
-        <string lang="de">Die $b$"+"1$/b$ auf dem Heiltrank bedeutet, dass er dem Strom $b$+1$/b$ $energy$ hinzufügt. Er wird dich also um $2$ Punkte heilen.
+        <string lang="de">Die $b$"+"1$/b$ auf dem $b$Heiltrank +1$/b$ bedeutet, dass er dem Strom $b$+1$/b$ $energy$ hinzufügt. Er wird dich also um $2$ Punkte heilen.
 Module mit $cracked$ werden nach der Aktivierung zerstört.</string>
-        <string lang="en">The $b$"+1"$/b$ on the Healing Potion means it will add $b$+1$/b$ $energy$ to the current, healing you by $2$ points.
-Modules with $cracked$ will be destroyed after activation.</string>
-        <string lang ="fr">Le $b$+1$/b$ sur la Potion de Soin signifie qu'elle ajoute $b$+1$/b$ $energy$ au courant, vous soignant de $2$ points.
-Elle a aussi $cracked$, ce qui signifie qu'elle sera détruite après activation.</string>
+        <string lang="en">The $b$"+1"$/b$ on the $b$Healing Potion +1$/b$ means it will add $b$+1$/b$ $energy$ to the current, healing you by $2$ points.
+Modules with $cracked$ are destroyed after activation.</string>
+        <string lang ="fr">Le $b$+1$/b$ sur la $b$Potion de Soin +1$/b$ signifie qu'elle ajoute $b$+1$/b$ $energy$ au courant, vous soignant de $2$ points.
+Modules avec $cracked$ seront détruits après activation.</string>
         <string lang="zh">你的治疗药水有 $b$+1$/b$，这意味着它会给输入电流增加 $b$+1$/b$ $energy$，治疗你 $2$ 点。
 它还有 $cracked$，这意味着它在使用后会被摧毁。</string>
         <string lang="jp">回復ポーションの$b$+1$/b$は、入力電流に$b$+1$/b$ $energy$を追加し、$2$ポイント回復することを意味します。
@@ -519,15 +519,15 @@ Los módulos de sensor no pueden almacenar energía: Úsalo en el mismo turno, o
 Os módulos de sensor não podem armazenar energia: Use-o na mesma rodada, ou ele se dissipará.</string>
     </set>
     <set id="tutorialwindow-gravcharge-title">
-        <string lang="de">$grav$</string>
-        <string lang="en">$grav$</string>
-        <string lang="fr">$grav$</string>
-        <string lang="zh">$grav$</string>
-        <string lang="jp">$grav$</string>
-        <string lang="ru">$grav$</string>
-        <string lang="es">$grav$</string>
-        <string lang="kr">$grav$</string>
-        <string lang="pt-br">$grav$</string>
+        <string lang="de">Grav.-Ladung</string>
+        <string lang="en">Grav. Charge</string>
+        <string lang="fr">Charge Grav.</string>
+        <string lang="zh">引力荷</string>
+        <string lang="jp">重力電荷</string>
+        <string lang="ru">Грав. Заряд</string>
+        <string lang="es">Carga Grav.</string>
+        <string lang="kr">중력 충전</string>
+        <string lang="pt-br">Carga Grav.</string>
     </set>
     <set id="tutorial-grav-equilibrium-window-title">
         <string lang="de">Das Grav.-Equilibrium</string>

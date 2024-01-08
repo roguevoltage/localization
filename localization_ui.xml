@@ -949,13 +949,59 @@ Se você quiser contribuir, junte-se ao nosso servidor do Discord.</string>
         <string lang="pt-br">Velocidade do jogo</string>
     </set>
 	<set id="ui-settings-twitch">
-        <string lang="en">Enable Twitch Integration</string>      
+        <string lang="de">Twitch-Integration Aktivieren</string>
+        <string lang="en">Enable Twitch Integration</string>
+        <string lang="fr">Activer l'intégration Twitch</string>
+        <string lang="zh">启用Twitch集成</string>
+        <string lang="jp">Twitch統合を有効にする</string>
+        <string lang="ru">Включить интеграцию Twitch</string>
+        <string lang="es">Habilitar integración de Twitch</string>
+        <string lang="kr">Twitch 통합 활성화</string>
+        <string lang="pt-br">Ativar integração do Twitch</string>
     </set>
 	<set id="ui-settings-twitch-channel">
+        <string lang="de">Channel-Name</string>
         <string lang="en">Channel Name</string>      
+        <string lang="fr">Nom de la chaîne</string>
+        <string lang="zh">频道名称</string>
+        <string lang="jp">チャンネル名</string>
+        <string lang="ru">Имя канала</string>
+        <string lang="es">Nombre del canal</string>
+        <string lang="kr">채널 이름</string>
+        <string lang="pt-br">Nome do canal</string>
+    </set>
+    <set id="ui-settings-twitch-channel-prompt">
+        <string lang="de">Channel-Name eingeben</string>
+        <string lang="en">Enter Channel Name ...</string>
+        <string lang="fr">Entrez nom de la chaîne ...</string>
+        <string lang="zh">输入频道名称...</string>
+        <string lang="jp">チャンネル名を入力してください</string>
+        <string lang="ru">Введите имя канала ...</string>
+        <string lang="es">Ingrese el nombre del canal ...</string>
+        <string lang="kr">채널 이름을 입력하십시오 ...</string>
+        <string lang="pt-br">Digite o nome do canal ...</string>
     </set>
 	<set id="ui-settings-twitch-token">
-        <string lang="en">Channel Token</string>      
+        <string lang="de">Channel-Token</string>
+        <string lang="en">Channel Token</string>    
+        <string lang="fr">Token de chaîne</string>  
+        <string lang="zh">频道令牌</string>
+        <string lang="jp">チャンネルトークン</string>
+        <string lang="ru">Токен канала</string>
+        <string lang="es">Token de canal</string>
+        <string lang="kr">채널 토큰</string>
+        <string lang="pt-br">Token do canal</string>
+    </set>
+    <set id="ui-settings-twitch-token-prompt">
+        <string lang="de">OAuth-Token eingeben</string>
+        <string lang="en">Enter OAuth Token...</string>      
+        <string lang="fr">Entrez le jeton OAuth ...</string>
+        <string lang="zh">输入OAuth令牌...</string>
+        <string lang="jp">OAuthトークンを入力してください</string>
+        <string lang="ru">Введите токен OAuth ...</string>
+        <string lang="es">Ingrese el token OAuth ...</string>
+        <string lang="kr">OAuth 토큰을 입력하십시오 ...</string>
+        <string lang="pt-br">Digite o token OAuth ...</string>
     </set>
     <set id="ui-settings-autofiremodules">
         <string lang="de">Automatisches Feuern auf ein Einzelziel</string>
