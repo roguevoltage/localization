@@ -119,33 +119,38 @@ prevent $1damage$,
 the Lightning Rod generates 
 $b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
     </set>
-    <set id="name-module-duplicator">
+    <set id="name-module-toggledduplicator">
         <string lang="de">Duplikator</string>
         <string lang="en">Duplicator</string>
         <string lang="fr">Duplicateur</string>
         <string lang="zh">复制器</string>
         <string lang="jp">複製機</string>
     </set>
-    <set id="description-module-duplicator">
+    <set id="description-module-toggledduplicator">
         <string lang="de">Stellt eine permanente Kopie eines Moduls deiner Wahl her.</string>
         <string lang="en">Constructs a permanent copy of another target module on this rack.</string>
         <string lang="fr">Construit une copie permanente d'un autre module ciblé.</string>
         <string lang="zh">创建一个其他模块的永久复制品。</string>
         <string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
     </set>
-    <set id="name-module-duplicator-eob">
+    <set id="name-module-toggledduplicator-eob">
         <string lang="de">Instabiler Duplikator</string>
         <string lang="en">Unstable Duplicator</string>
         <string lang="fr">Duplicateur Instable</string>
         <string lang="zh">不稳定的复制器</string>
         <string lang="jp">不安定な複製機</string>
     </set>
-    <set id="description-module-duplicator-eob">
-        <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her. Die Kopie erhält $unstable$.</string>
-        <string lang="en">Constructs a copy of another target module on this rack. The copy has $unstable$.</string>
-        <string lang="fr">Construit une copie d'un autre module ciblé. La copie a $unstable$.</string>
-        <string lang="zh">创建一个其他模块的复制。复制品具有 $unstable$ 。</string>
-        <string lang="jp">別のターゲットモジュールのコピーを作成します。コピーには$unstable$があります。</string>
+    <set id="description-module-toggledduplicator-eob">
+        <string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her.
+Die Kopie erhält $unstable$.</string>
+        <string lang="en">Constructs a copy of another target module on this rack.
+The copy has $unstable$.</string>
+        <string lang="fr">Construit une copie d'un autre module ciblé. 
+La copie a $unstable$.</string>
+        <string lang="zh">创建一个其他模块的复制。
+复制品具有 $unstable$ 。</string>
+        <string lang="jp">別のターゲットモジュールのコピーを作成します。
+コピーには$unstable$があります。</string>
     </set>
     <set id="name-module-effectormine">
         <string lang="de">Mine $MODIFICATIONVALUE$</string>
