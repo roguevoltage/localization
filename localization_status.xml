@@ -175,17 +175,6 @@
         <string lang="kr">오염</string>
         <string lang="pt-br">Poluição</string>
     </set>
-    <set id="name-status-modulerecovery">
-        <string lang="de">Erholung</string>
-        <string lang="en">Recovery</string>
-        <string lang="fr">Récuperation</string>
-        <string lang="zh">恢复</string>
-        <string lang="jp">回復</string>
-        <string lang="ru">Восстановление</string>
-        <string lang="es">Recuperación</string>
-        <string lang="kr">회복</string>
-        <string lang="pt-br">Recuperação</string>
-    </set>
     <set id="name-status-modulecooldown">
         <string lang="de">Cooldown</string>
         <string lang="en">Cooldown</string>
@@ -373,7 +362,7 @@
         <string lang="kr">$grav+short$ to $damage$</string>
         <string lang="pt-br">$grav+short$ para $damage$</string>
     </set>
-    <set id="name-status-transformation-gravtopower">
+    <set id="name-status-transformation-gravtomight">
         <string lang="de">$grav+$ zu $might$</string>
         <string lang="en">$grav+$ to $might$</string>
         <string lang="fr">$grav+$ vers $might$</string>
@@ -904,17 +893,6 @@ to the owner</string>
         <string lang="kr">이번 턴 활성화는 소유자에게 $1damage$를 줍니다.</string>
         <string lang="pt-br">Ativação neste turno causa $1damage$ ao dono</string>
     </set>
-    <set id="description-status-modulerecovery">
-        <string lang="de">Haltbarkeit erholt sich nach Kampf</string>
-        <string lang="en">Durability will recover after battle</string>
-        <string lang="fr">Durabilité se régénère après le combat</string>
-        <string lang="zh">战斗结束后恢复耐久度</string>
-        <string lang="jp">戦闘後に耐久度が回復します</string>
-        <string lang="ru">Прочность восстановится после боя</string>
-        <string lang="es">La durabilidad se recuperará después de la batalla</string>
-        <string lang="kr">전투 후 내구도가 회복됩니다</string>
-        <string lang="pt-br">A durabilidade se recuperará após a batalha</string>
-    </set>
     <set id="description-status-modulecooldown">
         <string lang="de">Kann diese Runde nicht aktiviert werden</string>
         <string lang="en">Can't be activated this turn</string>
@@ -1107,7 +1085,7 @@ with $grav+2$</string>
         <string lang="kr">$grav+$는 $damage$로 변환됩니다</string>
         <string lang="pt-br">O dano recebido de $grav+$ é transformado em $damage$</string>
     </set>
-    <set id="description-status-transformation-gravtopower">
+    <set id="description-status-transformation-gravtomight">
         <string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt</string>
         <string lang="en">Incoming $grav+$ is transformed to $might$ instead</string>
         <string lang="fr">$grav+$ entrante est transformée en $might$</string>
