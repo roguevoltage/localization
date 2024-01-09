@@ -667,7 +667,7 @@ At the beginning of the owner's turn, attract the $storm$ by up to $3$ time step
         <string lang="en">Passthrough Vacuumizer</string>
     </set>
         <set id="description-module-toggledgravvacuum">
-        <string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.</string>
+        <string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack that does not already have $gravvacuum$.</string>
     </set>
     <set id="name-module-toggledturbo">
         <string lang="de">Durchsatz-Turbo</string>
