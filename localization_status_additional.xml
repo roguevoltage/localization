@@ -142,6 +142,12 @@ while wired to a threat module</string>
         <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
         <string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
     </set>
+    <set id="name-status-transformation-volcanodamagetograv">
+        <string lang="en">Volcano $damage$ to $grav+$</string>
+    </set>
+    <set id="description-status-transformation-volcanodamagetograv">
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+    </set>
     <set id="name-status-transformation-volcanodamagetomight">
         <string lang="de">Vulkan-$damage$ zu $might$</string>
         <string lang="en">Volcano $damage$ to $might$</string>

@@ -60,6 +60,10 @@
         <string lang="en">Fire $fireicon$</string>
         <string lang="fr">Feu $fireicon$</string>
     </set>
+    <set id="name-skill-modulefire-volcanoboss">
+        <string lang="de">Feuerstoß $fireicon$×3</string>
+        <string lang="en">Fire Breathing $fireicon$×3</string>
+    </set>
     <set id="name-skill-modulefire-firegnat">
         <string lang="de">Brennender Stich $grav+1$$fireicon$</string>
         <string lang="en">Burning Sting $grav+1$$fireicon$</string>
@@ -100,11 +104,10 @@
         <string lang="fr">Amplification Grav.</string>
     </set>
     <set id="name-skill-gravbarrage">
-        <string lang="en">Grav. Barrage $grav+1$×3</string>
+        <string lang="en">Grav. Barrage $grav+1$×2</string>
     </set>
     <set id="description-skill-gravbarrage">
         <string lang="en">Inflicts $grav+1$ to target combatant.
-Inflicts $grav+1$ to target combatant.
 Inflicts $grav+1$ to target combatant.</string>
     </set>
     <set id="name-skill-gravexplode">
@@ -348,6 +351,11 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="de">Seelen-Detektion $mighticon$</string>
         <string lang="en">Soul Detection $mighticon$</string>
         <string lang="fr">Détection d'Âme $mighticon$</string>
+    </set>
+    <set id="name-skill-passive-volcanodamagetograv">
+        <string lang="de">Vulkan-$damage$ zu $grav+$</string>
+        <string lang="en">Volcano $damage$ to $grav+$</string>
+        <string lang="fr">Volcan $damage$ vers $grav+$</string>
     </set>
     <set id="name-skill-passive-volcanodamagetomight">
         <string lang="de">Vulkan-$damage$ zu $might$</string>
@@ -737,6 +745,11 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
         <string lang="en">Raises $might$ by $1$ whenever an ally is defeated.</string>
         <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
+    </set>
+    <set id="description-skill-passive-volcanodamagetograv">
+        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $grav+$ umgewandelt.</string>
+        <string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+        <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-passive-volcanodamagetomight">
         <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
