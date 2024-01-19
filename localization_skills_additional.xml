@@ -163,7 +163,7 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="fr">Tirer Grav. $grav-1$</string>
     </set>
     <set id="name-skill-gravpull-pterodactyl">
-        <string lang="de">Einkreisen $grav-1$</string>
+        <string lang="de">Kreisen $grav-1$</string>
         <string lang="en">Circle $grav-1$</string>
         <string lang="fr">Cercle $grav-1$</string>
     </set>
@@ -428,45 +428,62 @@ Inflicts $grav+1$ to target combatant.</string>
     <set id="name-skill-swiftstrike">
         <string lang="de">Flinker Angriff</string>
         <string lang="en">Swift Strike</string>
+        <string lang="fr">Frappe Rapide</string>
+        <string lang="zh">迅捷打击</string>
+        <string lang="ja">迅速な攻撃</string>
     </set>
     <set id="name-skill-volcanoeruption">
         <string lang="de">Ausbruch</string>
         <string lang="en">Eruption</string>
         <string lang="fr">Éruption</string>
+        <string lang="zh">火山喷发</string>
+        <string lang="ja">噴火</string>
     </set>
     <set id="name-skill-volcanosnail-slag">
         <string lang="de">Schlacke $crusticon$</string>
         <string lang="en">Slag $crusticon$</string>
+        <string lang="fr">Laitier $crusticon$</string>
+        <string lang="zh">熔渣 $crusticon$</string>
+        <string lang="ja">スラグ $crusticon$</string>
     </set>
     <set id="description-skill-vulnerability">
         <string lang="de">Versieht einen Gegner mit $vulnerable$.</string>
         <string lang="en">Inflicts an enemy with $vulnerable$.</string>
         <string lang="fr">Inflige à un ennemi l'état $vulnerable$.</string>
+        <string lang="zh">使敌人获得易伤状态。</string>
+        <string lang="ja">敵に $vulnerable$ を付与する。</string>
     </set>
     <set id="description-skill-beesting">
         <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$.</string>
         <string lang="en">Deals $1damage$ and inflicts $vulnerable$.</string>
         <string lang="fr">Inflige à un ennemi $1damage$ et $vulnerable$.</string>
+        <string lang="zh">造成 $1damage$ 并使敌人获得易伤状态。</string>
+        <string lang="ja">敵に $1damage$ と $vulnerable$ を付与する。</string>
     </set>
     <set id="description-skill-gravamplificationglobal">
         <string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
         <string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
-        <string lang="fr">n/a</string>
+        <string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $gravamplification$.</string>
+        <string lang="zh">使所有在同一时间步的战斗者获得 $gravamplification$ 状态。</string>
     </set>
     <set id="description-skill-batter">
         <string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
         <string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
-        <string lang="fr">n/a</string>
+        <string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
+        <string lang="zh">对敌人造成 $2damage$ 并使自身获得 $grav+2$ 状态。</string>
+        <string lang="ja">敵に $2damage$ と $grav+2$ を付与する。</string>
     </set>
     <set id="description-skill-vulnerabilityglobal">
         <string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
         <string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
-        <string lang="fr">n/a</string>
+        <string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $vulnerable$.</string>
+        <string lang="zh">使所有在同一时间步的战斗者获得 $vulnerable$ 状态。</string>
     </set>
     <set id="description-skill-ondeath-enemyspawn-egg-phoenix">
         <string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
         <string lang="en">Leaves a $b$Phoenix Egg$/b$.</string>
-        <string lang="fr">n/a</string>
+        <string lang="fr">Laisse un $b$Oeuf Phoenix$/b$.</string>
+        <string lang="zh">留下一个 
     </set>
     <set id="description-skill-enemyspawn-bees">
         <string lang="de">n/a</string>
