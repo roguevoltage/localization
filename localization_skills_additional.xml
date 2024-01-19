@@ -465,6 +465,7 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
         <string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $gravamplification$.</string>
         <string lang="zh">使所有在同一时间步的战斗者获得 $gravamplification$ 状态。</string>
+        <string lang="ja">敵に $gravamplification$ を付与する。</string>
     </set>
     <set id="description-skill-batter">
         <string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
@@ -478,12 +479,14 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
         <string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $vulnerable$.</string>
         <string lang="zh">使所有在同一时间步的战斗者获得 $vulnerable$ 状态。</string>
+        <string lang="ja">敵に $vulnerable$ を付与する。</string>
     </set>
     <set id="description-skill-ondeath-enemyspawn-egg-phoenix">
         <string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
         <string lang="en">Leaves a $b$Phoenix Egg$/b$.</string>
         <string lang="fr">Laisse un $b$Oeuf Phoenix$/b$.</string>
-        <string lang="zh">留下一个 
+        <string lang="zh">留下一个 $b$凤凰蛋$/b$。</string>
+        <string lang="ja">$b$フェニックスの卵$/b$ を残す。</string>
     </set>
     <set id="description-skill-enemyspawn-bees">
         <string lang="de">n/a</string>
