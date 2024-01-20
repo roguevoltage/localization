@@ -395,6 +395,17 @@
         <string lang="kr">센서 증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador de Sensor $MODIFICATIONVALUE$</string>
     </set>
+    <set id="name-module-modifierconditionaltrauma">
+        <string lang="de">Bedingter Verst. $MODIFICATIONVALUE$: Trauma</string>
+        <string lang="en">Conditional Amp. $MODIFICATIONVALUE$: Trauma</string>
+        <string lang="fr">Amplificateur Conditionnel $MODIFICATIONVALUE$: Trauma</string>
+        <string lang="zh">条件增幅器 $MODIFICATIONVALUE$: 伤人</string>
+        <string lang="jp">条件付き増幅器 $MODIFICATIONVALUE$: 創傷</string>
+        <string lang="ru">Условный Усилитель $MODIFICATIONVALUE$: Травма </string>
+        <string lang="es">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
+        <string lang="kr">조건부 증폭기 $MODIFICATIONVALUE$: 외상 </string>
+        <string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
+    </set>
     <set id="name-module-modifierdecelerating">
         <string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Recoil Amplifier $MODIFICATIONVALUE$</string>
@@ -997,15 +1008,15 @@ sur les deux jacks output.</string>
         <string lang="pt-br">Mescla duas correntes.</string>
     </set>
     <set id="description-module-modifier">
-        <string lang="de">Modifiziert einen Strom.</string>
-        <string lang="en">Modifies a current.</string>
-        <string lang="fr">Modifie un courant.</string>
-        <string lang="zh">修改一个电流。</string>
-        <string lang="jp">電流を変更します。</string>
-        <string lang="ru">Модифицирует ток.</string>
-        <string lang="es">Modifica una corriente.</string>
-        <string lang="kr">전류를 수정합니다.</string>
-        <string lang="pt-br">Modifica uma corrente.</string>
+        <string lang="de">Verändert die Farbe eines Stroms.</string>
+        <string lang="en">Changes the color of a current.</string>
+        <string lang="fr">Change la couleur d'un courant.</string>
+        <string lang="zh">修改一个电流的颜色。</string>
+        <string lang="jp">電流の色を変更します。</string>
+        <string lang="ru">Изменяет цвет тока.</string>
+        <string lang="es">Cambia el color de una corriente.</string>
+        <string lang="kr">전류의 색상을 변경합니다.</string>
+        <string lang="pt-br">Altera a corrente de uma corrente.</string>
     </set>
     <set id="description-module-amplifier">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -1032,6 +1043,26 @@ a la corriente.</string>
         <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
         <string lang="kr">$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+    </set>
+    <set id="description-module-modifierconditionaltrauma">
+        <string lang="de">Verändert die Farbe eines Stroms.
+Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder weniger HP$/b$ hat.</string>
+        <string lang="en">Changes the color of a current.
+Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$2 or less HP$/b$.</string>
+        <string lang="fr">Change la couleur d'un courant.
+Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$2 PV ou moins$/b$.</string>
+        <string lang="zh">修改一个电流的颜色。
+如果拥有者有 $b$2 或更少 HP$/b$，则添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+        <string lang="jp">電流の色を変更します。
+所有者が $b$2 以下の HP$/b$ を持っている場合、$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+        <string lang="ru">Изменяет цвет тока.
+Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$, если владелец имеет $b$2 или меньше HP$/b$.</string>
+        <string lang="es">Cambia el color de una corriente.
+Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$2 o menos HP$/b$.</string>
+        <string lang="kr">전류의 색상을 변경합니다.
+소유자가 $b$2 이하의 HP$/b$를 가지고있는 경우 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Altera a corrente de uma corrente.
+Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
     </set>
     <set id="description-module-modifierdecelerating">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
