@@ -406,6 +406,17 @@
         <string lang="kr">조건부 증폭기 $MODIFICATIONVALUE$: 외상 </string>
         <string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
     </set>
+    <set id="name-module-modifierconditionaldeceleration">
+        <string lang="de">Bedingter Verst. $MODIFICATIONVALUE$: Verlangsamung</string>
+        <string lang="en">Conditional Amp. $MODIFICATIONVALUE$: Deceleration</string>
+        <string lang="fr">Amplificateur Conditionnel $MODIFICATIONVALUE$: Décélération</string>
+        <string lang="zh">条件增幅器 $MODIFICATIONVALUE$: 减速</string>
+        <string lang="jp">条件付き増幅器 $MODIFICATIONVALUE$: 減速</string>
+        <string lang="ru">Условный Усилитель $MODIFICATIONVALUE$: Замедление</string>
+        <string lang="es">Amplificador Condicional $MODIFICATIONVALUE$: Deceleración</string>
+        <string lang="kr">조건부 증폭기 $MODIFICATIONVALUE$: 감속</string>
+        <string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Desaceleração</string>
+    </set>
     <set id="name-module-modifierdecelerating">
         <string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
         <string lang="en">Recoil Amplifier $MODIFICATIONVALUE$</string>
@@ -1063,6 +1074,12 @@ Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$2 o menos HP$/b
 소유자가 $b$2 이하의 HP$/b$를 가지고있는 경우 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
         <string lang="pt-br">Altera a corrente de uma corrente.
 Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
+    </set>
+    <set id="description-module-modifierconditionaldeceleration">
+        <string lang="de">Verändert die Farbe eines Stroms.
+Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder mehr $grav+$$/b$ hat.</string>
+        <string lang="en">Changes the color of a current.
+Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$2 or more $grav+$$/b$.</string>
     </set>
     <set id="description-module-modifierdecelerating">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
