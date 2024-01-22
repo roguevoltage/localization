@@ -11,6 +11,12 @@
     <set id="description-module-vaultregeneration">
         <string lang="en">At the end of the owner's turn, remove $1$ stored $energy$ to heal the owner by $1$.</string>
     </set>
+    <set id="name-module-vaultacceleration">
+        <string lang="en">Acceleration Vault $MODIFICATIONVALUE$</string>
+    </set>
+    <set id="description-module-vaultacceleration">
+        <string lang="en">At the end of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to the owner.</string>
+    </set>
     <set id="name-module-coil">
         <string lang="de">Spule $MODIFICATIONVALUE$</string>
         <string lang="en">Coil $MODIFICATIONVALUE$</string>
