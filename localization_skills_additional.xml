@@ -61,8 +61,8 @@
         <string lang="fr">Feu $fireicon$</string>
     </set>
     <set id="name-skill-modulefire-volcanoboss">
-        <string lang="de">Feuerstoß $fireicon$×3</string>
-        <string lang="en">Fire Breathing $fireicon$×3</string>
+        <string lang="de">Feuerstoß $fireicon$$fireicon$</string>
+        <string lang="en">Fire Breathing $fireicon$$fireicon$</string>
     </set>
     <set id="name-skill-modulefire-firegnat">
         <string lang="de">Brennender Stich $grav+1$$fireicon$</string>
@@ -161,6 +161,9 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="de">Grav.-Ziehen $grav-1$</string>
         <string lang="en">Grav. Pull $grav-1$</string>
         <string lang="fr">Tirer Grav. $grav-1$</string>
+    </set>
+    <set id="name-skill-gravpull-push">
+        <string lang="en">Grav. Imbalance $grav-1$$grav+1$</string>
     </set>
     <set id="name-skill-gravpull-pterodactyl">
         <string lang="de">Kreisen $grav-1$</string>
@@ -329,7 +332,7 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="de">Sturmruf $stormicon$</string>
         <string lang="en">Storm Call $stormicon$</string>
     </set>
-    <set id="name-skill-passive-modulefireifdamaged">
+    <set id="name-skill-passive-ondamage-modulefire">
         <string lang="en">Molten Shell $fireicon$</string>
     </set>
     <set id="name-skill-passive-powerraiseifgravinflicted">
@@ -519,8 +522,12 @@ grants an existing egg $1$ $might$.</string>
     </set>
     <set id="description-skill-modulefire-firegnat">
         <string lang="de">Fügt einem Gegner $grav+1$ zu und versieht ein Modul mit $fire$.</string>
-        <string lang="en">Inflicts and enemy with $grav+1$ and one module with $fire$.</string>
+        <string lang="en">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
         <string lang="fr">Inflige deux modules avec $fire$.</string>
+    </set>
+    <set id="description-skill-modulefire-volcanoboss">
+        <string lang="de">Feuerstoß $fireicon$</string>
+        <string lang="en">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
     </set>
     <set id="description-skill-gravabsorb">
         <string lang="de">Absorbiert $grav+$ als Heilung.</string>
@@ -580,6 +587,12 @@ Inflicts a module with $fire$.</string>
     <set id="description-skill-gravpull-volcanoboss">
         <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
         <string lang="en">Inflicts another combatant with $grav-1$</string>
+        <string lang="fr">n/a</string>
+    </set>
+    <set id="description-skill-gravpull-push">
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu.
+Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
+        <string lang="en">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravpull1">
@@ -748,7 +761,7 @@ Inflicts all other combatants with $grav-1$.</string>
     <set id="description-skill-passive-gravneutralizeaoeonbeginningofturn">
         <string lang="en">On the beginning of its turn, neutralizes all $grav$ on all combatants.</string>
     </set>
-    <set id="description-skill-passive-modulefireifdamaged">
+    <set id="description-skill-passive-ondamage-modulefire">
         <string lang="en">Inflicts a module with $fire$ whenever it receives $damage$.</string>
     </set>
     <set id="description-skill-passive-powerraiseifmodulecreated">
