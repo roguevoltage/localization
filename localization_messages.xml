@@ -44,20 +44,15 @@
         <string lang="pt-br">Só pode ser movido fora do combate</string>
     </set>
     <set id="error-modulelock-nextturn">
-        <string lang="de">Bis zum nächsten Zug
-ans Rack geschlossen</string>
-        <string lang="en">Locked to rack 
-until next turn</string>
-        <string lang="fr">Verrouillé au rack
-jusqu'au prochain tour</string>
+        <string lang="de">Bis zum nächsten Zug$br$ans Rack geschlossen</string>
+        <string lang="en">Locked to rack$br$until next turn</string>
+        <string lang="fr">Verrouillé au rack$br$jusqu'au prochain tour</string>
         <string lang="zh">下一回合前锁定在机架</string>
         <string lang="jp">次のターンまでラックに固定</string>
         <string lang="ru">Закрыто до следующего хода</string>
-        <string lang="es">Bloqueado al rack 
-hasta el siguiente turno</string>
+        <string lang="es">Bloqueado al rack$br$hasta el siguiente turno</string>
         <string lang="kr">다음 턴까지 랙에 고정됩니다</string>
-        <string lang="pt-br">Trancado no rack
-até o próximo turno</string>
+        <string lang="pt-br">Trancado no rack$br$até o próximo turno</string>
     </set>
     <set id="error-modulecannotbetakenfromrack">
         <string lang="de">Kann nicht vom Rack genommen werden</string>
@@ -159,21 +154,15 @@ até o próximo turno</string>
         <string lang="pt-br">Não pode ser descartado</string>
     </set>
     <set id="error-module-encrusted">
-        <string lang="de">Zerbreche $crust$
-mit $energy$</string>
-        <string lang="en">Break $crust$
-with $energy$</string>
-        <string lang="fr">Cassez $crust$
-avec $energy$</string>
+        <string lang="de">Zerbreche $crust$$br$mit $energy$</string>
+        <string lang="en">Break $crust$$br$with $energy$</string>
+        <string lang="fr">Cassez $crust$$br$avec $energy$</string>
         <string lang="zh">用 $energy$ 破坏 $crust$</string>
         <string lang="jp">$energy$で$crust$を破壊</string>
-        <string lang="ru">Разбейте $crust$
-с помощью $energy$</string>
-        <string lang="es">Rompe $crust$
-con $energy$</string>
+        <string lang="ru">Разбейте $crust$$br$с помощью $energy$</string>
+        <string lang="es">Rompe $crust$$br$con $energy$</string>
         <string lang="kr">$energy$로 $crust$를 부수세요</string>
-        <string lang="pt-br">Quebre $crust$
-com $energy$</string>
+        <string lang="pt-br">Quebre $crust$$br$com $energy$</string>
     </set>
     <set id="error-levelnotviable">
         <string lang="de">Dieses Level ist nicht verfügbar.</string>
@@ -209,21 +198,15 @@ com $energy$</string>
         <string lang="pt-br">Não há espaço livre no rack</string>
     </set>
     <set id="error-inputtooutput">
-        <string lang="de">Verkabele Input-
-zu Output-Buchse</string>
-        <string lang="en">Must wire input 
-to output jack</string>
-        <string lang="fr">Cablez jack entrée 
-à jack sortie</string>
+        <string lang="de">Verkabele Input-$br$zu Output-Buchse</string>
+        <string lang="en">Must wire input$br$to output jack</string>
+        <string lang="fr">Cablez jack entrée$br$à jack sortie</string>
         <string lang="zh">将输入连接到输出</string>
         <string lang="jp">入力を出力に接続</string>
-        <string lang="ru">Проведите провод 
-от входа к выходу</string>
-        <string lang="es">Conecta la entrada
-a la salida</string>
+        <string lang="ru">Проведите провод$br$от входа к выходу</string>
+        <string lang="es">Conecta la entrada$br$a la salida</string>
         <string lang="kr">입력을 출력 잭에 연결하세요</string>
-        <string lang="pt-br">Conecte a entrada
-à saída</string>
+        <string lang="pt-br">Conecte a entrada$br$à saída</string>
     </set>
         <set id="error-cannotwirecircular">
         <string lang="de">Kann nicht zirkulär verkabeln</string>
@@ -237,12 +220,9 @@ a la salida</string>
         <string lang="pt-br">Não pode ser conectado em círculo</string>
     </set>
     <set id="error-jacknotwired">
-        <string lang="de">Nicht
-verkabelt</string>
-        <string lang="en">Not
-wired</string>
-        <string lang="fr">Pas
-cablé</string>
+        <string lang="de">Nicht$br$verkabelt</string>
+        <string lang="en">Not$br$wired</string>
+        <string lang="fr">Pas$br$cablé</string>
         <string lang="zh">未连接</string>
         <string lang="jp">接続されていません</string>
         <string lang="ru">Не подключено</string>
@@ -306,18 +286,15 @@ cablé</string>
         <string lang="pt-br">O socket não aceita módulos deste tipo.</string>
     </set>
     <set id="error-wiringsamemodule">
-        <string lang="de">Verkabelung desselben Moduls 
-nicht erlaubt</string>
-        <string lang="en">Cannot wire
-same module</string>
-        <string lang="fr">Ne peut pas cabler
-le même module</string>
+        <string lang="de">Verkabelung desselben Moduls$br$nicht erlaubt</string>
+        <string lang="en">Cannot wire$br$same module</string>
+        <string lang="fr">Ne peut pas cabler$br$le même module</string>
         <string lang="zh">不能连接相同的模块</string>
         <string lang="jp">同じモジュールを接続できません</string>
-        <string lang="ru">Нельзя провести провод от того же модуля</string>
-        <string lang="es">No se puede conectar el mismo módulo</string>
+        <string lang="ru">Нельзя провести провод$br$от того же модуля</string>
+        <string lang="es">No se puede conectar$br$el mismo módulo</string>
         <string lang="kr">동일한 모듈을 연결할 수 없습니다.</string>
-        <string lang="pt-br">Não pode ser conectado o mesmo módulo</string>
+        <string lang="pt-br">Não pode ser conectado$br$o mesmo módulo</string>
     </set>
     <set id="error-wiringliverack">
         <string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
@@ -474,24 +451,15 @@ le même module</string>
         <string lang="pt-br">Sem alvo</string>
     </set>
     <set id="message-notarget-blademodule">
-        <string lang="de">Kein Ziel.
-Ziele müssen mit dem Charakter auf der Zeitlinie in einer Linie sein.</string>
-        <string lang="en">No targets.
-Targets must be aligned with character on timeline.</string>
-        <string lang="fr">Pas de cible.
-Les cibles doivent être alignées avec le personnage sur la timeline.</string>
-        <string lang="zh">没有目标。
-目标必须在时间轴上与角色对齐。</string>
-        <string lang="jp">ターゲットなし
-ターゲットはタイムライン上のキャラクターと一致する必要があります。</string>
-        <string lang="ru">Нет цели.
-Цели должны быть выровнены с персонажем на временной шкале.</string>
-        <string lang="es">Sin objetivos.
-Objetivos deben estar alineados con el personaje en la línea de tiempo.</string>
-        <string lang="kr">타겟 없음.
-타겟은 타임라인 상의 캐릭터와 일치해야 합니다.</string>
-        <string lang="pt-br">Sem alvos.
-Alvos devem estar alinhados com o personagem na linha do tempo.</string>
+        <string lang="de">Kein Ziel.$br$Ziele müssen mit dem Charakter auf der Zeitlinie in einer Linie sein.</string>
+        <string lang="en">No targets.$br$Targets must be aligned with character on timeline.</string>
+        <string lang="fr">Pas de cible.$br$Les cibles doivent être alignées avec le personnage sur la timeline.</string>
+        <string lang="zh">没有目标。$br$目标必须在时间轴上与角色对齐。</string>
+        <string lang="jp">ターゲットなし$br$ターゲットはタイムライン上のキャラクターと一致する必要があります。</string>
+        <string lang="ru">Нет цели.$br$Цели должны быть выровнены с персонажем на временной шкале.</string>
+        <string lang="es">Sin objetivos.$br$Objetivos deben estar alineados con el personaje en la línea de tiempo.</string>
+        <string lang="kr">타겟 없음.$br$타겟은 타임라인 상의 캐릭터와 일치해야 합니다.</string>
+        <string lang="pt-br">Sem alvos.$br$Alvos devem estar alinhados com o personagem na linha do tempo.</string>
     </set>
     <set id="message-rackconnect">
         <string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -681,24 +649,15 @@ Alvos devem estar alinhados com o personagem na linha do tempo.</string>
         <string lang="pt-br">Só pode ser carregado ou descarregado de cada vez</string>
     </set>
     <set id="worldmessage-collectorlosesenergy">
-        <string lang="de">$energy$
-verfliegt</string>
-        <string lang="en">$energy$
-dissipates</string>
-        <string lang="fr">$energy$
-se dissipe</string>
-        <string lang="zh">$energy$
-消散</string>
-        <string lang="jp">$energy$
-消滅</string>
-        <string lang="ru">$energy$
-рассеивается</string>
-        <string lang="es">$energy$
-se disipa</string>
-        <string lang="kr">$energy$
-소멸</string>
-        <string lang="pt-br">$energy$
-se dissipa</string>
+        <string lang="de">$energy$$br$verfliegt</string>
+        <string lang="en">$energy$$br$dissipates</string>
+        <string lang="fr">$energy$$br$se dissipe</string>
+        <string lang="zh">$energy$$br$消散</string>
+        <string lang="jp">$energy$$br$消滅</string>
+        <string lang="ru">$energy$$br$рассеивается</string>
+        <string lang="es">$energy$$br$se disipa</string>
+        <string lang="kr">$energy$$br$소멸</string>
+        <string lang="pt-br">$energy$$br$se dissipa</string>
     </set>
     <set id="worldmessage-noplasma">
         <string lang="de">Kein $plasma$</string>

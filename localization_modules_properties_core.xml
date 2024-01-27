@@ -321,15 +321,11 @@
     <set id="toggled-module-off">
         <string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
         <string lang="en">Toggle to activate during voltage sequence</string>
-        <string lang="fr">Sera utilisé pendant la séquence de tir, 
-si activé</string>
+        <string lang="fr">Sera utilisé pendant la séquence de tir,$br$si activé</string>
         <string lang="zh">打开开关后会在触发序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、
-発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы,
-если включен</string>
-        <string lang="es">Se activará durante la secuencia de disparo,
-si está activado</string>
+        <string lang="jp">オンに設定されている場合、$br$発射シーケンス中にアクティブになります</string>
+        <string lang="ru">Будет активирован во время стрельбы,$br$если включен</string>
+        <string lang="es">Se activará durante la secuencia de disparo,$br$si está activado</string>
         <string lang="kr">총격 순서 중에 활성화됩니다, 활성화되어 있을 경우</string>
         <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
     </set>
@@ -404,9 +400,8 @@ si está activado</string>
         <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
     </set>
     <set id="discharge-storesenergy">
-        <string lang="de">Speichert $energy$ über Züge und Kämpfe hinweg</string>
-        <string lang="en">Stores $energy$ throughout
-turns and battles</string>
+        <string lang="de">Speichert $energy$ über Züge$br$und Kämpfe hinweg</string>
+        <string lang="en">Stores $energy$ throughout$br$turns and battles</string>
         <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
         <string lang="zh">在多个回合和战斗中充能 $energy$</string>
         <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
@@ -416,9 +411,8 @@ turns and battles</string>
         <string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
     </set>
     <set id="discharge-storesenergy-capped">
-        <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge und Kämpfe hinweg</string>
-        <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-throughout turns and battles</string>
+        <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge$br$und Kämpfe hinweg</string>
+        <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$throughout turns and battles</string>
         <string lang="fr">Stocke jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
         <string lang="zh">在多个回合和战斗中最多充能 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
         <string lang="jp">ターンや戦闘をまたいで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
@@ -430,25 +424,17 @@ throughout turns and battles</string>
     <set id="discharge-endofbattle">
         <string lang="de">Verliert Ladung am Ende des Kampfes</string>
         <string lang="en">Loses all $energy$ at the end of battle</string>
-        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-jusqu'à la fin du combat</string>
-        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，
-直到战斗结束</string>
-        <string lang="jp">バトル終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-を保持します</string>
-        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-до конца боя</string>
-        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ 
-hasta el final de la batalla</string>
-        <string lang="kr">전투 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 
-보유합니다</string>
-        <string lang="pt-br">Mantém até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$
-até o final da batalha</string>
+        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$jusqu'à la fin du combat</string>
+        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，$br$直到战斗结束</string>
+        <string lang="jp">バトル終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$を保持します</string>
+        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$до конца боя</string>
+        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$hasta el final de la batalla</string>
+        <string lang="kr">전투 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를$br$보유합니다</string>
+        <string lang="pt-br">Mantém até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$até o final da batalha</string>
     </set>
     <set id="module-properties-discharge-endofturn">
         <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Loses all $energy$
-at the end of owner's turn</string>
+        <string lang="en">Loses all $energy$$br$at the end of owner's turn</string>
         <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
         <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
         <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>

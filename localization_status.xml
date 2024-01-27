@@ -649,20 +649,15 @@
         <string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
     </set>
     <set id="description-status-moduleturbo">
-        <string lang="de">Fügt dem Strom $1$ $energy$ hinzu.
-Hält bis zum Ende des Kampfes an</string>
-        <string lang="en">Adds $1$ $energy$ to the current.
-Lasts until the end of combat</string>
-        <string lang="fr">Ajoute $1$ $energy$ au courant.
-Dure jusqu'à la fin du combat</string>
+        <string lang="de">Fügt dem Strom $1$ $energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
+        <string lang="en">Adds $1$ $energy$ to the current.$br$Lasts until the end of combat</string>
+        <string lang="fr">Ajoute $1$ $energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
         <string lang="zh">给一个电流增加 $1$ $energy$，直到战斗结束。</string>
         <string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
         <string lang="ru">Добавляет $1$ $energy$ в ток до конца боя</string>
-        <string lang="es">Añade $1$ $energy$ a la corriente.
-Dura hasta el final del combate</string>
+        <string lang="es">Añade $1$ $energy$ a la corriente.$br$Dura hasta el final del combate</string>
         <string lang="kr">$energy$를 $1$ 추가, 전투 종료까지</string>
-        <string lang="pt-br">Adiciona $1$ $energy$ à corrente.
-Dura até o final do combate</string>
+        <string lang="pt-br">Adiciona $1$ $energy$ à corrente.$br$Dura até o final do combate</string>
     </set>
     <set id="description-status-moduleboost-eot">
         <string lang="de">Fügt dem Strom bis zum Ende des Zuges $1$ $energy$ hinzu</string>
@@ -678,40 +673,24 @@ Dura até o final do combate</string>
         <set id="description-status-modulecrust">
         <string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ bricht die Kruste dauerhaft.</string>
         <string lang="en">Prevents module activation. First incoming $energy$ will permanently break the crust.</string>
-        <string lang="fr">Module non activable.
-La première $energy$ entrante brisera la croûte de façon permanente.</string>
-        <string lang="zh">阻止模块的激活。
-输入能量一次来破坏晶壳</string>
-        <string lang="jp">モジュールはアクティブ化できません。
-最初の受けるエネルギーは外殻を破壊します</string>
-        <string lang="ru">Модуль не может быть активирован.
-Первая поступающая $энергия$ разбивает кристалл.</string>
-        <string lang="es">Impide la activación del módulo.
-La primera $energy$ entrante romperá la corteza</string>
-        <string lang="kr">모듈 활성화를 방지합니다.
-첫 번째 입력 $energy$는 껍질을 깨뜨립니다</string>
-        <string lang="pt-br">Impede a ativação do módulo.
-A primeira $energy$ recebida quebrará a crosta</string>
+        <string lang="fr">Module non activable.$br$La première $energy$ entrante brisera la croûte de façon permanente.</string>
+        <string lang="zh">阻止模块的激活。$br$输入能量一次来破坏晶壳</string>
+        <string lang="jp">モジュールはアクティブ化できません。$br$最初の受けるエネルギーは外殻を破壊します</string>
+        <string lang="ru">Модуль не может быть активирован.$br$Первая поступающая $энергия$ разбивает кристалл.</string>
+        <string lang="es">Impide la activación del módulo.$br$La primera $energy$ entrante romperá la corteza</string>
+        <string lang="kr">모듈 활성화를 방지합니다.$br$첫 번째 입력 $energy$는 껍질을 깨뜨립니다</string>
+        <string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta</string>
     </set>
     <set id="description-status-modulecrust-discharge">
-        <string lang="de">Verhindert Entladung des Modules.
-Die erste Auslösung bricht die Kruste</string>
-        <string lang="en">Prevents module discharge.
-First triggering will break the crust</string>
-        <string lang="fr">Module non déchargeable.
-Le premier déclenchement brise la croûte</string>
-        <string lang="zh">阻止模块的放电。
-第一次触发将破坏晶壳</string>
-        <string lang="jp">モジュールは放電できません。
-最初のトリガーは外殻を破壊します</string>
-        <string lang="ru">Модуль не может быть разряжен.
-Первый разряд разбивает кристалл.</string>
-        <string lang="es">Impide la descarga del módulo.
-El primer disparo romperá la corteza</string>
-        <string lang="kr">모듈 방전을 방지합니다.
-첫 번째 트리거는 껍질을 깨뜨립니다</string>
-        <string lang="pt-br">Impede a descarga do módulo.
-O primeiro gatilho quebrará a crosta</string>
+        <string lang="de">Verhindert Entladung des Modules.$br$Die erste Auslösung bricht die Kruste</string>
+        <string lang="en">Prevents module discharge.$br$First triggering will break the crust</string>
+        <string lang="fr">Module non déchargeable.$br$Le premier déclenchement brise la croûte</string>
+        <string lang="zh">阻止模块的放电。$br$第一次触发将破坏晶壳</string>
+        <string lang="jp">モジュールは放電できません。$br$最初のトリガーは外殻を破壊します</string>
+        <string lang="ru">Модуль не может быть разряжен.$br$Первый разряд разбивает кристалл.</string>
+        <string lang="es">Impide la descarga del módulo.$br$El primer disparo romperá la corteza</string>
+        <string lang="kr">모듈 방전을 방지합니다.$br$첫 번째 트리거는 껍질을 깨뜨립니다</string>
+        <string lang="pt-br">Impede a descarga do módulo.$br$O primeiro gatilho quebrará a crosta</string>
     </set>
     <set id="description-status-modulecracked">
         <string lang="de">Wird nach Aktivierung zerstört</string>
@@ -782,8 +761,7 @@ O primeiro gatilho quebrará a crosta</string>
     <set id="description-status-modulefire">
         <string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
         <string lang="en">Activate this turn to extinguish, or it will deal $1damage$ to the owner after their turn </string>
-        <string lang="fr">Activez-le pour l'éteindre ou il infligera
-$1damage$ au propriétaire après son tour</string>
+        <string lang="fr">Activez-le pour l'éteindre ou il infligera$br$$1damage$ au propriétaire après son tour</string>
         <string lang="zh">在回合结束时对拥有者造成 $1damage$，充能以熄灭火焰</string>
         <string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
         <string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
@@ -869,10 +847,8 @@ $1damage$ au propriétaire après son tour</string>
         <string lang="pt-br">Não pode ser ativado mais nesta batalha</string>
     </set>
     <set id="description-status-modulepollution">
-        <string lang="de">Aktivierung fügt dem Charakter
-$1damage$ zu</string>
-        <string lang="en">Activation deals $1damage$
-to the owner</string>
+        <string lang="de">Aktivierung fügt dem Charakter$br$$1damage$ zu</string>
+        <string lang="en">Activation deals $1damage$$br$to the owner</string>
         <string lang="fr">Activation inflige $1damage$ au propriétaire</string>
         <string lang="zh">激活将对拥有者造成 $1damage$</string>
         <string lang="jp">アクティブ化はオーナーに$1damage$を与えます</string>
@@ -883,8 +859,7 @@ to the owner</string>
     </set>
     <set id="description-status-modulepollution-eot">
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $1damage$ zu</string>
-        <string lang="en">Activation this turn deals $1damage$
-to the owner</string>
+        <string lang="en">Activation this turn deals $1damage$$br$to the owner</string>
         <string lang="fr">Activation ce tour inflige $1damage$ au propriétaire</string>
         <string lang="zh">在本回合激活将对拥有者造成 $1damage$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに$1damage$を与えます</string>
@@ -905,24 +880,15 @@ to the owner</string>
         <string lang="pt-br">Não pode ser ativado neste turno</string>
     </set>
     <set id="description-status-modulesalvaged">
-        <string lang="de">Aus einem vorherigen Run geborgen.
-Kann nicht dupliziert werden.</string>
-        <string lang="en">Salvaged from a previous run.
-Cannot be duplicated.</string>
-        <string lang="fr">Récupéré d'une précédente mission.
-Ne peut pas être dupliqué.</string>
-        <string lang="zh">前一局保留的模块。
-不能被复制。</string>
-        <string lang="jp">前のミッションから救出された。
-複製できません。</string>
-        <string lang="ru">Спасен из предыдущего рана.
-Не может быть дублирован.</string>
-        <string lang="es">Rescatado de una misión anterior.
-No se puede duplicar.</string>
-        <string lang="kr">이전 런에서 구조되었습니다.
-복제할 수 없습니다.</string>
-        <string lang="pt-br">Resgatado de uma missão anterior.
-Não pode ser duplicado.</string>
+        <string lang="de">Aus einem vorherigen Run geborgen.$br$Kann nicht dupliziert werden.</string>
+        <string lang="en">Salvaged from a previous run.$br$Cannot be duplicated.</string>
+        <string lang="fr">Récupéré d'une précédente mission.$br$Ne peut pas être dupliqué.</string>
+        <string lang="zh">前一局保留的模块。$br$不能被复制。</string>
+        <string lang="jp">前のミッションから救出された。$br$複製できません。</string>
+        <string lang="ru">Спасен из предыдущего рана.$br$Не может быть дублирован.</string>
+        <string lang="es">Rescatado de una misión anterior.$br$No se puede duplicar.</string>
+        <string lang="kr">이전 런에서 구조되었습니다.$br$복제할 수 없습니다.</string>
+        <string lang="pt-br">Resgatado de uma missão anterior.$br$Não pode ser duplicado.</string>
     </set>
     <set id="description-status-moduleselfencrusting">
         <string lang="de">Erhält nach Aktivierung $crust$</string>
@@ -947,32 +913,26 @@ Não pode ser duplicado.</string>
         <string lang="pt-br">A ativação deste turno levará a $crust$</string>
     </set>
     <set id="description-status-moduleoverload">
-        <string lang="de">Erhält nach Aktivierung $cooldown$
-für eine Runde</string>
-        <string lang="en">When activated, receives $cooldown$
-for one turn</string>
+        <string lang="de">Erhält nach Aktivierung $cooldown$$br$für eine Runde</string>
+        <string lang="en">When activated, receives $cooldown$$br$for one turn</string>
         <string lang="fr">Reçoit $cooldown$ pour un tour après activation</string>
         <string lang="zh">激活后将获得 $cooldown$ 一回合</string>
         <string lang="jp">アクティブ化すると、1ターンに$cooldown$を受け取ります</string>
         <string lang="ru">Получает $cooldown$ на один ход после активации</string>
         <string lang="es">Cuando se activa, recibe $cooldown$ por un turno</string>
         <string lang="kr">활성화하면 $cooldown$를 한 턴 동안 받습니다</string>
-        <string lang="pt-br">Quando ativado, recebe $cooldown$
-por um turno</string>
+        <string lang="pt-br">Quando ativado, recebe $cooldown$$br$por um turno</string>
     </set>
         <set id="description-status-moduleoverload-discharge">
-        <string lang="de">Erhält nach Entladung $cooldown$
-für eine Runde</string>
-        <string lang="en">When discharged, receives $cooldown$
-for one turn</string>
+        <string lang="de">Erhält nach Entladung $cooldown$$br$für eine Runde</string>
+        <string lang="en">When discharged, receives $cooldown$$br$for one turn</string>
         <string lang="fr">Reçoit $cooldown$ pour un tour après décharge</string>
         <string lang="zh">放电后将获得 $cooldown$ 一回合</string>
         <string lang="jp">放電すると、1ターンに$cooldown$を受け取ります</string>
         <string lang="ru">Получает $cooldown$ на один ход после разрядки</string>
         <string lang="es">Cuando se descarga, recibe $cooldown$ por un turno</string>
         <string lang="kr">방전하면 $cooldown$를 한 턴 동안 받습니다</string>
-        <string lang="pt-br">Quando descarregado, recebe $cooldown$
-por um turno</string>
+        <string lang="pt-br">Quando descarregado, recebe $cooldown$$br$por um turno</string>
     </set>
     <set id="description-status-moduleoverload-eot">
         <string lang="de">Aktivierung diese Runde führt zu $cooldown$</string>
@@ -1009,8 +969,7 @@ por um turno</string>
     </set>
     <set id="description-status-modulegravrecoil-eot">
         <string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
-        <string lang="en">Activation this turn inflicts the owner
-with $grav+2$</string>
+        <string lang="en">Activation this turn inflicts the owner$br$with $grav+2$</string>
         <string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
         <string lang="zh">在本回合激活将让拥有者获得 $grav+2$</string>
         <string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
@@ -1105,8 +1064,7 @@ with $grav+2$</string>
         <string lang="ru">Входящий $damage$ уменьшается на $1$</string>
         <string lang="es">El daño entrante de $damage$ es reducido por $1$</string>
         <string lang="kr">$damage$는 $1$만큼 감소합니다</string>
-        <string lang="pt-br">O dano recebido de $damage$
-é reduzido por $1$</string>
+        <string lang="pt-br">O dano recebido de $damage$$br$é reduzido por $1$</string>
     </set>
     <set id="description-status-modulelock">
         <string lang="de">Kann nicht vom Rack genommen werden</string>

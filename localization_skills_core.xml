@@ -792,21 +792,15 @@
         <string lang="pt-br">Inflige $1damage$ e inflige um módulo com $crust$.</string>
     </set>
     <set id="description-skill-moduleselfencrusting-aoe">
-        <string lang="de">Versieht zwei Module mit
-$selfencrusting$</string>
-        <string lang="en">Inflicts two modules with
-$selfencrusting$.</string>
-        <string lang="fr">Inflige deux modules avec 
-$selfencrusting$.</string>
+        <string lang="de">Versieht zwei Module mit$br$$selfencrusting$</string>
+        <string lang="en">Inflicts two modules with$br$$selfencrusting$.</string>
+        <string lang="fr">Inflige deux modules avec$br$$selfencrusting$.</string>
         <string lang="zh">对敌人的两个模块施加 $selfencrusting$</string>
         <string lang="jp">敵の2つのモジュールに $selfencrusting$ を与える</string>
-        <string lang="ru">Накладывает $selfencrusting$
-на два модуля.</string>
-        <string lang="es">Inflige dos módulos con
-$selfencrusting$.</string>
+        <string lang="ru">Накладывает $selfencrusting$$br$на два модуля.</string>
+        <string lang="es">Inflige dos módulos con$br$$selfencrusting$.</string>
         <string lang="kr">적의 두 모듈에 $selfencrusting$ 를 적용합니다.</string>
-        <string lang="pt-br">Inflige dois módulos com
-$selfencrusting$.</string>
+        <string lang="pt-br">Inflige dois módulos com$br$$selfencrusting$.</string>
     </set>
     <set id="description-skill-gravimpulse">
         <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+4$ zu.</string>
@@ -897,34 +891,29 @@ $selfencrusting$.</string>
     </set>
     <set id="description-skill-gravsting">
         <string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu.</string>
-        <string lang="en">Deals $1damage$
-and inflicts $grav+1$</string>
+        <string lang="en">Deals $1damage$$br$and inflicts $grav+1$</string>
         <string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi.</string>
         <string lang="zh">对敌人造成 $1damage$ 并施加 $grav+1$</string>
         <string lang="jp">敵に $1damage$ を与え、$grav+1$ を与える</string>
-        <string lang="ru">Наносит $1damage$
-и применяет $grav+1$</string>
+        <string lang="ru">Наносит $1damage$$br$и применяет $grav+1$</string>
         <string lang="es">Inflige a un enemigo $1damage$ y $grav+1$</string>
         <string lang="kr">적에게 $1damage$ 와 $grav+1$ 를 적용합니다.</string>
         <string lang="pt-br">Inflige a um inimigo $1damage$ e $grav+1$</string>
     </set>
     <set id="description-skill-gravsting2">
         <string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
-        <string lang="en">Deals $1damage$ 
-and inflicts $grav+2$</string>
+        <string lang="en">Deals $1damage$$br$and inflicts $grav+2$</string>
         <string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
         <string lang="zh">对敌人造成 $1damage$ 并施加 $grav+2$</string>
         <string lang="jp">敵に $1damage$ を与え、$grav+2$ を与える</string>
-        <string lang="ru">Наносит $1damage$ 
-и применяет $grav+2$</string>
+        <string lang="ru">Наносит $1damage$$br$и применяет $grav+2$</string>
         <string lang="es">Inflige a un enemigo $1damage$ y $grav+2$</string>
         <string lang="kr">적에게 $1damage$ 와 $grav+2$ 를 적용합니다.</string>
         <string lang="pt-br">Inflige a um inimigo $1damage$ e $grav+2$</string>
     </set>
     <set id="description-skill-leftclaw">
         <string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
-        <string lang="en">Deals $1damage$ 
-and inflicts $grav+2$</string>
+        <string lang="en">Deals $1damage$$br$and inflicts $grav+2$</string>
         <string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
         <string lang="zh">对敌人造成 $1damage$ 并施加 $grav+2$</string>
         <string lang="jp">敵に $1damage$ を与え、$grav+2$ を与える</string>
@@ -1232,44 +1221,26 @@ and inflicts $grav+2$</string>
         <string lang="pt-br">Aumenta $might$ em $1$ sempre que $plasma$ é criado.</string>
     </set>
     <set id="description-skill-shleck-protozoon">
-        <string lang="de">Fügt einem Gegner $1damage$ zu.
-Kann $grav+1$ vom Ziel entfernen, um sich selbst um $1$ zu heilen.</string>
-        <string lang="en">Deals $1damage$ to an enemy.
-May remove $grav+1$ from the target to heal itself by $1$.</string>
-        <string lang="fr">Inflige $1damage$ à une ennemie.
-Peut retirer $grav+1$ de la cible pour se soigner de $1$.</string>
-        <string lang="zh">对敌人造成 $1damage$。
-可以从目标移除 $grav+1$ 以治愈自身。</string>
-        <string lang="jp">敵に $1damage$ を与える。
-ターゲットの $grav+1$ を移除して自身を回復することができる。</string>
-        <string lang="ru">Наносит $1damage$ врагу.
-Может удалить $grav+1$ с цели, чтобы исцелить себя на $1$.</string>
-        <string lang="es">Inflige $1damage$ a un enemigo.
-Puede eliminar $grav+1$ del objetivo para curarse a sí mismo en $1$.</string>
-        <string lang="kr">적에게 $1damage$ 를 줍니다.
-$grav+1$ 를 제거하여 자신을 $1$ 만큼 회복시킬 수 있습니다.</string>
-        <string lang="pt-br">Inflige $1damage$ a um inimigo.
-Pode remover $grav+1$ do alvo para se curar em $1$.</string>
+        <string lang="de">Fügt einem Gegner $1damage$ zu.$br$Kann $grav+1$ vom Ziel entfernen, um sich selbst um $1$ zu heilen.</string>
+        <string lang="en">Deals $1damage$ to an enemy.$br$May remove $grav+1$ from the target to heal itself by $1$.</string>
+        <string lang="fr">Inflige $1damage$ à une ennemie.$br$Peut retirer $grav+1$ de la cible pour se soigner de $1$.</string>
+        <string lang="zh">对敌人造成 $1damage$。$br$可以从目标移除 $grav+1$ 以治愈自身。</string>
+        <string lang="jp">敵に $1damage$ を与える。$br$ターゲットの $grav+1$ を移除して自身を回復することができる。</string>
+        <string lang="ru">Наносит $1damage$ врагу.$br$Может удалить $grav+1$ с цели, чтобы исцелить себя на $1$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo.$br$Puede eliminar $grav+1$ del objetivo para curarse a sí mismo en $1$.</string>
+        <string lang="kr">적에게 $1damage$ 를 줍니다.$br$$grav+1$ 를 제거하여 자신을 $1$ 만큼 회복시킬 수 있습니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo.$br$Pode remover $grav+1$ do alvo para se curar em $1$.</string>
     </set>
     <set id="description-skill-shleck-frog">
-        <string lang="de">Fügt einem Gegner $1damage$ zu.
-Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
-        <string lang="en">Deals $1damage$ to an enemy.
-May remove $grav+1$ from the target to raise $might$ by $1$.</string>
-        <string lang="fr">Inflige $1damage$ à une ennemie.
-Peut retirer $grav+1$ de la cible pour augmenter $might$ de $1$.</string>
-        <string lang="zh">对敌人造成 $1damage$。
-可以从目标移除 $grav+1$ 以增加 $might$ $1$。</string>
-        <string lang="jp">敵に $1damage$ を与える。
-ターゲットの $grav+1$ を移除して $might$ を $1$ 増加させることができる。</string>
-        <string lang="ru">Наносит $1damage$ врагу.
-Может удалить $grav+1$ с цели, чтобы повысить $might$ на $1$.</string>
-        <string lang="es">Inflige $1damage$ a un enemigo.
-Puede eliminar $grav+1$ del objetivo para aumentar $might$ en $1$.</string>
-        <string lang="kr">적에게 $1damage$ 를 줍니다.
-$grav+1$ 를 제거하여 $might$ 를 $1$ 만큼 증가시킬 수 있습니다.</string>
-        <string lang="pt-br">Inflige $1damage$ a um inimigo.
-Pode remover $grav+1$ do alvo para aumentar $might$ em $1$.</string>
+        <string lang="de">Fügt einem Gegner $1damage$ zu.$br$Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
+        <string lang="en">Deals $1damage$ to an enemy.$br$May remove $grav+1$ from the target to raise $might$ by $1$.</string>
+        <string lang="fr">Inflige $1damage$ à une ennemie.$br$Peut retirer $grav+1$ de la cible pour augmenter $might$ de $1$.</string>
+        <string lang="zh">对敌人造成 $1damage$。$br$可以从目标移除 $grav+1$ 以增加 $might$ $1$。</string>
+        <string lang="jp">敵に $1damage$ を与える。$br$ターゲットの $grav+1$ を移除して $might$ を $1$ 増加させることができる。</string>
+        <string lang="ru">Наносит $1damage$ врагу.$br$Может удалить $grav+1$ с цели, чтобы повысить $might$ на $1$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo.$br$Puede eliminar $grav+1$ del objetivo para aumentar $might$ en $1$.</string>
+        <string lang="kr">적에게 $1damage$ 를 줍니다.$br$$grav+1$ 를 제거하여 $might$ 를 $1$ 만큼 증가시킬 수 있습니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo.$br$Pode remover $grav+1$ do alvo para aumentar $might$ em $1$.</string>
     </set>
     <set id="description-skill-gravbite">
         <string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $gravamplification$.</string>

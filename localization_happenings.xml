@@ -33,40 +33,26 @@
         <string lang="pt-br">Você descobre uma</string>
     </set>
     <set id="happening-chargingstation-description">
-        <string lang="de">Lädt ein $storagemodule$
-um bis zu $2$ $energy$.</string>
-        <string lang="en">Charges a $storagemodule$
-with up to $2$ $energy$.</string>
-        <string lang="fr">Charge un $storagemodule$ 
-avec $2$ $energy$.</string>
+        <string lang="de">Lädt ein $storagemodule$$br$um bis zu $2$ $energy$.</string>
+        <string lang="en">Charges a $storagemodule$$br$with up to $2$ $energy$.</string>
+        <string lang="fr">Charge un $storagemodule$$br$avec $2$ $energy$.</string>
         <string lang="zh">为$storagemodule$充电$2$ $energy$。</string>
         <string lang="jp">$storagemodule$を$2$ $energy$で充電します。</string>
         <string lang="ru">Заряжает $storagemodule$ на $2$ $energy$.</string>
-        <string lang="es">Carga un $storagemodule$
-con $2$ $energy$.</string>
+        <string lang="es">Carga un $storagemodule$$br$con $2$ $energy$.</string>
         <string lang="kr">$storagemodule$을 $2$ $energy$로 충전합니다.</string>
-        <string lang="pt-br">Carrega um $storagemodule$
-com $2$ $energy$.</string>
+        <string lang="pt-br">Carrega um $storagemodule$$br$com $2$ $energy$.</string>
     </set>
     <set id="happening-chargingstation-description2">
-        <string lang="de">Sie wurde bereits benutzt, 
-aber jemand muss vergessen haben die Speicherzelle mitzunehmen.</string>
-        <string lang="en">It has already been used, 
-but somebody must have forgotten to take the storage cell with them.</string>
-        <string lang="fr">Elle a déjà été utilisé, 
-mais il semble que quelqu'un a oublié de prendre la batterie avec lui.</string>
-        <string lang="zh">它已经被使用过，
-但有人忘记把电池带走了。</string>
-        <string lang="jp">すでに使用されていますが、
-誰かが存储セルを持っていないことを忘れているようです。</string>
-        <string lang="ru">Она уже была использована,
-но кто-то, должно быть, забыл взять с собой модуль хранения.</string>
-        <string lang="es">Ya ha sido usada,
-pero alguien debe haber olvidado llevarse la celda de almacenamiento.</string>
-        <string lang="kr">이미 사용되었지만,
-누군가는 저장 셀을 가져 가지 않았을 것입니다.</string>
-        <string lang="pt-br">Já foi usado,
-mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</string>
+        <string lang="de">Sie wurde bereits benutzt,$br$aber jemand muss vergessen haben die Speicherzelle mitzunehmen.</string>
+        <string lang="en">It has already been used,$br$but somebody must have forgotten to take the storage cell with them.</string>
+        <string lang="fr">Elle a déjà été utilisé,$br$mais il semble que quelqu'un a oublié de prendre la batterie avec lui.</string>
+        <string lang="zh">它已经被使用过，$br$但有人忘记把电池带走了。</string>
+        <string lang="jp">すでに使用されていますが、$br$誰かが存储セルを持っていないことを忘れているようです。</string>
+        <string lang="ru">Она уже была использована,$br$но кто-то, должно быть, забыл взять с собой модуль хранения.</string>
+        <string lang="es">Ya ha sido usada,$br$pero alguien debe haber olvidado llevarse la celda de almacenamiento.</string>
+        <string lang="kr">이미 사용되었지만,$br$누군가는 저장 셀을 가져 가지 않았을 것입니다.</string>
+        <string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</string>
     </set>
     <set id="happening-chargingstation-error-nomodule">
         <string lang="de">Platziere Speichermodul auf den Sockel</string>
@@ -81,8 +67,7 @@ mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</st
     </set>
     <set id="happening-led-ready">
         <string lang="de">BEREIT</string>
-        <string lang="en">PRESS BUTTON
-TO USE</string>
+        <string lang="en">PRESS BUTTON$br$TO USE</string>
         <string lang="fr">PRET</string>
         <string lang="zh">准备</string>
         <string lang="jp">準備</string>
@@ -103,33 +88,23 @@ TO USE</string>
         <string lang="pt-br">EM USO</string>
     </set>
     <set id="happening-led-takemodule">
-        <string lang="de">NIMM
-MODUL</string>
-        <string lang="en">TAKE
-MODULE</string>
-        <string lang="fr">PRELEVE
-MODULE</string>
+        <string lang="de">NIMM$br$MODUL</string>
+        <string lang="en">TAKE$br$MODULE</string>
+        <string lang="fr">PRELEVE$br$MODULE</string>
         <string lang="zh">拿起模块</string>
         <string lang="jp">モジュールを取る</string>
-        <string lang="ru">ВЗЯТЬ
-МОДУЛЬ</string>
-        <string lang="es">COGE
-MÓDULO</string>
-        <string lang="kr">모듈을 가져 
-가십시오</string>
-        <string lang="pt-br">PEGUE
-MODULO</string>
+        <string lang="ru">ВЗЯТЬ$br$МОДУЛЬ</string>
+        <string lang="es">COGE$br$MÓDULO</string>
+        <string lang="kr">모듈을 가져$br$가십시오</string>
+        <string lang="pt-br">PEGUE$br$MODULO</string>
     </set>
     <set id="happening-led-goodbye">
-        <string lang="de">AUF
-WIEDERSEHEN</string>
+        <string lang="de">AUF$br$WIEDERSEHEN</string>
         <string lang="en">GOODBYE</string>
-        <string lang="fr">AU
-REVOIR</string>
+        <string lang="fr">AU$br$REVOIR</string>
         <string lang="zh">再见</string>
         <string lang="jp">さようなら</string>
-        <string lang="ru">ДО
-СВИДАНИЯ</string>
+        <string lang="ru">ДО$br$СВИДАНИЯ</string>
         <string lang="es">ADIOS</string>
         <string lang="kr">안녕</string>
         <string lang="pt-br">ADEUS</string>
@@ -179,24 +154,15 @@ REVOIR</string>
         <string lang="pt-br">Cura ambos os personagens em $1$</string>
     </set>
         <set id="happening-healingstation-description2">
-        <string lang="de">Sie wurde bereits benutzt, 
-aber jemand muss vergessen haben den Heiltrank mitzunehmen.</string>
-        <string lang="en">It has already been used, 
-but somebody must have forgotten to take the potion with them.</string>
-        <string lang="fr">Elle a déjà été utilisé,
-mais quelqu'un a dû oublier de prendre la potion avec lui.</string>
-        <string lang="zh">它已经被使用过了，
-但有人忘记把药水带走了。</string>
-        <string lang="jp">すでに使用されていますが、
-誰かがポーションを持っていないことを忘れているようです。</string>
-        <string lang="ru">Она уже была использована,
-но кто-то, должно быть, забыл взять с собой зелье.</string>
-        <string lang="es">Ya ha sido usada,
-pero alguien debe haber olvidado llevarse la poción.</string>
-        <string lang="kr">이미 사용되었지만,
-누군가는 물약을 가져 가지 않았을 것입니다.</string>
-        <string lang="pt-br">Já foi usado,
-mas alguém deve ter esquecido de levar a poção com eles.</string>
+        <string lang="de">Sie wurde bereits benutzt,$br$aber jemand muss vergessen haben den Heiltrank mitzunehmen.</string>
+        <string lang="en">It has already been used,$br$but somebody must have forgotten to take the potion with them.</string>
+        <string lang="fr">Elle a déjà été utilisé,$br$mais quelqu'un a dû oublier de prendre la potion avec lui.</string>
+        <string lang="zh">它已经被使用过了，$br$但有人忘记把药水带走了。</string>
+        <string lang="jp">すでに使用されていますが、$br$誰かがポーションを持っていないことを忘れているようです。</string>
+        <string lang="ru">Она уже была использована,$br$но кто-то, должно быть, забыл взять с собой зелье.</string>
+        <string lang="es">Ya ha sido usada,$br$pero alguien debe haber olvidado llevarse la poción.</string>
+        <string lang="kr">이미 사용되었지만,$br$누군가는 물약을 가져 가지 않았을 것입니다.</string>
+        <string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar a poção com eles.</string>
     </set>
     <set id="name-happening-modifierupgrader">
         <string lang="de">Durchsatz-Upgrader</string>
@@ -232,44 +198,26 @@ mas alguém deve ter esquecido de levar a poção com eles.</string>
         <string lang="pt-br">Você descobre um</string>
     </set>
     <set id="happening-modifierupgrader-description">
-        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthroughmodule$ ohne $upgrade$.
-Verleiht dem Modul ein permanentes $upgrade$.</string>
-        <string lang="en">Only accepts modules of type $passthroughmodule$ without $upgrade$.
-Gives a module a permanent $upgrade$.</string>
-        <string lang="fr">N'accepte que les modules de type $passthroughmodule$ sans $upgrade$.
-Donne une $upgrade$ permanent à un module.</string>
-        <string lang="zh">只接受类型为$passthroughmodule$的模块。
-给模块一个永久的 $upgrade$。</string>
-        <string lang="jp">タイプ$passthroughmodule$のモジュールのみを受け入れます。
-モジュールに永久的な$upgrade$を与えます。</string>
-        <string lang="ru">Принимает только модули типа $passthroughmodule$.
-Дает модулям постоянный $upgrade$.</string>
-        <string lang="es">Solo acepta módulos de tipo $passthroughmodule$.
-Da a los módulos un $upgrade$ permanente.</string>
-        <string lang="kr">$passthroughmodule$ 타입의 모듈만 허용합니다.
-모듈에 영구적인 $upgrade$를 부여합니다.</string>
-        <string lang="pt-br">Apenas aceita módulos do tipo $passthroughmodule$.
-Dá aos módulos um $upgrade$ permanente.</string>
+        <string lang="de">Akzeptiert ausschließlich Module vom Typ $passthroughmodule$ ohne $upgrade$.$br$Verleiht dem Modul ein permanentes $upgrade$.</string>
+        <string lang="en">Only accepts modules of type $passthroughmodule$ without $upgrade$.$br$Gives a module a permanent $upgrade$.</string>
+        <string lang="fr">N'accepte que les modules de type $passthroughmodule$ sans $upgrade$.$br$Donne une $upgrade$ permanent à un module.</string>
+        <string lang="zh">只接受类型为$passthroughmodule$的模块。$br$给模块一个永久的 $upgrade$。</string>
+        <string lang="jp">タイプ$passthroughmodule$のモジュールのみを受け入れます。$br$モジュールに永久的な$upgrade$を与えます。</string>
+        <string lang="ru">Принимает только модули типа $passthroughmodule$.$br$Дает модулям постоянный $upgrade$.</string>
+        <string lang="es">Solo acepta módulos de tipo $passthroughmodule$.$br$Da a los módulos un $upgrade$ permanente.</string>
+        <string lang="kr">$passthroughmodule$ 타입의 모듈만 허용합니다.$br$모듈에 영구적인 $upgrade$를 부여합니다.</string>
+        <string lang="pt-br">Apenas aceita módulos do tipo $passthroughmodule$.$br$Dá aos módulos um $upgrade$ permanente.</string>
     </set>
     <set id="happening-modifierupgrader-description2">
-        <string lang="de">Er wurde bereits benutzt, 
-aber jemand hat vergessen, den Verstärker mitzunehmen.</string>
-        <string lang="en">It has already been used, 
-but somebody must have forgotten to take the amplifier with them.</string>
-        <string lang="fr">Il a déjà été utilisé,
-mais quelqu'un a oublié de prendre l'amplificateur avec lui.</string>
-        <string lang="zh">它已经被使用过了，
-但是有人忘记带着放大器了。</string>
-        <string lang="jp">すでに使用されていますが、
-誰かがアンプレッサーを持っていないことを忘れているようです。</string>
-        <string lang="ru">Он уже был использован,
-но кто-то, должно быть, забыл взять усилитель с собой.</string>
-        <string lang="es">Ya ha sido usado,
-pero alguien debe haber olvidado llevarse el amplificador.</string>
-        <string lang="kr">이미 사용되었지만,
-누군가는 증폭기를 가져 가지 않았을 것입니다.</string>
-        <string lang="pt-br">Já foi usado,
-mas alguém deve ter esquecido de levar o amplificador com eles.</string>
+        <string lang="de">Er wurde bereits benutzt, $br$aber jemand hat vergessen, den Verstärker mitzunehmen.</string>
+        <string lang="en">It has already been used, $br$but somebody must have forgotten to take the amplifier with them.</string>
+        <string lang="fr">Il a déjà été utilisé,$br$mais quelqu'un a oublié de prendre l'amplificateur avec lui.</string>
+        <string lang="zh">它已经被使用过了，$br$但是有人忘记带着放大器了。</string>
+        <string lang="jp">すでに使用されていますが、$br$誰かがアンプレッサーを持っていないことを忘れているようです。</string>
+        <string lang="ru">Он уже был использован,$br$но кто-то, должно быть, забыл взять усилитель с собой.</string>
+        <string lang="es">Ya ha sido usado,$br$pero alguien debe haber olvidado llevarse el amplificador.</string>
+        <string lang="kr">이미 사용되었지만,$br$누군가는 증폭기를 가져 가지 않았을 것입니다.</string>
+        <string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar o amplificador com eles.</string>
     </set>
     <set id="happening-modifierupgrader-error-nomodule">
         <string lang="de">Platziere Modifikator auf den Sockel</string>
@@ -283,21 +231,15 @@ mas alguém deve ter esquecido de levar o amplificador com eles.</string>
         <string lang="pt-br">Coloque um modificador no soquete</string>
     </set>
     <set id="happening-led-placemodule">
-        <string lang="de">PLATZIERE
-MODUL</string>
-        <string lang="en">PLACE
-MODULE</string>
-        <string lang="fr">PLACE
-MODULE</string>
+        <string lang="de">PLATZIERE$br$MODUL</string>
+        <string lang="en">PLACE$br$MODULE</string>
+        <string lang="fr">PLACE$br$MODULE</string>
         <string lang="zh">放置模块</string>
         <string lang="jp">モジュールを配置する</string>
-        <string lang="ru">ПОМЕСТИТЬ
-МОДУЛЬ</string>
-        <string lang="es">COLOCA
-MODULO</string>
+        <string lang="ru">ПОМЕСТИТЬ$br$МОДУЛЬ</string>
+        <string lang="es">COLOCA$br$MODULO</string>
         <string lang="kr">모듈을 놓으십시오</string>
-        <string lang="pt-br">COLOQUE
-MODULO</string>
+        <string lang="pt-br">COLOQUE$br$MODULO</string>
     </set>
     <set id="name-happening-moduletransmogrifier">
         <string lang="de">Transmogrifikator</string>
@@ -454,24 +396,15 @@ MODULO</string>
         <string lang="pt-br">Fim de jogo</string>
     </set>
     <set id="happening-gameover-text">
-        <string lang="de">"Kinder, das wird mir zu gefährlich!
-Übertragt einen Modul-Bauplan und ich grav.-blaste euch in der Zeit zurück!"</string>
-        <string lang="en">"Folks, this is getting too dangerous! 
-Transmit a module blueprint and I'll grav.-blast you back in time!"</string>
-        <string lang="fr">"Gens, c'est devenu trop dangereux! 
-Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</string>
-        <string lang="zh">"各位，形势变得太危急了！
-传输一个模块蓝图，我会用引力技术把它传送回过去！"</string>
-        <string lang="jp">"子供たち、これは危険すぎます！
-モジュールの設計図を送信して、私が重力爆発で過去に戻ります！"</string>
-        <string lang="ru">"Дети, это становится слишком опасно!
-Передай чертеж модуля, и я верну тебя вовремя!"</string>
-        <string lang="es">"¡Chicos, esto se está volviendo demasiado peligroso!
-¡Transmitan un plano de módulo y los grav.-expulsaré de regreso a tiempo!"</string>
-        <string lang="kr">"아이들, 이것은 너무 위험해지고 있습니다!
-모듈 청사진을 전송하고 나는 시간을 거슬러 너를 물리칠 것이다!"</string>
-        <string lang="pt-br">"Pessoal, isso está ficando muito perigoso!
-Transmita um plano de módulo e eu grav.-expulsarei você de volta no tempo!"</string>
+        <string lang="de">"Kinder, das wird mir zu gefährlich!$br$Übertragt einen Modul-Bauplan und ich grav.-blaste euch in der Zeit zurück!"</string>
+        <string lang="en">"Folks, this is getting too dangerous!$br$Transmit a module blueprint and I'll grav.-blast you back in time!"</string>
+        <string lang="fr">"Gens, c'est devenu trop dangereux!$br$Transmettez un plan de module et je vais vous grav.-éclater dans le temps!"</string>
+        <string lang="zh">"各位，形势变得太危急了！$br$传输一个模块蓝图，我会用引力技术把它传送回过去！"</string>
+        <string lang="jp">"子供たち、これは危険すぎます！$br$モジュールの設計図を送信して、私が重力爆発で過去に戻ります！"</string>
+        <string lang="ru">"Дети, это становится слишком опасно!$br$Передай чертеж модуля, и я верну тебя вовремя!"</string>
+        <string lang="es">"¡Chicos, esto se está volviendo demasiado peligroso!$br$¡Transmitan un plano de módulo y los grav.-expulsaré de regreso a tiempo!"</string>
+        <string lang="kr">"아이들, 이것은 너무 위험해지고 있습니다!$br$모듈 청사진을 전송하고 나는 시간을 거슬러 너를 물리칠 것이다!"</string>
+        <string lang="pt-br">"Pessoal, isso está ficando muito perigoso!$br$Transmita um plano de módulo e eu grav.-expulsarei você de volta no tempo!"</string>
     </set>
     <set id="happening-gameover-salvage-header">
         <string lang="de">Ein Modul bergen</string>
@@ -540,24 +473,15 @@ Transmita um plano de módulo e eu grav.-expulsarei você de volta no tempo!"</s
         <string lang="pt-br">Fim da demonstração</string>
     </set>
     <set id="happening-endofdemo-thankyou">
-        <string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!
-Ich hoffe, dir hat dieser erste Eindruck des Spiels gefallen.</string>
-        <string lang="en">Congratulations and thank you for playing! 
-I hope you enjoyed this first glimpse into the game.</string>
-        <string lang="fr">Félicitations et merci d'avoir joué!
-J'espère que vous avez apprécié ce premier aperçu du jeu.</string>
-        <string lang="zh">恭喜并感谢你的参与！
-希望你享受这款游戏。</string>
-        <string lang="jp">おめでとうございます、そしてプレイしていただきありがとうございます！
-このゲームの第一印象をお楽しみいただければ幸いです。</string>
-        <string lang="ru">Поздравляю и спасибо за игру!
-Надеюсь, вам понравился этот первый взгляд на игру.</string>
-        <string lang="es">¡Felicidades y gracias por jugar!
-Espero que hayas disfrutado de este primer vistazo al juego.</string>
-        <string lang="kr">축하하고 플레이 해 주셔서 감사합니다!
-이 게임에 대한 첫인상을 즐기셨기를 바랍니다.</string>
-        <string lang="pt-br">Parabéns e obrigado por jogar!
-Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
+        <string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!$br$Ich hoffe, dir hat dieser erste Eindruck des Spiels gefallen.</string>
+        <string lang="en">Congratulations and thank you for playing!$br$I hope you enjoyed this first glimpse into the game.</string>
+        <string lang="fr">Félicitations et merci d'avoir joué!$br$J'espère que vous avez apprécié ce premier aperçu du jeu.</string>
+        <string lang="zh">恭喜并感谢你的参与！$br$希望你享受这款游戏。</string>
+        <string lang="jp">おめでとうございます、そしてプレイしていただきありがとうございます！$br$このゲームの第一印象をお楽しみいただければ幸いです。</string>
+        <string lang="ru">Поздравляю и спасибо за игру!$br$Надеюсь, вам понравился этот первый взгляд на игру.</string>
+        <string lang="es">¡Felicidades y gracias por jugar!$br$Espero que hayas disfrutado de este primer vistazo al juego.</string>
+        <string lang="kr">축하하고 플레이 해 주셔서 감사합니다!$br$이 게임에 대한 첫인상을 즐기셨기를 바랍니다.</string>
+        <string lang="pt-br">Parabéns e obrigado por jogar!$br$Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
     </set>
     <set id="happening-endofdemo-scope-demo">
         <string lang="de">Diese Demo</string>
@@ -736,24 +660,15 @@ Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
         <string lang="pt-br">+ LISTA DE DESEJOS DA STEAM</string>
     </set>
     <set id="happening-endofdemo-calltoaction">
-        <string lang="de">Hast du Feedback, Fragen oder Ideen?
-Möchtest du die Entwicklung unterstützen?</string>
-        <string lang="en">Do you have feedback, questions or ideas?
-Do you want to support the development?</string>
-        <string lang="fr">Aimez-vous la démo?
-Des questions, feedback ou idées?</string>
-        <string lang="zh">你有什么反馈，疑问或者想法吗？
-你想支持游戏的开发吗？</string>
-        <string lang="jp">フィードバック、質問、アイデアはありますか？
-開発をサポートしたいですか？</string>
-        <string lang="ru">У вас есть отзывы, вопросы или идеи?
-Хотите поддержать разработку?</string>
-        <string lang="es">¿Tienes comentarios, preguntas o ideas?
-¿Quieres apoyar el desarrollo?</string>
-        <string lang="kr">피드백, 질문 또는 아이디어가 있습니까?
-개발을 지원하고 싶습니까?</string>
-        <string lang="pt-br">Você tem feedback, perguntas ou ideias?
-Você quer apoiar o desenvolvimento?</string>
+        <string lang="de">Hast du Feedback, Fragen oder Ideen?$br$Möchtest du die Entwicklung unterstützen?</string>
+        <string lang="en">Do you have feedback, questions or ideas?$br$Do you want to support the development?</string>
+        <string lang="fr">Aimez-vous la démo?$br$Des questions, feedback ou idées?</string>
+        <string lang="zh">你有什么反馈，疑问或者想法吗？$br$你想支持游戏的开发吗？</string>
+        <string lang="jp">フィードバック、質問、アイデアはありますか？$br$開発をサポートしたいですか？</string>
+        <string lang="ru">У вас есть отзывы, вопросы или идеи?$br$Хотите поддержать разработку?</string>
+        <string lang="es">¿Tienes comentarios, preguntas o ideas?$br$¿Quieres apoyar el desarrollo?</string>
+        <string lang="kr">피드백, 질문 또는 아이디어가 있습니까?$br$개발을 지원하고 싶습니까?</string>
+        <string lang="pt-br">Você tem feedback, perguntas ou ideias?$br$Você quer apoiar o desenvolvimento?</string>
     </set>
     <set id="happening-endofdemo-spreadtheword">
         <string lang="de">• Erzähle anderen von Rogue Voltage</string>
@@ -767,134 +682,6 @@ Você quer apoiar o desenvolvimento?</string>
         <string lang="pt-br">• Espalhe a palavra sobre Rogue Voltage</string>
     </set>
     <set id="happening-endofdemo-jointhecommunity">
-        <string lang="de">Zeige deinen Build in der Community</string>
-        <string lang="en">Show off your build in the community</string>
-        <string lang="fr">Montrez votre build dans la communauté</string>
-        <string lang="zh">在社区展示你的建筑</string>
-        <string lang="jp">コミュニティでビルドを見せてください</string>
-        <string lang="ru">Покажите свой билд в сообществе</string>
-        <string lang="es">Muestra tu construcción en la comunidad</string>
-        <string lang="kr">커뮤니티에서 빌드를 자랑하세요</string>
-        <string lang="pt-br">Mostre sua construção na comunidade</string>
-    </set>
-        <set id="happening-endofgame-introduction">
-        <string lang="de">Das ist das</string>
-        <string lang="en">You have reached the</string>
-        <string lang="fr">Vous êtes arrivées à la </string>
-        <string lang="zh">你抵达了</string>
-        <string lang="jp">あなたは</string>
-        <string lang="ru">Вы достигли</string>
-        <string lang="es">Has llegado al</string>
-        <string lang="kr">당신은</string>
-        <string lang="pt-br">Você chegou ao</string>
-    </set>
-    <set id="happening-endofgame-heading">
-        <string lang="de">Ende der Demo</string>
-        <string lang="en">End of the Demo</string>
-        <string lang="fr">Fin de la Démo</string>
-        <string lang="zh">预览版结束</string>
-        <string lang="jp">デモの終わり</string>
-        <string lang="ru">Конец демо</string>
-        <string lang="es">Fin de la demo</string>
-        <string lang="kr">데모의 끝</string>
-        <string lang="pt-br">Fim da demonstração</string>
-    </set>
-    <set id="happening-endofgame-thankyou">
-        <string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!
-Ich hoffe, dir hat dieser erste Eindruck des Spiels gefallen.</string>
-        <string lang="en">Congratulations and thank you for playing! 
-I hope you enjoyed this first glimpse into the game.</string>
-        <string lang="fr">Félicitations et merci d'avoir joué!
-J'espère que vous avez apprécié ce premier aperçu du jeu.</string>
-        <string lang="zh">恭喜并感谢你的参与！
-希望你享受这款游戏。</string>
-        <string lang="jp">おめでとうございます、そしてプレイしていただきありがとうございます！
-このゲームの第一印象をお楽しみいただければ幸いです。</string>
-        <string lang="ru">Поздравляю и спасибо за игру!
-Надеюсь, вам понравился этот первый взгляд на игру.</string>
-        <string lang="es">¡Felicidades y gracias por jugar!
-Espero que hayas disfrutado de este primer vistazo al juego.</string>
-        <string lang="kr">축하하고 플레이 해 주셔서 감사합니다!
-이 게임에 대한 첫인상을 즐기셨기를 바랍니다.</string>
-        <string lang="pt-br">Parabéns e obrigado por jogar!
-Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
-    </set>
-        <set id="happening-endofgame-currentdifficulty">
-        <string lang="de">Aktuelle Schwierigkeitsstufe: $DIFFICULTY$</string>
-        <string lang="en">Current Difficulty: $DIFFICULTY$</string>
-        <string lang="fr">Difficulté actuelle : $DIFFICULTY$</string>
-        <string lang="zh">当前难度：$DIFFICULTY$</string>
-        <string lang="jp">現在の難易度：$DIFFICULTY$</string>
-        <string lang="ru">Текущая сложность: $DIFFICULTY$</string>
-        <string lang="es">Dificultad Actual: $DIFFICULTY$</string>
-        <string lang="kr">현재 난이도: $DIFFICULTY$</string>
-        <string lang="pt-br">Dificuldade atual: $DIFFICULTY$</string>
-    </set>
-        <set id="happening-endofgame-runduration">
-        <string lang="de">Dauer des Runs: $DURATION$</string>
-        <string lang="en">Run Duration: $DURATION$</string>
-        <string lang="fr">Durée du Run : $DURATION$</string>
-        <string lang="zh">游戏时长：$DURATION$</string>
-        <string lang="jp">ランの期間：$DURATION$</string>
-        <string lang="ru">Продолжительность раунда: $DURATION$</string>
-        <string lang="es">Duración: $DURATION$</string>
-        <string lang="kr">런 기간: $DURATION$</string>
-        <string lang="pt-br">Duração: $DURATION$</string>
-    </set>
-            <set id="happening-endofgame-currentplasma">
-        <string lang="de">Plasma: $PLASMA$</string>
-        <string lang="en">Plasma: $PLASMA$</string>
-        <string lang="fr">Plasma : $PLASMA$</string>
-        <string lang="zh">等离子：$PLASMA$</string>
-        <string lang="jp">プラズマ：$PLASMA$</string>
-        <string lang="ru">Плазма: $PLASMA$</string>
-        <string lang="es">Plasma: $PLASMA$</string>
-        <string lang="kr">플라즈마: $PLASMA$</string>
-        <string lang="pt-br">Plasma: $PLASMA$</string>
-    </set>
-    <set id="happening-endofgame-wishlist">
-        <string lang="de">+ STEAM WUNSCHLISTE</string>
-        <string lang="en">ADD TO WISHLIST ON STEAM</string>
-        <string lang="fr">+ LISTE DE SOUHAITS</string>
-        <string lang="zh">+ 添加到Steam愿望单</string>
-        <string lang="jp">+ STEAMウィッシュリストに追加</string>
-        <string lang="ru">+ ДОБАВИТЬ В СПИСОК ЖЕЛАЕМОГО</string>
-        <string lang="es">+ LISTA DE DESEOS DE STEAM</string>
-        <string lang="kr">+ 스팀 위시리스트에 추가</string>
-        <string lang="pt-br">+ LISTA DE DESEJOS DA STEAM</string>
-    </set>
-    <set id="happening-endofgame-calltoaction">
-        <string lang="de">Hast du Feedback, Fragen oder Ideen?
-Möchtest du die Entwicklung unterstützen?</string>
-        <string lang="en">Do you have feedback, questions or ideas?
-Do you want to support the development?</string>
-        <string lang="fr">Aimez-vous la démo?
-Des questions, feedback ou idées?</string>
-        <string lang="zh">你有什么反馈，疑问或者想法吗？
-你想支持游戏的开发吗？</string>
-        <string lang="jp">フィードバック、質問、アイデアはありますか？
-開発をサポートしたいですか？</string>
-        <string lang="ru">У вас есть отзывы, вопросы или идеи?
-Хотите поддержать разработку?</string>
-        <string lang="es">¿Tienes comentarios, preguntas o ideas?
-¿Quieres apoyar el desarrollo?</string>
-        <string lang="kr">피드백, 질문 또는 아이디어가 있습니까?
-개발을 지원하고 싶습니까?</string>
-        <string lang="pt-br">Você tem feedback, perguntas ou ideias?
-Você quer apoiar o desenvolvimento?</string>
-    </set>
-    <set id="happening-endofgame-spreadtheword">
-        <string lang="de">• Erzähle anderen von Rogue Voltage</string>
-        <string lang="en">• Spread the word about Rogue Voltage</string>
-        <string lang="fr">• Parlez-en à vos amis</string>
-        <string lang="zh">• 向朋友们推荐这款游戏</string>
-        <string lang="jp">• 他の人にゲームを広めてください</string>
-        <string lang="ru">• Расскажите другим о Rogue Voltage</string>
-        <string lang="es">• Corre la voz sobre Rogue Voltage</string>
-        <string lang="kr">• Rogue Voltage에 대해 말해보세요</string>
-        <string lang="pt-br">• Espalhe a palavra sobre Rogue Voltage</string>
-    </set>
-    <set id="happening-endofgame-jointhecommunity">
         <string lang="de">Zeige deinen Build in der Community</string>
         <string lang="en">Show off your build in the community</string>
         <string lang="fr">Montrez votre build dans la communauté</string>

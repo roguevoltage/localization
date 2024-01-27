@@ -51,14 +51,11 @@
         <string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
     </set>
     <set id="description-status-modulestormattractor">
-        <string lang="en">Activation attracts the $storm$
-by $4$ time steps</string>
+        <string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
     </set>
     <set id="description-status-modulestormrepeller">
-        <string lang="de">Aktivierung drängt den $storm$
-um $4$ Zeitschritte zurück</string>
-        <string lang="en">Activation pushes back the $storm$
-by $4$ time steps</string>
+        <string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
+        <string lang="en">Activation pushes back the $storm$$br$by $4$ time steps</string>
     </set>
     <set id="description-status-stasis">
         <string lang="de">Die Zeit steht für diesen Character still.</string>
@@ -120,12 +117,10 @@ by $4$ time steps</string>
         <string lang="pt-br">Bloqueado</string>
     </set>
     <set id="description-status-modulelock-whilecharged">
-        <string lang="en">Cannot be taken from rack
-while holding $energy$</string>
+        <string lang="en">Cannot be taken from rack$br$while holding $energy$</string>
     </set>
     <set id="description-status-modulelock-wiredtoviral">
-        <string lang="en">Cannot be taken from rack
-while wired to a threat module</string>
+        <string lang="en">Cannot be taken from rack$br$while wired to a threat module</string>
     </set>
     <set id="name-status-modulevulnerability">
         <string lang="de">Gefährlich</string>

@@ -107,8 +107,7 @@
         <string lang="en">Grav. Barrage $grav+1$×2</string>
     </set>
     <set id="description-skill-gravbarrage">
-        <string lang="en">Inflicts $grav+1$ to target combatant.
-Inflicts $grav+1$ to target combatant.</string>
+        <string lang="en">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
     </set>
     <set id="name-skill-gravexplode">
         <string lang="de">Grav.-Explosion</string>
@@ -512,12 +511,8 @@ Inflicts $grav+1$ to target combatant.</string>
         <string lang="fr">Invoque un hibou.</string>
     </set>
     <set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
-        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei
-- oder -
-verleiht einem bestehenden Ei $1$ $might$.</string>
-        <string lang="en">Summons a $b$Graviraptor Egg$/b$
-- or -
-grants an existing egg $1$ $might$.</string>
+        <string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
+        <string lang="en">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-modulefire-firegnat">
@@ -564,10 +559,8 @@ grants an existing egg $1$ $might$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravneutralize-self-geothermaldrone">
-        <string lang="de">Entfernt bis zu $grav+1$ von sich selbst.
-Versieht ein Module mit $fire$.</string>
-        <string lang="en">May remove $grav+1$ from itself.
-Inflicts a module with $fire$.</string>
+        <string lang="de">Entfernt bis zu $grav+1$ von sich selbst.$br$Versieht ein Module mit $fire$.</string>
+        <string lang="en">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravshield-gravadillo">
@@ -590,8 +583,7 @@ Inflicts a module with $fire$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-gravpull-push">
-        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu.
-Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
+        <string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu.$br$Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
         <string lang="en">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
         <string lang="fr">n/a</string>
     </set>
@@ -722,10 +714,8 @@ Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
         <string lang="fr">Augmente $might$ de tous les alliés de $1$.</string>
     </set>
     <set id="description-skill-powerraise-egg-dynosaur">
-        <string lang="de">Erhöht $might$ um $1$.
-Fügt allen anderen Kampfteilnehmern $grav-1$ hin zu.</string>
-        <string lang="en">Raises $might$ by $1$.
-Inflicts all other combatants with $grav-1$.</string>
+        <string lang="de">Erhöht $might$ um $1$.$br$Fügt allen anderen Kampfteilnehmern $grav-1$ hin zu.</string>
+        <string lang="en">Raises $might$ by $1$.$br$Inflicts all other combatants with $grav-1$.</string>
         <string lang="fr">Augmente $might$ de $1$</string>
     </set>
     <set id="description-skill-powerraise-egg-graviraptor">
@@ -795,11 +785,8 @@ Inflicts all other combatants with $grav-1$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-pterodactyl-swoopdown">
-        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.
-Sinkt auf der Zeitleiste unter die Spielercharaktere. Versieht sich selbst mit $grav+2$.</string>
-        <string lang="en">Deals $2damage$ to all enemies on the same time step. 
-Sinks below the player characters on the timeline.
-Inflicts itself with $grav+2$.</string>
+        <string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.$br$Sinkt auf der Zeitleiste unter die Spielercharaktere. Versieht sich selbst mit $grav+2$.</string>
+        <string lang="en">Deals $2damage$ to all enemies on the same time step.$br$Sinks below the player characters on the timeline.$br$Inflicts itself with $grav+2$.</string>
         <string lang="fr">n/a</string>
     </set>
     <set id="description-skill-rage">
