@@ -1,283 +1,289 @@
 <localization>
-    <set id="name-playercharacter-sol">
-        <string lang="de">Sol</string>
-        <string lang="en">Sol</string>
-        <string lang="fr">Sol</string>
-        <string lang="zh">索尔</string>
-        <string lang="jp">ソル</string>
-        <string lang="ru">Сол</string>
-        <string lang="es">Sol</string>
-        <string lang="kr">솔</string>
-        <string lang="pt-br">Sol</string>
-    </set>
-    <set id="name-playercharacter-ninja">
-        <string lang="de">Asha</string>
-        <string lang="en">Asha</string>
-        <string lang="fr">Asha</string>
-        <string lang="zh">阿莎</string>
-        <string lang="jp">アーシャ</string>
-        <string lang="ru">Аша</string>
-        <string lang="es">Asha</string>
-        <string lang="kr">아샤</string>
-        <string lang="pt-br">Asha</string>
-    </set>
-    <set id="name-playercharacter-alice">
-        <string lang="de">Alice</string>
-        <string lang="en">Alice</string>
-        <string lang="fr">Alice</string>
-        <string lang="zh">爱丽丝</string>
-        <string lang="jp">アリス</string>
-        <string lang="ru">Алиса</string>
-        <string lang="es">Alicia</string>
-        <string lang="kr">앨리스</string>
-        <string lang="pt-br">Alice</string>
-    </set>
-    <set id="name-playercharacter-plasmamech">
-        <string lang="de">Plasma-Mech</string>
-        <string lang="en">Plasma Mech</string>
-        <string lang="fr">Plasma Mech</string>
-        <string lang="zh">等离子机甲</string>
-        <string lang="jp">プラズマメカ</string>
-        <string lang="ru">Плазменный мех</string>
-        <string lang="es">Plasma Mech</string>
-        <string lang="kr">플라즈마 메카</string>
-        <string lang="pt-br">Plasma Mech</string>
-    </set>
-    <set id="name-playercharacter-nomad">
-        <string lang="de">Der Nomade</string>
-        <string lang="en">The Nomad</string>
-        <string lang="fr">Le Nomade</string>
-        <string lang="zh">游牧者</string>
-        <string lang="jp">ノマド</string>
-        <string lang="ru">Кочевник</string>
-        <string lang="es">El Nómada</string>
-        <string lang="kr">노마드</string>
-        <string lang="pt-br">O Nômade</string>
-    </set>
-    <set id="shortname-playercharacter-alice">
-        <string lang="de">Alice</string>
-        <string lang="en">Alice</string>
-        <string lang="fr">Alice</string>
-        <string lang="zh">爱丽丝</string>
-        <string lang="jp">アリス</string>
-        <string lang="ru">Алиса</string>
-        <string lang="es">Alicia</string>
-        <string lang="kr">앨리스</string>
-        <string lang="pt-br">Alice</string>
-    </set> 
-    <set id="shortname-playercharacter-ninja">
-        <string lang="de">Asha</string>
-        <string lang="en">Asha</string>
-        <string lang="fr">Asha</string>
-        <string lang="zh">阿莎</string>
-        <string lang="jp">アーシャ</string>
-        <string lang="ru">Аша</string>
-        <string lang="es">Asha</string>
-        <string lang="kr">아샤</string>
-        <string lang="pt-br">Asha</string>
-    </set>
-    <set id="shortname-playercharacter-sol">
-        <string lang="de">Sol</string>
-        <string lang="en">Sol</string>
-        <string lang="fr">Sol</string>
-        <string lang="zh">索尔</string>
-        <string lang="jp">ソル</string>
-        <string lang="ru">Сол</string>
-        <string lang="es">Sol</string>
-        <string lang="kr">솔</string>
-        <string lang="pt-br">Sol</string>
-    </set>
-    <set id="shortname-playercharacter-plasmamech">
-        <string lang="de">Mech</string>
-        <string lang="en">Mech</string>
-        <string lang="fr">Mech</string>
-        <string lang="zh">引力机甲</string>
-        <string lang="jp">重力メカ</string>
-        <string lang="ru">Мех</string>
-        <string lang="es">Mech</string>
-        <string lang="kr">메카</string>
-        <string lang="pt-br">Mech</string>
-    </set>
-    <set id="shortname-playercharacter-nanaslopper">
-        <string lang="de">Oma Slopper</string>
-        <string lang="en">Nana Slopper</string>
-        <string lang="fr">Mamie Slopper</string>
-        <string lang="zh">斯洛珀奶奶</string>
-        <string lang="jp">おばあちゃんスロッパー</string>
-        <string lang="ru">Бабушка Слоппер</string>
-        <string lang="es">Nana Slopper</string>
-        <string lang="kr">나나 슬로퍼</string>
-        <string lang="pt-br">Vovó Slopper</string>
-    </set>
-    <set id="shortname-playercharacter-nomad">
-        <string lang="de">Nomade</string>
-        <string lang="en">Nomad</string>
-        <string lang="fr">Nomade</string>
-        <string lang="zh">游牧者</string>
-        <string lang="jp">ノマド</string>
-        <string lang="ru">Кочевник</string>
-        <string lang="es">Nómada</string>
-        <string lang="kr">노마드</string>
-        <string lang="pt-br">Nômade</string>
-    </set>
-    <set id="name-playercharacter-sol-twolines">
-        <string lang="de">Sol</string>
-        <string lang="en">Sol</string>
-        <string lang="fr">Sol</string>
-        <string lang="zh">索尔</string>
-        <string lang="jp">ソル</string>
-        <string lang="ru">Сол</string>
-        <string lang="es">Sol</string>
-        <string lang="kr">솔</string>
-        <string lang="pt-br">Sol</string>
-    </set>
-    <set id="name-playercharacter-ninja-twolines">
-        <string lang="de">Asha</string>
-        <string lang="en">Asha</string>
-        <string lang="fr">Asha</string>
-        <string lang="zh">阿莎</string>
-        <string lang="jp">アーシャ</string>
-        <string lang="ru">Аша</string>
-        <string lang="es">Asha</string>
-        <string lang="kr">아샤</string>
-        <string lang="pt-br">Asha</string>
-    </set>
-    <set id="name-playercharacter-alice-twolines">
-        <string lang="de">Alice</string>
-        <string lang="en">Alice</string>
-        <string lang="fr">Alice</string>
-        <string lang="zh">爱丽丝</string>
-        <string lang="jp">アリス</string>
-        <string lang="ru">Алиса</string>
-        <string lang="es">Alicia</string>
-        <string lang="kr">앨리스</string>
-        <string lang="pt-br">Alice</string>
-    </set>
-    <set id="name-playercharacter-plasmamech-twolines">
-        <string lang="de">Plasma$br$Mech</string>
-        <string lang="en">Plasma$br$Mech</string>
-        <string lang="fr">Plasma$br$Mech</string>
-        <string lang="zh">等离子机甲</string>
-        <string lang="jp">プラズマメカ</string>
-        <string lang="ru">Плазменный$br$мех</string>
-        <string lang="es">Plasma$br$Mech</string>
-        <string lang="kr">플라즈마$br$메카</string>
-        <string lang="pt-br">Plasma$br$Mech</string>
-    </set>
-    <set id="name-playercharacter-nomad-twolines">
-        <string lang="de">Der$br$Nomade</string>
-        <string lang="en">The$br$Nomad</string>
-        <string lang="fr">Le$br$Nomade</string>
-        <string lang="zh">游牧者</string>
-        <string lang="jp">ノマド</string>
-        <string lang="ru">Кочевник</string>
-        <string lang="es">El$br$Nómada</string>
-        <string lang="kr">노마드</string>
-        <string lang="pt-br">O$br$Nômade</string>
-    </set>
-    <set id="description-playercharacter-sol">
-        <string lang="de">Eine ehemalige Bewohnerin des Umschlossenen Gartens. Hat ihr privilegiertes Leben hinter sich gelassen, um den Fluss der Zeit wiederherzustellen.</string>
-        <string lang="en">A former resident of the Walled Garden, she left her life of privilege to restore the flow of time.</string>
-        <string lang="fr">Ancienne résidente du Jardin Clos, elle a quitté sa vie de privilégiée pour restaurer le flux du temps.</string>
-        <string lang="zh">曾经生活在封闭花园的居民，她放弃了她的特权生活，来恢复时间的流动。</string>
-        <string lang="jp">ウォールドガーデンの元住民で、彼女は時間の流れを回復するために特権的な生活を捨てました。</string>
-        <string lang="ru">Бывшая жительница Сада, она оставила свою жизнь привилегированного человека, чтобы восстановить поток времени.</string>
-        <string lang="es">Una antigua residente del Jardín Amurallado, dejó su vida de privilegios para restaurar el flujo del tiempo.</string>
-        <string lang="kr">폐쇄된 정원의 전 주민이었던 그녀는 시간의 흐름을 복원하기 위해 특권의 삶을 버렸습니다.</string>
-        <string lang="pt-br">Uma ex-residente do Jardim Murado, ela deixou sua vida de privilégios para restaurar o fluxo do tempo.</string>
-    </set>
-    <set id="description-playercharacter-ninja">
-        <string lang="en">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>      
-    </set>
-    <set id="description-playercharacter-alice">
-        <string lang="de">Eine Grav.-Krustologin, die für neue Forschung nicht davor zurückschreckt, sich die Hände schmutzig zu machen.</string>
-        <string lang="en">A grav.-crustologist that is not afraid to get her hands dirty for new research.</string>
-        <string lang="fr">Une grav.-crustologue qui n'a pas peur de se salir les mains pour de nouvelles recherches.</string>
-        <string lang="zh">一位引力甲壳动物学家，为了新的研究不惜弄脏双手。</string>
-        <string lang="jp">新しい研究のために手を汚すことを恐れない重力甲殻類学者。</string>
-        <string lang="ru">Грав.-крустолог, которая не боится испачкать руки для новых исследований.</string>
-        <string lang="es">Una grav.-crustóloga que no tiene miedo de ensuciarse las manos por una nueva investigación.</string>
-        <string lang="kr">새로운 연구를 위해 손을 더럽히는 것을 두려워하지 않는 중력-갑각류학자입니다.</string>
-        <string lang="pt-br">Uma grav.-crustologista que não tem medo de sujar as mãos por uma nova pesquisa.</string>        
-    </set>
-    <set id="description-playercharacter-plasmamech">
-        <string lang="de">Die letzte Kreation von Opa Slopper. Vielleicht nicht der effizienteste seiner Prototypen.</string>
-        <string lang="en">Grandpa Slopper's final creation. Maybe not the most efficient of his prototypes.</string>
-        <string lang="fr">La dernière création de Grand-père Slopper. Peut-être pas la plus efficace de ses prototypes.</string>
-        <string lang="zh">斯洛珀爷爷的最后创作。也许不是他最有效的原型。</string>
-        <string lang="jp">スロッパーおじいちゃんの最後の作品。おそらく彼のプロトタイプの中で最も効率的ではありません。</string>
-        <string lang="ru">Последнее творение Дедушки Слоппера. Возможно, не самый эффективный из его прототипов.</string>
-        <string lang="es">La creación final del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
-        <string lang="kr">스로퍼 할아버지의 최후의 창작물입니다. 아마도 그의 프로토타입 중 가장 효율적이지는 않을 것입니다.</string>
-        <string lang="pt-br">A criação final do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
-    </set>
-    <set id="description-playercharacter-nomad">
-        <string lang="de">Ein Fremder, der gelernt hat, die Muster des Sturms zu lesen. Seine Augen wirken sanft und vertraut.</string>
-        <string lang="en">A stranger that learned to read the patterns of the storm. His eyes look gentle and familiar.</string>
-        <string lang="fr">Un étranger qui a appris à lire les motifs de la tempête. Ses yeux ont l'air doux et familiers.</string>
-        <string lang="zh">一个学会阅读风暴模式的陌生人。他的眼睛看起来温柔而熟悉。</string>
-        <string lang="jp">嵐のパターンを読むことを学んだ見知らぬ人。彼の目は優しくて親しみやすいように見えます。</string>
-        <string lang="ru">Незнакомец, который научился читать узоры бури. Его глаза выглядят мягкими и знакомыми.</string>
-        <string lang="es">Un extraño que aprendió a leer los patrones de la tormenta. Sus ojos parecen suaves y familiares.</string>
-        <string lang="kr">폭풍의 패턴을 읽는 법을 배운 낯선 사람입니다. 그의 눈은 부드럽고 친숙해 보입니다.</string>
-        <string lang="pt-br">Um estranho que aprendeu a ler os padrões da tempestade. Seus olhos parecem gentis e familiares.</string>
-    </set>
-    <set id="quote-playercharacter-sol">
-        <string lang="de">"Wir müssen diesem zeitlichen Unrecht ein Ende setzen."</string>
-        <string lang="en">"We have to bring an end to this temporal injustice."</string>
-        <string lang="fr">"Nous devons mettre fin à cette injustice temporelle."</string>
-        <string lang="zh">"我们必须结束这种时间上的不公平。"</string>
-        <string lang="jp">"私たちはこの時間的な不正義に終止符を打たなければなりません"</string>
-        <string lang="ru">"Мы должны положить конец этой временной несправедливости."</string>
-        <string lang="es">"Tenemos que poner fin a esta injusticia temporal."</string>
-        <string lang="kr">"우리는 이 시간적 불공정에 종지부를 찍어야 합니다."</string>
-        <string lang="pt-br">"Temos que acabar com essa injustiça temporal."</string>
-    </set>
-    <set id="quote-playercharacter-ninja">
-        <string lang="en">"I will find out what happened and make somebody pay!"</string>
-    </set>
-    <set id="quote-playercharacter-alice">
-        <string lang="de">"Welch interessante Oszillation in dieser Allotropie!"</string>
-        <string lang="en">"What an interesting oscillation in this allotropy!"</string>
-        <string lang="fr">"Quelle oscillation intéressante dans cette allotropie !"</string>
-        <string lang="zh">"这种异质性中有趣的振荡！"</string>
-        <string lang="jp">"この同素体の中の興味深い振動！"</string>
-        <string lang="ru">"Какая интересная осцилляция в этой аллотропии!"</string>
-        <string lang="es">"¡Qué oscilación tan interesante en esta alotropía!"</string>
-        <string lang="kr">"이 이소성의 흥미로운 진동이군요!"</string>
-        <string lang="pt-br">"Que oscilação interessante nesta alotropia!"</string>
-    </set>
-    <set id="quote-playercharacter-plasmamech">
-        <string lang="de">"Plasma-Speicher erschöpft. Bitte Plasmakartusche austauschen."</string>
-        <string lang="en">"Plasma storage depleted. Please replace plasma cartridge."</string>
-        <string lang="fr">"Stockage du plasma épuisé. Veuillez remplacer la cartouche de plasma."</string>
-        <string lang="zh">"等离子储存耗尽。请更换等离子弹药。"</string>
-        <string lang="jp">"プラズマストレージが枯渇しました。プラズマカートリッジを交換してください。"</string>
-        <string lang="ru">"Запасы плазмы исчерпаны. Пожалуйста, замените плазменный картридж."</string>
-        <string lang="es">"Almacenamiento de plasma agotado. Por favor, reemplace el cartucho de plasma."</string>
-        <string lang="kr">"플라즈마 저장소가 고갈되었습니다. 플라즈마 카트리지를 교체하십시오."</string>
-        <string lang="pt-br">"Armazenamento de plasma esgotado. Por favor, substitua o cartucho de plasma."</string>
-    </set>
-    <set id="quote-playercharacter-nanaslopper">
-        <string lang="de">"Ich hoffe, noch ein Mal den hellen Himmel aus meiner Jugend zu sehen."</string>
-        <string lang="en">"I wish I could see the bright skies of my youth again."</string>
-        <string lang="fr">"Je souhaite voir à nouveau les ciels lumineux de ma jeunesse."</string>
-        <string lang="zh">"好想再看看我年轻时的明亮天空呀……"</string>
-        <string lang="jp">"私は、私の若い頃の明るい空をもう一度見たいです"</string>
-        <string lang="ru">"Я хотел бы снова увидеть яркие небеса моей молодости."</string>
-        <string lang="es">"Ojalá pudiera ver los cielos brillantes de mi juventud de nuevo."</string>
-        <string lang="kr">"젊었을 때의 밝은 하늘을 다시 볼 수 있었으면 좋겠어요."</string>
-        <string lang="pt-br">"Eu gostaria de poder ver os céus brilhantes da minha juventude novamente."</string>
-    </set>
-    <set id="quote-playercharacter-nomad">
-        <string lang="de">"Psst! Folge mir."</string>
-        <string lang="en">"Hush now! Follow me."</string>
-        <string lang="fr">"Chut ! Suis-moi."</string>
-        <string lang="zh">"嘘！跟我来。"</string>
-        <string lang="jp">"ほら！私についてきて。"</string>
-        <string lang="ru">"Тсс! Следуй за мной."</string>
-        <string lang="es">"¡Shh! Sígueme."</string>
-        <string lang="kr">"쉿! 저를 따라와요."</string>
-        <string lang="pt-br">"Shh! Siga-me."</string>
-    </set>
+<set id="description-playercharacter-alice">
+		<string lang="de">Eine Grav.-Krustologin, die für neue Forschung nicht davor zurückschreckt, sich die Hände schmutzig zu machen.</string>
+		<string lang="en">A grav.-crustologist that is not afraid to get her hands dirty for new research.</string>
+		<string lang="fr">Une grav.-crustologue qui n'a pas peur de se salir les mains pour de nouvelles recherches.</string>
+		<string lang="zh">一位引力甲壳动物学家，为了新的研究不惜弄脏双手。</string>
+		<string lang="jp">新しい研究のために手を汚すことを恐れない重力甲殻類学者。</string>
+		<string lang="ru">Грав.-крустолог, которая не боится испачкать руки для новых исследований.</string>
+		<string lang="es">Una grav.-crustóloga que no tiene miedo de ensuciarse las manos por una nueva investigación.</string>
+		<string lang="kr">새로운 연구를 위해 손을 더럽히는 것을 두려워하지 않는 중력-갑각류학자입니다.</string>
+		<string lang="pt-br">Uma grav.-crustologista que não tem medo de sujar as mãos por uma nova pesquisa.</string>
+</set>
+<set id="description-playercharacter-ninja">
+		<string lang="en">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
+		<string lang="zh">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
+		<string lang="jp">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
+		<string lang="kr">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
+</set>
+<set id="description-playercharacter-nomad">
+		<string lang="de">Ein Fremder, der gelernt hat, die Muster des Sturms zu lesen. Seine Augen wirken sanft und vertraut.</string>
+		<string lang="en">A stranger that learned to read the patterns of the storm. His eyes look gentle and familiar.</string>
+		<string lang="fr">Un étranger qui a appris à lire les motifs de la tempête. Ses yeux ont l'air doux et familiers.</string>
+		<string lang="zh">一个学会阅读风暴模式的陌生人。他的眼睛看起来温柔而熟悉。</string>
+		<string lang="jp">嵐のパターンを読むことを学んだ見知らぬ人。彼の目は優しくて親しみやすいように見えます。</string>
+		<string lang="ru">Незнакомец, который научился читать узоры бури. Его глаза выглядят мягкими и знакомыми.</string>
+		<string lang="es">Un extraño que aprendió a leer los patrones de la tormenta. Sus ojos parecen suaves y familiares.</string>
+		<string lang="kr">폭풍의 패턴을 읽는 법을 배운 낯선 사람입니다. 그의 눈은 부드럽고 친숙해 보입니다.</string>
+		<string lang="pt-br">Um estranho que aprendeu a ler os padrões da tempestade. Seus olhos parecem gentis e familiares.</string>
+</set>
+<set id="description-playercharacter-plasmamech">
+		<string lang="de">Die letzte Kreation von Opa Slopper. Vielleicht nicht der effizienteste seiner Prototypen.</string>
+		<string lang="en">Grandpa Slopper's final creation. Maybe not the most efficient of his prototypes.</string>
+		<string lang="fr">La dernière création de Grand-père Slopper. Peut-être pas la plus efficace de ses prototypes.</string>
+		<string lang="zh">斯洛珀爷爷的最后创作。也许不是他最有效的原型。</string>
+		<string lang="jp">スロッパーおじいちゃんの最後の作品。おそらく彼のプロトタイプの中で最も効率的ではありません。</string>
+		<string lang="ru">Последнее творение Дедушки Слоппера. Возможно, не самый эффективный из его прототипов.</string>
+		<string lang="es">La creación final del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
+		<string lang="kr">스로퍼 할아버지의 최후의 창작물입니다. 아마도 그의 프로토타입 중 가장 효율적이지는 않을 것입니다.</string>
+		<string lang="pt-br">A criação final do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
+</set>
+<set id="description-playercharacter-sol">
+		<string lang="de">Eine ehemalige Bewohnerin des Umschlossenen Gartens. Hat ihr privilegiertes Leben hinter sich gelassen, um den Fluss der Zeit wiederherzustellen.</string>
+		<string lang="en">A former resident of the Walled Garden, she left her life of privilege to restore the flow of time.</string>
+		<string lang="fr">Ancienne résidente du Jardin Clos, elle a quitté sa vie de privilégiée pour restaurer le flux du temps.</string>
+		<string lang="zh">曾经生活在封闭花园的居民，她放弃了她的特权生活，来恢复时间的流动。</string>
+		<string lang="jp">ウォールドガーデンの元住民で、彼女は時間の流れを回復するために特権的な生活を捨てました。</string>
+		<string lang="ru">Бывшая жительница Сада, она оставила свою жизнь привилегированного человека, чтобы восстановить поток времени.</string>
+		<string lang="es">Una antigua residente del Jardín Amurallado, dejó su vida de privilegios para restaurar el flujo del tiempo.</string>
+		<string lang="kr">폐쇄된 정원의 전 주민이었던 그녀는 시간의 흐름을 복원하기 위해 특권의 삶을 버렸습니다.</string>
+		<string lang="pt-br">Uma ex-residente do Jardim Murado, ela deixou sua vida de privilégios para restaurar o fluxo do tempo.</string>
+</set>
+<set id="name-playercharacter-alice">
+		<string lang="de">Alice</string>
+		<string lang="en">Alice</string>
+		<string lang="fr">Alice</string>
+		<string lang="zh">爱丽丝</string>
+		<string lang="jp">アリス</string>
+		<string lang="ru">Алиса</string>
+		<string lang="es">Alicia</string>
+		<string lang="kr">앨리스</string>
+		<string lang="pt-br">Alice</string>
+</set>
+<set id="name-playercharacter-alice-twolines">
+		<string lang="de">Alice</string>
+		<string lang="en">Alice</string>
+		<string lang="fr">Alice</string>
+		<string lang="zh">爱丽丝</string>
+		<string lang="jp">アリス</string>
+		<string lang="ru">Алиса</string>
+		<string lang="es">Alicia</string>
+		<string lang="kr">앨리스</string>
+		<string lang="pt-br">Alice</string>
+</set>
+<set id="name-playercharacter-ninja">
+		<string lang="de">Asha</string>
+		<string lang="en">Asha</string>
+		<string lang="fr">Asha</string>
+		<string lang="zh">阿莎</string>
+		<string lang="jp">アーシャ</string>
+		<string lang="ru">Аша</string>
+		<string lang="es">Asha</string>
+		<string lang="kr">아샤</string>
+		<string lang="pt-br">Asha</string>
+</set>
+<set id="name-playercharacter-ninja-twolines">
+		<string lang="de">Asha</string>
+		<string lang="en">Asha</string>
+		<string lang="fr">Asha</string>
+		<string lang="zh">阿莎</string>
+		<string lang="jp">アーシャ</string>
+		<string lang="ru">Аша</string>
+		<string lang="es">Asha</string>
+		<string lang="kr">아샤</string>
+		<string lang="pt-br">Asha</string>
+</set>
+<set id="name-playercharacter-nomad">
+		<string lang="de">Der Nomade</string>
+		<string lang="en">The Nomad</string>
+		<string lang="fr">Le Nomade</string>
+		<string lang="zh">游牧者</string>
+		<string lang="jp">ノマド</string>
+		<string lang="ru">Кочевник</string>
+		<string lang="es">El Nómada</string>
+		<string lang="kr">노마드</string>
+		<string lang="pt-br">O Nômade</string>
+</set>
+<set id="name-playercharacter-nomad-twolines">
+		<string lang="de">Der$br$Nomade</string>
+		<string lang="en">The$br$Nomad</string>
+		<string lang="fr">Le$br$Nomade</string>
+		<string lang="zh">游牧者</string>
+		<string lang="jp">ノマド</string>
+		<string lang="ru">Кочевник</string>
+		<string lang="es">El$br$Nómada</string>
+		<string lang="kr">노마드</string>
+		<string lang="pt-br">O$br$Nômade</string>
+</set>
+<set id="name-playercharacter-plasmamech">
+		<string lang="de">Plasma-Mech</string>
+		<string lang="en">Plasma Mech</string>
+		<string lang="fr">Plasma Mech</string>
+		<string lang="zh">等离子机甲</string>
+		<string lang="jp">プラズマメカ</string>
+		<string lang="ru">Плазменный мех</string>
+		<string lang="es">Plasma Mech</string>
+		<string lang="kr">플라즈마 메카</string>
+		<string lang="pt-br">Plasma Mech</string>
+</set>
+<set id="name-playercharacter-plasmamech-twolines">
+		<string lang="de">Plasma$br$Mech</string>
+		<string lang="en">Plasma$br$Mech</string>
+		<string lang="fr">Plasma$br$Mech</string>
+		<string lang="zh">等离子机甲</string>
+		<string lang="jp">プラズマメカ</string>
+		<string lang="ru">Плазменный$br$мех</string>
+		<string lang="es">Plasma$br$Mech</string>
+		<string lang="kr">플라즈마$br$메카</string>
+		<string lang="pt-br">Plasma$br$Mech</string>
+</set>
+<set id="name-playercharacter-sol">
+		<string lang="de">Sol</string>
+		<string lang="en">Sol</string>
+		<string lang="fr">Sol</string>
+		<string lang="zh">索尔</string>
+		<string lang="jp">ソル</string>
+		<string lang="ru">Сол</string>
+		<string lang="es">Sol</string>
+		<string lang="kr">솔</string>
+		<string lang="pt-br">Sol</string>
+</set>
+<set id="name-playercharacter-sol-twolines">
+		<string lang="de">Sol</string>
+		<string lang="en">Sol</string>
+		<string lang="fr">Sol</string>
+		<string lang="zh">索尔</string>
+		<string lang="jp">ソル</string>
+		<string lang="ru">Сол</string>
+		<string lang="es">Sol</string>
+		<string lang="kr">솔</string>
+		<string lang="pt-br">Sol</string>
+</set>
+<set id="quote-playercharacter-alice">
+		<string lang="de">"Welch interessante Oszillation in dieser Allotropie!"</string>
+		<string lang="en">"What an interesting oscillation in this allotropy!"</string>
+		<string lang="fr">"Quelle oscillation intéressante dans cette allotropie !"</string>
+		<string lang="zh">"这种异质性中有趣的振荡！"</string>
+		<string lang="jp">"この同素体の中の興味深い振動！"</string>
+		<string lang="ru">"Какая интересная осцилляция в этой аллотропии!"</string>
+		<string lang="es">"¡Qué oscilación tan interesante en esta alotropía!"</string>
+		<string lang="kr">"이 이소성의 흥미로운 진동이군요!"</string>
+		<string lang="pt-br">"Que oscilação interessante nesta alotropia!"</string>
+</set>
+<set id="quote-playercharacter-nanaslopper">
+		<string lang="de">"Ich hoffe, noch ein Mal den hellen Himmel aus meiner Jugend zu sehen."</string>
+		<string lang="en">"I wish I could see the bright skies of my youth again."</string>
+		<string lang="fr">"Je souhaite voir à nouveau les ciels lumineux de ma jeunesse."</string>
+		<string lang="zh">"好想再看看我年轻时的明亮天空呀……"</string>
+		<string lang="jp">"私は、私の若い頃の明るい空をもう一度見たいです"</string>
+		<string lang="ru">"Я хотел бы снова увидеть яркие небеса моей молодости."</string>
+		<string lang="es">"Ojalá pudiera ver los cielos brillantes de mi juventud de nuevo."</string>
+		<string lang="kr">"젊었을 때의 밝은 하늘을 다시 볼 수 있었으면 좋겠어요."</string>
+		<string lang="pt-br">"Eu gostaria de poder ver os céus brilhantes da minha juventude novamente."</string>
+</set>
+<set id="quote-playercharacter-ninja">
+		<string lang="en">"I will find out what happened and make somebody pay!"</string>
+		<string lang="zh">"I will find out what happened and make somebody pay!"</string>
+		<string lang="jp">"I will find out what happened and make somebody pay!"</string>
+		<string lang="kr">"I will find out what happened and make somebody pay!"</string>
+</set>
+<set id="quote-playercharacter-nomad">
+		<string lang="de">"Psst! Folge mir."</string>
+		<string lang="en">"Hush now! Follow me."</string>
+		<string lang="fr">"Chut ! Suis-moi."</string>
+		<string lang="zh">"嘘！跟我来。"</string>
+		<string lang="jp">"ほら！私についてきて。"</string>
+		<string lang="ru">"Тсс! Следуй за мной."</string>
+		<string lang="es">"¡Shh! Sígueme."</string>
+		<string lang="kr">"쉿! 저를 따라와요."</string>
+		<string lang="pt-br">"Shh! Siga-me."</string>
+</set>
+<set id="quote-playercharacter-plasmamech">
+		<string lang="de">"Plasma-Speicher erschöpft. Bitte Plasmakartusche austauschen."</string>
+		<string lang="en">"Plasma storage depleted. Please replace plasma cartridge."</string>
+		<string lang="fr">"Stockage du plasma épuisé. Veuillez remplacer la cartouche de plasma."</string>
+		<string lang="zh">"等离子储存耗尽。请更换等离子弹药。"</string>
+		<string lang="jp">"プラズマストレージが枯渇しました。プラズマカートリッジを交換してください。"</string>
+		<string lang="ru">"Запасы плазмы исчерпаны. Пожалуйста, замените плазменный картридж."</string>
+		<string lang="es">"Almacenamiento de plasma agotado. Por favor, reemplace el cartucho de plasma."</string>
+		<string lang="kr">"플라즈마 저장소가 고갈되었습니다. 플라즈마 카트리지를 교체하십시오."</string>
+		<string lang="pt-br">"Armazenamento de plasma esgotado. Por favor, substitua o cartucho de plasma."</string>
+</set>
+<set id="quote-playercharacter-sol">
+		<string lang="de">"Wir müssen diesem zeitlichen Unrecht ein Ende setzen."</string>
+		<string lang="en">"We have to bring an end to this temporal injustice."</string>
+		<string lang="fr">"Nous devons mettre fin à cette injustice temporelle."</string>
+		<string lang="zh">"我们必须结束这种时间上的不公平。"</string>
+		<string lang="jp">"私たちはこの時間的な不正義に終止符を打たなければなりません"</string>
+		<string lang="ru">"Мы должны положить конец этой временной несправедливости."</string>
+		<string lang="es">"Tenemos que poner fin a esta injusticia temporal."</string>
+		<string lang="kr">"우리는 이 시간적 불공정에 종지부를 찍어야 합니다."</string>
+		<string lang="pt-br">"Temos que acabar com essa injustiça temporal."</string>
+</set>
+<set id="shortname-playercharacter-alice">
+		<string lang="de">Alice</string>
+		<string lang="en">Alice</string>
+		<string lang="fr">Alice</string>
+		<string lang="zh">爱丽丝</string>
+		<string lang="jp">アリス</string>
+		<string lang="ru">Алиса</string>
+		<string lang="es">Alicia</string>
+		<string lang="kr">앨리스</string>
+		<string lang="pt-br">Alice</string>
+</set>
+<set id="shortname-playercharacter-nanaslopper">
+		<string lang="de">Oma Slopper</string>
+		<string lang="en">Nana Slopper</string>
+		<string lang="fr">Mamie Slopper</string>
+		<string lang="zh">斯洛珀奶奶</string>
+		<string lang="jp">おばあちゃんスロッパー</string>
+		<string lang="ru">Бабушка Слоппер</string>
+		<string lang="es">Nana Slopper</string>
+		<string lang="kr">나나 슬로퍼</string>
+		<string lang="pt-br">Vovó Slopper</string>
+</set>
+<set id="shortname-playercharacter-ninja">
+		<string lang="de">Asha</string>
+		<string lang="en">Asha</string>
+		<string lang="fr">Asha</string>
+		<string lang="zh">阿莎</string>
+		<string lang="jp">アーシャ</string>
+		<string lang="ru">Аша</string>
+		<string lang="es">Asha</string>
+		<string lang="kr">아샤</string>
+		<string lang="pt-br">Asha</string>
+</set>
+<set id="shortname-playercharacter-nomad">
+		<string lang="de">Nomade</string>
+		<string lang="en">Nomad</string>
+		<string lang="fr">Nomade</string>
+		<string lang="zh">游牧者</string>
+		<string lang="jp">ノマド</string>
+		<string lang="ru">Кочевник</string>
+		<string lang="es">Nómada</string>
+		<string lang="kr">노마드</string>
+		<string lang="pt-br">Nômade</string>
+</set>
+<set id="shortname-playercharacter-plasmamech">
+		<string lang="de">Mech</string>
+		<string lang="en">Mech</string>
+		<string lang="fr">Mech</string>
+		<string lang="zh">引力机甲</string>
+		<string lang="jp">重力メカ</string>
+		<string lang="ru">Мех</string>
+		<string lang="es">Mech</string>
+		<string lang="kr">메카</string>
+		<string lang="pt-br">Mech</string>
+</set>
+<set id="shortname-playercharacter-sol">
+		<string lang="de">Sol</string>
+		<string lang="en">Sol</string>
+		<string lang="fr">Sol</string>
+		<string lang="zh">索尔</string>
+		<string lang="jp">ソル</string>
+		<string lang="ru">Сол</string>
+		<string lang="es">Sol</string>
+		<string lang="kr">솔</string>
+		<string lang="pt-br">Sol</string>
+</set>
 </localization>

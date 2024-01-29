@@ -1,1535 +1,1562 @@
 <localization>
-    <set id="undefined">
-        <string lang="de">Lokalisationsfehler</string>
-        <string lang="en">Localization Error</string>
-        <string lang="fr">Erreur de localisation</string>
-        <string lang="zh">本地化错误</string>
-        <string lang="jp">ローカライズエラー</string>
-        <string lang="ru">Ошибка локализации</string>
-        <string lang="es">Error de localización</string>
-        <string lang="kr">로컬라이제이션 오류</string>
-        <string lang="pt-br">Erro de localização</string>
-    </set>
-    <set id="(">
-        <string lang="de">(</string>
-        <string lang="en">(</string>
-        <string lang="fr">(</string>
-        <string lang="zh">（</string>
-        <string lang="jp">（</string>
-        <string lang="ru">(</string>
-        <string lang="es">(</string>
-        <string lang="kr">(</string>
-        <string lang="pt-br">(</string>
-    </set>
-    <set id=")">
-        <string lang="de">)</string>
-        <string lang="en">)</string>
-        <string lang="fr">)</string>
-        <string lang="zh">）</string>
-        <string lang="jp">）</string>
-        <string lang="ru">)</string>
-        <string lang="es">)</string>
-        <string lang="kr">)</string>
-        <string lang="pt-br">)</string>
-    </set>
-    <set id="tooltip-removewires">
-        <string lang="de">Alle Kabel entfernen</string>
-        <string lang="en">Remove all wires</string>
-        <string lang="fr">Retirer câbles</string>
-        <string lang="zh">移除所有线缆</string>
-        <string lang="jp">すべてのワイヤーを取り外します</string>
-        <string lang="ru">Удалить все провода</string>
-        <string lang="es">Eliminar todos los cables</string>
-        <string lang="kr">모든 전선 제거</string>
-        <string lang="pt-br">Remover todos os fios</string>
-    </set>
-    <set id="tooltip-skipturn">
-        <string lang="de">Zug überspringen</string>
-        <string lang="en">Skip turn</string>
-        <string lang="fr">Passer le tour</string>
-        <string lang="zh">跳过回合</string>
-        <string lang="jp">ターンをスキップします</string>
-        <string lang="ru">Пропустить ход</string>
-        <string lang="es">Saltar turno</string>
-        <string lang="kr">턴 건너 뛰기</string>
-        <string lang="pt-br">Pular turno</string>
-    </set>
-    <set id="scope-prototype">
-        <string lang="de">Prototyp</string>
-        <string lang="en">Prototype</string>
-        <string lang="fr">Prototype</string>
-        <string lang="zh">原型</string>
-        <string lang="jp">プロトタイプ</string>
-        <string lang="ru">Прототип</string>
-        <string lang="es">Prototipo</string>
-        <string lang="kr">원형</string>
-        <string lang="pt-br">Protótipo</string>
-    </set>
-    <set id="scope-demo">
-        <string lang="de">Steam Demo</string>
-        <string lang="en">Steam Demo</string>
-        <string lang="fr">Steam Démo</string>
-        <string lang="zh">Steam 预览版</string>
-        <string lang="jp">Steam デモ</string>
-        <string lang="ru">Steam Демо</string>
-        <string lang="es">Steam Demo</string>
-        <string lang="kr">스팀 데모</string>
-        <string lang="pt-br">Steam Demo</string>
-    </set>
-    <set id="scope-extendeddemo">
-        <string lang="de">Erweiterte Demo</string>
-        <string lang="en">Extended Demo</string>
-        <string lang="fr">Démo Étendue</string>
-        <string lang="zh">扩展预览版</string>
-        <string lang="jp">拡張デモ</string>
-        <string lang="ru">Расширенное Демо</string>
-        <string lang="es">Demo extendida</string>
-        <string lang="kr">확장 데모</string>
-        <string lang="pt-br">Demo estendida</string>
-    </set>
-    <set id="scope-playtest">
-        <string lang="de">Playtest</string>
-        <string lang="en">Playtest</string>
-        <string lang="fr">Playtest</string>
-        <string lang="zh">Playtest</string>
-        <string lang="jp">Playtest</string>
-        <string lang="ru">Playtest</string>
-        <string lang="es">Playtest</string>
-        <string lang="kr">Playtest</string>
-        <string lang="pt-br">Playtest</string>
-    </set>
-    <set id="scope-earlyaccess">
-        <string lang="de">Early Access Prototype</string>
-        <string lang="en">Early Access Prototype</string>
-        <string lang="fr">Early Access Prototype</string>
-        <string lang="zh">抢先体验版</string>
-        <string lang="jp">Early Access Prototype</string>
-        <string lang="ru">Early Access Prototype</string>
-        <string lang="es">Early Access Prototype</string>
-        <string lang="kr">Early Access Prototype</string>
-        <string lang="pt-br">Early Access Prototype</string>
-    </set>
-    <set id="scope-version">
-        <string lang="de">v. $VERSION$</string>
-        <string lang="en">v. $VERSION$</string>
-        <string lang="fr">v. $VERSION$</string>
-        <string lang="zh">v. $VERSION$</string>
-        <string lang="jp">v. $VERSION$</string>
-        <string lang="ru">v. $VERSION$</string>
-        <string lang="es">v. $VERSION$</string>
-        <string lang="kr">v. $VERSION$</string>
-        <string lang="pt-br">v. $VERSION$</string>
-    </set>
-    <set id="difficulty">
-        <string lang="de">SCHWIERIGKEIT</string>
-        <string lang="en">DIFFICULTY</string>
-        <string lang="fr">DIFFICULTÉ</string>
-        <string lang="zh">难度</string>
-        <string lang="jp">難易度</string>
-        <string lang="ru">СЛОЖНОСТЬ</string>
-        <string lang="es">DIFICULTAD</string>
-        <string lang="kr">난이도</string>
-        <string lang="pt-br">DIFICULDADE</string>
-    </set>
-    <set id="name-difficulty-0">
-        <string lang="de">Anfänger</string>
-        <string lang="en">Beginner</string>
-        <string lang="fr">Débutant</string>
-        <string lang="zh">新手</string>
-        <string lang="jp">初心者</string>
-        <string lang="ru">Новичок</string>
-        <string lang="es">Principiante</string>
-        <string lang="kr">초보자</string>
-        <string lang="pt-br">Iniciante</string>
-    </set>
-    <set id="description-difficulty-0">
-        <string lang="de">Du lernst gerade die Mechaniken von Rogue Voltage kennen.</string>
-        <string lang="en">You are still learning about the mechanics of Rogue Voltage.</string>
-        <string lang="fr">Vous apprenez encore les mécanismes de Rogue Voltage.</string>
-        <string lang="zh">您仍在了解《Rogue Voltage》的机制。</string>
-        <string lang="jp">あなたはまだRogue Voltageのメカニクスについて学んでいます。</string>
-        <string lang="ru">Вы все еще учитесь механике Rogue Voltage.</string>
-        <string lang="es">Todavía estás aprendiendo sobre la mecánica de Rogue Voltage.</string>
-        <string lang="kr">아직 로그 볼티지의 메커니즘에 대해 배우고 있습니다.</string>
-        <string lang="pt-br">Você ainda está aprendendo sobre a mecânica do Rogue Voltage.</string>
-    </set>
-    <set id="modalities-difficulty-0">
-        <string lang="en">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
-    </set>
-    <set id="progression-difficulty-0">
-        <string lang="en">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
-    </set>
-    <set id="name-difficulty-1">
-        <string lang="de">Normal</string>
-        <string lang="en">Normal</string>
-        <string lang="fr">Normal</string>
-        <string lang="zh">正常</string>
-        <string lang="jp">ノーマル</string>
-        <string lang="ru">Нормальный</string>
-        <string lang="es">Normal</string>
-        <string lang="kr">일반</string>
-        <string lang="pt-br">Normal</string>
-    </set>
-    <set id="description-difficulty-1">
-        <string lang="de">Eine ausgewogene Herausforderung für alle, die mit den Grundprinzipien vertraut sind.</string>
-        <string lang="en">A balanced challenge for those familiar with the core principles.</string>
-        <string lang="fr">Un défi équilibré pour les joueurs qui sont familiers avec les principes de base.</string>
-        <string lang="zh">对于熟悉核心原则的玩家来说，这是一个平衡的挑战。</string>
-        <string lang="jp">コア原則に精通しているプレイヤーにとって、バランスの取れた挑戦です。</string>
-        <string lang="ru">Сбалансированный вызов для игроков, которые знакомы с основными принципами.</string>
-        <string lang="es">Un desafío equilibrado para los jugadores que están familiarizados con los principios básicos.</string>
-        <string lang="kr">핵심 원칙에 익숙한 플레이어를 위한 균형 잡힌 도전 과제입니다.</string>
-        <string lang="pt-br">Um desafio equilibrado para jogadores que estão familiarizados com os princípios básicos.</string>
-    </set>
-    <set id="modalities-difficulty-1">
-        <string lang="en"></string>
-    </set>
-    <set id="progression-difficulty-1">
-        <string lang="en"></string>
-    </set>
-    <set id="name-difficulty-2">
-        <string lang="de">Schwer</string>
-        <string lang="en">Hard</string>
-        <string lang="fr">Difficile</string>
-        <string lang="zh">困难</string>
-        <string lang="jp">ハード</string>
-        <string lang="ru">Сложный</string>
-        <string lang="es">Difícil</string>
-        <string lang="kr">어려움</string>
-        <string lang="pt-br">Difícil</string>
-    </set>
-    <set id="modalities-difficulty-2">
-        <string lang="en">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
-    </set>
-    <set id="progression-difficulty-2">
-        <string lang="en">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
-    </set>
-    <set id="description-difficulty-2">
-        <string lang="de">Ein kniffliges Denkspiel mit sehr wenig Spielraum für Fehler.</string>
-        <string lang="en">A tough engineering puzzle with very little room for misplays.</string>
-        <string lang="fr">Un puzzle d'ingénierie difficile avec très peu de marge de manœuvre pour les erreurs de jeu.</string>
-        <string lang="zh">一个非常难的工程难题，几乎没有任何错误的余地。</string>
-        <string lang="jp">ミスプレイの余地がほとんどない、難しいエンジニアリングパズル。</string>
-        <string lang="ru">Сложная инженерная головоломка с очень малым пространством для ошибок.</string>
-        <string lang="es">Un rompecabezas de ingeniería difícil con muy poco margen de maniobra para errores de juego.</string>
-        <string lang="kr">실수할 여지가 거의 없는 어려운 엔지니어링 퍼즐입니다.</string>
-        <string lang="pt-br">Um quebra-cabeça de engenharia difícil com muito pouco espaço para erros.</string>
-    </set>
-    <set id="name-difficulty-3">
-        <string lang="de">Unmöglich</string>
-        <string lang="en">Impossible</string>
-        <string lang="fr">Impossible</string>
-        <string lang="zh">不可能</string>
-        <string lang="jp">不可能</string>
-        <string lang="ru">Невозможный</string>
-        <string lang="es">Imposible</string>
-        <string lang="kr">불가능</string>
-        <string lang="pt-br">Impossível</string>
-    </set>
-    <set id="description-difficulty-3">
-        <string lang="de">Selbst der Entwickler hat Schwierigkeiten,$br$auf diesem Modus zu bestehen.</string>
-        <string lang="en">Even the developer struggles$br$to beat this mode.</string>
-        <string lang="fr">Même le développeur a du mal$br$à battre ce mode.</string>
-        <string lang="zh">即使是开发者也很难打败这个模式。</string>
-        <string lang="jp">開発者でさえこのモードを打ち負かすのに苦労しています。</string>
-        <string lang="ru">Даже разработчику трудно победить в этом режиме.</string>
-        <string lang="es">Incluso el desarrollador lucha por vencer este modo.</string>
-        <string lang="kr">개발자조차도 이 모드를 이기기 위해 고군분투합니다.</string>
-        <string lang="pt-br">Mesmo o desenvolvedor luta para vencer este modo.</string>
-    </set>
-    <set id="modalities-difficulty-3">
-        <string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
-    </set>
-    <set id="progression-difficulty-3">
-        <string lang="en">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
-    </set>
-    <set id="ui-discussion">
-        <string lang="de">Komm' ans Lagerfeuer:</string>
-        <string lang="en">Join the Campfire:</string>
-        <string lang="fr">Rejoignez le feu de camp:</string>
-        <string lang="zh">来篝火旁取取暖</string>
-        <string lang="jp">キャンプファイヤーに参加する</string>
-        <string lang="ru">Присоединяйтесь к костру:</string>
-        <string lang="es">Únete a la hoguera:</string>
-        <string lang="kr">캠프파이어에 참여하세요:</string>
-        <string lang="pt-br">Junte-se à fogueira:</string>
-    </set>
-    <set id="ui-newgame">
-        <string lang="de">Neuer Run</string>
-        <string lang="en">New Run</string>
-        <string lang="fr">Nouvelle Partie</string>
-        <string lang="zh">新的冒险</string>
-        <string lang="jp">新しい冒険</string>
-        <string lang="ru">Новый Ран</string>
-        <string lang="es">Nueva partida</string>
-        <string lang="kr">새로운 모험</string>
-        <string lang="pt-br">Nova partida</string>
-    </set>
-    <set id="ui-battleground">
-        <string lang="de">Battleground</string>
-        <string lang="en">Battleground</string>
-        <string lang="fr">Battleground</string>
-        <string lang="zh">战场</string>
-        <string lang="jp">バトルグラウンド</string>
-        <string lang="ru">Боевая площадка</string>
-        <string lang="es">Campo de batalla</string>
-        <string lang="kr">전장</string>
-        <string lang="pt-br">Campo de batalha</string>
-    </set>
-        <set id="continue">
-        <string lang="de">Weiter</string>
-        <string lang="en">Continue</string>
-        <string lang="fr">Continuer</string>
-        <string lang="zh">继续</string>
-        <string lang="jp">続行</string>
-        <string lang="ru">Продолжить</string>
-        <string lang="es">Continuar</string>
-        <string lang="kr">계속</string>
-        <string lang="pt-br">Continuar</string>
-    </set>
-    <set id="ui-continue">
-        <string lang="de">Run Fortsetzen</string>
-        <string lang="en">Continue Run</string>
-        <string lang="fr">Continuer Partie</string>
-        <string lang="zh">继续游戏</string>
-        <string lang="jp">冒険を続ける</string>
-        <string lang="ru">Продолжить Ран</string>
-        <string lang="es">Continuar partida</string>
-        <string lang="kr">모험 계속하기</string>
-        <string lang="pt-br">Continuar partida</string>
-    </set>
-    <set id="continue-to-unlocks">
-        <string lang="de">Weiter zu Fortschritt</string>
-        <string lang="en">Continue to Unlocks</string>
-        <string lang="fr">Continuer vers Déblocages</string>
-        <string lang="zh">继续解锁</string>
-        <string lang="jp">アンロックに進む</string>
-        <string lang="ru">Продолжить к Разблокировкам</string>
-        <string lang="es">Continuar a Desbloqueos</string>
-        <string lang="kr">언락으로 계속하기</string>
-        <string lang="pt-br">Continuar para Desbloqueios</string>
-    </set>
-    <set id="ui-credits">
-        <string lang="de">Credits</string>
-        <string lang="en">Credits</string>
-        <string lang="fr">Crédits</string>
-        <string lang="zh">鸣谢</string>
-        <string lang="jp">クレジット</string>
-        <string lang="ru">Титры</string>
-        <string lang="es">Créditos</string>
-        <string lang="kr">제작진</string>
-        <string lang="pt-br">Créditos</string>
-    </set>
-    <set id="ui-tutorial">
-        <string lang="de">Tutorial</string>
-        <string lang="en">Tutorial</string>
-        <string lang="fr">Tutoriel</string>
-        <string lang="zh">教程</string>
-        <string lang="jp">チュートリアル</string>
-        <string lang="ru">Обучение</string>
-        <string lang="es">Tutorial</string>
-        <string lang="kr">튜토리얼</string>
-        <string lang="pt-br">Tutorial</string>
-    </set>
-    <set id="ui-settings">
-        <string lang="de">Einstellungen</string>
-        <string lang="en">Settings</string>
-        <string lang="fr">Paramètres</string>
-        <string lang="zh">设置</string>
-        <string lang="jp">設定</string>
-        <string lang="ru">Настройки</string>
-        <string lang="es">Ajustes</string>
-        <string lang="kr">설정</string>
-        <string lang="pt-br">Configurações</string>
-    </set>
-    <set id="ui-quit">
-        <string lang="de">Beenden</string>
-        <string lang="en">Quit</string>
-        <string lang="fr">Quitter</string>
-        <string lang="zh">退出</string>
-        <string lang="jp">終了</string>
-        <string lang="ru">Выход</string>
-        <string lang="es">Salir</string>
-        <string lang="kr">종료</string>
-        <string lang="pt-br">Sair</string>
-    </set>
-    <set id="ui-green">
-        <string lang="de">&lt;color=green&gt;Grün&lt;/color&gt;</string>
-        <string lang="en">&lt;color=green&gt;Green&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=green&gt;Vert&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=green&gt;绿色&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=green&gt;緑&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=green&gt;Зеленый&lt;/color&gt;</string>
-        <string lang="es">&lt;color=green&gt;Verde&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=green&gt;초록색&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=green&gt;Verde&lt;/color&gt;</string>
-    </set>
-    <set id="ui-red">
-        <string lang="de">&lt;color=#FF5555&gt;Rot&lt;/color&gt;</string>
-        <string lang="en">&lt;color=#FF5555&gt;Red&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#FF5555&gt;Rouge&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#FF5555&gt;红色&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#FF5555&gt;赤&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#FF5555&gt;Красный&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#FF5555&gt;Rojo&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#FF5555&gt;빨간색&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#FF5555&gt;Vermelho&lt;/color&gt;</string>
-    </set>
-    <set id="ui-blue">
-        <string lang="de">&lt;color=#7272FF&gt;Blau&lt;/color&gt;</string>
-        <string lang="en">&lt;color=#7272FF&gt;Blue&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#7272FF&gt;Bleu&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#7272FF&gt;蓝色&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#7272FF&gt;青&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#7272FF&gt;Синий&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#7272FF&gt;Azul&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#7272FF&gt;파란색&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#7272FF&gt;Azul&lt;/color&gt;</string>
-    </set>
-    <set id="ui-universal">
-        <string lang="de">&lt;color=#FFFFFF&gt;Universell&lt;/color&gt;</string>
-        <string lang="en">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#FFFFFF&gt;Universel&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#FFFFFF&gt;通用&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#FFFFFF&gt;全ての&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#FFFFFF&gt;Универсальный&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#FFFFFF&gt;유니버셜&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
-    </set>
-    <set id="ui-viral">
-        <string lang="de">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-        <string lang="en">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#FF00FF&gt;病毒&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#FF00FF&gt;ウイルス&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#FF00FF&gt;Вирусный&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#FF00FF&gt;바이러스&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-    </set>
-    <set id="ui-continue-from-camp">
-        <string lang="de">Abenteuer$br$Fortsetzen</string>
-        <string lang="en">Continue$br$Adventure</string>
-        <string lang="fr">Reprendre$br$la route</string>
-        <string lang="zh">继续冒险</string>
-        <string lang="jp">冒険を続ける</string>
-        <string lang="ru">Продолжить$br$приключение</string>
-        <string lang="es">Continuar$br$aventura</string>
-        <string lang="kr">모험 계속하기</string>
-        <string lang="pt-br">Continuar$br$aventura</string>
-    </set>
-    <set id="ui-backtoracks">
-        <string lang="de">Zurück zu$br$den Racks</string>
-        <string lang="en">Back to$br$player racks</string>
-        <string lang="fr">Retour aux$br$racks</string>
-        <string lang="zh">返回机架</string>
-        <string lang="jp">プレイヤーのラック$br$に戻る</string>
-        <string lang="ru">Назад к$br$стойкам</string>
-        <string lang="es">Volver a$br$estantes de jugadores</string>
-        <string lang="kr">플레이어 랙으로$br$돌아가기</string>
-        <string lang="pt-br">Voltar para$br$racks de jogadores</string>
-    </set>
-    <set id="ui-cancel">
-        <string lang="de">Abbrechen</string>
-        <string lang="en">Cancel</string>
-        <string lang="fr">Annuler</string>
-        <string lang="zh">取消</string>
-        <string lang="jp">キャンセル</string>
-        <string lang="ru">Отмена</string>
-        <string lang="es">Cancelar</string>
-        <string lang="kr">취소</string>
-        <string lang="pt-br">Cancelar</string>
-    </set>
-    <set id="ui-error">
-        <string lang="de">FEHLER</string>
-        <string lang="en">ERROR</string>
-        <string lang="fr">ERREUR</string>
-        <string lang="zh">错误</string>
-        <string lang="jp">エラー</string>
-        <string lang="ru">ОШИБКА</string>
-        <string lang="es">ERROR</string>
-        <string lang="kr">오류</string>
-        <string lang="pt-br">ERRO</string>
-    </set>
-    <set id="ui-startnewrun">
-        <string lang="de">Neuen Run$br$Beginnen</string>
-        <string lang="en">Play$br$Another Run</string>
-        <string lang="fr">Commencer$br$Nouvelle Partie</string>
-        <string lang="zh">开始新的游戏</string>
-        <string lang="jp">新しいゲームを開始する</string>
-        <string lang="ru">Начать$br$новую игру</string>
-        <string lang="es">Jugar otra$br$partida</string>
-        <string lang="kr">새로운 런 시작하기</string>
-        <string lang="pt-br">Jogar outra$br$partida</string>
-    </set>
-        <set id="back">
-        <string lang="de">Zurück</string>
-        <string lang="en">Back</string>
-        <string lang="fr">Retour</string>
-        <string lang="zh">返回</string>
-        <string lang="jp">戻る</string>
-        <string lang="ru">Назад</string>
-        <string lang="es">Volver</string>
-        <string lang="kr">뒤로</string>
-        <string lang="pt-br">Voltar</string>
-    </set>
-    <set id="ui-backtomenu">
-        <string lang="de">Zurück zum$br$Hauptmenü</string>
-        <string lang="en">Back to$br$Menu</string>
-        <string lang="fr">Retour au$br$Menu</string>
-        <string lang="zh">返回菜单</string>
-        <string lang="jp">メニューに戻る</string>
-        <string lang="ru">Назад в$br$меню</string>
-        <string lang="es">Volver al$br$menú</string>
-        <string lang="kr">메뉴로 돌아가기</string>
-        <string lang="pt-br">Voltar para$br$o menu</string>
-    </set>
-    <set id="ui-leave">
-        <string lang="de">Verlassen</string>
-        <string lang="en">Leave</string>
-        <string lang="fr">Quitter</string>
-        <string lang="zh">离开</string>
-        <string lang="jp">離れる</string>
-        <string lang="ru">Выйти</string>
-        <string lang="es">Salir</string>
-        <string lang="kr">나가기</string>
-        <string lang="pt-br">Sair</string>
-    </set>
-    <set id="ui-new">
-        <string lang="de">NEU</string>
-        <string lang="en">NEW</string>
-        <string lang="fr">NOUVEAU</string>
-        <string lang="zh">新</string>
-        <string lang="jp">新しい</string>
-        <string lang="ru">НОВЫЙ</string>
-        <string lang="es">NUEVO</string>
-        <string lang="kr">새로운</string>
-        <string lang="pt-br">NOVO</string>
-    </set>
-    <set id="ui-now">
-        <string lang="de">jetzt</string>
-        <string lang="en">now</string>
-        <string lang="fr">mainte$br$nant</string>
-        <string lang="zh">现在</string>
-        <string lang="jp">今</string>
-        <string lang="ru">сейчас</string>
-        <string lang="es">ahora</string>
-        <string lang="kr">지금</string>
-        <string lang="pt-br">agora</string>
-    </set>
-    <set id="ui-plasma">
-        <string lang="de">Plasma</string>
-        <string lang="en">Plasma</string>
-        <string lang="fr">Plasma</string>
-        <string lang="zh">等离子体</string>
-        <string lang="jp">プラズマ</string>
-        <string lang="ru">Плазма</string>
-        <string lang="es">Plasma</string>
-        <string lang="kr">플라스마</string>
-        <string lang="pt-br">Plasma</string>
-    </set>
-    <set id="ui-rack">
-        <string lang="de">Rack</string>
-        <string lang="en">Rack</string>
-        <string lang="fr">Rack</string>
-        <string lang="zh">机架</string>
-        <string lang="jp">ラック</string>
-        <string lang="ru">Стойка</string>
-        <string lang="es">Estante</string>
-        <string lang="kr">랙</string>
-        <string lang="pt-br">Rack</string>
-    </set>
-    <set id="ui-readytofire">
-        <string lang="de">Bereit zum Handeln</string>
-        <string lang="en">Ready for action</string>
-        <string lang="fr">Prêt pour l'action</string>
-        <string lang="zh">准备行动</string>
-        <string lang="jp">行動の準備ができている</string>
-        <string lang="ru">Готов к действию</string>
-        <string lang="es">Listo para la acción</string>
-        <string lang="kr">행동 준비 완료</string>
-        <string lang="pt-br">Pronto para a ação</string>
-    </set>
-    <set id="ui-skip">
-        <string lang="de">Überspringen</string>
-        <string lang="en">Skip</string>
-        <string lang="fr">Passer</string>
-        <string lang="zh">跳过</string>
-        <string lang="jp">スキップ</string>
-        <string lang="ru">Пропустить</string>
-        <string lang="es">Saltar</string>
-        <string lang="kr">건너뛰기</string>
-        <string lang="pt-br">Pular</string>
-    </set>
-	<set id="ui-reroll">        
-        <string lang="en">Reroll</string>
-    </set>
-    <set id="ui-screenselection-story">
-        <string lang="de">level</string>
-        <string lang="en">stage</string>
-        <string lang="fr">niveau</string>
-        <string lang="zh">关卡</string>
-        <string lang="jp">ステージ</string>
-        <string lang="ru">уровень</string>
-        <string lang="es">nivel</string>
-        <string lang="kr">스테이지</string>
-        <string lang="pt-br">estagio</string>
-    </set>
-    <set id="ui-screenselection-module">
-        <string lang="de">module</string>
-        <string lang="en">modules</string>
-        <string lang="fr">modules</string>
-        <string lang="zh">模块</string>
-        <string lang="jp">モジュール</string>
-        <string lang="ru">модуль</string>
-        <string lang="es">modulos</string>
-        <string lang="kr">모듈</string>
-        <string lang="pt-br">modulos</string>
-    </set>
-    <set id="ui-loot">
-        <string lang="de">Loot</string>
-        <string lang="en">Loot</string>
-        <string lang="fr">Butin</string>
-        <string lang="zh">战利品</string>
-        <string lang="jp">分捕り品</string>
-        <string lang="ru">Добыча</string>
-        <string lang="es">Botín</string>
-        <string lang="kr">전리품</string>
-        <string lang="pt-br">Saque</string>
-    </set>
-    <set id="ui-loot-skip">
-        <string lang="de">Über-$br$springen$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="en">Skip$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="fr">Passer$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="zh">跳过$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="jp">スキップ$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="ru">Пропустить$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="es">Saltar$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="kr">건너뛰기$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-        <string lang="pt-br">Pular$br$(+$SKIPBONUS$ $plasmaicon$)</string>
-    </set>
-    <set id="ui-loot-reroll">
-        <string lang="de">Neu$br$Auswürfeln$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="en">Reroll$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="fr">Relancer$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="zh">重新生成$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="jp">再ロール$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="ru">Перебросить$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="es">Volver a tirar$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="kr">다시 굴리기$br$(-$REROLLCOST$ $plasmaicon$)</string>
-        <string lang="pt-br">Rolar novamente$br$(-$REROLLCOST$ $plasmaicon$)</string>
-    </set>
-    <set id="ui-loot-continue">
-        <string lang="de">Weiter</string>
-        <string lang="en">Continue</string>
-        <string lang="fr">Continuer</string>
-        <string lang="zh">继续</string>
-        <string lang="jp">続行</string>
-        <string lang="ru">Продолжить</string>
-        <string lang="es">Continuar</string>
-        <string lang="kr">계속</string>
-        <string lang="pt-br">Continuar</string>
-    </set>
-    <set id="ui-loot-continue-timed">
-        <string lang="de">Weiter ($TIMER$)</string>
-        <string lang="en">Continue ($TIMER$)</string>
-        <string lang="fr">Continuer ($TIMER$)</string>
-        <string lang="zh">继续 ($TIMER$)</string>
-        <string lang="jp">続行 ($TIMER$)</string>
-        <string lang="ru">Продолжить ($TIMER$)</string>
-        <string lang="es">Continuar ($TIMER$)</string>
-        <string lang="kr">계속 ($TIMER$)</string>
-        <string lang="pt-br">Continuar ($TIMER$)</string>
-    </set>
-    <set id="ui-skill">
-        <string lang="de">Fähigkeit</string>
-        <string lang="en">Skill</string>
-        <string lang="fr">Compétence</string>
-        <string lang="zh">技能</string>
-        <string lang="jp">スキル</string>
-        <string lang="ru">Навык</string>
-        <string lang="es">Habilidad</string>
-        <string lang="kr">스킬</string>
-        <string lang="pt-br">Habilidade</string>
-    </set>
-    <set id="ui-timeline">
-        <string lang="de">Zeitleiste</string>
-        <string lang="en">Timeline</string>
-        <string lang="fr">Axe de Temps</string>
-        <string lang="zh">时间轴</string>
-        <string lang="jp">タイムライン</string>
-        <string lang="ru">Шкала времени</string>
-        <string lang="es">Línea de tiempo</string>
-        <string lang="kr">타임라인</string>
-        <string lang="pt-br">Linha do tempo</string>
-    </set>
-    <set id="ui-timeline-order-0">
-        <string lang="de">0.</string>
-        <string lang="en">0&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">0&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第零</string>
-        <string lang="jp">0番目</string>
-        <string lang="ru">0-й</string>
-        <string lang="es">0º</string>
-        <string lang="kr">0번째</string>
-        <string lang="pt-br">0º</string>
-    </set>
-    <set id="ui-timeline-order-1">
-        <string lang="de">1.</string>
-        <string lang="en">1&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;st&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">1&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;er&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第一</string>
-        <string lang="jp">1位</string>
-        <string lang="ru">1-й</string>
-        <string lang="es">1º</string>
-        <string lang="kr">1번째</string>
-        <string lang="pt-br">1º</string>
-    </set>
-    <set id="ui-timeline-order-2">
-        <string lang="de">2.</string>
-        <string lang="en">2&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;nd&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">2&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第二</string>
-        <string lang="jp">2位</string>
-        <string lang="ru">2-й</string>
-        <string lang="es">2º</string>
-        <string lang="kr">2번째</string>
-        <string lang="pt-br">2º</string>
-    </set>
-    <set id="ui-timeline-order-3">
-        <string lang="de">3.</string>
-        <string lang="en">3&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;rd&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">3&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第三</string>
-        <string lang="jp">3位</string>
-        <string lang="ru">3-й</string>
-        <string lang="es">3º</string>
-        <string lang="kr">3번째</string>
-        <string lang="pt-br">3º</string>
-    </set>
-    <set id="ui-timeline-order-4">
-        <string lang="de">4.</string>
-        <string lang="en">4&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">4&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第四</string>
-        <string lang="jp">4位</string>
-        <string lang="ru">4-й</string>
-        <string lang="es">4º</string>
-        <string lang="kr">4번째</string>
-        <string lang="pt-br">4º</string>
-    </set>
-    <set id="ui-timeline-order-5">
-        <string lang="de">5.</string>
-        <string lang="en">5&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">5&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第五</string>
-        <string lang="jp">5位</string>
-        <string lang="ru">5-й</string>
-        <string lang="es">5º</string>
-        <string lang="kr">5번째</string>
-        <string lang="pt-br">5º</string>
-    </set>
-    <set id="ui-timeline-order-6">
-        <string lang="de">6.</string>
-        <string lang="en">6&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">6&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第六</string>
-        <string lang="jp">6位</string>
-        <string lang="ru">6-й</string>
-        <string lang="es">6º</string>
-        <string lang="kr">6번째</string>
-        <string lang="pt-br">6º</string>
-    </set>
-    <set id="ui-timeline-order-7">
-        <string lang="de">7.</string>
-        <string lang="en">7&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">7&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第七</string>
-        <string lang="jp">7位</string>
-        <string lang="ru">7-й</string>
-        <string lang="es">7º</string>
-        <string lang="kr">7번째</string>
-        <string lang="pt-br">7º</string>
-    </set>
-    <set id="ui-timeline-order-8">
-        <string lang="de">8.</string>
-        <string lang="en">8&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">8&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第八</string>
-        <string lang="jp">8位</string>
-        <string lang="ru">8-й</string>
-        <string lang="es">8º</string>
-        <string lang="kr">8번째</string>
-        <string lang="pt-br">8º</string>
-    </set>
-    <set id="ui-timeline-order-9">
-        <string lang="de">9.</string>
-        <string lang="en">9&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="fr">9&lt;voffset&#61;0.5em&gt;&lt;size&#61;5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
-        <string lang="zh">第九</string>
-        <string lang="jp">9位</string>
-        <string lang="ru">9-й</string>
-        <string lang="es">9º</string>
-        <string lang="kr">9번째</string>
-        <string lang="pt-br">9º</string>
-    </set>
-    <set id="ui-unconscious">
-        <string lang="de">Bewusstlos</string>
-        <string lang="en">Unconscious</string>
-        <string lang="fr">Inconscient</string>
-        <string lang="zh">昏迷</string>
-        <string lang="jp">意識不明</string>
-        <string lang="ru">Без сознания</string>
-        <string lang="es">Inconsciente</string>
-        <string lang="kr">의식불명</string>
-        <string lang="pt-br">Inconsciente</string>
-    </set>
-    <set id="ui-heal1">
-        <string lang="de">Heilung 1</string>
-        <string lang="en">Heal 1</string>
-        <string lang="fr">Soin 1</string>
-        <string lang="zh">治疗1</string>
-        <string lang="jp">回復1</string>
-        <string lang="ru">Лечение 1</string>
-        <string lang="es">Curar 1</string>
-        <string lang="kr">치유1</string>
-        <string lang="pt-br">Curar 1</string>
-    </set>
-    <set id="ui-revive">
-        <string lang="de">Wiederbeleben</string>
-        <string lang="en">Resuscitate</string>
-        <string lang="fr">Résurrection</string>
-        <string lang="zh">复苏</string>
-        <string lang="jp">蘇生</string>
-        <string lang="ru">Воскрешение</string>
-        <string lang="es">Resucitar</string>
-        <string lang="kr">부활</string>
-        <string lang="pt-br">Ressuscitar</string>
-    </set>
-    <set id="ui-automaticlocalization" remarks="only shown with the localizations that have been generated automatically">
-        <string lang="de">Diese Lokalisierung wurde automatisch erzeugt.$br$Wenn du dazu beitragen möchtest, komm auf unseren Discord-Server.</string>
-        <string lang="en">This localization has been generated automatically.$br$If you want to contribute, join our Discord server:</string>
-        <string lang="fr">Cette localisation a été générée semi-automatiquement.$br$Si vous souhaitez contribuer, rejoignez notre serveur Discord.</string>
-        <string lang="zh">本地化为自动生成。$br$如果你想要贡献, 请加入我们的Discord服务器。</string>
-        <string lang="jp">このローカライズは自動生成されました。$br$貢献したい場合は、Discordサーバーに参加してください。</string>
-        <string lang="ru">Эта локализация была автоматически сгенерирована.$br$Если вы хотите внести свой вклад, присоединяйтесь к нашему серверу Discord.</string>
-        <string lang="es">Esta localización ha sido generada automáticamente.$br$Si quieres contribuir, únete a nuestro servidor de Discord.</string>
-        <string lang="kr">이 지역화는 자동으로 생성되었습니다.$br$기여하려면 Discord 서버에 참여하십시오.</string>
-        <string lang="pt-br">Esta localização foi gerada automaticamente.$br$Se você quiser contribuir, junte-se ao nosso servidor do Discord.</string>
-    </set>
-    <set id="ui-credits-gameby">
-        <string lang="de">Ein Spiel von</string>
-        <string lang="en">A game by</string>
-        <string lang="fr">Un jeu de</string>
-        <string lang="zh">游戏作者</string>
-        <string lang="jp">ゲーム作者</string>
-        <string lang="ru">Игра от</string>
-        <string lang="es">Un juego de</string>
-        <string lang="kr">게임 제작</string>
-        <string lang="pt-br">Um jogo de</string>
-    </set>
-    <set id="ui-settings-music">
-        <string lang="de">Musik</string>
-        <string lang="en">Music</string>
-        <string lang="fr">Musique</string>
-        <string lang="zh">音乐</string>
-        <string lang="jp">音楽</string>
-        <string lang="ru">Музыка</string>
-        <string lang="es">Música</string>
-        <string lang="kr">음악</string>
-        <string lang="pt-br">Música</string>
-    </set>
-    <set id="ui-settings-effects">
-        <string lang="de">SFX</string>
-        <string lang="en">SFX</string>
-        <string lang="fr">SFX</string>
-        <string lang="zh">音效</string>
-        <string lang="jp">SFX</string>
-        <string lang="ru">SFX</string>
-        <string lang="es">SFX</string>
-        <string lang="kr">SFX</string>
-        <string lang="pt-br">SFX</string>
-    </set>
-    <set id="ui-settings-ambience">
-        <string lang="de">Umgebung</string>
-        <string lang="en">Ambience</string>
-        <string lang="fr">Ambiance</string>
-        <string lang="zh">环境音</string>
-        <string lang="jp">環境音</string>
-        <string lang="ru">Окружение</string>
-        <string lang="es">Ambiente</string>
-        <string lang="kr">환경음</string>
-        <string lang="pt-br">Ambiente</string>
-    </set>
-    <set id="ui-settings-fullscreen">
-        <string lang="de">Vollbild</string>
-        <string lang="en">Full Screen</string>
-        <string lang="fr">Plein écran</string>
-        <string lang="zh">全屏</string>
-        <string lang="jp">フルスクリーン</string>
-        <string lang="ru">Полный экран</string>
-        <string lang="es">Pantalla completa</string>
-        <string lang="kr">전체 화면</string>
-        <string lang="pt-br">Tela cheia</string>
-    </set>
-	<set id="ui-settings-colorblindmode">
-        <string lang="de">Farbenblinder Modus</string>
-        <string lang="en">Color Blind Mode</string>
-        <string lang="fr">Mode daltonien</string>
-        <string lang="zh">色盲模式</string>
-        <string lang="jp">色覚異常モード</string>
-        <string lang="ru">Режим для цветовых слепых</string>
-        <string lang="es">Modo daltonismo</string>
-        <string lang="kr">색맹 모드</string>
-        <string lang="pt-br">Modo daltonismo</string>
-    </set>
-    <set id="ui-settings-autotooltip">
-        <string lang="de">Tooltips automatisch anzeigen, wenn mit Controller gespielt wird</string>
-        <string lang="en">Automatically show tooltips when playing with controller</string>
-        <string lang="fr">Afficher automatiquement les info-bulles lors de la lecture avec le contrôleur</string>
-        <string lang="zh">使用控制器播放时自动显示工具提示</string>
-        <string lang="jp">コントローラーでプレイするときにツールチップを自動的に表示する</string>
-        <string lang="ru">Автоматически показывать подсказки при игре с контроллером</string>
-        <string lang="es">Mostrar automáticamente información sobre herramientas al jugar con el controlador</string>
-        <string lang="kr">컨트롤러로 재생할 때 자동으로 툴팁 표시</string>
-        <string lang="pt-br">Mostrar automaticamente dicas de ferramentas ao jogar com o controlador</string>
-    </set>
-    <set id="ui-settings-gamespeed">
-        <string lang="de">Geschwindigkeit</string>
-        <string lang="en">Game Speed</string>
-        <string lang="fr">Vitesse du jeu</string>
-        <string lang="zh">游戏速度</string>
-        <string lang="jp">ゲーム速度</string>
-        <string lang="ru">Скорость игры</string>
-        <string lang="es">Velocidad del juego</string>
-        <string lang="kr">게임 속도</string>
-        <string lang="pt-br">Velocidade do jogo</string>
-    </set>
-	<set id="ui-settings-twitch">
-        <string lang="de">Twitch-Integration Aktivieren</string>
-        <string lang="en">Enable Twitch Integration</string>
-        <string lang="fr">Activer l'intégration Twitch</string>
-        <string lang="zh">启用Twitch集成</string>
-        <string lang="jp">Twitch統合を有効にする</string>
-        <string lang="ru">Включить интеграцию Twitch</string>
-        <string lang="es">Habilitar integración de Twitch</string>
-        <string lang="kr">Twitch 통합 활성화</string>
-        <string lang="pt-br">Ativar integração do Twitch</string>
-    </set>
-	<set id="ui-settings-twitch-channel">
-        <string lang="de">Channel-Name</string>
-        <string lang="en">Channel Name</string>      
-        <string lang="fr">Nom de la chaîne</string>
-        <string lang="zh">频道名称</string>
-        <string lang="jp">チャンネル名</string>
-        <string lang="ru">Имя канала</string>
-        <string lang="es">Nombre del canal</string>
-        <string lang="kr">채널 이름</string>
-        <string lang="pt-br">Nome do canal</string>
-    </set>
-    <set id="ui-settings-twitch-channel-prompt">
-        <string lang="de">Channel-Name eingeben</string>
-        <string lang="en">Enter Channel Name ...</string>
-        <string lang="fr">Entrez nom de la chaîne ...</string>
-        <string lang="zh">输入频道名称...</string>
-        <string lang="jp">チャンネル名を入力してください</string>
-        <string lang="ru">Введите имя канала ...</string>
-        <string lang="es">Ingrese el nombre del canal ...</string>
-        <string lang="kr">채널 이름을 입력하십시오 ...</string>
-        <string lang="pt-br">Digite o nome do canal ...</string>
-    </set>
-	<set id="ui-settings-twitch-token">
-        <string lang="de">Channel-Token</string>
-        <string lang="en">Channel Token</string>    
-        <string lang="fr">Token de chaîne</string>  
-        <string lang="zh">频道令牌</string>
-        <string lang="jp">チャンネルトークン</string>
-        <string lang="ru">Токен канала</string>
-        <string lang="es">Token de canal</string>
-        <string lang="kr">채널 토큰</string>
-        <string lang="pt-br">Token do canal</string>
-    </set>
-    <set id="ui-settings-twitch-token-prompt">
-        <string lang="de">OAuth-Token eingeben</string>
-        <string lang="en">Enter OAuth Token...</string>      
-        <string lang="fr">Entrez le jeton OAuth ...</string>
-        <string lang="zh">输入OAuth令牌...</string>
-        <string lang="jp">OAuthトークンを入力してください</string>
-        <string lang="ru">Введите токен OAuth ...</string>
-        <string lang="es">Ingrese el token OAuth ...</string>
-        <string lang="kr">OAuth 토큰을 입력하십시오 ...</string>
-        <string lang="pt-br">Digite o token OAuth ...</string>
-    </set>
-    <set id="ui-settings-autofiremodules">
-        <string lang="de">Automatisches Feuern auf ein Einzelziel</string>
-        <string lang="en">Automatic firing on single target</string>
-        <string lang="fr">Sélection automatique de seule cible</string>
-        <string lang="zh">自动选择唯一目标</string>
-        <string lang="jp">モジュールの自動ターゲット選択</string>
-        <string lang="ru">Автоматическая стрельба по одной цели</string>
-        <string lang="es">Disparo automático a un solo objetivo</string>
-        <string lang="kr">단일 대상에 대한 자동 발사</string>
-        <string lang="pt-br">Disparo automático em alvo único</string>
-    </set>
-    <set id="ui-settings-bigbrainmode">
-        <string lang="de">Big Brain Mode</string>
-        <string lang="en">Big Brain Mode</string>
-        <string lang="fr">Mode Big Brain</string>
-        <string lang="zh">大脑模式</string>
-        <string lang="jp">ビッグブレインモード</string>
-        <string lang="ru">Режим Большого Мозга</string>
-        <string lang="es">Modo Big Brain</string>
-        <string lang="kr">빅 브레인 모드</string>
-        <string lang="pt-br">Modo Big Brain</string>
-    </set>
-    <set id="ui-settings-bigbrainmode-description">
-        <string lang="de">Sensormodule verlieren Energie nicht am Ende des Kampfes sondern am Ende$br$des Zuges.</string>
-        <string lang="en">Sensor modules lose energy not at the end of combat but at the end of the$br$turn.</string>
-        <string lang="fr">Les modules de capteurs ne perdent pas d'énergie à la fin du combat mais à$br$la fin du tour.</string>
-        <string lang="zh">传感器模块不会在战斗结束时失去能量，而是在回合结束时失去能量。</string>
-        <string lang="jp">センサーモジュールは戦闘の終わりではなくターンの終わりにエネルギーを失います。</string>
-        <string lang="ru">Сенсорные модули теряют энергию не в конце боя, а в конце хода.</string>
-        <string lang="es">Los módulos de sensor pierden energía no al final de la pelea sino al$br$final del turno.</string>
-        <string lang="kr">센서 모듈은 전투가 끝나는 것이 아니라 턴이 끝날 때 에너지를 잃습니다.</string>
-        <string lang="pt-br">Os módulos de sensor perdem energia não no final da luta, mas no final$br$do turno.</string>
-    </set>
-    <set id="ui-settings-datacollection">
-        <string lang="de">Statistiken Bereitstellen</string>
-        <string lang="en">Provide Statistics</string>
-        <string lang="fr">Fournir Statistiques</string>
-        <string lang="zh">提供统计数据</string>
-        <string lang="jp">統計データを提供</string>
-        <string lang="ru">Предоставить статистику</string>
-        <string lang="es">Proporcionar estadísticas</string>
-        <string lang="kr">통계 제공</string>
-        <string lang="pt-br">Fornecer estatísticas</string>
-    </set>
-    <set id="ui-settings-datacollection-description">
-        <string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs$br$bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit$br$zu informieren.</string>
-        <string lang="en">Support development by transmitting anonymous run statistics. This data$br$will only be used to inform questions of game balancing and difficulty.</string>
-        <string lang="fr">Envoi de statistiques anonymes de la partie pour aider au développement.$br$Cettes données seront uniquement utilisées pour aider à l'équilibrage et la difficulté$br$du jeu.</string>
-        <string lang="zh">通过发送匿名的游戏数据来支持开发。你的数据只会用于平衡和难度的调整。</string>
-        <string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
-        <string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти$br$данные будут использоваться только для информирования вопросов балансировки игры и$br$сложности.</string>
-        <string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida.$br$Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad$br$del juego.</string>
-        <string lang="kr">익명의 게임 통계를 전송하여 개발을 지원하십시오. 이 데이터는 게임 균형과 난이도에 대한 질문에 대한 정보를 제공하는 데만$br$사용됩니다.</string>
-        <string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run.$br$Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do$br$jogo.</string>
-    </set>
-    <set id="ui-settings-cleardata">
-        <string lang="de">Alle Daten löschen</string>
-        <string lang="en">Clear all data</string>
-        <string lang="fr">Effacer toutes les données</string>
-        <string lang="zh">清除所有数据</string>
-        <string lang="jp">すべてのデータを削除</string>
-        <string lang="ru">Очистить все данные</string>
-        <string lang="es">Borrar todos los datos</string>
-        <string lang="kr">모든 데이터 지우기</string>
-        <string lang="pt-br">Limpar todos os dados</string>
-    </set>
-    <set id="ui-settings-cleardata-description">
-        <string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig. Achtung: Die Daten können nicht wiederhergestellt werden.</string>
-        <string lang="en">Permanently removes savegame, progression and preferences. Careful: Data cannot be retrieved.</string>
-        <string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences. Attention: les données ne peuvent pas être récupérées.</string>
-        <string lang="zh">永久清除存档、进度和设置。警告：删除后无法恢复。</string>
-        <string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。注意：データは復元できません。</string>
-        <string lang="ru">Окончательно удаляет сохранение, прогресс и предпочтения. Осторожно: данные не могут быть восстановлены.</string>
-        <string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias. Cuidado: los datos no se pueden recuperar.</string>
-        <string lang="kr">저장된 게임, 진행 상황 및 기본 설정을 영구적으로 제거합니다. 주의: 데이터를 검색할 수 없습니다.</string>
-        <string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências. Cuidado: os dados não podem ser recuperados.</string>
-    </set>
-    <set id="ui-settings-saveandexit">
-        <string lang="de">Speichern &amp; Run Beenden</string>
-        <string lang="en">Save &amp; Exit Run </string>
-        <string lang="fr">Sauvegarder &amp; Quitter le Run</string>
-        <string lang="zh">保存并退出</string>
-        <string lang="jp">保存してRunを終了</string>
-        <string lang="ru">Сохранить и выйти из прохождения</string>
-        <string lang="es">Guardar y salir de la partida</string>
-        <string lang="kr">저장하고 Run 종료</string>
-        <string lang="pt-br">Salvar e sair do run</string>
-    </set>
-    <set id="ui-settings-abandonrun">
-        <string lang="de">Run$br$Abbrechen</string>
-        <string lang="en">Abandon$br$Run</string>
-        <string lang="fr">Abandonner$br$le Run</string>
-        <string lang="zh">放弃本局</string>
-        <string lang="jp">Runを中止</string>
-        <string lang="ru">Покинуть прохождение</string>
-        <string lang="es">Abandonar la partida</string>
-        <string lang="kr">Run 포기</string>
-        <string lang="pt-br">Abandonar o run</string>
-    </set>
-    <set id="ui-loot-hint-single">
-        <string lang="de">Wähle das Loot-Modul aus, um es in dein Rack zu nehmen</string>
-        <string lang="en">Select the loot module to take it into your rack</string>
-        <string lang="fr">Sélectionnez le module de butin pour le prendre dans votre rack</string>
-        <string lang="zh">选择战利品模块并将其放入你的架子</string>
-        <string lang="jp">戦利品モジュールを選択してラックに入れます</string>
-        <string lang="ru">Выберите модуль добычи, чтобы взять его в свой стеллаж</string>
-        <string lang="es">Selecciona el módulo de botín para llevarlo a tu rack</string>
-        <string lang="kr">전리품 모듈을 선택하여 랙에 넣으십시오</string>
-        <string lang="pt-br">Selecione o módulo de loot para colocá-lo em seu rack</string>
-    </set>
-    <set id="ui-loot-hint-multiple">
-        <string lang="de">Wähle ein Modul als Belohnung</string>
-        <string lang="en">Choose one module as your reward</string>
-        <string lang="fr">Choisissez un module comme récompense</string>
-        <string lang="zh">选择一个模块作为你的奖励</string>
-        <string lang="jp">報酬として1つのモジュールを選択します</string>
-        <string lang="ru">Выберите один модуль в качестве награды</string>
-        <string lang="es">Elige un módulo como tu recompensa</string>
-        <string lang="kr">보상으로 하나의 모듈을 선택하십시오</string>
-        <string lang="pt-br">Escolha um módulo como sua recompensa</string>
-    </set>
-    <set id="ui-loot-selection-finished">
-        <string lang="de">Belohnung aufgesammelt</string>
-        <string lang="en">Reward collected</string>
-        <string lang="fr">Récompense collectée</string>
-        <string lang="zh">奖励已获得</string>
-        <string lang="jp">報酬を収集しました</string>
-        <string lang="ru">Добыча собрана</string>
-        <string lang="es">Recompensa recogida</string>
-        <string lang="kr">보상 획득</string>
-        <string lang="pt-br">Recompensa coletada</string>
-    </set>
-    <set id="ui-unlocked-modules">
-        <string lang="de">Freigeschaltete Module:</string>
-        <string lang="en">Unlocked Modules:</string>
-        <string lang="fr">Modules Débloqués:</string>
-        <string lang="zh">解锁的模块：</string>
-        <string lang="jp">解除されたモジュール:</string>
-        <string lang="ru">Разблокированные модули:</string>
-        <string lang="es">Módulos Desbloqueados:</string>
-        <string lang="kr">잠금 해제 된 모듈:</string>
-        <string lang="pt-br">Módulos Desbloqueados:</string>
-    </set>
-    <set id="ui-unlock-character">
-        <string lang="de">Charakter Freischalten:</string>
-        <string lang="en">Character Unlock:</string>
-        <string lang="fr">Débloquer Personnage:</string>
-        <string lang="zh">解锁角色：</string>
-        <string lang="jp">キャラクターの解除:</string>
-        <string lang="ru">Разблокировать персонажа:</string>
-        <string lang="es">Desbloquear Personaje:</string>
-        <string lang="kr">캐릭터 잠금 해제:</string>
-        <string lang="pt-br">Desbloquear Personagem:</string>
-    </set>
-    <set id="ui-unlockprogression">
-        <string lang="de">Fortschritt</string>
-        <string lang="en">Unlock Progression</string>
-        <string lang="fr">Progression</string>
-        <string lang="zh">解锁进度</string>
-        <string lang="jp">進捗状況</string>
-        <string lang="ru">Прогресс</string>
-        <string lang="es">Progresión</string>
-        <string lang="kr">진행 상황</string>
-        <string lang="pt-br">Progressão</string>
-    </set>
-    <set id="ui-unlockednewmodules">
-        <string lang="de">FREIGESCHALTETE MODULE</string>
-        <string lang="en">UNLOCKED NEW MODULES</string>
-        <string lang="fr">MODULES DÉBLOQUÉS</string>
-        <string lang="zh">解锁新模块</string>
-        <string lang="jp">新しいモジュールを解除しました</string>
-        <string lang="ru">РАЗБЛОКИРОВАННЫЕ МОДУЛИ</string>
-        <string lang="es">MÓDULOS DESBLOQUEADOS</string>
-        <string lang="kr">새로운 모듈 잠금 해제</string>
-        <string lang="pt-br">MÓDULOS DESBLOQUEADOS</string>
-    </set>
-    <set id="selectionscreen-calltoaction">
-        <string lang="de">Wer bricht auf?</string>
-        <string lang="en">Who is heading out?</string>
-        <string lang="fr">Qui va partir?</string>
-        <string lang="zh">派谁出发？</string>
-        <string lang="jp">誰が出発しますか？</string>
-        <string lang="ru">Кто отправится?</string>
-        <string lang="es">¿Quién va a salir?</string>
-        <string lang="kr">누가 나갈까요?</string>
-        <string lang="pt-br">Quem vai sair?</string>
-    </set>
-    <set id="selectionscreen-subtitle">
-        <string lang="de">Wähle ein Team aus$br$zwei Charakteren</string>
-        <string lang="en">Select a squad of$br$two characters</string>
-        <string lang="fr">Choisissez une équipe de$br$deux héros</string>
-        <string lang="zh">组建一个双人小队</string>
-        <string lang="jp">2人のキャラクターでチームを選択</string>
-        <string lang="ru">Выберите команду из$br$двух персонажей</string>
-        <string lang="es">Selecciona un equipo de$br$dos personajes</string>
-        <string lang="kr">두 캐릭터로 팀 선택</string>
-        <string lang="pt-br">Selecione um esquadrão de$br$dois personagens</string>
-    </set>
-    <set id="starttheadventure">
-        <string lang="de">Beginnt euer$br$Abenteuer!</string>
-        <string lang="en">Start the$br$Adventure!</string>
-        <string lang="fr">Démarrez$br$votre aventure!</string>
-        <string lang="zh">开始冒险！</string>
-        <string lang="jp">冒険を開始！</string>
-        <string lang="ru">Начать$br$приключение!</string>
-        <string lang="es">¡Empieza la$br$aventura!</string>
-        <string lang="kr">모험 시작!</string>
-        <string lang="pt-br">Comece a$br$aventura!</string>
-    </set>
-    <set id="selectionscreen-characters">
-        <string lang="de">CHARAKTERE</string>
-        <string lang="en">CHARACTERS</string>
-        <string lang="fr">HÉROS</string>
-        <string lang="zh">角色</string>
-        <string lang="jp">キャラクター</string>
-        <string lang="ru">ГЕРОИ</string>
-        <string lang="es">PERSONAJES</string>
-        <string lang="kr">캐릭터</string>
-        <string lang="pt-br">PERSONAGENS</string>
-    </set>
-    <set id="selectionscreen-salvagedmodule">
-        <string lang="de">GEBORGENES MODUL</string>
-        <string lang="en">SALVAGED MODULE</string>
-        <string lang="fr">MODULE SAUVÉ</string>
-        <string lang="zh">保留的模块</string>
-        <string lang="jp">回収されたモジュール</string>
-        <string lang="ru">МОДУЛЬ</string>
-        <string lang="es">MÓDULO RECUPERADO</string>
-        <string lang="kr">회수된 모듈</string>
-        <string lang="pt-br">MÓDULO RECUPERADO</string>
-    </set>
-    <set id="difficultyscreen-title">
-        <string lang="de">Wähle eine Schwierigkeit</string>
-        <string lang="en">Select a difficulty</string>
-        <string lang="fr">Choisissez une difficulté</string>
-        <string lang="zh">选择难度</string>
-        <string lang="jp">難易度を選択</string>
-        <string lang="ru">Выберите сложность</string>
-        <string lang="es">Selecciona una dificultad</string>
-        <string lang="kr">난이도 선택</string>
-        <string lang="pt-br">Selecione uma dificuldade</string>
-    </set>
-    <set id="unlockscreen-title">
-        <string lang="de">Fortschritt</string>
-        <string lang="en">Unlock Progression</string>
-        <string lang="fr">Progression</string>
-        <string lang="zh">解锁进度</string>
-        <string lang="jp">進捗状況</string>
-        <string lang="ru">Прогресс</string>
-        <string lang="es">Progresión</string>
-        <string lang="kr">진행 상황</string>
-        <string lang="pt-br">Progressão</string>
-    </set>
-        <set id="unlockscreen-newlyunlockedmodules">
-        <string lang="de">Neu freigeschaltete Module</string>
-        <string lang="en">Newly unlocked modules</string>
-        <string lang="fr">Modules nouvellement débloqués</string>
-        <string lang="zh">新解锁的模块</string>
-        <string lang="jp">新しく解除されたモジュール</string>
-        <string lang="ru">Новые разблокированные модули</string>
-        <string lang="es">Módulos recién desbloqueados</string>
-        <string lang="kr">새로 잠금 해제 된 모듈</string>
-        <string lang="pt-br">Módulos recém-desbloqueados</string>
-    </set>
-    <set id="quitscreen-header">
-        <string lang="de">Danke fürs Spielen</string>
-        <string lang="en">Thank you for playing</string>
-        <string lang="fr">Merci d'avoir joué</string>
-        <string lang="zh">感谢你的游玩</string>
-        <string lang="jp">遊んでくれてありがとう</string>
-        <string lang="ru">Спасибо за игру</string>
-        <string lang="es">Gracias por jugar</string>
-        <string lang="kr">플레이해 주셔서 감사합니다</string>
-        <string lang="pt-br">Obrigado por jogar</string>
-    </set>
-    <set id="quitscreen-description">
-        <string lang="de">Wenn dir die Demo gefallen hat, trete gerne dem $b$Discord$/b$ bei oder setze Rogue Voltage auf deine $b$Wunschliste$/b$, um auf unserem Weg zum Early Access auf dem Laufenden zu bleiben.</string>
-        <string lang="en">If you enjoyed the demo, please consider $b$joining Discord$/b$ or $b$wishlisting Rogue Voltage$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
-        <string lang="fr">Si vous avez apprécié la démo, n'hésitez pas à $b$rejoindre Discord$/b$ ou à $b$ajouter Rogue Voltage à votre liste de souhaits$/b$ pour rester informé de l'avancement du développement sur notre chemin vers Early Access.</string>
-        <string lang="zh">如果你喜欢这个游戏，请考虑加入$b$Discord$/b$或将Rogue Voltage加入Steam$b$愿望单$/b$，以便及时了解我们的开发进度。</string>
-        <string lang="jp">このデモをお楽しみいただけましたら、$b$Discordに参加$/b$するか、$b$Rogue Voltageをウィッシュリストに登録$/b$して、アーリーアクセスへの道のりでの開発の進捗状況についてお知らせください。</string>
-        <string lang="ru">Если вам понравилась демо-версия, пожалуйста, подумайте о $b$присоединении к Discord$/b$ или $b$добавлении Rogue Voltage в список желаемого$/b$, чтобы быть в курсе развития проекта на пути к раннему доступу.</string>
-        <string lang="es">Si te ha gustado la demo, por favor considera $b$unirte a Discord$/b$ o $b$añadir Rogue Voltage a tu lista de deseos$/b$ para mantenerte informado sobre el progreso del desarrollo en nuestro camino hacia el Early Access.</string>
-        <string lang="kr">데모를 즐겼다면, $b$Discord에 가입$/b$하거나 $b$Rogue Voltage를 위시리스트에 추가$/b$하여 얼리 액세스로의 진행 상황을 알려주세요.</string>
-        <string lang="pt-br">Se você gostou da demo, considere $b$entrar no Discord$/b$ ou $b$adicionar Rogue Voltage à sua lista de desejos$/b$ para se manter informado sobre o progresso do desenvolvimento em nosso caminho para o Early Access.</string>
-    </set>
-    <set id="quitscreen-developer">
-        <string lang="de">$b$Luca$/b$$br$Entwickler</string>
-        <string lang="en">$b$Luca$/b$$br$Developer</string>
-        <string lang="fr">$b$Luca$/b$$br$Développeur</string>
-        <string lang="zh">$b$卢卡$/b$$br$程序员</string>
-        <string lang="jp">$b$ルカ$/b$$br$開発者</string>
-        <string lang="ru">$b$Luca$/b$$br$Разработчик</string>
-        <string lang="es">$b$Luca$/b$$br$Desarrollador</string>
-        <string lang="kr">$b$Luca$/b$$br$개발자</string>
-        <string lang="pt-br">$b$Luca$/b$$br$Desenvolvedor</string>
-    </set>
-    <set id="quitscreen-quittowishlist">
-        <string lang="de">BEENDEN UND ZUR WUNSCHLISTE</string>
-        <string lang="en">QUIT TO STEAM WISHLIST</string>
-        <string lang="fr">QUITTER VERS LA LISTE DE SOUHAITS</string>
-        <string lang="zh">退出并加入愿望单</string>
-        <string lang="jp">終了してウィッシュリストに移動</string>
-        <string lang="ru">ВЫХОД В СПИСОК ПОЖЕЛАНИЙ</string>
-        <string lang="es">SALIR A LA LISTA DE DESEOS</string>
-        <string lang="kr">위시리스트로 나가기</string>
-        <string lang="pt-br">SAIR PARA A LISTA DE DESEJOS</string>
-    </set>
-    <set id="quitscreen-quittodiscord">
-        <string lang="de">BEENDEN UND DISCORD BEITRETEN</string>
-        <string lang="en">QUIT AND JOIN DISCORD</string>
-        <string lang="fr">QUITTER ET REJOINDRE DISCORD</string>
-        <string lang="zh">退出并加入DISCORD</string>
-        <string lang="jp">終了して「DISCORD」へ</string>
-        <string lang="ru">ВЫХОД В ДИСКОРД</string>
-        <string lang="es">SALIR Y UNIRSE A DISCORD</string>
-        <string lang="kr">디스코드에 가입하고 나가기</string>
-        <string lang="pt-br">SAIR E ENTRAR NO DISCORD</string>
-    </set>
-    <set id="quitscreen-justquit">
-        <string lang="de">BEENDEN</string>
-        <string lang="en">QUIT</string>
-        <string lang="fr">QUITTER</string>
-        <string lang="zh">退出</string>
-        <string lang="jp">終了</string>
-        <string lang="ru">ВЫХОД</string>
-        <string lang="es">SALIR</string>
-        <string lang="kr">나가기</string>
-        <string lang="pt-br">SAIR</string>
-    </set>
-    <set id="tutorial">
-        <string lang="de">Tutorial</string>
-        <string lang="en">Tutorial</string>
-        <string lang="fr">Tutoriel</string>
-        <string lang="zh">教学</string>
-        <string lang="jp">チュートリアル</string>
-        <string lang="ru">Обучение</string>
-        <string lang="es">Tutorial</string>
-        <string lang="kr">튜토리얼</string>
-        <string lang="pt-br">Tutorial</string>
-    </set>
-    <set id="chapter">
-        <string lang="de">Level</string>
-        <string lang="en">Stage</string>
-        <string lang="fr">Niveau</string>
-        <string lang="zh">章节</string>
-        <string lang="jp">レベル</string>
-        <string lang="ru">Уровень</string>
-        <string lang="es">Nivel</string>
-        <string lang="kr">스테이지</string>
-        <string lang="pt-br">Fase</string>
-    </set>
-    <set id="chapter-1">
-        <string lang="de">Level I:</string>
-        <string lang="en">Stage I:</string>
-        <string lang="fr">Niveau I:</string>
-        <string lang="zh">第一章</string>
-        <string lang="jp">レベル1</string>
-        <string lang="ru">Уровень I:</string>
-        <string lang="es">Nivel I:</string>
-        <string lang="kr">스테이지 I:</string>
-        <string lang="pt-br">Fase I:</string>
-    </set>
-    <set id="chapter-2">
-        <string lang="de">Level II:</string>
-        <string lang="en">Stage II:</string>
-        <string lang="fr">Niveau II:</string>
-        <string lang="zh">第二章</string>
-        <string lang="jp">レベル2</string>
-        <string lang="ru">Уровень II:</string>
-        <string lang="es">Nivel II:</string>
-        <string lang="kr">스테이지 II:</string>
-        <string lang="pt-br">Fase II:</string>
-    </set>
-    <set id="chapter-3">
-        <string lang="de">Level III:</string>
-        <string lang="en">Stage III:</string>
-        <string lang="fr">Niveau III:</string>
-        <string lang="zh">第三章</string>
-        <string lang="jp">レベル3</string>
-        <string lang="ru">Уровень III:</string>
-        <string lang="es">Nivel III:</string>
-        <string lang="kr">스테이지 III:</string>
-        <string lang="pt-br">Fase III:</string>
-    </set>
-    <set id="chapter-4">
-        <string lang="de">Level IV:</string>
-        <string lang="en">Stage IV:</string>
-        <string lang="fr">Niveau IV:</string>
-        <string lang="zh">第四章</string>
-        <string lang="jp">レベル4</string>
-        <string lang="ru">Уровень IV:</string>
-        <string lang="es">Nivel IV:</string>
-        <string lang="kr">스테이지 IV:</string>
-        <string lang="pt-br">Fase IV:</string>
-    </set>
-    <set id="chapter-5">
-        <string lang="de">Finale:</string>
-        <string lang="en">Finale:</string>
-        <string lang="fr">Finale:</string>
-        <string lang="zh">最终章</string>
-        <string lang="jp">最終レベル</string>
-        <string lang="ru">Финал:</string>
-        <string lang="es">Final:</string>
-        <string lang="kr">마지막 스테이지:</string>
-        <string lang="pt-br">Final:</string>
-    </set>
-    <set id="abilities">
-        <string lang="de">Fähigkeiten</string>
-        <string lang="en">Abilities</string>
-        <string lang="fr">Capacités</string>
-        <string lang="zh">能力</string>
-        <string lang="jp">能力</string>
-        <string lang="ru">Способности</string>
-        <string lang="es">Habilidades</string>
-        <string lang="kr">능력</string>
-        <string lang="pt-br">Habilidades</string>
-    </set>
-    <set id="category">
-        <string lang="de">Kategorie</string>
-        <string lang="en">Category</string>
-        <string lang="fr">Catégorie</string>
-        <string lang="zh">类别</string>
-        <string lang="jp">カテゴリー</string>
-        <string lang="ru">Категория</string>
-        <string lang="es">Categoría</string>
-        <string lang="kr">카테고리</string>
-        <string lang="pt-br">Categoria</string>
-    </set>
-    <set id="offense">
-        <string lang="de">Offensiv</string>
-        <string lang="en">Offense</string>
-        <string lang="fr">Offense</string>
-        <string lang="zh">进攻</string>
-        <string lang="jp">オフェンス</string>
-        <string lang="ru">Атака</string>
-        <string lang="es">Ofensivo</string>
-        <string lang="kr">공격</string>
-        <string lang="pt-br">Ofensivo</string>
-    </set>
-    <set id="unique">
-        <string lang="de">Einzigartig</string>
-        <string lang="en">Unique</string>
-        <string lang="fr">Unique</string>
-        <string lang="zh">唯一</string>
-        <string lang="jp">個性的</string>
-        <string lang="ru">Уникальный</string>
-        <string lang="es">Único</string>
-        <string lang="kr">유일한</string>
-        <string lang="pt-br">Único</string>
-    </set>
-    <set id="cheat-incentive">
-        <string lang="de">Drücke F1 für den$br$Cheat-Modus</string>
-        <string lang="en">Press F1 to toggle$br$cheat mode</string>
-        <string lang="fr">Appuyez sur F1 pour activer le mode Cheat</string>
-        <string lang="zh">按F1切换作弊模式</string>
-        <string lang="jp">F1を押してチートモードを切り替える</string>
-        <string lang="ru">Нажмите F1 для включения режима читов</string>
-        <string lang="es">Pulsa F1 para activar el modo trucos</string>
-        <string lang="kr">F1을 눌러 치트 모드를 전환합니다</string>
-    </set>
-    <set id="cheat-free-plasma">
-        <string lang="de">$b$DEMO$/b$$br$+1 Plasma</string>
-        <string lang="en">$b$DEMO:$/b$$br$+1 Plasma</string>
-        <string lang="fr">$b$DEMO:$/b$$br$+1 Plasma</string>
-        <string lang="zh">$b$DEMO:$/b$$br$+1等离子体</string>
-        <string lang="jp">$b$DEMO:$/b$$br$+1プラズマ</string>
-        <string lang="ru">$b$DEMO:$/b$$br$+1 Плазма</string>
-        <string lang="es">$b$DEMO:$/b$$br$+1 Plasma</string>
-        <string lang="kr">$b$DEMO:$/b$$br$+1 플라즈마</string>
-        <string lang="pt-br">$b$DEMO:$/b$$br$+1 Plasma</string>
-    </set>
-    <set id="cheat-win-battle">
-        <string lang="de">$b$DEMO$/b$$br$Kampf gewinnen</string>
-        <string lang="en">$b$DEMO:$/b$$br$Win Battle</string>
-        <string lang="fr">$b$DEMO:$/b$$br$Gagner combat</string>
-        <string lang="zh">$b$DEMO:$/b$$br$战斗胜利</string>
-        <string lang="jp">$b$DEMO:$/b$$br$戦闘勝利</string>
-        <string lang="ru">$b$DEMO:$/b$$br$Выиграть бой</string>
-        <string lang="es">$b$DEMO:$/b$$br$Ganar batalla</string>
-        <string lang="kr">$b$DEMO:$/b$$br$전투 승리</string>
-        <string lang="pt-br">$b$DEMO:$/b$$br$Vencer batalha</string>
-    </set>
-    <set id="name-backpack">
-        <string lang="de">Rucksack</string>
-        <string lang="en">Backpack</string>
-        <string lang="fr">Sac à dos</string>
-        <string lang="zh">背包</string>
-        <string lang="jp">バックパック</string>
-        <string lang="ru">Рюкзак</string>
-        <string lang="es">Mochila</string>
-        <string lang="kr">배낭</string>
-        <string lang="pt-br">Mochila</string>
-    </set>
-    <set id="name-jack-output">
-        <string lang="de">Output-Buchse</string>
-        <string lang="en">Output Jack</string>
-        <string lang="fr">Prise de Sortie</string>
-        <string lang="zh">输出端</string>
-        <string lang="jp">出力ジャック</string>
-        <string lang="ru">Выходной разъем</string>
-        <string lang="es">Enchufe de salida</string>
-        <string lang="kr">출력 잭</string>
-        <string lang="pt-br">Jack de Saída</string>
-    </set>
-    <set id="name-jack-input">
-        <string lang="de">Input-Buchse</string>
-        <string lang="en">Input Jack</string>
-        <string lang="fr">Prise d'Entrée</string>
-        <string lang="zh">输入端</string>
-        <string lang="jp">入力ジャック</string>
-        <string lang="ru">Входной разъем</string>
-        <string lang="es">Enchufe de entrada</string>
-        <string lang="kr">입력 잭</string>
-        <string lang="pt-br">Jack de Entrada</string>
-    </set>
-    <set id="jack-status-canbewired">
-        <string lang="de">Kann verkabelt werden</string>
-        <string lang="en">Can be wired</string>
-        <string lang="fr">Peut être cablé</string>
-        <string lang="zh">可连接</string>
-        <string lang="jp">接続可能</string>
-        <string lang="ru">Можно подключить</string>
-        <string lang="es">Puede ser conectado</string>
-        <string lang="kr">연결 가능</string>
-        <string lang="pt-br">Pode ser conectado</string>
-    </set>
-    <set id="jack-status-cannotbewired">
-        <string lang="de">Kann nicht verkabelt werden</string>
-        <string lang="en">Cannot be wired</string>
-        <string lang="fr">Ne peut pas être cablé</string>
-        <string lang="zh">无法连接</string>
-        <string lang="jp">接続不可</string>
-        <string lang="ru">Нельзя подключить</string>
-        <string lang="es">No puede ser conectado</string>
-        <string lang="kr">연결할 수 없음</string>
-        <string lang="pt-br">Não pode ser conectado</string>
-    </set>
-    <set id="jack-status-wiredto">
-        <string lang="de">Verkabelt</string>
-        <string lang="en">Wired</string>
-        <string lang="fr">Cablé</string>
-        <string lang="zh">已连接</string>
-        <string lang="jp">接続済み</string>
-        <string lang="ru">Подключено</string>
-        <string lang="es">Conectado</string>
-        <string lang="kr">연결됨</string>
-        <string lang="pt-br">Conectado</string>
-    </set>
-    <set id="jack-status-wiring">
-        <string lang="de">&lt;color=yellow&gt;Wird gerade verkabelt&lt;/color&gt;</string>
-        <string lang="en">&lt;color=yellow&gt;Currently wiring&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=yellow&gt;En cours de cablage&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=yellow&gt;正在连接&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=yellow&gt;接続中&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=yellow&gt;Подключение...&lt;/color&gt;</string>
-        <string lang="es">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=yellow&gt;연결 중&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
-    </set>
-    <set id="scope-notpartofdemo">
-        <string lang="de">Nicht Teil der Demo</string>
-        <string lang="en">Not part of demo</string>
-        <string lang="fr">Pas part de la démo</string>
-        <string lang="zh">非预览版部分</string>
-        <string lang="jp">デモの一部ではありません</string>
-        <string lang="ru">Не входит в демо</string>
-        <string lang="es">No forma parte de la demo</string>
-        <string lang="kr">데모의 일부가 아닙니다</string>
-        <string lang="pt-br">Não faz parte da demo</string>
-    </set>
+<set id="(">
+		<string lang="de">(</string>
+		<string lang="en">(</string>
+		<string lang="fr">(</string>
+		<string lang="zh">（</string>
+		<string lang="jp">（</string>
+		<string lang="ru">(</string>
+		<string lang="es">(</string>
+		<string lang="kr">(</string>
+		<string lang="pt-br">(</string>
+</set>
+<set id=")">
+		<string lang="de">)</string>
+		<string lang="en">)</string>
+		<string lang="fr">)</string>
+		<string lang="zh">）</string>
+		<string lang="jp">）</string>
+		<string lang="ru">)</string>
+		<string lang="es">)</string>
+		<string lang="kr">)</string>
+		<string lang="pt-br">)</string>
+</set>
+<set id="abilities">
+		<string lang="de">Fähigkeiten</string>
+		<string lang="en">Abilities</string>
+		<string lang="fr">Capacités</string>
+		<string lang="zh">能力</string>
+		<string lang="jp">能力</string>
+		<string lang="ru">Способности</string>
+		<string lang="es">Habilidades</string>
+		<string lang="kr">능력</string>
+		<string lang="pt-br">Habilidades</string>
+</set>
+<set id="back">
+		<string lang="de">Zurück</string>
+		<string lang="en">Back</string>
+		<string lang="fr">Retour</string>
+		<string lang="zh">返回</string>
+		<string lang="jp">戻る</string>
+		<string lang="ru">Назад</string>
+		<string lang="es">Volver</string>
+		<string lang="kr">뒤로</string>
+		<string lang="pt-br">Voltar</string>
+</set>
+<set id="category">
+		<string lang="de">Kategorie</string>
+		<string lang="en">Category</string>
+		<string lang="fr">Catégorie</string>
+		<string lang="zh">类别</string>
+		<string lang="jp">カテゴリー</string>
+		<string lang="ru">Категория</string>
+		<string lang="es">Categoría</string>
+		<string lang="kr">카테고리</string>
+		<string lang="pt-br">Categoria</string>
+</set>
+<set id="chapter">
+		<string lang="de">Level</string>
+		<string lang="en">Stage</string>
+		<string lang="fr">Niveau</string>
+		<string lang="zh">章节</string>
+		<string lang="jp">レベル</string>
+		<string lang="ru">Уровень</string>
+		<string lang="es">Nivel</string>
+		<string lang="kr">스테이지</string>
+		<string lang="pt-br">Fase</string>
+</set>
+<set id="chapter-1">
+		<string lang="de">Level I:</string>
+		<string lang="en">Stage I:</string>
+		<string lang="fr">Niveau I:</string>
+		<string lang="zh">第一章</string>
+		<string lang="jp">レベル1</string>
+		<string lang="ru">Уровень I:</string>
+		<string lang="es">Nivel I:</string>
+		<string lang="kr">스테이지 I:</string>
+		<string lang="pt-br">Fase I:</string>
+</set>
+<set id="chapter-2">
+		<string lang="de">Level II:</string>
+		<string lang="en">Stage II:</string>
+		<string lang="fr">Niveau II:</string>
+		<string lang="zh">第二章</string>
+		<string lang="jp">レベル2</string>
+		<string lang="ru">Уровень II:</string>
+		<string lang="es">Nivel II:</string>
+		<string lang="kr">스테이지 II:</string>
+		<string lang="pt-br">Fase II:</string>
+</set>
+<set id="chapter-3">
+		<string lang="de">Level III:</string>
+		<string lang="en">Stage III:</string>
+		<string lang="fr">Niveau III:</string>
+		<string lang="zh">第三章</string>
+		<string lang="jp">レベル3</string>
+		<string lang="ru">Уровень III:</string>
+		<string lang="es">Nivel III:</string>
+		<string lang="kr">스테이지 III:</string>
+		<string lang="pt-br">Fase III:</string>
+</set>
+<set id="chapter-4">
+		<string lang="de">Level IV:</string>
+		<string lang="en">Stage IV:</string>
+		<string lang="fr">Niveau IV:</string>
+		<string lang="zh">第四章</string>
+		<string lang="jp">レベル4</string>
+		<string lang="ru">Уровень IV:</string>
+		<string lang="es">Nivel IV:</string>
+		<string lang="kr">스테이지 IV:</string>
+		<string lang="pt-br">Fase IV:</string>
+</set>
+<set id="chapter-5">
+		<string lang="de">Finale:</string>
+		<string lang="en">Finale:</string>
+		<string lang="fr">Finale:</string>
+		<string lang="zh">最终章</string>
+		<string lang="jp">最終レベル</string>
+		<string lang="ru">Финал:</string>
+		<string lang="es">Final:</string>
+		<string lang="kr">마지막 스테이지:</string>
+		<string lang="pt-br">Final:</string>
+</set>
+<set id="cheat-free-plasma">
+		<string lang="de">$b$DEMO$/b$$br$+1 Plasma</string>
+		<string lang="en">$b$DEMO:$/b$$br$+1 Plasma</string>
+		<string lang="fr">$b$DEMO:$/b$$br$+1 Plasma</string>
+		<string lang="zh">$b$DEMO:$/b$$br$+1等离子体</string>
+		<string lang="jp">$b$DEMO:$/b$$br$+1プラズマ</string>
+		<string lang="ru">$b$DEMO:$/b$$br$+1 Плазма</string>
+		<string lang="es">$b$DEMO:$/b$$br$+1 Plasma</string>
+		<string lang="kr">$b$DEMO:$/b$$br$+1 플라즈마</string>
+		<string lang="pt-br">$b$DEMO:$/b$$br$+1 Plasma</string>
+</set>
+<set id="cheat-incentive">
+		<string lang="de">Drücke F1 für den$br$Cheat-Modus</string>
+		<string lang="en">Press F1 to toggle$br$cheat mode</string>
+		<string lang="fr">Appuyez sur F1 pour activer le mode Cheat</string>
+		<string lang="zh">按F1切换作弊模式</string>
+		<string lang="jp">F1を押してチートモードを切り替える</string>
+		<string lang="ru">Нажмите F1 для включения режима читов</string>
+		<string lang="es">Pulsa F1 para activar el modo trucos</string>
+		<string lang="kr">F1을 눌러 치트 모드를 전환합니다</string>
+</set>
+<set id="cheat-win-battle">
+		<string lang="de">$b$DEMO$/b$$br$Kampf gewinnen</string>
+		<string lang="en">$b$DEMO:$/b$$br$Win Battle</string>
+		<string lang="fr">$b$DEMO:$/b$$br$Gagner combat</string>
+		<string lang="zh">$b$DEMO:$/b$$br$战斗胜利</string>
+		<string lang="jp">$b$DEMO:$/b$$br$戦闘勝利</string>
+		<string lang="ru">$b$DEMO:$/b$$br$Выиграть бой</string>
+		<string lang="es">$b$DEMO:$/b$$br$Ganar batalla</string>
+		<string lang="kr">$b$DEMO:$/b$$br$전투 승리</string>
+		<string lang="pt-br">$b$DEMO:$/b$$br$Vencer batalha</string>
+</set>
+<set id="continue">
+		<string lang="de">Weiter</string>
+		<string lang="en">Continue</string>
+		<string lang="fr">Continuer</string>
+		<string lang="zh">继续</string>
+		<string lang="jp">続行</string>
+		<string lang="ru">Продолжить</string>
+		<string lang="es">Continuar</string>
+		<string lang="kr">계속</string>
+		<string lang="pt-br">Continuar</string>
+</set>
+<set id="continue-to-unlocks">
+		<string lang="de">Weiter zu Fortschritt</string>
+		<string lang="en">Continue to Unlocks</string>
+		<string lang="fr">Continuer vers Déblocages</string>
+		<string lang="zh">继续解锁</string>
+		<string lang="jp">アンロックに進む</string>
+		<string lang="ru">Продолжить к Разблокировкам</string>
+		<string lang="es">Continuar a Desbloqueos</string>
+		<string lang="kr">언락으로 계속하기</string>
+		<string lang="pt-br">Continuar para Desbloqueios</string>
+</set>
+<set id="description-difficulty-0">
+		<string lang="de">Du lernst gerade die Mechaniken von Rogue Voltage kennen.</string>
+		<string lang="en">You are still learning about the mechanics of Rogue Voltage.</string>
+		<string lang="fr">Vous apprenez encore les mécanismes de Rogue Voltage.</string>
+		<string lang="zh">您仍在了解《Rogue Voltage》的机制。</string>
+		<string lang="jp">あなたはまだRogue Voltageのメカニクスについて学んでいます。</string>
+		<string lang="ru">Вы все еще учитесь механике Rogue Voltage.</string>
+		<string lang="es">Todavía estás aprendiendo sobre la mecánica de Rogue Voltage.</string>
+		<string lang="kr">아직 로그 볼티지의 메커니즘에 대해 배우고 있습니다.</string>
+		<string lang="pt-br">Você ainda está aprendendo sobre a mecânica do Rogue Voltage.</string>
+</set>
+<set id="description-difficulty-1">
+		<string lang="de">Eine ausgewogene Herausforderung für alle, die mit den Grundprinzipien vertraut sind.</string>
+		<string lang="en">A balanced challenge for those familiar with the core principles.</string>
+		<string lang="fr">Un défi équilibré pour les joueurs qui sont familiers avec les principes de base.</string>
+		<string lang="zh">对于熟悉核心原则的玩家来说，这是一个平衡的挑战。</string>
+		<string lang="jp">コア原則に精通しているプレイヤーにとって、バランスの取れた挑戦です。</string>
+		<string lang="ru">Сбалансированный вызов для игроков, которые знакомы с основными принципами.</string>
+		<string lang="es">Un desafío equilibrado para los jugadores que están familiarizados con los principios básicos.</string>
+		<string lang="kr">핵심 원칙에 익숙한 플레이어를 위한 균형 잡힌 도전 과제입니다.</string>
+		<string lang="pt-br">Um desafio equilibrado para jogadores que estão familiarizados com os princípios básicos.</string>
+</set>
+<set id="description-difficulty-2">
+		<string lang="de">Ein kniffliges Denkspiel mit sehr wenig Spielraum für Fehler.</string>
+		<string lang="en">A tough engineering puzzle with very little room for misplays.</string>
+		<string lang="fr">Un puzzle d'ingénierie difficile avec très peu de marge de manœuvre pour les erreurs de jeu.</string>
+		<string lang="zh">一个非常难的工程难题，几乎没有任何错误的余地。</string>
+		<string lang="jp">ミスプレイの余地がほとんどない、難しいエンジニアリングパズル。</string>
+		<string lang="ru">Сложная инженерная головоломка с очень малым пространством для ошибок.</string>
+		<string lang="es">Un rompecabezas de ingeniería difícil con muy poco margen de maniobra para errores de juego.</string>
+		<string lang="kr">실수할 여지가 거의 없는 어려운 엔지니어링 퍼즐입니다.</string>
+		<string lang="pt-br">Um quebra-cabeça de engenharia difícil com muito pouco espaço para erros.</string>
+</set>
+<set id="description-difficulty-3">
+		<string lang="de">Selbst der Entwickler hat Schwierigkeiten,$br$auf diesem Modus zu bestehen.</string>
+		<string lang="en">Even the developer struggles$br$to beat this mode.</string>
+		<string lang="fr">Même le développeur a du mal$br$à battre ce mode.</string>
+		<string lang="zh">即使是开发者也很难打败这个模式。</string>
+		<string lang="jp">開発者でさえこのモードを打ち負かすのに苦労しています。</string>
+		<string lang="ru">Даже разработчику трудно победить в этом режиме.</string>
+		<string lang="es">Incluso el desarrollador lucha por vencer este modo.</string>
+		<string lang="kr">개발자조차도 이 모드를 이기기 위해 고군분투합니다.</string>
+		<string lang="pt-br">Mesmo o desenvolvedor luta para vencer este modo.</string>
+</set>
+<set id="difficulty">
+		<string lang="de">SCHWIERIGKEIT</string>
+		<string lang="en">DIFFICULTY</string>
+		<string lang="fr">DIFFICULTÉ</string>
+		<string lang="zh">难度</string>
+		<string lang="jp">難易度</string>
+		<string lang="ru">СЛОЖНОСТЬ</string>
+		<string lang="es">DIFICULTAD</string>
+		<string lang="kr">난이도</string>
+		<string lang="pt-br">DIFICULDADE</string>
+</set>
+<set id="difficultyscreen-title">
+		<string lang="de">Wähle eine Schwierigkeit</string>
+		<string lang="en">Select a difficulty</string>
+		<string lang="fr">Choisissez une difficulté</string>
+		<string lang="zh">选择难度</string>
+		<string lang="jp">難易度を選択</string>
+		<string lang="ru">Выберите сложность</string>
+		<string lang="es">Selecciona una dificultad</string>
+		<string lang="kr">난이도 선택</string>
+		<string lang="pt-br">Selecione uma dificuldade</string>
+</set>
+<set id="jack-status-canbewired">
+		<string lang="de">Kann verkabelt werden</string>
+		<string lang="en">Can be wired</string>
+		<string lang="fr">Peut être cablé</string>
+		<string lang="zh">可连接</string>
+		<string lang="jp">接続可能</string>
+		<string lang="ru">Можно подключить</string>
+		<string lang="es">Puede ser conectado</string>
+		<string lang="kr">연결 가능</string>
+		<string lang="pt-br">Pode ser conectado</string>
+</set>
+<set id="jack-status-cannotbewired">
+		<string lang="de">Kann nicht verkabelt werden</string>
+		<string lang="en">Cannot be wired</string>
+		<string lang="fr">Ne peut pas être cablé</string>
+		<string lang="zh">无法连接</string>
+		<string lang="jp">接続不可</string>
+		<string lang="ru">Нельзя подключить</string>
+		<string lang="es">No puede ser conectado</string>
+		<string lang="kr">연결할 수 없음</string>
+		<string lang="pt-br">Não pode ser conectado</string>
+</set>
+<set id="jack-status-wiredto">
+		<string lang="de">Verkabelt</string>
+		<string lang="en">Wired</string>
+		<string lang="fr">Cablé</string>
+		<string lang="zh">已连接</string>
+		<string lang="jp">接続済み</string>
+		<string lang="ru">Подключено</string>
+		<string lang="es">Conectado</string>
+		<string lang="kr">연결됨</string>
+		<string lang="pt-br">Conectado</string>
+</set>
+<set id="jack-status-wiring">
+		<string lang="de">&lt;color=yellow&gt;Wird gerade verkabelt&lt;/color&gt;</string>
+		<string lang="en">&lt;color=yellow&gt;Currently wiring&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=yellow&gt;En cours de cablage&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=yellow&gt;正在连接&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=yellow&gt;接続中&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=yellow&gt;Подключение...&lt;/color&gt;</string>
+		<string lang="es">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=yellow&gt;연결 중&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
+</set>
+<set id="modalities-difficulty-0">
+		<string lang="en">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
+</set>
+<set id="modalities-difficulty-1">
+		<string lang="en"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="kr"></string>
+</set>
+<set id="modalities-difficulty-2">
+		<string lang="en">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
+</set>
+<set id="modalities-difficulty-3">
+		<string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
+</set>
+<set id="name-backpack">
+		<string lang="de">Rucksack</string>
+		<string lang="en">Backpack</string>
+		<string lang="fr">Sac à dos</string>
+		<string lang="zh">背包</string>
+		<string lang="jp">バックパック</string>
+		<string lang="ru">Рюкзак</string>
+		<string lang="es">Mochila</string>
+		<string lang="kr">배낭</string>
+		<string lang="pt-br">Mochila</string>
+</set>
+<set id="name-difficulty-0">
+		<string lang="de">Anfänger</string>
+		<string lang="en">Beginner</string>
+		<string lang="fr">Débutant</string>
+		<string lang="zh">新手</string>
+		<string lang="jp">初心者</string>
+		<string lang="ru">Новичок</string>
+		<string lang="es">Principiante</string>
+		<string lang="kr">초보자</string>
+		<string lang="pt-br">Iniciante</string>
+</set>
+<set id="name-difficulty-1">
+		<string lang="de">Normal</string>
+		<string lang="en">Normal</string>
+		<string lang="fr">Normal</string>
+		<string lang="zh">正常</string>
+		<string lang="jp">ノーマル</string>
+		<string lang="ru">Нормальный</string>
+		<string lang="es">Normal</string>
+		<string lang="kr">일반</string>
+		<string lang="pt-br">Normal</string>
+</set>
+<set id="name-difficulty-2">
+		<string lang="de">Schwer</string>
+		<string lang="en">Hard</string>
+		<string lang="fr">Difficile</string>
+		<string lang="zh">困难</string>
+		<string lang="jp">ハード</string>
+		<string lang="ru">Сложный</string>
+		<string lang="es">Difícil</string>
+		<string lang="kr">어려움</string>
+		<string lang="pt-br">Difícil</string>
+</set>
+<set id="name-difficulty-3">
+		<string lang="de">Unmöglich</string>
+		<string lang="en">Impossible</string>
+		<string lang="fr">Impossible</string>
+		<string lang="zh">不可能</string>
+		<string lang="jp">不可能</string>
+		<string lang="ru">Невозможный</string>
+		<string lang="es">Imposible</string>
+		<string lang="kr">불가능</string>
+		<string lang="pt-br">Impossível</string>
+</set>
+<set id="name-jack-input">
+		<string lang="de">Input-Buchse</string>
+		<string lang="en">Input Jack</string>
+		<string lang="fr">Prise d'Entrée</string>
+		<string lang="zh">输入端</string>
+		<string lang="jp">入力ジャック</string>
+		<string lang="ru">Входной разъем</string>
+		<string lang="es">Enchufe de entrada</string>
+		<string lang="kr">입력 잭</string>
+		<string lang="pt-br">Jack de Entrada</string>
+</set>
+<set id="name-jack-output">
+		<string lang="de">Output-Buchse</string>
+		<string lang="en">Output Jack</string>
+		<string lang="fr">Prise de Sortie</string>
+		<string lang="zh">输出端</string>
+		<string lang="jp">出力ジャック</string>
+		<string lang="ru">Выходной разъем</string>
+		<string lang="es">Enchufe de salida</string>
+		<string lang="kr">출력 잭</string>
+		<string lang="pt-br">Jack de Saída</string>
+</set>
+<set id="offense">
+		<string lang="de">Offensiv</string>
+		<string lang="en">Offense</string>
+		<string lang="fr">Offense</string>
+		<string lang="zh">进攻</string>
+		<string lang="jp">オフェンス</string>
+		<string lang="ru">Атака</string>
+		<string lang="es">Ofensivo</string>
+		<string lang="kr">공격</string>
+		<string lang="pt-br">Ofensivo</string>
+</set>
+<set id="progression-difficulty-0">
+		<string lang="en">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;-10% progression points&lt;/color&gt;</string>
+</set>
+<set id="progression-difficulty-1">
+		<string lang="en"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="kr"></string>
+</set>
+<set id="progression-difficulty-2">
+		<string lang="en">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#67FF73&gt;+10% progression points&lt;/color&gt;</string>
+</set>
+<set id="progression-difficulty-3">
+		<string lang="en">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#67FF73&gt;+20% progression points&lt;/color&gt;</string>
+</set>
+<set id="quitscreen-description">
+		<string lang="de">Wenn dir die Demo gefallen hat, trete gerne dem $b$Discord$/b$ bei oder setze Rogue Voltage auf deine $b$Wunschliste$/b$, um auf unserem Weg zum Early Access auf dem Laufenden zu bleiben.</string>
+		<string lang="en">If you enjoyed the demo, please consider $b$joining Discord$/b$ or $b$wishlisting Rogue Voltage$/b$ to keep in touch about the progress of development on our path to Early Access.</string>
+		<string lang="fr">Si vous avez apprécié la démo, n'hésitez pas à $b$rejoindre Discord$/b$ ou à $b$ajouter Rogue Voltage à votre liste de souhaits$/b$ pour rester informé de l'avancement du développement sur notre chemin vers Early Access.</string>
+		<string lang="zh">如果你喜欢这个游戏，请考虑加入$b$Discord$/b$或将Rogue Voltage加入Steam$b$愿望单$/b$，以便及时了解我们的开发进度。</string>
+		<string lang="jp">このデモをお楽しみいただけましたら、$b$Discordに参加$/b$するか、$b$Rogue Voltageをウィッシュリストに登録$/b$して、アーリーアクセスへの道のりでの開発の進捗状況についてお知らせください。</string>
+		<string lang="ru">Если вам понравилась демо-версия, пожалуйста, подумайте о $b$присоединении к Discord$/b$ или $b$добавлении Rogue Voltage в список желаемого$/b$, чтобы быть в курсе развития проекта на пути к раннему доступу.</string>
+		<string lang="es">Si te ha gustado la demo, por favor considera $b$unirte a Discord$/b$ o $b$añadir Rogue Voltage a tu lista de deseos$/b$ para mantenerte informado sobre el progreso del desarrollo en nuestro camino hacia el Early Access.</string>
+		<string lang="kr">데모를 즐겼다면, $b$Discord에 가입$/b$하거나 $b$Rogue Voltage를 위시리스트에 추가$/b$하여 얼리 액세스로의 진행 상황을 알려주세요.</string>
+		<string lang="pt-br">Se você gostou da demo, considere $b$entrar no Discord$/b$ ou $b$adicionar Rogue Voltage à sua lista de desejos$/b$ para se manter informado sobre o progresso do desenvolvimento em nosso caminho para o Early Access.</string>
+</set>
+<set id="quitscreen-developer">
+		<string lang="de">$b$Luca$/b$$br$Entwickler</string>
+		<string lang="en">$b$Luca$/b$$br$Developer</string>
+		<string lang="fr">$b$Luca$/b$$br$Développeur</string>
+		<string lang="zh">$b$卢卡$/b$$br$程序员</string>
+		<string lang="jp">$b$ルカ$/b$$br$開発者</string>
+		<string lang="ru">$b$Luca$/b$$br$Разработчик</string>
+		<string lang="es">$b$Luca$/b$$br$Desarrollador</string>
+		<string lang="kr">$b$Luca$/b$$br$개발자</string>
+		<string lang="pt-br">$b$Luca$/b$$br$Desenvolvedor</string>
+</set>
+<set id="quitscreen-header">
+		<string lang="de">Danke fürs Spielen</string>
+		<string lang="en">Thank you for playing</string>
+		<string lang="fr">Merci d'avoir joué</string>
+		<string lang="zh">感谢你的游玩</string>
+		<string lang="jp">遊んでくれてありがとう</string>
+		<string lang="ru">Спасибо за игру</string>
+		<string lang="es">Gracias por jugar</string>
+		<string lang="kr">플레이해 주셔서 감사합니다</string>
+		<string lang="pt-br">Obrigado por jogar</string>
+</set>
+<set id="quitscreen-justquit">
+		<string lang="de">BEENDEN</string>
+		<string lang="en">QUIT</string>
+		<string lang="fr">QUITTER</string>
+		<string lang="zh">退出</string>
+		<string lang="jp">終了</string>
+		<string lang="ru">ВЫХОД</string>
+		<string lang="es">SALIR</string>
+		<string lang="kr">나가기</string>
+		<string lang="pt-br">SAIR</string>
+</set>
+<set id="quitscreen-quittodiscord">
+		<string lang="de">BEENDEN UND DISCORD BEITRETEN</string>
+		<string lang="en">QUIT AND JOIN DISCORD</string>
+		<string lang="fr">QUITTER ET REJOINDRE DISCORD</string>
+		<string lang="zh">退出并加入DISCORD</string>
+		<string lang="jp">終了して「DISCORD」へ</string>
+		<string lang="ru">ВЫХОД В ДИСКОРД</string>
+		<string lang="es">SALIR Y UNIRSE A DISCORD</string>
+		<string lang="kr">디스코드에 가입하고 나가기</string>
+		<string lang="pt-br">SAIR E ENTRAR NO DISCORD</string>
+</set>
+<set id="quitscreen-quittowishlist">
+		<string lang="de">BEENDEN UND ZUR WUNSCHLISTE</string>
+		<string lang="en">QUIT TO STEAM WISHLIST</string>
+		<string lang="fr">QUITTER VERS LA LISTE DE SOUHAITS</string>
+		<string lang="zh">退出并加入愿望单</string>
+		<string lang="jp">終了してウィッシュリストに移動</string>
+		<string lang="ru">ВЫХОД В СПИСОК ПОЖЕЛАНИЙ</string>
+		<string lang="es">SALIR A LA LISTA DE DESEOS</string>
+		<string lang="kr">위시리스트로 나가기</string>
+		<string lang="pt-br">SAIR PARA A LISTA DE DESEJOS</string>
+</set>
+<set id="scope-demo">
+		<string lang="de">Steam Demo</string>
+		<string lang="en">Steam Demo</string>
+		<string lang="fr">Steam Démo</string>
+		<string lang="zh">Steam 预览版</string>
+		<string lang="jp">Steam デモ</string>
+		<string lang="ru">Steam Демо</string>
+		<string lang="es">Steam Demo</string>
+		<string lang="kr">스팀 데모</string>
+		<string lang="pt-br">Steam Demo</string>
+</set>
+<set id="scope-earlyaccess">
+		<string lang="de">Early Access Prototype</string>
+		<string lang="en">Early Access Prototype</string>
+		<string lang="fr">Early Access Prototype</string>
+		<string lang="zh">抢先体验版</string>
+		<string lang="jp">Early Access Prototype</string>
+		<string lang="ru">Early Access Prototype</string>
+		<string lang="es">Early Access Prototype</string>
+		<string lang="kr">Early Access Prototype</string>
+		<string lang="pt-br">Early Access Prototype</string>
+</set>
+<set id="scope-extendeddemo">
+		<string lang="de">Erweiterte Demo</string>
+		<string lang="en">Extended Demo</string>
+		<string lang="fr">Démo Étendue</string>
+		<string lang="zh">扩展预览版</string>
+		<string lang="jp">拡張デモ</string>
+		<string lang="ru">Расширенное Демо</string>
+		<string lang="es">Demo extendida</string>
+		<string lang="kr">확장 데모</string>
+		<string lang="pt-br">Demo estendida</string>
+</set>
+<set id="scope-notpartofdemo">
+		<string lang="de">Nicht Teil der Demo</string>
+		<string lang="en">Not part of demo</string>
+		<string lang="fr">Pas part de la démo</string>
+		<string lang="zh">非预览版部分</string>
+		<string lang="jp">デモの一部ではありません</string>
+		<string lang="ru">Не входит в демо</string>
+		<string lang="es">No forma parte de la demo</string>
+		<string lang="kr">데모의 일부가 아닙니다</string>
+		<string lang="pt-br">Não faz parte da demo</string>
+</set>
+<set id="scope-playtest">
+		<string lang="de">Playtest</string>
+		<string lang="en">Playtest</string>
+		<string lang="fr">Playtest</string>
+		<string lang="zh">Playtest</string>
+		<string lang="jp">Playtest</string>
+		<string lang="ru">Playtest</string>
+		<string lang="es">Playtest</string>
+		<string lang="kr">Playtest</string>
+		<string lang="pt-br">Playtest</string>
+</set>
+<set id="scope-prototype">
+		<string lang="de">Prototyp</string>
+		<string lang="en">Prototype</string>
+		<string lang="fr">Prototype</string>
+		<string lang="zh">原型</string>
+		<string lang="jp">プロトタイプ</string>
+		<string lang="ru">Прототип</string>
+		<string lang="es">Prototipo</string>
+		<string lang="kr">원형</string>
+		<string lang="pt-br">Protótipo</string>
+</set>
+<set id="scope-version">
+		<string lang="de">v. $VERSION$</string>
+		<string lang="en">v. $VERSION$</string>
+		<string lang="fr">v. $VERSION$</string>
+		<string lang="zh">v. $VERSION$</string>
+		<string lang="jp">v. $VERSION$</string>
+		<string lang="ru">v. $VERSION$</string>
+		<string lang="es">v. $VERSION$</string>
+		<string lang="kr">v. $VERSION$</string>
+		<string lang="pt-br">v. $VERSION$</string>
+</set>
+<set id="selectionscreen-calltoaction">
+		<string lang="de">Wer bricht auf?</string>
+		<string lang="en">Who is heading out?</string>
+		<string lang="fr">Qui va partir?</string>
+		<string lang="zh">派谁出发？</string>
+		<string lang="jp">誰が出発しますか？</string>
+		<string lang="ru">Кто отправится?</string>
+		<string lang="es">¿Quién va a salir?</string>
+		<string lang="kr">누가 나갈까요?</string>
+		<string lang="pt-br">Quem vai sair?</string>
+</set>
+<set id="selectionscreen-characters">
+		<string lang="de">CHARAKTERE</string>
+		<string lang="en">CHARACTERS</string>
+		<string lang="fr">HÉROS</string>
+		<string lang="zh">角色</string>
+		<string lang="jp">キャラクター</string>
+		<string lang="ru">ГЕРОИ</string>
+		<string lang="es">PERSONAJES</string>
+		<string lang="kr">캐릭터</string>
+		<string lang="pt-br">PERSONAGENS</string>
+</set>
+<set id="selectionscreen-salvagedmodule">
+		<string lang="de">GEBORGENES MODUL</string>
+		<string lang="en">SALVAGED MODULE</string>
+		<string lang="fr">MODULE SAUVÉ</string>
+		<string lang="zh">保留的模块</string>
+		<string lang="jp">回収されたモジュール</string>
+		<string lang="ru">МОДУЛЬ</string>
+		<string lang="es">MÓDULO RECUPERADO</string>
+		<string lang="kr">회수된 모듈</string>
+		<string lang="pt-br">MÓDULO RECUPERADO</string>
+</set>
+<set id="selectionscreen-subtitle">
+		<string lang="de">Wähle ein Team aus$br$zwei Charakteren</string>
+		<string lang="en">Select a squad of$br$two characters</string>
+		<string lang="fr">Choisissez une équipe de$br$deux héros</string>
+		<string lang="zh">组建一个双人小队</string>
+		<string lang="jp">2人のキャラクターでチームを選択</string>
+		<string lang="ru">Выберите команду из$br$двух персонажей</string>
+		<string lang="es">Selecciona un equipo de$br$dos personajes</string>
+		<string lang="kr">두 캐릭터로 팀 선택</string>
+		<string lang="pt-br">Selecione um esquadrão de$br$dois personagens</string>
+</set>
+<set id="starttheadventure">
+		<string lang="de">Beginnt euer$br$Abenteuer!</string>
+		<string lang="en">Start the$br$Adventure!</string>
+		<string lang="fr">Démarrez$br$votre aventure!</string>
+		<string lang="zh">开始冒险！</string>
+		<string lang="jp">冒険を開始！</string>
+		<string lang="ru">Начать$br$приключение!</string>
+		<string lang="es">¡Empieza la$br$aventura!</string>
+		<string lang="kr">모험 시작!</string>
+		<string lang="pt-br">Comece a$br$aventura!</string>
+</set>
+<set id="tooltip-removewires">
+		<string lang="de">Alle Kabel entfernen</string>
+		<string lang="en">Remove all wires</string>
+		<string lang="fr">Retirer câbles</string>
+		<string lang="zh">移除所有线缆</string>
+		<string lang="jp">すべてのワイヤーを取り外します</string>
+		<string lang="ru">Удалить все провода</string>
+		<string lang="es">Eliminar todos los cables</string>
+		<string lang="kr">모든 전선 제거</string>
+		<string lang="pt-br">Remover todos os fios</string>
+</set>
+<set id="tooltip-skipturn">
+		<string lang="de">Zug überspringen</string>
+		<string lang="en">Skip turn</string>
+		<string lang="fr">Passer le tour</string>
+		<string lang="zh">跳过回合</string>
+		<string lang="jp">ターンをスキップします</string>
+		<string lang="ru">Пропустить ход</string>
+		<string lang="es">Saltar turno</string>
+		<string lang="kr">턴 건너 뛰기</string>
+		<string lang="pt-br">Pular turno</string>
+</set>
+<set id="tutorial">
+		<string lang="de">Tutorial</string>
+		<string lang="en">Tutorial</string>
+		<string lang="fr">Tutoriel</string>
+		<string lang="zh">教学</string>
+		<string lang="jp">チュートリアル</string>
+		<string lang="ru">Обучение</string>
+		<string lang="es">Tutorial</string>
+		<string lang="kr">튜토리얼</string>
+		<string lang="pt-br">Tutorial</string>
+</set>
+<set id="ui-automaticlocalization" remarks="only shown with the localizations that have been generated automatically">
+		<string lang="de">Diese Lokalisierung wurde automatisch erzeugt.$br$Wenn du dazu beitragen möchtest, komm auf unseren Discord-Server.</string>
+		<string lang="en">This localization has been generated automatically.$br$If you want to contribute, join our Discord server:</string>
+		<string lang="fr">Cette localisation a été générée semi-automatiquement.$br$Si vous souhaitez contribuer, rejoignez notre serveur Discord.</string>
+		<string lang="zh">本地化为自动生成。$br$如果你想要贡献, 请加入我们的Discord服务器。</string>
+		<string lang="jp">このローカライズは自動生成されました。$br$貢献したい場合は、Discordサーバーに参加してください。</string>
+		<string lang="ru">Эта локализация была автоматически сгенерирована.$br$Если вы хотите внести свой вклад, присоединяйтесь к нашему серверу Discord.</string>
+		<string lang="es">Esta localización ha sido generada automáticamente.$br$Si quieres contribuir, únete a nuestro servidor de Discord.</string>
+		<string lang="kr">이 지역화는 자동으로 생성되었습니다.$br$기여하려면 Discord 서버에 참여하십시오.</string>
+		<string lang="pt-br">Esta localização foi gerada automaticamente.$br$Se você quiser contribuir, junte-se ao nosso servidor do Discord.</string>
+</set>
+<set id="ui-backtomenu">
+		<string lang="de">Zurück zum$br$Hauptmenü</string>
+		<string lang="en">Back to$br$Menu</string>
+		<string lang="fr">Retour au$br$Menu</string>
+		<string lang="zh">返回菜单</string>
+		<string lang="jp">メニューに戻る</string>
+		<string lang="ru">Назад в$br$меню</string>
+		<string lang="es">Volver al$br$menú</string>
+		<string lang="kr">메뉴로 돌아가기</string>
+		<string lang="pt-br">Voltar para$br$o menu</string>
+</set>
+<set id="ui-backtoracks">
+		<string lang="de">Zurück zu$br$den Racks</string>
+		<string lang="en">Back to$br$player racks</string>
+		<string lang="fr">Retour aux$br$racks</string>
+		<string lang="zh">返回机架</string>
+		<string lang="jp">プレイヤーのラック$br$に戻る</string>
+		<string lang="ru">Назад к$br$стойкам</string>
+		<string lang="es">Volver a$br$estantes de jugadores</string>
+		<string lang="kr">플레이어 랙으로$br$돌아가기</string>
+		<string lang="pt-br">Voltar para$br$racks de jogadores</string>
+</set>
+<set id="ui-battleground">
+		<string lang="de">Battleground</string>
+		<string lang="en">Battleground</string>
+		<string lang="fr">Battleground</string>
+		<string lang="zh">战场</string>
+		<string lang="jp">バトルグラウンド</string>
+		<string lang="ru">Боевая площадка</string>
+		<string lang="es">Campo de batalla</string>
+		<string lang="kr">전장</string>
+		<string lang="pt-br">Campo de batalha</string>
+</set>
+<set id="ui-blue">
+		<string lang="de">&lt;color=#7272FF&gt;Blau&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#7272FF&gt;Blue&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#7272FF&gt;Bleu&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#7272FF&gt;蓝色&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#7272FF&gt;青&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#7272FF&gt;Синий&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#7272FF&gt;Azul&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#7272FF&gt;파란색&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#7272FF&gt;Azul&lt;/color&gt;</string>
+</set>
+<set id="ui-cancel">
+		<string lang="de">Abbrechen</string>
+		<string lang="en">Cancel</string>
+		<string lang="fr">Annuler</string>
+		<string lang="zh">取消</string>
+		<string lang="jp">キャンセル</string>
+		<string lang="ru">Отмена</string>
+		<string lang="es">Cancelar</string>
+		<string lang="kr">취소</string>
+		<string lang="pt-br">Cancelar</string>
+</set>
+<set id="ui-continue">
+		<string lang="de">Run Fortsetzen</string>
+		<string lang="en">Continue Run</string>
+		<string lang="fr">Continuer Partie</string>
+		<string lang="zh">继续游戏</string>
+		<string lang="jp">冒険を続ける</string>
+		<string lang="ru">Продолжить Ран</string>
+		<string lang="es">Continuar partida</string>
+		<string lang="kr">모험 계속하기</string>
+		<string lang="pt-br">Continuar partida</string>
+</set>
+<set id="ui-continue-from-camp">
+		<string lang="de">Abenteuer$br$Fortsetzen</string>
+		<string lang="en">Continue$br$Adventure</string>
+		<string lang="fr">Reprendre$br$la route</string>
+		<string lang="zh">继续冒险</string>
+		<string lang="jp">冒険を続ける</string>
+		<string lang="ru">Продолжить$br$приключение</string>
+		<string lang="es">Continuar$br$aventura</string>
+		<string lang="kr">모험 계속하기</string>
+		<string lang="pt-br">Continuar$br$aventura</string>
+</set>
+<set id="ui-credits">
+		<string lang="de">Credits</string>
+		<string lang="en">Credits</string>
+		<string lang="fr">Crédits</string>
+		<string lang="zh">鸣谢</string>
+		<string lang="jp">クレジット</string>
+		<string lang="ru">Титры</string>
+		<string lang="es">Créditos</string>
+		<string lang="kr">제작진</string>
+		<string lang="pt-br">Créditos</string>
+</set>
+<set id="ui-credits-gameby">
+		<string lang="de">Ein Spiel von</string>
+		<string lang="en">A game by</string>
+		<string lang="fr">Un jeu de</string>
+		<string lang="zh">游戏作者</string>
+		<string lang="jp">ゲーム作者</string>
+		<string lang="ru">Игра от</string>
+		<string lang="es">Un juego de</string>
+		<string lang="kr">게임 제작</string>
+		<string lang="pt-br">Um jogo de</string>
+</set>
+<set id="ui-discussion">
+		<string lang="de">Komm' ans Lagerfeuer:</string>
+		<string lang="en">Join the Campfire:</string>
+		<string lang="fr">Rejoignez le feu de camp:</string>
+		<string lang="zh">来篝火旁取取暖</string>
+		<string lang="jp">キャンプファイヤーに参加する</string>
+		<string lang="ru">Присоединяйтесь к костру:</string>
+		<string lang="es">Únete a la hoguera:</string>
+		<string lang="kr">캠프파이어에 참여하세요:</string>
+		<string lang="pt-br">Junte-se à fogueira:</string>
+</set>
+<set id="ui-error">
+		<string lang="de">FEHLER</string>
+		<string lang="en">ERROR</string>
+		<string lang="fr">ERREUR</string>
+		<string lang="zh">错误</string>
+		<string lang="jp">エラー</string>
+		<string lang="ru">ОШИБКА</string>
+		<string lang="es">ERROR</string>
+		<string lang="kr">오류</string>
+		<string lang="pt-br">ERRO</string>
+</set>
+<set id="ui-green">
+		<string lang="de">&lt;color=green&gt;Grün&lt;/color&gt;</string>
+		<string lang="en">&lt;color=green&gt;Green&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=green&gt;Vert&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=green&gt;绿色&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=green&gt;緑&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=green&gt;Зеленый&lt;/color&gt;</string>
+		<string lang="es">&lt;color=green&gt;Verde&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=green&gt;초록색&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=green&gt;Verde&lt;/color&gt;</string>
+</set>
+<set id="ui-heal1">
+		<string lang="de">Heilung 1</string>
+		<string lang="en">Heal 1</string>
+		<string lang="fr">Soin 1</string>
+		<string lang="zh">治疗1</string>
+		<string lang="jp">回復1</string>
+		<string lang="ru">Лечение 1</string>
+		<string lang="es">Curar 1</string>
+		<string lang="kr">치유1</string>
+		<string lang="pt-br">Curar 1</string>
+</set>
+<set id="ui-leave">
+		<string lang="de">Verlassen</string>
+		<string lang="en">Leave</string>
+		<string lang="fr">Quitter</string>
+		<string lang="zh">离开</string>
+		<string lang="jp">離れる</string>
+		<string lang="ru">Выйти</string>
+		<string lang="es">Salir</string>
+		<string lang="kr">나가기</string>
+		<string lang="pt-br">Sair</string>
+</set>
+<set id="ui-loot">
+		<string lang="de">Loot</string>
+		<string lang="en">Loot</string>
+		<string lang="fr">Butin</string>
+		<string lang="zh">战利品</string>
+		<string lang="jp">分捕り品</string>
+		<string lang="ru">Добыча</string>
+		<string lang="es">Botín</string>
+		<string lang="kr">전리품</string>
+		<string lang="pt-br">Saque</string>
+</set>
+<set id="ui-loot-continue">
+		<string lang="de">Weiter</string>
+		<string lang="en">Continue</string>
+		<string lang="fr">Continuer</string>
+		<string lang="zh">继续</string>
+		<string lang="jp">続行</string>
+		<string lang="ru">Продолжить</string>
+		<string lang="es">Continuar</string>
+		<string lang="kr">계속</string>
+		<string lang="pt-br">Continuar</string>
+</set>
+<set id="ui-loot-continue-timed">
+		<string lang="de">Weiter ($TIMER$)</string>
+		<string lang="en">Continue ($TIMER$)</string>
+		<string lang="fr">Continuer ($TIMER$)</string>
+		<string lang="zh">继续 ($TIMER$)</string>
+		<string lang="jp">続行 ($TIMER$)</string>
+		<string lang="ru">Продолжить ($TIMER$)</string>
+		<string lang="es">Continuar ($TIMER$)</string>
+		<string lang="kr">계속 ($TIMER$)</string>
+		<string lang="pt-br">Continuar ($TIMER$)</string>
+</set>
+<set id="ui-loot-hint-multiple">
+		<string lang="de">Wähle ein Modul als Belohnung</string>
+		<string lang="en">Choose one module as your reward</string>
+		<string lang="fr">Choisissez un module comme récompense</string>
+		<string lang="zh">选择一个模块作为你的奖励</string>
+		<string lang="jp">報酬として1つのモジュールを選択します</string>
+		<string lang="ru">Выберите один модуль в качестве награды</string>
+		<string lang="es">Elige un módulo como tu recompensa</string>
+		<string lang="kr">보상으로 하나의 모듈을 선택하십시오</string>
+		<string lang="pt-br">Escolha um módulo como sua recompensa</string>
+</set>
+<set id="ui-loot-hint-single">
+		<string lang="de">Wähle das Loot-Modul aus, um es in dein Rack zu nehmen</string>
+		<string lang="en">Select the loot module to take it into your rack</string>
+		<string lang="fr">Sélectionnez le module de butin pour le prendre dans votre rack</string>
+		<string lang="zh">选择战利品模块并将其放入你的架子</string>
+		<string lang="jp">戦利品モジュールを選択してラックに入れます</string>
+		<string lang="ru">Выберите модуль добычи, чтобы взять его в свой стеллаж</string>
+		<string lang="es">Selecciona el módulo de botín para llevarlo a tu rack</string>
+		<string lang="kr">전리품 모듈을 선택하여 랙에 넣으십시오</string>
+		<string lang="pt-br">Selecione o módulo de loot para colocá-lo em seu rack</string>
+</set>
+<set id="ui-loot-reroll">
+		<string lang="de">Neu$br$Auswürfeln$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="en">Reroll$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="fr">Relancer$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="zh">重新生成$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="jp">再ロール$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="ru">Перебросить$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="es">Volver a tirar$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="kr">다시 굴리기$br$(-$REROLLCOST$ $plasmaicon$)</string>
+		<string lang="pt-br">Rolar novamente$br$(-$REROLLCOST$ $plasmaicon$)</string>
+</set>
+<set id="ui-loot-selection-finished">
+		<string lang="de">Belohnung aufgesammelt</string>
+		<string lang="en">Reward collected</string>
+		<string lang="fr">Récompense collectée</string>
+		<string lang="zh">奖励已获得</string>
+		<string lang="jp">報酬を収集しました</string>
+		<string lang="ru">Добыча собрана</string>
+		<string lang="es">Recompensa recogida</string>
+		<string lang="kr">보상 획득</string>
+		<string lang="pt-br">Recompensa coletada</string>
+</set>
+<set id="ui-loot-skip">
+		<string lang="de">Über-$br$springen$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="en">Skip$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="fr">Passer$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="zh">跳过$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="jp">スキップ$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="ru">Пропустить$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="es">Saltar$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="kr">건너뛰기$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+		<string lang="pt-br">Pular$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+</set>
+<set id="ui-new">
+		<string lang="de">NEU</string>
+		<string lang="en">NEW</string>
+		<string lang="fr">NOUVEAU</string>
+		<string lang="zh">新</string>
+		<string lang="jp">新しい</string>
+		<string lang="ru">НОВЫЙ</string>
+		<string lang="es">NUEVO</string>
+		<string lang="kr">새로운</string>
+		<string lang="pt-br">NOVO</string>
+</set>
+<set id="ui-newgame">
+		<string lang="de">Neuer Run</string>
+		<string lang="en">New Run</string>
+		<string lang="fr">Nouvelle Partie</string>
+		<string lang="zh">新的冒险</string>
+		<string lang="jp">新しい冒険</string>
+		<string lang="ru">Новый Ран</string>
+		<string lang="es">Nueva partida</string>
+		<string lang="kr">새로운 모험</string>
+		<string lang="pt-br">Nova partida</string>
+</set>
+<set id="ui-now">
+		<string lang="de">jetzt</string>
+		<string lang="en">now</string>
+		<string lang="fr">mainte$br$nant</string>
+		<string lang="zh">现在</string>
+		<string lang="jp">今</string>
+		<string lang="ru">сейчас</string>
+		<string lang="es">ahora</string>
+		<string lang="kr">지금</string>
+		<string lang="pt-br">agora</string>
+</set>
+<set id="ui-plasma">
+		<string lang="de">Plasma</string>
+		<string lang="en">Plasma</string>
+		<string lang="fr">Plasma</string>
+		<string lang="zh">等离子体</string>
+		<string lang="jp">プラズマ</string>
+		<string lang="ru">Плазма</string>
+		<string lang="es">Plasma</string>
+		<string lang="kr">플라스마</string>
+		<string lang="pt-br">Plasma</string>
+</set>
+<set id="ui-quit">
+		<string lang="de">Beenden</string>
+		<string lang="en">Quit</string>
+		<string lang="fr">Quitter</string>
+		<string lang="zh">退出</string>
+		<string lang="jp">終了</string>
+		<string lang="ru">Выход</string>
+		<string lang="es">Salir</string>
+		<string lang="kr">종료</string>
+		<string lang="pt-br">Sair</string>
+</set>
+<set id="ui-rack">
+		<string lang="de">Rack</string>
+		<string lang="en">Rack</string>
+		<string lang="fr">Rack</string>
+		<string lang="zh">机架</string>
+		<string lang="jp">ラック</string>
+		<string lang="ru">Стойка</string>
+		<string lang="es">Estante</string>
+		<string lang="kr">랙</string>
+		<string lang="pt-br">Rack</string>
+</set>
+<set id="ui-readytofire">
+		<string lang="de">Bereit zum Handeln</string>
+		<string lang="en">Ready for action</string>
+		<string lang="fr">Prêt pour l'action</string>
+		<string lang="zh">准备行动</string>
+		<string lang="jp">行動の準備ができている</string>
+		<string lang="ru">Готов к действию</string>
+		<string lang="es">Listo para la acción</string>
+		<string lang="kr">행동 준비 완료</string>
+		<string lang="pt-br">Pronto para a ação</string>
+</set>
+<set id="ui-red">
+		<string lang="de">&lt;color=#FF5555&gt;Rot&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#FF5555&gt;Red&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FF5555&gt;Rouge&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;红色&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;赤&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#FF5555&gt;Красный&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#FF5555&gt;Rojo&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;빨간색&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#FF5555&gt;Vermelho&lt;/color&gt;</string>
+</set>
+<set id="ui-reroll">
+		<string lang="en">Reroll</string>
+		<string lang="zh">Reroll</string>
+		<string lang="jp">Reroll</string>
+		<string lang="kr">Reroll</string>
+</set>
+<set id="ui-revive">
+		<string lang="de">Wiederbeleben</string>
+		<string lang="en">Resuscitate</string>
+		<string lang="fr">Résurrection</string>
+		<string lang="zh">复苏</string>
+		<string lang="jp">蘇生</string>
+		<string lang="ru">Воскрешение</string>
+		<string lang="es">Resucitar</string>
+		<string lang="kr">부활</string>
+		<string lang="pt-br">Ressuscitar</string>
+</set>
+<set id="ui-screenselection-module">
+		<string lang="de">module</string>
+		<string lang="en">modules</string>
+		<string lang="fr">modules</string>
+		<string lang="zh">模块</string>
+		<string lang="jp">モジュール</string>
+		<string lang="ru">модуль</string>
+		<string lang="es">modulos</string>
+		<string lang="kr">모듈</string>
+		<string lang="pt-br">modulos</string>
+</set>
+<set id="ui-screenselection-story">
+		<string lang="de">level</string>
+		<string lang="en">stage</string>
+		<string lang="fr">niveau</string>
+		<string lang="zh">关卡</string>
+		<string lang="jp">ステージ</string>
+		<string lang="ru">уровень</string>
+		<string lang="es">nivel</string>
+		<string lang="kr">스테이지</string>
+		<string lang="pt-br">estagio</string>
+</set>
+<set id="ui-settings">
+		<string lang="de">Einstellungen</string>
+		<string lang="en">Settings</string>
+		<string lang="fr">Paramètres</string>
+		<string lang="zh">设置</string>
+		<string lang="jp">設定</string>
+		<string lang="ru">Настройки</string>
+		<string lang="es">Ajustes</string>
+		<string lang="kr">설정</string>
+		<string lang="pt-br">Configurações</string>
+</set>
+<set id="ui-settings-abandonrun">
+		<string lang="de">Run$br$Abbrechen</string>
+		<string lang="en">Abandon$br$Run</string>
+		<string lang="fr">Abandonner$br$le Run</string>
+		<string lang="zh">放弃本局</string>
+		<string lang="jp">Runを中止</string>
+		<string lang="ru">Покинуть прохождение</string>
+		<string lang="es">Abandonar la partida</string>
+		<string lang="kr">Run 포기</string>
+		<string lang="pt-br">Abandonar o run</string>
+</set>
+<set id="ui-settings-ambience">
+		<string lang="de">Umgebung</string>
+		<string lang="en">Ambience</string>
+		<string lang="fr">Ambiance</string>
+		<string lang="zh">环境音</string>
+		<string lang="jp">環境音</string>
+		<string lang="ru">Окружение</string>
+		<string lang="es">Ambiente</string>
+		<string lang="kr">환경음</string>
+		<string lang="pt-br">Ambiente</string>
+</set>
+<set id="ui-settings-autofiremodules">
+		<string lang="de">Automatisches Feuern auf ein Einzelziel</string>
+		<string lang="en">Automatic firing on single target</string>
+		<string lang="fr">Sélection automatique de seule cible</string>
+		<string lang="zh">自动选择唯一目标</string>
+		<string lang="jp">モジュールの自動ターゲット選択</string>
+		<string lang="ru">Автоматическая стрельба по одной цели</string>
+		<string lang="es">Disparo automático a un solo objetivo</string>
+		<string lang="kr">단일 대상에 대한 자동 발사</string>
+		<string lang="pt-br">Disparo automático em alvo único</string>
+</set>
+<set id="ui-settings-autotooltip">
+		<string lang="de">Tooltips automatisch anzeigen, wenn mit Controller gespielt wird</string>
+		<string lang="en">Automatically show tooltips when playing with controller</string>
+		<string lang="fr">Afficher automatiquement les info-bulles lors de la lecture avec le contrôleur</string>
+		<string lang="zh">使用控制器播放时自动显示工具提示</string>
+		<string lang="jp">コントローラーでプレイするときにツールチップを自動的に表示する</string>
+		<string lang="ru">Автоматически показывать подсказки при игре с контроллером</string>
+		<string lang="es">Mostrar automáticamente información sobre herramientas al jugar con el controlador</string>
+		<string lang="kr">컨트롤러로 재생할 때 자동으로 툴팁 표시</string>
+		<string lang="pt-br">Mostrar automaticamente dicas de ferramentas ao jogar com o controlador</string>
+</set>
+<set id="ui-settings-bigbrainmode">
+		<string lang="de">Big Brain Mode</string>
+		<string lang="en">Big Brain Mode</string>
+		<string lang="fr">Mode Big Brain</string>
+		<string lang="zh">大脑模式</string>
+		<string lang="jp">ビッグブレインモード</string>
+		<string lang="ru">Режим Большого Мозга</string>
+		<string lang="es">Modo Big Brain</string>
+		<string lang="kr">빅 브레인 모드</string>
+		<string lang="pt-br">Modo Big Brain</string>
+</set>
+<set id="ui-settings-bigbrainmode-description">
+		<string lang="de">Sensormodule verlieren Energie nicht am Ende des Kampfes sondern am Ende$br$des Zuges.</string>
+		<string lang="en">Sensor modules lose energy not at the end of combat but at the end of the$br$turn.</string>
+		<string lang="fr">Les modules de capteurs ne perdent pas d'énergie à la fin du combat mais à$br$la fin du tour.</string>
+		<string lang="zh">传感器模块不会在战斗结束时失去能量，而是在回合结束时失去能量。</string>
+		<string lang="jp">センサーモジュールは戦闘の終わりではなくターンの終わりにエネルギーを失います。</string>
+		<string lang="ru">Сенсорные модули теряют энергию не в конце боя, а в конце хода.</string>
+		<string lang="es">Los módulos de sensor pierden energía no al final de la pelea sino al$br$final del turno.</string>
+		<string lang="kr">센서 모듈은 전투가 끝나는 것이 아니라 턴이 끝날 때 에너지를 잃습니다.</string>
+		<string lang="pt-br">Os módulos de sensor perdem energia não no final da luta, mas no final$br$do turno.</string>
+</set>
+<set id="ui-settings-cleardata">
+		<string lang="de">Alle Daten löschen</string>
+		<string lang="en">Clear all data</string>
+		<string lang="fr">Effacer toutes les données</string>
+		<string lang="zh">清除所有数据</string>
+		<string lang="jp">すべてのデータを削除</string>
+		<string lang="ru">Очистить все данные</string>
+		<string lang="es">Borrar todos los datos</string>
+		<string lang="kr">모든 데이터 지우기</string>
+		<string lang="pt-br">Limpar todos os dados</string>
+</set>
+<set id="ui-settings-cleardata-description">
+		<string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig. Achtung: Die Daten können nicht wiederhergestellt werden.</string>
+		<string lang="en">Permanently removes savegame, progression and preferences. Careful: Data cannot be retrieved.</string>
+		<string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences. Attention: les données ne peuvent pas être récupérées.</string>
+		<string lang="zh">永久清除存档、进度和设置。警告：删除后无法恢复。</string>
+		<string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。注意：データは復元できません。</string>
+		<string lang="ru">Окончательно удаляет сохранение, прогресс и предпочтения. Осторожно: данные не могут быть восстановлены.</string>
+		<string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias. Cuidado: los datos no se pueden recuperar.</string>
+		<string lang="kr">저장된 게임, 진행 상황 및 기본 설정을 영구적으로 제거합니다. 주의: 데이터를 검색할 수 없습니다.</string>
+		<string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências. Cuidado: os dados não podem ser recuperados.</string>
+</set>
+<set id="ui-settings-colorblindmode">
+		<string lang="de">Farbenblinder Modus</string>
+		<string lang="en">Color Blind Mode</string>
+		<string lang="fr">Mode daltonien</string>
+		<string lang="zh">色盲模式</string>
+		<string lang="jp">色覚異常モード</string>
+		<string lang="ru">Режим для цветовых слепых</string>
+		<string lang="es">Modo daltonismo</string>
+		<string lang="kr">색맹 모드</string>
+		<string lang="pt-br">Modo daltonismo</string>
+</set>
+<set id="ui-settings-datacollection">
+		<string lang="de">Statistiken Bereitstellen</string>
+		<string lang="en">Provide Statistics</string>
+		<string lang="fr">Fournir Statistiques</string>
+		<string lang="zh">提供统计数据</string>
+		<string lang="jp">統計データを提供</string>
+		<string lang="ru">Предоставить статистику</string>
+		<string lang="es">Proporcionar estadísticas</string>
+		<string lang="kr">통계 제공</string>
+		<string lang="pt-br">Fornecer estatísticas</string>
+</set>
+<set id="ui-settings-datacollection-description">
+		<string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs$br$bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit$br$zu informieren.</string>
+		<string lang="en">Support development by transmitting anonymous run statistics. This data$br$will only be used to inform questions of game balancing and difficulty.</string>
+		<string lang="fr">Envoi de statistiques anonymes de la partie pour aider au développement.$br$Cettes données seront uniquement utilisées pour aider à l'équilibrage et la difficulté$br$du jeu.</string>
+		<string lang="zh">通过发送匿名的游戏数据来支持开发。你的数据只会用于平衡和难度的调整。</string>
+		<string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
+		<string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти$br$данные будут использоваться только для информирования вопросов балансировки игры и$br$сложности.</string>
+		<string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida.$br$Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad$br$del juego.</string>
+		<string lang="kr">익명의 게임 통계를 전송하여 개발을 지원하십시오. 이 데이터는 게임 균형과 난이도에 대한 질문에 대한 정보를 제공하는 데만$br$사용됩니다.</string>
+		<string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run.$br$Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do$br$jogo.</string>
+</set>
+<set id="ui-settings-effects">
+		<string lang="de">SFX</string>
+		<string lang="en">SFX</string>
+		<string lang="fr">SFX</string>
+		<string lang="zh">音效</string>
+		<string lang="jp">SFX</string>
+		<string lang="ru">SFX</string>
+		<string lang="es">SFX</string>
+		<string lang="kr">SFX</string>
+		<string lang="pt-br">SFX</string>
+</set>
+<set id="ui-settings-fullscreen">
+		<string lang="de">Vollbild</string>
+		<string lang="en">Full Screen</string>
+		<string lang="fr">Plein écran</string>
+		<string lang="zh">全屏</string>
+		<string lang="jp">フルスクリーン</string>
+		<string lang="ru">Полный экран</string>
+		<string lang="es">Pantalla completa</string>
+		<string lang="kr">전체 화면</string>
+		<string lang="pt-br">Tela cheia</string>
+</set>
+<set id="ui-settings-gamespeed">
+		<string lang="de">Geschwindigkeit</string>
+		<string lang="en">Game Speed</string>
+		<string lang="fr">Vitesse du jeu</string>
+		<string lang="zh">游戏速度</string>
+		<string lang="jp">ゲーム速度</string>
+		<string lang="ru">Скорость игры</string>
+		<string lang="es">Velocidad del juego</string>
+		<string lang="kr">게임 속도</string>
+		<string lang="pt-br">Velocidade do jogo</string>
+</set>
+<set id="ui-settings-music">
+		<string lang="de">Musik</string>
+		<string lang="en">Music</string>
+		<string lang="fr">Musique</string>
+		<string lang="zh">音乐</string>
+		<string lang="jp">音楽</string>
+		<string lang="ru">Музыка</string>
+		<string lang="es">Música</string>
+		<string lang="kr">음악</string>
+		<string lang="pt-br">Música</string>
+</set>
+<set id="ui-settings-saveandexit">
+		<string lang="de">Speichern &amp; Run Beenden</string>
+		<string lang="en">Save &amp; Exit Run </string>
+		<string lang="fr">Sauvegarder &amp; Quitter le Run</string>
+		<string lang="zh">保存并退出</string>
+		<string lang="jp">保存してRunを終了</string>
+		<string lang="ru">Сохранить и выйти из прохождения</string>
+		<string lang="es">Guardar y salir de la partida</string>
+		<string lang="kr">저장하고 Run 종료</string>
+		<string lang="pt-br">Salvar e sair do run</string>
+</set>
+<set id="ui-settings-twitch">
+		<string lang="de">Twitch-Integration Aktivieren</string>
+		<string lang="en">Enable Twitch Integration</string>
+		<string lang="fr">Activer l'intégration Twitch</string>
+		<string lang="zh">启用Twitch集成</string>
+		<string lang="jp">Twitch統合を有効にする</string>
+		<string lang="ru">Включить интеграцию Twitch</string>
+		<string lang="es">Habilitar integración de Twitch</string>
+		<string lang="kr">Twitch 통합 활성화</string>
+		<string lang="pt-br">Ativar integração do Twitch</string>
+</set>
+<set id="ui-settings-twitch-channel">
+		<string lang="de">Channel-Name</string>
+		<string lang="en">Channel Name</string>
+		<string lang="fr">Nom de la chaîne</string>
+		<string lang="zh">频道名称</string>
+		<string lang="jp">チャンネル名</string>
+		<string lang="ru">Имя канала</string>
+		<string lang="es">Nombre del canal</string>
+		<string lang="kr">채널 이름</string>
+		<string lang="pt-br">Nome do canal</string>
+</set>
+<set id="ui-settings-twitch-channel-prompt">
+		<string lang="de">Channel-Name eingeben</string>
+		<string lang="en">Enter Channel Name ...</string>
+		<string lang="fr">Entrez nom de la chaîne ...</string>
+		<string lang="zh">输入频道名称...</string>
+		<string lang="jp">チャンネル名を入力してください</string>
+		<string lang="ru">Введите имя канала ...</string>
+		<string lang="es">Ingrese el nombre del canal ...</string>
+		<string lang="kr">채널 이름을 입력하십시오 ...</string>
+		<string lang="pt-br">Digite o nome do canal ...</string>
+</set>
+<set id="ui-settings-twitch-token">
+		<string lang="de">Channel-Token</string>
+		<string lang="en">Channel Token</string>
+		<string lang="fr">Token de chaîne</string>
+		<string lang="zh">频道令牌</string>
+		<string lang="jp">チャンネルトークン</string>
+		<string lang="ru">Токен канала</string>
+		<string lang="es">Token de canal</string>
+		<string lang="kr">채널 토큰</string>
+		<string lang="pt-br">Token do canal</string>
+</set>
+<set id="ui-settings-twitch-token-prompt">
+		<string lang="de">OAuth-Token eingeben</string>
+		<string lang="en">Enter OAuth Token...</string>
+		<string lang="fr">Entrez le jeton OAuth ...</string>
+		<string lang="zh">输入OAuth令牌...</string>
+		<string lang="jp">OAuthトークンを入力してください</string>
+		<string lang="ru">Введите токен OAuth ...</string>
+		<string lang="es">Ingrese el token OAuth ...</string>
+		<string lang="kr">OAuth 토큰을 입력하십시오 ...</string>
+		<string lang="pt-br">Digite o token OAuth ...</string>
+</set>
+<set id="ui-skill">
+		<string lang="de">Fähigkeit</string>
+		<string lang="en">Skill</string>
+		<string lang="fr">Compétence</string>
+		<string lang="zh">技能</string>
+		<string lang="jp">スキル</string>
+		<string lang="ru">Навык</string>
+		<string lang="es">Habilidad</string>
+		<string lang="kr">스킬</string>
+		<string lang="pt-br">Habilidade</string>
+</set>
+<set id="ui-skip">
+		<string lang="de">Überspringen</string>
+		<string lang="en">Skip</string>
+		<string lang="fr">Passer</string>
+		<string lang="zh">跳过</string>
+		<string lang="jp">スキップ</string>
+		<string lang="ru">Пропустить</string>
+		<string lang="es">Saltar</string>
+		<string lang="kr">건너뛰기</string>
+		<string lang="pt-br">Pular</string>
+</set>
+<set id="ui-startnewrun">
+		<string lang="de">Neuen Run$br$Beginnen</string>
+		<string lang="en">Play$br$Another Run</string>
+		<string lang="fr">Commencer$br$Nouvelle Partie</string>
+		<string lang="zh">开始新的游戏</string>
+		<string lang="jp">新しいゲームを開始する</string>
+		<string lang="ru">Начать$br$новую игру</string>
+		<string lang="es">Jugar otra$br$partida</string>
+		<string lang="kr">새로운 런 시작하기</string>
+		<string lang="pt-br">Jogar outra$br$partida</string>
+</set>
+<set id="ui-timeline">
+		<string lang="de">Zeitleiste</string>
+		<string lang="en">Timeline</string>
+		<string lang="fr">Axe de Temps</string>
+		<string lang="zh">时间轴</string>
+		<string lang="jp">タイムライン</string>
+		<string lang="ru">Шкала времени</string>
+		<string lang="es">Línea de tiempo</string>
+		<string lang="kr">타임라인</string>
+		<string lang="pt-br">Linha do tempo</string>
+</set>
+<set id="ui-timeline-order-0">
+		<string lang="de">0.</string>
+		<string lang="en">0&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">0&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第零</string>
+		<string lang="jp">0番目</string>
+		<string lang="ru">0-й</string>
+		<string lang="es">0º</string>
+		<string lang="kr">0번째</string>
+		<string lang="pt-br">0º</string>
+</set>
+<set id="ui-timeline-order-1">
+		<string lang="de">1.</string>
+		<string lang="en">1&lt;voffset=0.5em&gt;&lt;size=5&gt;st&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">1&lt;voffset=0.5em&gt;&lt;size=5&gt;er&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第一</string>
+		<string lang="jp">1位</string>
+		<string lang="ru">1-й</string>
+		<string lang="es">1º</string>
+		<string lang="kr">1번째</string>
+		<string lang="pt-br">1º</string>
+</set>
+<set id="ui-timeline-order-2">
+		<string lang="de">2.</string>
+		<string lang="en">2&lt;voffset=0.5em&gt;&lt;size=5&gt;nd&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">2&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第二</string>
+		<string lang="jp">2位</string>
+		<string lang="ru">2-й</string>
+		<string lang="es">2º</string>
+		<string lang="kr">2번째</string>
+		<string lang="pt-br">2º</string>
+</set>
+<set id="ui-timeline-order-3">
+		<string lang="de">3.</string>
+		<string lang="en">3&lt;voffset=0.5em&gt;&lt;size=5&gt;rd&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">3&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第三</string>
+		<string lang="jp">3位</string>
+		<string lang="ru">3-й</string>
+		<string lang="es">3º</string>
+		<string lang="kr">3번째</string>
+		<string lang="pt-br">3º</string>
+</set>
+<set id="ui-timeline-order-4">
+		<string lang="de">4.</string>
+		<string lang="en">4&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">4&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第四</string>
+		<string lang="jp">4位</string>
+		<string lang="ru">4-й</string>
+		<string lang="es">4º</string>
+		<string lang="kr">4번째</string>
+		<string lang="pt-br">4º</string>
+</set>
+<set id="ui-timeline-order-5">
+		<string lang="de">5.</string>
+		<string lang="en">5&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">5&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第五</string>
+		<string lang="jp">5位</string>
+		<string lang="ru">5-й</string>
+		<string lang="es">5º</string>
+		<string lang="kr">5번째</string>
+		<string lang="pt-br">5º</string>
+</set>
+<set id="ui-timeline-order-6">
+		<string lang="de">6.</string>
+		<string lang="en">6&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">6&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第六</string>
+		<string lang="jp">6位</string>
+		<string lang="ru">6-й</string>
+		<string lang="es">6º</string>
+		<string lang="kr">6번째</string>
+		<string lang="pt-br">6º</string>
+</set>
+<set id="ui-timeline-order-7">
+		<string lang="de">7.</string>
+		<string lang="en">7&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">7&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第七</string>
+		<string lang="jp">7位</string>
+		<string lang="ru">7-й</string>
+		<string lang="es">7º</string>
+		<string lang="kr">7번째</string>
+		<string lang="pt-br">7º</string>
+</set>
+<set id="ui-timeline-order-8">
+		<string lang="de">8.</string>
+		<string lang="en">8&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">8&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第八</string>
+		<string lang="jp">8位</string>
+		<string lang="ru">8-й</string>
+		<string lang="es">8º</string>
+		<string lang="kr">8번째</string>
+		<string lang="pt-br">8º</string>
+</set>
+<set id="ui-timeline-order-9">
+		<string lang="de">9.</string>
+		<string lang="en">9&lt;voffset=0.5em&gt;&lt;size=5&gt;th&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="fr">9&lt;voffset=0.5em&gt;&lt;size=5&gt;ème&lt;/size&gt;&lt;/voffset&gt;</string>
+		<string lang="zh">第九</string>
+		<string lang="jp">9位</string>
+		<string lang="ru">9-й</string>
+		<string lang="es">9º</string>
+		<string lang="kr">9번째</string>
+		<string lang="pt-br">9º</string>
+</set>
+<set id="ui-tutorial">
+		<string lang="de">Tutorial</string>
+		<string lang="en">Tutorial</string>
+		<string lang="fr">Tutoriel</string>
+		<string lang="zh">教程</string>
+		<string lang="jp">チュートリアル</string>
+		<string lang="ru">Обучение</string>
+		<string lang="es">Tutorial</string>
+		<string lang="kr">튜토리얼</string>
+		<string lang="pt-br">Tutorial</string>
+</set>
+<set id="ui-unconscious">
+		<string lang="de">Bewusstlos</string>
+		<string lang="en">Unconscious</string>
+		<string lang="fr">Inconscient</string>
+		<string lang="zh">昏迷</string>
+		<string lang="jp">意識不明</string>
+		<string lang="ru">Без сознания</string>
+		<string lang="es">Inconsciente</string>
+		<string lang="kr">의식불명</string>
+		<string lang="pt-br">Inconsciente</string>
+</set>
+<set id="ui-universal">
+		<string lang="de">&lt;color=#FFFFFF&gt;Universell&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FFFFFF&gt;Universel&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FFFFFF&gt;通用&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FFFFFF&gt;全ての&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#FFFFFF&gt;Универсальный&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FFFFFF&gt;유니버셜&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#FFFFFF&gt;Universal&lt;/color&gt;</string>
+</set>
+<set id="ui-unlock-character">
+		<string lang="de">Charakter Freischalten:</string>
+		<string lang="en">Character Unlock:</string>
+		<string lang="fr">Débloquer Personnage:</string>
+		<string lang="zh">解锁角色：</string>
+		<string lang="jp">キャラクターの解除:</string>
+		<string lang="ru">Разблокировать персонажа:</string>
+		<string lang="es">Desbloquear Personaje:</string>
+		<string lang="kr">캐릭터 잠금 해제:</string>
+		<string lang="pt-br">Desbloquear Personagem:</string>
+</set>
+<set id="ui-unlocked-modules">
+		<string lang="de">Freigeschaltete Module:</string>
+		<string lang="en">Unlocked Modules:</string>
+		<string lang="fr">Modules Débloqués:</string>
+		<string lang="zh">解锁的模块：</string>
+		<string lang="jp">解除されたモジュール:</string>
+		<string lang="ru">Разблокированные модули:</string>
+		<string lang="es">Módulos Desbloqueados:</string>
+		<string lang="kr">잠금 해제 된 모듈:</string>
+		<string lang="pt-br">Módulos Desbloqueados:</string>
+</set>
+<set id="ui-unlockednewmodules">
+		<string lang="de">FREIGESCHALTETE MODULE</string>
+		<string lang="en">UNLOCKED NEW MODULES</string>
+		<string lang="fr">MODULES DÉBLOQUÉS</string>
+		<string lang="zh">解锁新模块</string>
+		<string lang="jp">新しいモジュールを解除しました</string>
+		<string lang="ru">РАЗБЛОКИРОВАННЫЕ МОДУЛИ</string>
+		<string lang="es">MÓDULOS DESBLOQUEADOS</string>
+		<string lang="kr">새로운 모듈 잠금 해제</string>
+		<string lang="pt-br">MÓDULOS DESBLOQUEADOS</string>
+</set>
+<set id="ui-unlockprogression">
+		<string lang="de">Fortschritt</string>
+		<string lang="en">Unlock Progression</string>
+		<string lang="fr">Progression</string>
+		<string lang="zh">解锁进度</string>
+		<string lang="jp">進捗状況</string>
+		<string lang="ru">Прогресс</string>
+		<string lang="es">Progresión</string>
+		<string lang="kr">진행 상황</string>
+		<string lang="pt-br">Progressão</string>
+</set>
+<set id="ui-viral">
+		<string lang="de">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF00FF&gt;病毒&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF00FF&gt;ウイルス&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#FF00FF&gt;Вирусный&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF00FF&gt;바이러스&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
+</set>
+<set id="undefined">
+		<string lang="de">Lokalisationsfehler</string>
+		<string lang="en">Localization Error</string>
+		<string lang="fr">Erreur de localisation</string>
+		<string lang="zh">本地化错误</string>
+		<string lang="jp">ローカライズエラー</string>
+		<string lang="ru">Ошибка локализации</string>
+		<string lang="es">Error de localización</string>
+		<string lang="kr">로컬라이제이션 오류</string>
+		<string lang="pt-br">Erro de localização</string>
+</set>
+<set id="unique">
+		<string lang="de">Einzigartig</string>
+		<string lang="en">Unique</string>
+		<string lang="fr">Unique</string>
+		<string lang="zh">唯一</string>
+		<string lang="jp">個性的</string>
+		<string lang="ru">Уникальный</string>
+		<string lang="es">Único</string>
+		<string lang="kr">유일한</string>
+		<string lang="pt-br">Único</string>
+</set>
+<set id="unlockscreen-newlyunlockedmodules">
+		<string lang="de">Neu freigeschaltete Module</string>
+		<string lang="en">Newly unlocked modules</string>
+		<string lang="fr">Modules nouvellement débloqués</string>
+		<string lang="zh">新解锁的模块</string>
+		<string lang="jp">新しく解除されたモジュール</string>
+		<string lang="ru">Новые разблокированные модули</string>
+		<string lang="es">Módulos recién desbloqueados</string>
+		<string lang="kr">새로 잠금 해제 된 모듈</string>
+		<string lang="pt-br">Módulos recém-desbloqueados</string>
+</set>
+<set id="unlockscreen-title">
+		<string lang="de">Fortschritt</string>
+		<string lang="en">Unlock Progression</string>
+		<string lang="fr">Progression</string>
+		<string lang="zh">解锁进度</string>
+		<string lang="jp">進捗状況</string>
+		<string lang="ru">Прогресс</string>
+		<string lang="es">Progresión</string>
+		<string lang="kr">진행 상황</string>
+		<string lang="pt-br">Progressão</string>
+</set>
 </localization>

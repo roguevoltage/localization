@@ -1,479 +1,492 @@
 <localization>
-    <set id="module-type-source">
-        <string lang="de">Energiequelle</string>
-        <string lang="en">Energy Source</string>
-        <string lang="fr">Source d'Énergie</string>
-        <string lang="zh">能源模块</string>
-        <string lang="jp">エネルギー源</string>
-        <string lang="ru">Источник Энергии</string>
-        <string lang="es">Fuente de Energía</string>
-        <string lang="kr">에너지 소스</string>
-        <string lang="pt-br">Fonte de Energia</string>
-    </set>
-    <set id="module-type-passthrough">
-        <string lang="de">Durchsatzmodul</string>
-        <string lang="en">Passthrough Module</string>
-        <string lang="fr">Module de Relais</string>
-        <string lang="zh">中继模块</string>
-        <string lang="jp">スループットモジュール</string>
-        <string lang="ru">Пропускной Модуль</string>
-        <string lang="es">Módulo de Traspaso</string>
-        <string lang="kr">처리량 모듈</string>
-        <string lang="pt-br">Módulo de Atravessar</string>
-    </set>
-    <set id="module-type-output">
-        <string lang="de">Effektormodul</string>
-        <string lang="en">Effector Module</string>
-        <string lang="fr">Module d'Effet</string>
-        <string lang="zh">效果模块</string>
-        <string lang="jp">エフェクターモジュール</string>
-        <string lang="ru">Эффектор Модуль</string>
-        <string lang="es">Módulo de Efecto</string>
-        <string lang="kr">효과 모듈</string>
-        <string lang="pt-br">Módulo de Efeito</string>
-    </set>
-    <set id="module-type-storage">
-        <string lang="de">Speichermodul</string>
-        <string lang="en">Storage Module</string>
-        <string lang="fr">Module de Stockage</string>
-        <string lang="zh">充能模块</string>
-        <string lang="jp">ストレージモジュール</string>
-        <string lang="ru">Модуль Хранения</string>
-        <string lang="es">Módulo de Almacenamiento</string>
-        <string lang="kr">저장 모듈</string>
-        <string lang="pt-br">Módulo de Armazenamento</string>
-    </set>
-    <set id="module-type-passive">
-        <string lang="de">Passivmodul</string>
-        <string lang="en">Passive Module</string>
-        <string lang="fr">Module Passif</string>
-        <string lang="zh">被动模块</string>
-        <string lang="jp">パッシブモジュール</string>
-        <string lang="ru">Пассивный Модуль</string>
-        <string lang="es">Módulo Pasivo</string>
-        <string lang="kr">수동 모듈</string>
-        <string lang="pt-br">Módulo Passivo</string>
-    </set>
-    <set id="module-type-vault">
-        <string lang="de">Depot</string>
-        <string lang="en">Vault</string>
-        <string lang="fr">Dépôt</string>
-        <string lang="zh">保险库</string>
-        <string lang="jp">ボールト</string>
-        <string lang="ru">Хранилище</string>
-        <string lang="es">Bóveda</string>
-        <string lang="kr">금고</string>
-        <string lang="pt-br">Cofre</string>
-    </set>
-    <set id="module-type-toggled">
-        <string lang="de">Schalter</string>
-        <string lang="en">Toggled</string>
-        <string lang="fr">Interrupteur</string>
-        <string lang="zh">开关</string>
-        <string lang="jp">スイッチ</string>
-        <string lang="ru">Выключатель</string>
-        <string lang="es">Interruptor</string>
-        <string lang="kr">스위치</string>
-        <string lang="pt-br">Interruptor</string>
-    </set>
-    <set id="module-type-grenade">
-        <string lang="de">Granate</string>
-        <string lang="en">Grenade</string>
-        <string lang="fr">Grenade</string>
-        <string lang="zh">手榴弹</string>
-        <string lang="jp">手榴弾</string>
-        <string lang="ru">Граната</string>
-        <string lang="es">Granada</string>
-        <string lang="kr">수류탄</string>
-        <string lang="pt-br">Granada</string>
-    </set>
-    <set id="module-type-kit">
-        <string lang="de">Kit</string>
-        <string lang="en">Kit</string>
-        <string lang="fr">Kit</string>
-        <string lang="zh">工具包</string>
-        <string lang="jp">キット</string>
-        <string lang="ru">Комплект</string>
-        <string lang="es">Kit</string>
-        <string lang="kr">키트</string>
-        <string lang="pt-br">Kit</string>
-    </set>
-    <set id="module-type-moduleenhancer">
-        <string lang="de">Modul-Verbesserer</string>
-        <string lang="en">Module Enhancer</string>
-        <string lang="fr">Améliorateur de Module</string>
-        <string lang="zh">模块升级器</string>
-        <string lang="jp">モジュールアップグレーダー</string>
-        <string lang="ru">Модуль Улучшитель</string>
-        <string lang="es">Mejorador de Módulo</string>
-        <string lang="kr">모듈 업그레이더</string>
-        <string lang="pt-br">Melhorador de Módulo</string>
-    </set>
-    <set id="module-type-factory">
-        <string lang="de">Fabrik</string>
-        <string lang="en">Factory</string>
-        <string lang="fr">Fabrique</string>
-        <string lang="zh">工厂</string>
-        <string lang="jp">ファクトリ</string>
-        <string lang="ru">Фабрика</string>
-        <string lang="es">Fábrica</string>
-        <string lang="kr">공장</string>
-        <string lang="pt-br">Fábrica</string>
-    </set>
-    <set id="module-type-threat">
-        <string lang="de">Bedrohung</string>
-        <string lang="en">Threat</string>
-        <string lang="fr">Menace</string>
-        <string lang="zh">威胁</string>
-        <string lang="jp">脅威</string>
-        <string lang="ru">Угроза</string>
-        <string lang="es">Amenaza</string>
-        <string lang="kr">위협</string>
-        <string lang="pt-br">Ameaça</string>
-    </set>
-    <set id="module-type-generator">
-        <string lang="de">Generator</string>
-        <string lang="en">Generator</string>
-        <string lang="fr">Generateur</string>
-        <string lang="zh">发电机</string>
-        <string lang="jp">ジェネレーター</string>
-        <string lang="ru">Генератор</string>
-        <string lang="es">Generador</string>
-        <string lang="kr">발전기</string>
-        <string lang="pt-br">Gerador</string>
-    </set>
-    <set id="module-type-sensor">
-        <string lang="de">Sensor</string>
-        <string lang="en">Sensor</string>
-        <string lang="fr">Capteur</string>
-        <string lang="zh">感应器</string>
-        <string lang="jp">センサー</string>
-        <string lang="ru">Датчик</string>
-        <string lang="es">Sensor</string>
-        <string lang="kr">센서</string>
-        <string lang="pt-br">Sensor</string>
-    </set>
-    <set id="module-type-magnet">
-        <string lang="de">Magnet</string>
-        <string lang="en">Magnet</string>
-        <string lang="fr">Aimant</string>
-        <string lang="zh">磁力</string>
-        <string lang="jp">磁気</string>
-        <string lang="ru">Магнит</string>
-        <string lang="es">Imán</string>
-        <string lang="kr">자석</string>
-        <string lang="pt-br">Imã</string>
-    </set>
-    <set id="module-level-0">
-        <string lang="de">Level 0</string>
-        <string lang="en">Level 0</string>
-        <string lang="fr">Niveau 0</string>
-        <string lang="zh">等级 0</string>
-        <string lang="jp">レベル 0</string>
-        <string lang="ru">Уровень 0</string>
-        <string lang="es">Nivel 0</string>
-        <string lang="kr">레벨 0</string>
-        <string lang="pt-br">Nível 0</string>
-    </set>
-    <set id="module-level-1">
-        <string lang="de">Level 1</string>
-        <string lang="en">Level 1</string>
-        <string lang="fr">Niveau 1</string>
-        <string lang="zh">等级 1</string>
-        <string lang="jp">レベル 1</string>
-        <string lang="ru">Уровень 1</string>
-        <string lang="es">Nivel 1</string>
-        <string lang="kr">레벨 1</string>
-        <string lang="pt-br">Nível 1</string>
-    </set>
-    <set id="module-level-2">
-        <string lang="de">Level 2</string>
-        <string lang="en">Level 2</string>
-        <string lang="fr">Niveau 2</string>
-        <string lang="zh">等级 2</string>
-        <string lang="jp">レベル 2</string>
-        <string lang="ru">Уровень 2</string>
-        <string lang="es">Nivel 2</string>
-        <string lang="kr">레벨 2</string>
-        <string lang="pt-br">Nível 2</string>
-    </set>
-    <set id="module-level-3">
-        <string lang="de">Level 3</string>
-        <string lang="en">Level 3</string>
-        <string lang="fr">Niveau 3</string>
-        <string lang="zh">等级 3</string>
-        <string lang="jp">レベル 3</string>
-        <string lang="ru">Уровень 3</string>
-        <string lang="es">Nivel 3</string>
-        <string lang="kr">레벨 3</string>
-        <string lang="pt-br">Nível 3</string>
-    </set>
-    <set id="module-level-4">
-        <string lang="de">Level 4</string>
-        <string lang="en">Level 4</string>
-        <string lang="fr">Niveau 4</string>
-        <string lang="zh">等级 4</string>
-        <string lang="jp">レベル 4</string>
-        <string lang="ru">Уровень 4</string>
-        <string lang="es">Nivel 4</string>
-        <string lang="kr">레벨 4</string>
-        <string lang="pt-br">Nível 4</string>
-    </set>
-    <set id="module-level-5">
-        <string lang="de">Level 5</string>
-        <string lang="en">Level 5</string>
-        <string lang="fr">Niveau 5</string>
-        <string lang="zh">等级 5</string>
-        <string lang="jp">レベル 5</string>
-        <string lang="ru">Уровень 5</string>
-        <string lang="es">Nivel 5</string>
-        <string lang="kr">레벨 5</string>
-        <string lang="pt-br">Nível 5</string>
-    </set>
-    <set id="module-level-6">
-        <string lang="de">Level 6</string>
-        <string lang="en">Level 6</string>
-        <string lang="fr">Niveau 6</string>
-        <string lang="zh">等级 6</string>
-        <string lang="jp">レベル 6</string>
-        <string lang="ru">Уровень 6</string>
-        <string lang="es">Nivel 6</string>
-        <string lang="kr">레벨 6</string>
-        <string lang="pt-br">Nível 6</string>
-    </set>
-    <set id="module-level-7">
-        <string lang="de">Level 6</string>
-        <string lang="en">Level 6</string>
-        <string lang="fr">Niveau 6</string>
-        <string lang="zh">等级 6</string>
-        <string lang="jp">レベル 6</string>
-        <string lang="ru">Уровень 6</string>
-        <string lang="es">Nivel 6</string>
-        <string lang="kr">레벨 6</string>
-        <string lang="pt-br">Nível 6</string>
-    </set>
-    <set id="module-rarity-common">
-        <string lang="de">Gewöhnlich</string>
-        <string lang="en">Common</string>
-        <string lang="fr">Commun</string>
-        <string lang="zh">普通</string>
-        <string lang="jp">一般</string>
-        <string lang="ru">Обычный</string>
-        <string lang="es">Común</string>
-        <string lang="kr">공통</string>
-        <string lang="pt-br">Comum</string>
-    </set>
-    <set id="module-rarity-uncommon">
-        <string lang="de">Ungewöhnlich</string>
-        <string lang="en">Uncommon</string>
-        <string lang="fr">Peu Commun</string>
-        <string lang="zh">不常见</string>
-        <string lang="jp">まれ</string>
-        <string lang="ru">Необычный</string>
-        <string lang="es">Poco Común</string>
-        <string lang="kr">드문</string>
-        <string lang="pt-br">Incomum</string>
-    </set>
-    <set id="module-rarity-rare">
-        <string lang="de">Selten</string>
-        <string lang="en">Rare</string>
-        <string lang="fr">Rare</string>
-        <string lang="zh">稀有</string>
-        <string lang="jp">レア</string>
-        <string lang="ru">Редкий</string>
-        <string lang="es">Raro</string>
-        <string lang="kr">희귀</string>
-        <string lang="pt-br">Raro</string>
-    </set>
-    <set id="module-rarity-unique">
-        <string lang="de">Einzigartig</string>
-        <string lang="en">Unique</string>
-        <string lang="fr">Unique</string>
-        <string lang="zh">独特</string>
-        <string lang="jp">ユニーク</string>
-        <string lang="ru">Уникальный</string>
-        <string lang="es">Único</string>
-        <string lang="kr">독특한</string>
-        <string lang="pt-br">Único</string>
-    </set>
-    <set id="exchangeable">
-        <string lang="de">Wird bei Aktivierung nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
-        <string lang="en">Will not become locked after activation and can be freely exchanged between characters</string>
-        <string lang="fr">Ne sera pas verrouillé après activation et peut être échangé librement entre les personnages</string>
-        <string lang="zh">激活后不会被锁定，可以在角色之间自由交换</string>
-        <string lang="jp">アクティベート後にロックされず、キャラクター間で自由に交換できます</string>
-        <string lang="ru">Не будет заблокирован после активации и может быть свободно обменян между персонажами</string>
-        <string lang="es">No se bloqueará después de la activación y se puede intercambiar libremente entre los personajes</string>
-        <string lang="kr">활성화 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
-        <string lang="pt-br">Não será bloqueado após a ativação e pode ser trocado livremente entre os personagens</string>
-    </set>
-    <set id="exchangeable-charge">
-        <string lang="de">Wird beim Aufladen nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
-        <string lang="en">Will not become locked after charging and can be freely exchanged between characters</string>
-        <string lang="fr">Ne sera pas verrouillé après chargement et peut être échangé librement entre les personnages</string>
-        <string lang="zh">充能后不会被锁定，可以在角色之间自由交换</string>
-        <string lang="jp">チャージ後にロックされず、キャラクター間で自由に交換できます</string>
-        <string lang="ru">Не будет заблокирован после зарядки и может быть свободно обменян между персонажами</string>
-        <string lang="es">No se bloqueará después de la carga y se puede intercambiar libremente entre los personajes</string>
-        <string lang="kr">충전 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
-        <string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
-    </set>
-    <set id="toggled-module-off">
-        <string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
-        <string lang="en">Toggle to activate during voltage sequence</string>
-        <string lang="fr">Sera utilisé pendant la séquence de tir,$br$si activé</string>
-        <string lang="zh">打开开关后会在触发序列中被激活</string>
-        <string lang="jp">オンに設定されている場合、$br$発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы,$br$если включен</string>
-        <string lang="es">Se activará durante la secuencia de disparo,$br$si está activado</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다, 활성화되어 있을 경우</string>
-        <string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
-    </set>
-        <set id="toggled-module-on">
-        <string lang="de">Wird während der Spannungssequenz aktiviert</string>
-        <string lang="en">Will be activated during voltage sequence</string>
-        <string lang="fr">Sera utilisé pendant la séquence de tir</string>
-        <string lang="zh">在触发序列中被激活</string>
-        <string lang="jp">発射シーケンス中にアクティブになります</string>
-        <string lang="ru">Будет активирован во время стрельбы</string>
-        <string lang="es">Se activará durante la secuencia de disparo</string>
-        <string lang="kr">총격 순서 중에 활성화됩니다</string>
-        <string lang="pt-br">Será ativado durante a sequência de disparo</string>
-    </set>
-    <set id="timeline-targeting-minimumdistance-3">
-        <string lang="de">Mindestabstand $b$+3$/b$</string>
-        <string lang="en">Minimum Distance $b$+3$/b$</string>
-        <string lang="fr">Distance minimale $b$+3$/b$</string>
-        <string lang="zh">最小距离 $b$+3$/b$</string>
-        <string lang="jp">最小距離 $b$+3$/b$</string>
-        <string lang="ru">Минимальное расстояние $b$+3$/b$</string>
-        <string lang="es">Distancia mínima $b$+3$/b$</string>
-        <string lang="kr">최소 거리 $b$+3$/b$</string>
-        <string lang="pt-br">Distância mínima $b$+3$/b$</string>
-    </set>
-    <set id="exhaustion-dependingonwiring">
-        <string lang="de">$b$Erschöpfung$/b$&#xA;Abhängig von aktivierten Modulen</string>
-        <string lang="en">$b$Exhaustion$/b$&#xA;Depending on activated modules</string>
-        <string lang="fr">$b$Fatigue$/b$&#xA;En fonction du câble</string>
-        <string lang="zh">$b$疲劳$/b$&#xA;连接了的发电机会导致疲劳效果</string>
-        <string lang="jp">$b$疲労$/b$&#xA;配線によって異なります</string>
-        <string lang="ru">$b$Изнурение$/b$&#xA;В зависимости от подключенных модулей</string>
-        <string lang="es">$b$Agotamiento$/b$&#xA;Dependiendo de los módulos activados</string>
-        <string lang="kr">$b$피로$/b$&#xA;활성화된 모듈에 따라 달라집니다</string>
-        <string lang="pt-br">$b$Exaustão$/b$&#xA;Dependendo dos módulos ativados</string>
-    </set>
-    <set id="exhaustion-turndelay">
-        <string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$&#xA;Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
-        <string lang="en">$b$Exhaustion $EXHAUSTION$$/b$&#xA;Activation sets back the next turn by $b$$EXHAUSTION$$/b$</string>
-        <string lang="fr">$b$Fatigue $EXHAUSTION$$/b$&#xA;Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
-        <string lang="zh">$b$疲劳 $EXHAUSTION$$/b$&#xA;使用将下一回合延迟 $b$$EXHAUSTION$$/b$</string>
-        <string lang="jp">$b$疲労 $EXHAUSTION$$/b$&#xA;使用すると次のターンが$b$$EXHAUSTION$$/b$遅れます</string>
-        <string lang="ru">$b$Изнурение $EXHAUSTION$$/b$&#xA;Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
-        <string lang="es">$b$Agotamiento $EXHAUSTION$$/b$&#xA;La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
-        <string lang="kr">$b$피로 $EXHAUSTION$$/b$&#xA;활성화는 다음 턴을 $b$$EXHAUSTION$$/b$만큼 뒤로 미룹니다</string>
-        <string lang="pt-br">$b$Exaustão $EXHAUSTION$$/b$&#xA;A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
-    </set>
-    <set id="exhaustion">
-        <string lang="de">$b$Erschöpfung$/b$</string>
-        <string lang="en">$b$Exhaustion$/b$</string>
-        <string lang="fr">$b$Fatigue$/b$</string>
-        <string lang="zh">$b$疲劳$/b$</string>
-        <string lang="jp">$b$疲労$/b$</string>
-        <string lang="ru">$b$Изнурение$/b$</string>
-        <string lang="es">$b$Agotamiento$/b$</string>
-        <string lang="kr">$b$피로$/b$</string>
-        <string lang="pt-br">$b$Exaustão$/b$</string>
-    </set>
-    <set id="factory-proportion">
-        <string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
-        <string lang="en">Higher $energy$ leads to a better constructed module</string>
-        <string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
-        <string lang="zh">更高的 $energy$ 能产生更好的模块</string>
-        <string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
-        <string lang="ru">Большее $energy$ приводит к улучшеному модулю</string>
-        <string lang="es">Más $energy$ conduce a un módulo mejor construido</string>
-        <string lang="kr">$energy$가 높을수록 더 좋은 모듈을 만들 수 있습니다</string>
-        <string lang="pt-br">Mais $energy$ leva a um módulo melhor construído</string>
-    </set>
-    <set id="capacity-hold">
-        <string lang="de">Hält bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="en">Holds up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-    </set>
-    <set id="discharge-storesenergy">
-        <string lang="de">Speichert $energy$ über Züge$br$und Kämpfe hinweg</string>
-        <string lang="en">Stores $energy$ throughout$br$turns and battles</string>
-        <string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">在多个回合和战斗中充能 $energy$</string>
-        <string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
-        <string lang="ru">Сохраняет $energy$ на протяжении ходов и между битвами</string>
-        <string lang="es">Almacena $energy$ a lo largo de los turnos y batallas</string>
-        <string lang="kr">여러 턴과 전투를 거쳐 $energy$를 축적합니다</string>
-        <string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
-    </set>
-    <set id="discharge-storesenergy-capped">
-        <string lang="de">Speichert bis zu &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge$br$und Kämpfe hinweg</string>
-        <string lang="en">Stores up to &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$throughout turns and battles</string>
-        <string lang="fr">Stocke jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
-        <string lang="zh">在多个回合和战斗中最多充能 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="jp">ターンや戦闘をまたいで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
-        <string lang="ru">Сохраняет до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протежении ходов и между битвами</string>
-        <string lang="es">Almacena hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
-        <string lang="kr">여러 턴과 전투를 거쳐 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 축적합니다</string>
-        <string lang="pt-br">Armazena até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ ao longo dos turnos e batalhas</string>
-    </set>
-    <set id="discharge-endofbattle">
-        <string lang="de">Verliert Ladung am Ende des Kampfes</string>
-        <string lang="en">Loses all $energy$ at the end of battle</string>
-        <string lang="fr">Tient jusqu'à &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$jusqu'à la fin du combat</string>
-        <string lang="zh">持有最多&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，$br$直到战斗结束</string>
-        <string lang="jp">バトル終了まで&lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$を保持します</string>
-        <string lang="ru">Держит до &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$до конца боя</string>
-        <string lang="es">Mantiene hasta &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$hasta el final de la batalla</string>
-        <string lang="kr">전투 종료까지 최대 &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를$br$보유합니다</string>
-        <string lang="pt-br">Mantém até &lt;color&#61;#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$até o final da batalha</string>
-    </set>
-    <set id="module-properties-discharge-endofturn">
-        <string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-        <string lang="en">Loses all $energy$$br$at the end of owner's turn</string>
-        <string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-        <string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
-        <string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
-        <string lang="ru">Хранит $energy$ только до конца хода владельца</string>
-        <string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
-        <string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
-        <string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
-    </set>
-    <set id="module-properties-discharge-endofturn-impending">
-        <string lang="de">Verliert $energy$ am Ende des Zuges</string>
-        <string lang="en">Will lose $energy$ at the end of turn</string>
-        <string lang="fr">Perdra $energy$ à la fin du tour</string>
-        <string lang="zh">将在回合结束时失去 $energy$</string>
-        <string lang="jp">ターン終了時に$energy$を失います</string>
-        <string lang="ru">Потеряет $energy$ в конце хода</string>
-        <string lang="es">Perderá $energy$ al final del turno</string>
-        <string lang="kr">턴이 끝날 때 $energy$를 잃습니다</string>
-        <string lang="pt-br">Perderá $energy$ no final do turno</string>
-    </set>
-    <set id="module-properties-collector-in-backpack">
-        <string lang="de">Löst nicht aus, wenn im Rucksack aufbewahrt</string>
-        <string lang="en">Does not trigger when stored in backpack</string>
-        <string lang="fr">Ne se déclenche pas dans le sac à dos</string>
-        <string lang="zh">存储在背包中时不会触发</string>
-        <string lang="jp">バックパックに格納されている場合はトリガーされません</string>
-        <string lang="ru">Не срабатывает, когда находится в рюкзаке</string>
-        <string lang="es">No se activa cuando se almacena en la mochila</string>
-        <string lang="kr">배낭에 저장되어 있을 때 트리거되지 않습니다</string>
-        <string lang="pt-br">Não é acionado quando armazenado na mochila</string>
-    </set>
-    <set id="module-properties-blade-no-target">
-        <string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
-        <string lang="en">There is currently no enemy on the same time step as the owner</string>
-        <string lang="fr">Il n'y a actuellement pas d'ennemi sur le même pas de temps que le propriétaire</string>
-        <string lang="zh">当前没有敌人与所有者在同一时间步</string>
-        <string lang="jp">現在、所有者と同じタイムステップに敵がいません</string>
-        <string lang="ru">В данный момент нет врага на том же шаге времени, что и владелец</string>
-        <string lang="es">Actualmente no hay enemigos en el mismo paso de tiempo que el propietario</string>
-        <string lang="kr">현재 소유자와 동일한 시간 단계에 적이 없습니다</string>
-        <string lang="pt-br">Atualmente não há inimigos no mesmo passo de tempo que o proprietário</string>
-    </set>
+<set id="capacity-hold">
+		<string lang="de">Hält bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="en">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="zh">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="jp">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="kr">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+</set>
+<set id="discharge-endofbattle">
+		<string lang="de">Verliert Ladung am Ende des Kampfes</string>
+		<string lang="en">Loses all $energy$ at the end of battle</string>
+		<string lang="fr">Tient jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$jusqu'à la fin du combat</string>
+		<string lang="zh">持有最多&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$，$br$直到战斗结束</string>
+		<string lang="jp">バトル終了まで&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$を保持します</string>
+		<string lang="ru">Держит до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$до конца боя</string>
+		<string lang="es">Mantiene hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$hasta el final de la batalla</string>
+		<string lang="kr">전투 종료까지 최대 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를$br$보유합니다</string>
+		<string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$até o final da batalha</string>
+</set>
+<set id="discharge-storesenergy">
+		<string lang="de">Speichert $energy$ über Züge$br$und Kämpfe hinweg</string>
+		<string lang="en">Stores $energy$ throughout$br$turns and battles</string>
+		<string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
+		<string lang="zh">在多个回合和战斗中充能 $energy$</string>
+		<string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
+		<string lang="ru">Сохраняет $energy$ на протяжении ходов и между битвами</string>
+		<string lang="es">Almacena $energy$ a lo largo de los turnos y batallas</string>
+		<string lang="kr">여러 턴과 전투를 거쳐 $energy$를 축적합니다</string>
+		<string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
+</set>
+<set id="discharge-storesenergy-capped">
+		<string lang="de">Speichert bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge$br$und Kämpfe hinweg</string>
+		<string lang="en">Stores up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$throughout turns and battles</string>
+		<string lang="fr">Stocke jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
+		<string lang="zh">在多个回合和战斗中最多充能 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="jp">ターンや戦闘をまたいで&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
+		<string lang="ru">Сохраняет до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протежении ходов и между битвами</string>
+		<string lang="es">Almacena hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
+		<string lang="kr">여러 턴과 전투를 거쳐 최대 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 축적합니다</string>
+		<string lang="pt-br">Armazena até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ ao longo dos turnos e batalhas</string>
+</set>
+<set id="exchangeable">
+		<string lang="de">Wird bei Aktivierung nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
+		<string lang="en">Will not become locked after activation and can be freely exchanged between characters</string>
+		<string lang="fr">Ne sera pas verrouillé après activation et peut être échangé librement entre les personnages</string>
+		<string lang="zh">激活后不会被锁定，可以在角色之间自由交换</string>
+		<string lang="jp">アクティベート後にロックされず、キャラクター間で自由に交換できます</string>
+		<string lang="ru">Не будет заблокирован после активации и может быть свободно обменян между персонажами</string>
+		<string lang="es">No se bloqueará después de la activación y se puede intercambiar libremente entre los personajes</string>
+		<string lang="kr">활성화 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
+		<string lang="pt-br">Não será bloqueado após a ativação e pode ser trocado livremente entre os personagens</string>
+</set>
+<set id="exchangeable-charge">
+		<string lang="de">Wird beim Aufladen nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
+		<string lang="en">Will not become locked after charging and can be freely exchanged between characters</string>
+		<string lang="fr">Ne sera pas verrouillé après chargement et peut être échangé librement entre les personnages</string>
+		<string lang="zh">充能后不会被锁定，可以在角色之间自由交换</string>
+		<string lang="jp">チャージ後にロックされず、キャラクター間で自由に交換できます</string>
+		<string lang="ru">Не будет заблокирован после зарядки и может быть свободно обменян между персонажами</string>
+		<string lang="es">No se bloqueará después de la carga y se puede intercambiar libremente entre los personajes</string>
+		<string lang="kr">충전 후에도 잠기지 않고 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
+		<string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
+</set>
+<set id="exhaustion">
+		<string lang="de">$b$Erschöpfung$/b$</string>
+		<string lang="en">$b$Exhaustion$/b$</string>
+		<string lang="fr">$b$Fatigue$/b$</string>
+		<string lang="zh">$b$疲劳$/b$</string>
+		<string lang="jp">$b$疲労$/b$</string>
+		<string lang="ru">$b$Изнурение$/b$</string>
+		<string lang="es">$b$Agotamiento$/b$</string>
+		<string lang="kr">$b$피로$/b$</string>
+		<string lang="pt-br">$b$Exaustão$/b$</string>
+</set>
+<set id="exhaustion-dependingonwiring">
+		<string lang="de">$b$Erschöpfung$/b$
+Abhängig von aktivierten Modulen</string>
+		<string lang="en">$b$Exhaustion$/b$</string>
+		<string lang="fr">$b$Fatigue$/b$
+En fonction du câble</string>
+		<string lang="zh">$b$疲劳$/b$</string>
+		<string lang="jp">$b$疲労$/b$</string>
+		<string lang="ru">$b$Изнурение$/b$
+В зависимости от подключенных модулей</string>
+		<string lang="es">$b$Agotamiento$/b$
+Dependiendo de los módulos activados</string>
+		<string lang="kr">$b$피로$/b$</string>
+		<string lang="pt-br">$b$Exaustão$/b$
+Dependendo dos módulos ativados</string>
+</set>
+<set id="exhaustion-turndelay">
+		<string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$
+Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
+		<string lang="en">$b$Exhaustion $EXHAUSTION$$/b$</string>
+		<string lang="fr">$b$Fatigue $EXHAUSTION$$/b$
+Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
+		<string lang="zh">$b$疲劳 $EXHAUSTION$$/b$</string>
+		<string lang="jp">$b$疲労 $EXHAUSTION$$/b$</string>
+		<string lang="ru">$b$Изнурение $EXHAUSTION$$/b$
+Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
+		<string lang="es">$b$Agotamiento $EXHAUSTION$$/b$
+La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
+		<string lang="kr">$b$피로 $EXHAUSTION$$/b$</string>
+		<string lang="pt-br">$b$Exaustão $EXHAUSTION$$/b$
+A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
+</set>
+<set id="factory-proportion">
+		<string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
+		<string lang="en">Higher $energy$ leads to a better constructed module</string>
+		<string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
+		<string lang="zh">更高的 $energy$ 能产生更好的模块</string>
+		<string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
+		<string lang="ru">Большее $energy$ приводит к улучшеному модулю</string>
+		<string lang="es">Más $energy$ conduce a un módulo mejor construido</string>
+		<string lang="kr">$energy$가 높을수록 더 좋은 모듈을 만들 수 있습니다</string>
+		<string lang="pt-br">Mais $energy$ leva a um módulo melhor construído</string>
+</set>
+<set id="module-level-0">
+		<string lang="de">Level 0</string>
+		<string lang="en">Level 0</string>
+		<string lang="fr">Niveau 0</string>
+		<string lang="zh">等级 0</string>
+		<string lang="jp">レベル 0</string>
+		<string lang="ru">Уровень 0</string>
+		<string lang="es">Nivel 0</string>
+		<string lang="kr">레벨 0</string>
+		<string lang="pt-br">Nível 0</string>
+</set>
+<set id="module-level-1">
+		<string lang="de">Level 1</string>
+		<string lang="en">Level 1</string>
+		<string lang="fr">Niveau 1</string>
+		<string lang="zh">等级 1</string>
+		<string lang="jp">レベル 1</string>
+		<string lang="ru">Уровень 1</string>
+		<string lang="es">Nivel 1</string>
+		<string lang="kr">레벨 1</string>
+		<string lang="pt-br">Nível 1</string>
+</set>
+<set id="module-level-2">
+		<string lang="de">Level 2</string>
+		<string lang="en">Level 2</string>
+		<string lang="fr">Niveau 2</string>
+		<string lang="zh">等级 2</string>
+		<string lang="jp">レベル 2</string>
+		<string lang="ru">Уровень 2</string>
+		<string lang="es">Nivel 2</string>
+		<string lang="kr">레벨 2</string>
+		<string lang="pt-br">Nível 2</string>
+</set>
+<set id="module-level-3">
+		<string lang="de">Level 3</string>
+		<string lang="en">Level 3</string>
+		<string lang="fr">Niveau 3</string>
+		<string lang="zh">等级 3</string>
+		<string lang="jp">レベル 3</string>
+		<string lang="ru">Уровень 3</string>
+		<string lang="es">Nivel 3</string>
+		<string lang="kr">레벨 3</string>
+		<string lang="pt-br">Nível 3</string>
+</set>
+<set id="module-level-4">
+		<string lang="de">Level 4</string>
+		<string lang="en">Level 4</string>
+		<string lang="fr">Niveau 4</string>
+		<string lang="zh">等级 4</string>
+		<string lang="jp">レベル 4</string>
+		<string lang="ru">Уровень 4</string>
+		<string lang="es">Nivel 4</string>
+		<string lang="kr">레벨 4</string>
+		<string lang="pt-br">Nível 4</string>
+</set>
+<set id="module-level-5">
+		<string lang="de">Level 5</string>
+		<string lang="en">Level 5</string>
+		<string lang="fr">Niveau 5</string>
+		<string lang="zh">等级 5</string>
+		<string lang="jp">レベル 5</string>
+		<string lang="ru">Уровень 5</string>
+		<string lang="es">Nivel 5</string>
+		<string lang="kr">레벨 5</string>
+		<string lang="pt-br">Nível 5</string>
+</set>
+<set id="module-level-6">
+		<string lang="de">Level 6</string>
+		<string lang="en">Level 6</string>
+		<string lang="fr">Niveau 6</string>
+		<string lang="zh">等级 6</string>
+		<string lang="jp">レベル 6</string>
+		<string lang="ru">Уровень 6</string>
+		<string lang="es">Nivel 6</string>
+		<string lang="kr">레벨 6</string>
+		<string lang="pt-br">Nível 6</string>
+</set>
+<set id="module-level-7">
+		<string lang="de">Level 6</string>
+		<string lang="en">Level 6</string>
+		<string lang="fr">Niveau 6</string>
+		<string lang="zh">等级 6</string>
+		<string lang="jp">レベル 6</string>
+		<string lang="ru">Уровень 6</string>
+		<string lang="es">Nivel 6</string>
+		<string lang="kr">레벨 6</string>
+		<string lang="pt-br">Nível 6</string>
+</set>
+<set id="module-properties-blade-no-target">
+		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
+		<string lang="en">There is currently no enemy on the same time step as the owner</string>
+		<string lang="fr">Il n'y a actuellement pas d'ennemi sur le même pas de temps que le propriétaire</string>
+		<string lang="zh">当前没有敌人与所有者在同一时间步</string>
+		<string lang="jp">現在、所有者と同じタイムステップに敵がいません</string>
+		<string lang="ru">В данный момент нет врага на том же шаге времени, что и владелец</string>
+		<string lang="es">Actualmente no hay enemigos en el mismo paso de tiempo que el propietario</string>
+		<string lang="kr">현재 소유자와 동일한 시간 단계에 적이 없습니다</string>
+		<string lang="pt-br">Atualmente não há inimigos no mesmo passo de tempo que o proprietário</string>
+</set>
+<set id="module-properties-collector-in-backpack">
+		<string lang="de">Löst nicht aus, wenn im Rucksack aufbewahrt</string>
+		<string lang="en">Does not trigger when stored in backpack</string>
+		<string lang="fr">Ne se déclenche pas dans le sac à dos</string>
+		<string lang="zh">存储在背包中时不会触发</string>
+		<string lang="jp">バックパックに格納されている場合はトリガーされません</string>
+		<string lang="ru">Не срабатывает, когда находится в рюкзаке</string>
+		<string lang="es">No se activa cuando se almacena en la mochila</string>
+		<string lang="kr">배낭에 저장되어 있을 때 트리거되지 않습니다</string>
+		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
+</set>
+<set id="module-properties-discharge-endofturn">
+		<string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
+		<string lang="en">Loses all $energy$$br$at the end of owner's turn</string>
+		<string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
+		<string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
+		<string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
+		<string lang="ru">Хранит $energy$ только до конца хода владельца</string>
+		<string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
+		<string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
+		<string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
+</set>
+<set id="module-properties-discharge-endofturn-impending">
+		<string lang="de">Verliert $energy$ am Ende des Zuges</string>
+		<string lang="en">Will lose $energy$ at the end of turn</string>
+		<string lang="fr">Perdra $energy$ à la fin du tour</string>
+		<string lang="zh">将在回合结束时失去 $energy$</string>
+		<string lang="jp">ターン終了時に$energy$を失います</string>
+		<string lang="ru">Потеряет $energy$ в конце хода</string>
+		<string lang="es">Perderá $energy$ al final del turno</string>
+		<string lang="kr">턴이 끝날 때 $energy$를 잃습니다</string>
+		<string lang="pt-br">Perderá $energy$ no final do turno</string>
+</set>
+<set id="module-rarity-common">
+		<string lang="de">Gewöhnlich</string>
+		<string lang="en">Common</string>
+		<string lang="fr">Commun</string>
+		<string lang="zh">普通</string>
+		<string lang="jp">一般</string>
+		<string lang="ru">Обычный</string>
+		<string lang="es">Común</string>
+		<string lang="kr">공통</string>
+		<string lang="pt-br">Comum</string>
+</set>
+<set id="module-rarity-rare">
+		<string lang="de">Selten</string>
+		<string lang="en">Rare</string>
+		<string lang="fr">Rare</string>
+		<string lang="zh">稀有</string>
+		<string lang="jp">レア</string>
+		<string lang="ru">Редкий</string>
+		<string lang="es">Raro</string>
+		<string lang="kr">희귀</string>
+		<string lang="pt-br">Raro</string>
+</set>
+<set id="module-rarity-uncommon">
+		<string lang="de">Ungewöhnlich</string>
+		<string lang="en">Uncommon</string>
+		<string lang="fr">Peu Commun</string>
+		<string lang="zh">不常见</string>
+		<string lang="jp">まれ</string>
+		<string lang="ru">Необычный</string>
+		<string lang="es">Poco Común</string>
+		<string lang="kr">드문</string>
+		<string lang="pt-br">Incomum</string>
+</set>
+<set id="module-rarity-unique">
+		<string lang="de">Einzigartig</string>
+		<string lang="en">Unique</string>
+		<string lang="fr">Unique</string>
+		<string lang="zh">独特</string>
+		<string lang="jp">ユニーク</string>
+		<string lang="ru">Уникальный</string>
+		<string lang="es">Único</string>
+		<string lang="kr">독특한</string>
+		<string lang="pt-br">Único</string>
+</set>
+<set id="module-type-factory">
+		<string lang="de">Fabrik</string>
+		<string lang="en">Factory</string>
+		<string lang="fr">Fabrique</string>
+		<string lang="zh">工厂</string>
+		<string lang="jp">ファクトリ</string>
+		<string lang="ru">Фабрика</string>
+		<string lang="es">Fábrica</string>
+		<string lang="kr">공장</string>
+		<string lang="pt-br">Fábrica</string>
+</set>
+<set id="module-type-generator">
+		<string lang="de">Generator</string>
+		<string lang="en">Generator</string>
+		<string lang="fr">Generateur</string>
+		<string lang="zh">发电机</string>
+		<string lang="jp">ジェネレーター</string>
+		<string lang="ru">Генератор</string>
+		<string lang="es">Generador</string>
+		<string lang="kr">발전기</string>
+		<string lang="pt-br">Gerador</string>
+</set>
+<set id="module-type-grenade">
+		<string lang="de">Granate</string>
+		<string lang="en">Grenade</string>
+		<string lang="fr">Grenade</string>
+		<string lang="zh">手榴弹</string>
+		<string lang="jp">手榴弾</string>
+		<string lang="ru">Граната</string>
+		<string lang="es">Granada</string>
+		<string lang="kr">수류탄</string>
+		<string lang="pt-br">Granada</string>
+</set>
+<set id="module-type-kit">
+		<string lang="de">Kit</string>
+		<string lang="en">Kit</string>
+		<string lang="fr">Kit</string>
+		<string lang="zh">工具包</string>
+		<string lang="jp">キット</string>
+		<string lang="ru">Комплект</string>
+		<string lang="es">Kit</string>
+		<string lang="kr">키트</string>
+		<string lang="pt-br">Kit</string>
+</set>
+<set id="module-type-magnet">
+		<string lang="de">Magnet</string>
+		<string lang="en">Magnet</string>
+		<string lang="fr">Aimant</string>
+		<string lang="zh">磁力</string>
+		<string lang="jp">磁気</string>
+		<string lang="ru">Магнит</string>
+		<string lang="es">Imán</string>
+		<string lang="kr">자석</string>
+		<string lang="pt-br">Imã</string>
+</set>
+<set id="module-type-moduleenhancer">
+		<string lang="de">Modul-Verbesserer</string>
+		<string lang="en">Module Enhancer</string>
+		<string lang="fr">Améliorateur de Module</string>
+		<string lang="zh">模块升级器</string>
+		<string lang="jp">モジュールアップグレーダー</string>
+		<string lang="ru">Модуль Улучшитель</string>
+		<string lang="es">Mejorador de Módulo</string>
+		<string lang="kr">모듈 업그레이더</string>
+		<string lang="pt-br">Melhorador de Módulo</string>
+</set>
+<set id="module-type-output">
+		<string lang="de">Effektormodul</string>
+		<string lang="en">Effector Module</string>
+		<string lang="fr">Module d'Effet</string>
+		<string lang="zh">效果模块</string>
+		<string lang="jp">エフェクターモジュール</string>
+		<string lang="ru">Эффектор Модуль</string>
+		<string lang="es">Módulo de Efecto</string>
+		<string lang="kr">효과 모듈</string>
+		<string lang="pt-br">Módulo de Efeito</string>
+</set>
+<set id="module-type-passive">
+		<string lang="de">Passivmodul</string>
+		<string lang="en">Passive Module</string>
+		<string lang="fr">Module Passif</string>
+		<string lang="zh">被动模块</string>
+		<string lang="jp">パッシブモジュール</string>
+		<string lang="ru">Пассивный Модуль</string>
+		<string lang="es">Módulo Pasivo</string>
+		<string lang="kr">수동 모듈</string>
+		<string lang="pt-br">Módulo Passivo</string>
+</set>
+<set id="module-type-passthrough">
+		<string lang="de">Durchsatzmodul</string>
+		<string lang="en">Passthrough Module</string>
+		<string lang="fr">Module de Relais</string>
+		<string lang="zh">中继模块</string>
+		<string lang="jp">スループットモジュール</string>
+		<string lang="ru">Пропускной Модуль</string>
+		<string lang="es">Módulo de Traspaso</string>
+		<string lang="kr">처리량 모듈</string>
+		<string lang="pt-br">Módulo de Atravessar</string>
+</set>
+<set id="module-type-sensor">
+		<string lang="de">Sensor</string>
+		<string lang="en">Sensor</string>
+		<string lang="fr">Capteur</string>
+		<string lang="zh">感应器</string>
+		<string lang="jp">センサー</string>
+		<string lang="ru">Датчик</string>
+		<string lang="es">Sensor</string>
+		<string lang="kr">센서</string>
+		<string lang="pt-br">Sensor</string>
+</set>
+<set id="module-type-source">
+		<string lang="de">Energiequelle</string>
+		<string lang="en">Energy Source</string>
+		<string lang="fr">Source d'Énergie</string>
+		<string lang="zh">能源模块</string>
+		<string lang="jp">エネルギー源</string>
+		<string lang="ru">Источник Энергии</string>
+		<string lang="es">Fuente de Energía</string>
+		<string lang="kr">에너지 소스</string>
+		<string lang="pt-br">Fonte de Energia</string>
+</set>
+<set id="module-type-storage">
+		<string lang="de">Speichermodul</string>
+		<string lang="en">Storage Module</string>
+		<string lang="fr">Module de Stockage</string>
+		<string lang="zh">充能模块</string>
+		<string lang="jp">ストレージモジュール</string>
+		<string lang="ru">Модуль Хранения</string>
+		<string lang="es">Módulo de Almacenamiento</string>
+		<string lang="kr">저장 모듈</string>
+		<string lang="pt-br">Módulo de Armazenamento</string>
+</set>
+<set id="module-type-threat">
+		<string lang="de">Bedrohung</string>
+		<string lang="en">Threat</string>
+		<string lang="fr">Menace</string>
+		<string lang="zh">威胁</string>
+		<string lang="jp">脅威</string>
+		<string lang="ru">Угроза</string>
+		<string lang="es">Amenaza</string>
+		<string lang="kr">위협</string>
+		<string lang="pt-br">Ameaça</string>
+</set>
+<set id="module-type-toggled">
+		<string lang="de">Schalter</string>
+		<string lang="en">Toggled</string>
+		<string lang="fr">Interrupteur</string>
+		<string lang="zh">开关</string>
+		<string lang="jp">スイッチ</string>
+		<string lang="ru">Выключатель</string>
+		<string lang="es">Interruptor</string>
+		<string lang="kr">스위치</string>
+		<string lang="pt-br">Interruptor</string>
+</set>
+<set id="module-type-vault">
+		<string lang="de">Depot</string>
+		<string lang="en">Vault</string>
+		<string lang="fr">Dépôt</string>
+		<string lang="zh">保险库</string>
+		<string lang="jp">ボールト</string>
+		<string lang="ru">Хранилище</string>
+		<string lang="es">Bóveda</string>
+		<string lang="kr">금고</string>
+		<string lang="pt-br">Cofre</string>
+</set>
+<set id="timeline-targeting-minimumdistance-3">
+		<string lang="de">Mindestabstand $b$+3$/b$</string>
+		<string lang="en">Minimum Distance $b$+3$/b$</string>
+		<string lang="fr">Distance minimale $b$+3$/b$</string>
+		<string lang="zh">最小距离 $b$+3$/b$</string>
+		<string lang="jp">最小距離 $b$+3$/b$</string>
+		<string lang="ru">Минимальное расстояние $b$+3$/b$</string>
+		<string lang="es">Distancia mínima $b$+3$/b$</string>
+		<string lang="kr">최소 거리 $b$+3$/b$</string>
+		<string lang="pt-br">Distância mínima $b$+3$/b$</string>
+</set>
+<set id="toggled-module-off">
+		<string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
+		<string lang="en">Toggle to activate during voltage sequence</string>
+		<string lang="fr">Sera utilisé pendant la séquence de tir,$br$si activé</string>
+		<string lang="zh">打开开关后会在触发序列中被激活</string>
+		<string lang="jp">オンに設定されている場合、$br$発射シーケンス中にアクティブになります</string>
+		<string lang="ru">Будет активирован во время стрельбы,$br$если включен</string>
+		<string lang="es">Se activará durante la secuencia de disparo,$br$si está activado</string>
+		<string lang="kr">총격 순서 중에 활성화됩니다, 활성화되어 있을 경우</string>
+		<string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
+</set>
+<set id="toggled-module-on">
+		<string lang="de">Wird während der Spannungssequenz aktiviert</string>
+		<string lang="en">Will be activated during voltage sequence</string>
+		<string lang="fr">Sera utilisé pendant la séquence de tir</string>
+		<string lang="zh">在触发序列中被激活</string>
+		<string lang="jp">発射シーケンス中にアクティブになります</string>
+		<string lang="ru">Будет активирован во время стрельбы</string>
+		<string lang="es">Se activará durante la secuencia de disparo</string>
+		<string lang="kr">총격 순서 중에 활성화됩니다</string>
+		<string lang="pt-br">Será ativado durante a sequência de disparo</string>
+</set>
 </localization>

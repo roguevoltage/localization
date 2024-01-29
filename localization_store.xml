@@ -1,123 +1,123 @@
 <localization>
-    <set id="ui-store-balance">
-        <string lang="de">Saldo</string>
-        <string lang="en">Balance</string>
-        <string lang="fr">Balance</string>
-        <string lang="zh">平衡</string>
-        <string lang="jp">残高</string>
-        <string lang="ru">Баланс</string>
-        <string lang="es">Balance</string>
-        <string lang="kr">밸런스</string>
-        <string lang="pt-br">Saldo</string>
-    </set>
-    <set id="ui-store-expenses">
-        <string lang="de">Kosten</string>
-        <string lang="en">Expenses</string>
-        <string lang="fr">Dépenses</string>
-        <string lang="zh">支出</string>
-        <string lang="jp">費用</string>
-        <string lang="ru">Расходы</string>
-        <string lang="es">Gastos</string>
-        <string lang="kr">비용</string>
-        <string lang="pt-br">Despesas</string>
-    </set>
-    <set id="ui-store-revenue">
-        <string lang="de">Gewinn</string>
-        <string lang="en">Revenue</string>
-        <string lang="fr">Revenu</string>
-        <string lang="zh">收入</string>
-        <string lang="jp">収益</string>
-        <string lang="ru">Доход</string>
-        <string lang="es">Ingresos</string>
-        <string lang="kr">수익</string>
-        <string lang="pt-br">Receita</string>
-    </set>
-    <set id="store-module-introduction">
-        <string lang="de">Hier steht ein </string>
-        <string lang="en">You happen on a </string>
-        <string lang="fr">Vous tombez sur un </string>
-        <string lang="zh">你发现了一个</string>
-        <string lang="jp">あなたは発見しました</string>
-        <string lang="ru">Вы обнаруживаете </string>
-        <string lang="es">Te encuentras con una </string>
-        <string lang="kr">당신은 발견했습니다</string>
-        <string lang="pt-br">Você se depara com um </string>
-    </set>
-    <set id="store-module-heading">
-        <string lang="de">Modulautomat</string>
-        <string lang="en">Module Vending Machine</string>
-        <string lang="fr">Distributeur de modules</string>
-        <string lang="zh">模块售货机</string>
-        <string lang="jp">モジュール自動販売機</string>
-        <string lang="ru">Автомат по продаже модулей</string>
-        <string lang="es">Máquina expendedora de módulos</string>
-        <string lang="kr">모듈 자판기</string>
-        <string lang="pt-br">Máquina de venda de módulos</string>
-    </set>
-    <set id="store-deal">
-        <string lang="de">DEAL</string>
-        <string lang="en">DEAL</string>
-        <string lang="fr">DEAL</string>
-        <string lang="zh">交易</string>
-        <string lang="jp">取引</string>
-        <string lang="ru">СДЕЛКА</string>
-        <string lang="es">TRATO</string>
-        <string lang="kr">거래</string>
-        <string lang="pt-br">NEGÓCIO</string>
-    </set>
-    <set id="store-takemodule">
-        <string lang="de">nimm oder$br$gib modul</string>
-        <string lang="en">take to buy,$br$drop to sell</string>
-        <string lang="fr">prendre pour acheter,$br$laisser tomber pour vendre</string>
-        <string lang="zh">拿走购买，放入出售</string>
-        <string lang="jp">買うために取る、$br$売るために落とす</string>
-        <string lang="ru">ВЗЯТЬ ЧТОБЫ КУПИТЬ,$br$БРОСИТЬ ЧТОБЫ ПРОДАТЬ</string>
-        <string lang="es">toma para comprar,$br$deja caer para vender</string>
-        <string lang="kr">구매를 위해 가져가고,$br$판매를 위해 내려놓으십시오</string>
-        <string lang="pt-br">pegue para comprar,$br$deixe cair para vender</string>
-    </set>
-    <set id="store-clicktodeal">
-        <string lang="de">zum handeln$br$knopf druecken</string>
-        <string lang="en">push button$br$to deal</string>
-        <string lang="fr">appuyez sur le bouton pour faire un deal</string>
-        <string lang="zh">点击按钮确认交易</string>
-        <string lang="jp">ボタンを押して取引する</string>
-        <string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ СДЕЛАТЬ СДЕЛКУ</string>
-        <string lang="es">Presiona el botón$br$para tratar</string>
-        <string lang="kr">거래를 위해 버튼을 누르십시오</string>
-        <string lang="pt-br">pressione o botão$br$para negociar</string>
-    </set>
-    <set id="store-clicktobuy">
-        <string lang="de">zum kaufen$br$knopf druecken</string>
-        <string lang="en">push button$br$to buy</string>
-        <string lang="fr">appuyez sur le bouton pour acheter</string>
-        <string lang="zh">点击按钮确认交易</string>
-        <string lang="jp">ボタンを押して取引する</string>
-        <string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ КУПИТЬ</string>
-        <string lang="es">Presiona el botón$br$para comprar</string>
-        <string lang="kr">구매를 위해$br$버튼을 누르십시오</string>
-        <string lang="pt-br">pressione o botão$br$para comprar</string>
-    </set>
-    <set id="store-clicktosell">
-        <string lang="de">zum verkaufen$br$knopf druecken</string>
-        <string lang="en">push button$br$to sell</string>
-        <string lang="fr">appuyez sur le bouton pour vendre</string>
-        <string lang="zh">点击按钮确认交易</string>
-        <string lang="jp">ボタンを押して取引する</string>
-        <string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ ПРОДАТЬ</string>
-        <string lang="es">Presiona el botón$br$para vender</string>
-        <string lang="kr">판매를 위해$br$버튼을 누르십시오</string>
-        <string lang="pt-br">pressione o botão$br$para vender</string>
-    </set>
-    <set id="store-noplasma">
-        <string lang="de">nicht genug plasma</string>
-        <string lang="en">not enough plasma</string>
-        <string lang="fr">pas assez de plasma</string>
-        <string lang="zh">没有足够的等离子体</string>
-        <string lang="jp">プラズマが足りない</string>
-        <string lang="ru">НЕДОСТАТОЧНО ПЛАЗМЫ</string>
-        <string lang="es">no hay suficiente plasma</string>
-        <string lang="kr">플라스마가 충분하지 않습니다</string>
-        <string lang="pt-br">nao ha plasma suficiente</string>
-    </set>
+<set id="store-clicktobuy">
+		<string lang="de">zum kaufen$br$knopf druecken</string>
+		<string lang="en">push button$br$to buy</string>
+		<string lang="fr">appuyez sur le bouton pour acheter</string>
+		<string lang="zh">点击按钮确认交易</string>
+		<string lang="jp">ボタンを押して取引する</string>
+		<string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ КУПИТЬ</string>
+		<string lang="es">Presiona el botón$br$para comprar</string>
+		<string lang="kr">구매를 위해$br$버튼을 누르십시오</string>
+		<string lang="pt-br">pressione o botão$br$para comprar</string>
+</set>
+<set id="store-clicktodeal">
+		<string lang="de">zum handeln$br$knopf druecken</string>
+		<string lang="en">push button$br$to deal</string>
+		<string lang="fr">appuyez sur le bouton pour faire un deal</string>
+		<string lang="zh">点击按钮确认交易</string>
+		<string lang="jp">ボタンを押して取引する</string>
+		<string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ СДЕЛАТЬ СДЕЛКУ</string>
+		<string lang="es">Presiona el botón$br$para tratar</string>
+		<string lang="kr">거래를 위해 버튼을 누르십시오</string>
+		<string lang="pt-br">pressione o botão$br$para negociar</string>
+</set>
+<set id="store-clicktosell">
+		<string lang="de">zum verkaufen$br$knopf druecken</string>
+		<string lang="en">push button$br$to sell</string>
+		<string lang="fr">appuyez sur le bouton pour vendre</string>
+		<string lang="zh">点击按钮确认交易</string>
+		<string lang="jp">ボタンを押して取引する</string>
+		<string lang="ru">НАЖМИТЕ КНОПКУ$br$ЧТОБЫ ПРОДАТЬ</string>
+		<string lang="es">Presiona el botón$br$para vender</string>
+		<string lang="kr">판매를 위해$br$버튼을 누르십시오</string>
+		<string lang="pt-br">pressione o botão$br$para vender</string>
+</set>
+<set id="store-deal">
+		<string lang="de">DEAL</string>
+		<string lang="en">DEAL</string>
+		<string lang="fr">DEAL</string>
+		<string lang="zh">交易</string>
+		<string lang="jp">取引</string>
+		<string lang="ru">СДЕЛКА</string>
+		<string lang="es">TRATO</string>
+		<string lang="kr">거래</string>
+		<string lang="pt-br">NEGÓCIO</string>
+</set>
+<set id="store-module-heading">
+		<string lang="de">Modulautomat</string>
+		<string lang="en">Module Vending Machine</string>
+		<string lang="fr">Distributeur de modules</string>
+		<string lang="zh">模块售货机</string>
+		<string lang="jp">モジュール自動販売機</string>
+		<string lang="ru">Автомат по продаже модулей</string>
+		<string lang="es">Máquina expendedora de módulos</string>
+		<string lang="kr">모듈 자판기</string>
+		<string lang="pt-br">Máquina de venda de módulos</string>
+</set>
+<set id="store-module-introduction">
+		<string lang="de">Hier steht ein </string>
+		<string lang="en">You happen on a </string>
+		<string lang="fr">Vous tombez sur un </string>
+		<string lang="zh">你发现了一个</string>
+		<string lang="jp">あなたは発見しました</string>
+		<string lang="ru">Вы обнаруживаете </string>
+		<string lang="es">Te encuentras con una </string>
+		<string lang="kr">당신은 발견했습니다</string>
+		<string lang="pt-br">Você se depara com um </string>
+</set>
+<set id="store-noplasma">
+		<string lang="de">nicht genug plasma</string>
+		<string lang="en">not enough plasma</string>
+		<string lang="fr">pas assez de plasma</string>
+		<string lang="zh">没有足够的等离子体</string>
+		<string lang="jp">プラズマが足りない</string>
+		<string lang="ru">НЕДОСТАТОЧНО ПЛАЗМЫ</string>
+		<string lang="es">no hay suficiente plasma</string>
+		<string lang="kr">플라스마가 충분하지 않습니다</string>
+		<string lang="pt-br">nao ha plasma suficiente</string>
+</set>
+<set id="store-takemodule">
+		<string lang="de">nimm oder$br$gib modul</string>
+		<string lang="en">take to buy,$br$drop to sell</string>
+		<string lang="fr">prendre pour acheter,$br$laisser tomber pour vendre</string>
+		<string lang="zh">拿走购买，放入出售</string>
+		<string lang="jp">買うために取る、$br$売るために落とす</string>
+		<string lang="ru">ВЗЯТЬ ЧТОБЫ КУПИТЬ,$br$БРОСИТЬ ЧТОБЫ ПРОДАТЬ</string>
+		<string lang="es">toma para comprar,$br$deja caer para vender</string>
+		<string lang="kr">구매를 위해 가져가고,$br$판매를 위해 내려놓으십시오</string>
+		<string lang="pt-br">pegue para comprar,$br$deixe cair para vender</string>
+</set>
+<set id="ui-store-balance">
+		<string lang="de">Saldo</string>
+		<string lang="en">Balance</string>
+		<string lang="fr">Balance</string>
+		<string lang="zh">平衡</string>
+		<string lang="jp">残高</string>
+		<string lang="ru">Баланс</string>
+		<string lang="es">Balance</string>
+		<string lang="kr">밸런스</string>
+		<string lang="pt-br">Saldo</string>
+</set>
+<set id="ui-store-expenses">
+		<string lang="de">Kosten</string>
+		<string lang="en">Expenses</string>
+		<string lang="fr">Dépenses</string>
+		<string lang="zh">支出</string>
+		<string lang="jp">費用</string>
+		<string lang="ru">Расходы</string>
+		<string lang="es">Gastos</string>
+		<string lang="kr">비용</string>
+		<string lang="pt-br">Despesas</string>
+</set>
+<set id="ui-store-revenue">
+		<string lang="de">Gewinn</string>
+		<string lang="en">Revenue</string>
+		<string lang="fr">Revenu</string>
+		<string lang="zh">收入</string>
+		<string lang="jp">収益</string>
+		<string lang="ru">Доход</string>
+		<string lang="es">Ingresos</string>
+		<string lang="kr">수익</string>
+		<string lang="pt-br">Receita</string>
+</set>
 </localization>

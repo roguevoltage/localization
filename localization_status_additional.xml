@@ -1,171 +1,216 @@
 <localization>
-    <set id="name-status-stasis">
-        <string lang="de">Stasis</string>
-        <string lang="en">Stasis</string>
-        <string lang="fr">Stase</string>
-        <string lang="zh">停滞</string>
-        <string lang="jp">スタシス</string>
-        <string lang="ru">Стазис</string>
-        <string lang="es">Estasis</string>
-        <string lang="kr">정지</string>
-        <string lang="pt-br">Estase</string>
-    </set>
-    <set id="shortname-status-stasis">
-        <string lang="de">Stasis</string>
-        <string lang="en">Stasis</string>
-        <string lang="fr">Stase</string>
-        <string lang="zh">停滞</string>
-        <string lang="jp">スタシス</string>
-        <string lang="ru">Стазис</string>
-        <string lang="es">Estasis</string>
-        <string lang="kr">정지</string>
-        <string lang="pt-br">Estase</string>
-    </set>
-    <set id="name-status-modulegravpulse">
-        <string lang="en">Grav. Pulse</string>
-    </set>
-    <set id="name-status-modulestormattractor">
-        <string lang="en">Storm Attractor</string>
-    </set>
-    <set id="name-status-modulestormrepeller">
-        <string lang="de">Sturmabwehr</string>
-        <string lang="en">Storm Repeller</string>
-        <string lang="fr">Répulsif de Tempête</string>
-        <string lang="zh">风暴驱逐器</string>
-        <string lang="jp">嵐の撃退者</string>
-        <string lang="ru">Отталкиватель Шторма</string>
-        <string lang="es">Repelente de Tormentas</string>
-        <string lang="kr">폭풍 방어기</string>
-        <string lang="pt-br">Repelente de Tempestades</string>
-    </set>
-    <set id="name-status-modulereplicating-infinitely">
-        <string lang="en">Replicating Infinitely</string>
-    </set>
-    <set id="description-status-modulereplicating-infinitely">
-        <string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
-    </set>
-    <set id="name-status-modulereplicating">
-        <string lang="en">Replicating 1</string>
-    </set>
-        <set id="description-status-modulereplicating">
-        <string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
-    </set>
-    <set id="description-status-modulestormattractor">
-        <string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
-    </set>
-    <set id="description-status-modulestormrepeller">
-        <string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
-        <string lang="en">Activation pushes back the $storm$$br$by $4$ time steps</string>
-    </set>
-    <set id="description-status-stasis">
-        <string lang="de">Die Zeit steht für diesen Character still.</string>
-        <string lang="en">Time stands still for this character.</string>
-        <string lang="fr">Le temps s'arrête pour ce personnage.</string>
-        <string lang="zh">时间停止。</string>
-        <string lang="jp">時間が止まる。</string>
-        <string lang="ru">Время останавливается для этого персонажа.</string>
-        <string lang="es">El tiempo se detiene para este personaje.</string>
-        <string lang="kr">시간이 멈춥니다.</string>
-        <string lang="pt-br">O tempo para para este personagem.</string>
-    </set>
-        <set id="name-status-modulevolatile">
-        <string lang="de">Flüchtig</string>
-        <string lang="en">Volatile</string>
-        <string lang="fr">Volatile</string>
-        <string lang="zh">挥发性</string>
-        <string lang="jp">揮発性</string>
-        <string lang="ru">Летучий</string>
-        <string lang="es">Volátil</string>
-        <string lang="kr">휘발성</string>
-        <string lang="pt-br">Volátil</string>
-    </set>
-    <set id="description-status-modulevolatile">
-        <string lang="de">Wird nach dem Zug des Besitzers zerstört</string>
-        <string lang="en">Will be destroyed after the owner's turn</string>
-    </set>
-    <set id="name-status-modulelock-startingmodule-hardlock">
-        <string lang="de">Charakterausrüstung</string>
-        <string lang="en">Character Loadout</string>
-        <string lang="fr">Equipement de Personnage</string>
-        <string lang="zh">角色装备</string>
-        <string lang="jp">キャラクター装備</string>
-        <string lang="ru">Снаряжение персонажа</string>
-        <string lang="es">Equipo de Personaje</string>
-        <string lang="kr">캐릭터 장비</string>
-        <string lang="pt-br">Equipamento do Personagem</string>
-    </set>
-        <set id="description-status-modulelock-startingmodule-hardlock">
-        <string lang="de">Kann nicht vom Rack genommen werden</string>
-        <string lang="en">Cannot be taken from rack</string>
-        <string lang="fr">Ne peut pas être enlevé du rack</string>
-        <string lang="zh">不能从机架上取下</string>
-        <string lang="jp">ラックから取り外せません</string>
-        <string lang="ru">Нельзя переместить со стойки</string>
-        <string lang="es">No puede ser tomado del rack</string>
-        <string lang="kr">랙에서 가져올 수 없습니다</string>
-        <string lang="pt-br">Não pode ser retirado do rack</string>
-    </set>
-    <set id="name-status-modulelock-whilecharged">
-        <string lang="de">Gesperrt</string>
-        <string lang="en">Locked</string>
-        <string lang="fr">Verrouillé</string>
-        <string lang="zh">锁定</string>
-        <string lang="jp">モジュールロック</string>
-        <string lang="ru">Заблокированный</string>
-        <string lang="es">Bloqueado</string>
-        <string lang="kr">잠긴</string>
-        <string lang="pt-br">Bloqueado</string>
-    </set>
-    <set id="description-status-modulelock-whilecharged">
-        <string lang="en">Cannot be taken from rack$br$while holding $energy$</string>
-    </set>
-    <set id="description-status-modulelock-wiredtoviral">
-        <string lang="en">Cannot be taken from rack$br$while wired to a threat module</string>
-    </set>
-    <set id="name-status-modulevulnerability">
-        <string lang="de">Gefährlich</string>
-        <string lang="en">Hazardous</string>
-        <string lang="fr">Périleux</string>
-        <string lang="zh">危险</string>
-        <string lang="jp">危険</string>
-        <string lang="ru">Опасность</string>
-        <string lang="es">Peligroso</string>
-        <string lang="kr">위험</string>
-        <string lang="pt-br">Perigoso</string>
-    </set>
-    <set id="description-status-modulevulnerability">
-        <string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
-        <string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
-    </set>
-    <set id="name-status-transformation-volcanodamagetograv">
-        <string lang="en">Volcano $damage$ to $grav+$</string>
-    </set>
-    <set id="description-status-transformation-volcanodamagetograv">
-        <string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
-    </set>
-    <set id="name-status-transformation-volcanodamagetomight">
-        <string lang="de">Vulkan-$damage$ zu $might$</string>
-        <string lang="en">Volcano $damage$ to $might$</string>
-        <string lang="fr">Volcan $damage$ vers $might$</string>
-        <string lang="zh">火山- $damage$ 到 $might$</string>
-        <string lang="jp">火山-$damage$から$might$へ</string>
-        <string lang="ru">Вулкан $damage$ в $might$</string>
-        <string lang="es">Volcán $damage$ a $might$</string>
-        <string lang="kr">화산 $damage$ to $might$</string>
-        <string lang="pt-br">Vulcão $damage$ para $might$</string>
-    </set>
-    <set id="description-status-transformation-volcanodamagetomight">
-        <string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
-        <string lang="en">Incoming $damage$ by the volcano is transformed to $might$ instead.</string>
-        <string lang="fr">$damage$ entrant par le volcan est transformé en $might$.</string>
-        <string lang="zh">来自火山的 $damage$ 将转化为 $might$</string>
-        <string lang="jp">火山からの$damage$は $might$に変換されます</string>
-        <string lang="ru">Входящий $damage$ от вулкана превращается в $might$.</string>
-        <string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
-        <string lang="kr">화산으로부터의 $damage$는 $might$로 변환됩니다</string>
-        <string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
-    </set>
-        <set id="description-status-modulegravpulse">
-        <string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-    </set>
+<set id="description-status-modulegravpulse">
+		<string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
+		<string lang="zh">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
+		<string lang="jp">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
+		<string lang="kr">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
+</set>
+<set id="description-status-modulelock-startingmodule-hardlock">
+		<string lang="de">Kann nicht vom Rack genommen werden</string>
+		<string lang="en">Cannot be taken from rack</string>
+		<string lang="fr">Ne peut pas être enlevé du rack</string>
+		<string lang="zh">不能从机架上取下</string>
+		<string lang="jp">ラックから取り外せません</string>
+		<string lang="ru">Нельзя переместить со стойки</string>
+		<string lang="es">No puede ser tomado del rack</string>
+		<string lang="kr">랙에서 가져올 수 없습니다</string>
+		<string lang="pt-br">Não pode ser retirado do rack</string>
+</set>
+<set id="description-status-modulelock-whilecharged">
+		<string lang="en">Cannot be taken from rack$br$while holding $energy$</string>
+		<string lang="zh">Cannot be taken from rack$br$while holding $energy$</string>
+		<string lang="jp">Cannot be taken from rack$br$while holding $energy$</string>
+		<string lang="kr">Cannot be taken from rack$br$while holding $energy$</string>
+</set>
+<set id="description-status-modulelock-wiredtoviral">
+		<string lang="en">Cannot be taken from rack$br$while wired to a threat module</string>
+		<string lang="zh">Cannot be taken from rack$br$while wired to a threat module</string>
+		<string lang="jp">Cannot be taken from rack$br$while wired to a threat module</string>
+		<string lang="kr">Cannot be taken from rack$br$while wired to a threat module</string>
+</set>
+<set id="description-status-modulereplicating">
+		<string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
+		<string lang="zh">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
+		<string lang="jp">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
+		<string lang="kr">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
+</set>
+<set id="description-status-modulereplicating-infinitely">
+		<string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
+		<string lang="zh">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
+		<string lang="jp">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
+		<string lang="kr">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
+</set>
+<set id="description-status-modulestormattractor">
+		<string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
+		<string lang="zh">Activation attracts the $storm$$br$by $4$ time steps</string>
+		<string lang="jp">Activation attracts the $storm$$br$by $4$ time steps</string>
+		<string lang="kr">Activation attracts the $storm$$br$by $4$ time steps</string>
+</set>
+<set id="description-status-modulestormrepeller">
+		<string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
+		<string lang="en">Activation pushes back the $storm$$br$by $4$ time steps</string>
+		<string lang="zh">Activation pushes back the $storm$$br$by $4$ time steps</string>
+		<string lang="jp">Activation pushes back the $storm$$br$by $4$ time steps</string>
+		<string lang="kr">Activation pushes back the $storm$$br$by $4$ time steps</string>
+</set>
+<set id="description-status-modulevolatile">
+		<string lang="de">Wird nach dem Zug des Besitzers zerstört</string>
+		<string lang="en">Will be destroyed after the owner's turn</string>
+		<string lang="zh">Will be destroyed after the owner's turn</string>
+		<string lang="jp">Will be destroyed after the owner's turn</string>
+		<string lang="kr">Will be destroyed after the owner's turn</string>
+</set>
+<set id="description-status-modulevulnerability">
+		<string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
+		<string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+		<string lang="zh">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+		<string lang="jp">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+		<string lang="kr">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+</set>
+<set id="description-status-stasis">
+		<string lang="de">Die Zeit steht für diesen Character still.</string>
+		<string lang="en">Time stands still for this character.</string>
+		<string lang="fr">Le temps s'arrête pour ce personnage.</string>
+		<string lang="zh">时间停止。</string>
+		<string lang="jp">時間が止まる。</string>
+		<string lang="ru">Время останавливается для этого персонажа.</string>
+		<string lang="es">El tiempo se detiene para este personaje.</string>
+		<string lang="kr">시간이 멈춥니다.</string>
+		<string lang="pt-br">O tempo para para este personagem.</string>
+</set>
+<set id="description-status-transformation-volcanodamagetograv">
+		<string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+		<string lang="zh">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+		<string lang="jp">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+		<string lang="kr">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+</set>
+<set id="description-status-transformation-volcanodamagetomight">
+		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
+		<string lang="en">Incoming $damage$ by the volcano is transformed to $might$ instead.</string>
+		<string lang="fr">$damage$ entrant par le volcan est transformé en $might$.</string>
+		<string lang="zh">来自火山的 $damage$ 将转化为 $might$</string>
+		<string lang="jp">火山からの$damage$は $might$に変換されます</string>
+		<string lang="ru">Входящий $damage$ от вулкана превращается в $might$.</string>
+		<string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
+		<string lang="kr">화산으로부터의 $damage$는 $might$로 변환됩니다</string>
+		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
+</set>
+<set id="name-status-modulegravpulse">
+		<string lang="en">Grav. Pulse</string>
+		<string lang="zh">Grav. Pulse</string>
+		<string lang="jp">Grav. Pulse</string>
+		<string lang="kr">Grav. Pulse</string>
+</set>
+<set id="name-status-modulelock-startingmodule-hardlock">
+		<string lang="de">Charakterausrüstung</string>
+		<string lang="en">Character Loadout</string>
+		<string lang="fr">Equipement de Personnage</string>
+		<string lang="zh">角色装备</string>
+		<string lang="jp">キャラクター装備</string>
+		<string lang="ru">Снаряжение персонажа</string>
+		<string lang="es">Equipo de Personaje</string>
+		<string lang="kr">캐릭터 장비</string>
+		<string lang="pt-br">Equipamento do Personagem</string>
+</set>
+<set id="name-status-modulelock-whilecharged">
+		<string lang="de">Gesperrt</string>
+		<string lang="en">Locked</string>
+		<string lang="fr">Verrouillé</string>
+		<string lang="zh">锁定</string>
+		<string lang="jp">モジュールロック</string>
+		<string lang="ru">Заблокированный</string>
+		<string lang="es">Bloqueado</string>
+		<string lang="kr">잠긴</string>
+		<string lang="pt-br">Bloqueado</string>
+</set>
+<set id="name-status-modulereplicating">
+		<string lang="en">Replicating 1</string>
+		<string lang="zh">Replicating 1</string>
+		<string lang="jp">Replicating 1</string>
+		<string lang="kr">Replicating 1</string>
+</set>
+<set id="name-status-modulereplicating-infinitely">
+		<string lang="en">Replicating Infinitely</string>
+		<string lang="zh">Replicating Infinitely</string>
+		<string lang="jp">Replicating Infinitely</string>
+		<string lang="kr">Replicating Infinitely</string>
+</set>
+<set id="name-status-modulestormattractor">
+		<string lang="en">Storm Attractor</string>
+		<string lang="zh">Storm Attractor</string>
+		<string lang="jp">Storm Attractor</string>
+		<string lang="kr">Storm Attractor</string>
+</set>
+<set id="name-status-modulestormrepeller">
+		<string lang="de">Sturmabwehr</string>
+		<string lang="en">Storm Repeller</string>
+		<string lang="fr">Répulsif de Tempête</string>
+		<string lang="zh">风暴驱逐器</string>
+		<string lang="jp">嵐の撃退者</string>
+		<string lang="ru">Отталкиватель Шторма</string>
+		<string lang="es">Repelente de Tormentas</string>
+		<string lang="kr">폭풍 방어기</string>
+		<string lang="pt-br">Repelente de Tempestades</string>
+</set>
+<set id="name-status-modulevolatile">
+		<string lang="de">Flüchtig</string>
+		<string lang="en">Volatile</string>
+		<string lang="fr">Volatile</string>
+		<string lang="zh">挥发性</string>
+		<string lang="jp">揮発性</string>
+		<string lang="ru">Летучий</string>
+		<string lang="es">Volátil</string>
+		<string lang="kr">휘발성</string>
+		<string lang="pt-br">Volátil</string>
+</set>
+<set id="name-status-modulevulnerability">
+		<string lang="de">Gefährlich</string>
+		<string lang="en">Hazardous</string>
+		<string lang="fr">Périleux</string>
+		<string lang="zh">危险</string>
+		<string lang="jp">危険</string>
+		<string lang="ru">Опасность</string>
+		<string lang="es">Peligroso</string>
+		<string lang="kr">위험</string>
+		<string lang="pt-br">Perigoso</string>
+</set>
+<set id="name-status-stasis">
+		<string lang="de">Stasis</string>
+		<string lang="en">Stasis</string>
+		<string lang="fr">Stase</string>
+		<string lang="zh">停滞</string>
+		<string lang="jp">スタシス</string>
+		<string lang="ru">Стазис</string>
+		<string lang="es">Estasis</string>
+		<string lang="kr">정지</string>
+		<string lang="pt-br">Estase</string>
+</set>
+<set id="name-status-transformation-volcanodamagetograv">
+		<string lang="en">Volcano $damage$ to $grav+$</string>
+		<string lang="zh">Volcano $damage$ to $grav+$</string>
+		<string lang="jp">Volcano $damage$ to $grav+$</string>
+		<string lang="kr">Volcano $damage$ to $grav+$</string>
+</set>
+<set id="name-status-transformation-volcanodamagetomight">
+		<string lang="de">Vulkan-$damage$ zu $might$</string>
+		<string lang="en">Volcano $damage$ to $might$</string>
+		<string lang="fr">Volcan $damage$ vers $might$</string>
+		<string lang="zh">火山- $damage$ 到 $might$</string>
+		<string lang="jp">火山-$damage$から$might$へ</string>
+		<string lang="ru">Вулкан $damage$ в $might$</string>
+		<string lang="es">Volcán $damage$ a $might$</string>
+		<string lang="kr">화산 $damage$ to $might$</string>
+		<string lang="pt-br">Vulcão $damage$ para $might$</string>
+</set>
+<set id="shortname-status-stasis">
+		<string lang="de">Stasis</string>
+		<string lang="en">Stasis</string>
+		<string lang="fr">Stase</string>
+		<string lang="zh">停滞</string>
+		<string lang="jp">スタシス</string>
+		<string lang="ru">Стазис</string>
+		<string lang="es">Estasis</string>
+		<string lang="kr">정지</string>
+		<string lang="pt-br">Estase</string>
+</set>
 </localization>

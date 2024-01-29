@@ -1,158 +1,166 @@
 <localization>
-    <set id="act">
-        <string lang="de">Teil</string>
-        <string lang="en">Part</string>
-        <string lang="fr">Part</string>
-        <string lang="zh">行动</string>
-        <string lang="jp">アクト</string>
-        <string lang="ru">Часть</string>
-        <string lang="es">Parte</string>
-        <string lang="kr">부분</string>
-        <string lang="pt-br">Parte</string>
-    </set>
-    <set id="act-1">
-        <string lang="de">Teil I:</string>
-        <string lang="en">Part I:</string>
-        <string lang="fr">Part I:</string>
-        <string lang="zh">第一幕</string>
-        <string lang="jp">アクト1</string>
-        <string lang="ru">Часть I:</string>
-        <string lang="es">Parte I:</string>
-        <string lang="kr">부분 I:</string>
-        <string lang="pt-br">Parte I:</string>
-    </set>
-    <set id="name-act-1">
-        <string lang="de">Quer durch die$br$sichere Zone</string>
-        <string lang="en">Across the$br$Perimeter</string>
-        <string lang="fr">En Traversant$br$le Perimètre</string>
-        <string lang="zh">跨越边缘区</string>
-        <string lang="jp">周辺を越えて</string>
-        <string lang="ru">Через Периметр</string>
-        <string lang="es">Atravesando el$br$Perímetro</string>
-        <string lang="kr">주변을 통과</string>
-        <string lang="pt-br">Atravessando o$br$Perímetro</string>
-    </set>
-    <set id="act-2">
-        <string lang="de">Teil II:</string>
-        <string lang="en">Part II:</string>
-        <string lang="fr">Part II:</string>
-        <string lang="zh">第二幕</string>
-    </set>
-    <set id="name-act-2">
-        <string lang="de">Der Verschlossene Garten</string>
-        <string lang="en">The Walled Garden</string>
-        <string lang="fr">Le Jardin Enclos</string>
-        <string lang="zh">围墙园</string>
-    </set>
-    <set id="act-3">
-        <string lang="de">Teil III:</string>
-        <string lang="en">Part III:</string>
-        <string lang="fr">Part III:</string>
-        <string lang="zh">第三幕</string>
-    </set>
-    <set id="name-act-3">
-        <string lang="de">n/a</string>
-        <string lang="en">n/a</string>
-        <string lang="fr">n/a</string>
-        <string lang="zh">n/a</string>
-    </set>
-    <set id="prologue-1">
-        <string lang="de">Es ist das Jahr 3000 und nochwas.</string>
-        <string lang="en">The year is 3000 and something.</string>
-        <string lang="fr">L'année est 3000 et quelque chose.</string>
-        <string lang="zh">现在大概是三十世纪吧。</string>
-        <string lang="jp">西暦3000年とか。</string>
-        <string lang="ru">Год 3000 или что-то вроде того.</string>
-        <string lang="es">El año es 3000 y algo.</string>
-        <string lang="kr">이것은 3000년이고 무언가입니다.</string>
-        <string lang="pt-br">O ano é 3000 e alguma coisa.</string>
-    </set>
-    <set id="prologue-2">
-        <string lang="de">Die Welt ....</string>
-        <string lang="en">The world ...</string>
-        <string lang="fr">Le monde ...</string>
-        <string lang="zh">这个世界……</string>
-        <string lang="jp">この世界……</string>
-        <string lang="ru">Мир ....</string>
-        <string lang="es">El mundo ...</string>
-        <string lang="kr">세계 ....</string>
-        <string lang="pt-br">O mundo ...</string>
-    </set>
-    <set id="prologue-2b">
-        <string lang="de">nunja ....</string>
-        <string lang="en">well ...</string>
-        <string lang="fr">bon ...</string>
-        <string lang="zh">嗯……</string>
-        <string lang="jp">うーん……</string>
-        <string lang="ru">ну ...</string>
-        <string lang="es">bueno ...</string>
-        <string lang="kr">음 ...</string>
-        <string lang="pt-br">bem ...</string>
-    </set>
-    <set id="prologue-3">
-        <string lang="de">sie wurde leider$br$ziemlich zerstört.</string>
-        <string lang="en">let's say it's gotten$br$pretty much destroyed.</string>
-        <string lang="fr">elle malheureusement a été détruite.</string>
-        <string lang="zh">可以说基本上是被摧毁了。</string>
-        <string lang="jp">それは基本的に破壊$br$されたとしましょう。</string>
-        <string lang="ru">давайте скажем, что он был$br$типа разрушен.</string>
-        <string lang="es">digamos que ha sido$br$bastante destruido.</string>
-        <string lang="kr">그것은 기본적으로$br$파괴되었다고 말합시다.</string>
-        <string lang="pt-br">digamos que foi$br$bastante destruído.</string>
-    </set>
-    <set id="prologue-4">
-        <string lang="de">Die wenigen Überlebenden der $b$Gravistrophe$/b$ leben in verstreuten Wohnlagern von gravitonischen Energiespitzen.</string>
-        <string lang="en">The few survivors of the $b$Gravistrophe$/b$$br$live in scattered campsites$br$off gravitonic energy spikes.</string>
-        <string lang="fr">Les quelques survivants de la $b$Gravistrophe$/b$$br$vivent dans des campements éparpillés$br$de crêtes d'énergie gravitonique.</string>
-        <string lang="zh">$b$引力浩劫$/b$之后，少数幸存者零零散散地居住在远离引力能量高峰的地方。</string>
-        <string lang="jp">$b$重力の大惨事$/b$ の後、$br$いくつかの生存者は、重力エネルギーのスパイクから小さなキャンプに住んでいます。</string>
-        <string lang="ru">Несколько выживших из $b$Гравистрофы$/b$$br$живут в разбросанных лагерях, укрываясь$br$от гравитонных энергетических пиков.</string>
-        <string lang="es">Los pocos sobrevivientes de la $b$gravístrofe$/b$$br$viven en campamentos dispersos$br$de picos de energía gravitónica.</string>
-        <string lang="kr">$b$중력 재앙$/b$의$br$소수 생존자들은 중력 에너지 스파이크에서 흩어져있는 캠프에서 살고 있습니다.</string>
-        <string lang="pt-br">Os poucos sobreviventes da $b$gravístrofe$/b$$br$vivem em acampamentos dispersos$br$de picos de energia gravitônica.</string>
-    </set>
-    <set id="cycle1-description">
-        <string lang="de">Kapitel I:</string>
-        <string lang="en">Chapter I:</string>
-        <string lang="fr">Chapitre I:</string>
-        <string lang="zh">第一章</string>
-        <string lang="jp">チャプター1</string>
-        <string lang="ru">Глава I:</string>
-        <string lang="es">Capítulo I:</string>
-        <string lang="kr">1장:</string>
-        <string lang="pt-br">Capítulo I:</string>
-    </set>
-    <set id="cycle1-title">
-        <string lang="de">Blackout</string>
-        <string lang="en">Blackout</string>
-        <string lang="fr">Blackout</string>
-        <string lang="zh">停电</string>
-        <string lang="jp">ブラックアウト</string>
-        <string lang="ru">Блэкаут</string>
-        <string lang="es">Apagón</string>
-        <string lang="kr">정전</string>
-        <string lang="pt-br">Apagão</string>
-    </set>
-    <set id="cycle1-story">
-        <string lang="de">Es ist Getreidefest.$br$Nana Slopper war gerade dabei, einen gravioaktiven Truthahn in den Ofen zu schieben, als der Plasmazähler auf Null fiel.$br$Jemand sollte losziehen und erforschen, was den Ärger dieses Mal verursachte.</string>
-        <string lang="en">It's grain festival.$br$Nana Slopper was about to put a gravioactive turkey in the oven when the plasma meter hit zero.$br$Someone should go and investigate what caused the ruckus this time.</string>
-        <string lang="fr">C'est fête des céréales.$br$Mamie Slopper était sur le point de mettre une dinde gravioactive dans le four lorsque le compteur à plasma indique zéro.$br$Quelqu'un devrait aller $b$chercher du plasma$/b$ et étudier ce qui a causé la panne de ce fois-ci.</string>
-        <string lang="zh">在谷物节，斯洛珀奶奶把一只引力火鸡放进烤箱的时候，等离子体计的示数突然掉到了0。$br$得有人去调查一下到底发生了什么。</string>
-        <string lang="jp">穀物まつりです。$br$おばあちゃんスロッパーは、プラズマメーターがゼロになったとき、重力で活動する七面鳥をオーブンに入れようとしていました.$br$誰かがこの騒ぎの原因を調べに行かなければなりません。</string>
-        <string lang="ru">Это фестиваль зерна.$br$Нана Слоппер собиралась положить гравиоактивную индейку в духовку, когда плазменный счетчик упал до нуля.$br$Кто-то должен пойти и выяснить, что вызвало проблемы на этот раз.</string>
-        <string lang="es">Es el festival del grano.$br$Nana Slopper estaba a punto de poner un pavo gravioactivo en el horno cuando el medidor de plasma llegó a cero.$br$Alguien debería ir e investigar qué causó el alboroto esta vez.</string>
-        <string lang="kr">그것은 곡물 축제입니다.$br$슬로퍼 할머니는 플라즈마 미터가 0이 될 때 중력 활성 터키를 오븐에 넣을 예정이었습니다.$br$누군가가 이번에 무슨 소란을 일으켰는지 조사해야합니다.</string>
-        <string lang="pt-br">É o festival do grão.$br$Nana Slopper estava prestes a colocar um peru gravioativo no forno quando o medidor de plasma atingiu zero.$br$Alguém deveria ir e investigar o que causou a confusão desta vez.</string>
-    </set>
-    <set id="cycle1-requirements">
-        <string lang="de">Schließe deinen ersten Run ab</string>
-        <string lang="en">Complete your first run</string>
-        <string lang="fr">Termine ta première course</string>
-        <string lang="zh">需要先完成一局游戏</string>
-        <string lang="jp">初めてのランを完了する</string>
-        <string lang="ru">Завершите свой первый забег</string>
-        <string lang="es">Completa tu primera carrera</string>
-        <string lang="kr">첫 번째 런을 완료하십시오.</string>
-        <string lang="pt-br">Complete sua primeira corrida</string>
-    </set>
+<set id="act">
+		<string lang="de">Teil</string>
+		<string lang="en">Part</string>
+		<string lang="fr">Part</string>
+		<string lang="zh">行动</string>
+		<string lang="jp">アクト</string>
+		<string lang="ru">Часть</string>
+		<string lang="es">Parte</string>
+		<string lang="kr">부분</string>
+		<string lang="pt-br">Parte</string>
+</set>
+<set id="act-1">
+		<string lang="de">Teil I:</string>
+		<string lang="en">Part I:</string>
+		<string lang="fr">Part I:</string>
+		<string lang="zh">第一幕</string>
+		<string lang="jp">アクト1</string>
+		<string lang="ru">Часть I:</string>
+		<string lang="es">Parte I:</string>
+		<string lang="kr">부분 I:</string>
+		<string lang="pt-br">Parte I:</string>
+</set>
+<set id="act-2">
+		<string lang="de">Teil II:</string>
+		<string lang="en">Part II:</string>
+		<string lang="fr">Part II:</string>
+		<string lang="zh">第二幕</string>
+		<string lang="jp">Part II:</string>
+		<string lang="kr">Part II:</string>
+</set>
+<set id="act-3">
+		<string lang="de">Teil III:</string>
+		<string lang="en">Part III:</string>
+		<string lang="fr">Part III:</string>
+		<string lang="zh">第三幕</string>
+		<string lang="jp">Part III:</string>
+		<string lang="kr">Part III:</string>
+</set>
+<set id="cycle1-description">
+		<string lang="de">Kapitel I:</string>
+		<string lang="en">Chapter I:</string>
+		<string lang="fr">Chapitre I:</string>
+		<string lang="zh">第一章</string>
+		<string lang="jp">チャプター1</string>
+		<string lang="ru">Глава I:</string>
+		<string lang="es">Capítulo I:</string>
+		<string lang="kr">1장:</string>
+		<string lang="pt-br">Capítulo I:</string>
+</set>
+<set id="cycle1-requirements">
+		<string lang="de">Schließe deinen ersten Run ab</string>
+		<string lang="en">Complete your first run</string>
+		<string lang="fr">Termine ta première course</string>
+		<string lang="zh">需要先完成一局游戏</string>
+		<string lang="jp">初めてのランを完了する</string>
+		<string lang="ru">Завершите свой первый забег</string>
+		<string lang="es">Completa tu primera carrera</string>
+		<string lang="kr">첫 번째 런을 완료하십시오.</string>
+		<string lang="pt-br">Complete sua primeira corrida</string>
+</set>
+<set id="cycle1-story">
+		<string lang="de">Es ist Getreidefest.$br$Nana Slopper war gerade dabei, einen gravioaktiven Truthahn in den Ofen zu schieben, als der Plasmazähler auf Null fiel.$br$Jemand sollte losziehen und erforschen, was den Ärger dieses Mal verursachte.</string>
+		<string lang="en">It's grain festival.$br$Nana Slopper was about to put a gravioactive turkey in the oven when the plasma meter hit zero.$br$Someone should go and investigate what caused the ruckus this time.</string>
+		<string lang="fr">C'est fête des céréales.$br$Mamie Slopper était sur le point de mettre une dinde gravioactive dans le four lorsque le compteur à plasma indique zéro.$br$Quelqu'un devrait aller $b$chercher du plasma$/b$ et étudier ce qui a causé la panne de ce fois-ci.</string>
+		<string lang="zh">在谷物节，斯洛珀奶奶把一只引力火鸡放进烤箱的时候，等离子体计的示数突然掉到了0。$br$得有人去调查一下到底发生了什么。</string>
+		<string lang="jp">穀物まつりです。$br$おばあちゃんスロッパーは、プラズマメーターがゼロになったとき、重力で活動する七面鳥をオーブンに入れようとしていました.$br$誰かがこの騒ぎの原因を調べに行かなければなりません。</string>
+		<string lang="ru">Это фестиваль зерна.$br$Нана Слоппер собиралась положить гравиоактивную индейку в духовку, когда плазменный счетчик упал до нуля.$br$Кто-то должен пойти и выяснить, что вызвало проблемы на этот раз.</string>
+		<string lang="es">Es el festival del grano.$br$Nana Slopper estaba a punto de poner un pavo gravioactivo en el horno cuando el medidor de plasma llegó a cero.$br$Alguien debería ir e investigar qué causó el alboroto esta vez.</string>
+		<string lang="kr">그것은 곡물 축제입니다.$br$슬로퍼 할머니는 플라즈마 미터가 0이 될 때 중력 활성 터키를 오븐에 넣을 예정이었습니다.$br$누군가가 이번에 무슨 소란을 일으켰는지 조사해야합니다.</string>
+		<string lang="pt-br">É o festival do grão.$br$Nana Slopper estava prestes a colocar um peru gravioativo no forno quando o medidor de plasma atingiu zero.$br$Alguém deveria ir e investigar o que causou a confusão desta vez.</string>
+</set>
+<set id="cycle1-title">
+		<string lang="de">Blackout</string>
+		<string lang="en">Blackout</string>
+		<string lang="fr">Blackout</string>
+		<string lang="zh">停电</string>
+		<string lang="jp">ブラックアウト</string>
+		<string lang="ru">Блэкаут</string>
+		<string lang="es">Apagón</string>
+		<string lang="kr">정전</string>
+		<string lang="pt-br">Apagão</string>
+</set>
+<set id="name-act-1">
+		<string lang="de">Quer durch die$br$sichere Zone</string>
+		<string lang="en">Across the$br$Perimeter</string>
+		<string lang="fr">En Traversant$br$le Perimètre</string>
+		<string lang="zh">跨越边缘区</string>
+		<string lang="jp">周辺を越えて</string>
+		<string lang="ru">Через Периметр</string>
+		<string lang="es">Atravesando el$br$Perímetro</string>
+		<string lang="kr">주변을 통과</string>
+		<string lang="pt-br">Atravessando o$br$Perímetro</string>
+</set>
+<set id="name-act-2">
+		<string lang="de">Der Verschlossene Garten</string>
+		<string lang="en">The Walled Garden</string>
+		<string lang="fr">Le Jardin Enclos</string>
+		<string lang="zh">围墙园</string>
+		<string lang="jp">The Walled Garden</string>
+		<string lang="kr">The Walled Garden</string>
+</set>
+<set id="name-act-3">
+		<string lang="de">n/a</string>
+		<string lang="en">n/a</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">n/a</string>
+		<string lang="jp">n/a</string>
+		<string lang="kr">n/a</string>
+</set>
+<set id="prologue-1">
+		<string lang="de">Es ist das Jahr 3000 und nochwas.</string>
+		<string lang="en">The year is 3000 and something.</string>
+		<string lang="fr">L'année est 3000 et quelque chose.</string>
+		<string lang="zh">现在大概是三十世纪吧。</string>
+		<string lang="jp">西暦3000年とか。</string>
+		<string lang="ru">Год 3000 или что-то вроде того.</string>
+		<string lang="es">El año es 3000 y algo.</string>
+		<string lang="kr">이것은 3000년이고 무언가입니다.</string>
+		<string lang="pt-br">O ano é 3000 e alguma coisa.</string>
+</set>
+<set id="prologue-2">
+		<string lang="de">Die Welt ....</string>
+		<string lang="en">The world ...</string>
+		<string lang="fr">Le monde ...</string>
+		<string lang="zh">这个世界……</string>
+		<string lang="jp">この世界……</string>
+		<string lang="ru">Мир ....</string>
+		<string lang="es">El mundo ...</string>
+		<string lang="kr">세계 ....</string>
+		<string lang="pt-br">O mundo ...</string>
+</set>
+<set id="prologue-2b">
+		<string lang="de">nunja ....</string>
+		<string lang="en">well ...</string>
+		<string lang="fr">bon ...</string>
+		<string lang="zh">嗯……</string>
+		<string lang="jp">うーん……</string>
+		<string lang="ru">ну ...</string>
+		<string lang="es">bueno ...</string>
+		<string lang="kr">음 ...</string>
+		<string lang="pt-br">bem ...</string>
+</set>
+<set id="prologue-3">
+		<string lang="de">sie wurde leider$br$ziemlich zerstört.</string>
+		<string lang="en">let's say it's gotten$br$pretty much destroyed.</string>
+		<string lang="fr">elle malheureusement a été détruite.</string>
+		<string lang="zh">可以说基本上是被摧毁了。</string>
+		<string lang="jp">それは基本的に破壊$br$されたとしましょう。</string>
+		<string lang="ru">давайте скажем, что он был$br$типа разрушен.</string>
+		<string lang="es">digamos que ha sido$br$bastante destruido.</string>
+		<string lang="kr">그것은 기본적으로$br$파괴되었다고 말합시다.</string>
+		<string lang="pt-br">digamos que foi$br$bastante destruído.</string>
+</set>
+<set id="prologue-4">
+		<string lang="de">Die wenigen Überlebenden der $b$Gravistrophe$/b$ leben in verstreuten Wohnlagern von gravitonischen Energiespitzen.</string>
+		<string lang="en">The few survivors of the $b$Gravistrophe$/b$$br$live in scattered campsites$br$off gravitonic energy spikes.</string>
+		<string lang="fr">Les quelques survivants de la $b$Gravistrophe$/b$$br$vivent dans des campements éparpillés$br$de crêtes d'énergie gravitonique.</string>
+		<string lang="zh">$b$引力浩劫$/b$之后，少数幸存者零零散散地居住在远离引力能量高峰的地方。</string>
+		<string lang="jp">$b$重力の大惨事$/b$ の後、$br$いくつかの生存者は、重力エネルギーのスパイクから小さなキャンプに住んでいます。</string>
+		<string lang="ru">Несколько выживших из $b$Гравистрофы$/b$$br$живут в разбросанных лагерях, укрываясь$br$от гравитонных энергетических пиков.</string>
+		<string lang="es">Los pocos sobrevivientes de la $b$gravístrofe$/b$$br$viven en campamentos dispersos$br$de picos de energía gravitónica.</string>
+		<string lang="kr">$b$중력 재앙$/b$의$br$소수 생존자들은 중력 에너지 스파이크에서 흩어져있는 캠프에서 살고 있습니다.</string>
+		<string lang="pt-br">Os poucos sobreviventes da $b$gravístrofe$/b$$br$vivem em acampamentos dispersos$br$de picos de energia gravitônica.</string>
+</set>
 </localization>
