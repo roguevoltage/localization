@@ -155,7 +155,7 @@
 </set>
 <set id="description-module-effectoraccelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav-$ zu.</string>
-		<string lang="en">Inflicts any target with $grav-$.</string>
+		<string lang="en">Inflicts any target with$br$$grav-$.</string>
 		<string lang="fr">Inflige $grav-$ sur le combattant ciblé.</string>
 		<string lang="zh">让目标获得 $grav-$ 。</string>
 		<string lang="jp">ターゲットに$grav-$を与えます。</string>
@@ -320,7 +320,7 @@
 </set>
 <set id="description-module-generator">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
@@ -331,7 +331,7 @@
 </set>
 <set id="description-module-generatordecelerating">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
@@ -342,7 +342,7 @@
 </set>
 <set id="description-module-generatordirty">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="zh">启动时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
@@ -547,7 +547,7 @@
 </set>
 <set id="description-module-toggleddurabilityenhancer">
 		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$br$- oder -$br$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
-		<string lang="en">Permanently removes $overload$ from a module$br$on this rack$br$- or -$br$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
+		<string lang="en">Permanently removes $overload$ from a module on this rack$br$- or -$br$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
 		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$br$- ou -$br$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
 		<string lang="zh">永久地从本机架上的一个模块中移除 $overload$$br$- 或 -$br$永久地从本机架上的一个模块中移除 $malfunctioning$ 并用 $overload$ 替换它。</string>
 		<string lang="jp">このラックのモジュールから$overload$を永久に削除します$br$- または -$br$このラックのモジュールから$malfunctioning$を永久に削除し、$overload$に置き換えます。</string>

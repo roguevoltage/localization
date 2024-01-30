@@ -62,47 +62,37 @@
 		<string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
 </set>
 <set id="exhaustion">
-		<string lang="de">$b$Erschöpfung$/b$</string>
-		<string lang="en">$b$Exhaustion$/b$</string>
-		<string lang="fr">$b$Fatigue$/b$</string>
-		<string lang="zh">$b$疲劳$/b$</string>
-		<string lang="jp">$b$疲労$/b$</string>
-		<string lang="ru">$b$Изнурение$/b$</string>
-		<string lang="es">$b$Agotamiento$/b$</string>
-		<string lang="kr">$b$피로$/b$</string>
-		<string lang="pt-br">$b$Exaustão$/b$</string>
+		<string lang="de">Erschöpfung $EXHAUSTION$</string>
+		<string lang="en">Exhaustion $EXHAUSTION$</string>
+		<string lang="fr">Fatigue $EXHAUSTION$</string>
+		<string lang="zh">疲劳 $EXHAUSTION$</string>
+		<string lang="jp">疲労 $EXHAUSTION$</string>
+		<string lang="ru">Изнурение $EXHAUSTION$</string>
+		<string lang="es">Agotamiento $EXHAUSTION$</string>
+		<string lang="kr">피로 $EXHAUSTION$</string>
+		<string lang="pt-br">Exaustão $EXHAUSTION$</string>
 </set>
-<set id="exhaustion-dependingonwiring">
-		<string lang="de">$b$Erschöpfung$/b$
-Abhängig von aktivierten Modulen</string>
-		<string lang="en">$b$Exhaustion$/b$</string>
-		<string lang="fr">$b$Fatigue$/b$
-En fonction du câble</string>
-		<string lang="zh">$b$疲劳$/b$</string>
-		<string lang="jp">$b$疲労$/b$</string>
-		<string lang="ru">$b$Изнурение$/b$
-В зависимости от подключенных модулей</string>
-		<string lang="es">$b$Agotamiento$/b$
-Dependiendo de los módulos activados</string>
-		<string lang="kr">$b$피로$/b$</string>
-		<string lang="pt-br">$b$Exaustão$/b$
-Dependendo dos módulos ativados</string>
+<set id="exhaustion-description-dependingonwiring">
+		<string lang="de">Abhängig von aktivierten Modulen</string>
+		<string lang="en">Depending on wired modules</string>
+		<string lang="fr">En fonction du câble</string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru">В зависимости от подключенных модулей</string>
+		<string lang="es">Dependiendo de los módulos activados</string>
+		<string lang="kr"></string>
+		<string lang="pt-br">Dependendo dos módulos ativados</string>
 </set>
-<set id="exhaustion-turndelay">
-		<string lang="de">$b$Erschöpfung $EXHAUSTION$$/b$
-Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
-		<string lang="en">$b$Exhaustion $EXHAUSTION$$/b$</string>
-		<string lang="fr">$b$Fatigue $EXHAUSTION$$/b$
-Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
-		<string lang="zh">$b$疲劳 $EXHAUSTION$$/b$</string>
-		<string lang="jp">$b$疲労 $EXHAUSTION$$/b$</string>
-		<string lang="ru">$b$Изнурение $EXHAUSTION$$/b$
-Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
-		<string lang="es">$b$Agotamiento $EXHAUSTION$$/b$
-La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
-		<string lang="kr">$b$피로 $EXHAUSTION$$/b$</string>
-		<string lang="pt-br">$b$Exaustão $EXHAUSTION$$/b$
-A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
+<set id="exhaustion-description-turndelay">
+		<string lang="de">Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
+		<string lang="en">Activation sets back next turn by $EXHAUSTION$</string>
+		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru">Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
+		<string lang="es">La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
+		<string lang="kr"></string>
+		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
 </set>
 <set id="factory-proportion">
 		<string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
