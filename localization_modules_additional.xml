@@ -282,6 +282,9 @@
 		<string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$33%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
 		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
 </set>
+<set id="description-module-passivegravdissipator">
+		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
+</set>
 <set id="description-module-passivegravspike">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
 		<string lang="en">Heals both player characters by $1$ whenever the $b$Grav. Equilibrium$/b$ produces a Grav. Spike.</string>
@@ -402,12 +405,12 @@
 		<string lang="kr">Pushes back $storm$$br$by $b$10$/b$ time steps.</string>
 </set>
 <set id="description-module-toggledrepairkit">
-		<string lang="de">Entfernt $cooldown$ und $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
-		<string lang="en">Removes $outoforder$ or $cooldown$ from target module on this rack.</string>
-		<string lang="fr">Retire $cooldown$ ou $outoforder$ d'un module ciblé sur ce rack.</string>
-		<string lang="zh">从本机架上的目标模块中移除 $outoforder$ 或 $cooldown$ 。</string>
-		<string lang="jp">このラックのターゲットモジュールから$cooldown$または$outoforder$を削除します。</string>
-		<string lang="kr">Removes $outoforder$ or $cooldown$ from target module on this rack.</string>
+		<string lang="de">Entfernt $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
+		<string lang="en">Removes $outoforder$ from target module on this rack.</string>
+		<string lang="fr">Retire $outoforder$ d'un module ciblé sur ce rack.</string>
+		<string lang="zh">从本机架上的目标模块中移除 $outoforder$。</string>
+		<string lang="jp">このラックのターゲットモジュールから$outoforder$を削除します。</string>
+		<string lang="kr">Removes $outoforder$ from target module on this rack.</string>
 </set>
 <set id="description-module-toggledstormrepeller">
 		<string lang="en">Permanently applies the $b$Storm Repeller$/b$ status to target $passthroughmodule$ on this rack.</string>
@@ -737,6 +740,9 @@
 		<string lang="es">Regulador</string>
 		<string lang="kr">레귤레이터</string>
 		<string lang="pt-br">Regulador</string>
+</set>
+<set id="name-module-passivegravdissipator">
+		<string lang="en">Grav. Dissipator</string>
 </set>
 <set id="name-module-passivegravspike">
 		<string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
