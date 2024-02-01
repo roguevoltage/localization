@@ -29,16 +29,16 @@
 		<string lang="kr">Cannot be taken from rack$br$while wired to a threat module</string>
 </set>
 <set id="description-status-modulereplicating">
-		<string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
-		<string lang="zh">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
-		<string lang="jp">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
-		<string lang="kr">Activating this module will create a copy of itself. The copy has $outoforder$ and loses $replicating$.</string>
+		<string lang="en">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
+		<string lang="zh">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
+		<string lang="jp">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
+		<string lang="kr">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
 </set>
 <set id="description-status-modulereplicating-infinitely">
-		<string lang="en">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
-		<string lang="zh">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
-		<string lang="jp">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
-		<string lang="kr">Activating this module will create a copy of itself. The copy has $outoforder$.</string>
+		<string lang="en">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
+		<string lang="zh">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
+		<string lang="jp">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
+		<string lang="kr">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
 </set>
 <set id="description-status-modulestormattractor">
 		<string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
