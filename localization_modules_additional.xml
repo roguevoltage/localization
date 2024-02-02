@@ -368,6 +368,9 @@
 		<string lang="jp">Applies $replicating$ to another target module on this rack with $cracked$.</string>
 		<string lang="kr">Applies $replicating$ to another target module on this rack with $cracked$.</string>
 </set>
+<set id="description-module-toggledgravinverter">
+		<string lang="en">Inverts the current $grav$ on all combatants.</string>
+</set>
 <set id="description-module-toggledgravvacuum">
 		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack that does not already have $gravvacuum$.</string>
 		<string lang="zh">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack that does not already have $gravvacuum$.</string>
@@ -384,9 +387,6 @@
 </set>
 <set id="description-module-toggledgrenadegravinverter">
 		<string lang="en">Inverts the current $grav$ on all combatants.</string>
-		<string lang="zh">Inverts the current $grav$ on all combatants.</string>
-		<string lang="jp">Inverts the current $grav$ on all combatants.</string>
-		<string lang="kr">Inverts the current $grav$ on all combatants.</string>
 </set>
 <set id="description-module-toggledgrenademightnullifier">
 		<string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
@@ -825,11 +825,11 @@
 		<string lang="jp">Echo Chamber</string>
 		<string lang="kr">Echo Chamber</string>
 </set>
+<set id="name-module-toggledgravinverter">
+		<string lang="en">Grav. Inverter</string>
+</set>
 <set id="name-module-toggledgravvacuum">
 		<string lang="en">Passthrough Vacuumizer</string>
-		<string lang="zh">Passthrough Vacuumizer</string>
-		<string lang="jp">Passthrough Vacuumizer</string>
-		<string lang="kr">Passthrough Vacuumizer</string>
 </set>
 <set id="name-module-toggledgrenadegravimmunity">
 		<string lang="de">Grav.-Immunitäts-Granate</string>
@@ -839,11 +839,8 @@
 		<string lang="jp">グラビティヌルファイアー</string>
 		<string lang="kr">Grav. Immunity Grenade</string>
 </set>
-<set id="name-module-toggledgrenadegravinverter">
+<set id="name-module-toggledadegravinverter">
 		<string lang="en">Grav. Inverter Grenade</string>
-		<string lang="zh">Grav. Inverter Grenade</string>
-		<string lang="jp">Grav. Inverter Grenade</string>
-		<string lang="kr">Grav. Inverter Grenade</string>
 </set>
 <set id="name-module-toggledgrenademightnullifier">
 		<string lang="de">Macht-Nullifizierer</string>
