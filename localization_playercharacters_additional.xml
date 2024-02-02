@@ -12,9 +12,6 @@
 </set>
 <set id="description-playercharacter-ninja">
 		<string lang="en">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
-		<string lang="zh">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
-		<string lang="jp">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
-		<string lang="kr">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
 </set>
 <set id="description-playercharacter-nomad">
 		<string lang="de">Ein Fremder, der gelernt hat, die Muster des Sturms zu lesen. Seine Augen wirken sanft und vertraut.</string>
@@ -37,6 +34,9 @@
 		<string lang="es">La creación final del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
 		<string lang="kr">스로퍼 할아버지의 최후의 창작물입니다. 아마도 그의 프로토타입 중 가장 효율적이지는 않을 것입니다.</string>
 		<string lang="pt-br">A criação final do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
+</set>
+<set id="description-playercharacter-runner">
+		<string lang="en">The Slopper's second cousin. She'd prefer to not have to do anything with them.</string>
 </set>
 <set id="description-playercharacter-sol">
 		<string lang="de">Eine ehemalige Bewohnerin des Umschlossenen Gartens. Hat ihr privilegiertes Leben hinter sich gelassen, um den Fluss der Zeit wiederherzustellen.</string>
@@ -137,6 +137,12 @@
 		<string lang="kr">플라즈마$br$메카</string>
 		<string lang="pt-br">Plasma$br$Mech</string>
 </set>
+<set id="name-playercharacter-runner">
+		<string lang="en">Jessy S.</string>
+</set>
+<set id="name-playercharacter-runner-twolines">
+		<string lang="en">Jessy S.</string>
+</set>
 <set id="name-playercharacter-sol">
 		<string lang="de">Sol</string>
 		<string lang="en">Sol</string>
@@ -183,9 +189,6 @@
 </set>
 <set id="quote-playercharacter-ninja">
 		<string lang="en">"I will find out what happened and make somebody pay!"</string>
-		<string lang="zh">"I will find out what happened and make somebody pay!"</string>
-		<string lang="jp">"I will find out what happened and make somebody pay!"</string>
-		<string lang="kr">"I will find out what happened and make somebody pay!"</string>
 </set>
 <set id="quote-playercharacter-nomad">
 		<string lang="de">"Psst! Folge mir."</string>
@@ -208,6 +211,9 @@
 		<string lang="es">"Almacenamiento de plasma agotado. Por favor, reemplace el cartucho de plasma."</string>
 		<string lang="kr">"플라즈마 저장소가 고갈되었습니다. 플라즈마 카트리지를 교체하십시오."</string>
 		<string lang="pt-br">"Armazenamento de plasma esgotado. Por favor, substitua o cartucho de plasma."</string>
+</set>
+<set id="quote-playercharacter-runner">
+		<string lang="en">"Oh my Gorf! This tracksuit was like 9 Plasma!"</string>
 </set>
 <set id="quote-playercharacter-sol">
 		<string lang="de">"Wir müssen diesem zeitlichen Unrecht ein Ende setzen."</string>
@@ -274,6 +280,9 @@
 		<string lang="es">Mech</string>
 		<string lang="kr">메카</string>
 		<string lang="pt-br">Mech</string>
+</set>
+<set id="shortname-playercharacter-runner">
+		<string lang="en">Jessy</string>
 </set>
 <set id="shortname-playercharacter-sol">
 		<string lang="de">Sol</string>
