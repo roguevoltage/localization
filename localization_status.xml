@@ -28,7 +28,7 @@
 		<string lang="zh">如果放置在机架上，将在拥有者回合结束时改变其颜色</string>
 		<string lang="jp">ラックに置かれた場合、オーナーのターン終了時に色を変更します</string>
 		<string lang="ru">Изменяет цвет в конце хода владельца, если размещен в стойке</string>
-		<string lang="es">Cambia el color al final del turno del propietario</string>
+		<string lang="es">Cambia de color al final del turno del propietario</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Muda a cor no final do turno do dono se colocado no rack</string>
 </set>
@@ -72,7 +72,7 @@
 		<string lang="zh">激活后摧毁</string>
 		<string lang="jp">活性化後に破壊される</string>
 		<string lang="ru">Разрушается после активации</string>
-		<string lang="es">Destruído después de la activación</string>
+		<string lang="es">Se destruirá después de la activación</string>
 		<string lang="kr">활성화 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a ativação</string>
 </set>
@@ -83,7 +83,7 @@
 		<string lang="zh">放电后摧毁</string>
 		<string lang="jp">放電後に破壊される</string>
 		<string lang="ru">Разрушается после разряда</string>
-		<string lang="es">Destruído después de la descarga</string>
+		<string lang="es">Se destruirá después de la descarga</string>
 		<string lang="kr">방전 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a descarga</string>
 </set>
@@ -94,7 +94,7 @@
 		<string lang="zh">再次激活后摧毁</string>
 		<string lang="jp">追加の活性化後に破壊される</string>
 		<string lang="ru">Разрушается после дополнительной активации</string>
-		<string lang="es">Destruído después de la activación adicional</string>
+		<string lang="es">Se destruirá después de la activación adicional</string>
 		<string lang="kr">추가 활성화 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a ativação adicional</string>
 </set>
@@ -105,7 +105,7 @@
 		<string lang="zh">再次放电后摧毁</string>
 		<string lang="jp">追加の放電後に破壊される</string>
 		<string lang="ru">Разрушается после дополнительного разряда</string>
-		<string lang="es">Destruído después de la descarga adicional</string>
+		<string lang="es">Se destruirá después de la descarga adicional</string>
 		<string lang="kr">추가 방전 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a descarga adicional</string>
 </set>
@@ -116,7 +116,7 @@
 		<string lang="zh">在本回合激活将会摧毁模块</string>
 		<string lang="jp">このターンの活性化はモジュールを破壊します</string>
 		<string lang="ru">Активация в этом ходу разрушит модуль</string>
-		<string lang="es">La activación de este turno destruirá el módulo</string>
+		<string lang="es">La activación destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">A ativação deste turno destruirá o módulo</string>
 </set>
@@ -127,7 +127,7 @@
 		<string lang="zh">在本回合放电将会摧毁模块</string>
 		<string lang="jp">このターンの放電はモジュールを破壊します</string>
 		<string lang="ru">Разряд в этом ходу разрушит модуль</string>
-		<string lang="es">La descarga de este turno destruirá el módulo</string>
+		<string lang="es">La descarga destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 방전하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">A descarga deste turno destruirá o módulo</string>
 </set>
@@ -226,7 +226,7 @@
 		<string lang="zh">回合结束前锁定在机架</string>
 		<string lang="jp">ターン終了までラックに固定</string>
 		<string lang="ru">Закрыто до конца хода</string>
-		<string lang="es">Bloqueado al rack hasta el final del turno</string>
+		<string lang="es">Bloqueado en el rack hasta el final del turno</string>
 		<string lang="kr">턴 종료까지 랙에 고정됩니다</string>
 		<string lang="pt-br">Trancado no rack até o final do turno</string>
 </set>
@@ -248,7 +248,7 @@
 		<string lang="zh">不能从机架上取下</string>
 		<string lang="jp">ラックから取り外せません</string>
 		<string lang="ru">Нельзя переместить со стойки</string>
-		<string lang="es">No puede ser tomado del rack</string>
+		<string lang="es">No se puede sacar del rack</string>
 		<string lang="kr">랙에서 가져올 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 </set>
@@ -314,7 +314,7 @@
 		<string lang="zh">在本场战斗中不能再次激活</string>
 		<string lang="jp">この戦闘ではもうアクティブ化できません</string>
 		<string lang="ru">Больше не может быть активирован в этом бою</string>
-		<string lang="es">No puede ser activado más en esta batalla</string>
+		<string lang="es">No puede ser activado de nuevo en esta batalla</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Não pode ser ativado mais nesta batalha</string>
 </set>
@@ -347,7 +347,7 @@
 		<string lang="zh">在本回合激活将导致 $cooldown$</string>
 		<string lang="jp">このターンにアクティブ化は $cooldown$を引き起こします</string>
 		<string lang="ru">Активация в этом ходу даст $cooldown$</string>
-		<string lang="es">La activación de este turno conducirá a $cooldown$</string>
+		<string lang="es">La activación este turno causará $cooldown$</string>
 		<string lang="kr">이번 턴에 활성화하면 $cooldown$가 됩니다</string>
 		<string lang="pt-br">A ativação deste turno levará a $cooldown$</string>
 </set>
@@ -358,7 +358,7 @@
 		<string lang="zh">在本回合放电将导致 $cooldown$</string>
 		<string lang="jp">このターンに放電は $cooldown$を引き起こします</string>
 		<string lang="ru">Разрядка в этом ходу даст $cooldown$</string>
-		<string lang="es">La descarga de este turno conducirá a $cooldown$</string>
+		<string lang="es">La descarga este turno causará $cooldown$</string>
 		<string lang="kr">이번 턴에 방전하면 $cooldown$가 됩니다</string>
 		<string lang="pt-br">A descarga deste turno levará a $cooldown$</string>
 </set>
@@ -380,7 +380,7 @@
 		<string lang="zh">在本回合激活将消耗 $1plasma$</string>
 		<string lang="jp">このターンにアクティブ化は $1plasma$を消費します</string>
 		<string lang="ru">Активация в этом ходу даст $1plasma$</string>
-		<string lang="es">La activación de este turno usa $1plasma$</string>
+		<string lang="es">La activación este turno usa $1plasma$</string>
 		<string lang="kr">이번 턴에 활성화는 $1plasma$를 사용합니다</string>
 		<string lang="pt-br">A ativação deste turno usa $1plasma$</string>
 </set>
@@ -435,7 +435,7 @@
 		<string lang="zh">在本回合激活将导致 $crust$</string>
 		<string lang="jp">このターンにアクティブ化は $crust$を引き起こします</string>
 		<string lang="ru">Активация в этом ходу даст $crust$</string>
-		<string lang="es">La activación de este turno conducirá a $crust$</string>
+		<string lang="es">La activación de este turno causará $crust$</string>
 		<string lang="kr">이번 턴에 활성화하면 $crust$가 됩니다</string>
 		<string lang="pt-br">A ativação deste turno levará a $crust$</string>
 </set>
@@ -820,7 +820,7 @@
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
 		<string lang="ru">Самокристаллизация</string>
-		<string lang="es">Auto-encrustación</string>
+		<string lang="es">Auto-Envolver</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
 </set>
@@ -831,7 +831,7 @@
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
 		<string lang="ru">Самокристаллизация</string>
-		<string lang="es">Auto-encrustación</string>
+		<string lang="es">Auto-Envolver</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
 </set>
@@ -1084,7 +1084,7 @@
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
 		<string lang="ru">Само-Кристаллизация</string>
-		<string lang="es">Auto-Encrustamiento</string>
+		<string lang="es">Auto-Envolver</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
 </set>
@@ -1095,7 +1095,7 @@
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
 		<string lang="ru">Само-Кристаллизация</string>
-		<string lang="es">Auto-Encrustamiento</string>
+		<string lang="es">Auto-Envolver</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
 </set>
