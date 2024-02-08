@@ -83,7 +83,7 @@
 		<string lang="zh">如果 $might$ 充满，它将消耗全部 $might$ 进行一次复制</string>
 		<string lang="jp">$might$ が満タンの場合、$might$ を消費して自身を複製する</string>
 		<string lang="ru">Если $might$ заполнен, то удаляет все $might$ для дублирования.</string>
-		<string lang="es">Si $might$ está lleno, remueve todos los $might$ para duplicarse.</string>
+		<string lang="es">Si $might$ está lleno, retira todos los $might$ para duplicarse.</string>
 		<string lang="kr">$might$ 가 가득 찬 경우, 모든 $might$ 를 제거하여 복제합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele remove todos os $might$ para duplicar.</string>
 </set>
@@ -105,7 +105,7 @@
 		<string lang="zh">移除目标身上的所有 $grav+$ 并造成相同的 $damage$</string>
 		<string lang="jp">敵の $grav+$ を消費して、その分の $damage$ を与える</string>
 		<string lang="ru">Удаляет все $grav+$ с цели и наносит столько же $damage$.</string>
-		<string lang="es">Remueve todos los $grav+$ de un objetivo para infligir tanto $damage$.</string>
+		<string lang="es">Remueve todos los $grav+$ de un objetivo para infligir el mismo $damage$.</string>
 		<string lang="kr">대상의 모든 $grav+$ 를 제거하여 그만큼의 $damage$ 를 입힙니다.</string>
 		<string lang="pt-br">Remove todos os $grav+$ de um alvo para infligir tanto $damage$.</string>
 </set>
@@ -116,7 +116,7 @@
 		<string lang="zh">移除目标身上的所有 $grav+$ 并造成相同的 $damage$</string>
 		<string lang="jp">敵の $grav+$ を消費して、その分の $damage$ を与える</string>
 		<string lang="ru">Удаляет все $grav+$ с цели и наносит столько же $damage$.</string>
-		<string lang="es">Remueve todos los $grav+$ de un objetivo para infligir tanto $damage$.</string>
+		<string lang="es">Remueve todos los $grav+$ de un objetivo para infligir el mismo $damage$.</string>
 		<string lang="kr">대상의 모든 $grav+$ 를 제거하여 그만큼의 $damage$ 를 입힙니다.</string>
 </set>
 <set id="description-skill-gravimplode-one">
@@ -258,7 +258,7 @@
 		<string lang="zh">移除目标身上的 $grav+1$ 并施加到另一个目标身上</string>
 		<string lang="jp">敵の $grav+1$ を消費して、他の敵に与える</string>
 		<string lang="ru">Удаляет $grav+1$ с цели и переносит на другого бойца.</string>
-		<string lang="es">Remueve $grav+1$ del combatiente objetivo y lo pone en otro combatiente</string>
+		<string lang="es">Retira $grav+1$ del combatiente objetivo y lo pone en otro combatiente</string>
 		<string lang="kr">대상으로부터 $grav+1$ 를 제거하고 다른 대상에게 적용합니다.</string>
 		<string lang="pt-br">Remove $grav+1$ de um alvo e o coloca em outro alvo.</string>
 </set>
@@ -303,7 +303,7 @@
 		<string lang="zh">对所有敌人造成 $1damage$ 并给每个模块施加 $gravrecoil$</string>
 		<string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
 		<string lang="ru">Наносит $1damage$ всем врагам и накладывает $gravrecoil$ на каждый модуль.</string>
-		<string lang="es">Inflige a todos los enemigos $1damage$ y les aplica un módulo con $gravrecoil$</string>
+		<string lang="es">Inflige a todos los enemigos $1damage$ y le aplica $gravrecoil$ a un módulo.</string>
 		<string lang="kr">모든 적에게 $1damage$ 를 적용하고 모듈에 $gravrecoil$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os inimigos $1damage$ e lhes aplica um módulo com $gravrecoil$</string>
 </set>
@@ -314,7 +314,7 @@
 		<string lang="zh">对一个敌人造成 $1damage$ 并给一个模块施加 $gravrecoil$</string>
 		<string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
 		<string lang="ru">Наносит $1damage$ врагу и накладывает $gravrecoil$ на модуль.</string>
-		<string lang="es">Inflige a un enemigo $1damage$ y le aplica un módulo con $gravrecoil$</string>
+		<string lang="es">Inflige a un enemigo $1damage$ y le aplica $gravrecoil$ a un módulo.</string>
 		<string lang="kr">적에게 $1damage$ 를 적용하고 모듈에 $gravrecoil$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $gravrecoil$</string>
 </set>
@@ -325,7 +325,7 @@
 		<string lang="zh">对一个模块施加 $plasmacombustion$ 并造成 $1damage$</string>
 		<string lang="jp">モジュールに $plasmacombustion$ を与え、$1damage$ を与える</string>
 		<string lang="ru">Наносит $1damage$ и накладывает $plasmacombustion$ на модуль.</string>
-		<string lang="es">Inflige $1damage$ y le aplica un módulo con $plasmacombustion$</string>
+		<string lang="es">Inflige $1damage$ y le aplica $plasmacombustion$ a un módulo.</string>
 		<string lang="kr">모듈에 $plasmacombustion$ 를 적용하고 $1damage$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ e lhe aplica um módulo com $plasmacombustion$</string>
 </set>
@@ -336,7 +336,7 @@
 		<string lang="zh">对敌人的两个模块施加 $selfencrusting$</string>
 		<string lang="jp">敵の2つのモジュールに $selfencrusting$ を与える</string>
 		<string lang="ru">Накладывает $selfencrusting$$br$на два модуля.</string>
-		<string lang="es">Inflige dos módulos con$br$$selfencrusting$.</string>
+		<string lang="es">Inflige $br$$selfencrusting$ a dos módulos.</string>
 		<string lang="kr">적의 두 모듈에 $selfencrusting$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige dois módulos com$br$$selfencrusting$.</string>
 </set>
@@ -358,7 +358,7 @@
 		<string lang="zh">将自身的 $grav+$ 分散到所有敌人身上</string>
 		<string lang="jp">現在の $grav+$ を全ての敵に与える</string>
 		<string lang="ru">Распространяет свой текущий $grav+$ на всех врагов.</string>
-		<string lang="es">Distribuye su actual $grav+$ sobre todos los enemigos</string>
+		<string lang="es">Distribuye su $grav+$ actual sobre todos los enemigos.</string>
 		<string lang="kr">현재 $grav+$ 를 모든 적에게 분산시킵니다.</string>
 		<string lang="pt-br">Espalha seu atual $grav+$ sobre todos os inimigos</string>
 </set>
@@ -369,7 +369,7 @@
 		<string lang="zh">对身体造成 $2damage$</string>
 		<string lang="jp">機体に $2damage$ を与える</string>
 		<string lang="ru">Наносит $2damage$ телу.</string>
-		<string lang="es">Inflige al cuerpo $2damage$</string>
+		<string lang="es">Inflige $2damage$ al cuerpo.</string>
 		<string lang="kr">몸체에 $2damage$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige ao corpo $2damage$</string>
 </set>
@@ -402,7 +402,7 @@
 		<string lang="zh">每当 $crust$ 被破坏时，$might$ 增加 $1$</string>
 		<string lang="jp">$crust$ が破壊されるたびに、$might$ を $1$ 増加する</string>
 		<string lang="ru">Повышает $might$ на $1$ каждый раз, когда $crust$ разрушается.</string>
-		<string lang="es">Aumenta $might$ en $1$ cada vez que se rompe una $crust$</string>
+		<string lang="es">Aumenta $might$ en $1$ cada vez que se rompe un $crust$</string>
 		<string lang="kr">$crust$ 가 파괴될 때마다 $might$ 를 $1$ 만큼 증가시킵니다.</string>
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que uma $crust$ é quebrada.</string>
 </set>
@@ -424,7 +424,7 @@
 		<string lang="zh">每当受到 $damage$ 时，$might$ 增加 $1$</string>
 		<string lang="jp">$damage$ を受けるたびに、$might$ を $1$ 増加する</string>
 		<string lang="ru">Заполняет $might$ каждый раз, когда получает $damage$.</string>
-		<string lang="es">Llena $might$ cada vez que recibe $damage$</string>
+		<string lang="es">Llena el $might$ cada vez que recibe $damage$</string>
 		<string lang="kr">$damage$ 를 받을 때마다 $might$ 를 $1$ 만큼 증가시킵니다.</string>
 		<string lang="pt-br">Enche $might$ sempre que recebe $damage$</string>
 </set>
@@ -435,7 +435,7 @@
 		<string lang="zh">每当获得 $grav+$ 时将增加 $might$</string>
 		<string lang="jp">$grav+$ を自身に与えるたびに、$might$ を増加する</string>
 		<string lang="ru">Повышает $might$ от нанесения $grav+$ на себя.</string>
-		<string lang="es">Aumenta $might$ de las infligidas de $grav+$ sobre sí mismo</string>
+		<string lang="es">Aumenta $might$ por cada $grav+$ infligido sobre sí mismo</string>
 		<string lang="kr">$grav+$ 를 자신에게 적용할 때마다 $might$ 를 증가시킵니다.</string>
 		<string lang="pt-br">Aumenta $might$ de infligir $grav+$ em si mesmo.</string>
 </set>
@@ -468,7 +468,7 @@
 		<string lang="zh">每当回合顺序变更时，$might$ 增加 $1$</string>
 		<string lang="jp">ターン順が変更されるたびに、$might$ を $1$ 増加する</string>
 		<string lang="ru">Заполняет $might$ каждый раз, когда порядок ходов меняется.</string>
-		<string lang="es">Llena $might$ cada vez que se cambia el orden de los turnos</string>
+		<string lang="es">Llena el $might$ cada vez que se cambia el orden de los turnos</string>
 		<string lang="kr">턴 순서가 변경될 때마다 $might$ 를 $1$ 만큼 증가시킵니다.</string>
 		<string lang="pt-br">Enche $might$ sempre que a ordem dos turnos é alterada.</string>
 </set>
@@ -479,7 +479,7 @@
 		<string lang="zh">对敌人造成 $1damage$</string>
 		<string lang="jp">敵に $1damage$ を与える</string>
 		<string lang="ru">Наносит $1damage$ врагу.</string>
-		<string lang="es">Inflige a un enemigo $1damage$</string>
+		<string lang="es">Inflige $1damage$ a un enemigo.</string>
 		<string lang="kr">적에게 $1damage$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a um inimigo $1damage$</string>
 </set>
@@ -490,7 +490,7 @@
 		<string lang="zh">对敌人造成 $2damage$</string>
 		<string lang="jp">敵に $2damage$ を与える</string>
 		<string lang="ru">Наносит $2damage$ врагу.</string>
-		<string lang="es">Inflige a un enemigo $2damage$</string>
+		<string lang="es">Inflige $2damage$ a un enemigo.</string>
 		<string lang="kr">적에게 $2damage$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a um inimigo $2damage$</string>
 </set>
@@ -501,7 +501,7 @@
 		<string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
 		<string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
 		<string lang="ru">Удаляет все $might$ для нанесения врагу $damage$.</string>
-		<string lang="es">Remueve todo $might$ para infligir $damage$ a un enemigo</string>
+		<string lang="es">Remueve todo el $might$ para infligir el mismo $damage$ a un enemigo.</string>
 		<string lang="kr">적에게 $damage$ 를 적용하기 위해 $might$ 를 모두 제거합니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
 </set>
@@ -512,7 +512,7 @@
 		<string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
 		<string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
 		<string lang="ru">Удаляет все $might$ для нанесения врагу $damage$.</string>
-		<string lang="es">Remueve todo $might$ para infligir $damage$ a un enemigo</string>
+		<string lang="es">Remueve todo el $might$ para infligir el misimo $damage$ a un enemigo</string>
 		<string lang="kr">적에게 $damage$ 를 적용하기 위해 $might$ 를 모두 제거합니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
 </set>
@@ -523,7 +523,7 @@
 		<string lang="zh">对敌人造成 $1damage$ 并给敌人的一个模块施加 $crust$</string>
 		<string lang="jp">敵に $1damage$ を与え、敵のモジュールに $crust$ を与える</string>
 		<string lang="ru">Наносит $1damage$ и накладывает $crust$ на модуль.</string>
-		<string lang="es">Inflige $1damage$ e inflige un módulo con $crust$.</string>
+		<string lang="es">Inflige $1damage$ e inflige a un módulo con $crust$.</string>
 		<string lang="kr">적에게 $1damage$ 를 주고, 적의 모듈에 $crust$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ e inflige um módulo com $crust$.</string>
 </set>
@@ -853,7 +853,7 @@
 		<string lang="zh">雷击 $VALUE$</string>
 		<string lang="jp">雷撃 $VALUE$</string>
 		<string lang="ru">Удар Молнии $VALUE$</string>
-		<string lang="es">Golpe de Rayo $VALUE$</string>
+		<string lang="es">Rayo $VALUE$</string>
 		<string lang="kr">번개치기 $VALUE$</string>
 		<string lang="pt-br">Choque de Raio $VALUE$</string>
 </set>
@@ -974,7 +974,7 @@
 		<string lang="zh">结晶侦测 $mighticon$</string>
 		<string lang="jp">結晶検出 $mighticon$</string>
 		<string lang="ru">Обнаружение Коры $mighticon$</string>
-		<string lang="es">Detección de Corteza $mighticon$</string>
+		<string lang="es">Detección de Crust $mighticon$</string>
 		<string lang="kr">결정체 감지 $mighticon$</string>
 		<string lang="pt-br">Detecção de Crosta $mighticon$</string>
 </set>
@@ -1117,7 +1117,7 @@
 		<string lang="zh">雷击 $VALUE$</string>
 		<string lang="jp">雷撃 $VALUE$</string>
 		<string lang="ru">Удар Молнии $VALUE$</string>
-		<string lang="es">Golpe de Rayo $VALUE$</string>
+		<string lang="es">Rayo $VALUE$</string>
 		<string lang="kr">번개치기 $VALUE$</string>
 		<string lang="pt-br">Choque de Raio $VALUE$</string>
 </set>
