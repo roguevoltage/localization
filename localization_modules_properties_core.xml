@@ -193,6 +193,28 @@
 		<string lang="kr">레벨 6</string>
 		<string lang="pt-br">Nível 6</string>
 </set>
+<set id="module-properties-name-amplification">
+        <string lang="de">Verstärkung $MODIFICATIONVALUE$</string>
+        <string lang="en">Amplification $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplification $MODIFICATIONVALUE$</string>
+        <string lang="zh">放大 $MODIFICATIONVALUE$</string>
+        <string lang="jp">増幅 $MODIFICATIONVALUE$</string>
+        <string lang="ru">Усиление $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificación $MODIFICATIONVALUE$</string>
+        <string lang="kr">증폭 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificação $MODIFICATIONVALUE$</string>
+</set>
+<set id="module-properties-description-amplification">
+        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the current</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
+        <string lang="zh">将 $b$$MODIFICATIONVALUE$ $/b$$energy$ 添加到当前</string>
+        <string lang="jp">現在の$energy$に$b$$MODIFICATIONVALUE$ $/b$$energy$を追加します</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$ $/b$$energy$ к текущему</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$ $/b$$energy$ al actual</string>
+        <string lang="kr">현재에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 추가합니다</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
+</set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>

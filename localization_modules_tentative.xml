@@ -1,0 +1,119 @@
+<localization>
+<set id="description-module-gravoutlet">
+		<string lang="de">Nimmt $grav+$ vom Charakter ab.</string>
+		<string lang="en">Picks up $grav+$ from the owner.</string>
+		<string lang="fr">Supprime $grav+$ du personnage.</string>
+		<string lang="zh">从拥有者处吸收 $grav+$ 。</string>
+		<string lang="jp">オーナーから$grav+$を吸収します。</string>
+        <string lang="ru">Подбирает $grav+$ у владельца.</string>
+        <string lang="es">Recoge $grav+$ del propietario.</string>
+        <string lang="kr">소유자로부터 $grav+$를 획득합니다.</string>
+        <string lang="pt-br">Pega $grav+$ do dono.</string>
+</set>
+<set id="name-module-gravoutlet">
+		<string lang="de">Grav.-Abnehmer</string>
+		<string lang="en">Grav. Outlet</string>
+		<string lang="fr">Prise Grav.</string>
+		<string lang="zh">引力排放口</string>
+		<string lang="jp">重力アウトレット</string>
+		<string lang="kr">Grav. Outlet</string>
+</set>
+<set id="name-module-storagecellstorm">
+		<string lang="de">Sturmjäger-Zelle $MODIFICATIONVALUE$</string>
+		<string lang="en">Storm Chaser Cell $MODIFICATIONVALUE$</string>
+		<string lang="fr">Pile Chasseur d'Orages $MODIFICATIONVALUE$</string>
+		<string lang="zh">风暴电池 $MODIFICATIONVALUE$</string>
+		<string lang="jp">ストームセル $MODIFICATIONVALUE$</string>
+		<string lang="kr">Storm Chaser Cell $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-storagecellstorm">
+		<string lang="de">Wird am Beginn des $storm$s um $2$ $energy$ geladen.</string>
+		<string lang="en">Is charged with $2$ $energy$ at the beginning of $storm$.</string>
+		<string lang="fr">Est chargé avec $2$ $energy$ au début de $storm$.</string>
+		<string lang="zh">在 $storm$ 开始时充能$2$ $energy$。</string>
+		<string lang="jp">$storm$の開始時に$2$ $energy$が充電されます。</string>
+        <string lang="ru">Заряжается $2$ $energy$ в начале $storm$.</string>
+        <string lang="es">Se carga con $2$ $energy$ al comienzo de $storm$.</string>
+        <string lang="kr">$storm$이 시작될 때 $2$ $energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $2$ $energy$ no início de $storm$.</string>
+</set>
+<set id="name-module-modifiervulnerability">
+		<string lang="de">Gefährlicher Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Hazardous Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplificateur Périleux $MODIFICATIONVALUE$</string>
+		<string lang="zh">危险放大器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">危険な増幅器 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Опасный усилитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Amplificador Peligroso $MODIFICATIONVALUE$</string>
+		<string lang="kr">위험한 증폭기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Amplificador Perigoso $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-modifiervulnerability">
+		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
+		<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
+		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
+		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
+</set>
+<set id="name-module-toggledgrenadestorm">
+		<string lang="de">Sturm-Granate</string>
+		<string lang="en">Storm Grenade</string>
+		<string lang="fr">Grenade de Tempête</string>
+		<string lang="zh">风暴手雷</string>
+		<string lang="jp">ストームヌルファイアー</string>
+		<string lang="kr">Storm Grenade</string>
+</set>
+<set id="description-module-toggledgrenadestorm">
+		<string lang="de">Drängt den $storm$$br$$b$10$/b$ Zeitschritte zurück.</string>
+		<string lang="en">Pushes back $storm$$br$by $b$10$/b$ time steps.</string>
+		<string lang="fr">Pousse $storm$ de $b$10$/b$ étapes de temps en arrière.</string>
+		<string lang="zh">将 $storm$ 推回 $b$10$/b$个时刻。</string>
+		<string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
+        <string lang="ru">Отталкивает $storm$$br$на $b$10$/b$ шагов времени назад.</string>
+        <string lang="es">Empuja hacia atrás $storm$$br$por $b$10$/b$ pasos de tiempo.</string>
+        <string lang="kr">$storm$를 $b$10$/b$ 시간 단계로 밀어냅니다.</string>
+        <string lang="pt-br">Empurra $storm$$br$por $b$10$/b$ passos de tempo.</string>
+</set>
+<set id="name-module-toggledstormrepeller">
+		<string lang="en">Storm Repeller</string>
+</set>
+<set id="description-module-toggledstormrepeller">
+		<string lang="en">Permanently applies the $b$Storm Repeller$/b$ status to target $passthroughmodule$ on this rack.</string>
+</set>
+<set id="name-module-dampener">
+		<string lang="de">Dämpfer $MODIFICATIONVALUE$</string>
+		<string lang="en">Dampener $MODIFICATIONVALUE$</string>
+		<string lang="fr">Atténuateur $MODIFICATIONVALUE$</string>
+		<string lang="zh">抑制器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">ダンパー $MODIFICATIONVALUE$</string>
+        <string lang="ru">Демпфер $MODIFICATIONVALUE$</string>
+        <string lang="es">Atenuador $MODIFICATIONVALUE$</string>
+        <string lang="kr">댐퍼 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Atenuador $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-dampener">
+		<string lang="de">Entzieht einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Subtracts $b$$MODIFICATIONVALUE$$/b$ $energy$ from a current.</string>
+		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$$/b$ $energy$ à un courant.</string>
+		<string lang="zh">从当前值中减去$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">現在の値から$b$$MODIFICATIONVALUE$$/b$ $energy$を引きます。</string>
+        <string lang="ru">Вычитает $b$$MODIFICATIONVALUE$$/b$ $energy$ из текущего.</string>
+        <string lang="es">Resta $b$$MODIFICATIONVALUE$$/b$ $energy$ de un corriente.</string>
+        <string lang="kr">현재 값에서 $b$$MODIFICATIONVALUE$$/b$ $energy$를 뺍니다.</string>
+        <string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$$/b$ $energy$ de um atual.</string>
+</set>
+<set id="description-module-generatordual-storm">
+		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $5$ Zeitschritte an.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
+</set>
+<set id="name-module-generatordual-storm">
+		<string lang="en">Stormseeker Generator</string>
+</set>
+<set id="name-module-generatorstorm">
+		<string lang="en">Stormseeker Generator</string>
+</set>
+</localization>
