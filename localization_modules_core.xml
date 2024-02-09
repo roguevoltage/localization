@@ -464,7 +464,7 @@
 		<string lang="zh">同机架上的 $generator$ 模块有 $b$33%$/b$ 的几率生成 $b$+1$/b$ $energy$。</string>
 		<string lang="jp">このラックの $generator$ モジュールは $b$33%$/b$ の確率で $b$+1$/b$ $energy$ を生成します。</string>
 		<string lang="ru">Модули $generator$ на этом слоте имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
-		<string lang="es">Los módulos $generator$ en este rack tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
+		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
 		<string lang="kr">이 랙에 있는 $generator$ 타입의 모듈은 $b$33%$/b$의 확률로 $b$+1$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 </set>
@@ -530,7 +530,7 @@
 		<string lang="zh">在本回合结束前，将 $boost$ 应用于所在机架上所有类型为$passthroughmodule$的模块。</string>
 		<string lang="jp">ターン終了まで、このラックのすべてのタイプ$passthroughmodule$のモジュールに$boost$を適用します。</string>
 		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
-		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este rack hasta el final del turno.</string>
+		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
 		<string lang="kr">이 랙의 모든 $passthroughmodule$ 타입의 모듈에 $boost$를 턴 종료까지 적용합니다.</string>
 		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
 </set>
@@ -541,7 +541,7 @@
 		<string lang="zh">移除同机架上所有模块的 $crust$。</string>
 		<string lang="jp">このラックのすべてのモジュールから $crust$ を削除します。</string>
 		<string lang="ru">Удаляет $crust$ у всех модулей на этой стойке.</string>
-		<string lang="es">Elimina $crust$ de todos los módulos en este rack.</string>
+		<string lang="es">Elimina $crust$ de todos los módulos en este bastidor.</string>
 		<string lang="kr">이 랙의 모든 모듈에서 $crust$를 제거합니다.</string>
 		<string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
 </set>
@@ -552,7 +552,7 @@
 		<string lang="zh">永久地从本机架上的一个模块中移除 $overload$$br$- 或 -$br$永久地从本机架上的一个模块中移除 $malfunctioning$ 并用 $overload$ 替换它。</string>
 		<string lang="jp">このラックのモジュールから$overload$を永久に削除します$br$- または -$br$このラックのモジュールから$malfunctioning$を永久に削除し、$overload$に置き換えます。</string>
 		<string lang="ru">Постоянно удаляет $overload$ с модуля на этом слоте$br$- или -$br$постоянно удаляет $malfunctioning$ с модуля на этом слоте и заменяет его на $overload$.</string>
-		<string lang="es">Remueve permanentemente $overload$ de un módulo en este rack$br$- o -$br$remueve permanentemente $malfunctioning$ de un módulo en este rack y lo reemplaza con $overload$.</string>
+		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$br$- o -$br$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
 		<string lang="kr">이 랙의 모듈에서 $overload$를 영구적으로 제거합니다.$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$을 영구적으로 제거하고 $overload$로 대체합니다.</string>
 		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$br$- ou -$br$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
 </set>
@@ -596,7 +596,7 @@
 		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
 		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.</string>
-		<string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este rack.</string>
+		<string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
 		<string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.</string>
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
 </set>
