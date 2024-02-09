@@ -462,12 +462,12 @@
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente.</string>
 </set>
 <set id="description-module-vaultacceleration">
-        <string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um den Charakter um $1$ zu beschleunigen.</string>
-		<string lang="en">Can be charged.$p$At the end of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to the owner.</string>
+        <string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn um $1$ zu beschleunigen.</string>
+		<string lang="en">Can be charged.$p$At the end of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 </set>
 <set id="description-module-vaultregeneration">
-        <string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um den Charakter um $1$ zu heilen.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal the owner by $1$.</string>
+        <string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn um $1$ zu heilen.</string>
+		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal them by $1$.</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
