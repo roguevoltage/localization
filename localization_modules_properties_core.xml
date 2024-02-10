@@ -206,7 +206,7 @@
 </set>
 <set id="module-properties-description-amplification">
         <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the current</string>
+        <string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
         <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
         <string lang="zh">将 $b$$MODIFICATIONVALUE$ $/b$$energy$ 添加到当前</string>
         <string lang="jp">現在の$energy$に$b$$MODIFICATIONVALUE$ $/b$$energy$を追加します</string>
@@ -317,7 +317,7 @@
 <set id="module-type-generator">
 		<string lang="de">Generator</string>
 		<string lang="en">Generator</string>
-		<string lang="fr">Generateur</string>
+		<string lang="fr">Générateur</string>
 		<string lang="zh">发电机</string>
 		<string lang="jp">ジェネレーター</string>
 		<string lang="ru">Генератор</string>

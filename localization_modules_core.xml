@@ -198,15 +198,14 @@
 		<string lang="pt-br">Inflige $grav+$ ao alvo.</string>
 </set>
 <set id="description-module-effectordeceleratorgatling">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Deal $grav+1$ to a random enemy].</string>
-		<string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
-		<string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $1damage$ 。</string>
-		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ランダムな敵に$1damage$を与えます。</string>
-		<string lang="ru">Наносит $1damage$ случайному врагу за каждый $energy$ на этом модуле.</string>
-		<string lang="es">Inflige $1damage$ a un enemigo aleatorio por cada punto de $energy$ en este módulo.</string>
-		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $1damage$를 줍니다.</string>
-		<string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $grav+1$ zu].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy with $grav+1$].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
+		<string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $grav+1$ 。</string>
+		<string lang="ru">Для каждой энергии в этом модуле:$br$[Наносит $grav+1$ случайному врагу за каждый $energy$].</string>
+		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $grav+1$ a un enemigo aleatorio].</string>
+		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $grav+1$를 줍니다.</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
 </set>
 <set id="description-module-effectordeceleratormelee">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
@@ -591,7 +590,7 @@
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$br$Module können nur ein $upgrade$ erhalten.</string>
-		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack that does not already have $upgrade$.</string>
+		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can one have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
 		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
@@ -933,7 +932,7 @@
 <set id="name-module-generator">
 		<string lang="de">Generator</string>
 		<string lang="en">Generator</string>
-		<string lang="fr">Generateur</string>
+		<string lang="fr">Générateur</string>
 		<string lang="zh">发电机</string>
 		<string lang="jp">ジェネレーター</string>
 		<string lang="ru">Генератор</string>
@@ -944,7 +943,7 @@
 <set id="name-module-generatordecelerating">
 		<string lang="de">Grav.-Generator</string>
 		<string lang="en">Grav. Generator</string>
-		<string lang="fr">Generateur Grav.</string>
+		<string lang="fr">Générateur Grav.</string>
 		<string lang="zh">引力发电机</string>
 		<string lang="jp">重力ジェネレーター</string>
 		<string lang="ru">Гравитационный Генератор</string>
@@ -955,7 +954,7 @@
 <set id="name-module-generatordirty">
 		<string lang="de">Schmutziger Generator</string>
 		<string lang="en">Dirty Generator</string>
-		<string lang="fr">Generateur Sale</string>
+		<string lang="fr">Générateur Sale</string>
 		<string lang="zh">污染发电机</string>
 		<string lang="jp">汚いジェネレーター</string>
 		<string lang="ru">Грязный Генератор</string>
@@ -966,7 +965,7 @@
 <set id="name-module-generatordual">
 		<string lang="de">Zweifach-Generator</string>
 		<string lang="en">Dual Generator</string>
-		<string lang="fr">Generateur Double</string>
+		<string lang="fr">Générateur Double</string>
 		<string lang="zh">二重发电机</string>
 		<string lang="jp">ダブルジェネレーター</string>
 		<string lang="ru">Двойной Генератор</string>
@@ -977,7 +976,7 @@
 <set id="name-module-generatoroverload">
 		<string lang="de">Überlast-Generator</string>
 		<string lang="en">Overload Generator</string>
-		<string lang="fr">Generateur de Surcharge</string>
+		<string lang="fr">Générateur de Surcharge</string>
 		<string lang="zh">过载发电机</string>
 		<string lang="jp">過負荷ジェネレーター</string>
 		<string lang="ru">Генератор Перегрузки</string>
@@ -1226,6 +1225,50 @@
 		<string lang="es">Compactador de Basura</string>
 		<string lang="kr">쓰레기 압축기</string>
 		<string lang="pt-br">Compactador de Lixo</string>
+</set>
+<set id="name-module-vaultregeneration">
+	<string lang="de">Regenerationszelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Regeneration Cell $MODIFICATIONVALUE$</string>
+	<string lang="fr">Pile de Régénération $MODIFICATIONVALUE$</string>
+	<string lang="zh">再生电池 $MODIFICATIONVALUE$</string>
+	<string lang="jp">再生電池 $MODIFICATIONVALUE$</string>
+	<string lang="ru">Ячейка Регенерации $MODIFICATIONVALUE$</string>
+	<string lang="es">Celda de Regeneración $MODIFICATIONVALUE$</string>
+	<string lang="kr">재생 전지 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Célula de Regeneração $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-vaultshield">
+	<string lang="de">Schildzelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Shield Cell $MODIFICATIONVALUE$</string>
+	<string lang="fr">Pile de Bouclier $MODIFICATIONVALUE$</string>
+	<string lang="zh">护盾电池 $MODIFICATIONVALUE$</string>
+	<string lang="jp">シールドセル $MODIFICATIONVALUE$</string>
+	<string lang="ru">Ячейка Щита $MODIFICATIONVALUE$</string>
+	<string lang="es">Celda de Escudo $MODIFICATIONVALUE$</string>
+	<string lang="kr">방패 전지 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Célula de Escudo $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-vaultregeneration">
+	<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
+	<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
+	<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
+	<string lang="zh">可以充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
+	<string lang="jp">充電可能。$p$所有者のターンの開始時に、$1$ の蓄積された $energy$ を取り除き、全てのプレイヤーキャラクターを $1$ 回復します。</string>
+	<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удалите $1$ сохраненную $energy$ чтобы вылечить всех игроков на $1$.</string>
+	<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retire $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
+	<string lang="kr">충전 가능합니다.$p$소유자의 턴 시작시, $1$ 저장된 $energy$를 제거하여 모든 플레이어 캐릭터를 $1$ 회복합니다.</string>
+	<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para curar todos os personagens jogadores em $1$.</string>
+</set>
+<set id="description-module-vaultshield">
+	<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
+	<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
+	<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
+	<string lang="zh">可以充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
+	<string lang="jp">充電可能。$p$所有者が $damage$ を受けるたびに、$1$ の蓄積された $energy$ を取り除き、そのダメージを $1$ 軽減します。</string>
+	<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удалите $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
+	<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retire $1$ energía almacenada para reducir ese daño en $1$.</string>
+	<string lang="kr">충전 가능합니다.$p$소유자가 $damage$를 받을 때마다, $1$ 저장된 $energy$를 제거하여 그 피해를 $1$ 줄입니다.</string>
+	<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
 </set>
 <set id="shortname-module-timebomb">
 		<string lang="de">Bombe</string>

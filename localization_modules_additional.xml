@@ -465,13 +465,6 @@
         <string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn um $1$ zu beschleunigen.</string>
 		<string lang="en">Can be charged.$p$At the end of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 </set>
-<set id="description-module-vaultregeneration">
-        <string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
-</set>
-<set id="description-module-vaultshield">
-		<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
-</set>
 <set id="name-module-burningdebris">
 		<string lang="en">Burning Debris</string>
 </set>
@@ -654,7 +647,7 @@
 <set id="name-module-generatorfire">
 		<string lang="de">Pyro-Generator</string>
 		<string lang="en">Pyro Generator</string>
-		<string lang="fr">Generateur Pyro</string>
+		<string lang="fr">Générateur Pyro</string>
 		<string lang="zh">火焰发生器</string>
 		<string lang="jp">パイロジェネレーター</string>
         <string lang="ru">Пиро-генератор</string>
@@ -663,20 +656,20 @@
         <string lang="pt-br">Gerador Pyro</string>
 </set>
 <set id="name-module-generatorplasma">
-		<string lang="de">Plasma-Generator</string>
-		<string lang="en">Plasma Generator</string>
-		<string lang="fr">Generateur Plasma</string>
-		<string lang="zh">等离子体发生器</string>
-		<string lang="jp">プラズマジェネレーター</string>
-        <string lang="ru">Плазма-генератор</string>
-        <string lang="es">Generador de Plasma</string>
-        <string lang="kr">플라즈마 발전기</string>
-        <string lang="pt-br">Gerador de Plasma</string>
+		<string lang="de">Plasmaverbrennender Generator</string>
+		<string lang="en">Plasma-Combusting Generator</string>
+		<string lang="fr">Générateur de Combustion de Plasma</string>
+		<string lang="zh">等离子燃烧发生器</string>
+		<string lang="jp">プラズマ燃焼ジェネレーター</string>
+		<string lang="ru">Плазмо-сжигающий генератор</string>
+		<string lang="es">Generador de Combustión de Plasma</string>
+		<string lang="kr">플라즈마 연소 발전기</string>
+		<string lang="pt-br">Gerador de Combustão de Plasma</string>
 </set>
 <set id="name-module-generatorvulnerability">
 		<string lang="de">Gefährlicher Generator</string>
 		<string lang="en">Hazardous Generator</string>
-		<string lang="fr">Generateur Périleux</string>
+		<string lang="fr">Générateur Périleux</string>
 		<string lang="zh">危险发电机</string>
 		<string lang="jp">危険なジェネレーター</string>
 		<string lang="ru">опасный генератор</string>
@@ -762,7 +755,15 @@
 		<string lang="pt-br">Regulador</string>
 </set>
 <set id="name-module-passivegravdissipator">
+		<string lang="de">Grav.-Zerstreuer</string>
 		<string lang="en">Grav. Dissipator</string>
+		<string lang="fr">Dissipateur Grav.</string>
+		<string lang="zh">引力散热器</string>
+		<string lang="jp">重力ディシペーター</string>
+		<string lang="ru">Грав. Диссипатор</string>
+		<string lang="es">Disipador Grav.</string>
+		<string lang="kr">Grav. Dissipator</string>
+		<string lang="pt-br">Dissipador Grav.</string>
 </set>
 <set id="name-module-passivegravspike">
 		<string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
@@ -778,10 +779,24 @@
 <set id="name-module-passiveshockabsorber">
 		<string lang="de">Stoßdämpfer</string>
 		<string lang="en">Shock Absorber</string>
+		<string lang="fr">Absorbeur de Choc</string>
+		<string lang="zh">减震器</string>
+		<string lang="jp">ショックアブソーバー</string>
+		<string lang="ru">Амортизатор</string>
+		<string lang="es">Amortiguador de Choque</string>
+		<string lang="kr">충격 흡수기</string>
+		<string lang="pt-br">Absorvedor de Choque</string>
 </set>
 <set id="name-module-passivestormlantern">
 		<string lang="de">Sturmlaterne</string>
 		<string lang="en">Storm Lantern</string>
+		<string lang="fr">Lanterne de Tempête</string>
+		<string lang="zh">风暴灯</string>
+		<string lang="jp">ストームランタン</string>
+		<string lang="ru">Штормовой Фонарь</string>
+		<string lang="es">Linterna de Tormenta</string>
+		<string lang="kr">폭풍 등</string>
+		<string lang="pt-br">Lanterna de Tempestade</string>
 </set>
 <set id="name-module-plasmadischarger">
 		<string lang="de">Plasma-Entlader</string>
@@ -795,7 +810,15 @@
         <string lang="pt-br">Descarregador de Plasma</string>
 </set>
 <set id="name-module-pulsar">
+		<string lang="de">Pulsar</string>
 		<string lang="en">Pulsar</string>
+		<string lang="fr">Pulsar</string>
+		<string lang="zh">脉冲星</string>
+		<string lang="jp">パルサー</string>
+		<string lang="ru">Пульсар</string>
+		<string lang="es">Púlsar</string>
+		<string lang="kr">펄서</string>
+		<string lang="pt-br">Pulsar</string>
 </set>
 <set id="name-module-storagecellausterity">
 		<string lang="de">Austeritäts-Zelle $MODIFICATIONVALUE$</string>
@@ -809,7 +832,15 @@
         <string lang="pt-br">Célula de Austeridade $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggleddisassembler">
+		<string lang="de">Demontierer</string>
 		<string lang="en">Disassembler</string>
+		<string lang="fr">Démonteur</string>
+		<string lang="zh">拆卸器</string>
+		<string lang="jp">ディサセンブラー</string>
+		<string lang="ru">Демонтажник</string>
+		<string lang="es">Desmontador</string>
+		<string lang="kr">분해기</string>
+		<string lang="pt-br">Desmontador</string>
 </set>
 <set id="name-module-toggledduplicator">
 		<string lang="de">Duplikator</string>
@@ -836,12 +867,33 @@
 <set id="name-module-toggledechochamber">
 		<string lang="de">Echo-Kammer</string>
 		<string lang="en">Echo Chamber</string>
+		<string lang="fr">Chambre d'Écho</string>
+		<string lang="zh">回声室</string>
+		<string lang="jp">エコーカメラ</string>
+		<string lang="ru">Эхо-Камера</string>
+		<string lang="es">Cámara de Eco</string>
+		<string lang="kr">에코 챔버</string>
+		<string lang="pt-br">Câmara de Eco</string>
 </set>
 <set id="name-module-toggledgravinverter">
+		<string lang="de">Grav.-Inverter</string>
 		<string lang="en">Grav. Inverter</string>
+		<string lang="fr">Inverser Grav.</string>
+		<string lang="zh">引力反转器</string>
+		<string lang="jp">グラビティヌルファイアー</string>
+		<string lang="ru">Грав. Инвертер</string>
+		<string lang="es">Inversor Grav.</string>
+		<string lang="kr">Grav. Inverter</string>
+		<string lang="pt-br">Inversor Grav.</string>
 </set>
 <set id="name-module-toggledgrenadegravinverter">
+		<string lang="de">Grav.-Inverter-Granate</string>
 		<string lang="en">Grav. Inverter Grenade</string>
+		<string lang="fr">Grenade de Inversion Grav.</string>
+		<string lang="zh">引力反转手雷</string>
+		<string lang="jp">グラビティヌルファイアー</string>
+		<string lang="ru">Грав. Инвертерная Граната</string>
+		<string lang="es">Granada Inversora Grav.</string>
 </set>
 <set id="name-module-toggledgravvacuum">
 		<string lang="en">Passthrough Vacuumizer</string>
@@ -856,9 +908,6 @@
         <string lang="es">Granada de Inmunidad Grav.</string>
         <string lang="kr">Grav. 면역 수류탄</string>
         <string lang="pt-br">Granada de Imunidade Grav.</string>
-</set>
-<set id="name-module-toggledadegravinverter">
-		<string lang="en">Grav. Inverter Grenade</string>
 </set>
 <set id="name-module-toggledgrenademightnullifier">
 		<string lang="de">Macht-Nullifizierer</string>
@@ -907,6 +956,13 @@
 <set id="name-module-toggledturbo">
 		<string lang="de">Durchsatz-Turbo</string>
 		<string lang="en">Passthrough-Turbo</string>
+		<string lang="fr">Turbo de Passage</string>
+		<string lang="zh">通行加速器</string>
+		<string lang="jp">パススルーターボ</string>
+		<string lang="ru">Турбо-проходчик</string>
+		<string lang="es">Turbo de Pasaje</string>
+		<string lang="kr">통과 터보</string>
+		<string lang="pt-br">Turbo de Passagem</string>
 </set>
 <set id="name-module-turbulence">
 		<string lang="de">Turbulenz $MODIFICATIONVALUE$</string>
@@ -921,11 +977,5 @@
 </set>
 <set id="name-module-vaultacceleration">
 		<string lang="en">Acceleration Vault $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-vaultregeneration">
-		<string lang="en">Regeneration Vault $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-vaultshield">
-		<string lang="en">Shield Vault $MODIFICATIONVALUE$</string>
 </set>
 </localization>
