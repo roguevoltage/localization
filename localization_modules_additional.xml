@@ -389,7 +389,7 @@
 </set>
 <set id="description-module-toggledgrenadegravimmunity">
 		<string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$.$br$(Dauer: 6)</string>
-		<string lang="en">Applies $gravimmunity$ to all combatants.$br$(Duration: 6)</string>
+		<string lang="en">Applies $gravimmunity$$br$to all combatants.$br$(Duration: 6)</string>
 		<string lang="fr">Applique $gravimmunity$ à tous les combattants.$br$(Durée: 6)</string>
 		<string lang="zh">将 $gravimmunity$ 应用于所有角色。$br$（持续时间：6）</string>
 		<string lang="jp">すべての戦闘参加者に$gravimmunity$を適用します。$br$（持続時間：6）</string>
@@ -452,7 +452,7 @@
 </set>
 <set id="description-module-turbulence">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the incoming current.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant.</string>
 		<string lang="zh">在一个电流上增加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>

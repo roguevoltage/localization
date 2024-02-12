@@ -121,26 +121,26 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
 </set>
 <set id="description-module-condensator">
-		<string lang="de">Kann ge- oder entladen werden. Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
-		<string lang="en">Can be charged or discharged. Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="fr">Peut être chargé ou déchargé. $energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="zh">可充电或放电。传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
-		<string lang="jp">充電または放電可能。入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
-		<string lang="ru">Может быть заряжен или разряжен. Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="es">Puede ser cargado o descargado. La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="kr">충전 또는 방전 가능. 들어오는 $energy$는 $b$$MODIFICATIONVALUE$$/b$로 증폭됩니다.</string>
-		<string lang="pt-br">Pode ser carregado ou descarregado. A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
+		<string lang="en">Can be charged or discharged.$p$Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="fr">Peut être chargé ou déchargé.$p$$energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="zh">可充电或放电。$p$传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
+		<string lang="jp">充電または放電可能。$p$入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
+		<string lang="ru">Может быть заряжен или разряжен.$p$Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="es">Puede ser cargado o descargado.$p$La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="kr">충전 또는 방전 가능.$p$들어오는 $energy$는 $b$$MODIFICATIONVALUE$$/b$로 증폭됩니다.</string>
+		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 </set>
 <set id="description-module-defibrillator">
-		<string lang="de">Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
-		<string lang="en">If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
-		<string lang="fr">Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
-		<string lang="zh">如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
-		<string lang="jp">キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
-		<string lang="ru">Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
-		<string lang="es">Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
-		<string lang="kr">캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
-		<string lang="pt-br">Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
+		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
+		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
+		<string lang="zh">可以充电。$p$如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
+		<string lang="jp">充電可能。$p$キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
+		<string lang="ru">Может быть заряжен.$p$Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
+		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
+		<string lang="kr">충전 가능.$p$캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
 </set>
 <set id="description-module-distributor">
 		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
@@ -590,7 +590,7 @@
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$br$Module können nur ein $upgrade$ erhalten.</string>
-		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can one have one $upgrade$.</string>
+		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
 		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
