@@ -238,15 +238,15 @@
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
 </set>
 <set id="module-properties-discharge-endofturn">
-		<string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-		<string lang="en">Loses all $energy$$br$at the end of owner's turn</string>
-		<string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-		<string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
-		<string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
-		<string lang="ru">Хранит $energy$ только до конца хода владельца</string>
-		<string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
-		<string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
-		<string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
+		<string lang="de">Sensoren verlieren alle $energy$ am Ende des Zuges des Charakters</string>
+		<string lang="en">Sensors lose all $energy$ at the end of the owner's turn</string>
+		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
+        <string lang="zh">传感器在所有者回合结束时失去所有 $energy$</string>
+        <string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
+        <string lang="ru">Датчики теряют всю $energy$$br$в конце хода владельца</string>
+        <string lang="es">Sensores pierden toda la $energy$$br$al final del turno del propietario</string>
+        <string lang="kr">센서는 소유자의 턴이 끝날 때 모든 $energy$를 잃습니다</string>
+        <string lang="pt-br">Sensores perdem toda a $energy$$br$no final do turno do proprietário</string>
 </set>
 <set id="module-properties-discharge-endofturn-impending">
 		<string lang="de">Verliert $energy$ am Ende des Zuges</string>
