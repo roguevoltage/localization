@@ -168,11 +168,11 @@
         <string lang="de">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
         <string lang="en">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
         <string lang="fr">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="zh">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;铜&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="jp">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銅&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="ru">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Бронза&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="es">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronce&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="kr">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;동&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="zh">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;银&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="jp">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銀&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="ru">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Серебро&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="es">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Plata&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="kr">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;은&lt;/b&gt;&lt;/color&gt;</string>
         <string lang="pt-br">&lt;color&#61;#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
     </set>
     <set id="$storm$">
@@ -676,7 +676,7 @@
         <string lang="fr">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Sursaut +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;增强 +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;ブースト +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Подкрепление +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Усиление +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Aumentar +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;부스트 +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Aumentar +1&lt;/color&gt;&lt;/b&gt;</string>
@@ -709,7 +709,7 @@
         <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;冷却时间&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;クールダウン&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезагрузить&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезарядка&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilizacion&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;재사용 대기&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilização&lt;/b&gt;</string>
@@ -753,7 +753,7 @@
         <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;Hors Service&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;Неисправность&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;Вышел из строя&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;Fuera de Servicio&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;고장&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="outoforder" tint=1&gt;&lt;/color&gt;Fora de Serviço&lt;/b&gt;</string>
@@ -907,7 +907,7 @@
         <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Défaillance&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Неисправность&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Неисправный&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Malfuncionamiento&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;고장나는&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Malfuncionamento&lt;/b&gt;</string>
@@ -940,7 +940,7 @@
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Volatile&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;挥发&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;揮発性&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Летучий&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Мимолётный&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Volátil&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;휘발성&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Volátil&lt;/color&gt;&lt;/b&gt;</string>
