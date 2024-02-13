@@ -406,22 +406,19 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 </set>
 <set id="description-module-modifiercollector">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
-		<string lang="zh">修改一个电流。$br$如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
-		<string lang="jp">$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
-		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
-		<string lang="kr">$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
+		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
+		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
+		<string lang="zh">修改一个电流的颜色。$p$如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
+		<string lang="jp">電流の色を変更します。$p$$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
+		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
+		<string lang="kr">전류의 색상을 변경합니다.$p$$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$3 oder mehr $grav+$$/b$ hat.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="zh">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="jp">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="kr">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder weniger HP$/b$ hat.</string>

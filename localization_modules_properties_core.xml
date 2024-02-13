@@ -215,6 +215,21 @@
         <string lang="kr">현재에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 추가합니다</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
 </set>
+<set id="module-properties-name-reduction">
+        <string lang="de">Dämpfung $MODIFICATIONVALUE$</string>
+        <string lang="en">Dampening $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amortissement $MODIFICATIONVALUE$</string>
+        <string lang="zh">阻尼 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ダンピング $MODIFICATIONVALUE$</string>
+        <string lang="ru">Затухание $MODIFICATIONVALUE$</string>
+        <string lang="es">Amortiguación $MODIFICATIONVALUE$</string>
+        <string lang="kr">감쇠 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amortecimento $MODIFICATIONVALUE$</string>
+</set>
+<set id="module-properties-description-reduction">
+        <string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
+        <string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
+</set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>
