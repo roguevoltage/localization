@@ -32,7 +32,7 @@
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Muda a cor no final do turno do dono se colocado no rack</string>
 </set>
-<set id="description-status-moduleboost-eot">
+<set id="description-status-moduleboost">
 		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1$ $energy$ hinzu</string>
 		<string lang="en">Adds $1$ $energy$ to the incoming current until the end of turn</string>
 		<string lang="fr">Ajoute $1$ $energy$ au courant jusqu'à la fin du tour</string>
@@ -560,7 +560,7 @@
 		<string lang="kr">색상 변이</string>
 		<string lang="pt-br">Mutação de Cor</string>
 </set>
-<set id="name-status-moduleboost-eot">
+<set id="name-status-moduleboost">
 		<string lang="de">Boost +1</string>
 		<string lang="en">Boost +1</string>
 		<string lang="fr">Sursaut +1</string>
@@ -604,28 +604,6 @@
 		<string lang="kr">깨지기쉬운</string>
 		<string lang="pt-br">Rachado</string>
 </set>
-<set id="name-status-modulecracked-eob">
-		<string lang="de">Brüchig</string>
-		<string lang="en">Cracked</string>
-		<string lang="fr">Cassant</string>
-		<string lang="zh">碎裂</string>
-		<string lang="jp">割れた</string>
-		<string lang="ru">Треснувший</string>
-		<string lang="es">Agrietado</string>
-		<string lang="kr">깨지기쉬운</string>
-		<string lang="pt-br">Rachado</string>
-</set>
-<set id="name-status-modulecracked-eot">
-		<string lang="de">Brüchig</string>
-		<string lang="en">Cracked</string>
-		<string lang="fr">Cassant</string>
-		<string lang="zh">碎裂</string>
-		<string lang="jp">割れた</string>
-		<string lang="ru">Треснувший</string>
-		<string lang="es">Agrietado</string>
-		<string lang="kr">깨진</string>
-		<string lang="pt-br">Rachado</string>
-</set>
 <set id="name-status-modulecrust">
 		<string lang="de">Kruste</string>
 		<string lang="en">Crust</string>
@@ -649,17 +627,6 @@
 		<string lang="pt-br">Fogo</string>
 </set>
 <set id="name-status-modulegravrecoil">
-		<string lang="de">Grav.-Rückstoß</string>
-		<string lang="en">Grav. Recoil</string>
-		<string lang="fr">Recul Grav.</string>
-		<string lang="zh">引力反冲</string>
-		<string lang="jp">重力反動</string>
-		<string lang="ru">Грав. Отдача</string>
-		<string lang="es">Rebote Grav.</string>
-		<string lang="kr">중력 반동</string>
-		<string lang="pt-br">Rebote Grav.</string>
-</set>
-<set id="name-status-modulegravrecoil-eot">
 		<string lang="de">Grav.-Rückstoß</string>
 		<string lang="en">Grav. Recoil</string>
 		<string lang="fr">Recul Grav.</string>
@@ -747,17 +714,6 @@
 		<string lang="kr">과부하</string>
 		<string lang="pt-br">Sobrecarga</string>
 </set>
-<set id="name-status-moduleoverload-eot">
-		<string lang="de">Überlastet</string>
-		<string lang="en">Overload</string>
-		<string lang="fr">Surcharge</string>
-		<string lang="zh">过载</string>
-		<string lang="jp">オーバーロード</string>
-		<string lang="ru">Перегрузка</string>
-		<string lang="es">Sobrecarga</string>
-		<string lang="kr">과부하</string>
-		<string lang="pt-br">Sobrecarga</string>
-</set>
 <set id="name-status-moduleplasmacombustion">
 		<string lang="de">Plasma-Verbrennung</string>
 		<string lang="en">Plasma Combustion</string>
@@ -769,29 +725,7 @@
 		<string lang="kr">플라즈마 연소</string>
 		<string lang="pt-br">Combustão de Plasma</string>
 </set>
-<set id="name-status-moduleplasmacombustion-eot">
-		<string lang="de">Plasma-Verbrennung</string>
-		<string lang="en">Plasma Combustion</string>
-		<string lang="fr">Combustion Plasma</string>
-		<string lang="zh">等离子燃烧</string>
-		<string lang="jp">プラズマ燃焼</string>
-		<string lang="ru">Плазма-Сгорание</string>
-		<string lang="es">Combustión de Plasma</string>
-		<string lang="kr">플라즈마 연소</string>
-		<string lang="pt-br">Combustão de Plasma</string>
-</set>
 <set id="name-status-modulepollution">
-		<string lang="de">Verschmutzung</string>
-		<string lang="en">Pollution</string>
-		<string lang="fr">Pollution</string>
-		<string lang="zh">污染</string>
-		<string lang="jp">汚染</string>
-		<string lang="ru">Загрязнение</string>
-		<string lang="es">Contaminación</string>
-		<string lang="kr">오염</string>
-		<string lang="pt-br">Poluição</string>
-</set>
-<set id="name-status-modulepollution-eot">
 		<string lang="de">Verschmutzung</string>
 		<string lang="en">Pollution</string>
 		<string lang="fr">Pollution</string>
@@ -814,17 +748,6 @@
 		<string lang="pt-br">Resgatado</string>
 </set>
 <set id="name-status-moduleselfencrusting">
-		<string lang="de">Selbstverkrustend</string>
-		<string lang="en">Self-Encrusting</string>
-		<string lang="fr">Auto-Encrustement</string>
-		<string lang="zh">自结晶</string>
-		<string lang="jp">自己結晶</string>
-		<string lang="ru">Самокристаллизация</string>
-		<string lang="es">Cristalización</string>
-		<string lang="kr">자가 결정</string>
-		<string lang="pt-br">Auto-encrustação</string>
-</set>
-<set id="name-status-moduleselfencrusting-eot">
 		<string lang="de">Selbstverkrustend</string>
 		<string lang="en">Self-Encrusting</string>
 		<string lang="fr">Auto-Encrustement</string>
