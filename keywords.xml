@@ -263,16 +263,19 @@
         <string lang="kr">&lt;b&gt;&lt;sprite name="fox"&gt;여우&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;sprite name="fox"&gt;Raposa&lt;/b&gt;</string>
     </set>
-    <set id="$blademodule$">
-        <string lang="de">&lt;b&gt;&lt;sprite name="blademodule"&gt;Klingenmodul +1&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;sprite name="blademodule"&gt;Blade Module +1&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;sprite name="blademodule"&gt;Module Lame +1&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;sprite name="blademodule"&gt;战斧模块 +1&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;sprite name="blademodule"&gt;ブレードモジュール +1&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;sprite name="blademodule"&gt;Модуль Клинка +1&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;sprite name="blademodule"&gt;Módulo de Cuchilla +1&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;sprite name="blademodule"&gt;칼날 모듈 +1&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;sprite name="blademodule"&gt;Módulo de Lâmina +1&lt;/b&gt;</string>
+    <set id="$healingpotion$">
+        <string lang="en">&lt;b&gt;&lt;sprite name="healingpotion"&gt;Healing Potion&lt;/b&gt;</string>
+    </set>
+    <set id="$regenerationcell$">
+        <string lang="de">&lt;b&gt;&lt;sprite name="blademodule"&gt;Regenerationszelle&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;sprite name="blademodule"&gt;Regeneration Cell&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;sprite name="blademodule"&gt;Pile de Régénération&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;sprite name="blademodule"&gt;再生电池&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;sprite name="blademodule"&gt;再生電池&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;sprite name="blademodule"&gt;Ячейка Регенерации&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;sprite name="blademodule"&gt;Célula de Regeneración&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;sprite name="blademodule"&gt;재생 전지&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;sprite name="blademodule"&gt;Célula de Regeneração&lt;/b&gt;</string>
     </set>
     <set id="$soulsensor$">
         <string lang="de">&lt;b&gt;&lt;sprite name="soulsensor"&gt;Seelen-Sensor&lt;/b&gt;</string>
@@ -284,6 +287,28 @@
         <string lang="es">&lt;b&gt;&lt;sprite name="soulsensor"&gt;Sensor de Almas&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;sprite name="soulsensor"&gt;영혼 감지기&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;sprite name="soulsensor"&gt;Sensor de Almas&lt;/b&gt;</string>
+    </set>
+    <set id="$amplifier$">
+        <string lang="de">&lt;b&gt;&lt;sprite name="amplifier"&gt;Verstärker +1&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;sprite name="amplifier"&gt;Amplifier +1&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;sprite name="amplifier"&gt;Amplificateur +1&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;sprite name="amplifier"&gt;增幅器 +1&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;sprite name="amplifier"&gt;増幅器 +1&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;sprite name="amplifier"&gt;Усилитель +1&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;sprite name="amplifier"&gt;Amplificador +1&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;sprite name="amplifier"&gt;증폭기 +1&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;sprite name="amplifier"&gt;Amplificador +1&lt;/b&gt;</string>
+    </set>
+    <set id="$curesensor$">
+        <string lang="de">&lt;b&gt;&lt;sprite name="curesensor"&gt;Heilungs-Sensor&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;sprite name="curesensor"&gt;Cure Sensor&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;sprite name="curesensor"&gt;Capteur de Soins&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;sprite name="curesensor"&gt;治疗感应器&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;sprite name="curesensor"&gt;治癒センサー&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;sprite name="curesensor"&gt;Датчик Лечения&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Curación&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;sprite name="curesensor"&gt;치유 센서&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Cura&lt;/b&gt;</string>
     </set>
     <set id="$grav$">
         <string lang="de">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung&lt;/b&gt;</string>
