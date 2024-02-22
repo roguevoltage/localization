@@ -75,7 +75,7 @@
 		<string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">让目标获得 $gravimmunity$，持续 $energy$×3。</string>
 		<string lang="jp">ターゲットの戦闘者に$gravimmunity$を与えます。$br$(持続時間：$energy$×3)。</string>
-        <string lang="ru">Налагает $gravimmunity$ на цель.$br$(Продолжительность: $energy$×3).</string>
+        <string lang="ru">Накладывает $gravimmunity$ на цель.$br$(Продолжительность: $energy$×3).</string>
         <string lang="es">Inflige $gravimmunity$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
         <string lang="kr">대상 전투원에게 $gravimmunity$를 부여합니다.$br$(지속시간: $energy$×3).</string>
         <string lang="pt-br">Inflige $gravimmunity$ no combatente alvo.$br$(Duração: $energy$×3).</string>
@@ -135,7 +135,7 @@
 		<string lang="zh">制造一个通用的$b$Decelerator$/b$。</string>
 		<string lang="jp">一般的な$b$ディセレレーター$/b$を作成します。</string>
         <string lang="ru">Создает универсальный $b$Децелератор$/b$$br$с $cracked$.</string>
-        <string lang="es">Construye un $b$Decelerator$/b$ universal$br$con $cracked$.</string>
+        <string lang="es">Construye un $b$Decelerator$/b$ universal$br$c $cracked$.</string>
         <string lang="kr">$cracked$가 있는 일반적인 $b$Decelerator$/b$를 만듭니다.</string>
         <string lang="pt-br">Constrói um $b$Decelerator$/b$ universal$br$com $cracked$.</string>
 </set>
@@ -193,7 +193,7 @@
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$br$Поражает остальные модули на этой стойке $fire$.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
         <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
@@ -219,7 +219,7 @@
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
 		<string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
 		<string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
-		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но наносит владельцу $vulnerable$ на 5 шагов времени.</string>
+		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но накладывает на владельца $vulnerable$ на 5 шагов времени.</string>
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
 		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
@@ -302,15 +302,15 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 </set>
 <set id="description-module-passivedurabilitysafeguarding">
-		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$33%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
+		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$50%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
 		<string lang="en">Modules with $malfunctioning$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
-		<string lang="fr">Les modules avec $malfunctioning$ ou $overload$ sur ce rack ont une $b$33% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
-		<string lang="zh">同机架上的 $cracked$ 模块有 $b$33%$/b$ 的几率在激活时不被摧毀。</string>
-		<string lang="jp">このラックの $cracked$ モジュールは $b$33%$/b$ の確率でアクティブ化時に破壊されません。</string>
-		<string lang="ru">Модули с $cracked$ на этом слоте имеют $b$33% шанс$/b$ не быть уничтоженными при активации.</string>
-		<string lang="es">Los módulos con $cracked$ en este bastidor tienen una $b$33% de probabilidad$/b$ de no ser destruidos al activarse.</string>
-		<string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$33%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
-		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$33% de chance$/b$ de não serem destruídos quando ativados.</string>
+		<string lang="fr">Les modules avec $malfunctioning$ ou $overload$ sur ce rack ont une $b$50% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
+		<string lang="zh">同机架上的 $cracked$ 模块有 $b$50%$/b$ 的几率在激活时不被摧毀。</string>
+		<string lang="jp">このラックの $cracked$ モジュールは $b$50%$/b$ の確率でアクティブ化時に破壊されません。</string>
+		<string lang="ru">Модули с $cracked$ на этом слоте имеют $b$50% шанс$/b$ не быть отключёнными при активации.</string>
+		<string lang="es">Los módulos con $cracked$ en este bastidor tienen una $b$50% de probabilidad$/b$ de no ser destruidos al activarse.</string>
+		<string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$50%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
+		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$50% de chance$/b$ de não serem destruídos quando ativados.</string>
 </set>
 <set id="description-module-passivegravdissipator">
 		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
@@ -321,7 +321,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
 		<string lang="zh">每当引力尖峰发生时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда Грав. Пик ударяет по земле.</string>
+        <string lang="ru">Лечит обоих персонажей на $1$ каждый раз когда $b$Грав. равновесие$/b$ создаёт Грав. шип</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que una Púa Grav. toca el suelo.</string>
         <string lang="kr">$b$Grav. Equilibrium$/b$이 $gravspike$를 생성할 때마다 플레이어 캐릭터를 $1$ 회복합니다.</string>
 </set>
@@ -337,7 +337,7 @@
 		<string lang="fr">Utilise tout le $plasma$ pour générer autant de $energy$.</string>
 		<string lang="zh">消耗所有的 $plasma$ 来产生相同数量的 $energy$ 。</string>
 		<string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
-        <string lang="ru">Использует весь $plasma$ для генерации столько же $energy$.</string>
+        <string lang="ru">Использует весь $plasma$ $b$для генерации такого же количества $energy$.</string>
         <string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
         <string lang="kr">모든 $plasma$를 사용하여 그만큼의 $energy$를 생성합니다.</string>
         <string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
@@ -348,7 +348,7 @@
 		<string lang="fr">Modifie un courant.</string>
 		<string lang="zh">修改一个电流。</string>
 		<string lang="jp">電流を変更します。</string>
-		<string lang="ru">Модифицирует поток.</string>
+		<string lang="ru">Модифицирует ток.</string>
 		<string lang="es">Modifica una corriente.</string>
 		<string lang="kr">전류를 수정합니다.</string>
 		<string lang="pt-br">Modifica uma corrente.</string>
@@ -359,7 +359,7 @@
 		<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après le tour, si aucun $generator$ n'a été activé sur ce rack ce tour.</string>
 		<string lang="zh">如果本回合没有在本机架上激活 $generator$ ，则在回合结束时充能 $b$$SENSORVALUE$$/b$ $energy$ 。</string>
 		<string lang="jp">このターンにこのラックで$generator$がアクティブ化されていない場合、ターン後に$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
-		<string lang="ru">Заряжается $b$$SENSORVALUE$$/b$ $energy$ после хода, если на этом слоте в этот ход не был активирован $generator$.</string>
+		<string lang="ru">Заряжается $b$$SENSORVALUE$$/b$ $energy$ после хода, если на этой стойке в этот ход не был активирован $generator$.</string>
         <string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después del turno, si no se ha activado un $generator$ en este rack este turno.</string>
         <string lang="kr">이번 턴에 이 랙에서 $generator$가 활성화되지 않았다면 턴이 끝난 후 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
         <string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $generator$ foi ativado neste rack neste turno.</string>
@@ -373,7 +373,7 @@
 		<string lang="fr">Construit une copie permanente d'un autre module ciblé.</string>
 		<string lang="zh">创建一个其他模块的永久复制品。</string>
 		<string lang="jp">別のターゲット モジュールの永久コピーを作成します。</string>
-        <string lang="ru">Создает постоянную копию другого целевого модуля на этом слоте.</string>
+        <string lang="ru">Создает постоянную копию другого целевого модуля на этой стойке.</string>
         <string lang="es">Construye una copia permanente de otro módulo objetivo en este rack.</string>
         <string lang="kr">이 랙의 다른 대상 모듈의 영구적인 복사본을 만듭니다.</string>
         <string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo neste rack.</string>
@@ -429,7 +429,7 @@
 		<string lang="fr">Retire $outoforder$ d'un module ciblé sur ce rack.</string>
 		<string lang="zh">从本机架上的目标模块中移除 $outoforder$。</string>
 		<string lang="jp">このラックのターゲットモジュールから$outoforder$を削除します。</string>
-        <string lang="ru">Удаляет $outoforder$ из целевого модуля на этом слоте.</string>
+        <string lang="ru">Удаляет $outoforder$ из целевого модуля на этой стойке.</string>
         <string lang="es">Elimina $outoforder$ del módulo objetivo en este rack.</string>
         <string lang="kr">이 랙의 대상 모듈로부터 $outoforder$를 제거합니다.</string>
         <string lang="pt-br">Remove $outoforder$ do módulo alvo neste rack.</string>
@@ -440,7 +440,7 @@
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
 		<string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
-        <string lang="ru">Уничтожает другой целевой модуль на этом слоте, чтобы создать другой модуль того же уровня.</string>
+        <string lang="ru">Уничтожает другой целевой модуль на этой стойке, чтобы создать другой модуль того же уровня.</string>
         <string lang="es">Destruye otro módulo objetivo en este rack para construir un módulo diferente del mismo nivel.</string>
         <string lang="kr">이 랙의 다른 대상 모듈을 파괴하여 동일한 레벨의 다른 모듈을 구성합니다.</string>
         <string lang="pt-br">Destroi outro módulo alvo neste rack para construir um módulo diferente do mesmo nível.</string>
@@ -451,7 +451,7 @@
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
 		<string lang="jp">別のターゲットモジュールを同じレベルの別のモジュールに変換します。</string>
-        <string lang="ru">Уничтожает другой целевой модуль на этом слоте, чтобы создать другой модуль того же уровня.</string>
+        <string lang="ru">Уничтожает другой целевой модуль на этой стойке, чтобы создать другой модуль того же уровня.</string>
         <string lang="es">Destruye otro módulo objetivo en este rack para construir un módulo diferente del mismo nivel.</string>
         <string lang="kr">이 랙의 다른 대상 모듈을 파괴하여 동일한 레벨의 다른 모듈을 구성합니다.</string>
         <string lang="pt-br">Destroi outro módulo alvo neste rack para construir um módulo diferente do mesmo nível.</string>
@@ -467,10 +467,10 @@
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant.</string>
 		<string lang="zh">在一个电流上增加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к потоку.</string>
+		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente entrante.</string>
-        <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente.</string>
+    <string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+    <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente.</string>
 </set>
 <set id="description-module-vaultacceleration">
         <string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn um $1$ zu beschleunigen.</string>
@@ -496,7 +496,7 @@
 		<string lang="fr">Capteur Croûte $MODIFICATIONVALUE$</string>
 		<string lang="zh">晶体感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">クリスタルセンサー $MODIFICATIONVALUE$</string>
-        <string lang="ru">Кора-сенсор $MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Кристаллизации $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Corteza $MODIFICATIONVALUE$</string>
         <string lang="kr">크러스트 센서 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Sensor de Crosta $MODIFICATIONVALUE$</string>
@@ -518,7 +518,7 @@
 		<string lang="fr">Capteur de Pouvoir $MODIFICATIONVALUE$</string>
 		<string lang="zh">力量感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">マイトセンサー $MODIFICATIONVALUE$</string>
-        <string lang="ru">Мощь-сенсор $MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Мощи $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Poderío $MODIFICATIONVALUE$</string>
         <string lang="kr">마이트 센서 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Sensor de Poder $MODIFICATIONVALUE$</string>
@@ -529,7 +529,7 @@
 		<string lang="fr">Capteur de Bouclier $MODIFICATIONVALUE$</string>
 		<string lang="zh">护盾感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">シールドセンサー $MODIFICATIONVALUE$</string>
-        <string lang="ru">Щит-сенсор $MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Щита $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Escudo $MODIFICATIONVALUE$</string>
         <string lang="kr">실드 센서 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
@@ -588,7 +588,7 @@
 		<string lang="fr">Fabrique de Blaster $MODIFICATIONVALUE$</string>
 		<string lang="zh">爆破器工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ブラスター工場 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Фабрика Бластера $MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Бластеров $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Blaster $MODIFICATIONVALUE$</string>
         <string lang="kr">블래스터 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Blaster $MODIFICATIONVALUE$</string>
@@ -603,7 +603,7 @@
 		<string lang="fr">Fabrique des Décélérateurs $MODIFICATIONVALUE$</string>
 		<string lang="zh">减速器工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ディセレレーター工場 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Фабрика Децелератора $MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Замедлителей $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Decelerador $MODIFICATIONVALUE$</string>
         <string lang="kr">감속기 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Decelerador $MODIFICATIONVALUE$</string>
@@ -614,7 +614,7 @@
 		<string lang="fr">Fabrique des Générateurs $MODIFICATIONVALUE$</string>
 		<string lang="zh">发生器工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ジェネレーター工場 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Фабрика Генератора $MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Генераторов $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Generador $MODIFICATIONVALUE$</string>
         <string lang="kr">발전기 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Gerador $MODIFICATIONVALUE$</string>
@@ -625,7 +625,7 @@
 		<string lang="fr">Fabrique des Fusionneurs $MODIFICATIONVALUE$</string>
 		<string lang="zh">合并器工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">マージャー工場 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Фабрика Слияния $MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Слияниий $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Fusionador $MODIFICATIONVALUE$</string>
         <string lang="kr">병합기 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Fusor $MODIFICATIONVALUE$</string>
@@ -636,7 +636,7 @@
 		<string lang="fr">Fabrique des Modificateurs $MODIFICATIONVALUE$</string>
 		<string lang="zh">转换器工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">モディファイアー工場 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Фабрика Модификатора $MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Модификаторов $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Modificador $MODIFICATIONVALUE$</string>
         <string lang="kr">변환기 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Modificador $MODIFICATIONVALUE$</string>
@@ -672,7 +672,7 @@
 		<string lang="fr">Générateur de Combustion de Plasma</string>
 		<string lang="zh">等离子燃烧发生器</string>
 		<string lang="jp">プラズマ燃焼ジェネレーター</string>
-		<string lang="ru">Плазмо-сжигающий генератор</string>
+		<string lang="ru">Плазмо-Сжигающий Генератор</string>
 		<string lang="es">Generador de Combustión de Plasma</string>
 		<string lang="kr">플라즈마 연소 발전기</string>
 		<string lang="pt-br">Gerador de Combustão de Plasma</string>
@@ -683,7 +683,7 @@
 		<string lang="fr">Générateur Périleux</string>
 		<string lang="zh">危险发电机</string>
 		<string lang="jp">危険なジェネレーター</string>
-		<string lang="ru">опасный генератор</string>
+		<string lang="ru">Опасный Генератор</string>
 		<string lang="es">Generador Peligroso</string>
 		<string lang="kr">위험한 발전기</string>
 		<string lang="pt-br">Gerador Perigoso</string>
@@ -738,7 +738,7 @@
 		<string lang="fr">Débris Carbonisés</string>
 		<string lang="zh">烧焦碎片</string>
 		<string lang="jp">Molten Debris</string>
-        <string lang="ru">Расплавленные обломки</string>
+        <string lang="ru">Расплавленные Обломки</string>
         <string lang="es">Escombros Fundidos</string>
         <string lang="kr">녹아내린 잔해</string>
         <string lang="pt-br">Detritos Derretidos</string>
@@ -760,7 +760,7 @@
 		<string lang="fr">Module de Disturbance $MODIFICATIONVALUE$</string>
 		<string lang="zh">干扰模块 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ディスラプションモジュール $MODIFICATIONVALUE$</string>
-        <string lang="ru">Модуль Расстройства $MODIFICATIONVALUE$</string>
+        <string lang="ru">Модуль Сбоев $MODIFICATIONVALUE$</string>
         <string lang="es">Módulo de Disrupción $MODIFICATIONVALUE$</string>
         <string lang="kr">장애 모듈 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Módulo de Disrupção $MODIFICATIONVALUE$</string>
@@ -782,7 +782,7 @@
 		<string lang="fr">Dissipateur Grav.</string>
 		<string lang="zh">引力散热器</string>
 		<string lang="jp">重力ディシペーター</string>
-		<string lang="ru">Грав. Диссипатор</string>
+		<string lang="ru">Грав. Рассеиватель</string>
 		<string lang="es">Disipador Grav.</string>
 		<string lang="kr">Grav. Dissipator</string>
 		<string lang="pt-br">Dissipador Grav.</string>
@@ -793,7 +793,7 @@
 		<string lang="fr">Capteur Crête Grav. $MODIFICATIONVALUE$</string>
 		<string lang="zh">引力尖峰感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">重力スパイクセンサー $MODIFICATIONVALUE$</string>
-        <string lang="ru">Грав. Спайк Сенсор $MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Грав. Шипов $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Pico Grav. $MODIFICATIONVALUE$</string>
         <string lang="kr">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Sensor de Pico Grav. $MODIFICATIONVALUE$</string>
@@ -826,7 +826,7 @@
 		<string lang="fr">Déchargeur de Plasma</string>
 		<string lang="zh">等离子体卸能器</string>
 		<string lang="jp">プラズマディスチャージャー</string>
-        <string lang="ru">Разрядник Плазмы</string>
+        <string lang="ru">Плазменный Разрядник</string>
         <string lang="es">Descargador de Plasma</string>
         <string lang="kr">플라즈마 방전기</string>
         <string lang="pt-br">Descarregador de Plasma</string>
@@ -870,7 +870,7 @@
 		<string lang="fr">Duplicateur</string>
 		<string lang="zh">复制器</string>
 		<string lang="jp">複製機</string>
-        <string lang="ru">Дупликатор</string>
+        <string lang="ru">Дубликатор</string>
         <string lang="es">Duplicador</string>
         <string lang="kr">복제기</string>
         <string lang="pt-br">Duplicador</string>
@@ -881,7 +881,7 @@
 		<string lang="fr">Duplicateur Instable</string>
 		<string lang="zh">不稳定的复制器</string>
 		<string lang="jp">不安定な複製機</string>
-        <string lang="ru">Нестабильный Дупликатор</string>
+        <string lang="ru">Нестабильный Дубликатор</string>
         <string lang="es">Duplicador Inestable</string>
         <string lang="kr">불안정한 복제기</string>
         <string lang="pt-br">Duplicador Instável</string>
@@ -914,7 +914,7 @@
 		<string lang="fr">Grenade de Inversion Grav.</string>
 		<string lang="zh">引力反转手雷</string>
 		<string lang="jp">グラビティヌルファイアー</string>
-		<string lang="ru">Грав. Инвертерная Граната</string>
+		<string lang="ru">Граната Грав. Инверсии</string>
 		<string lang="es">Granada Inversora Grav.</string>
 </set>
 <set id="name-module-toggledgravvacuum">
@@ -926,7 +926,7 @@
 		<string lang="fr">Grenade de Grav. Immunité</string>
 		<string lang="zh">引力免疫手雷</string>
 		<string lang="jp">グラビティヌルファイアー</string>
-        <string lang="ru">Грав. Иммунитетная Граната</string>
+        <string lang="ru">Граната Грав. Иммунитета</string>
         <string lang="es">Granada de Inmunidad Grav.</string>
         <string lang="kr">Grav. 면역 수류탄</string>
         <string lang="pt-br">Granada de Imunidade Grav.</string>
@@ -937,7 +937,7 @@
 		<string lang="fr">Anullateur Pouvoir</string>
 		<string lang="zh">力量消除器</string>
 		<string lang="jp">マイトヌルファイアー</string>
-        <string lang="ru">Мощь Нуллифаер</string>
+        <string lang="ru">Обнулитель Мощи</string>
         <string lang="es">Anulador de Poderío</string>
         <string lang="kr">마이트 널리파이어</string>
         <string lang="pt-br">Anulador de Poder</string>
@@ -948,7 +948,7 @@
 		<string lang="fr">Kit de Réparation</string>
 		<string lang="zh">修理工具包</string>
 		<string lang="jp">修理キット</string>
-        <string lang="ru">Комплект Ремонта</string>
+        <string lang="ru">Ремонтный Комплект</string>
         <string lang="es">Kit de Reparación</string>
         <string lang="kr">수리 키트</string>
         <string lang="pt-br">Kit de Reparo</string>
@@ -981,7 +981,7 @@
 		<string lang="fr">Turbo de Passage</string>
 		<string lang="zh">通行加速器</string>
 		<string lang="jp">パススルーターボ</string>
-		<string lang="ru">Турбо-проходчик</string>
+		<string lang="ru">Турбо-проходник</string>
 		<string lang="es">Turbo de Pasaje</string>
 		<string lang="kr">통과 터보</string>
 		<string lang="pt-br">Turbo de Passagem</string>
