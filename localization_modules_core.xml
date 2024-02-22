@@ -27,7 +27,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
 		<string lang="zh">当$storagemodule$充能时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">$storagemodule$が充電されるとき $b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль типа $storagemodule$ заряжается.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
 		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
@@ -60,7 +60,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque $grav+$ est appliqué à un personnage joueur.</string>
 		<string lang="zh">每当 $grav+$ 应用于玩家角色时，就会产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">$grav+$がプレイヤーキャラクターに適用されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav+$ применяется к игрок-персонажу.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav+$ применяется к персонажу игрока.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $grav+$ es aplicado a un personaje jugador.</string>
 		<string lang="kr">$grav+$가 플레이어 캐릭터에 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
@@ -71,7 +71,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur est soigné.</string>
 		<string lang="zh">每当玩家角色被治疗时，就会产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">プレイヤーキャラクターが回復するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда игрок-персонаж исцеляется.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока исцеляется.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador es curado.</string>
 		<string lang="kr">플레이어 캐릭터가 치료될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador é curado.</string>
@@ -104,7 +104,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est créé.</string>
 		<string lang="zh">当 $plasma$ 被制造时产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">プラズマが生成されると、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда создается $plasma$.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда создаётся $plasma$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es creado.</string>
 		<string lang="kr">$plasma$가 생성될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é criado.</string>
@@ -115,7 +115,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur subit $damage$.</string>
 		<string lang="zh">每当玩家角色受到 $damage$ 时，就会产生 $b$$SENSORVALUE$$/b$ $energy$。</string>
 		<string lang="jp">プレイヤーキャラクターが$damage$を受けるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда игрок-персонаж получает $damage$.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $damage$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $damage$.</string>
 		<string lang="kr">플레이어 캐릭터가 $damage$를 받을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
@@ -126,7 +126,7 @@
 		<string lang="fr">Peut être chargé ou déchargé. $energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="zh">可充电或放电。传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
 		<string lang="jp">充電または放電可能。入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
-		<string lang="ru">Может быть заряжен или разряжен. Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="ru">Может быть либо заряжен, либо разряжен. Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="es">Puede ser cargado o descargado. La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="kr">충전 또는 방전 가능. 들어오는 $energy$는 $b$$MODIFICATIONVALUE$$/b$로 증폭됩니다.</string>
 		<string lang="pt-br">Pode ser carregado ou descarregado. A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
@@ -137,7 +137,7 @@
 		<string lang="fr">Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
 		<string lang="zh">如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
 		<string lang="jp">キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
-		<string lang="ru">Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
+		<string lang="ru">Если персонаж теряет сознание, он оживает с HP от самого высокого значения от его сохраненной $energy$.</string>
 		<string lang="es">Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
 		<string lang="kr">캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
 		<string lang="pt-br">Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
@@ -181,7 +181,7 @@
 		<string lang="fr">Inflige des $damage$ sur l'ennemi ciblé.</string>
 		<string lang="zh">对目标敌人造成 $damage$ 。</string>
 		<string lang="jp">ターゲットの敵に$damage$を与えます。</string>
-		<string lang="ru">Наносит цели $damage$.</string>
+		<string lang="ru">Наносит целевому врагу $damage$.</string>
 		<string lang="es">Inflige $damage$ al enemigo objetivo.</string>
 		<string lang="kr">대상 적에게 $damage$를 줍니다.</string>
 		<string lang="pt-br">Inflige $damage$ ao inimigo alvo.</string>
@@ -202,7 +202,7 @@
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy with $grav+1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
 		<string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $grav+1$ 。</string>
-		<string lang="ru">Для каждой энергии в этом модуле:$br$[Наносит $grav+1$ случайному врагу за каждый $energy$].</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит $grav+1$ случайному врагу].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $grav+1$ a un enemigo aleatorio].</string>
 		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $grav+1$를 줍니다.</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
@@ -213,7 +213,7 @@
 		<string lang="fr">Inflige $grav+$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
 		<string lang="zh">让与拥有者同一时刻的所有敌人获得 $grav+$ 。</string>
 		<string lang="jp">所有者と同じ時間ステップにいる敵に$grav+$を与えます。</string>
-		<string lang="ru">Применяет $grav+$ к всем врагам на том же временном шаге, что и владелец.</string>
+		<string lang="ru">Применяет $grav+$ ко всем врагам на том же временном шаге, что и владелец.</string>
 		<string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
 		<string lang="kr">소유자와 같은 시간 단계에 있는 모든 적에게 $grav+$를 줍니다.</string>
 		<string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
@@ -224,7 +224,7 @@
 		<string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
 		<string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $1damage$ 。</string>
 		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ランダムな敵に$1damage$を与えます。</string>
-		<string lang="ru">Наносит $1damage$ случайному врагу за каждый $energy$ на этом модуле.</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит $1damage$ случайному врагу]</string>
 		<string lang="es">Inflige $1damage$ a un enemigo aleatorio por cada punto de $energy$ en este módulo.</string>
 		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $1damage$를 줍니다.</string>
 		<string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
@@ -268,7 +268,7 @@
 		<string lang="fr">Applique $shield$ à l'allié ciblé.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">让目标队友获得 $shield$，$br$持续 $energy$×3。</string>
 		<string lang="jp">ターゲットの味方に$shield$を与えます。$br$(持続時間：$energy$×3)。</string>
-		<string lang="ru">Дает союзнику $shield$.$br$(Длительность: $energy$×3).</string>
+		<string lang="ru">Даёт союзнику $shield$.$br$(Длительность: $energy$×3).</string>
 		<string lang="es">Aplica $shield$ al aliado objetivo.$br$(Duración: $energy$×3).</string>
 		<string lang="kr">대상 동료에게 $shield$를 적용합니다.$br$(지속시간: $energy$×3).</string>
 		<string lang="pt-br">Aplica $shield$ ao aliado alvo.$br$(Duração: $energy$×3).</string>
@@ -279,7 +279,7 @@
 		<string lang="fr">Applique $shield$$br$à tous les alliés.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">让目标队友获得 $shield$，持续 $energy$×3。</string>
 		<string lang="jp">全ての味方に$shield$を与えます。$br$(持続時間：$energy$×3)。</string>
-		<string lang="ru">Дает всем союзникам $shield$.$br$(Длительность: $energy$×3).</string>
+		<string lang="ru">Даёт всем союзникам $shield$.$br$(Длительность: $energy$×3).</string>
 		<string lang="es">Aplica $shield$ a todos los aliados.$br$(Duración: $energy$×3).</string>
 		<string lang="kr">모든 동료에게 $shield$를 적용합니다.$br$(지속시간: $energy$×3).</string>
 		<string lang="pt-br">Aplica $shield$ a todos os aliados.$br$(Duração: $energy$×3).</string>
@@ -378,7 +378,7 @@
 		<string lang="fr">Prend $grav+$ d'un $b$autre$/b$ combattant comme $energy$.</string>
 		<string lang="zh">将$b$另一个$/b$角色身上的 $grav+$ 转换为 $energy$ 。</string>
 		<string lang="jp">$b$他の$/b$戦闘者から $grav+$ を $energy$ として取得します。</string>
-		<string lang="ru">Подбирает $grav+$ от $b$другого$/b$ бойца как $energy$.</string>
+		<string lang="ru">Забирает $grav+$ у $b$другого$/b$ бойца в качестве $energy$.</string>
 		<string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
 		<string lang="kr">$b$다른$/b$ 전투 참가자로부터 $grav+$를 $energy$로 획득합니다.</string>
 		<string lang="pt-br">Pega $grav+$ de $b$outro$/b$ combatente como $energy$.</string>
@@ -389,7 +389,7 @@
 		<string lang="fr">Fusionne deux courants.</string>
 		<string lang="zh">合并两个电流。</string>
 		<string lang="jp">2 つの電流を結合します。</string>
-		<string lang="ru">Объединяет ток.</string>
+		<string lang="ru">Объединяет два тока.</string>
 		<string lang="es">Fusiona dos corrientes.</string>
 		<string lang="kr">두 개의 전류를 병합합니다.</string>
 		<string lang="pt-br">Mescla duas correntes.</string>
@@ -462,7 +462,7 @@
 		<string lang="fr">Les modules $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
 		<string lang="zh">同机架上的 $generator$ 模块有 $b$33%$/b$ 的几率生成 $b$+1$/b$ $energy$。</string>
 		<string lang="jp">このラックの $generator$ モジュールは $b$33%$/b$ の確率で $b$+1$/b$ $energy$ を生成します。</string>
-		<string lang="ru">Модули $generator$ на этом слоте имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
+		<string lang="ru">Модули $generator$ на этой стойке имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
 		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
 		<string lang="kr">이 랙에 있는 $generator$ 타입의 모듈은 $b$33%$/b$의 확률로 $b$+1$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
@@ -517,7 +517,7 @@
 		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
 		<string lang="zh">将在 $b$$TIMETOTURN$$/b$ 时刻后爆炸，对两个英雄造成 $b$$INVERSECHARGEVALUE$$/b$ $damage$。$br$（使用 $energy$ 减少效果）。</string>
 		<string lang="jp">$b$$TIMETOTURN$$/b$ ターン後に爆発し、両者のヒーローに $b$$INVERSECHARGEVALUE$$/b$ $damage$ を与えます。$br$（$energy$ で効果を減らす）。</string>
-		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить эффект с помощью $energy$).</string>
+		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить урон можно с помощью с помощью $energy$).</string>
 		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
 		<string lang="kr">$b$$TIMETOTURN$$/b$ 단계 후에 폭발하며, 양쪽 영웅에게 $b$$INVERSECHARGEVALUE$$/b$ $damage$를 입힙니다.$br$($energy$로 효과를 감소시킵니다.)</string>
 		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
@@ -550,7 +550,7 @@
 		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$br$- ou -$br$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
 		<string lang="zh">永久地从本机架上的一个模块中移除 $overload$$br$- 或 -$br$永久地从本机架上的一个模块中移除 $malfunctioning$ 并用 $overload$ 替换它。</string>
 		<string lang="jp">このラックのモジュールから$overload$を永久に削除します$br$- または -$br$このラックのモジュールから$malfunctioning$を永久に削除し、$overload$に置き換えます。</string>
-		<string lang="ru">Постоянно удаляет $overload$ с модуля на этом слоте$br$- или -$br$постоянно удаляет $malfunctioning$ с модуля на этом слоте и заменяет его на $overload$.</string>
+		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$br$- или -$br$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
 		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$br$- o -$br$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
 		<string lang="kr">이 랙의 모듈에서 $overload$를 영구적으로 제거합니다.$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$을 영구적으로 제거하고 $overload$로 대체합니다.</string>
 		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$br$- ou -$br$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
@@ -594,7 +594,7 @@
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
 		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
-		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.</string>
+		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$br$$passthroughmodule$может иметь только 1 $upgrade$.</string>
 		<string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
 		<string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.</string>
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
@@ -605,7 +605,7 @@
 		<string lang="fr">Génère $2$ $energy$ à partir de la destruction d'un autre module ciblé.</string>
 		<string lang="zh">摧毁一个其他模块以创建 $2$ $energy$。</string>
 		<string lang="jp">別のターゲットモジュールを破壊して $2$ $energy$ を生成します。</string>
-		<string lang="ru">Уничтожает другой модуль, чтобы получить $2$ $energy$.</string>
+		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2$ $energy$.</string>
 		<string lang="es">Destruye otro módulo objetivo para generar $2$ $energy$.</string>
 		<string lang="kr">$2$ $energy$를 생성하기 위해 다른 대상 모듈을 파괴합니다.</string>
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2$ $energy$.</string>
@@ -660,7 +660,7 @@
 		<string lang="fr">Capteur Détritique $MODIFICATIONVALUE$</string>
 		<string lang="zh">碎裂感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">破片センサー $MODIFICATIONVALUE$</string>
-		<string lang="ru">Датчик Осколков $MODIFICATIONVALUE$</string>
+		<string lang="ru">Датчик Расколов $MODIFICATIONVALUE$</string>
 		<string lang="es">Sensor de Fractura $MODIFICATIONVALUE$</string>
 		<string lang="kr">파편 센서 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Fratura $MODIFICATIONVALUE$</string>
@@ -704,7 +704,7 @@
 		<string lang="fr">Capteur de Fabrication $MODIFICATIONVALUE$</string>
 		<string lang="zh">工厂感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">工場センサー $MODIFICATIONVALUE$</string>
-		<string lang="ru">Датчик Фабрики $MODIFICATIONVALUE$</string>
+		<string lang="ru">Датчик Фабрик $MODIFICATIONVALUE$</string>
 		<string lang="es">Sensor de Fábrica $MODIFICATIONVALUE$</string>
 		<string lang="kr">공장 센서 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Fábrica $MODIFICATIONVALUE$</string>
@@ -759,7 +759,7 @@
 		<string lang="fr">Distributeur $MODIFICATIONVALUE$</string>
 		<string lang="zh">分配器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ディストリビューター $MODIFICATIONVALUE$</string>
-		<string lang="ru">Дистрибьютор $MODIFICATIONVALUE$</string>
+		<string lang="ru">Распределитель $MODIFICATIONVALUE$</string>
 		<string lang="es">Distribuidor $MODIFICATIONVALUE$</string>
 		<string lang="kr">분배기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Distribuidor $MODIFICATIONVALUE$</string>
@@ -814,7 +814,7 @@
 		<string lang="fr">Mitrailleuse Gatling $MODIFICATIONVALUE$</string>
 		<string lang="zh">加特林机枪 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ガトリングガン $MODIFICATIONVALUE$</string>
-		<string lang="ru">Гатлинг-Пушка $MODIFICATIONVALUE$</string>
+		<string lang="ru">Скорострельный Замедлитель $MODIFICATIONVALUE$</string>
 		<string lang="es">Ametralladora Gatling $MODIFICATIONVALUE$</string>
 		<string lang="kr">가틀링 건 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
@@ -869,7 +869,7 @@
 		<string lang="fr">Écran de Régénération $MODIFICATIONVALUE$</string>
 		<string lang="zh">复苏 $MODIFICATIONVALUE$</string>
 		<string lang="jp">回復ポーション $MODIFICATIONVALUE$</string>
-		<string lang="ru">Лечебный Экран $MODIFICATIONVALUE$</string>
+		<string lang="ru">Воскрешающий Экран $MODIFICATIONVALUE$</string>
 		<string lang="es">Pantalla Revitalizante $MODIFICATIONVALUE$</string>
 		<string lang="kr">회복 물약 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Tela Revitalizante $MODIFICATIONVALUE$</string>
@@ -913,7 +913,7 @@
 		<string lang="fr">Fabrique de Potions $MODIFICATIONVALUE$</string>
 		<string lang="zh">药水工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ポーション工場 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Завод Лечебных Зелий $MODIFICATIONVALUE$</string>
+		<string lang="ru">Фабрика Лечебных Зелий $MODIFICATIONVALUE$</string>
 		<string lang="es">Fábrica de Pociones $MODIFICATIONVALUE$</string>
 		<string lang="kr">물약 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Poções $MODIFICATIONVALUE$</string>
@@ -924,7 +924,7 @@
 		<string lang="fr">Fabrique des Piles $MODIFICATIONVALUE$</string>
 		<string lang="zh">蓄电池工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ストレージセル工場 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Завод Аккумуляторов $MODIFICATIONVALUE$</string>
+		<string lang="ru">Фабрика Аккумуляторов $MODIFICATIONVALUE$</string>
 		<string lang="es">Fábrica de Celdas de Almacenamiento $MODIFICATIONVALUE$</string>
 		<string lang="kr">저장 셀 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Células de Armazenamento $MODIFICATIONVALUE$</string>
@@ -946,7 +946,7 @@
 		<string lang="fr">Générateur Grav.</string>
 		<string lang="zh">引力发电机</string>
 		<string lang="jp">重力ジェネレーター</string>
-		<string lang="ru">Гравитационный Генератор</string>
+		<string lang="ru">Грав. Генератор</string>
 		<string lang="es">Generador Grav.</string>
 		<string lang="kr">중력 발전기</string>
 		<string lang="pt-br">Gerador Grav.</string>
@@ -979,7 +979,7 @@
 		<string lang="fr">Générateur de Surcharge</string>
 		<string lang="zh">过载发电机</string>
 		<string lang="jp">過負荷ジェネレーター</string>
-		<string lang="ru">Генератор Перегрузки</string>
+		<string lang="ru">Перегруженный Генератор</string>
 		<string lang="es">Generador Sobrecargado</string>
 		<string lang="kr">과부하 발전기</string>
 		<string lang="pt-br">Gerador de Sobrecarga</string>
@@ -990,7 +990,7 @@
 		<string lang="fr">Aimant Grav. $grav+icon$</string>
 		<string lang="zh">引力磁铁 $grav+icon$</string>
 		<string lang="jp">重力磁石 $grav+icon$</string>
-		<string lang="ru">Гравитационный Магнит $grav+icon$</string>
+		<string lang="ru">Грав. Магнит $grav+icon$</string>
 		<string lang="es">Imán Grav. $grav+icon$</string>
 		<string lang="kr">중력 자석 $grav+icon$</string>
 		<string lang="pt-br">Ímã Grav. $grav+icon$</string>
@@ -1023,7 +1023,7 @@
 		<string lang="fr">Amplificateur de Capteur $MODIFICATIONVALUE$</string>
 		<string lang="zh">感应器放大器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">センサーアンプ $MODIFICATIONVALUE$</string>
-		<string lang="ru">усилитель датчика $MODIFICATIONVALUE$</string>
+		<string lang="ru">Усилитель Датчика $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Sensor $MODIFICATIONVALUE$</string>
 		<string lang="kr">센서 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Sensor $MODIFICATIONVALUE$</string>
@@ -1056,7 +1056,7 @@
 		<string lang="fr">Amplificateur Recul $MODIFICATIONVALUE$</string>
 		<string lang="zh">后坐力增幅器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">反動増幅器 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Замедляющий Усилитель $MODIFICATIONVALUE$</string>
+		<string lang="ru">Усилитель Замедления $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Rebote $MODIFICATIONVALUE$</string>
 		<string lang="kr">반동 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Rebote $MODIFICATIONVALUE$</string>
@@ -1067,7 +1067,7 @@
 		<string lang="fr">Amplificateur de Combustion Plasma $MODIFICATIONVALUE$</string>
 		<string lang="zh">等离子体燃烧增幅器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">プラズマ燃焼増幅器 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Плазменный Усилитель Сгорания $MODIFICATIONVALUE$</string>
+		<string lang="ru">Усилитель Плазменного Сгорания $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Combustión $MODIFICATIONVALUE$</string>
 		<string lang="kr">플라즈마 연소 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Combustão $MODIFICATIONVALUE$</string>
@@ -1122,7 +1122,7 @@
 		<string lang="fr">Pile Éolienne</string>
 		<string lang="zh">风力电池</string>
 		<string lang="jp">風力电池</string>
-		<string lang="ru">Эолова Ячейка</string>
+		<string lang="ru">Эолийская Ячейка</string>
 		<string lang="es">Pila Eólica</string>
 		<string lang="kr">풍력 전지</string>
 		<string lang="pt-br">Célula Eólica</string>
@@ -1166,7 +1166,7 @@
 		<string lang="fr">Améliorant de Durabilité</string>
 		<string lang="zh">耐久增强器</string>
 		<string lang="jp">耐久性向上剤</string>
-		<string lang="ru">усилитель прочности</string>
+		<string lang="ru">Усилитель Прочности</string>
 		<string lang="es">Amplificador de Durabilidad</string>
 		<string lang="kr">내구성 증폭기</string>
 		<string lang="pt-br">Aprimorador de Durabilidade</string>
@@ -1177,7 +1177,7 @@
 		<string lang="fr">Neutralisant Grav.</string>
 		<string lang="zh">引力中和器</string>
 		<string lang="jp">重力中和剤</string>
-		<string lang="ru">Нейтрализатор Грав.</string>
+		<string lang="ru">Грав. Нейтрализатор</string>
 		<string lang="es">Neutralizador Grav.</string>
 		<string lang="kr">중력 중화기</string>
 		<string lang="pt-br">Neutralizador Grav.</string>
@@ -1210,7 +1210,7 @@
 		<string lang="fr">Améliorateur de Relais</string>
 		<string lang="zh">中继器升级器</string>
 		<string lang="jp">スループットアップグレーダー</string>
-		<string lang="ru">Ускоритель Пропускной Способности</string>
+		<string lang="ru">Улучшатель Пропускной Способности</string>
 		<string lang="es">Potenciador de Traspaso</string>
 		<string lang="kr">처리량 업그레이더</string>
 		<string lang="pt-br">Melhorador de Atravessar</string>
@@ -1221,7 +1221,7 @@
 		<string lang="fr">Compresseur de Déchets</string>
 		<string lang="zh">垃圾处理器</string>
 		<string lang="jp">ゴミ圧縮機</string>
-		<string lang="ru">Мусоропресс</string>
+		<string lang="ru">Мусорный Пресс</string>
 		<string lang="es">Compactador de Basura</string>
 		<string lang="kr">쓰레기 압축기</string>
 		<string lang="pt-br">Compactador de Lixo</string>
@@ -1254,7 +1254,7 @@
 	<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
 	<string lang="zh">可以充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
 	<string lang="jp">充電可能。$p$所有者のターンの開始時に、$1$ の蓄積された $energy$ を取り除き、全てのプレイヤーキャラクターを $1$ 回復します。</string>
-	<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удалите $1$ сохраненную $energy$ чтобы вылечить всех игроков на $1$.</string>
+	<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохранённую $energy$ чтобы вылечить всех игроков на $1$.</string>
 	<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
 	<string lang="kr">충전 가능합니다.$p$소유자의 턴 시작시, $1$ 저장된 $energy$를 제거하여 모든 플레이어 캐릭터를 $1$ 회복합니다.</string>
 	<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para curar todos os personagens jogadores em $1$.</string>
@@ -1265,7 +1265,7 @@
 	<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
 	<string lang="zh">可以充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
 	<string lang="jp">充電可能。$p$所有者が $damage$ を受けるたびに、$1$ の蓄積された $energy$ を取り除き、そのダメージを $1$ 軽減します。</string>
-	<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удалите $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
+	<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
 	<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>
 	<string lang="kr">충전 가능합니다.$p$소유자가 $damage$를 받을 때마다, $1$ 저장된 $energy$를 제거하여 그 피해를 $1$ 줄입니다.</string>
 	<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>

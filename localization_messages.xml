@@ -5,7 +5,7 @@
 		<string lang="fr">BUG: $NAME$ est mort.</string>
 		<string lang="zh">BUG: $NAME$ 已死亡。</string>
 		<string lang="jp">BUG: $NAME$ は死んでいます。</string>
-		<string lang="ru">BUG: $NAME$ мертв.</string>
+		<string lang="ru">BUG: $NAME$ мёртв.</string>
 		<string lang="es">BUG: $NAME$ está muerto.</string>
 		<string lang="kr">BUG: $NAME$ 이 죽었습니다</string>
 		<string lang="pt-br">BUG: $NAME$ está morto.</string>
@@ -27,7 +27,7 @@
 		<string lang="fr">BUG: $TURN$ n'a pas d'acteur</string>
 		<string lang="zh">BUG: $TURN$ 缺少角色。</string>
 		<string lang="jp">BUG: $TURN$ にアクターがありません</string>
-		<string lang="ru">BUG: $TURN$ не имеет актера</string>
+		<string lang="ru">BUG: $TURN$ не имеет актёра</string>
 		<string lang="es">BUG: $TURN$ no tiene actor</string>
 		<string lang="kr">BUG: $TURN$ 에는 액터가 없습니다</string>
 		<string lang="pt-br">BUG: $TURN$ não tem ator</string>
@@ -50,7 +50,7 @@
 		<string lang="fr">Ne peut pas câbler circulairement</string>
 		<string lang="zh">不能循环连接</string>
 		<string lang="jp">循環的に接続できません</string>
-		<string lang="ru">Нельзя провести провод кругом</string>
+		<string lang="ru">Нельзя провести провод по кругу</string>
 		<string lang="es">No se puede conectar en círculo</string>
 		<string lang="kr">원형으로 연결할 수 없습니다.</string>
 		<string lang="pt-br">Não pode ser conectado em círculo</string>
@@ -61,7 +61,7 @@
 		<string lang="fr">Station a déjà été utilisé.</string>
 		<string lang="zh">站已被使用。</string>
 		<string lang="jp">ステーションはすでに使用されています。</string>
-		<string lang="ru">Станция уже была использована.</string>
+		<string lang="ru">Станция уже использована.</string>
 		<string lang="es">La estación ya ha sido usada.</string>
 		<string lang="kr">스테이션은 이미 사용되었습니다.</string>
 		<string lang="pt-br">A estação já foi usada.</string>
@@ -160,7 +160,7 @@
 		<string lang="fr">Modules ne peuvent recevoir qu'une seule $upgrade$</string>
 		<string lang="zh">模块只能获得一个 $upgrade$</string>
 		<string lang="jp">モジュールは$upgrade$を1つしか受け取れません</string>
-		<string lang="ru">Модули могут получить только один $upgrade$</string>
+		<string lang="ru">Модули могут получить только одно $upgrade$</string>
 		<string lang="es">Módulos sólo pueden recibir un $upgrade$</string>
 		<string lang="kr">모듈은 $upgrade$를 하나만 받을 수 있습니다</string>
 		<string lang="pt-br">Módulos só podem receber um $upgrade$</string>
@@ -193,7 +193,7 @@
 		<string lang="fr">Verrouillé au rack$br$jusqu'au prochain tour</string>
 		<string lang="zh">下一回合前锁定在机架</string>
 		<string lang="jp">次のターンまでラックに固定</string>
-		<string lang="ru">Закрыто до следующего хода</string>
+		<string lang="ru">Заблокировано на стойке до следующего хода</string>
 		<string lang="es">Bloqueado al bastidor$br$hasta el siguiente turno</string>
 		<string lang="kr">다음 턴까지 랙에 고정됩니다</string>
 		<string lang="pt-br">Trancado no rack$br$até o próximo turno</string>
@@ -358,7 +358,7 @@
 		<string lang="fr">C'est pas le tour de $NAME$.</string>
 		<string lang="zh">现在不是$NAME$的回合。</string>
 		<string lang="jp">$NAME$のターンではありません。</string>
-		<string lang="ru">Сейчас не ходит $NAME$.</string>
+		<string lang="ru">Сейчас не ход $NAME$.</string>
 		<string lang="es">No es el turno de $NAME$.</string>
 		<string lang="kr">$NAME$의 차례가 아닙니다.</string>
 		<string lang="pt-br">Não é a vez de $NAME$.</string>
@@ -473,7 +473,7 @@
 		<string lang="fr">Connectez les modules avec des câbles.</string>
 		<string lang="zh">用线连接你想要激活的模块。</string>
 		<string lang="jp">ワイヤーでアクティブにしたいモジュールを接続します。</string>
-		<string lang="ru">Подключите модули, которые вы хотите активировать, проводами.</string>
+		<string lang="ru">Подключите модули, которые вы хотите активировать при помощи проводов.</string>
 		<string lang="es">Conecta los módulos que quieres activar con cables.</string>
 		<string lang="kr">활성화하고 싶은 모듈을 선으로 연결하세요.</string>
 		<string lang="pt-br">Conecte os módulos que você deseja ativar com fios.</string>
@@ -484,7 +484,7 @@
 		<string lang="fr">Le Grav. Equilibrium envahit le champ de bataille.</string>
 		<string lang="zh">引力平衡横扫了战场。</string>
 		<string lang="jp">重力平衡は戦場を襲います。</string>
-		<string lang="ru">Гравитационное равновесие прокатывается по полю боя.</string>
+		<string lang="ru">Грав. равновесие пролетает по полю боя.</string>
 		<string lang="es">El Equilibrio Grav. se extiende por el campo de batalla.</string>
 		<string lang="kr">중력 평형이 전투장을 휩쓸었습니다.</string>
 		<string lang="pt-br">O Equilíbrio Grav. rola pelo campo de batalha.</string>
@@ -605,7 +605,7 @@
 		<string lang="fr">Peut seulement être chargé ou déchargé à la fois</string>
 		<string lang="zh">只能充电或放电</string>
 		<string lang="jp">一度に充電または放電できます</string>
-		<string lang="ru">Может быть заряжен или разряжен только за раз</string>
+		<string lang="ru">Можно либо заряжать, либо разряжать</string>
 		<string lang="es">Solo puede cargarse o descargarse por vez</string>
 		<string lang="kr">한 번에만 충전 또는 방전할 수 있습니다</string>
 		<string lang="pt-br">Só pode ser carregado ou descarregado de cada vez</string>
@@ -660,7 +660,7 @@
 		<string lang="fr">Cablage impossible</string>
 		<string lang="zh">不能连接</string>
 		<string lang="jp">配線不可能</string>
-		<string lang="ru">Проводка невозможна</string>
+		<string lang="ru">Подключение невозможно</string>
 		<string lang="es">Cableado imposible</string>
 		<string lang="kr">와이어링이 불가능합니다</string>
 		<string lang="pt-br">Cabeamento impossível</string>
@@ -671,7 +671,7 @@
 		<string lang="fr">Pas de cible à sacrifier</string>
 		<string lang="zh">没有模块可供献祭</string>
 		<string lang="jp">犠牲にするモジュールがありません</string>
-		<string lang="ru">Нет модуля для жертвоприношения</string>
+		<string lang="ru">Нет модуля для пожертвования</string>
 		<string lang="es">No hay módulo para sacrificar</string>
 		<string lang="kr">희생할 모듈이 없습니다</string>
 		<string lang="pt-br">Sem módulo para sacrificar</string>
