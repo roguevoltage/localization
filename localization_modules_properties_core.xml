@@ -242,8 +242,8 @@
 		<string lang="pt-br">Atualmente não há inimigos no mesmo passo de tempo que o proprietário</string>
 </set>
 <set id="module-properties-collector-in-backpack">
-		<string lang="de">Löst nicht aus, wenn im Rucksack aufbewahrt</string>
-		<string lang="en">Does not trigger when stored in backpack</string>
+		<string lang="de">Löst nicht aus dem Rucksack heraus aus</string>
+		<string lang="en">Does not trigger from backpack</string>
 		<string lang="fr">Ne se déclenche pas dans le sac à dos</string>
 		<string lang="zh">存储在背包中时不会触发</string>
 		<string lang="jp">バックパックに格納されている場合はトリガーされません</string>
@@ -254,7 +254,7 @@
 </set>
 <set id="module-properties-discharge-endofturn">
 		<string lang="de">Sensoren verlieren alle $energy$ am Ende des Zuges des Charakters</string>
-		<string lang="en">Sensors lose all $energy$ at the end of the owner's turn</string>
+		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
 		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
         <string lang="zh">传感器在所有者回合结束时失去所有 $energy$</string>
         <string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
