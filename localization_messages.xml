@@ -693,16 +693,49 @@
 		<string lang="kr">$energy$가 없습니다</string>
 		<string lang="pt-br">Sem $energy$</string>
 </set>
+<set id="worldmessage-energyreception">
+		<string lang="de">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energygeneration">
+		<string lang="de">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energystorage">
+		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+</set>
 <set id="worldmessage-plasmageneration">
-		<string lang="de">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="en">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="fr">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="zh">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="jp">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="ru">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="es">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="kr">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
-		<string lang="pt-br">$b$+$/b$ $PLASMAVALUE$ $plasma$</string>
+		<string lang="de">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="en">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="fr">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="zh">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="jp">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="ru">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
+		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasma$</string>
 </set>
 <set id="worldmessage-plasmaconsumption">
 		<string lang="de">$PLASMAVALUE$ $plasma$</string>
