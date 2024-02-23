@@ -452,20 +452,15 @@
 		<string lang="pt-br">Selecione o próximo módulo para ativar</string>
 </set>
 <set id="message-prompt-selecttarget">
-		<string lang="de">Wähle ein Ziel für
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="en">Select target for</string>
-		<string lang="fr">Sélectionnez une cible pour
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="zh">选择目标</string>
-		<string lang="jp">ターゲットを選択</string>
-		<string lang="ru">Выберите цель для
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="es">Selecciona objetivo para
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="kr">타겟 선택</string>
-		<string lang="pt-br">Selecione o alvo para
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="de">Wähle ein Ziel für$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="en">Select target for$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="fr">Sélectionnez une cible pour$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="zh">选择目标$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="jp">ターゲットを選択$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="ru">Выберите цель для$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="es">Selecciona objetivo para$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="kr">&lt;size=15&gt;$NAME$&lt;/size&gt;의$br$대상을 선택하세요</string>
+		<string lang="pt-br">Selecione o alvo para$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-rackconnect">
 		<string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
