@@ -215,6 +215,21 @@
         <string lang="kr">현재에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 추가합니다</string>
         <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
 </set>
+<set id="module-properties-name-reduction">
+        <string lang="de">Dämpfung $MODIFICATIONVALUE$</string>
+        <string lang="en">Dampening $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amortissement $MODIFICATIONVALUE$</string>
+        <string lang="zh">阻尼 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ダンピング $MODIFICATIONVALUE$</string>
+        <string lang="ru">Затухание $MODIFICATIONVALUE$</string>
+        <string lang="es">Amortiguación $MODIFICATIONVALUE$</string>
+        <string lang="kr">감쇠 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amortecimento $MODIFICATIONVALUE$</string>
+</set>
+<set id="module-properties-description-reduction">
+        <string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
+        <string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
+</set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>
@@ -227,26 +242,26 @@
 		<string lang="pt-br">Atualmente não há inimigos no mesmo passo de tempo que o proprietário</string>
 </set>
 <set id="module-properties-collector-in-backpack">
-		<string lang="de">Löst nicht aus, wenn im Rucksack aufbewahrt</string>
-		<string lang="en">Does not trigger when stored in backpack</string>
+		<string lang="de">Löst nicht aus dem Rucksack heraus aus</string>
+		<string lang="en">Does not trigger from backpack</string>
 		<string lang="fr">Ne se déclenche pas dans le sac à dos</string>
 		<string lang="zh">存储在背包中时不会触发</string>
 		<string lang="jp">バックパックに格納されている場合はトリガーされません</string>
 		<string lang="ru">Не срабатывает, когда находится в рюкзаке</string>
-		<string lang="es">No se activa cuando se almacena en la mochila</string>
+		<string lang="es">No se activa desde la mochila</string>
 		<string lang="kr">배낭에 저장되어 있을 때 트리거되지 않습니다</string>
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
 </set>
 <set id="module-properties-discharge-endofturn">
-		<string lang="de">Hält $energy$ nur bis zum Ende des Zuges des Charakters</string>
-		<string lang="en">Loses all $energy$$br$at the end of owner's turn</string>
-		<string lang="fr">Ne conserve que $energy$ jusqu'à la fin du tour du propriétaire</string>
-		<string lang="zh">存储 $energy$ 直到拥有者回合结束</string>
-		<string lang="jp">所有者のターン終了時まで$energy$を保持します</string>
-		<string lang="ru">Хранит $energy$ только до конца хода владельца</string>
-		<string lang="es">Solo mantiene $energy$ hasta el final del turno del propietario</string>
-		<string lang="kr">소유자의 턴이 끝날 때까지만 $energy$를 보유합니다</string>
-		<string lang="pt-br">Só mantém $energy$ até o final do turno do dono</string>
+		<string lang="de">Sensoren verlieren alle $energy$ am Ende des Zuges des Charakters</string>
+		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
+		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
+        <string lang="zh">传感器在所有者回合结束时失去所有 $energy$</string>
+        <string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
+        <string lang="ru">Датчики теряют всю $energy$$br$в конце хода владельца</string>
+        <string lang="es">Los Sensores pierden toda la $energy$$br$al final del turno del propietario</string>
+        <string lang="kr">센서는 소유자의 턴이 끝날 때 모든 $energy$를 잃습니다</string>
+        <string lang="pt-br">Sensores perdem toda a $energy$$br$no final do turno do proprietário</string>
 </set>
 <set id="module-properties-discharge-endofturn-impending">
 		<string lang="de">Verliert $energy$ am Ende des Zuges</string>

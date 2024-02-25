@@ -452,20 +452,15 @@
 		<string lang="pt-br">Selecione o próximo módulo para ativar</string>
 </set>
 <set id="message-prompt-selecttarget">
-		<string lang="de">Wähle ein Ziel für
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="en">Select target for</string>
-		<string lang="fr">Sélectionnez une cible pour
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="zh">选择目标</string>
-		<string lang="jp">ターゲットを選択</string>
-		<string lang="ru">Выберите цель для
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="es">Selecciona objetivo para
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
-		<string lang="kr">타겟 선택</string>
-		<string lang="pt-br">Selecione o alvo para
-&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="de">Wähle ein Ziel für$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="en">Select target for$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="fr">Sélectionnez une cible pour$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="zh">选择目标$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="jp">ターゲットを選択$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="ru">Выберите цель для$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="es">Selecciona un objetivo para$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="kr">&lt;size=15&gt;$NAME$&lt;/size&gt;의$br$대상을 선택하세요</string>
+		<string lang="pt-br">Selecione o alvo para$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-rackconnect">
 		<string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -697,6 +692,61 @@
 		<string lang="es">No hay $energy$</string>
 		<string lang="kr">$energy$가 없습니다</string>
 		<string lang="pt-br">Sem $energy$</string>
+</set>
+<set id="worldmessage-energyreception">
+		<string lang="de">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energygeneration">
+		<string lang="de">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energystorage">
+		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-plasmageneration">
+		<string lang="de">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="en">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="fr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="zh">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="ru">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+</set>
+<set id="worldmessage-plasmaconsumption">
+		<string lang="de">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="en">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="fr">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="zh">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="ru">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="es">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="kr">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="pt-br">$PLASMAVALUE$ $plasmaicon$</string>
 </set>
 <set id="worldmessage-noplasma">
 		<string lang="de">Kein $plasma$</string>

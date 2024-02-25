@@ -121,26 +121,26 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
 </set>
 <set id="description-module-condensator">
-		<string lang="de">Kann ge- oder entladen werden. Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
-		<string lang="en">Can be charged or discharged. Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="fr">Peut être chargé ou déchargé. $energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="zh">可充电或放电。传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
-		<string lang="jp">充電または放電可能。入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
-		<string lang="ru">Может быть либо заряжен, либо разряжен. Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="es">Puede ser cargado o descargado. La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="kr">충전 또는 방전 가능. 들어오는 $energy$는 $b$$MODIFICATIONVALUE$$/b$로 증폭됩니다.</string>
-		<string lang="pt-br">Pode ser carregado ou descarregado. A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
+		<string lang="en">Can be charged or discharged.$p$Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="fr">Peut être chargé ou déchargé.$p$$energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="zh">可充电或放电。$p$传入的 $energy$ 被$b$$MODIFICATIONVALUE$$/b$放大。</string>
+		<string lang="jp">充電または放電可能。$p$入力される$energy$は$b$$MODIFICATIONVALUE$$/b$で増幅されます。</string>
+		<string lang="ru">Может быть заряжен или разряжен.$p$Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="es">Puede ser cargado o descargado.$p$La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
+		<string lang="kr">충전 또는 방전 가능.$p$들어오는 $energy$는 $b$$MODIFICATIONVALUE$$/b$로 증폭됩니다.</string>
+		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 </set>
 <set id="description-module-defibrillator">
-		<string lang="de">Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
-		<string lang="en">If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
-		<string lang="fr">Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
-		<string lang="zh">如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
-		<string lang="jp">キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
-		<string lang="ru">Если персонаж теряет сознание, он оживает с HP от самого высокого значения от его сохраненной $energy$.</string>
-		<string lang="es">Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
-		<string lang="kr">캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
-		<string lang="pt-br">Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
+		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
+		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
+		<string lang="zh">可以充电。$p$如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
+		<string lang="jp">充電可能。$p$キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
+		<string lang="ru">Может быть заряжен.$p$Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
+		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
+		<string lang="kr">충전 가능.$p$캐릭터가 의식을 잃으면 저장된 $energy$의 높이로 부활합니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
 </set>
 <set id="description-module-distributor">
 		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
@@ -406,22 +406,19 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 </set>
 <set id="description-module-modifiercollector">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
-		<string lang="zh">修改一个电流。$br$如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
-		<string lang="jp">$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
-		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
-		<string lang="kr">$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $b$Sensor-Modul$/b$ verkabelt.</string>
+		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired after a $b$Sensor Module$/b$.</string>
+		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé après un $b$Module de Capteur$/b$.</string>
+		<string lang="zh">修改一个电流的颜色。$p$如果在$b$感应器$/b$之后接线，将 $b$$MODIFICATIONVALUE$$/b$ $energy$ 添加到电流中。</string>
+		<string lang="jp">電流の色を変更します。$p$$b$センサー モジュール$/b$の後に配線されている場合、電流に$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
+		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
+		<string lang="kr">전류의 색상을 변경합니다.$p$$b$센서 모듈$/b$ 뒤에 배선되어있는 경우 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$3 oder mehr $grav+$$/b$ hat.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="zh">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="jp">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="kr">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder weniger HP$/b$ hat.</string>
@@ -435,15 +432,15 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
-		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
+		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
+		<string lang="zh">修改一个电流的颜色。$p$在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">電流の色を変更します。$p$電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
+		<string lang="es">Cambia el color de una corriente.$p$AAñade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
+		<string lang="kr">전류의 색상을 변경합니다.$p$전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
 <set id="description-module-modifierplasmacombustion">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -590,12 +587,12 @@
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$br$Module können nur ein $upgrade$ erhalten.</string>
-		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can one have one $upgrade$.</string>
+		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
 		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$br$$passthroughmodule$может иметь только 1 $upgrade$.</string>
-		<string lang="es">Aplica un $upgrade$ permanente a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
+		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.$br$Solo admite una $upgrade$.</string>
 		<string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.</string>
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
 </set>
