@@ -27,7 +27,7 @@
 		<string lang="fr">Retire $might$ pour appliquer $gravrecoil$ à tous les modules d'un rack ennemi.</string>
 		<string lang="zh">移除 $might$ 以对敌人的所有模块施加 $gravrecoil$</string>
 		<string lang="jp">$might$ を消費して敵のラックの全てのモジュールに $gravrecoil$ を与える</string>
-		<string lang="ru">Удаляет $might$ для применения $gravrecoil$ к всем модулям на вражеской стойке.</string>
+		<string lang="ru">Удаляет $might$ для применения $gravrecoil$ ко всем модулям на вражеской стойке.</string>
 		<string lang="es">Remueve $might$ para aplicar $gravrecoil$ a todos los módulos en el bastidor de un enemigo.</string>
 		<string lang="kr">$might$ 를 모두 제거하여 적의 모든 모듈에 $gravrecoil$ 를 적용합니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para aplicar $gravrecoil$ a todos os módulos no rack de um inimigo.</string>
@@ -38,7 +38,7 @@
 		<string lang="fr">Inflige des dégâts équivalents à la $might$</string>
 		<string lang="zh">造成 $damage$ 等同于 $might$</string>
 		<string lang="jp">$might$ に等しいダメージを与える</string>
-		<string lang="ru">Наносит $damage$ в размере $might$</string>
+		<string lang="ru">Наносит $damage$ в размере от количества $might$</string>
 		<string lang="es">Inflige $damage$ en altura de $might$</string>
 		<string lang="kr">$might$ 의 높이에 $damage$ 를 줍니다.</string>
 		<string lang="pt-br">Inflige $damage$ em altura de $might$</string>
@@ -71,7 +71,7 @@
 		<string lang="fr">Si les PV sont pairs, il se divise en deux.</string>
 		<string lang="zh">如果生命值为偶数，它会进行一次复制</string>
 		<string lang="jp">HPが偶数の場合、2体に分裂する</string>
-		<string lang="ru">Если HP четное, то делится на два.</string>
+		<string lang="ru">Если HP четное, то делится на две копии поменьше.</string>
 		<string lang="es">Si los HP son pares, se divide en dos.</string>
 		<string lang="kr">HP 가 짝수인 경우, 2개로 분열합니다.</string>
 		<string lang="pt-br">Se os HP forem pares, ele se divide em dois.</string>
@@ -82,7 +82,7 @@
 		<string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
 		<string lang="zh">如果 $might$ 充满，它将消耗全部 $might$ 进行一次复制</string>
 		<string lang="jp">$might$ が満タンの場合、$might$ を消費して自身を複製する</string>
-		<string lang="ru">Если $might$ заполнен, то удаляет все $might$ для дублирования.</string>
+		<string lang="ru">Если $might$ заполнена, то удаляет всю $might$ для дублирования.</string>
 		<string lang="es">Si $might$ está lleno, retira todos los $might$ para duplicarse.</string>
 		<string lang="kr">$might$ 가 가득 찬 경우, 모든 $might$ 를 제거하여 복제합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele remove todos os $might$ para duplicar.</string>
@@ -136,7 +136,7 @@
 		<string lang="fr">Inflige $grav+4$ à tous les combattants sur le même étape de temps.</string>
 		<string lang="zh">对所有在该时刻的角色施加 $grav+4$</string>
 		<string lang="jp">同じタイムステップにいる敵に $grav+4$ を与える</string>
-		<string lang="ru">Применяет $grav+4$ к всем бойцам на одном временном шаге.</string>
+		<string lang="ru">Применяет $grav+4$ ко всем бойцам на одном временном шаге.</string>
 		<string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo con $grav+4$.</string>
 		<string lang="kr">같은 시간 단계에 있는 모든 전투원에게 $grav+4$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os combatentes no mesmo passo de tempo com $grav+4$.</string>
@@ -191,7 +191,7 @@
 		<string lang="fr">Inflige $grav+1$ à tous les autres combattants.</string>
 		<string lang="zh">对所有其他角色施加 $grav+1$</string>
 		<string lang="jp">他の敵に $grav+1$ を与える</string>
-		<string lang="ru">Применяет $grav+1$ к всем остальным бойцам</string>
+		<string lang="ru">Применяет $grav+1$ ко всем остальным бойцам</string>
 		<string lang="es">Inflige a todos los otros combatientes con $grav+1$</string>
 		<string lang="kr">다른 전투원에게 $grav+1$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+1$</string>
@@ -202,7 +202,7 @@
 		<string lang="fr">Inflige $grav+2$ à tous les autres combattants.</string>
 		<string lang="zh">对所有其他角色施加 $grav+2$</string>
 		<string lang="jp">他の敵に $grav+2$ を与える</string>
-		<string lang="ru">Применяет $grav+2$ к всем остальным бойцам</string>
+		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам</string>
 		<string lang="es">Inflige a todos los otros combatientes con $grav+2$</string>
 		<string lang="kr">다른 전투원에게 $grav+2$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$</string>
@@ -213,7 +213,7 @@
 		<string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-1$ à soi-même.</string>
 		<string lang="zh">对所有其他角色施加 $grav+2$ 并给自己施加 $grav-1$</string>
 		<string lang="jp">他の敵に $grav+2$ を与え、自分に $grav-1$ を与える</string>
-		<string lang="ru">Применяет $grav+2$ к всем остальным бойцам и $grav-1$ себе</string>
+		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам и $grav-1$ на себя</string>
 		<string lang="es">Inflige a todos los otros combatientes con $grav+2$ y a sí mismo con $grav-1$</string>
 		<string lang="kr">다른 전투원에게 $grav+2$ 를 적용하고 자신에게 $grav-1$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-1$</string>
@@ -224,7 +224,7 @@
 		<string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-1$ à soi-même.</string>
 		<string lang="zh">对所有其他角色施加 $grav+2$ 并给自己施加 $grav-3$</string>
 		<string lang="jp">他の敵に $grav+2$ を与え、自分に $grav-3$ を与える</string>
-		<string lang="ru">Применяет $grav+2$ к всем остальным бойцам и $grav-3$ себе</string>
+		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам и $grav-3$ на себя</string>
 		<string lang="es">Inflige a todos los otros combatientes con $grav+2$ y a sí mismo con $grav-3$</string>
 		<string lang="kr">다른 전투원에게 $grav+2$ 를 적용하고 자신에게 $grav-3$ 를 적용합니다.</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-3$</string>
@@ -346,7 +346,7 @@
 		<string lang="fr">Place une $b$bombe à retardement$/b$ dans un de vos racks.</string>
 		<string lang="zh">向玩家的机架上放置一个 $b$定时炸弹$/b$ 模块</string>
 		<string lang="jp">ラックに $b$タイムボム$/b$ モジュールを置く</string>
-		<string lang="ru">Размещает модуль $b$Временная бомба$/b$ на одной из стоек.</string>
+		<string lang="ru">Размещает модуль $b$Временная бомба$/b$ на одной из ваших стоек.</string>
 		<string lang="es">Coloca un módulo $b$Bomba de tiempo$/b$ en uno de tus bastidores.</string>
 		<string lang="kr">플레이어의 랙에 $b$타임밤$/b$ 모듈을 놓습니다.</string>
 		<string lang="pt-br">Coloca um módulo $b$Bomba de Tempo$/b$ em um dos seus racks.</string>
@@ -379,7 +379,7 @@
 		<string lang="fr">Applique $vulnerable$ à une cible. Dure $4$ tours.</string>
 		<string lang="zh">让目标敌人获得 $vulnerable$，持续 $4$ 个时刻</string>
 		<string lang="jp">敵に $vulnerable$ を与える。$4$ ターン持続</string>
-		<string lang="ru">Накладывает $vulnerable$ на врага. Длится $4$ хода.</string>
+		<string lang="ru">Накладывает $vulnerable$ на врага. Длится $4$ временных шага.</string>
 		<string lang="es">Aplica $vulnerable$ a un enemigo. Dura $4$ turnos</string>
 		<string lang="kr">적에게 $vulnerable$ 를 적용합니다. $4$ 턴 지속됩니다.</string>
 		<string lang="pt-br">Aplica $vulnerable$ a um inimigo. Dura $4$ turnos</string>
@@ -500,7 +500,7 @@
 		<string lang="fr">Supprime tout $might$ pour infliger $damage$ à une cible.</string>
 		<string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
 		<string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
-		<string lang="ru">Удаляет все $might$ для нанесения врагу $damage$.</string>
+		<string lang="ru">Удаляет всю $might$ для нанесения врагу $damage$.</string>
 		<string lang="es">Remueve todo el $might$ para infligir el mismo $damage$ a un enemigo.</string>
 		<string lang="kr">적에게 $damage$ 를 적용하기 위해 $might$ 를 모두 제거합니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
@@ -511,7 +511,7 @@
 		<string lang="fr">Supprime tout $might$ pour infliger $damage$ à une cible.</string>
 		<string lang="zh">移除 $might$ 并对敌人造成 $damage$</string>
 		<string lang="jp">敵に $might$ を消費して、$damage$ を与える</string>
-		<string lang="ru">Удаляет все $might$ для нанесения врагу $damage$.</string>
+		<string lang="ru">Удаляет всю $might$ для нанесения врагу $damage$.</string>
 		<string lang="es">Remueve todo el $might$ para infligir el misimo $damage$ a un enemigo</string>
 		<string lang="kr">적에게 $damage$ 를 적용하기 위해 $might$ 를 모두 제거합니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
@@ -599,7 +599,7 @@
 		<string lang="fr">Coup puissant</string>
 		<string lang="zh">强力电击</string>
 		<string lang="jp">強力な電撃</string>
-		<string lang="ru">Мощный удар</string>
+		<string lang="ru">Мощный Разряд</string>
 		<string lang="es">Descarga Poderosa</string>
 		<string lang="kr">강력한 전격</string>
 		<string lang="pt-br">Choque Poderoso</string>
@@ -665,7 +665,7 @@
 		<string lang="fr">Morsure Grav.</string>
 		<string lang="zh">引力撕咬</string>
 		<string lang="jp">重力の噛みつき</string>
-		<string lang="ru">Укус Грав.</string>
+		<string lang="ru">Грав. Укус</string>
 		<string lang="es">Mordisco Grav.</string>
 		<string lang="kr">중력 물기</string>
 		<string lang="pt-br">Mordida Grav.</string>
@@ -676,7 +676,7 @@
 		<string lang="fr">Implosion Grav.</string>
 		<string lang="zh">引力聚爆</string>
 		<string lang="jp">重力の崩壊</string>
-		<string lang="ru">Грав. Имплозия</string>
+		<string lang="ru">Грав. Коллапс</string>
 		<string lang="es">Implosión Grav.</string>
 		<string lang="kr">중력 붕괴</string>
 		<string lang="pt-br">Implosão Grav.</string>
@@ -687,7 +687,7 @@
 		<string lang="fr">Implosion Grav. Totale</string>
 		<string lang="zh">引力聚爆</string>
 		<string lang="jp">重力の崩壊</string>
-		<string lang="ru">Полный Грав. Обвал</string>
+		<string lang="ru">Полный Грав. Коллапс</string>
 		<string lang="es">Implosión Grav. Total</string>
 		<string lang="kr">중력 붕괴</string>
 		<string lang="pt-br">Implosão Grav. Total</string>
@@ -698,7 +698,7 @@
 		<string lang="fr">Implosion Grav. 1</string>
 		<string lang="zh">引力聚爆 1</string>
 		<string lang="jp">重力の崩壊 1</string>
-		<string lang="ru">Грав. Обвал 1</string>
+		<string lang="ru">Грав. Коллапс 1</string>
 		<string lang="es">Implosión Grav. 1</string>
 		<string lang="kr">중력 붕괴 1</string>
 		<string lang="pt-br">Implosão Grav. 1</string>
@@ -830,7 +830,7 @@
 		<string lang="fr">Transfer Grav.</string>
 		<string lang="zh">引力转移</string>
 		<string lang="jp">重力の転移</string>
-		<string lang="ru">Грав. Трансфер</string>
+		<string lang="ru">Грав. Передача</string>
 		<string lang="es">Transferencia Grav.</string>
 		<string lang="kr">중력 전이</string>
 		<string lang="pt-br">Transferência Grav.</string>
@@ -896,7 +896,7 @@
 		<string lang="fr">Crépitation Plasma</string>
 		<string lang="zh">等离子爆裂</string>
 		<string lang="jp">プラズマ爆燃</string>
-		<string lang="ru">Дефлаграция Плазмы</string>
+		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Crepitación de Plasma</string>
 		<string lang="kr">플라즈마 폭발</string>
 		<string lang="pt-br">Creptação de Plasma</string>
@@ -907,7 +907,7 @@
 		<string lang="fr">Résonance Cristal $crusticon$</string>
 		<string lang="zh">水晶共振 $crusticon$</string>
 		<string lang="jp">クリスタル・レゾナンス $crusticon$</string>
-		<string lang="ru">Кристальная Резонанс $crusticon$</string>
+		<string lang="ru">Кристальный Резонанс $crusticon$</string>
 		<string lang="es">Resonancia Cristalina $crusticon$</string>
 		<string lang="kr">수정 공명 $crusticon$</string>
 		<string lang="pt-br">Ressonância Cristalina $crusticon$</string>
@@ -951,7 +951,7 @@
 		<string lang="fr">Cri Perçant</string>
 		<string lang="zh">穿透尖叫</string>
 		<string lang="jp">貫通の叫び</string>
-		<string lang="ru">Пронзающий Крик</string>
+		<string lang="ru">Пронзающий Визг</string>
 		<string lang="es">Grito Perforante</string>
 		<string lang="kr">관통의 외침</string>
 		<string lang="pt-br">Grito Perfurante</string>
@@ -973,7 +973,7 @@
 		<string lang="fr">Détection Croûte $mighticon$</string>
 		<string lang="zh">结晶侦测 $mighticon$</string>
 		<string lang="jp">結晶検出 $mighticon$</string>
-		<string lang="ru">Обнаружение Коры $mighticon$</string>
+		<string lang="ru">Обнаружение Кристаллизации $mighticon$</string>
 		<string lang="es">Detección de Crust $mighticon$</string>
 		<string lang="kr">결정체 감지 $mighticon$</string>
 		<string lang="pt-br">Detecção de Crosta $mighticon$</string>
@@ -1094,7 +1094,7 @@
 		<string lang="fr">Laper</string>
 		<string lang="zh">舔</string>
 		<string lang="jp">舐める</string>
-		<string lang="ru">Шлик</string>
+		<string lang="ru">Шлек</string>
 		<string lang="es">Lametón</string>
 		<string lang="kr">핥다</string>
 		<string lang="pt-br">Lambida</string>
@@ -1149,7 +1149,7 @@
 		<string lang="fr">Buff</string>
 		<string lang="zh">增益</string>
 		<string lang="jp">バフ</string>
-		<string lang="ru">Бафф</string>
+		<string lang="ru">Усиление</string>
 		<string lang="es">Buff</string>
 		<string lang="kr">버프</string>
 		<string lang="pt-br">Buff</string>
@@ -1160,7 +1160,7 @@
 		<string lang="fr">Debuff</string>
 		<string lang="zh">减益</string>
 		<string lang="jp">デバフ</string>
-		<string lang="ru">Дебафф</string>
+		<string lang="ru">Ослабление</string>
 		<string lang="es">Debuff</string>
 		<string lang="kr">디버프</string>
 		<string lang="pt-br">Debuff</string>
@@ -1226,7 +1226,7 @@
 		<string lang="fr">Passif</string>
 		<string lang="zh">被动</string>
 		<string lang="jp">パッシブ</string>
-		<string lang="ru">Пассив</string>
+		<string lang="ru">Пассивно</string>
 		<string lang="es">Pasivo</string>
 		<string lang="kr">패시브</string>
 		<string lang="pt-br">Passivo</string>

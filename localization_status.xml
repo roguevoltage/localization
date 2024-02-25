@@ -27,7 +27,7 @@
 		<string lang="fr">La couleur muté à la fin du tour du propriétaire</string>
 		<string lang="zh">如果放置在机架上，将在拥有者回合结束时改变其颜色</string>
 		<string lang="jp">ラックに置かれた場合、オーナーのターン終了時に色を変更します</string>
-		<string lang="ru">Изменяет цвет в конце хода владельца, если размещен в стойке</string>
+		<string lang="ru">Изменяет цвет в конце хода владельца.</string>
 		<string lang="es">Cambia de color al final del turno del propietario</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Muda a cor no final do turno do dono se colocado no rack</string>
@@ -71,7 +71,7 @@
 		<string lang="fr">Détruit après activation</string>
 		<string lang="zh">激活后摧毁</string>
 		<string lang="jp">活性化後に破壊される</string>
-		<string lang="ru">Разрушается после активации</string>
+		<string lang="ru">Уничтожиться после активации</string>
 		<string lang="es">Se destruirá después de la activación</string>
 		<string lang="kr">활성화 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a ativação</string>
@@ -82,7 +82,7 @@
 		<string lang="fr">Détruit après décharge</string>
 		<string lang="zh">放电后摧毁</string>
 		<string lang="jp">放電後に破壊される</string>
-		<string lang="ru">Разрушается после разряда</string>
+		<string lang="ru">Уничтожиться после разрядки</string>
 		<string lang="es">Se destruirá después de la descarga</string>
 		<string lang="kr">방전 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a descarga</string>
@@ -93,7 +93,7 @@
 		<string lang="fr">Détruit après activation additionnelle</string>
 		<string lang="zh">再次激活后摧毁</string>
 		<string lang="jp">追加の活性化後に破壊される</string>
-		<string lang="ru">Разрушается после дополнительной активации</string>
+		<string lang="ru">Уничтожиться после дополнительной активации</string>
 		<string lang="es">Se destruirá después de la activación adicional</string>
 		<string lang="kr">추가 활성화 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a ativação adicional</string>
@@ -104,7 +104,7 @@
 		<string lang="fr">Détruit après décharge additionnelle</string>
 		<string lang="zh">再次放电后摧毁</string>
 		<string lang="jp">追加の放電後に破壊される</string>
-		<string lang="ru">Разрушается после дополнительного разряда</string>
+		<string lang="ru">Уничтожиться после дополнительной разрядки</string>
 		<string lang="es">Se destruirá después de la descarga adicional</string>
 		<string lang="kr">추가 방전 후에 파괴됩니다</string>
 		<string lang="pt-br">Destruído após a descarga adicional</string>
@@ -115,7 +115,7 @@
 		<string lang="fr">Activation ce tour détruira le module</string>
 		<string lang="zh">在本回合激活将会摧毁模块</string>
 		<string lang="jp">このターンの活性化はモジュールを破壊します</string>
-		<string lang="ru">Активация в этом ходу разрушит модуль</string>
+		<string lang="ru">Активация в этом ходу уничтожит модуль</string>
 		<string lang="es">La activación destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">A ativação deste turno destruirá o módulo</string>
@@ -126,7 +126,7 @@
 		<string lang="fr">Décharge ce tour détruira le module</string>
 		<string lang="zh">在本回合放电将会摧毁模块</string>
 		<string lang="jp">このターンの放電はモジュールを破壊します</string>
-		<string lang="ru">Разряд в этом ходу разрушит модуль</string>
+		<string lang="ru">Разрядка в этом ходу уничтожит модуль</string>
 		<string lang="es">La descarga destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 방전하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">A descarga deste turno destruirá o módulo</string>
@@ -170,7 +170,7 @@
 		<string lang="fr">Activation inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">激活将让拥有者获得 $grav+2$</string>
 		<string lang="jp">アクティブ化はオーナーに $grav+2$を与えます</string>
-		<string lang="ru">Активация даст $grav+2$</string>
+		<string lang="ru">Активация даст владельцу $grav+2$</string>
 		<string lang="es">La activación inflige al propietario con $grav+2$</string>
 		<string lang="kr">활성화는 소유자에게 $grav+2$를 입힙니다</string>
 		<string lang="pt-br">A ativação inflige ao dono com $grav+2$</string>
@@ -181,7 +181,7 @@
 		<string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">在本回合激活将让拥有者获得 $grav+2$</string>
 		<string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
-		<string lang="ru">Активация в этом ходу даст $grav+2$</string>
+		<string lang="ru">Активация в этом ходу даст владельцу $grav+2$</string>
 		<string lang="es">La activación de este turno inflige al propietario con $grav+2$</string>
 		<string lang="kr">이번 턴에 활성화는 소유자에게 $grav+2$를 입힙니다</string>
 		<string lang="pt-br">A ativação deste turno inflige ao dono com $grav+2$</string>
@@ -192,7 +192,7 @@
 		<string lang="fr">Activation applique $grav-1$ au propriétaire</string>
 		<string lang="zh">激活将让拥有者获得 $grav-1$</string>
 		<string lang="jp">アクティブ化はオーナーに $grav-1$を与えます</string>
-		<string lang="ru">Активация даст $grav-1$</string>
+		<string lang="ru">Активация даст владельцу $grav-1$</string>
 		<string lang="es">La activación aplica $grav-1$ al propietario</string>
 		<string lang="kr">활성화는 소유자에게 $grav-1$를 입힙니다</string>
 		<string lang="pt-br">A ativação aplica $grav-1$ ao dono</string>
@@ -203,7 +203,7 @@
 		<string lang="fr">Ne peut pas être enlevé du rack</string>
 		<string lang="zh">不能从机架上取下</string>
 		<string lang="jp">ラックから取り外せません</string>
-		<string lang="ru">Нельзя взять с полки</string>
+		<string lang="ru">Нельзя взять со стойки</string>
 		<string lang="es">No puede ser tomado del bastidor</string>
 		<string lang="kr">랙에서 가져올 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
@@ -225,7 +225,7 @@
 		<string lang="fr">Verrouillé au rack jusqu'à la fin du tour</string>
 		<string lang="zh">回合结束前锁定在机架</string>
 		<string lang="jp">ターン終了までラックに固定</string>
-		<string lang="ru">Закрыто до конца хода</string>
+		<string lang="ru">Заблокирован на стойке до конца хода</string>
 		<string lang="es">Bloqueado en el bastidor hasta el final del turno</string>
 		<string lang="kr">턴 종료까지 랙에 고정됩니다</string>
 		<string lang="pt-br">Trancado no rack até o final do turno</string>
@@ -236,7 +236,7 @@
 		<string lang="fr">Verrouillé au rack jusqu'au prochain tour</string>
 		<string lang="zh">下一回合前锁定在机架</string>
 		<string lang="jp">次のターンまでラックに固定</string>
-		<string lang="ru">Закрыто до следующего хода</string>
+		<string lang="ru">Заблокирован на стойке до следующего хода</string>
 		<string lang="es">Bloqueado en el bastidor hasta el siguiente turno</string>
 		<string lang="kr">다음 턴까지 랙에 고정됩니다</string>
 		<string lang="pt-br">Trancado no rack até o próximo turno</string>
@@ -247,7 +247,7 @@
 		<string lang="fr">Ne peut pas être enlevé du rack</string>
 		<string lang="zh">不能从机架上取下</string>
 		<string lang="jp">ラックから取り外せません</string>
-		<string lang="ru">Нельзя переместить со стойки</string>
+		<string lang="ru">Нельзя взять со стойки</string>
 		<string lang="es">No se puede sacar del bastidor</string>
 		<string lang="kr">랙에서 가져올 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
@@ -269,7 +269,7 @@
 		<string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">当放电时，直到战斗结束，它将获得 $outoforder$。</string>
 		<string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
-		<string lang="ru">При разряде получает $outoforder$ до конца боя.</string>
+		<string lang="ru">При разрядке получает $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
@@ -280,7 +280,7 @@
 		<string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">当放电时，直到战斗结束，它将获得 $outoforder$。</string>
 		<string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
-		<string lang="ru">При разряде получает $outoforder$ до конца боя.</string>
+		<string lang="ru">$CHANCETOBREAK$% Шанс получить при разрядке $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
@@ -291,7 +291,7 @@
 		<string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">当激活时，直到战斗结束，它将获得 $outoforder$。</string>
 		<string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
-		<string lang="ru">При активации получает $outoforder$ до конца боя.</string>
+		<string lang="ru">$CHANCETOBREAK$% Шанс получить при активации $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
@@ -302,7 +302,7 @@
 		<string lang="fr">Change les traits à la fin du tour du propriétaire</string>
 		<string lang="zh">如果放置在机架上，将在拥有者回合结束时改变其属性</string>
 		<string lang="jp">ラックに置かれた場合、オーナーのターン終了時に特性を変更します</string>
-		<string lang="ru">Изменяет свойства в конце хода владельца, если размещен в стойке</string>
+		<string lang="ru">Изменяет пропускную способность в конце хода владельца.</string>
 		<string lang="es">Cambia el rendimiento al final del turno del propietario si se coloca en el bastidor</string>
 		<string lang="kr">이번 턴에 활성화하면 모듈이 파괴됩니다</string>
 		<string lang="pt-br">Muda a taxa de transferência no final do turno do dono se colocado no rack</string>
@@ -412,7 +412,7 @@
 		<string lang="fr">Récupéré d'une précédente mission.$br$Ne peut pas être dupliqué.</string>
 		<string lang="zh">前一局保留的模块。$br$不能被复制。</string>
 		<string lang="jp">前のミッションから救出された。$br$複製できません。</string>
-		<string lang="ru">Спасен из предыдущего рана.$br$Не может быть дублирован.</string>
+		<string lang="ru">Спасен из предыдущего забега.$br$Не может быть дублирован.</string>
 		<string lang="es">Rescatado de una misión anterior.$br$No se puede duplicar.</string>
 		<string lang="kr">이전 런에서 구조되었습니다.$br$복제할 수 없습니다.</string>
 		<string lang="pt-br">Resgatado de uma missão anterior.$br$Não pode ser duplicado.</string>
@@ -423,7 +423,7 @@
 		<string lang="fr">Reçoit $crust$ après activation</string>
 		<string lang="zh">激活后将获得 $crust$</string>
 		<string lang="jp">アクティブ化は $crust$を受け取ります</string>
-		<string lang="ru">Активация даст $crust$</string>
+		<string lang="ru">Получит $crust$ после активации</string>
 		<string lang="es">Recibirá $crust$ después de la activación</string>
 		<string lang="kr">활성화 후 $crust$를 받습니다</string>
 		<string lang="pt-br">Receberá $crust$ após a ativação</string>
@@ -533,18 +533,18 @@
 		<string lang="fr">Amplification Grav.</string>
 		<string lang="zh">引力增幅</string>
 		<string lang="jp">重力増幅</string>
-		<string lang="ru">Усиление Грав.</string>
+		<string lang="ru">Грав. Усиление</string>
 		<string lang="es">Amplificación Grav.</string>
 		<string lang="kr">중력 증폭</string>
 		<string lang="pt-br">Amplificação Grav.</string>
 </set>
 <set id="name-status-gravimmunity">
 		<string lang="de">Grav.-Immunität</string>
-		<string lang="en">Grav. Immmunity</string>
+		<string lang="en">Grav. Immunity</string>
 		<string lang="fr">Immunité Grav.</string>
 		<string lang="zh">引力免疫</string>
 		<string lang="jp">重力免疫</string>
-		<string lang="ru">Иммунитет Грав.</string>
+		<string lang="ru">Грав. Иммунитет</string>
 		<string lang="es">Inmunidad Grav.</string>
 		<string lang="kr">중력 면역</string>
 		<string lang="pt-br">Imunidade Grav.</string>
@@ -588,7 +588,7 @@
 		<string lang="fr">Choc</string>
 		<string lang="zh">震荡</string>
 		<string lang="jp">ショック</string>
-		<string lang="ru">Шок</string>
+		<string lang="ru">Перезарядка</string>
 		<string lang="es">Choque</string>
 		<string lang="kr">충격</string>
 		<string lang="pt-br">Choque</string>
@@ -599,7 +599,7 @@
 		<string lang="fr">Cassant</string>
 		<string lang="zh">碎裂</string>
 		<string lang="jp">割れた</string>
-		<string lang="ru">Треснувший</string>
+		<string lang="ru">Хрупкий</string>
 		<string lang="es">Agrietado</string>
 		<string lang="kr">깨지기쉬운</string>
 		<string lang="pt-br">Rachado</string>
@@ -610,7 +610,7 @@
 		<string lang="fr">Cassant</string>
 		<string lang="zh">碎裂</string>
 		<string lang="jp">割れた</string>
-		<string lang="ru">Треснувший</string>
+		<string lang="ru">Хрупкий</string>
 		<string lang="es">Agrietado</string>
 		<string lang="kr">깨지기쉬운</string>
 		<string lang="pt-br">Rachado</string>
@@ -621,7 +621,7 @@
 		<string lang="fr">Cassant</string>
 		<string lang="zh">碎裂</string>
 		<string lang="jp">割れた</string>
-		<string lang="ru">Треснувший</string>
+		<string lang="ru">Хрупкий</string>
 		<string lang="es">Agrietado</string>
 		<string lang="kr">깨진</string>
 		<string lang="pt-br">Rachado</string>
@@ -632,7 +632,7 @@
 		<string lang="fr">Croûte</string>
 		<string lang="zh">结晶</string>
 		<string lang="jp">結晶</string>
-		<string lang="ru">кристалл</string>
+		<string lang="ru">Кристаллизация</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">크러스트</string>
 		<string lang="pt-br">Crosta</string>
@@ -709,7 +709,7 @@
 		<string lang="fr">Défaillance</string>
 		<string lang="zh">故障</string>
 		<string lang="jp">故障</string>
-		<string lang="ru">Неисправность</string>
+		<string lang="ru">Неисправный</string>
 		<string lang="es">Malfuncionamiento</string>
 		<string lang="kr">고장나는</string>
 		<string lang="pt-br">Malfuncionamento</string>
@@ -731,7 +731,7 @@
 		<string lang="fr">Hors Service</string>
 		<string lang="zh">故障</string>
 		<string lang="jp">故障</string>
-		<string lang="ru">Неисправность</string>
+		<string lang="ru">Выведен из строя</string>
 		<string lang="es">Fuera de Servicio</string>
 		<string lang="kr">고장</string>
 		<string lang="pt-br">Fora de Serviço</string>
@@ -764,7 +764,7 @@
 		<string lang="fr">Combustion Plasma</string>
 		<string lang="zh">等离子燃烧</string>
 		<string lang="jp">プラズマ燃焼</string>
-		<string lang="ru">Плазма-Сгорание</string>
+		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Combustión de Plasma</string>
 		<string lang="kr">플라즈마 연소</string>
 		<string lang="pt-br">Combustão de Plasma</string>
@@ -775,7 +775,7 @@
 		<string lang="fr">Combustion Plasma</string>
 		<string lang="zh">等离子燃烧</string>
 		<string lang="jp">プラズマ燃焼</string>
-		<string lang="ru">Плазма-Сгорание</string>
+		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Combustión de Plasma</string>
 		<string lang="kr">플라즈마 연소</string>
 		<string lang="pt-br">Combustão de Plasma</string>
@@ -808,7 +808,7 @@
 		<string lang="fr">Sauvetage</string>
 		<string lang="zh">回收</string>
 		<string lang="jp">回収</string>
-		<string lang="ru">Спасенный</string>
+		<string lang="ru">Спасённый</string>
 		<string lang="es">Rescatado</string>
 		<string lang="kr">구조된</string>
 		<string lang="pt-br">Resgatado</string>
@@ -929,7 +929,7 @@
 		<string lang="fr">Grav. Amp.</string>
 		<string lang="zh">引力增幅</string>
 		<string lang="jp">重力増幅</string>
-		<string lang="ru">Усиление Грав.</string>
+		<string lang="ru">Грав. Усил.</string>
 		<string lang="es">Grav. Amp.</string>
 		<string lang="kr">중력 증폭</string>
 		<string lang="pt-br">Grav. Amp.</string>
@@ -940,7 +940,7 @@
 		<string lang="fr">Res. Grav</string>
 		<string lang="zh">引力抗性</string>
 		<string lang="jp">重力耐性</string>
-		<string lang="ru">Сопротивление Грав.</string>
+		<string lang="ru">Грав. Сопротивление</string>
 		<string lang="es">Res. Grav.</string>
 		<string lang="kr">중력 저항</string>
 		<string lang="pt-br">Res. Grav.</string>
@@ -951,7 +951,7 @@
 		<string lang="fr">Immu. Grav.</string>
 		<string lang="zh">引力免疫</string>
 		<string lang="jp">重力免疫</string>
-		<string lang="ru">Иммунитет Грав.</string>
+		<string lang="ru">Грав. Иммун.</string>
 		<string lang="es">Grav. Immu.</string>
 		<string lang="kr">중력 면역</string>
 		<string lang="pt-br">Grav. Immu.</string>
@@ -962,7 +962,7 @@
 		<string lang="fr">Cooldown</string>
 		<string lang="zh">冷却时间</string>
 		<string lang="jp">クールダウン</string>
-		<string lang="ru">Перезагрузить</string>
+		<string lang="ru">Перезарядка</string>
 		<string lang="es">Reutilizacion</string>
 		<string lang="kr">재사용 대기</string>
 		<string lang="pt-br">Reutilização</string>
@@ -973,7 +973,7 @@
 		<string lang="fr">Cassant</string>
 		<string lang="zh">碎裂</string>
 		<string lang="jp">破損</string>
-		<string lang="ru">Треснувший</string>
+		<string lang="ru">Хрупкий</string>
 		<string lang="es">Agrietado</string>
 		<string lang="kr">깨진</string>
 		<string lang="pt-br">Rachado</string>
@@ -984,7 +984,7 @@
 		<string lang="fr">Croûte</string>
 		<string lang="zh">结晶</string>
 		<string lang="jp">結晶</string>
-		<string lang="ru">Кристалл</string>
+		<string lang="ru">Кристаллизация</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">결정</string>
 		<string lang="pt-br">Crosta</string>
@@ -1050,7 +1050,7 @@
 		<string lang="fr">Crépitation Plasma</string>
 		<string lang="zh">等离子爆裂</string>
 		<string lang="jp">プラズマ爆燃</string>
-		<string lang="ru">Дефлаграция Плазмы</string>
+		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Crepitación de Plasma</string>
 		<string lang="kr">플라즈마 폭발</string>
 		<string lang="pt-br">Crepitação de Plasma</string>
@@ -1061,7 +1061,7 @@
 		<string lang="fr">Crépitation Plasma</string>
 		<string lang="zh">等离子爆裂</string>
 		<string lang="jp">プラズマ爆燃</string>
-		<string lang="ru">Дефлаграция Плазмы</string>
+		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Crepitación de Plasma</string>
 		<string lang="kr">플라즈마 폭발</string>
 		<string lang="pt-br">Crepitação de Plasma</string>
@@ -1083,7 +1083,7 @@
 		<string lang="fr">Auto-Encrustement</string>
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
-		<string lang="ru">Само-Кристаллизация</string>
+		<string lang="ru">Самокристаллизация</string>
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
@@ -1094,7 +1094,7 @@
 		<string lang="fr">Auto-Encrustement</string>
 		<string lang="zh">自结晶</string>
 		<string lang="jp">自己結晶</string>
-		<string lang="ru">Само-Кристаллизация</string>
+		<string lang="ru">Самокристаллизация</string>
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 결정</string>
 		<string lang="pt-br">Auto-encrustação</string>
