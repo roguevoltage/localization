@@ -175,7 +175,7 @@
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-negative">
 		<string lang="de">$grav-$$br$führt zu einer $b$Grav.-Spitze$/b$</string>
-		<string lang="en">$grav-$$br$leads to a $b$Grav.-Spike$/b$</string>
+		<string lang="en">$grav-$$br$causes a $b$Grav.-Spike$/b$</string>
 		<string lang="fr">$grav-$$br$produit une $b$crête grav.$/b$</string>
 		<string lang="zh">$grav-$$br$导致$b$引力尖峰$/b$</string>
 		<string lang="jp">$grav-$$br$は$b$重力スパイク$/b$を引き起こします</string>
@@ -240,11 +240,14 @@
 <set id="ui-tutorialbutton-decelerate">
 		<string lang="en">Wire up$br$Jackson's rack</string>
 </set>
+<set id="ui-tutorialbutton-generatordual">
+		<string lang="en">Wire up$br$all jacks</string>
+</set>
 <set id="tutorialwindow-cooldown-header">
 		<string lang="en">Cooldown</string>
 </set>
 <set id="tutorialwindow-cooldown-description">
-		<string lang="en">Your $curesensor$ has $overload$, which means that when discharged, it will be set it on $cooldown$ for one turn.$p$Modules on $cooldown$ cannot be activated and sensors will not react to triggers.</string>
+		<string lang="en">Your $curesensor$ has $overload$,$br$which means that discharging it$br$will set it on $cooldown$.$p$Modules on $cooldown$ cannot be activated for one turn and sensors will not react to triggers.</string>
 </set>
 <set id="tutorialwindow-battlerating-title">
 		<string lang="de">Die Kampfbewertung</string>
@@ -389,7 +392,7 @@
 		<string lang="en">A $b$Potion Factory +1$/b$!$p$Brother, can I use this one?$br$I promise I will share the $healingpotion$s between us!</string>
 </set>
 <set id="tutorialwindow-timeline-description">
-		<string lang="en">The timeline shows the succession of the upcoming turns.$p$$b$Now$/b$, it's $slopperjohnson$'s turn.$p$Afterwards, time will tick forward and in 4 time steps it'll be the $chronocat$'s turn.$p$Two steps later, it'll be $slopperjackson$'s turn.</string>
+		<string lang="en">The timeline shows the succession of the upcoming turns.$p$$b$Now$/b$, it's $slopperjohnson$'s turn.$p$Afterwards, time will tick forward and $b$in 4 time steps$/b$ it'll be the $chronocat$'s turn.$p$Two steps later, it'll be $slopperjackson$'s turn.</string>
 </set>
 <set id="tutorialwindow-timeline-description-2">
 		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
