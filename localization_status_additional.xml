@@ -1,9 +1,6 @@
 <localization>
 <set id="description-status-modulegravpulse">
 		<string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-		<string lang="zh">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-		<string lang="jp">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-		<string lang="kr">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
 </set>
 <set id="description-status-modulelock-startingmodule-hardlock">
 		<string lang="de">Kann nicht vom Rack genommen werden</string>
@@ -18,33 +15,20 @@
 </set>
 <set id="description-status-modulelock-whilecharged">
 		<string lang="en">Cannot be taken from rack$br$while holding $energy$</string>
-		<string lang="zh">Cannot be taken from rack$br$while holding $energy$</string>
-		<string lang="jp">Cannot be taken from rack$br$while holding $energy$</string>
-		<string lang="kr">Cannot be taken from rack$br$while holding $energy$</string>
 </set>
 <set id="description-status-modulelock-wiredtoviral">
 		<string lang="en">Cannot be taken from rack$br$while wired to a threat module</string>
-		<string lang="zh">Cannot be taken from rack$br$while wired to a threat module</string>
-		<string lang="jp">Cannot be taken from rack$br$while wired to a threat module</string>
-		<string lang="kr">Cannot be taken from rack$br$while wired to a threat module</string>
 </set>
 <set id="description-status-modulereplicating">
-		<string lang="en">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
-		<string lang="zh">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
-		<string lang="jp">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
-		<string lang="kr">Activating this module will create a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
+		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
+		<string lang="en">Activating this module will construct a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
 </set>
 <set id="description-status-modulereplicating-infinitely">
-		<string lang="en">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
-		<string lang="zh">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
-		<string lang="jp">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
-		<string lang="kr">Activating this module will create a copy of itself. The copy has $cooldown$.</string>
+		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$.</string>
+		<string lang="en">Activating this module will construct a copy of itself. The copy has $cooldown$.</string>
 </set>
 <set id="description-status-modulestormattractor">
 		<string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
-		<string lang="zh">Activation attracts the $storm$$br$by $4$ time steps</string>
-		<string lang="jp">Activation attracts the $storm$$br$by $4$ time steps</string>
-		<string lang="kr">Activation attracts the $storm$$br$by $4$ time steps</string>
 </set>
 <set id="description-status-modulestormrepeller">
 		<string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
@@ -56,16 +40,10 @@
 <set id="description-status-modulevolatile">
 		<string lang="de">Wird nach dem Zug des Besitzers zerstört</string>
 		<string lang="en">Will be destroyed after the owner's turn</string>
-		<string lang="zh">Will be destroyed after the owner's turn</string>
-		<string lang="jp">Will be destroyed after the owner's turn</string>
-		<string lang="kr">Will be destroyed after the owner's turn</string>
 </set>
 <set id="description-status-modulevulnerability">
 		<string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
 		<string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
-		<string lang="zh">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
-		<string lang="jp">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
-		<string lang="kr">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
 </set>
 <set id="description-status-stasis">
 		<string lang="de">Die Zeit steht für diesen Character still.</string>
@@ -80,9 +58,6 @@
 </set>
 <set id="description-status-transformation-volcanodamagetograv">
 		<string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
-		<string lang="zh">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
-		<string lang="jp">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
-		<string lang="kr">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
 </set>
 <set id="description-status-transformation-volcanodamagetomight">
 		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
@@ -97,9 +72,6 @@
 </set>
 <set id="name-status-modulegravpulse">
 		<string lang="en">Grav. Pulse</string>
-		<string lang="zh">Grav. Pulse</string>
-		<string lang="jp">Grav. Pulse</string>
-		<string lang="kr">Grav. Pulse</string>
 </set>
 <set id="name-status-modulelock-startingmodule-hardlock">
 		<string lang="de">Charakterausrüstung</string>
@@ -113,10 +85,12 @@
 		<string lang="pt-br">Equipamento do Personagem</string>
 </set>
 <set id="name-status-modulereplicating">
-		<string lang="en">Replicating 1</string>
+		<string lang="de">Replikation 1</string>
+		<string lang="en">Replication 1</string>
 </set>
 <set id="name-status-modulereplicating-infinitely">
-		<string lang="en">Replicating ∞</string>
+		<string lang="en">Replication ∞</string>
+		<string lang="en">Replication ∞</string>
 </set>
 <set id="name-status-modulestormattractor">
 		<string lang="en">Storm Attractor</string>

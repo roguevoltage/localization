@@ -116,4 +116,58 @@
 <set id="name-module-generatorstorm">
 		<string lang="en">Stormseeker Generator</string>
 </set>
+<set id="description-module-generatorstorm">
+	<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber zieht den $storm$ um $4$ Zeitschritte an.</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but attracts the $storm$ by $4$ time steps.</string>
+</set>
+<set id="name-module-passivegravdissipator">
+	<string lang="de">Grav.-Zerstreuer</string>
+	<string lang="en">Grav. Dissipator</string>
+	<string lang="fr">Dissipateur Grav.</string>
+	<string lang="zh">引力散热器</string>
+	<string lang="jp">重力ディシペーター</string>
+	<string lang="ru">Грав. Рассеиватель</string>
+	<string lang="es">Disipador Grav.</string>
+	<string lang="kr">Grav. Dissipator</string>
+	<string lang="pt-br">Dissipador Grav.</string>
+</set>
+<set id="description-module-passivegravdissipator">
+	<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
+</set>
+<set id="name-module-toggledechochamber">
+	<string lang="de">Echo-Kammer</string>
+	<string lang="en">Echo Chamber</string>
+	<string lang="fr">Chambre d'Écho</string>
+	<string lang="zh">回声室</string>
+	<string lang="jp">エコーカメラ</string>
+	<string lang="ru">Эхо-Камера</string>
+	<string lang="es">Cámara de Eco</string>
+	<string lang="kr">에코 챔버</string>
+	<string lang="pt-br">Câmara de Eco</string>
+</set>
+<set id="description-module-toggledechochamber">
+	<string lang="en">Applies $replicating$ to another target module on this rack with $cracked$.</string>
+</set>
+<set id="name-module-generatorvulnerability">
+	<string lang="de">Gefährlicher Generator</string>
+	<string lang="en">Hazardous Generator</string>
+	<string lang="fr">Générateur Périleux</string>
+	<string lang="zh">危险发电机</string>
+	<string lang="jp">危険なジェネレーター</string>
+	<string lang="ru">Опасный Генератор</string>
+	<string lang="es">Generador Peligroso</string>
+	<string lang="kr">위험한 발전기</string>
+	<string lang="pt-br">Gerador Perigoso</string>
+</set>
+<set id="description-module-generatorvulnerability">
+	<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
+	<string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
+	<string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но накладывает на владельца $vulnerable$ на 5 шагов времени.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
+	<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
+</set>
 </localization>
