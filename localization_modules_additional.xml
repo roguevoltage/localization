@@ -1074,4 +1074,18 @@
 		<string lang="kr">가속 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-toggledechochamber">
+	<string lang="de">Echo-Kammer</string>
+	<string lang="en">Echo Chamber</string>
+	<string lang="fr">Chambre d'Écho</string>
+	<string lang="zh">回声室</string>
+	<string lang="jp">エコーカメラ</string>
+	<string lang="ru">Эхо-Камера</string>
+	<string lang="es">Cámara de Eco</string>
+	<string lang="kr">에코 챔버</string>
+	<string lang="pt-br">Câmara de Eco</string>
+</set>
+<set id="description-module-toggledechochamber">
+	<string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
+</set>
 </localization>

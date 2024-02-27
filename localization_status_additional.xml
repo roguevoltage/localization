@@ -21,11 +21,11 @@
 </set>
 <set id="description-status-modulereplicating">
 		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
-		<string lang="en">Activating this module will construct a copy of itself. The copy has $cooldown$ and loses $replicating$.</string>
+		<string lang="en">Activating this module will construct a copy of itself. The copy is on $cooldown$ and loses $replicating$.</string>
 </set>
 <set id="description-status-modulereplicating-infinitely">
 		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$.</string>
-		<string lang="en">Activating this module will construct a copy of itself. The copy has $cooldown$.</string>
+		<string lang="en">Activating this module will construct a copy of itself. The copy gets $cooldown$.</string>
 </set>
 <set id="description-status-modulestormattractor">
 		<string lang="en">Activation attracts the $storm$$br$by $4$ time steps</string>
@@ -89,7 +89,7 @@
 		<string lang="en">Replication 1</string>
 </set>
 <set id="name-status-modulereplicating-infinitely">
-		<string lang="en">Replication ∞</string>
+		<string lang="de">Replikation ∞</string>
 		<string lang="en">Replication ∞</string>
 </set>
 <set id="name-status-modulestormattractor">

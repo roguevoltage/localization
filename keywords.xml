@@ -925,7 +925,7 @@
     </set>
     <set id="$replicating$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replikation 1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replicating 1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replication 1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Réplication 1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;复制 1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;複製 1&lt;/color&gt;&lt;/b&gt;</string>
@@ -935,8 +935,8 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replicação 1&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$replicatinginfinitely">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Unendlich Replizierend&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replicating Infinitely&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replikation ∞&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Replication ∞&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;Réplication Infinie&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;无限复制&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#CCFFB2&gt;&lt;sprite name="copy" tint=1&gt;無限複製&lt;/color&gt;&lt;/b&gt;</string>
@@ -968,15 +968,15 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Sobrecarga&lt;/b&gt;</string>
     </set>
     <set id="$unstable$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Instabil&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Unstable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Instable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;不稳定&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;不安定&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Неустойчивый&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Inestable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;불안정한&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cloud" tint=1&gt;Instável&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instabil&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Unstable&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instable&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;不稳定&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;不安定&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Неустойчивый&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Inestable&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;불안정한&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instável&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$volatile$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Flüchtig&lt;/color&gt;&lt;/b&gt;</string>
