@@ -77,15 +77,15 @@
 		<string lang="pt-br">A Mochila</string>
 </set>
 <set id="tutorialwindow-backpack-description">
-		<string lang="de">Hier kannst du Module lagern und zwischen Charakteren austauschen.$p$Nimm den $healingpotion$ in deinen Rucksack,$br$aber du musst ihn noch nicht verwenden!</string>
+		<string lang="de">Hier kannst du Module lagern und zwischen Charakteren austauschen.$p$Nimm den $healingpotion$ in dein Rack,$br$aber du musst ihn noch nicht verwenden!</string>
 		<string lang="en">Here you can store modules and exchange them between characters.$p$Take the $healingpotion$ into your rack,$br$but you don't have to use it just yet!</string>
-		<string lang="fr">Ici, vous pouvez stocker des modules et les échanger entre les personnages.$p$Prenez la $healingpotion$ dans votre sac à dos,$br$mais vous n'êtes pas obligé de l'utiliser tout de suite!</string>
-		<string lang="zh">在这里，你可以存储模块并在角色之间交换它们。$p$将$healingpotion$放入你的背包，$br$但你不必立即使用它！</string>
-		<string lang="jp">ここでは、モジュールを保管し、キャラクター間で交換することができます。$p$$healingpotion$をバックパックに入れてください。$br$しかし、すぐに使用する必要はありません！</string>
-		<string lang="ru">Здесь вы можете хранить модули и обмениваться ими между персонажами.$p$Возьмите $healingpotion$ в свой рюкзак,$br$но вам не обязательно использовать его прямо сейчас!</string>
+		<string lang="fr">Ici, vous pouvez stocker des modules et les échanger entre les personnages.$p$Prenez la $healingpotion$ dans votre rack, mais vous n'êtes pas obligé de l'utiliser tout de suite!</string>
+		<string lang="zh">在这里，你可以存储模块并在角色之间交换它们。$p$将$healingpotion$放入你的机架中，但你不必立即使用它！</string>
+		<string lang="jp">ここでは、モジュールを保管し、キャラクター間で交換することができます。$p$$healingpotion$をラックに入れてくださいが、まだ使用する必要はありません！</string>
+		<string lang="ru">Здесь вы можете хранить модули и обмениваться ими между персонажами.$p$Возьмите $healingpotion$ в свою стойку, но вам не обязательно его использовать прямо сейчас!</string>
 		<string lang="es">Aquí puedes almacenar módulos e intercambiarlos entre personajes.$p$Lleva la $healingpotion$ en tu bastidor,$br$¡pero no hace falta usarla de inmediato!</string>
-		<string lang="kr">여기서 모듈을 저장하고 캐릭터 간에 교환할 수 있습니다.$p$당신의 배낭에 $healingpotion$을 넣으세요.$br$하지만 지금 당장 사용할 필요는 없습니다!</string>
-		<string lang="pt-br">Aqui você pode armazenar módulos e trocá-los entre personagens.$p$Pegue a $healingpotion$ em sua mochila,$br$mas você não precisa usá-la agora mesmo!</string>
+		<string lang="kr">여기에서 모듈을 저장하고 캐릭터 간에 교환할 수 있습니다.$p$당신의 랙에 $healingpotion$을 가져가세요,$br$하지만 지금 사용할 필요는 없습니다!</string>
+		<string lang="pt-br">Aqui você pode armazenar módulos e trocá-los entre personagens.$p$Pegue a $healingpotion$ em seu rack,$br$mas você não precisa usá-la ainda!</string>
 </set>
 <set id="ui-tutorialbutton-backpack">
 		<string lang="de">Nimm Trank$br$ins Rack</string>
@@ -123,13 +123,13 @@
 <set id="tutorialwindow-sensors-description1">
 		<string lang="de">Lass uns deine erste Kettenreaktion bauen:$p$Aktiviere den $healingpotion$ mit dem $generator$.$p$Das löst den $curesensor$ aus, der $1$ $energy$ erzeugt.$p$Leite ihn durch den $amplifier$ für einen starken Angriff.</string>
 		<string lang="en">Let's build your first chain reaction:$p$Activate the $healingpotion$ with the $generator$.$p$This triggers the $curesensor$, which will generate $1$ $energy$.$p$Route it through the $amplifier$ for a strong attack.</string>
-		<string lang="fr">Construisons votre première réaction en chaîne:$p$Activez la $healingpotion$ avec le $generator$.$p$Cela déclenche le $curesensor$, qui générera $1$ $energy$.$p$Dirigez-le à travers l'$amplificateur$ pour une attaque puissante.</string>
+		<string lang="fr">Construisons votre première réaction en chaîne:$p$Activez la $healingpotion$ avec le $generator$.$p$Cela déclenche le $curesensor$, qui générera $1$ $energy$.$p$Dirigez-le à travers l'$amplifier$ pour une attaque puissante.</string>
 		<string lang="zh">让我们建立你的第一个连锁反应：$p$使用$generator$激活$healingpotion$。$p$这将触发$curesensor$，它将产生$1$ $energy$。$p$通过$amplifier$引导它进行强力攻击。</string>
 		<string lang="jp">最初の連鎖反応を構築しましょう：$p$ $generator$で$healingpotion$をアクティブにします。$p$これにより、$curesensor$がトリガーされ、$1$ $energy$が生成されます。$p$それを強力な攻撃のために$amplifier$を通してルーティングします。</string>
 		<string lang="ru">Давайте построим вашу первую цепную реакцию:$p$Активируйте $healingpotion$ с помощью $generator$.$p$Это вызовет $curesensor$, который сгенерирует $1$ $energy$.$p$Маршрутизируйте его через $amplifier$ для сильной атаки.</string>
-		<string lang="es">Construyamos tu primera reacción en cadena:$p$Activa la $healingpotion$ con el $generator$.$p$Esto disparará el $curesensor$, que generará $1$ $energy$.$p$Dirígelo a través del $amplificador$ para un ataque poderoso.</string>
+		<string lang="es">Construyamos tu primera reacción en cadena:$p$Activa la $healingpotion$ con el $generator$.$p$Esto disparará el $curesensor$, que generará $1$ $energy$.$p$Dirígelo a través del $amplifier$ para un ataque poderoso.</string>
 		<string lang="kr">첫 번째 연쇄 반응을 만들어 봅시다:$p$ $generator$로 $healingpotion$을 활성화합니다.$p$이것은 $curesensor$를 트리거하고 $1$ $energy$를 생성합니다.$p$강력한 공격을 위해 $amplifier$를 통해 라우팅합니다.</string>
-		<string lang="pt-br">Vamos construir sua primeira reação em cadeia:$p$Ative a $healingpotion$ com o $generator$.$p$Isso aciona o $curesensor$, que gerará $1$ $energy$.$p$Encaminhe-o através do $amplificador$ para um ataque forte.</string>
+		<string lang="pt-br">Vamos construir sua primeira reação em cadeia:$p$Ative a $healingpotion$ com o $generator$.$p$Isso aciona o $curesensor$, que gerará $1$ $energy$.$p$Encaminhe-o através do $amplifier$ para um ataque forte.</string>
 </set>
 <set id="tutorialwindow-lootaccumulator-description">
 		<string lang="de">Ein $b$Akkumulator$/b$$br$mit einem &lt;color=green&gt;$b$grünen$/b$&lt;/color&gt; Eingang!$p$Das ist äußerst nützlich,$br$um $energy$ zu speichern!</string>
@@ -332,7 +332,7 @@
 <set id="tutorialwindow-decelerate-header">
 		<string lang="de">Zeitleisten-Manipulation</string>
 		<string lang="en">Timeline Control</string>
-		<string lang="fr">Contrôle de la Chronologie</string>
+		<string lang="fr">Contrôler la Chronologie</string>
 		<string lang="zh">时间轴控制</string>
 		<string lang="jp">タイムライン制御</string>
 		<string lang="ru">Управление временной линией</string>
@@ -387,7 +387,7 @@
 <set id="tutorialwindow-cooldown-header">
 	<string lang="de">Cooldown</string>
 	<string lang="en">Cooldown</string>
-	<string lang="fr">Repos</string>
+	<string lang="fr">Recharge</string>
 	<string lang="zh">冷却时间</string>
 	<string lang="jp">クールダウン</string>
 	<string lang="ru">Перезарядка</string>
@@ -541,7 +541,7 @@
 <set id="tutorialwindow-lootplasmaconverter-description">
 		<string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!$br$Jackson, wir werden noch reich!$p$Lass uns ihn vorerst im Rucksack aufbewahren. Ich sage dir, wann es ein guter Moment ist, ihn zu benutzen.</string>
 		<string lang="en">A $b$Plasma Converter$/b$ with a $b$universal$/b$ input jack! Jackson, we will be rich!$p$Let's put it in the backpack for now. I will let you know when it's a good moment to use.</string>
-		<string lang="fr">Un $b$Convertisseur de Plasma$/b$ avec une prise d'entrée $b$universelle$/b$! Quelle trouvaille incroyable!$p$Mettez-le dans le sac à dos pour l'instant. Je vous ferai savoir quand il sera bon de l'utiliser.</string>
+		<string lang="fr">Un $b$Convertisseur de Plasma$/b$ avec une prise d'entrée $b$universelle$/b$! Jackson, nous allons être riches!$p$Mets-le dans le sac à dos pour l'instant. Je te dirai quand ce sera un bon moment pour l'utiliser.</string>
 		<string lang="zh">一个带有$通用$/b$输入插孔的$等离子体转换器$！多么惊人的发现！$p$现在先把它放在背包里。我会告诉你什么时候是使用它的好时机。</string>
 		<string lang="jp">$b$ユニバーサル$/b$入力ジャックを持つ$プラズマコンバータ$！なんて素晴らしい発見なんでしょう！$p$とりあえずバックパックに入れましょう。使う良い時が来たらお知らせします。</string>
 		<string lang="ru">$b$Конвертер плазмы$/b$ с $универсальным$/b$ входом! Какое удивительное находка!$p$Давайте положим его в рюкзак на всякий случай. Я скажу вам, когда будет хороший момент для использования.</string>

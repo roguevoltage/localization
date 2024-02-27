@@ -229,6 +229,13 @@
 <set id="module-properties-description-reduction">
         <string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
         <string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
+		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
+		<string lang="zh">从当前中减去 $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
+		<string lang="jp">現在の$energy$から$b$$MODIFICATIONVALUE$ $/b$$energy$を引きます</string>
+		<string lang="ru">Вычитает $b$$MODIFICATIONVALUE$ $/b$$energy$ из текущего</string>
+		<string lang="es">Resta $b$$MODIFICATIONVALUE$ $/b$$energy$ de la corriente</string>
+		<string lang="kr">현재에서 $b$$MODIFICATIONVALUE$ $/b$$energy$를 뺍니다</string>
+		<string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$ $/b$$energy$ da corrente</string>
 </set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>

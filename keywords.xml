@@ -649,15 +649,15 @@
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$energyicon$">
-        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="de">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
     </set>
     <set id="$crust$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Kruste&lt;/color&gt;&lt;/b&gt;</string>
@@ -750,7 +750,7 @@
     <set id="$cooldown$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
-        <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Cooldown&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Recharge&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;冷却时间&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;クールダウン&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезарядка&lt;/b&gt;</string>
