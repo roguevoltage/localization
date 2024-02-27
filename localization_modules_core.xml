@@ -135,7 +135,7 @@
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
 		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
 		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
-		<string lang="zh">可以充电。$p$如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
+		<string lang="zh">可充电。$p$如果一个角色失去意识，他们将以存储的 $energy$ 的高度复活。</string>
 		<string lang="jp">充電可能。$p$キャラクターが気絶した場合、彼らは保存された $energy$ の高さで復活します。</string>
 		<string lang="ru">Может быть заряжен.$p$Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
 		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
@@ -589,8 +589,8 @@
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$br$Module können nur ein $upgrade$ erhalten.</string>
 		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
-		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。</string>
-		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。</string>
+		<string lang="zh">在本机架上的一个类型为 $passthroughmodule$ 的模块上应用永久 $upgrade$。一个模块只能有一个升级。</string>
+		<string lang="jp">このラックのタイプ$passthroughmodule$のモジュールに恒久的な$upgrade$を適用します。モジュールには1つのアップグレードしかできません。</string>
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$br$$passthroughmodule$может иметь только 1 $upgrade$.</string>
 		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.$br$Solo admite una $upgrade$.</string>
 		<string lang="kr">이 랙에 있는 $passthroughmodule$ 타입의 모듈에 영구적인 $upgrade$를 적용합니다.</string>
@@ -1018,7 +1018,7 @@
 		<string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Sensor Amplifier $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplificateur de Capteur $MODIFICATIONVALUE$</string>
-		<string lang="zh">感应器放大器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">增幅感应器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">センサーアンプ $MODIFICATIONVALUE$</string>
 		<string lang="ru">Усилитель Датчика $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Sensor $MODIFICATIONVALUE$</string>
@@ -1040,7 +1040,7 @@
 		<string lang="de">Bedingter Verst. $MODIFICATIONVALUE$: Trauma</string>
 		<string lang="en">Conditional Amp. $MODIFICATIONVALUE$: Trauma</string>
 		<string lang="fr">Amplificateur Conditionnel $MODIFICATIONVALUE$: Trauma</string>
-		<string lang="zh">条件增幅器 $MODIFICATIONVALUE$: 伤人</string>
+		<string lang="zh">条件增幅器 $MODIFICATIONVALUE$: 受伤</string>
 		<string lang="jp">条件付き増幅器 $MODIFICATIONVALUE$: 創傷</string>
 		<string lang="ru">Условный Усилитель $MODIFICATIONVALUE$: Травма </string>
 		<string lang="es">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
@@ -1051,7 +1051,7 @@
 		<string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Recoil Amplifier $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplificateur Recul $MODIFICATIONVALUE$</string>
-		<string lang="zh">后坐力增幅器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">引力反冲增幅器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">反動増幅器 $MODIFICATIONVALUE$</string>
 		<string lang="ru">Усилитель Замедления $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Rebote $MODIFICATIONVALUE$</string>
@@ -1062,7 +1062,7 @@
 		<string lang="de">Plasmaverbrennender Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Plasma-Combusting Amplifier $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplificateur de Combustion Plasma $MODIFICATIONVALUE$</string>
-		<string lang="zh">等离子体燃烧增幅器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">等离子体爆燃增幅器 $MODIFICATIONVALUE$</string>
 		<string lang="jp">プラズマ燃焼増幅器 $MODIFICATIONVALUE$</string>
 		<string lang="ru">Усилитель Плазменного Сгорания $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Combustión $MODIFICATIONVALUE$</string>
@@ -1139,7 +1139,7 @@
 		<string lang="de">Durchsatz-Booster</string>
 		<string lang="en">Passthrough Booster</string>
 		<string lang="fr">Booster de Relais</string>
-		<string lang="zh">中继器增强器</string>
+		<string lang="zh">中继放大器</string>
 		<string lang="jp">スループットブースター</string>
 		<string lang="ru">Ускоритель Пропускной Способности</string>
 		<string lang="es">Impulsor de Traspaso</string>
@@ -1194,7 +1194,7 @@
 		<string lang="de">Gesundheits-Upgrader</string>
 		<string lang="en">Health Enhancer</string>
 		<string lang="fr">Améliorateur de Santé</string>
-		<string lang="zh">生命值增强器</string>
+		<string lang="zh">治疗增强器</string>
 		<string lang="jp">ヘルスエンハンサー</string>
 		<string lang="ru">Усилитель Здоровья</string>
 		<string lang="es">Potenciador de Salud</string>
@@ -1205,7 +1205,7 @@
 		<string lang="de">Durchsatz-Upgrader</string>
 		<string lang="en">Passthrough Upgrader</string>
 		<string lang="fr">Améliorateur de Relais</string>
-		<string lang="zh">中继器升级器</string>
+		<string lang="zh">中继升级器</string>
 		<string lang="jp">スループットアップグレーダー</string>
 		<string lang="ru">Улучшатель Пропускной Способности</string>
 		<string lang="es">Potenciador de Traspaso</string>
@@ -1249,7 +1249,7 @@
 	<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
 	<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
 	<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
-	<string lang="zh">可以充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
+	<string lang="zh">可充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
 	<string lang="jp">充電可能。$p$所有者のターンの開始時に、$1$ の蓄積された $energy$ を取り除き、全てのプレイヤーキャラクターを $1$ 回復します。</string>
 	<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохранённую $energy$ чтобы вылечить всех игроков на $1$.</string>
 	<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
@@ -1260,7 +1260,7 @@
 	<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
 	<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
 	<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
-	<string lang="zh">可以充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
+	<string lang="zh">可充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
 	<string lang="jp">充電可能。$p$所有者が $damage$ を受けるたびに、$1$ の蓄積された $energy$ を取り除き、そのダメージを $1$ 軽減します。</string>
 	<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
 	<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>

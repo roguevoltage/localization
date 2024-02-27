@@ -332,7 +332,7 @@
 		<string lang="de">Wenn ein anderes Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
 		<string lang="en">If another module on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
 		<string lang="fr">Si un autre module sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
-		<string lang="zh">如果同机架上的其他模块应该获得 $outoforder$，则此模块将获得 $outoforder$。</string>
+		<string lang="zh">如果此机架上的另一个模块即将获得$outoforder$，此模块将代替其接收$outoforder$。</string>
 		<string lang="jp">このラックの他のモジュールが$outoforder$を受ける場合、代わりにこのモジュールが$outoforder$を受けます。</string>
 		<string lang="ru">Если другой модуль на этой стойке должен получить $outoforder$, этот модуль получает $outoforder$ вместо него.</string>
 		<string lang="es">Si otro módulo en este rack debería recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
@@ -342,7 +342,7 @@
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges des Besitzers den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
 		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of the owner's turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
 		<string lang="fr">$storm$ frappera également les ennemis.$p$Au début du tour du propriétaire, attirez le $storm$ de jusqu'à $3$ étapes de temps (distance minimale de $b$+1$/b$).</string>
-		<string lang="zh">$storm$也会打击敌人。$p$在所有者的回合开始时，将$storm$吸引到最多$3$个时间步长（最小距离为$b$+1$/b$）。</string>
+		<string lang="zh">$storm$也会伤害敌人。$br$在拥有者回合开始时，将风暴提前吸引$3$时刻（直到$b$+1$/b$）。</string>
 		<string lang="jp">$storm$は敵にも当たります。$p$所有者のターンの開始時に、$storm$を最大で$3$タイム ステップ（最小距離は$b$+1$/b$）引き寄せます。</string>
 		<string lang="ru">$storm$ также поражает врагов.$p$В начале хода владельца привлекает $storm$ на до $3$ шагов времени (минимальное расстояние $b$+1$/b$).</string>
 		<string lang="es">$storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae el $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
@@ -355,10 +355,10 @@
 		<string lang="fr">Utilise tout le $plasma$ pour générer autant de $energy$.</string>
 		<string lang="zh">消耗所有的 $plasma$ 来产生相同数量的 $energy$ 。</string>
 		<string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
-        <string lang="ru">Использует весь $plasma$ $b$для генерации такого же количества $energy$.</string>
-        <string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
-        <string lang="kr">모든 $plasma$를 사용하여 그만큼의 $energy$를 생성합니다.</string>
-        <string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
+    <string lang="ru">Использует весь $plasma$ $b$для генерации такого же количества $energy$.</string>
+    <string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
+    <string lang="kr">모든 $plasma$를 사용하여 그만큼의 $energy$를 생성합니다.</string>
+    <string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
 </set>
 <set id="description-module-pulsar">
 		<string lang="de">Modifiziert einen Strom.</string>
@@ -693,7 +693,7 @@
 		<string lang="de">Generator-Fabrik $MODIFICATIONVALUE$</string>
 		<string lang="en">Generator Factory $MODIFICATIONVALUE$</string>
 		<string lang="fr">Fabrique des Générateurs $MODIFICATIONVALUE$</string>
-		<string lang="zh">发生器工厂 $MODIFICATIONVALUE$</string>
+		<string lang="zh">发电机工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">ジェネレーター工場 $MODIFICATIONVALUE$</string>
         <string lang="ru">Фабрика Генераторов $MODIFICATIONVALUE$</string>
         <string lang="es">Fábrica de Generador $MODIFICATIONVALUE$</string>
@@ -748,7 +748,7 @@
 		<string lang="de">Pyro-Generator</string>
 		<string lang="en">Pyro Generator</string>
 		<string lang="fr">Générateur Pyro</string>
-		<string lang="zh">火焰发生器</string>
+		<string lang="zh">火焰发电机</string>
 		<string lang="jp">パイロジェネレーター</string>
         <string lang="ru">Пиро-генератор</string>
         <string lang="es">Generador Pyro</string>
@@ -759,7 +759,7 @@
 		<string lang="de">Plasmaverbrennender Generator</string>
 		<string lang="en">Plasma-Combusting Generator</string>
 		<string lang="fr">Générateur de Combustion de Plasma</string>
-		<string lang="zh">等离子燃烧发生器</string>
+		<string lang="zh">等离子爆燃发电机</string>
 		<string lang="jp">プラズマ燃焼ジェネレーター</string>
 		<string lang="ru">Плазмо-Сжигающий Генератор</string>
 		<string lang="es">Generador de Combustión de Plasma</string>
@@ -869,7 +869,7 @@
 		<string lang="de">Stoßdämpfer</string>
 		<string lang="en">Shock Absorber</string>
 		<string lang="fr">Absorbeur de Choc</string>
-		<string lang="zh">减震器</string>
+		<string lang="zh">冲击吸收器</string>
 		<string lang="jp">ショックアブソーバー</string>
 		<string lang="ru">Амортизатор</string>
 		<string lang="es">Amortiguador de Choque</string>
@@ -891,7 +891,7 @@
 		<string lang="de">Plasma-Entlader</string>
 		<string lang="en">Plasma Discharger</string>
 		<string lang="fr">Déchargeur de Plasma</string>
-		<string lang="zh">等离子体卸能器</string>
+		<string lang="zh">等离子体放能器</string>
 		<string lang="jp">プラズマディスチャージャー</string>
         <string lang="ru">Плазменный Разрядник</string>
         <string lang="es">Descargador de Plasma</string>
@@ -902,7 +902,7 @@
 		<string lang="de">Pulsar</string>
 		<string lang="en">Pulsar</string>
 		<string lang="fr">Pulsar</string>
-		<string lang="zh">脉冲星</string>
+		<string lang="zh">脉冲源</string>
 		<string lang="jp">パルサー</string>
 		<string lang="ru">Пульсар</string>
 		<string lang="es">Púlsar</string>
@@ -913,7 +913,7 @@
 		<string lang="de">Austeritäts-Zelle $MODIFICATIONVALUE$</string>
 		<string lang="en">Austerity Cell $MODIFICATIONVALUE$</string>
 		<string lang="fr">Pile Austérité $MODIFICATIONVALUE$</string>
-		<string lang="zh">节约电池 $MODIFICATIONVALUE$</string>
+		<string lang="zh">节能电池 $MODIFICATIONVALUE$</string>
 		<string lang="jp">アスタリティーセル $MODIFICATIONVALUE$</string>
         <string lang="ru">Аустерити-ячейка $MODIFICATIONVALUE$</string>
         <string lang="es">Celda de Austeridad $MODIFICATIONVALUE$</string>
@@ -924,7 +924,7 @@
 		<string lang="de">Demontierer</string>
 		<string lang="en">Disassembler</string>
 		<string lang="fr">Démonteur</string>
-		<string lang="zh">拆卸器</string>
+		<string lang="zh">分解器</string>
 		<string lang="jp">ディサセンブラー</string>
 		<string lang="ru">Демонтажник</string>
 		<string lang="es">Desmontador</string>
@@ -946,7 +946,7 @@
 		<string lang="de">Instabiler Duplikator</string>
 		<string lang="en">Unstable Duplicator</string>
 		<string lang="fr">Duplicateur Instable</string>
-		<string lang="zh">不稳定的复制器</string>
+		<string lang="zh">不稳定复制器</string>
 		<string lang="jp">不安定な複製機</string>
         <string lang="ru">Нестабильный Дубликатор</string>
         <string lang="es">Duplicador Inestable</string>
@@ -1045,7 +1045,7 @@
 		<string lang="de">Durchsatz-Turbo</string>
 		<string lang="en">Passthrough-Turbo</string>
 		<string lang="fr">Turbo de Passage</string>
-		<string lang="zh">通行加速器</string>
+		<string lang="zh">中继加速器</string>
 		<string lang="jp">パススルーターボ</string>
 		<string lang="ru">Турбо-проходник</string>
 		<string lang="es">Turbo de Pasaje</string>
