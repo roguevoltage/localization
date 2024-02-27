@@ -286,27 +286,15 @@
 </set>
 <set id="modalities-difficulty-0">
 		<string lang="en">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap&lt;/color&gt;</string>
 </set>
 <set id="modalities-difficulty-1">
 		<string lang="en"></string>
-		<string lang="zh"></string>
-		<string lang="jp"></string>
-		<string lang="kr"></string>
 </set>
 <set id="modalities-difficulty-2">
 		<string lang="en">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
 </set>
 <set id="modalities-difficulty-3">
-		<string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap$br$Cannot revive from loot screen&lt;/color&gt;</string>
 </set>
 <set id="name-backpack">
 		<string lang="de">Rucksack</string>
@@ -896,6 +884,17 @@
 		<string lang="kr">보상 획득</string>
 		<string lang="pt-br">Recompensa coletada</string>
 </set>
+<set id="ui-loot-revive">
+		<string lang="de">Wiederbeleben$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="en">Revive$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="fr">Résurrecterbr$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="zh">复苏$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="jp">蘇生$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="ru">Реанимировать$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="es">Resucitar$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="kr">부활$br$(-$REVIVECOST$ $plasmaicon$)</string>
+		<string lang="pt-br">Ressuscitar$br$(-$REVIVECOST$ $plasmaicon$)</string>
+</set>
 <set id="ui-loot-skip">
 		<string lang="de">Über-$br$springen$br$(+$SKIPBONUS$ $plasmaicon$)</string>
 		<string lang="en">Skip$br$(+$SKIPBONUS$ $plasmaicon$)</string>
@@ -1003,7 +1002,7 @@
 </set>
 <set id="ui-revive">
 		<string lang="de">Wiederbeleben</string>
-		<string lang="en">Resuscitate</string>
+		<string lang="en">Revive</string>
 		<string lang="fr">Résurrection</string>
 		<string lang="zh">复苏</string>
 		<string lang="jp">蘇生</string>
