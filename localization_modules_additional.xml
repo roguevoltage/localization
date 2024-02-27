@@ -193,7 +193,7 @@
 		<string lang="zh">制造一个通用的带有 $cracked$ 的$复苏 屏幕$/b$。</string>
 		<string lang="jp">$cracked$を搭載した一般的な$b$リバイタライジング スクリーン$/b$を作成します。</string>
 		<string lang="ru">Создает универсальный $b$Оживляющий экран$/b$$br$с $cracked$.</string>
-		<string lang="es">Construye un $b$Pantalla Revitalizante$/b$ universal$br$con $cracked$.</string>
+		<string lang="es">Construye una $b$Pantalla Revitalizante$/b$ universal$br$con $cracked$.</string>
 		<string lang="kr">$cracked$가 있는 일반적인 $b$회복 물약 화면$/b$를 만듭니다.</string>
 		<string lang="pt-br">Constrói um $b$Tela Revitalizante$/b$ universal$br$com $cracked$.</string>
 </set>
@@ -335,7 +335,7 @@
 		<string lang="zh">如果此机架上的另一个模块即将获得$outoforder$，此模块将代替其接收$outoforder$。</string>
 		<string lang="jp">このラックの他のモジュールが$outoforder$を受ける場合、代わりにこのモジュールが$outoforder$を受けます。</string>
 		<string lang="ru">Если другой модуль на этой стойке должен получить $outoforder$, этот модуль получает $outoforder$ вместо него.</string>
-		<string lang="es">Si otro módulo en este rack debería recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
+		<string lang="es">Si otro módulo en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
 		<string lang="kr">이 랙의 다른 모듈이 $outoforder$를 받아야 할 경우, 대신 이 모듈이 $outoforder$를 받습니다.</string>
 </set>
 <set id="description-module-passivestormlantern">
@@ -345,7 +345,7 @@
 		<string lang="zh">$storm$也会伤害敌人。$br$在拥有者回合开始时，将风暴提前吸引$3$时刻（直到$b$+1$/b$）。</string>
 		<string lang="jp">$storm$は敵にも当たります。$p$所有者のターンの開始時に、$storm$を最大で$3$タイム ステップ（最小距離は$b$+1$/b$）引き寄せます。</string>
 		<string lang="ru">$storm$ также поражает врагов.$p$В начале хода владельца привлекает $storm$ на до $3$ шагов времени (минимальное расстояние $b$+1$/b$).</string>
-		<string lang="es">$storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae el $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
+		<string lang="es">La $storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae la $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
 		<string lang="kr">$storm$도 적에게 공격합니다.$p$소유자의 턴이 시작될 때, $storm$을 최대 $3$ 시간 단계까지 (최소 거리 $b$+1$/b$) 끌어당깁니다.</string>
 		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno do dono, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
 </set>
@@ -422,7 +422,7 @@
 		<string lang="zh">颠倒所有角色的当前 $grav$。</string>
 		<string lang="jp">すべての戦闘参加者の現在の$grav$を反転します。</string>
 		<string lang="ru">Инвертирует текущий $grav$ у всех бойцов.</string>
-		<string lang="es">Invierte el $grav$ actual de todos los combatientes.</string>
+		<string lang="es">Invierte la $grav$ actual de todos los combatientes.</string>
 		<string lang="kr">모든 전투원의 현재 $grav$를 반전시킵니다.</string>
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 </set>
@@ -433,7 +433,7 @@
 		<string lang="zh">永久地将 $gravvacuum$ 应用于本机架上尚未拥有 $gravvacuum$ 的目标 $passthroughmodule$。</string>
 		<string lang="jp">このラックの$gravvacuum$を持っていないターゲット$passthroughmodule$に$gravvacuum$を永久に適用します。</string>
 		<string lang="ru">Навсегда применяет $gravvacuum$ к целевому $passthroughmodule$ на этой стойке, который еще не имеет $gravvacuum$.</string>
-		<string lang="es">Aplica $gravvacuum$ permanentemente al módulo $passthroughmodule$ objetivo en este rack que aún no tiene $gravvacuum$.</string>
+		<string lang="es">Aplica $gravvacuum$ de forma permanente a un módulo $passthroughmodule$ que aún no tenga $gravvacuum$ en este bastidor .</string>
 		<string lang="kr">이 랙의 $gravvacuum$가 없는 대상 $passthroughmodule$에 영구적으로 $gravvacuum$를 적용합니다.</string>
 </set>
 <set id="description-module-toggledgrenadegravimmunity">
@@ -454,7 +454,7 @@
 		<string lang="zh">颠倒所有角色的当前 $grav$。</string>
 		<string lang="jp">すべての戦闘参加者の現在の$grav$を反転します。</string>
 		<string lang="ru">Инвертирует текущий $grav$ у всех бойцов.</string>
-		<string lang="es">Invierte el $grav$ actual de todos los combatientes.</string>
+		<string lang="es">Invierte la $grav$ actual de todos los combatientes.</string>
 		<string lang="kr">모든 전투원의 현재 $grav$를 반전시킵니다.</string>
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 </set>
@@ -509,7 +509,7 @@
 		<string lang="zh">将$turbo$应用于本机架上的目标$passthroughmodule$。</string>
 		<string lang="jp">このラックのターゲット$passthroughmodule$に$turbo$を適用します。</string>
 		<string lang="ru">Применяет $turbo$ к целевому $passthroughmodule$ на этой стойке.</string>
-		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo en este rack.</string>
+		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에 $turbo$를 적용합니다.</string>
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
 </set>
@@ -729,7 +729,7 @@
 		<string lang="zh">复苏屏工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">リヴィタライジングスクリーン工場 $MODIFICATIONVALUE$</string>
 		<string lang="ru">Фабрика Восстановительных Экранов $MODIFICATIONVALUE$</string>
-		<string lang="es">Fábrica de Pantalla Revitalizante $MODIFICATIONVALUE$</string>
+		<string lang="es">Fábrica de Pantallas Revitalizantes $MODIFICATIONVALUE$</string>
 		<string lang="kr">회복 스크린 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Tela Revitalizante $MODIFICATIONVALUE$</string>
 </set>
@@ -740,7 +740,7 @@
 		<string lang="zh">湍流工厂 $MODIFICATIONVALUE$</string>
 		<string lang="jp">タービュランス工場 $MODIFICATIONVALUE$</string>
         <string lang="ru">Фабрика Турбулентности $MODIFICATIONVALUE$</string>
-        <string lang="es">Fábrica de Turbulencia $MODIFICATIONVALUE$</string>
+        <string lang="es">Fábrica de Turbulencias $MODIFICATIONVALUE$</string>
         <string lang="kr">폭풍 공장 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Fábrica de Turbulência $MODIFICATIONVALUE$</string>
 </set>
@@ -982,7 +982,7 @@
 		<string lang="zh">通行真空器</string>
 		<string lang="jp">パススルーバキューマイザー</string>
 		<string lang="ru">Вакууматор-проходник</string>
-		<string lang="es">Vacuuminador de Pasaje</string>
+		<string lang="es">Sellador de Pasajes</string>
 		<string lang="kr">통과 진공기</string>
 		<string lang="pt-br">Vácuo de Passagem</string>
 </set>
@@ -1070,7 +1070,7 @@
 		<string lang="zh">加速电池 $MODIFICATIONVALUE$</string>
 		<string lang="jp">アクセルセレーションセル $MODIFICATIONVALUE$</string>
 		<string lang="ru">Ускорительная Ячейка $MODIFICATIONVALUE$</string>
-		<string lang="es">Celda de Aceleración $MODIFICATIONVALUE$</string>
+		<string lang="es">Célula de Aceleración $MODIFICATIONVALUE$</string>
 		<string lang="kr">가속 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 </set>
