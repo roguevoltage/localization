@@ -22,15 +22,15 @@
 		<string lang="pt-br">Não acumule módulos de uso único ($cracked$), mas use seu forte efeito único para garantir uma classificação $gold$ ou terminar um combate que está saindo do controle.</string>
 </set>
 <set id="advice-deceleration">
-		<string lang="de">Einen Gegner zu verlangsamen ist nachhaltig nützlich, auch wenn du nicht die Ausrichtung für das Klingenmodul erreichen kannst.</string>
-		<string lang="en">Decelerating an enemy is useful even if you can't achieve an alignment for the blade module.</string>
-		<string lang="fr">Ralentir un ennemi est utile même si vous ne pouvez pas obtenir un alignement pour le module lame.</string>
-		<string lang="zh">哪怕用了减速模块也不能对齐回合来使用战斧模块，减速敌人本身也很有用。</string>
-		<string lang="jp">敵を減速させることは、ブレードモジュールのアライメントを達成できなくても役立ちます。</string>
-		<string lang="ru">Замедление врага полезно даже если вы не можете достичь выравнивания для модуля лезвия.</string>
-		<string lang="es">Decelerar a un enemigo es útil incluso si no puedes lograr una alineación para el módulo de la cuchilla.</string>
-		<string lang="kr">적을 감속시키는 것은 칼날 모듈의 정렬을 달성할 수 없더라도 유용합니다.</string>
-		<string lang="pt-br">Desacelerar um inimigo é útil mesmo se você não conseguir um alinhamento para o módulo da lâmina.</string>
+		<string lang="de">Unterschätze nicht die Wirksamkeit, einen Gegner einfach zu verlangsamen.</string>
+		<string lang="en">Dont underestimate the effectiveness of simply slowing down an enemy.</string>
+        <string lang="fr">Ne sous-estimez pas l'efficacité de simplement ralentir un ennemi.</string>
+        <string lang="zh">不要低估简单地减缓敌人速度的效果。</string>
+        <string lang="jp">単に敵を遅くする効果を過小評価しないでください。</string>
+        <string lang="ru">Не недооценивайте эффективность простого замедления врага.</string>
+        <string lang="es">No subestimes la efectividad de simplemente ralentizar a un enemigo.</string>
+        <string lang="kr">적을 단순히 늦추는 효과를 과소 평가하지 마십시오.</string>
+        <string lang="pt-br">Não subestime a eficácia de simplesmente desacelerar um inimigo.</string>
 </set>
 <set id="advice-draft">
 		<string lang="de">Wenn du Loot-Module auswählst, achte auf eine gute Balance zwischen Energiequellen, Durchsatzmodulen und Effektoren.</string>
@@ -66,15 +66,26 @@
 		<string lang="pt-br">Verifique os movimentos do inimigo em busca de fontes de interrupção, como $grav$ ou $crust$.</string>
 </set>
 <set id="advice-energy">
-		<string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, zählt. Versuche, Energie auf Sensor-Modulen nicht verpuffen zu lassen.</string>
-		<string lang="en">Every point of $energy$ you can generate is meaningful. Try to not let energy on sensor modules dissipate.</string>
-		<string lang="fr">Chaque point d'$energy$ que vous pouvez générer est important. Essayez de ne pas laisser l'énergie sur les modules de capteurs se dissiper.</string>
-		<string lang="zh">产生的每一点 $energy$ 都很重要。尽量不要让传感器模块上的能量消散。</string>
-		<string lang="jp">あなたが生成できる$energy$の各ポイントは重要です。センサーモジュールのエネルギーが消散しないようにしてください。</string>
-		<string lang="ru">Каждый пункт $energy$, который вы можете сгенерировать, важен. Постарайтесь не допустить рассеивание энергии на сенсорных модулях.</string>
-		<string lang="es">Cada punto de $energy$ que puedas generar es importante. Intenta no dejar que la energía en los módulos sensores se disipe.</string>
-		<string lang="kr">생성할 수 있는 $energy$의 모든 점수는 의미가 있습니다. 센서 모듈의 에너지가 소멸하지 않도록하십시오.</string>
-		<string lang="pt-br">Cada ponto de $energy$ que você pode gerar é significativo. Tente não deixar a energia nos módulos de sensores se dissipar.</string>
+		<string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, zählt.</string>
+		<string lang="en">Every point of $energy$ you can generate is meaningful.</string>
+		<string lang="fr">Chaque point d'$energy$ que vous pouvez générer est important.</string>
+		<string lang="zh">产生的每一点 $energy$ 都很重要。</string>
+		<string lang="jp">あなたが生成できる$energy$の各ポイントは重要です。</string>
+		<string lang="ru">Каждый пункт $energy$, который вы можете сгенерировать, важен.</string>
+		<string lang="es">Cada punto de $energy$ que puedas generar es importante.</string>
+		<string lang="kr">생성할 수 있는 $energy$의 모든 점수는 의미가 있습니다.</string>
+		<string lang="pt-br">Cada ponto de $energy$ que você pode gerar é significativo.</string>
+</set>
+<set id="advice-energy-2">
+		<string lang="de">Versuche, Energie auf Sensor-Modulen nicht verpuffen zu lassen.</string>
+		<string lang="en">Try to not let energy on sensor modules dissipate.</string>
+		<string lang="fr">Essayez de ne pas laisser l'énergie sur les modules de capteurs se dissiper.</string>
+		<string lang="zh">尽量不要让传感器模块上的能量消散。</string>
+		<string lang="jp">センサーモジュールのエネルギーが消散しないようにしてください。</string>
+		<string lang="ru">Постарайтесь не допустить рассеивание энергии на сенсорных модулях.</string>
+		<string lang="es">Intenta no dejar que la energía en los módulos sensores se disipe.</string>
+		<string lang="kr">센서 모듈의 에너지가 소멸하지 않도록하십시오.</string>
+		<string lang="pt-br">Tente não deixar a energia nos módulos de sensores se dissipar.</string>
 </set>
 <set id="advice-exhaustion">
 		<string lang="de">Wenn du einen $generator$ aktivierst, wird dein nächster Zug um dessen Erschöpfungswert zurückgesetzt.</string>

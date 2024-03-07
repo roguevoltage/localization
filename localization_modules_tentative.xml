@@ -59,6 +59,50 @@
 		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
+<set id="name-module-modifiercyclotron">
+		<string lang="de">Zyklotron $MODIFICATIONVALUE$</string>
+		<string lang="en">Cyclotron $MODIFICATIONVALUE$</string>
+		<string lang="fr">Cyclotron $MODIFICATIONVALUE$</string>
+		<string lang="zh">环状加速器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">サイクロトロン $MODIFICATIONVALUE$</string>
+        <string lang="ru">Циклотрон $MODIFICATIONVALUE$</string>
+        <string lang="es">Ciclotrón $MODIFICATIONVALUE$</string>
+        <string lang="kr">사이클로트론 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Ciclotron $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-modifiercyclotron">
+		<string lang="de">Verändert die Farbe eines Stroms.</string>
+		<string lang="en">Changes the color of a current.</string>
+		<string lang="fr">Change la couleur d'un courant.</string>
+		<string lang="zh">修改一个电流的颜色。</string>
+		<string lang="jp">電流の色を変更します。</string>
+		<string lang="ru">Изменяет цвет тока.</string>
+		<string lang="es">Cambia el color de una corriente.</string>
+		<string lang="kr">전류의 색상을 변경합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+</set>
+<set id="name-module-modifiermolten">
+		<string lang="de">Geschmolzene Trümmer</string>
+		<string lang="en">Molten Debris</string>
+		<string lang="fr">Débris Carbonisés</string>
+		<string lang="zh">烧焦碎片</string>
+		<string lang="jp">Molten Debris</string>
+        <string lang="ru">Расплавленные Обломки</string>
+        <string lang="es">Escombros Fundidos</string>
+        <string lang="kr">녹아내린 잔해</string>
+        <string lang="pt-br">Detritos Derretidos</string>
+</set>
+<set id="description-module-modifiermolten">
+		<string lang="de">Verändert die Farbe eines Stroms.</string>
+		<string lang="en">Changes the color of a current.</string>
+		<string lang="fr">Change la couleur d'un courant.</string>
+		<string lang="zh">修改一个电流的颜色。</string>
+		<string lang="jp">電流の色を変更します。</string>
+		<string lang="ru">Изменяет цвет тока.</string>
+		<string lang="es">Cambia el color de una corriente.</string>
+		<string lang="kr">전류의 색상을 변경합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+</set>
 <set id="name-module-toggledgrenadestorm">
 		<string lang="de">Sturm-Granate</string>
 		<string lang="en">Storm Grenade</string>
@@ -77,6 +121,28 @@
         <string lang="es">Empuja la $storm$ hacia atrás$br$por $b$10$/b$ pasos de tiempo.</string>
         <string lang="kr">$storm$를 $b$10$/b$ 시간 단계로 밀어냅니다.</string>
         <string lang="pt-br">Empurra $storm$$br$por $b$10$/b$ passos de tempo.</string>
+</set>
+<set id="name-module-pulsar">
+		<string lang="de">Pulsar</string>
+		<string lang="en">Pulsar</string>
+		<string lang="fr">Pulsar</string>
+		<string lang="zh">脉冲源</string>
+		<string lang="jp">パルサー</string>
+		<string lang="ru">Пульсар</string>
+		<string lang="es">Púlsar</string>
+		<string lang="kr">펄서</string>
+		<string lang="pt-br">Pulsar</string>
+</set>
+<set id="description-module-pulsar">
+		<string lang="de">Modifiziert einen Strom.</string>
+		<string lang="en">Modifies a current.</string>
+		<string lang="fr">Modifie un courant.</string>
+		<string lang="zh">修改一个电流。</string>
+		<string lang="jp">電流を変更します。</string>
+		<string lang="ru">Модифицирует ток.</string>
+		<string lang="es">Modifica una corriente.</string>
+		<string lang="kr">전류를 수정합니다.</string>
+		<string lang="pt-br">Modifica uma corrente.</string>
 </set>
 <set id="name-module-toggledstormrepeller">
 		<string lang="en">Storm Repeller</string>

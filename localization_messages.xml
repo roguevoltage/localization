@@ -33,16 +33,26 @@
 		<string lang="pt-br">BUG: $TURN$ não tem ator</string>
 </set>
 <set id="chatmessage-vote-ended">
+        <string lang="de">Abstimmung Beendet</string>
 		<string lang="en">Voting Ended</string>
-		<string lang="zh">Voting Ended</string>
-		<string lang="jp">Voting Ended</string>
-		<string lang="kr">Voting Ended</string>
+        <string lang="fr">Vote Terminé</string>
+        <string lang="zh">投票结束</string>
+        <string lang="jp">投票終了</string>
+        <string lang="ru">Голосование завершено</string>
+        <string lang="es">Votación Terminada</string>
+        <string lang="kr">투표 종료</string>
+        <string lang="pt-br">Votação Encerrada</string>
 </set>
 <set id="chatmessage-vote-started">
+        <string lang="de">Anfang der Abstimmung! Um abzustimmen, sende</string>
 		<string lang="en">Voting Started! To vote send</string>
-		<string lang="zh">Voting Started! To vote send</string>
-		<string lang="jp">Voting Started! To vote send</string>
-		<string lang="kr">Voting Started! To vote send</string>
+        <string lang="fr">Vote Commencé! Pour voter, envoyez</string>
+        <string lang="zh">投票开始！要投票，请发送</string>
+        <string lang="jp">投票開始！投票するには、送信してください</string>
+        <string lang="ru">Голосование началось! Чтобы проголосовать, отправьте</string>
+        <string lang="es">¡Votación Iniciada! Para votar, envía</string>
+        <string lang="kr">투표 시작! 투표하려면 보내세요</string>
+        <string lang="pt-br">Votação Iniciada! Para votar, envie</string>
 </set>
 <set id="error-cannotwirecircular">
 		<string lang="de">Kann nicht zirkulär verkabeln</string>

@@ -4,191 +4,165 @@
 		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
 		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
 		<string lang="zh">对敌人造成 $2damage$ 并使自身获得 $grav+2$ 状态。</string>
-		<string lang="ja">敵に $2damage$ と $grav+2$ を付与する。</string>
-		<string lang="jp">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
-		<string lang="kr">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
-</set>
-<set id="description-skill-beesting">
-		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$.</string>
-		<string lang="en">Deals $1damage$ and inflicts $vulnerable$.</string>
-		<string lang="fr">Inflige à un ennemi $1damage$ et $vulnerable$.</string>
-		<string lang="zh">造成 $1damage$ 并使敌人获得易伤状态。</string>
-		<string lang="ja">敵に $1damage$ と $vulnerable$ を付与する。</string>
-		<string lang="jp">Deals $1damage$ and inflicts $vulnerable$.</string>
-		<string lang="kr">Deals $1damage$ and inflicts $vulnerable$.</string>
-</set>
-<set id="description-skill-enemyspawn-bees">
-		<string lang="de">n/a</string>
-		<string lang="en">Summons two bees.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Summons two bees.</string>
-		<string lang="jp">Summons two bees.</string>
-		<string lang="kr">Summons two bees.</string>
+		<string lang="jp">敵に $2damage$ と $grav+2$ を付与する。</string>
+		<string lang="ru">Наносит $2damage$ врагу и накладывает на себя $grav+2$.</string>
+        <string lang="es">Inflige $2damage$ a un enemigo y se inflige $grav+2$.</string>
+        <string lang="kr">적에게 $2damage$를 입히고 $grav+2$를 자신에게 부여합니다.</string>
+        <string lang="pt-br">Causa $2damage$ a um inimigo e se inflige $grav+2$.</string>
 </set>
 <set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
 		<string lang="en">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
-		<string lang="jp">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
-		<string lang="kr">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
-</set>
-<set id="description-skill-enemyspawn-goblinbomb">
-		<string lang="de">Ruft einen $b$Bomben-Goblin$/b$ herbei.</string>
-		<string lang="en">Summons a $b$Bomb Goblin$/b$.</string>
-		<string lang="fr">Invoque un $b$Gobelin Bombe$/b$.</string>
-		<string lang="zh">Summons a $b$Bomb Goblin$/b$.</string>
-		<string lang="jp">Summons a $b$Bomb Goblin$/b$.</string>
-		<string lang="kr">Summons a $b$Bomb Goblin$/b$.</string>
-</set>
-<set id="description-skill-enemyspawn-livingbomb">
-		<string lang="de">Stellt zwei $b$Explosive Apparate$/b$ her.</string>
-		<string lang="en">Creates two $b$Explosive Contraptions$/b$.</string>
-		<string lang="fr">Crée deux $b$Appareils Explosifs$/b$.</string>
-		<string lang="zh">Creates two $b$Explosive Contraptions$/b$.</string>
-		<string lang="jp">Creates two $b$Explosive Contraptions$/b$.</string>
-		<string lang="kr">Creates two $b$Explosive Contraptions$/b$.</string>
-</set>
-<set id="description-skill-enemyspawn-owl">
-		<string lang="de">Ruft eine Eule herbei.</string>
-		<string lang="en">Summons an Owl</string>
-		<string lang="fr">Invoque un hibou.</string>
-		<string lang="zh">Summons an Owl</string>
-		<string lang="jp">Summons an Owl</string>
-		<string lang="kr">Summons an Owl</string>
-</set>
-<set id="description-skill-globalplasmadissipation">
-		<string lang="en">Removes up to $2$ $plasma$.</string>
-		<string lang="zh">Removes up to $2$ $plasma$.</string>
-		<string lang="jp">Removes up to $2$ $plasma$.</string>
-		<string lang="kr">Removes up to $2$ $plasma$.</string>
-</set>
-<set id="description-skill-gravabsorb">
-		<string lang="de">Absorbiert $grav+$ als Heilung.</string>
-		<string lang="en">Absorbs $grav+$ as healing.</string>
-		<string lang="fr">Absorbe $grav+$ comme soins.</string>
-		<string lang="zh">Absorbs $grav+$ as healing.</string>
-		<string lang="jp">Absorbs $grav+$ as healing.</string>
-		<string lang="kr">Absorbs $grav+$ as healing.</string>
+		<string lang="fr">Invoque un $b$Oeuf de Graviraptor$/b$$br$- ou -$br$accorde à un œuf existant $1$ $might$.</string>
+        <string lang="zh">召唤一个 $b$Graviraptor Egg$/b$$br$- 或 -$br$给现有的蛋 $1$ $might$。</string>
+        <string lang="jp">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
+        <string lang="ru">Призывает $b$Graviraptor Egg$/b$$br$- или -$br$предоставляет существующему яйцу $1$ $might$.</string>
+        <string lang="es">Invoca un $b$Graviraptor Egg$/b$$br$- o -$br$concede a un huevo existente $1$ $might$.</string>
+        <string lang="kr">$b$Graviraptor Egg$/b$를 소환합니다.$br$- 또는 -$br$기존의 알에 $1$ $might$를 부여합니다.</string>
+        <string lang="pt-br">Invoca um $b$Graviraptor Egg$/b$$br$- ou -$br$concede a um ovo existente $1$ $might$.</string>
 </set>
 <set id="description-skill-gravamplificationglobal">
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
 		<string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
 		<string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $gravamplification$.</string>
 		<string lang="zh">使所有在同一时间步的战斗者获得 $gravamplification$ 状态。</string>
-		<string lang="ja">敵に $gravamplification$ を付与する。</string>
-		<string lang="jp">Inflicts all combatants on the same time step with $gravamplification$.</string>
-		<string lang="kr">Inflicts all combatants on the same time step with $gravamplification$.</string>
+		<string lang="jp">敵に $gravamplification$ を付与する。</string>
+        <string lang="ru">Накладывает на всех бойцов на одном временном шаге $gravamplification$.</string>
+        <string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo con $gravamplification$.</string>
+        <string lang="kr">같은 시간 단계에 있는 모든 전투자에게 $gravamplification$를 입힙니다.</string>
+        <string lang="pt-br">Inflige a todos os combatentes no mesmo passo de tempo com $gravamplification$.</string>
 </set>
 <set id="description-skill-gravbarrage">
+        <string lang="de">Fügt einem Kampfteilnehmer $grav+1$ zu.$br$Fügt einem Kampfteilnehmer $grav+1$ zu.</string>
 		<string lang="en">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
-		<string lang="zh">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
-		<string lang="jp">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
-		<string lang="kr">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
+        <string lang="fr">Inflige $grav+1$ à un combattant.$br$Inflige $grav+1$ à un combattant.</string>
+        <string lang="zh">对目标战斗者造成 $grav+1$ 伤害。$br$对目标战斗者造成 $grav+1$ 伤害。</string>
+        <string lang="jp">対象の戦闘者に $grav+1$ を与えます。$br$対象の戦闘者に $grav+1$ を与えます。</string>
+        <string lang="ru">Наносит цели $grav+1$.$br$Наносит цели $grav+1$.</string>
+        <string lang="es">Inflige $grav+1$ a un combatiente.$br$Inflige $grav+1$ a un combatiente.</string>
+        <string lang="kr">대상 전투자에게 $grav+1$를 입힙니다.$br$대상 전투자에게 $grav+1$를 입힙니다.</string>
+        <string lang="pt-br">Inflige $grav+1$ a um combatente.$br$Inflige $grav+1$ a um combatente.</string>
 </set>
 <set id="description-skill-gravexplode">
 		<string lang="de">Entfernt $grav+$ vom Charakter und fügt einem Gegner ebenso viel $damage$ zu.</string>
 		<string lang="en">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
-		<string lang="jp">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
-		<string lang="kr">Removes $grav+$ from the owner and deals that much $damage$ to target enemy.</string>
+		<string lang="fr">Enlève $grav+$ au propriétaire et inflige autant de $damage$ à l'ennemi ciblé.</string>
+		<string lang="zh">从所有者身上移除 $grav+$ 并对目标敌人造成同样的 $damage$。</string>
+		<string lang="jp">所有者から $grav+$ を取り除き、その分の $damage$ を対象の敵に与えます。</string>
+		<string lang="ru">Удаляет у владельца $grav+$ и наносит столько же $damage$ целевому врагу.</string>
+		<string lang="es">Elimina $grav+$ del propietario y inflige esa cantidad de $damage$ al enemigo objetivo.</string>
+		<string lang="kr">소유자로부터 $grav+$를 제거하고 그만큼의 $damage$를 대상 적에게 입힙니다.</string>
+		<string lang="pt-br">Remove $grav+$ do proprietário e causa essa quantidade de $damage$ ao inimigo alvo.</string>
 </set>
 <set id="description-skill-gravhowl">
 		<string lang="de">Entfernt alle $grav$ und versieht alle Kampfteilnehmer mit $gravamplification$.</string>
 		<string lang="en">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
-		<string lang="jp">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
-		<string lang="kr">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
+		<string lang="fr">Supprime tous les $grav$ et inflige à tous les combattants $gravamplification$.</string>
+		<string lang="zh">移除所有 $grav$ 并使所有战斗者获得 $gravamplification$。</string>
+		<string lang="jp">全ての $grav$ を取り除き、全ての戦闘者に $gravamplification$ を付与します。</string>
+		<string lang="ru">Удаляет все $grav$ и накладывает на всех бойцов $gravamplification$.</string>
+		<string lang="es">Elimina todo el $grav$ e inflige a todos los combatientes con $gravamplification$.</string>
+		<string lang="kr">모든 $grav$를 제거하고 모든 전투자에게 $gravamplification$을 부여합니다.</string>
+		<string lang="pt-br">Remove todo o $grav$ e inflige todos os combatentes com $gravamplification$.</string>
 </set>
 <set id="description-skill-gravinvert-self">
 		<string lang="de">Kehrt die aktuelle $grav$ des Angreifers um.</string>
 		<string lang="en">Inverts the attackers current $grav$</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inverts the attackers current $grav$</string>
-		<string lang="jp">Inverts the attackers current $grav$</string>
-		<string lang="kr">Inverts the attackers current $grav$</string>
+		<string lang="fr">Inverse le $grav$ actuel de l'attaquant.</string>
+        <string lang="zh">反转攻击者当前的 $grav$</string>
+        <string lang="jp">攻撃者の現在の $grav$ を反転します。</string>
+        <string lang="ru">Инвертирует текущий $grav$ атакующего.</string>
+        <string lang="es">Invierte el $grav$ actual del atacante.</string>
+        <string lang="kr">공격자의 현재 $grav$를 반전시킵니다.</string>
+        <string lang="pt-br">Inverte o $grav$ atual do atacante.</string>
 </set>
 <set id="description-skill-gravneutralize-aoe">
 		<string lang="de">Entfernt alle $grav$ auf allen Kampfteilnehmern.</string>
 		<string lang="en">Removes all $grav$ from all combatants.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Removes all $grav$ from all combatants.</string>
-		<string lang="jp">Removes all $grav$ from all combatants.</string>
-		<string lang="kr">Removes all $grav$ from all combatants.</string>
+		<string lang="fr">Supprime tous les $grav$ de tous les combattants.</string>
+        <string lang="zh">从所有战斗者身上移除所有 $grav$。</string>
+        <string lang="jp">全ての戦闘者から全ての $grav$ を取り除きます。</string>
+        <string lang="ru">Удаляет все $grav$ у всех бойцов.</string>
+        <string lang="es">Elimina todo el $grav$ de todos los combatientes.</string>
+        <string lang="kr">모든 전투자로부터 모든 $grav$를 제거합니다.</string>
+        <string lang="pt-br">Remove todo o $grav$ de todos os combatentes.</string>
 </set>
 <set id="description-skill-gravneutralize-self">
 		<string lang="de">Entfernt alle $grav$ auf sich selbst.</string>
 		<string lang="en">Removes all $grav$ from itself.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Removes all $grav$ from itself.</string>
-		<string lang="jp">Removes all $grav$ from itself.</string>
-		<string lang="kr">Removes all $grav$ from itself.</string>
+		<string lang="fr">Supprime tous les $grav$ de lui-même.</string>
+        <string lang="zh">从自身身上移除所有 $grav$。</string>
+        <string lang="jp">自分自身から全ての $grav$ を取り除きます。</string>
+        <string lang="ru">Удаляет все $grav$ у себя.</string>
+        <string lang="es">Elimina todo el $grav$ de sí mismo.</string>
+        <string lang="kr">자신으로부터 모든 $grav$를 제거합니다.</string>
+        <string lang="pt-br">Remove todo o $grav$ de si mesmo.</string>
 </set>
 <set id="description-skill-gravneutralize-self-geothermaldrone">
 		<string lang="de">Entfernt bis zu $grav+1$ von sich selbst.$br$Versieht ein Module mit $fire$.</string>
 		<string lang="en">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
-		<string lang="jp">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
-		<string lang="kr">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
+		<string lang="fr">Peut supprimer jusqu'à $grav+1$ de lui-même.$br$Inflige un module avec $fire$.</string>
+        <string lang="zh">可能从自身移除 $grav+1$。$br$使一个模块获得 $fire$。</string>
+        <string lang="jp">自分自身から $grav+1$ を取り除くことができます。$br$モジュールに $fire$ を付与します。</string>
+        <string lang="ru">Может удалить до $grav+1$ у себя.$br$Накладывает модулю $fire$.</string>
+        <string lang="es">Puede eliminar hasta $grav+1$ de sí mismo.$br$Inflige un módulo con $fire$.</string>
+        <string lang="kr">자신으로부터 $grav+1$를 제거할 수 있습니다.$br$모듈에 $fire$를 부여합니다.</string>
+        <string lang="pt-br">Pode remover até $grav+1$ de si mesmo.$br$Inflige um módulo com $fire$.</string>
 </set>
 <set id="description-skill-gravpull1">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
-		<string lang="en">Inflicts another combatant with negative $grav-1$</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts another combatant with negative $grav-1$</string>
-		<string lang="jp">Inflicts another combatant with negative $grav-1$</string>
-		<string lang="kr">Inflicts another combatant with negative $grav-1$</string>
+		<string lang="en">Inflicts another combatant with $grav-1$</string>
+		<string lang="fr">Inflige $grav-1$ à un autre combattant</string>
+        <string lang="zh">对另一个战斗者施加 $grav-1$</string>
+        <string lang="jp">別の戦闘者に $grav-1$ を与える</string>
+        <string lang="ru">Наносит другому бойцу $grav-1$</string>
+        <string lang="es">Inflige a otro combatiente con $grav-1$</string>
+        <string lang="kr">다른 전투자에게 $grav-1$를 입힙니다</string>
+        <string lang="pt-br">Inflige outro combatente com $grav-1$</string>
 </set>
 <set id="description-skill-gravpull-pterodactyl">
 		<string lang="de">Fügt sich selbst $grav-1$ zu</string>
 		<string lang="en">Inflicts itself with $grav-1$</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts itself with $grav-1$</string>
-		<string lang="jp">Inflicts itself with $grav-1$</string>
-		<string lang="kr">Inflicts itself with $grav-1$</string>
+		<string lang="fr">Inflige à lui-même $grav-1$</string>
+        <string lang="zh">使自身获得 $grav-1$</string>
+        <string lang="jp">自分自身に $grav-1$ を与える</string>
+        <string lang="ru">Накладывает на себя $grav-1$</string>
+        <string lang="es">Inflige a sí mismo con $grav-1$</string>
+        <string lang="kr">자신에게 $grav-1$를 입힙니다</string>
+        <string lang="pt-br">Inflige a si mesmo com $grav-1$</string>
 </set>
 <set id="description-skill-gravpull-push">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu.$br$Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
 		<string lang="en">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
-		<string lang="jp">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
-		<string lang="kr">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
+		<string lang="fr">Inflige à un autre combattant $grav-1$, puis inflige à un autre combattant $grav+1$.</string>
+        <string lang="zh">对另一个战斗者施加 $grav-1$，然后对另一个战斗者施加 $grav+1$。</string>
+        <string lang="jp">別の戦闘者に $grav-1$ を与え、その後別の戦闘者に $grav+1$ を与えます。</string>
+        <string lang="ru">Наносит другому бойцу $grav-1$, затем наносит другому бойцу $grav+1$.</string>
+        <string lang="es">Inflige a otro combatiente con $grav-1$, luego inflige a otro combatiente con $grav+1$.</string>
+        <string lang="kr">다른 전투자에게 $grav-1$를 입히고, 그 다음에 다른 전투자에게 $grav+1$를 입힙니다.</string>
+        <string lang="pt-br">Inflige outro combatente com $grav-1$, então inflige outro combatente com $grav+1$.</string>
 </set>
 <set id="description-skill-gravpull-volcanoboss">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
 		<string lang="en">Inflicts another combatant with $grav-1$</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts another combatant with $grav-1$</string>
-		<string lang="jp">Inflicts another combatant with $grav-1$</string>
-		<string lang="kr">Inflicts another combatant with $grav-1$</string>
-</set>
-<set id="description-skill-gravpush-2-gravadillo">
-		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Spielercharakter ist, versieht ein Modul mit $selfencrusting$.</string>
-		<string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
-		<string lang="fr">Ralentit un combattant</string>
-		<string lang="zh">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
-		<string lang="jp">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
-		<string lang="kr">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
-</set>
-<set id="description-skill-gravshield-gravadillo">
-		<string lang="de">Entfernt alle $grav+$ und fügt sich selbst den $damage$ to $grav+short$ Status zu.</string>
-		<string lang="en">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
-		<string lang="jp">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
-		<string lang="kr">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
+		<string lang="fr">Inflige à un autre combattant $grav-1$</string>
+        <string lang="zh">对另一个战斗者施加 $grav-1$</string>
+        <string lang="jp">別の戦闘者に $grav-1$ を与える</string>
+        <string lang="ru">Наносит другому бойцу $grav-1$</string>
+        <string lang="es">Inflige a otro combatiente con $grav-1$</string>
+        <string lang="kr">다른 전투자에게 $grav-1$를 입힙니다</string>
+        <string lang="pt-br">Inflige outro combatente com $grav-1$</string>
 </set>
 <set id="description-skill-gravspore-negative">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav-1$ zu</string>
 		<string lang="en">Inflicts all other combatants with $grav-1$</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts all other combatants with $grav-1$</string>
-		<string lang="jp">Inflicts all other combatants with $grav-1$</string>
-		<string lang="kr">Inflicts all other combatants with $grav-1$</string>
+		<string lang="fr">Inflige à tous les autres combattants $grav-1$</string>
+        <string lang="zh">对所有其他战斗者施加 $grav-1$</string>
+        <string lang="jp">全ての他の戦闘者に $grav-1$ を与える</string>
+        <string lang="ru">Наносит всем другим бойцам $grav-1$</string>
+        <string lang="es">Inflige a todos los demás combatientes con $grav-1$</string>
+        <string lang="kr">다른 모든 전투자에게 $grav-1$를 입힙니다</string>
+        <string lang="pt-br">Inflige a todos os outros combatentes com $grav-1$</string>
 </set>
 <set id="description-skill-gravstomp-brachiosaurus">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $1damage$ und $grav+2$ zu.</string>
@@ -199,162 +173,97 @@
 		<string lang="ru">Наносит $grav+2$ и $1damage$ всем бойцам на одном временном шаге.</string>
 		<string lang="es">Inflige $1damage$ y $grav+2$ a todos los combatientes en el mismo paso de tiempo.</string>
 		<string lang="kr">Inflicts all combatants on the same time step with $1damage$ and $grav+2$.</string>
+        <string lang="pt-br">Inflige $1damage$ e $grav+2$ a todos os combatentes no mesmo passo de tempo.</string>
 </set>
 <set id="description-skill-gravtackle-rhino">
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $gravamplification$.</string>
 		<string lang="en">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
-		<string lang="zh">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
-		<string lang="jp">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
-		<string lang="kr">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi et lui inflige $gravamplification$.</string>
+        <string lang="zh">对敌人造成 $1damage$ 并使其获得 $gravamplification$。</string>
+        <string lang="jp">敵に $1damage$ と $gravamplification$ を付与する。</string>
+        <string lang="ru">Наносит врагу $1damage$ и накладывает на него $gravamplification$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo y le aplica $gravamplification$.</string>
+        <string lang="kr">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo e aplica $gravamplification$.</string>
 </set>
 <set id="description-skill-hatch-dynosaur">
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Dynosaurus$/b$ schlüpfen zu lassen.</string>
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
-		<string lang="jp">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
-		<string lang="kr">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
+		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Dynosaur$/b$.</string>
+        <string lang="zh">如果 $might$ 是满的，它会毁灭自己来孵化一个 $b$Dynosaur$/b$。</string>
+        <string lang="jp">$might$ が満タンの場合、自分自身を破壊して $b$Dynosaur$/b$ を孵化します。</string>
+        <string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Dynosaur$/b$.</string>
+        <string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Dynosaur$/b$.</string>
+        <string lang="kr">$might$가 가득 차 있으면, 자신을 파괴하여 $b$Dynosaur$/b$를 생성합니다.</string>
+        <string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Dynosaur$/b$.</string>
 </set>
 <set id="description-skill-hatch-graviraptor">
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Graviraptor$/b$ schlüpfen zu lassen.</string>
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
-		<string lang="jp">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
-		<string lang="kr">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
+        <string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Graviraptor$/b$.</string>
+        <string lang="zh">如果 $might$ 是满的，它会毁灭自己来孵化一个 $b$Graviraptor$/b$。</string>
+        <string lang="jp">$might$ が満タンの場合、自分自身を破壊して $b$Graviraptor$/b$ を孵化します。</string>
+        <string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Graviraptor$/b$.</string>
+        <string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Graviraptor$/b$.</string>
+        <string lang="kr">$might$가 가득 차 있으면, 자신을 파괴하여 $b$Graviraptor$/b$를 생성합니다.</string>
 </set>
 <set id="description-skill-hatch-phoenix">
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Phoenix$/b$ schlüpfen zu lassen.</string>
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
-		<string lang="jp">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
-		<string lang="kr">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
-</set>
-<set id="description-skill-heal">
-		<string lang="de">Heilt einen Verbündeten</string>
-		<string lang="en">Heals an ally</string>
-		<string lang="fr">Soigne un allié</string>
-		<string lang="zh">Heals an ally</string>
-		<string lang="jp">Heals an ally</string>
-		<string lang="kr">Heals an ally</string>
-</set>
-<set id="description-skill-healingrain">
-		<string lang="de">Heilt alle Kampfteilnehmer auf dem gleichen Zeitschritt um $2$.</string>
-		<string lang="en">Heals all combatants on the same time step by $2$.</string>
-		<string lang="fr">Description n/a</string>
-		<string lang="zh">Heals all combatants on the same time step by $2$.</string>
-		<string lang="jp">Heals all combatants on the same time step by $2$.</string>
-		<string lang="kr">Heals all combatants on the same time step by $2$.</string>
+        <strng lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Phoenix$/b$.</string>
+        <string lang="zh">如果 $might$ 是满的，它会毁灭自己来孵化一个 $b$Phoenix$/b$。</string>
+        <string lang="jp">$might$ が満タンの場合、自分自身を破壊して $b$Phoenix$/b$ を孵化します。</string>
+        <string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Phoenix$/b$.</string>
+        <string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Phoenix$/b$.</string>
+        <string lang="kr">$might$가 가득 차 있으면, 자신을 파괴하여 $b$Phoenix$/b$를 생성합니다.</string>
 </set>
 <set id="description-skill-modulefire-firegnat">
 		<string lang="de">Fügt einem Gegner $grav+1$ zu und versieht ein Modul mit $fire$.</string>
 		<string lang="en">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
-		<string lang="fr">Inflige deux modules avec $fire$.</string>
-		<string lang="zh">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
-		<string lang="jp">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
-		<string lang="kr">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
+		<string lang="fr">Inflige à un ennemi $grav+1$ et un module avec $fire$.</string>
+        <string lang="zh">对敌人施加 $grav+1$ 并使一个模块获得 $fire$。</string>
+        <string lang="jp">敵に $grav+1$ とモジュールに $fire$ を付与します。</string>
+        <string lang="ru">Наносит врагу $grav+1$ и модулю $fire$.</string>
+        <string lang="es">Inflige a un enemigo con $grav+1$ y un módulo con $fire$.</string>
+        <string lang="kr">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
+        <string lang="pt-br">Inflige um inimigo com $grav+1$ e um módulo com $fire$.</string>
 </set>
 <set id="description-skill-modulefire-volcanoboss">
-		<string lang="de">Feuerstoß $fireicon$</string>
+		<string lang="de">Fügt einem Gegner $1$ $damage$ zu und versieht zwei Module mit $fire$.</string>
 		<string lang="en">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
-		<string lang="zh">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
-		<string lang="jp">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
-		<string lang="kr">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
-</set>
-<set id="description-skill-moduleseal">
-		<string lang="de">Schwächt ein Modul.</string>
-		<string lang="en">Weakens a module.</string>
-		<string lang="fr">Réduit le module.</string>
-		<string lang="zh">Weakens a module.</string>
-		<string lang="jp">Weakens a module.</string>
-		<string lang="kr">Weakens a module.</string>
+        <string lang="fr">Inflige $1$ $damage$ à un ennemi et inflige deux modules avec $fire$.</string>
+        <string lang="zh">对敌人造成 $1$ $damage$ 并使两个模块获得 $fire$。</string>
+        <string lang="jp">敵に $1$ $damage$ とモジュールに $fire$ を付与します。</string>
+        <string lang="ru">Наносит врагу $1$ $damage$ и накладывает на два модуля $fire$.</string>
+        <string lang="es">Inflige $1$ $damage$ a un enemigo y inflige dos módulos con $fire$.</string>
+        <string lang="kr">Deals $1$ $damage$ to an enemy and inflicts two modules with $fire$.</string>
+        <string lang="pt-br">Causa $1$ $damage$ a um inimigo e inflige dois módulos com $fire$.</string>
 </set>
 <set id="description-skill-modulespawn-burningdebris">
+        <string lang="de">Konstruiert ein $b$Brennende Trümmer$/b$-Modul und zwingt es in eins deiner Racks.</string>
 		<string lang="en">Constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
-		<string lang="zh">Constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
-		<string lang="jp">Constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
-		<string lang="kr">Constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
-</set>
-<set id="description-skill-modulespawn-effectorplasmaconverter">
-		<string lang="en">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="zh">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="jp">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="kr">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
-</set>
-<set id="description-skill-modulespawn-mine">
-		<string lang="en">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="zh">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="jp">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="kr">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
-</set>
-<set id="description-skill-modulespawn-modifierviral">
-		<string lang="en">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="jp">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="kr">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
-</set>
-<set id="description-skill-modulespawn-pulsar">
-		<string lang="en">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
-		<string lang="zh">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
-		<string lang="jp">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
-		<string lang="kr">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
-</set>
-<set id="description-skill-naturaldisasterspawn-lightning">
-		<string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
-		<string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
-		<string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la chronologie.</string>
-		<string lang="zh">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
-		<string lang="jp">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
-		<string lang="kr">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
-</set>
-<set id="description-skill-naturaldisasterspawn-lightning-stormboss">
-		<string lang="en">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
-		<string lang="zh">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
-		<string lang="jp">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
-		<string lang="kr">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
-</set>
-<set id="description-skill-nettle">
-		<string lang="de">Fügt einem Gegner $1damage$ zu.</string>
-		<string lang="en">Deals $1damage$ to an enemy</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Deals $1damage$ to an enemy</string>
-		<string lang="jp">Deals $1damage$ to an enemy</string>
-		<string lang="kr">Deals $1damage$ to an enemy</string>
-</set>
-<set id="description-skill-nettle-aoe">
-		<string lang="de">Fügt allen Gegnern $1damage$ zu.</string>
-		<string lang="en">Deals $1damage$ to all enemies.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Deals $1damage$ to all enemies.</string>
-		<string lang="jp">Deals $1damage$ to all enemies.</string>
-		<string lang="kr">Deals $1damage$ to all enemies.</string>
+        <string lang="fr">Construit un module $b$Débris Brûlant$/b$ et le force sur l'un de vos racks.</string>
 </set>
 <set id="description-skill-ondeath-enemyspawn-egg-phoenix">
 		<string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
 		<string lang="en">Leaves a $b$Phoenix Egg$/b$.</string>
 		<string lang="fr">Laisse un $b$Oeuf Phoenix$/b$.</string>
 		<string lang="zh">留下一个 $b$凤凰蛋$/b$。</string>
-		<string lang="ja">$b$フェニックスの卵$/b$ を残す。</string>
-		<string lang="jp">Leaves a $b$Phoenix Egg$/b$.</string>
-		<string lang="kr">Leaves a $b$Phoenix Egg$/b$.</string>
-</set>
-<set id="description-skill-ondeath-gravaoe-minus">
-		<string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
-		<string lang="en">Inflicts all other allies with $grav-1$.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Inflicts all other allies with $grav-1$.</string>
-		<string lang="jp">Inflicts all other allies with $grav-1$.</string>
-		<string lang="kr">Inflicts all other allies with $grav-1$.</string>
+		<string lang="jp">$b$フェニックスの卵$/b$ を残す。</string>
+
+        <string lang="kr">$b$Phoenix Egg$/b$를 남깁니다.</string>
+        <string lang="pt-br">Deixa um $b$Ovo de Fênix$/b$.</string>        
 </set>
 <set id="description-skill-packattack">
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht alle anderen Verbündeten mit $grav-1$.</string>
 		<string lang="en">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
-		<string lang="jp">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
-		<string lang="kr">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
+		<string lang="fr">Inflige $1damage$ à un ennemi et inflige $grav-1$ à tous les alliés.</string>
+        <string lang="zh">对敌人造成 $1damage$ 并使所有其他盟友获得 $grav-1$。</string>
+        <string lang="jp">敵に $1damage$ を与え、全ての他の味方に $grav-1$ を付与します。</string>
+        <string lang="ru">Наносит врагу $1damage$ и накладывает на всех других союзников $grav-1$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo y aplica $grav-1$ a todos los aliados.</string>
+        <string lang="kr">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
+        <string lang="pt-br">Causa $1damage$ a um inimigo e aplica $grav-1$ a todos os aliados.</string>
 </set>
 <set id="description-skill-passive-advancestormonbeginningofturn">
 		<string lang="de">Am Anfang des eigenen Zuges, rückt $storm$ vor.</string>
@@ -548,14 +457,6 @@
 		<string lang="jp">Deals $2damage$ to an enemy and inflicts itself with $vulnerable$.</string>
 		<string lang="kr">Deals $2damage$ to an enemy and inflicts itself with $vulnerable$.</string>
 </set>
-<set id="description-skill-sacrificebee">
-		<string lang="de">Opfert eine Biene, um allen Gegnern $1damage$ zuzufügen.</string>
-		<string lang="en">Sacrifices a bee to deal $1damage$ to all enemies.</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">Sacrifices a bee to deal $1damage$ to all enemies.</string>
-		<string lang="jp">Sacrifices a bee to deal $1damage$ to all enemies.</string>
-		<string lang="kr">Sacrifices a bee to deal $1damage$ to all enemies.</string>
-</set>
 <set id="description-skill-savage">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und versieht ein Modul mit $cooldown$.</string>
 		<string lang="en">Deals $2damage$ to an enemy and inflicts one module with $cooldown$.</string>
@@ -679,22 +580,6 @@
 		<string lang="zh">冲撞</string>
 		<string lang="jp">打者</string>
 		<string lang="kr">Batter</string>
-</set>
-<set id="name-skill-beesting">
-		<string lang="de">Stachel</string>
-		<string lang="en">Sting</string>
-		<string lang="fr">Piqûre</string>
-		<string lang="zh">蜂刺</string>
-		<string lang="jp">蜂刺</string>
-		<string lang="kr">Sting</string>
-</set>
-<set id="name-skill-enemyspawn-bees">
-		<string lang="de">Larven Erzeugen</string>
-		<string lang="en">Spawn Larvae</string>
-		<string lang="fr">Larves</string>
-		<string lang="zh">Spawn Larvae</string>
-		<string lang="jp">Spawn Larvae</string>
-		<string lang="kr">Spawn Larvae</string>
 </set>
 <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
@@ -1240,14 +1125,6 @@
 		<string lang="zh">Rage</string>
 		<string lang="jp">Rage</string>
 		<string lang="kr">Rage</string>
-</set>
-<set id="name-skill-sacrificebee">
-		<string lang="de">Für den Schwarm</string>
-		<string lang="en">For the Swarm</string>
-		<string lang="fr">Pour la Ruche</string>
-		<string lang="zh">For the Swarm</string>
-		<string lang="jp">For the Swarm</string>
-		<string lang="kr">For the Swarm</string>
 </set>
 <set id="name-skill-savage">
 		<string lang="de">Wilder Angriff $cooldownicon$</string>

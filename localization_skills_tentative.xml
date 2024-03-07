@@ -1,0 +1,186 @@
+<localization>
+    <set id="description-skill-beesting">
+		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$.</string>
+		<string lang="en">Deals $1damage$ and inflicts $vulnerable$.</string>
+		<string lang="fr">Inflige à un ennemi $1damage$ et $vulnerable$.</string>
+		<string lang="zh">造成 $1damage$ 并使敌人获得易伤状态。</string>
+		<string lang="ja">敵に $1damage$ と $vulnerable$ を付与する。</string>
+		<string lang="jp">Deals $1damage$ and inflicts $vulnerable$.</string>
+		<string lang="kr">Deals $1damage$ and inflicts $vulnerable$.</string>
+</set>
+<set id="description-skill-enemyspawn-bees">
+		<string lang="de">n/a</string>
+		<string lang="en">Summons two bees.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Summons two bees.</string>
+		<string lang="jp">Summons two bees.</string>
+		<string lang="kr">Summons two bees.</string>
+</set>
+<set id="description-skill-sacrificebee">
+		<string lang="de">Opfert eine Biene, um allen Gegnern $1damage$ zuzufügen.</string>
+		<string lang="en">Sacrifices a bee to deal $1damage$ to all enemies.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Sacrifices a bee to deal $1damage$ to all enemies.</string>
+		<string lang="jp">Sacrifices a bee to deal $1damage$ to all enemies.</string>
+		<string lang="kr">Sacrifices a bee to deal $1damage$ to all enemies.</string>
+</set>
+<set id="name-skill-beesting">
+		<string lang="de">Stachel</string>
+		<string lang="en">Sting</string>
+		<string lang="fr">Piqûre</string>
+		<string lang="zh">蜂刺</string>
+		<string lang="jp">蜂刺</string>
+		<string lang="kr">Sting</string>
+</set>
+<set id="name-skill-enemyspawn-bees">
+		<string lang="de">Larven Erzeugen</string>
+		<string lang="en">Spawn Larvae</string>
+		<string lang="fr">Larves</string>
+		<string lang="zh">Spawn Larvae</string>
+		<string lang="jp">Spawn Larvae</string>
+		<string lang="kr">Spawn Larvae</string>
+</set>
+<set id="name-skill-sacrificebee">
+		<string lang="de">Für den Schwarm</string>
+		<string lang="en">For the Swarm</string>
+		<string lang="fr">Pour la Ruche</string>
+		<string lang="zh">For the Swarm</string>
+		<string lang="jp">For the Swarm</string>
+		<string lang="kr">For the Swarm</string>
+</set>
+<set id="description-skill-enemyspawn-goblinbomb">
+		<string lang="de">Ruft einen $b$Bomben-Goblin$/b$ herbei.</string>
+		<string lang="en">Summons a $b$Bomb Goblin$/b$.</string>
+		<string lang="fr">Invoque un $b$Gobelin Bombe$/b$.</string>
+		<string lang="zh">Summons a $b$Bomb Goblin$/b$.</string>
+		<string lang="jp">Summons a $b$Bomb Goblin$/b$.</string>
+		<string lang="kr">Summons a $b$Bomb Goblin$/b$.</string>
+</set>
+<set id="description-skill-enemyspawn-livingbomb">
+		<string lang="de">Stellt zwei $b$Explosive Apparate$/b$ her.</string>
+		<string lang="en">Creates two $b$Explosive Contraptions$/b$.</string>
+		<string lang="fr">Crée deux $b$Appareils Explosifs$/b$.</string>
+		<string lang="zh">Creates two $b$Explosive Contraptions$/b$.</string>
+		<string lang="jp">Creates two $b$Explosive Contraptions$/b$.</string>
+		<string lang="kr">Creates two $b$Explosive Contraptions$/b$.</string>
+</set>
+<set id="description-skill-enemyspawn-owl">
+		<string lang="de">Ruft eine Eule herbei.</string>
+		<string lang="en">Summons an Owl</string>
+		<string lang="fr">Invoque un hibou.</string>
+		<string lang="zh">Summons an Owl</string>
+		<string lang="jp">Summons an Owl</string>
+		<string lang="kr">Summons an Owl</string>
+</set>
+<set id="description-skill-globalplasmadissipation">
+		<string lang="en">Removes up to $2$ $plasma$.</string>
+		<string lang="zh">Removes up to $2$ $plasma$.</string>
+		<string lang="jp">Removes up to $2$ $plasma$.</string>
+		<string lang="kr">Removes up to $2$ $plasma$.</string>
+</set>
+<set id="description-skill-gravabsorb">
+		<string lang="de">Absorbiert $grav+$ als Heilung.</string>
+		<string lang="en">Absorbs $grav+$ as healing.</string>
+		<string lang="fr">Absorbe $grav+$ comme soins.</string>
+		<string lang="zh">Absorbs $grav+$ as healing.</string>
+		<string lang="jp">Absorbs $grav+$ as healing.</string>
+		<string lang="kr">Absorbs $grav+$ as healing.</string>
+</set>
+<set id="description-skill-gravpush-2-gravadillo">
+		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Spielercharakter ist, versieht ein Modul mit $selfencrusting$.</string>
+		<string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
+		<string lang="fr">Inflige à un autre combattant $grav+2$. S'il s'agit d'un personnage joueur, inflige un module avec $selfencrusting$.</string>
+        <string lang="zh">对另一个战斗者施加 $grav+2$。如果是玩家角色，使一个模块获得 $selfencrusting$。</string>
+        <string lang="jp">別の戦闘者に $grav+2$ を与えます。プレイヤーキャラクターの場合、モジュールに $selfencrusting$ を付与します。</string>
+        <string lang="ru">Наносит другому бойцу $grav+2$. Если это игрок, накладывает на модуль $selfencrusting$.</string>
+        <string lang="es">Inflige a otro combatiente con $grav+2$. Si es un personaje jugador, inflige un módulo con $selfencrusting$.</string>
+        <string lang="kr">다른 전투자에게 $grav+2$를 입힙니다. 플레이어 캐릭터인 경우 모듈에 $selfencrusting$을 부여합니다.</string>
+        <string lang="pt-br">Inflige outro combatente com $grav+2$. Se for um personagem jogador, inflige um módulo com $selfencrusting$.</string>
+</set>
+<set id="description-skill-gravshield-gravadillo">
+		<string lang="de">Entfernt alle $grav+$ und fügt sich selbst den $damage$ to $grav+short$ Status zu.</string>
+		<string lang="en">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
+</set>
+<set id="description-skill-heal">
+		<string lang="de">Heilt einen Verbündeten</string>
+		<string lang="en">Heals an ally</string>
+		<string lang="fr">Soigne un allié</string>
+		<string lang="zh">Heals an ally</string>
+		<string lang="jp">Heals an ally</string>
+		<string lang="kr">Heals an ally</string>
+</set>
+<set id="description-skill-healingrain">
+		<string lang="de">Heilt alle Kampfteilnehmer auf dem gleichen Zeitschritt um $2$.</string>
+		<string lang="en">Heals all combatants on the same time step by $2$.</string>
+		<string lang="fr">Description n/a</string>
+		<string lang="zh">Heals all combatants on the same time step by $2$.</string>
+		<string lang="jp">Heals all combatants on the same time step by $2$.</string>
+		<string lang="kr">Heals all combatants on the same time step by $2$.</string>
+</set>
+<set id="description-skill-moduleseal">
+		<string lang="de">Schwächt ein Modul.</string>
+		<string lang="en">Weakens a module.</string>
+		<string lang="fr">Réduit le module.</string>
+		<string lang="zh">Weakens a module.</string>
+		<string lang="jp">Weakens a module.</string>
+		<string lang="kr">Weakens a module.</string>
+</set>
+<set id="description-skill-modulespawn-effectorplasmaconverter">
+		<string lang="en">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="zh">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="jp">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="kr">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
+</set>
+<set id="description-skill-modulespawn-mine">
+		<string lang="en">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="zh">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="jp">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="kr">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
+</set>
+<set id="description-skill-modulespawn-modifierviral">
+        <string lang="de">Konstruiert ein $b$Viral Modifier$/b$-Modul und zwingt es in eins deiner Racks.</string>
+		<string lang="en">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
+		<string lang="fr">Construit un module $b$Disruption$/b$ et le force sur l'un de vos racks.</string>
+        <string lang="zh">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
+</set>
+<set id="description-skill-modulespawn-pulsar">
+		<string lang="en">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
+		<string lang="zh">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
+		<string lang="jp">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
+		<string lang="kr">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
+</set>
+<set id="description-skill-nettle">
+		<string lang="de">Fügt einem Gegner $1damage$ zu.</string>
+		<string lang="en">Deals $1damage$ to an enemy</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Deals $1damage$ to an enemy</string>
+		<string lang="jp">Deals $1damage$ to an enemy</string>
+		<string lang="kr">Deals $1damage$ to an enemy</string>
+</set>
+<set id="description-skill-nettle-aoe">
+		<string lang="de">Fügt allen Gegnern $1damage$ zu.</string>
+		<string lang="en">Deals $1damage$ to all enemies.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Deals $1damage$ to all enemies.</string>
+		<string lang="jp">Deals $1damage$ to all enemies.</string>
+		<string lang="kr">Deals $1damage$ to all enemies.</string>
+</set>
+<set id="description-skill-ondeath-gravaoe-minus">
+		<string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
+		<string lang="en">Inflicts all other allies with $grav-1$.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Inflicts all other allies with $grav-1$.</string>
+		<string lang="jp">Inflicts all other allies with $grav-1$.</string>
+		<string lang="kr">Inflicts all other allies with $grav-1$.</string>
+</set>
+<set id="description-skill-naturaldisasterspawn-lightning-stormboss">
+        <string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
+		<string lang="en">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
+        <string lang="fr">Place un $b$Grav.-Impulse$/b$ sur l'étape de temps $b$+2$/b$ et deux $b$Coup de Foudre$/b$ sur les étapes de temps $b$+4$/b$ et $b$+6$/b$ sur la chronologie.</string>
+</set>
+<set id="description-skill-naturaldisasterspawn-lightning">
+		<string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
+		<string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
+		<string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la chronologie.</string>
+</set>
+</localization>

@@ -252,17 +252,6 @@
         <string lang="kr">전투원으로부터 $might$를 $energy$로 획득합니다.</string>
         <string lang="pt-br">Pega $might$ de um combatente como $energy$.</string>
 </set>
-<set id="description-module-modifiercyclotron">
-		<string lang="de">Verändert die Farbe eines Stroms.</string>
-		<string lang="en">Changes the color of a current.</string>
-		<string lang="fr">Change la couleur d'un courant.</string>
-		<string lang="zh">修改一个电流的颜色。</string>
-		<string lang="jp">電流の色を変更します。</string>
-		<string lang="ru">Изменяет цвет тока.</string>
-		<string lang="es">Cambia el color de una corriente.</string>
-		<string lang="kr">전류의 색상을 변경합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.</string>
-</set>
 <set id="description-module-modifierstormchaser">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
@@ -273,17 +262,6 @@
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
 		<string lang="kr">전류의 색상을 변경합니다.$p$전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-</set>
-<set id="description-module-modifiermolten">
-		<string lang="de">Verändert die Farbe eines Stroms.</string>
-		<string lang="en">Changes the color of a current.</string>
-		<string lang="fr">Change la couleur d'un courant.</string>
-		<string lang="zh">修改一个电流的颜色。</string>
-		<string lang="jp">電流の色を変更します。</string>
-		<string lang="ru">Изменяет цвет тока.</string>
-		<string lang="es">Cambia el color de una corriente.</string>
-		<string lang="kr">전류의 색상을 변경합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 </set>
 <set id="description-module-modifiermutating">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
@@ -355,21 +333,10 @@
 		<string lang="fr">Utilise tout le $plasma$ pour générer autant de $energy$.</string>
 		<string lang="zh">消耗所有的 $plasma$ 来产生相同数量的 $energy$ 。</string>
 		<string lang="jp">全ての$plasma$を消費して同じ量の$energy$を生成します。</string>
-    <string lang="ru">Использует весь $plasma$ $b$для генерации такого же количества $energy$.</string>
-    <string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
-    <string lang="kr">모든 $plasma$를 사용하여 그만큼의 $energy$를 생성합니다.</string>
-    <string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
-</set>
-<set id="description-module-pulsar">
-		<string lang="de">Modifiziert einen Strom.</string>
-		<string lang="en">Modifies a current.</string>
-		<string lang="fr">Modifie un courant.</string>
-		<string lang="zh">修改一个电流。</string>
-		<string lang="jp">電流を変更します。</string>
-		<string lang="ru">Модифицирует ток.</string>
-		<string lang="es">Modifica una corriente.</string>
-		<string lang="kr">전류를 수정합니다.</string>
-		<string lang="pt-br">Modifica uma corrente.</string>
+        <string lang="ru">Использует весь $plasma$ $b$для генерации такого же количества $energy$.</string>
+        <string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
+        <string lang="kr">모든 $plasma$를 사용하여 그만큼의 $energy$를 생성합니다.</string>
+        <string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
 </set>
 <set id="description-module-storagecellausterity">
 		<string lang="de">Wird nach der Runde um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in dieser Runde auf diesem Rack kein $generator$ aktiviert wurde.</string>
@@ -799,28 +766,6 @@
         <string lang="kr">폭풍 추격자 증폭기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Amplificador Caçador de Tempestades $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-modifiercyclotron">
-		<string lang="de">Zyklotron $MODIFICATIONVALUE$</string>
-		<string lang="en">Cyclotron $MODIFICATIONVALUE$</string>
-		<string lang="fr">Cyclotron $MODIFICATIONVALUE$</string>
-		<string lang="zh">环状加速器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">サイクロトロン $MODIFICATIONVALUE$</string>
-        <string lang="ru">Циклотрон $MODIFICATIONVALUE$</string>
-        <string lang="es">Ciclotrón $MODIFICATIONVALUE$</string>
-        <string lang="kr">사이클로트론 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Ciclotron $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-modifiermolten">
-		<string lang="de">Geschmolzene Trümmer</string>
-		<string lang="en">Molten Debris</string>
-		<string lang="fr">Débris Carbonisés</string>
-		<string lang="zh">烧焦碎片</string>
-		<string lang="jp">Molten Debris</string>
-        <string lang="ru">Расплавленные Обломки</string>
-        <string lang="es">Escombros Fundidos</string>
-        <string lang="kr">녹아내린 잔해</string>
-        <string lang="pt-br">Detritos Derretidos</string>
-</set>
 <set id="name-module-modifiermutating">
 		<string lang="de">Organischer Wandler $MODIFICATIONVALUE$</string>
 		<string lang="en">Organic Modifier $MODIFICATIONVALUE$</string>
@@ -897,17 +842,6 @@
         <string lang="es">Descargador de Plasma</string>
         <string lang="kr">플라즈마 방전기</string>
         <string lang="pt-br">Descarregador de Plasma</string>
-</set>
-<set id="name-module-pulsar">
-		<string lang="de">Pulsar</string>
-		<string lang="en">Pulsar</string>
-		<string lang="fr">Pulsar</string>
-		<string lang="zh">脉冲源</string>
-		<string lang="jp">パルサー</string>
-		<string lang="ru">Пульсар</string>
-		<string lang="es">Púlsar</string>
-		<string lang="kr">펄서</string>
-		<string lang="pt-br">Pulsar</string>
 </set>
 <set id="name-module-storagecellausterity">
 		<string lang="de">Austeritäts-Zelle $MODIFICATIONVALUE$</string>
