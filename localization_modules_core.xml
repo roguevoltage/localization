@@ -497,6 +497,17 @@
 		<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를 방전할 수 있습니다.</string>
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 </set>
+<set id="description-module-storagecellreplicating">
+	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
+	<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="zh">释放 $b$$CHARGEVALUE$$/b$ $energy$ 能量。</string>
+	<string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
+	<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를 방전할 수 있습니다.</string>
+	<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+</set>
 <set id="description-module-storagecellselfcharging">
 		<string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
 		<string lang="en">Is charged with $1$ $energy$ at the end of combat.</string>
@@ -1123,6 +1134,17 @@
 		<string lang="es">Pila Eólica</string>
 		<string lang="kr">풍력 전지</string>
 		<string lang="pt-br">Célula Eólica</string>
+</set>
+<set id="name-module-storagecellreplicating">
+		<string lang="de">Reproduzierende Speicherzelle</string>
+		<string lang="en">Replicating Storage Cell</string>
+		<string lang="fr">Pile Replicante</string>
+		<string lang="zh">复制电池</string>
+		<string lang="jp">複製電池</string>
+		<string lang="ru">Реплицирующая Ячейка Хранения</string>
+		<string lang="es">Pila Replicante</string>
+		<string lang="kr">복제 전지</string>
+		<string lang="pt-br">Célula de Armazenamento Replicante</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
