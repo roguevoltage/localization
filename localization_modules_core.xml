@@ -207,6 +207,17 @@
 		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $grav+1$를 줍니다.</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
 </set>
+<set id="description-module-effectordeceleratorprecision">
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav+1$].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
+		<string lang="zh">对每个模块上的 $energy$ 点数，目标战斗员造成 $grav+1$ 。</string>
+		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの戦闘員に$grav+1$を与えます。</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
+		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
+		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 대상 전투 참가자에게 $grav+1$를 줍니다.</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
+</set>
 <set id="description-module-effectordeceleratormelee">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
 		<string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
@@ -819,13 +830,24 @@
 <set id="name-module-effectordeceleratorgatling">
 		<string lang="de">Gatling-Verlangsamer $MODIFICATIONVALUE$</string>
 		<string lang="en">Gatling Decelerator $MODIFICATIONVALUE$</string>
-		<string lang="fr">Mitrailleuse Gatling $MODIFICATIONVALUE$</string>
-		<string lang="zh">加特林机枪 $MODIFICATIONVALUE$</string>
-		<string lang="jp">ガトリングガン $MODIFICATIONVALUE$</string>
-		<string lang="ru">Скорострельный Замедлитель $MODIFICATIONVALUE$</string>
-		<string lang="es">Ametralladora Gatling $MODIFICATIONVALUE$</string>
-		<string lang="kr">가틀링 건 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
+		<string lang="fr">Décélérateur Gatling $MODIFICATIONVALUE$</string>
+		<string lang="zh">加特林减速器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">ガトリングガン減速器 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Гатлинг-Замедлитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Decelerador Gatling $MODIFICATIONVALUE$</string>
+		<string lang="kr">가틀링 감속기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Desacelerador Gatling $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectordeceleratorprecision">
+		<string lang="de">Präzisions-Verlangsamer $MODIFICATIONVALUE$</string>
+		<string lang="en">Precision Decelerator $MODIFICATIONVALUE$</string>
+		<string lang="fr">Décélérateur de Précision $MODIFICATIONVALUE$</string>
+		<string lang="zh">精准减速器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">精密減速器 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Точный Замедлитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
+		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratormelee">
 		<string lang="de">Nahkampf-Verlangsamer $MODIFICATIONVALUE$</string>
