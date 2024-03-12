@@ -1009,17 +1009,25 @@
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggledechochamber">
-	<string lang="de">Echo-Kammer</string>
-	<string lang="en">Echo Chamber</string>
-	<string lang="fr">Chambre d'Écho</string>
-	<string lang="zh">回声室</string>
-	<string lang="jp">エコーカメラ</string>
-	<string lang="ru">Эхо-Камера</string>
-	<string lang="es">Cámara de Eco</string>
-	<string lang="kr">에코 챔버</string>
-	<string lang="pt-br">Câmara de Eco</string>
+        <string lang="de">Echo-Kammer</string>
+        <string lang="en">Echo Chamber</string>
+        <string lang="fr">Chambre d'Écho</string>
+        <string lang="zh">回声室</string>
+        <string lang="jp">エコーカメラ</string>
+        <string lang="ru">Эхо-Камера</string>
+        <string lang="es">Cámara de Eco</string>
+        <string lang="kr">에코 챔버</string>
+        <string lang="pt-br">Câmara de Eco</string>
 </set>
 <set id="description-module-toggledechochamber">
-	<string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
+        <string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
+        <string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
+        <string lang="fr">Applique $replicating$ et $unstable$ à un autre module cible sur ce rack avec $cracked$.</string>
+        <string lang="zh">使用 $cracked$ 在此机架上的另一个目标模块上应用 $replicating$ 和 $unstable$。</string>
+        <string lang="jp">このラック上の別のターゲットモジュールに $cracked$ で $replicating$ と $unstable$ を適用します。</string>
+        <string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этом стеллаже с $cracked$.</string>
+        <string lang="es">Aplica $replicating$ y $unstable$ a otro módulo objetivo en este rack con $cracked$.</string>
+        <string lang="kr">이 랙의 다른 대상 모듈에 $cracked$로 $replicating$과 $unstable$를 적용합니다.</string>
+        <string lang="pt-br">Aplica $replicating$ e $unstable$ a outro módulo alvo neste rack com $cracked$.</string>
 </set>
 </localization>

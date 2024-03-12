@@ -183,4 +183,355 @@
 		<string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
 		<string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la chronologie.</string>
 </set>
+<set id="description-skill-passive-advancestormonbeginningofturn">
+		<string lang="de">Am Anfang des eigenen Zuges, rückt $storm$ vor.</string>
+		<string lang="en">On the beginning of its turn, advances $storm$.</string>
+		<string lang="zh">On the beginning of its turn, advances $storm$.</string>
+		<string lang="jp">On the beginning of its turn, advances $storm$.</string>
+		<string lang="kr">On the beginning of its turn, advances $storm$.</string>
+</set>
+<set id="description-skill-selfdestruct-goblinbomb">
+		<string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
+		<string lang="en">Destroys itself to deal $damage$ in height of its current HP to all enemies on the same time step.</string>
+</set>
+<set id="description-skill-selfdestruct-livingbomb">
+		<string lang="de">Wenn $might$ gefüllt ist, zerstört er sich selbst, um allen Gegnern $2damage$ zuzufügen.</string>
+		<string lang="en">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
+		<string lang="jp">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
+		<string lang="kr">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
+</set>
+
+<set id="description-skill-shield">
+		<string lang="de">Versieht einen Verbündeten mit $shield$.</string>
+		<string lang="en">Applies $shield$ to an ally.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Applies $shield$ to an ally.</string>
+		<string lang="jp">Applies $shield$ to an ally.</string>
+		<string lang="kr">Applies $shield$ to an ally.</string>
+</set>
+<set id="description-skill-shield-global">
+		<string lang="de">Schützt alle Kampfteilnehmer auf dem gleichen Zeitschritt mit $shield$.</string>
+		<string lang="en">Applies $shield$ to all combatants on the same time step.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Applies $shield$ to all combatants on the same time step.</string>
+		<string lang="jp">Applies $shield$ to all combatants on the same time step.</string>
+		<string lang="kr">Applies $shield$ to all combatants on the same time step.</string>
+</set>
+<set id="description-skill-shield-gravtank">
+		<string lang="de">n/a</string>
+		<string lang="en">n/a</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">n/a</string>
+		<string lang="jp">n/a</string>
+		<string lang="kr">n/a</string>
+</set>
+<set id="description-skill-shield-self">
+		<string lang="de">n/a</string>
+		<string lang="en">n/a</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">n/a</string>
+		<string lang="jp">n/a</string>
+		<string lang="kr">n/a</string>
+</set>
+<set id="description-skill-sneaky">
+		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$</string>
+		<string lang="en">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
+		<string lang="jp">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
+		<string lang="kr">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
+</set>
+<set id="name-skill-enemyspawn-goblinbomb">
+		<string lang="de">Bombengoblin</string>
+		<string lang="en">Bomb Goblin</string>
+		<string lang="fr">Gobelin Bombe</string>
+		<string lang="zh">Bomb Goblin</string>
+		<string lang="jp">Bomb Goblin</string>
+		<string lang="kr">Bomb Goblin</string>
+</set>
+<set id="name-skill-enemyspawn-livingbomb">
+		<string lang="de">Explosive Apparate</string>
+		<string lang="en">Explosive Contraptions</string>
+		<string lang="fr">Appareils Explosifs</string>
+		<string lang="zh">Explosive Contraptions</string>
+		<string lang="jp">Explosive Contraptions</string>
+		<string lang="kr">Explosive Contraptions</string>
+</set>
+<set id="name-skill-enemyspawn-owl">
+		<string lang="de">Eule</string>
+		<string lang="en">Owl Companion</string>
+		<string lang="fr">Hibou</string>
+		<string lang="zh">Owl Companion</string>
+		<string lang="jp">Owl Companion</string>
+		<string lang="kr">Owl Companion</string>
+</set>
+<set id="name-skill-globalplasmadissipation">
+		<string lang="en">Antiplasma $-2$ $plasmaicon$</string>
+		<string lang="zh">Antiplasma $-2$ $plasmaicon$</string>
+		<string lang="jp">Antiplasma $-2$ $plasmaicon$</string>
+		<string lang="kr">Antiplasma $-2$ $plasmaicon$</string>
+</set>
+
+<set id="name-skill-selfdestruct">
+		<string lang="de">Selbstzerstörung</string>
+		<string lang="en">Self-Destruct</string>
+		<string lang="fr">Auto-Destruction</string>
+		<string lang="zh">Self-Destruct</string>
+		<string lang="jp">Self-Destruct</string>
+		<string lang="kr">Self-Destruct</string>
+</set>
+<set id="name-skill-selfdestruct-goblinbomb">
+		<string lang="de">Ein erfülltes Leben</string>
+		<string lang="en">A Life Fulfilled</string>
+		<string lang="fr">Une vie bien remplie</string>
+		<string lang="zh">A Life Fulfilled</string>
+		<string lang="jp">A Life Fulfilled</string>
+		<string lang="kr">A Life Fulfilled</string>
+</set>
+<set id="name-skill-selfdestruct-livingbomb">
+		<string lang="de">Selbstzerstörung</string>
+		<string lang="en">Self-Destruct</string>
+		<string lang="fr">Auto-Destruction</string>
+		<string lang="zh">Self-Destruct</string>
+		<string lang="jp">Self-Destruct</string>
+		<string lang="kr">Self-Destruct</string>
+</set>
+<set id="name-skill-shield">
+		<string lang="de">Schild</string>
+		<string lang="en">Shield</string>
+		<string lang="fr">Bouclier</string>
+		<string lang="zh">护盾</string>
+		<string lang="jp">シールド</string>
+		<string lang="kr">Shield</string>
+</set>
+<set id="name-skill-shield-global">
+		<string lang="de">Schützender Regen</string>
+		<string lang="en">Shielding Rain</string>
+		<string lang="fr">Pluie Protective</string>
+		<string lang="zh">护盾雨</string>
+		<string lang="jp">シールド雨</string>
+		<string lang="kr">Shielding Rain</string>
+</set>
+<set id="name-skill-shield-gravtank">
+		<string lang="de">Schild</string>
+		<string lang="en">Shield</string>
+		<string lang="fr">Bouclier</string>
+		<string lang="zh">护盾</string>
+		<string lang="jp">シールド</string>
+		<string lang="kr">Shield</string>
+</set>
+<set id="name-skill-shield-self">
+		<string lang="de">Schild</string>
+		<string lang="en">Shield</string>
+		<string lang="fr">Bouclier</string>
+		<string lang="zh">护盾</string>
+		<string lang="jp">シールド</string>
+		<string lang="kr">Shield</string>
+</set>
+<set id="description-skill-plasmaexplode">
+        <string lang="de">Entfernt bis zu $2$ $plasma$ und fügt ebensoviel $damage$ zu.</string>
+		<string lang="en">Removes up to $2$ $plasma$ and deals that much $damage$.</string>
+        <string lang="fr">Supprime jusqu'à $2$ $plasma$ et inflige autant de $damage$.</string>
+        <string lang="zh">移除多达 $2$ 个 $plasma$ 并造成同样多的 $damage$。</string>
+        <string lang="jp">$2$ までの $plasma$ を取り除き、同じだけの $damage$ を与えます。</string>
+        <string lang="ru">Удаляет до $2$ $plasma$ и наносит столько же $damage$.</string>
+        <string lang="es">Elimina hasta $2$ $plasma$ e inflige tanto $damage$.</string>
+        <string lang="kr">$2$개까지의 $plasma$를 제거하고 그만큼의 $damage$를 입힙니다.</string>
+        <string lang="pt-br">Remove até $2$ $plasma$ e causa tanto $damage$.</string>
+</set>
+<set id="description-skill-plasmaimplode">
+        <string lang="de">Wenn $plasma$ $0$ ist, fügt einem Gegner $2damage$ zu.</string>
+		<string lang="en">If $plasma$ is $0$, deal $2$ $damage$ to target enemy.</string>
+</set>
+<set id="description-skill-plasmatograv">
+		<string lang="en">Removes up to $3$ $plasma$ and inflicts another combatant with that much $grav+$</string>
+</set>
+<set id="description-skill-poisonspore">
+		<string lang="de">Fügt allen anderen Kampfteilnehmer $1damage$ zu.</string>
+		<string lang="en">Deals $1damage$ to all other combatants.</string>
+		<string lang="fr">n/a</string>
+</set>
+<set id="description-skill-powerraise-livingbomb">
+		<string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
+		<string lang="en">Raises $might$ by $1$ and inflicts all enemies with $grav+1$.</string>
+		<string lang="fr">Augmente $might$ de $1$ et applique $grav+1$ à tous les ennemis.</string>
+        <string lang="zh">$might$ 增加 $1$ 并使所有敌人获得 $grav+1$。</string>
+        <string lang="jp">$might$ を $1$ 増やし、全ての敵に $grav+1$ を付与します。</string>
+        <string lang="ru">Увеличивает $might$ на $1$ и накладывает на всех врагов $grav+1$.</string>
+        <string lang="es">Aumenta $might$ en $1$ e inflige a todos los enemigos con $grav+1$.</string>
+        <string lang="kr">$might$를 $1$ 증가시키고 모든 적에게 $grav+1$을 부여합니다.</string>
+        <string lang="pt-br">Aumenta $might$ em $1$ e inflige todos os inimigos com $grav+1$.</string>
+</set>
+<set id="description-skill-powerraise-onallies">
+		<string lang="de">Erhöht $might$ aller Verbündeten um $1$.</string>
+		<string lang="en">Raises $might$ of all allies by $1$.</string>
+		<string lang="fr">Augmente $might$ de tous les alliés de $1$.</string>
+        <string lang="zh">所有盟友的 $might$ 增加 $1$。</string>
+        <string lang="jp">全ての味方の $might$ を $1$ 増やします。</string>
+        <string lang="ru">Увеличивает $might$ всех союзников на $1$.</string>
+        <string lang="es">Aumenta $might$ de todos los aliados en $1$.</string>
+        <string lang="kr">모든 동맹의 $might$를 $1$ 증가시킵니다.</string>
+        <string lang="pt-br">Aumenta $might$ de todos os aliados em $1$.</string>
+</set>
+<set id="description-skill-rabid">
+		<string lang="de">Fügt einem Gegner $2damage$ und sich selbst $1damage$ zu.</string>
+		<string lang="en">Deals $2damage$ to an enemy and $1damage$ to itself.</string>
+        <string lang="fr">Inflige $2damage$ à un ennemi et $1damage$ à lui-même.</string>
+        <string lang="zh">对敌人造成 $2damage$ 并使自己获得 $1damage$。</string>
+        <string lang="jp">敵に $2damage$ を与え、自分自身に $1damage$ を与えます。</string>
+        <string lang="ru">Наносит врагу $2damage$ и себе $1damage$.</string>
+        <string lang="es">Inflige $2damage$ a un enemigo y $1damage$ a sí mismo.</string>
+        <string lang="kr">적에게 $2damage$를 입히고 자신에게 $1damage$를 입힙니다.</string>
+        <string lang="pt-br">Causa $2damage$ a um inimigo e $1damage$ a si mesmo.</string>
+</set>
+<set id="description-skill-rage">
+		<string lang="de">Fügt einem Gegner $2damage$ zu und versieht sich selbst mit $vulnerable$.</string>
+		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $vulnerable$.</string>
+        <string lang="fr">Inflige $2damage$ à un ennemi et s'inflige $vulnerable$.</string>
+        <string lang="zh">对敌人造成 $2damage$ 并使自己获得 $vulnerable$。</string>
+        <string lang="jp">敵に $2damage$ を与え、自分自身に $vulnerable$ を付与します。</string>
+        <string lang="ru">Наносит врагу $2damage$ и себе $vulnerable$.</string>
+        <string lang="es">Inflige $2damage$ a un enemigo e inflige a sí mismo con $vulnerable$.</string>
+        <string lang="kr">적에게 $2damage$를 입히고 자신에게 $vulnerable$을 부여합니다.</string>
+        <string lang="pt-br">Causa $2damage$ a um inimigo e inflige a si mesmo com $vulnerable$.</string>
+</set>
+
+<set id="description-skill-vulnerability">
+		<string lang="de">Versieht einen Gegner mit $vulnerable$.</string>
+		<string lang="en">Inflicts an enemy with $vulnerable$.</string>
+		<string lang="fr">Inflige à un ennemi l'état $vulnerable$.</string>
+		<string lang="zh">使敌人获得易伤状态。</string>
+		<string lang="ja">敵に $vulnerable$ を付与する。</string>
+		<string lang="jp">Inflicts an enemy with $vulnerable$.</string>
+		<string lang="kr">Inflicts an enemy with $vulnerable$.</string>
+</set>
+<set id="description-skill-vulnerabilityglobal">
+		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
+		<string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
+		<string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $vulnerable$.</string>
+		<string lang="zh">使所有在同一时间步的战斗者获得 $vulnerable$ 状态。</string>
+		<string lang="ja">敵に $vulnerable$ を付与する。</string>
+		<string lang="jp">Inflicts all combatants on the same time step with $vulnerable$.</string>
+		<string lang="kr">Inflicts all combatants on the same time step with $vulnerable$.</string>
+</set>
+<set id="name-skill-batter">
+		<string lang="de">Rammen</string>
+		<string lang="en">Batter</string>
+		<string lang="fr">Enfoncer</string>
+		<string lang="zh">冲撞</string>
+		<string lang="jp">打者</string>
+		<string lang="kr">Batter</string>
+</set>
+<set id="name-skill-gravamplificationglobal">
+		<string lang="de">Grav.-Verstärkung</string>
+		<string lang="en">Grav. Vulnerability</string>
+		<string lang="fr">Amplification Grav.</string>
+</set>
+<set id="name-skill-heal">
+		<string lang="de">Heilung</string>
+		<string lang="en">Heal</string>
+		<string lang="fr">Soins</string>
+</set>
+<set id="name-skill-healingrain">
+		<string lang="de">Heilender Tropfen</string>
+		<string lang="en">Healing Drop</string>
+		<string lang="fr">Goutte de Soins</string>
+</set>
+<set id="name-skill-modulespawn-effectorplasmaconverter">
+		<string lang="en">Plasma Converter</string>
+</set>
+<set id="name-skill-modulespawn-mine">
+		<string lang="de">Mine</string>
+</set>
+<set id="name-skill-modulespawn-modifierviral">
+		<string lang="de">Störmodul</string>
+		<string lang="en">Disruption Module</string>
+		<string lang="fr">n/a</string>
+		<string lang="zh">Disruption Module</string>
+		<string lang="jp">Disruption Module</string>
+		<string lang="kr">Disruption Module</string>
+</set>
+<set id="name-skill-modulespawn-pulsar">
+		<string lang="en">Pulsar</string>
+		<string lang="zh">Pulsar</string>
+		<string lang="jp">Pulsar</string>
+		<string lang="kr">Pulsar</string>
+</set>
+<set id="name-skill-naturaldisasterspawn-lightning">
+		<string lang="de">Blitz</string>
+		<string lang="en">Lightning</string>
+		<string lang="fr">Coup de Foudre</string>
+</set>
+<set id="name-skill-naturaldisasterspawn-lightning-stormboss">
+		<string lang="de">Blitzschlag-Feld</string>
+		<string lang="en">Lightning Array</string>
+</set>
+<set id="name-skill-nettle">
+		<string lang="de">Nessel</string>
+		<string lang="en">Nettle</string>
+</set>
+<set id="name-skill-nettle-aoe">
+		<string lang="de">Nessel AOE</string>
+		<string lang="en">Nettle AOE</string>
+</set>
+<set id="name-skill-ondeath-gravaoe-minus">
+		<string lang="de">Grav.-Summen $grav-1$</string>
+		<string lang="en">Grav. Buzz $grav-1$</string>
+</set>
+<set id="name-skill-plasmaexplode">
+		<string lang="en">Plasma Explosion $plasmaicon$</string>
+</set>
+<set id="name-skill-plasmaimplode">
+		<string lang="en">Plasma Void $plasmaicon$</string>
+</set>
+<set id="name-skill-plasmatograv">
+		<string lang="en">Plasma to Grav. $plasmaicon$$grav+icon$</string>
+		<string lang="zh">Plasma to Grav. $plasmaicon$$grav+icon$</string>
+		<string lang="jp">Plasma to Grav. $plasmaicon$$grav+icon$</string>
+		<string lang="kr">Plasma to Grav. $plasmaicon$$grav+icon$</string>
+</set>
+<set id="name-skill-powerraise-livingbomb">
+		<string lang="de">Aufladen</string>
+		<string lang="en">Charge</string>
+		<string lang="fr">Charge</string>
+		<string lang="zh">Charge</string>
+		<string lang="jp">Charge</string>
+		<string lang="kr">Charge</string>
+</set>
+<set id="name-skill-powerraise-onallies">
+		<string lang="de">Brüten $mighticon$</string>
+		<string lang="en">Incubate $mighticon$</string>
+		<string lang="fr">Couver $mighticon$</string>
+		<string lang="zh">Incubate $mighticon$</string>
+		<string lang="jp">Incubate $mighticon$</string>
+		<string lang="kr">Incubate $mighticon$</string>
+</set>
+<set id="name-skill-passive-advancestormonbeginningofturn">
+		<string lang="de">Sturmruf $stormicon$</string>
+		<string lang="en">Storm Call $stormicon$</string>
+</set>
+<set id="name-skill-piledriver-gravadillo">
+		<string lang="de">Rammen $crusticon$</string>
+		<string lang="en">Pile Driver $crusticon$</string>
+		<string lang="fr">Enfoncer $crusticon$</string>
+        <string lang="zh">压制 $crusticon$</string>
+        <string lang="jp">パイルドライバー $crusticon$</string>
+        <string lang="ru">Удар $crusticon$</string>
+        <string lang="es">Aplastar $crusticon$</string>
+        <string lang="kr">파일 드라이버 $crusticon$</string>
+        <string lang="pt-br">Pilão $crusticon$</string>
+</set>
+<set id="name-skill-poisonspore">
+		<string lang="de">Gift-Sporen</string>
+		<string lang="en">Toxic Spore</string>
+		<string lang="fr">Spore Toxique</string>
+        <string lang="zh">毒性孢子</string>
+        <string lang="jp">毒性胞子</string>
+        <string lang="ru">Токсичные Споры</string>
+        <string lang="es">Espora Tóxica</string>
+        <string lang="kr">독성 포자</string>
+        <string lang="pt-br">Esporo Tóxico</string>
+</set>
 </localization>
