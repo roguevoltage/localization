@@ -1513,6 +1513,15 @@
 <set id="ui-feedback-instructions">
 	<string lang="en">When reporting a bug please include this information:$p$1) Description of the bug$p$2) What you did to get the bug (a step-by-step is best)$p$3) What you think should have happened instead</string>
 </set>
+<set id="ui-feedback-status-submitting">
+	<string lang="en">Submitting report...</string>
+</set>
+<set id="ui-feedback-status-successful">
+	<string lang="en">Report submitted successfully!</string>
+</set>
+<set id="ui-feedback-status-failed">
+	<string lang="en">Report submission failed.</string>
+</set>
 <set id="undefined">
 		<string lang="de">Lokalisationsfehler</string>
 		<string lang="en">Localization Error</string>
