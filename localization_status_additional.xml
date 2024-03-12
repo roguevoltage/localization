@@ -11,10 +11,26 @@
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 </set>
 <set id="description-status-modulelock-whilecharged">
+        <string lang="de">Kann nicht vom Rack genommen werden$br$während es $energy$ hält</string>
 		<string lang="en">Cannot be taken from rack$br$while holding $energy$</string>
+        <string lang="fr">Ne peut pas être enlevé du rack$br$en tenant $energy$</string>
+        <string lang="zh">不能从机架上取下$br$持有 $energy$</string>
+        <string lang="jp">ラックから取り外せません$br$$energy$を持っている間</string>
+        <string lang="ru">Нельзя забрать со стойки$br$пока держит $energy$</string>
+        <string lang="es">No puede ser tomado del bastidor$br$mientras sostiene $energy$</string>
+        <string lang="kr">랙에서 가져올 수 없습니다$br$ $energy$를 보유 중일 때</string>
+        <string lang="pt-br">Não pode ser retirado do rack$br$enquanto segurando $energy$</string>
 </set>
 <set id="description-status-modulelock-wiredtoviral">
+        <string lang="de">Kann nicht vom Rack genommen werden$br$während es an ein virales Modul angeschlossen ist</string>
 		<string lang="en">Cannot be taken from rack$br$while wired to a threat module</string>
+        <string lang="fr">Ne peut pas être enlevé du rack$br$en étant connecté à un module de menace</string>
+        <string lang="zh">不能从机架上取下$br$连接到威胁模块时</string>
+        <string lang="jp">ラックから取り外せません$br$脅威モジュールに接続されている間</string>
+        <string lang="ru">Нельзя забрать со стойки$br$пока подключен к угрозе модуля</string>
+        <string lang="es">No puede ser tomado del bastidor$br$mientras está conectado a un módulo de amenaza</string>
+        <string lang="kr">랙에서 가져올 수 없습니다$br$위협 모듈에 연결된 동안</string>
+        <string lang="pt-br">Não pode ser retirado do rack$br$enquanto conectado a um módulo de ameaça</string>
 </set>
 <set id="description-status-modulereplicating">
 		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
@@ -52,6 +68,13 @@
 <set id="description-status-modulevulnerability">
 		<string lang="de">Aktivierung fügt dem Charakter $vulnerable$ für $b$64/b$ Zeitschritte zu</string>
 		<string lang="en">Activation inflicts the owner with $vulnerable$ for $b$4$/b$ time steps</string>
+        <string lang="fr">L'activation inflige au propriétaire $vulnerable$ pour $b$4$/b$ pas de temps</string>
+        <string lang="zh">激活使所有者受到 $vulnerable$ 伤害，持续 $b$4$/b$ 时间步</string>
+        <string lang="jp">アクティベーションは所有者に$ vunerable$を$ b$4$/b$ステップの間与えます</string>
+        <string lang="ru">Активация накладывает на владельца $vulnerable$ на $b$4$/b$ шагов</string>
+        <string lang="es">La activación inflige al dueño con $vulnerable$ por $b$4$/b$ pasos de tiempo</string>
+        <string lang="kr">활성화는 소유자에게 $vulnerable$를 $b$4$/b$ 단계 동안 부여합니다</string>
+        <string lang="pt-br">A ativação inflige ao dono com $vulnerable$ por $b$4$/b$ passos de tempo</string>
 </set>
 <set id="description-status-stasis">
 		<string lang="de">Die Zeit steht für diesen Character still.</string>
