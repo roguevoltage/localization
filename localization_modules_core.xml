@@ -202,21 +202,11 @@
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy with $grav+1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
 		<string lang="zh">对每个模块上的 $energy$ 点数，随机敌人造成 $grav+1$ 。</string>
+		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ランダムな敵に$grav+1$を与えます。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит $grav+1$ случайному врагу].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $grav+1$ a un enemigo aleatorio].</string>
 		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 랜덤한 적에게 $grav+1$를 줍니다.</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
-</set>
-<set id="description-module-effectordeceleratorprecision">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav+1$].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
-		<string lang="zh">对每个模块上的 $energy$ 点数，目标战斗员造成 $grav+1$ 。</string>
-		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの戦闘員に$grav+1$を与えます。</string>
-		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
-		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 대상 전투 참가자에게 $grav+1$를 줍니다.</string>
-		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
 </set>
 <set id="description-module-effectordeceleratormelee">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
@@ -228,6 +218,17 @@
 		<string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
 		<string lang="kr">소유자와 같은 시간 단계에 있는 모든 적에게 $grav+$를 줍니다.</string>
 		<string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
+</set>
+<set id="description-module-effectordeceleratorprecision">
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav+1$].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
+		<string lang="zh">对每个模块上的 $energy$ 点数，目标战斗员造成 $grav+1$ 。</string>
+		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの戦闘員に$grav+1$を与えます。</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
+		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
+		<string lang="kr">이 모듈의 $energy$의 각 포인트마다 대상 전투 참가자에게 $grav+1$를 줍니다.</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
 </set>
 <set id="description-module-effectorgatlinggun">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
@@ -430,6 +431,13 @@
 <set id="description-module-modifierconditionaldeceleration">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$3 oder mehr $grav+$$/b$ hat.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
+		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$3 ou plus $grav+$$/b$.</string>
+		<string lang="zh">修改一个电流的颜色。$p$如果拥有者有 $b$3 或更多 $grav+$$/b$，则添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">電流の色を変更します。$p$所有者が $b$3 以上の $grav+$$/b$を持っている場合、$b$$MODIFICATIONVALUE$$/b$ $energy$を追加します。</string>
+		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$, если владелец имеет $b$3 или больше $grav+$$/b$.</string>
+		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$3 o más $grav+$$/b$.</string>
+		<string lang="kr">전류의 색상을 변경합니다.$p$소유자가 $b$3 이상의 $grav+$$/b$를 가지고있는 경우 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$3 ou mais $grav+$$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder weniger HP$/b$ hat.</string>
@@ -509,15 +517,15 @@
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellreplicating">
-	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
-	<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-	<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-	<string lang="zh">释放 $b$$CHARGEVALUE$$/b$ $energy$ 能量。</string>
-	<string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
-	<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-	<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-	<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를 방전할 수 있습니다.</string>
-	<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
+		<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+		<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+		<string lang="zh">释放 $b$$CHARGEVALUE$$/b$ $energy$ 能量。</string>
+		<string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$ を放電できます。</string>
+		<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+		<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
+		<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를 방전할 수 있습니다.</string>
+		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellselfcharging">
 		<string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
@@ -628,6 +636,28 @@
 		<string lang="es">Destruye otro módulo objetivo para generar $2$ $energy$.</string>
 		<string lang="kr">$2$ $energy$를 생성하기 위해 다른 대상 모듈을 파괴합니다.</string>
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2$ $energy$.</string>
+</set>
+<set id="description-module-vaultregeneration">
+		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
+		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
+		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
+		<string lang="zh">可充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
+		<string lang="jp">充電可能。$p$所有者のターンの開始時に、$1$ の蓄積された $energy$ を取り除き、全てのプレイヤーキャラクターを $1$ 回復します。</string>
+		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохранённую $energy$ чтобы вылечить всех игроков на $1$.</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
+		<string lang="kr">충전 가능합니다.$p$소유자의 턴 시작시, $1$ 저장된 $energy$를 제거하여 모든 플레이어 캐릭터를 $1$ 회복합니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para curar todos os personagens jogadores em $1$.</string>
+</set>
+<set id="description-module-vaultshield">
+		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
+		<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
+		<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
+		<string lang="zh">可充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
+		<string lang="jp">充電可能。$p$所有者が $damage$ を受けるたびに、$1$ の蓄積された $energy$ を取り除き、そのダメージを $1$ 軽減します。</string>
+		<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
+		<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>
+		<string lang="kr">충전 가능합니다.$p$소유자가 $damage$를 받을 때마다, $1$ 저장된 $energy$를 제거하여 그 피해를 $1$ 줄입니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
 </set>
 <set id="name-module-accumulator">
 		<string lang="de">Akkumulator</string>
@@ -838,17 +868,6 @@
 		<string lang="kr">가틀링 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador Gatling $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-effectordeceleratorprecision">
-		<string lang="de">Präzisions-Verlangsamer $MODIFICATIONVALUE$</string>
-		<string lang="en">Precision Decelerator $MODIFICATIONVALUE$</string>
-		<string lang="fr">Décélérateur de Précision $MODIFICATIONVALUE$</string>
-		<string lang="zh">精准减速器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">精密減速器 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Точный Замедлитель $MODIFICATIONVALUE$</string>
-		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
-		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
-</set>
 <set id="name-module-effectordeceleratormelee">
 		<string lang="de">Nahkampf-Verlangsamer $MODIFICATIONVALUE$</string>
 		<string lang="en">Melee Decelerator $MODIFICATIONVALUE$</string>
@@ -859,6 +878,17 @@
 		<string lang="es">Decelerador de Melé $MODIFICATIONVALUE$</string>
 		<string lang="kr">근접 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador Corpo a Corpo $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectordeceleratorprecision">
+		<string lang="de">Präzisions-Verlangsamer $MODIFICATIONVALUE$</string>
+		<string lang="en">Precision Decelerator $MODIFICATIONVALUE$</string>
+		<string lang="fr">Décélérateur de Précision $MODIFICATIONVALUE$</string>
+		<string lang="zh">精准减速器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">精密減速器 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Точный Замедлитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
+		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgatlinggun">
 		<string lang="de">Gatling-Gun $MODIFICATIONVALUE$</string>
@@ -1146,17 +1176,6 @@
 		<string lang="kr">전지</string>
 		<string lang="pt-br">Célula de Armazenamento</string>
 </set>
-<set id="name-module-storagecellselfcharging">
-		<string lang="de">Äolische Zelle</string>
-		<string lang="en">Aeolian Cell</string>
-		<string lang="fr">Pile Éolienne</string>
-		<string lang="zh">风力电池</string>
-		<string lang="jp">風力电池</string>
-		<string lang="ru">Эолийская Ячейка</string>
-		<string lang="es">Pila Eólica</string>
-		<string lang="kr">풍력 전지</string>
-		<string lang="pt-br">Célula Eólica</string>
-</set>
 <set id="name-module-storagecellreplicating">
 		<string lang="de">Reproduzierende Speicherzelle</string>
 		<string lang="en">Replicating Storage Cell</string>
@@ -1167,6 +1186,17 @@
 		<string lang="es">Pila Replicante</string>
 		<string lang="kr">복제 전지</string>
 		<string lang="pt-br">Célula de Armazenamento Replicante</string>
+</set>
+<set id="name-module-storagecellselfcharging">
+		<string lang="de">Äolische Zelle</string>
+		<string lang="en">Aeolian Cell</string>
+		<string lang="fr">Pile Éolienne</string>
+		<string lang="zh">风力电池</string>
+		<string lang="jp">風力电池</string>
+		<string lang="ru">Эолийская Ячейка</string>
+		<string lang="es">Pila Eólica</string>
+		<string lang="kr">풍력 전지</string>
+		<string lang="pt-br">Célula Eólica</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
@@ -1268,48 +1298,26 @@
 		<string lang="pt-br">Compactador de Lixo</string>
 </set>
 <set id="name-module-vaultregeneration">
-	<string lang="de">Regenerationszelle $MODIFICATIONVALUE$</string>
-	<string lang="en">Regeneration Cell $MODIFICATIONVALUE$</string>
-	<string lang="fr">Pile de Régénération $MODIFICATIONVALUE$</string>
-	<string lang="zh">再生电池 $MODIFICATIONVALUE$</string>
-	<string lang="jp">再生電池 $MODIFICATIONVALUE$</string>
-	<string lang="ru">Ячейка Регенерации $MODIFICATIONVALUE$</string>
-	<string lang="es">Célula de Regeneración $MODIFICATIONVALUE$</string>
-	<string lang="kr">재생 전지 $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Célula de Regeneração $MODIFICATIONVALUE$</string>
+		<string lang="de">Regenerationszelle $MODIFICATIONVALUE$</string>
+		<string lang="en">Regeneration Cell $MODIFICATIONVALUE$</string>
+		<string lang="fr">Pile de Régénération $MODIFICATIONVALUE$</string>
+		<string lang="zh">再生电池 $MODIFICATIONVALUE$</string>
+		<string lang="jp">再生電池 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Ячейка Регенерации $MODIFICATIONVALUE$</string>
+		<string lang="es">Célula de Regeneración $MODIFICATIONVALUE$</string>
+		<string lang="kr">재생 전지 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Célula de Regeneração $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-vaultshield">
-	<string lang="de">Schildzelle $MODIFICATIONVALUE$</string>
-	<string lang="en">Shield Cell $MODIFICATIONVALUE$</string>
-	<string lang="fr">Pile de Bouclier $MODIFICATIONVALUE$</string>
-	<string lang="zh">护盾电池 $MODIFICATIONVALUE$</string>
-	<string lang="jp">シールドセル $MODIFICATIONVALUE$</string>
-	<string lang="ru">Ячейка Щита $MODIFICATIONVALUE$</string>
-	<string lang="es">Célula de Escudo $MODIFICATIONVALUE$</string>
-	<string lang="kr">방패 전지 $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Célula de Escudo $MODIFICATIONVALUE$</string>
-</set>
-<set id="description-module-vaultregeneration">
-	<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
-	<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
-	<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
-	<string lang="zh">可充电。$p$在拥有者的回合开始时，移除 $1$ 存储的 $energy$ 以治疗所有玩家角色 $1$。</string>
-	<string lang="jp">充電可能。$p$所有者のターンの開始時に、$1$ の蓄積された $energy$ を取り除き、全てのプレイヤーキャラクターを $1$ 回復します。</string>
-	<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохранённую $energy$ чтобы вылечить всех игроков на $1$.</string>
-	<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
-	<string lang="kr">충전 가능합니다.$p$소유자의 턴 시작시, $1$ 저장된 $energy$를 제거하여 모든 플레이어 캐릭터를 $1$ 회복합니다.</string>
-	<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para curar todos os personagens jogadores em $1$.</string>
-</set>
-<set id="description-module-vaultshield">
-	<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
-	<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
-	<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
-	<string lang="zh">可充电。$p$每当拥有者受到 $damage$ 时，移除 $1$ 存储的 $energy$ 以减少该伤害 $1$。</string>
-	<string lang="jp">充電可能。$p$所有者が $damage$ を受けるたびに、$1$ の蓄積された $energy$ を取り除き、そのダメージを $1$ 軽減します。</string>
-	<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
-	<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>
-	<string lang="kr">충전 가능합니다.$p$소유자가 $damage$를 받을 때마다, $1$ 저장된 $energy$를 제거하여 그 피해를 $1$ 줄입니다.</string>
-	<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
+		<string lang="de">Schildzelle $MODIFICATIONVALUE$</string>
+		<string lang="en">Shield Cell $MODIFICATIONVALUE$</string>
+		<string lang="fr">Pile de Bouclier $MODIFICATIONVALUE$</string>
+		<string lang="zh">护盾电池 $MODIFICATIONVALUE$</string>
+		<string lang="jp">シールドセル $MODIFICATIONVALUE$</string>
+		<string lang="ru">Ячейка Щита $MODIFICATIONVALUE$</string>
+		<string lang="es">Célula de Escudo $MODIFICATIONVALUE$</string>
+		<string lang="kr">방패 전지 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Célula de Escudo $MODIFICATIONVALUE$</string>
 </set>
 <set id="shortname-module-timebomb">
 		<string lang="de">Bombe</string>

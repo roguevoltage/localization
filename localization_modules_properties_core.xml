@@ -2,13 +2,13 @@
 <set id="capacity-hold">
 		<string lang="de">Hält bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="en">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="fr">Peut contenir jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="zh">最多可容纳&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="jp">最大&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を保持します</string>
-        <string lang="ru">Вмещает до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="es">Contiene hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
-        <string lang="kr">최대 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 보유합니다</string>
-        <string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="fr">Peut contenir jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="zh">最多可容纳&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="jp">最大&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を保持します</string>
+		<string lang="ru">Вмещает до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="es">Contiene hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
+		<string lang="kr">최대 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 보유합니다</string>
+		<string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 </set>
 <set id="discharge-endofbattle">
 		<string lang="de">Verliert Ladung am Ende des Kampfes</string>
@@ -197,50 +197,6 @@
 		<string lang="kr">레벨 6</string>
 		<string lang="pt-br">Nível 6</string>
 </set>
-<set id="module-properties-name-amplification">
-        <string lang="de">Verstärkung $MODIFICATIONVALUE$</string>
-        <string lang="en">Amplification $MODIFICATIONVALUE$</string>
-        <string lang="fr">Amplification $MODIFICATIONVALUE$</string>
-        <string lang="zh">放大 $MODIFICATIONVALUE$</string>
-        <string lang="jp">増幅 $MODIFICATIONVALUE$</string>
-        <string lang="ru">Усиление $MODIFICATIONVALUE$</string>
-        <string lang="es">Amplificación $MODIFICATIONVALUE$</string>
-        <string lang="kr">증폭 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Amplificação $MODIFICATIONVALUE$</string>
-</set>
-<set id="module-properties-description-amplification">
-        <string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
-        <string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
-        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
-        <string lang="zh">将 $b$$MODIFICATIONVALUE$ $/b$$energy$ 添加到当前</string>
-        <string lang="jp">現在の$energy$に$b$$MODIFICATIONVALUE$ $/b$$energy$を追加します</string>
-        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$ $/b$$energy$ к текущему</string>
-        <string lang="es">Añade $b$$MODIFICATIONVALUE$ $/b$$energy$ a la corriente</string>
-        <string lang="kr">현재에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 추가합니다</string>
-        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
-</set>
-<set id="module-properties-name-reduction">
-        <string lang="de">Dämpfung $MODIFICATIONVALUE$</string>
-        <string lang="en">Dampening $MODIFICATIONVALUE$</string>
-        <string lang="fr">Amortissement $MODIFICATIONVALUE$</string>
-        <string lang="zh">阻尼 $MODIFICATIONVALUE$</string>
-        <string lang="jp">ダンピング $MODIFICATIONVALUE$</string>
-        <string lang="ru">Затухание $MODIFICATIONVALUE$</string>
-        <string lang="es">Amortiguación $MODIFICATIONVALUE$</string>
-        <string lang="kr">감쇠 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Amortecimento $MODIFICATIONVALUE$</string>
-</set>
-<set id="module-properties-description-reduction">
-        <string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
-        <string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
-		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
-		<string lang="zh">从当前中减去 $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
-		<string lang="jp">現在の$energy$から$b$$MODIFICATIONVALUE$ $/b$$energy$を引きます</string>
-		<string lang="ru">Вычитает $b$$MODIFICATIONVALUE$ $/b$$energy$ из текущего</string>
-		<string lang="es">Resta $b$$MODIFICATIONVALUE$ $/b$$energy$ de la corriente</string>
-		<string lang="kr">현재에서 $b$$MODIFICATIONVALUE$ $/b$$energy$를 뺍니다</string>
-		<string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$ $/b$$energy$ da corrente</string>
-</set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Besitzer</string>
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>
@@ -263,16 +219,38 @@
 		<string lang="kr">배낭에 저장되어 있을 때 트리거되지 않습니다</string>
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
 </set>
+<set id="module-properties-description-amplification">
+		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
+		<string lang="zh">将 $b$$MODIFICATIONVALUE$ $/b$$energy$ 添加到当前</string>
+		<string lang="jp">現在の$energy$に$b$$MODIFICATIONVALUE$ $/b$$energy$を追加します</string>
+		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$ $/b$$energy$ к текущему</string>
+		<string lang="es">Añade $b$$MODIFICATIONVALUE$ $/b$$energy$ a la corriente</string>
+		<string lang="kr">현재에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 추가합니다</string>
+		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
+</set>
+<set id="module-properties-description-reduction">
+		<string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
+		<string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
+		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
+		<string lang="zh">从当前中减去 $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
+		<string lang="jp">現在の$energy$から$b$$MODIFICATIONVALUE$ $/b$$energy$を引きます</string>
+		<string lang="ru">Вычитает $b$$MODIFICATIONVALUE$ $/b$$energy$ из текущего</string>
+		<string lang="es">Resta $b$$MODIFICATIONVALUE$ $/b$$energy$ de la corriente</string>
+		<string lang="kr">현재에서 $b$$MODIFICATIONVALUE$ $/b$$energy$를 뺍니다</string>
+		<string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$ $/b$$energy$ da corrente</string>
+</set>
 <set id="module-properties-discharge-endofturn">
 		<string lang="de">Sensoren verlieren alle $energy$ am Ende des Zuges des Charakters</string>
 		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
 		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
-        <string lang="zh">传感器在拥有者回合结束时失去所有 $energy$</string>
-        <string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
-        <string lang="ru">Датчики теряют всю $energy$$br$в конце хода владельца</string>
-        <string lang="es">Los Sensores pierden toda la $energy$$br$al final del turno del propietario</string>
-        <string lang="kr">센서는 소유자의 턴이 끝날 때 모든 $energy$를 잃습니다</string>
-        <string lang="pt-br">Sensores perdem toda a $energy$$br$no final do turno do proprietário</string>
+		<string lang="zh">传感器在拥有者回合结束时失去所有 $energy$</string>
+		<string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
+		<string lang="ru">Датчики теряют всю $energy$$br$в конце хода владельца</string>
+		<string lang="es">Los Sensores pierden toda la $energy$$br$al final del turno del propietario</string>
+		<string lang="kr">센서는 소유자의 턴이 끝날 때 모든 $energy$를 잃습니다</string>
+		<string lang="pt-br">Sensores perdem toda a $energy$$br$no final do turno do proprietário</string>
 </set>
 <set id="module-properties-discharge-endofturn-impending">
 		<string lang="de">Verliert $energy$ am Ende des Zuges</string>
@@ -284,6 +262,28 @@
 		<string lang="es">Perderá $energy$ al final del turno</string>
 		<string lang="kr">턴이 끝날 때 $energy$를 잃습니다</string>
 		<string lang="pt-br">Perderá $energy$ no final do turno</string>
+</set>
+<set id="module-properties-name-amplification">
+		<string lang="de">Verstärkung $MODIFICATIONVALUE$</string>
+		<string lang="en">Amplification $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplification $MODIFICATIONVALUE$</string>
+		<string lang="zh">放大 $MODIFICATIONVALUE$</string>
+		<string lang="jp">増幅 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Усиление $MODIFICATIONVALUE$</string>
+		<string lang="es">Amplificación $MODIFICATIONVALUE$</string>
+		<string lang="kr">증폭 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Amplificação $MODIFICATIONVALUE$</string>
+</set>
+<set id="module-properties-name-reduction">
+		<string lang="de">Dämpfung $MODIFICATIONVALUE$</string>
+		<string lang="en">Dampening $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amortissement $MODIFICATIONVALUE$</string>
+		<string lang="zh">阻尼 $MODIFICATIONVALUE$</string>
+		<string lang="jp">ダンピング $MODIFICATIONVALUE$</string>
+		<string lang="ru">Затухание $MODIFICATIONVALUE$</string>
+		<string lang="es">Amortiguación $MODIFICATIONVALUE$</string>
+		<string lang="kr">감쇠 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Amortecimento $MODIFICATIONVALUE$</string>
 </set>
 <set id="module-rarity-common">
 		<string lang="de">Gewöhnlich</string>

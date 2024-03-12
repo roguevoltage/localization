@@ -240,6 +240,17 @@
 		<string lang="kr">난이도 선택</string>
 		<string lang="pt-br">Selecione uma dificuldade</string>
 </set>
+<set id="endofrun">
+		<string lang="de">Ende des Runs</string>
+		<string lang="en">End of Run</string>
+		<string lang="fr">Fin de la Partie</string>
+		<string lang="zh">游戏结束</string>
+		<string lang="jp">ゲーム終了</string>
+		<string lang="ru">Конец игры</string>
+		<string lang="es">Fin de la partida</string>
+		<string lang="kr">게임 종료</string>
+		<string lang="pt-br">Fim da partida</string>
+</set>
 <set id="jack-status-canbewired">
 		<string lang="de">Kann verkabelt werden</string>
 		<string lang="en">Can be wired</string>
@@ -285,48 +296,48 @@
 		<string lang="pt-br">&lt;color=yellow&gt;Conectando&lt;/color&gt;</string>
 </set>
 <set id="modalities-difficulty-0">
-        <string lang="de">&lt;color=#67FF73&gt;-40% Gegner-HP-Skalierung$br$+1 Kampfbewertungshandicap$br$+3 Sturmhandicap&lt;/color&gt;</string>
+		<string lang="de">&lt;color=#67FF73&gt;-40% Gegner-HP-Skalierung$br$+1 Kampfbewertungshandicap$br$+3 Sturmhandicap&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#67FF73&gt;-40% enemy HP scaling$br$+1 battle rating handicap$br$+3 storm handicap&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#67FF73&gt;-40% échelle de points de vie des ennemis$br$+1 handicap de notation de combat$br$+3 handicap de tempête&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#67FF73&gt;-40% 敌人生命值缩放$br$+1 战斗评级障碍$br$+3 风暴障碍&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#67FF73&gt;-40% 敵のHPスケーリング$br$+1 戦闘評価ハンデ$br$+3 ストームハンデ&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#67FF73&gt;-40% масштабирование HP врагов$br$+1 боевой рейтинг$br$+3 штормовое препятствие&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#67FF73&gt;-40% escala de HP enemiga$br$+1 handicap de clasificación de batalla$br$+3 handicap de tormenta&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#67FF73&gt;-40% 적 HP 스케일링$br$+1 전투 등급 장애$br$+3 스톰 장애&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#67FF73&gt;-40% escala de HP inimiga$br$+1 handicap de classificação de batalha$br$+3 handicap de tempestade&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#67FF73&gt;-40% échelle de points de vie des ennemis$br$+1 handicap de notation de combat$br$+3 handicap de tempête&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#67FF73&gt;-40% 敌人生命值缩放$br$+1 战斗评级障碍$br$+3 风暴障碍&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#67FF73&gt;-40% 敵のHPスケーリング$br$+1 戦闘評価ハンデ$br$+3 ストームハンデ&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#67FF73&gt;-40% масштабирование HP врагов$br$+1 боевой рейтинг$br$+3 штормовое препятствие&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#67FF73&gt;-40% escala de HP enemiga$br$+1 handicap de clasificación de batalla$br$+3 handicap de tormenta&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#67FF73&gt;-40% 적 HP 스케일링$br$+1 전투 등급 장애$br$+3 스톰 장애&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#67FF73&gt;-40% escala de HP inimiga$br$+1 handicap de classificação de batalha$br$+3 handicap de tempestade&lt;/color&gt;</string>
 </set>
 <set id="modalities-difficulty-1">
-        <string lang="de"></string>
+		<string lang="de"></string>
 		<string lang="en"></string>
-        <string lang="fr"></string>
-        <string lang="zh"></string>
-        <string lang="jp"></string>
-        <string lang="ru"></string>
-        <string lang="es"></string>
-        <string lang="kr"></string>
-        <string lang="pt-br"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
 </set>
 <set id="modalities-difficulty-2">
-        <string lang="de">&lt;color=#FF5555&gt;+35% Gegner-HP-Skalierung$br$-1 Kampfbewertungshandicap$br$-1 Sturmhandicap&lt;/color&gt;</string>
+		<string lang="de">&lt;color=#FF5555&gt;+35% Gegner-HP-Skalierung$br$-1 Kampfbewertungshandicap$br$-1 Sturmhandicap&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#FF5555&gt;+35% enemy HP scaling$br$-1 battle rating handicap$br$-1 storm handicap&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#FF5555&gt;+35% échelle de points de vie des ennemis$br$-1 handicap de notation de combat$br$-1 handicap de tempête&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#FF5555&gt;+35% 敌人生命值缩放$br$-1 战斗评级障碍$br$-1 风暴障碍&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#FF5555&gt;+35% 敵のHPスケーリング$br$-1 戦闘評価ハンデ$br$-1 ストームハンデ&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#FF5555&gt;+35% масштабирование HP врагов$br$-1 боевой рейтинг$br$-1 штормовое препятствие&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#FF5555&gt;+35% escala de HP enemiga$br$-1 handicap de clasificación de batalla$br$-1 handicap de tormenta&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#FF5555&gt;+35% 적 HP 스케일링$br$-1 전투 등급 장애$br$-1 스톰 장애&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#FF5555&gt;+35% escala de HP inimiga$br$-1 handicap de classificação de batalha$br$-1 handicap de tempestade&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FF5555&gt;+35% échelle de points de vie des ennemis$br$-1 handicap de notation de combat$br$-1 handicap de tempête&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;+35% 敌人生命值缩放$br$-1 战斗评级障碍$br$-1 风暴障碍&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;+35% 敵のHPスケーリング$br$-1 戦闘評価ハンデ$br$-1 ストームハンデ&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#FF5555&gt;+35% масштабирование HP врагов$br$-1 боевой рейтинг$br$-1 штормовое препятствие&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#FF5555&gt;+35% escala de HP enemiga$br$-1 handicap de clasificación de batalla$br$-1 handicap de tormenta&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;+35% 적 HP 스케일링$br$-1 전투 등급 장애$br$-1 스톰 장애&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#FF5555&gt;+35% escala de HP inimiga$br$-1 handicap de classificação de batalha$br$-1 handicap de tempestade&lt;/color&gt;</string>
 </set>
 <set id="modalities-difficulty-3">
-        <string lang="de">&lt;color=#FF5555&gt;+50% Gegner-HP-Skalierung$br$-1 Kampfbewertungshandicap$br$-2 Sturmhandicap$br$Kann nicht vom Beutebildschirm wiederbelebt werden&lt;/color&gt;</string>
+		<string lang="de">&lt;color=#FF5555&gt;+50% Gegner-HP-Skalierung$br$-1 Kampfbewertungshandicap$br$-2 Sturmhandicap$br$Kann nicht vom Beutebildschirm wiederbelebt werden&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#FF5555&gt;+50% enemy HP scaling$br$-1 battle rating handicap$br$-2 storm handicap$br$Cannot revive from loot screen&lt;/color&gt;</string>
-        <string lang="fr">&lt;color=#FF5555&gt;+50% échelle de points de vie des ennemis$br$-1 handicap de notation de combat$br$-2 handicap de tempête$br$Impossible de se réanimer à partir de l'écran de butin&lt;/color&gt;</string>
-        <string lang="zh">&lt;color=#FF5555&gt;+50% 敌人生命值缩放$br$-1 战斗评级障碍$br$-2 风暴障碍$br$无法从战利品屏幕复活&lt;/color&gt;</string>
-        <string lang="jp">&lt;color=#FF5555&gt;+50% 敵のHPスケーリング$br$-1 戦闘評価ハンデ$br$-2 ストームハンデ$br$戦利品画面から復活できません&lt;/color&gt;</string>
-        <string lang="ru">&lt;color=#FF5555&gt;+50% масштабирование HP врагов$br$-1 боевой рейтинг$br$-2 штормовое препятствие$br$Невозможно воскреснуть с экрана добычи&lt;/color&gt;</string>
-        <string lang="es">&lt;color=#FF5555&gt;+50% escala de HP enemiga$br$-1 handicap de clasificación de batalla$br$-2 handicap de tormenta$br$No se puede revivir desde la pantalla de botín&lt;/color&gt;</string>
-        <string lang="kr">&lt;color=#FF5555&gt;+50% 적 HP 스케일링$br$-1 전투 등급 장애$br$-2 스톰 장애$br$전리품 화면에서 부활할 수 없습니다&lt;/color&gt;</string>
-        <string lang="pt-br">&lt;color=#FF5555&gt;+50% escala de HP inimiga$br$-1 handicap de classificação de batalha$br$-2 handicap de tempestade$br$Não pode reviver da tela de saque&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FF5555&gt;+50% échelle de points de vie des ennemis$br$-1 handicap de notation de combat$br$-2 handicap de tempête$br$Impossible de se réanimer à partir de l'écran de butin&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#FF5555&gt;+50% 敌人生命值缩放$br$-1 战斗评级障碍$br$-2 风暴障碍$br$无法从战利品屏幕复活&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#FF5555&gt;+50% 敵のHPスケーリング$br$-1 戦闘評価ハンデ$br$-2 ストームハンデ$br$戦利品画面から復活できません&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#FF5555&gt;+50% масштабирование HP врагов$br$-1 боевой рейтинг$br$-2 штормовое препятствие$br$Невозможно воскреснуть с экрана добычи&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#FF5555&gt;+50% escala de HP enemiga$br$-1 handicap de clasificación de batalla$br$-2 handicap de tormenta$br$No se puede revivir desde la pantalla de botín&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#FF5555&gt;+50% 적 HP 스케일링$br$-1 전투 등급 장애$br$-2 스톰 장애$br$전리품 화면에서 부활할 수 없습니다&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#FF5555&gt;+50% escala de HP inimiga$br$-1 handicap de classificação de batalha$br$-2 handicap de tempestade$br$Não pode reviver da tela de saque&lt;/color&gt;</string>
 </set>
 <set id="name-backpack">
 		<string lang="de">Rucksack</string>
@@ -499,10 +510,10 @@
 		<string lang="fr">Prototype Early Access</string>
 		<string lang="zh">抢先体验版</string>
 		<string lang="jp">アーリーアクセス プロトタイプ</string>
-        <string lang="ru">Ранний доступ Прототип</string>
-        <string lang="es">Prototipo de Acceso Anticipado</string>
-        <string lang="kr">얼리 액세스 프로토타입</string>
-        <string lang="pt-br">Protótipo de Acesso Antecipado</string>
+		<string lang="ru">Ранний доступ Прототип</string>
+		<string lang="es">Prototipo de Acceso Anticipado</string>
+		<string lang="kr">얼리 액세스 프로토타입</string>
+		<string lang="pt-br">Protótipo de Acesso Antecipado</string>
 </set>
 <set id="scope-extendeddemo">
 		<string lang="de">Erweiterte Demo</string>
@@ -531,11 +542,11 @@
 		<string lang="en">Playtest</string>
 		<string lang="fr">Playtest</string>
 		<string lang="zh">游戏测试</string>
-        <string lang="jp">プレイテスト</string>
-        <string lang="ru">Тестирование игры</string>
-        <string lang="es">Prueba de juego</string>
-        <string lang="kr">플레이테스트</string>
-        <string lang="pt-br">Teste de jogo</string>
+		<string lang="jp">プレイテスト</string>
+		<string lang="ru">Тестирование игры</string>
+		<string lang="es">Prueba de juego</string>
+		<string lang="kr">플레이테스트</string>
+		<string lang="pt-br">Teste de jogo</string>
 </set>
 <set id="scope-prototype">
 		<string lang="de">Prototyp</string>
@@ -613,6 +624,94 @@
 		<string lang="es">¡Empieza la$br$aventura!</string>
 		<string lang="kr">모험 시작!</string>
 		<string lang="pt-br">Comece a$br$aventura!</string>
+</set>
+<set id="stat-damage-dealt">
+		<string lang="de">Schaden an Gegnern</string>
+		<string lang="en">Damage Dealt To Enemies</string>
+		<string lang="fr">Dégâts infligés aux ennemis</string>
+		<string lang="zh">对敌人造成的伤害</string>
+		<string lang="jp">敵に与えたダメージ</string>
+		<string lang="ru">Нанесено урона врагам</string>
+		<string lang="es">Daño infligido a enemigos</string>
+		<string lang="kr">적에게 입힌 피해</string>
+		<string lang="pt-br">Dano causado aos inimigos</string>
+</set>
+<set id="stat-damage-received">
+		<string lang="de">Erhaltener Schaden</string>
+		<string lang="en">Damage Received</string>
+		<string lang="fr">Dégâts reçus</string>
+		<string lang="zh">受到的伤害</string>
+		<string lang="jp">受けたダメージ</string>
+		<string lang="ru">Получено урона</string>
+		<string lang="es">Daño recibido</string>
+		<string lang="kr">받은 피해</string>
+		<string lang="pt-br">Dano recebido</string>
+</set>
+<set id="stat-enemies-killed">
+		<string lang="de">Gegner Besiegt</string>
+		<string lang="en">Enemies Defeated</string>
+		<string lang="fr">Ennemis tués</string>
+		<string lang="zh">击败敌人</string>
+		<string lang="jp">敵を倒した</string>
+		<string lang="ru">Убито врагов</string>
+		<string lang="es">Enemigos derrotados</string>
+		<string lang="kr">적 처치</string>
+		<string lang="pt-br">Inimigos derrotados</string>
+</set>
+<set id="stat-energy-generated">
+		<string lang="de">Energie Erzeugt</string>
+		<string lang="en">Energy Generated</string>
+		<string lang="fr">Énergie générée</string>
+		<string lang="zh">产生的能量</string>
+		<string lang="jp">生成されたエネルギー</string>
+		<string lang="ru">Сгенерировано энергии</string>
+		<string lang="es">Energía generada</string>
+		<string lang="kr">생성된 에너지</string>
+		<string lang="pt-br">Energia gerada</string>
+</set>
+<set id="stat-modules-constructed">
+		<string lang="de">Module Hergestellt</string>
+		<string lang="en">Modules Constructed</string>
+		<string lang="fr">Modules construits</string>
+		<string lang="zh">构建的模块</string>
+		<string lang="jp">モジュールを構築しました</string>
+		<string lang="ru">Построено модулей</string>
+		<string lang="es">Módulos construidos</string>
+		<string lang="kr">모듈 생성</string>
+		<string lang="pt-br">Módulos construídos</string>
+</set>
+<set id="stat-modules-destroyed">
+		<string lang="de">Module Zerstört</string>
+		<string lang="en">Modules Destroyed</string>
+		<string lang="fr">Modules détruits</string>
+		<string lang="zh">摧毁的模块</string>
+		<string lang="jp">モジュールを破壊しました</string>
+		<string lang="ru">Уничтожено модулей</string>
+		<string lang="es">Módulos destruidos</string>
+		<string lang="kr">모듈 파괴</string>
+		<string lang="pt-br">Módulos destruídos</string>
+</set>
+<set id="stat-plasma-collected">
+		<string lang="de">Gesammeltes Plasma</string>
+		<string lang="en">Plasma Collected</string>
+		<string lang="fr">Plasma collecté</string>
+		<string lang="zh">收集的等离子体</string>
+		<string lang="jp">回収したプラズマ</string>
+		<string lang="ru">Собрано плазмы</string>
+		<string lang="es">Plasma recogido</string>
+		<string lang="kr">수집된 플라즈마</string>
+		<string lang="pt-br">Plasma coletado</string>
+</set>
+<set id="stat-points-healed">
+		<string lang="de">Lebenspunkte Geheilt</string>
+		<string lang="en">Points Healed</string>
+		<string lang="fr">Points de vie soignés</string>
+		<string lang="zh">治愈的点数</string>
+		<string lang="jp">回復したポイント</string>
+		<string lang="ru">Восстановлено очков здоровья</string>
+		<string lang="es">Puntos curados</string>
+		<string lang="kr">회복된 포인트</string>
+		<string lang="pt-br">Pontos curados</string>
 </set>
 <set id="tooltip-removewires">
 		<string lang="de">Alle Kabel entfernen</string>
@@ -779,6 +878,83 @@
 		<string lang="kr">오류</string>
 		<string lang="pt-br">ERRO</string>
 </set>
+<set id="ui-feedback-email">
+		<string lang="de">E-Mail-Adresse (optional)</string>
+		<string lang="en">E-Mail Address (Optional)</string>
+		<string lang="fr">Adresse e-mail (optionnel)</string>
+		<string lang="zh">电子邮件地址（可选）</string>
+		<string lang="jp">メールアドレス（任意）</string>
+		<string lang="ru">Адрес электронной почты (необязательно)</string>
+		<string lang="es">Dirección de correo electrónico (opcional)</string>
+		<string lang="kr">이메일 주소 (선택 사항)</string>
+		<string lang="pt-br">Endereço de e-mail (opcional)</string>
+</set>
+<set id="ui-feedback-email-placeholder">
+		<string lang="de">Gib deine E-Mail-Adresse ein (optional)</string>
+		<string lang="en">Enter your email address (optional)</string>
+		<string lang="fr">Entrez votre adresse e-mail (optionnel)</string>
+		<string lang="zh">输入您的电子邮件地址（可选）</string>
+		<string lang="jp">メールアドレスを入力してください（任意）</string>
+		<string lang="ru">Введите ваш адрес электронной почты (необязательно)</string>
+		<string lang="es">Ingrese su dirección de correo electrónico (opcional)</string>
+		<string lang="kr">이메일 주소를 입력하십시오 (선택 사항)</string>
+		<string lang="pt-br">Digite seu endereço de e-mail (opcional)</string>
+</set>
+<set id="ui-feedback-instructions">
+		<string lang="de">Beim Melden eines Fehlers bitte folgende Informationen angeben:$p$1.) Beschreibung des Fehlers$p$2.) Was hast du gemacht, als der Fehler auftrat? (eine Schritt-für-Schritt-Anleitung ist am besten)$p$3.) Was hättest du stattdessen erwartet?</string>
+		<string lang="en">When reporting a bug please include this information:$p$1.) Description of the bug$p$2.) What you did to get the bug? (a step-by-step is best)$p$3.) What you think should have happened instead?</string>
+		<string lang="fr">Lorsque vous signalez un bug, veuillez inclure ces informations:$p$1.) Description du bug$p$2.) Qu'avez-vous fait pour obtenir le bug? (un pas à pas est le meilleur)$p$3.) Qu'est-ce que vous pensez qu'il aurait dû se passer à la place?</string>
+		<string lang="zh">报告错误时，请包括以下信息：$p$1.) 错误的描述$p$2.) 您是如何获得错误的？（最好是一步一步）$p$3.) 您认为应该发生什么？</string>
+		<string lang="jp">バグを報告する際は、次の情報を含めてください：$p$1.) バグの説明$p$2.) バグを取得するために何をしましたか？（ステップバイステップが最適です）$p$3.) 代わりに何が起こるべきだと思いますか？</string>
+		<string lang="ru">При сообщении об ошибке, пожалуйста, включите эту информацию:$p$1.) Описание ошибки$p$2.) Что вы сделали, чтобы получить ошибку? (пошаговое руководство лучше всего)$p$3.) Что вы думаете, должно было произойти вместо этого?</string>
+		<string lang="es">Al informar un error, incluya esta información:$p$1.) Descripción del error$p$2.) ¿Qué hiciste para obtener el error? (un paso a paso es lo mejor)$p$3.) ¿Qué piensas que debería haber sucedido en su lugar?</string>
+		<string lang="kr">버그를 신고할 때 이 정보를 포함하십시오:$p$1.) 버그 설명$p$2.) 버그를 얻기 위해 무엇을 했나요? (단계별이 가장 좋음)$p$3.) 대신에 무엇이 일어나야 했다고 생각하십니까?</string>
+		<string lang="pt-br">Ao relatar um bug, inclua estas informações:$p$1.) Descrição do bug$p$2.) O que você fez para obter o bug? (um passo a passo é o melhor)$p$3.) O que você acha que deveria ter acontecido em vez disso?</string>
+</set>
+<set id="ui-feedback-placeholder">
+		<string lang="de">Beschreibe das Problem oder dein Feedback...</string>
+		<string lang="en">Enter a description of the issue or your feedback...</string>
+		<string lang="fr">Entrez une description du problème ou votre retour...</string>
+		<string lang="zh">输入问题的描述或您的反馈...</string>
+		<string lang="jp">問題の説明またはフィードバックを入力してください...</string>
+		<string lang="ru">Введите описание проблемы или ваш отзыв...</string>
+		<string lang="es">Ingrese una descripción del problema o sus comentarios...</string>
+		<string lang="kr">문제에 대한 설명 또는 피드백을 입력하십시오...</string>
+		<string lang="pt-br">Digite uma descrição do problema ou seu feedback...</string>
+</set>
+<set id="ui-feedback-status-failed">
+		<string lang="de">Berichtübermittlung fehlgeschlagen.</string>
+		<string lang="en">Report submission failed.</string>
+		<string lang="fr">Échec de la soumission du rapport.</string>
+		<string lang="zh">报告提交失败。</string>
+		<string lang="jp">レポートの送信に失敗しました。</string>
+		<string lang="ru">Не удалось отправить отчет.</string>
+		<string lang="es">Error al enviar el informe.</string>
+		<string lang="kr">보고서 제출 실패.</string>
+		<string lang="pt-br">Falha no envio do relatório.</string>
+</set>
+<set id="ui-feedback-status-submitting">
+		<string lang="de">Bericht wird übermittelt...</string>
+		<string lang="en">Submitting report...</string>
+		<string lang="fr">Soumission du rapport...</string>
+		<string lang="zh">正在提交报告...</string>
+		<string lang="jp">レポートを送信中...</string>
+		<string lang="ru">Отправка отчета...</string>
+		<string lang="es">Enviando informe...</string>
+		<string lang="kr">보고서 제출 중...</string>
+		<string lang="pt-br">Enviando relatório...</string>
+</set>
+<set id="ui-feedback-status-successful">
+		<string lang="de">Bericht erfolgreich übermittelt!</string>
+		<string lang="en">Report submitted successfully!</string>
+		<string lang="fr">Rapport soumis avec succès !</string>
+		<string lang="zh">报告提交成功！</string>
+		<string lang="jp">レポートが正常に送信されました！</string>
+		<string lang="ru">Отчет успешно отправлен!</string>
+		<string lang="es">Informe enviado con éxito!</string>
+		<string lang="kr">보고서가 성공적으로 제출되었습니다!</string>
+		<string lang="pt-br">Relatório enviado com sucesso!</string>
+</set>
 <set id="ui-green">
 		<string lang="de">&lt;color=green&gt;Grün&lt;/color&gt;</string>
 		<string lang="en">&lt;color=green&gt;Green&lt;/color&gt;</string>
@@ -802,15 +978,15 @@
 		<string lang="pt-br">Curar 1</string>
 </set>
 <set id="ui-input-controls">
-        <string lang="de">Steuerung</string>
+		<string lang="de">Steuerung</string>
 		<string lang="en">Controls</string>
-        <string lang="fr">Contrôles</string>
-        <string lang="zh">控制</string>
-        <string lang="jp">コントロール</string>
-        <string lang="ru">Управление</string>
-        <string lang="es">Controles</string>
-        <string lang="kr">조작</string>
-        <string lang="pt-br">Controles</string>
+		<string lang="fr">Contrôles</string>
+		<string lang="zh">控制</string>
+		<string lang="jp">コントロール</string>
+		<string lang="ru">Управление</string>
+		<string lang="es">Controles</string>
+		<string lang="kr">조작</string>
+		<string lang="pt-br">Controles</string>
 </set>
 <set id="ui-leave">
 		<string lang="de">Verlassen</string>
@@ -889,17 +1065,6 @@
 		<string lang="kr">다시 굴리기$br$(-$REROLLCOST$ $plasmaicon$)</string>
 		<string lang="pt-br">Rolar novamente$br$(-$REROLLCOST$ $plasmaicon$)</string>
 </set>
-<set id="ui-loot-selection-finished">
-		<string lang="de">Belohnung aufgesammelt</string>
-		<string lang="en">Reward collected</string>
-		<string lang="fr">Récompense collectée</string>
-		<string lang="zh">奖励已获得</string>
-		<string lang="jp">報酬を収集しました</string>
-		<string lang="ru">Добыча собрана</string>
-		<string lang="es">Recompensa recogida</string>
-		<string lang="kr">보상 획득</string>
-		<string lang="pt-br">Recompensa coletada</string>
-</set>
 <set id="ui-loot-revive">
 		<string lang="de">Wiederbeleben$br$(-$REVIVECOST$ $plasmaicon$)</string>
 		<string lang="en">Revive$br$(-$REVIVECOST$ $plasmaicon$)</string>
@@ -910,6 +1075,17 @@
 		<string lang="es">Resucitar$br$(-$REVIVECOST$ $plasmaicon$)</string>
 		<string lang="kr">부활$br$(-$REVIVECOST$ $plasmaicon$)</string>
 		<string lang="pt-br">Ressuscitar$br$(-$REVIVECOST$ $plasmaicon$)</string>
+</set>
+<set id="ui-loot-selection-finished">
+		<string lang="de">Belohnung aufgesammelt</string>
+		<string lang="en">Reward collected</string>
+		<string lang="fr">Récompense collectée</string>
+		<string lang="zh">奖励已获得</string>
+		<string lang="jp">報酬を収集しました</string>
+		<string lang="ru">Добыча собрана</string>
+		<string lang="es">Recompensa recogida</string>
+		<string lang="kr">보상 획득</string>
+		<string lang="pt-br">Recompensa coletada</string>
 </set>
 <set id="ui-loot-skip">
 		<string lang="de">Über-$br$springen$br$(+$SKIPBONUS$ $plasmaicon$)</string>
@@ -1011,15 +1187,15 @@
 		<string lang="pt-br">&lt;color=#FF5555&gt;Vermelho&lt;/color&gt;</string>
 </set>
 <set id="ui-reroll">
-        <string lang="de">Neu Auswürfeln</string>
+		<string lang="de">Neu Auswürfeln</string>
 		<string lang="en">Reroll</string>
-        <string lang="fr">Relancer</string>
-        <string lang="zh">重新生成</string>
-        <string lang="jp">再ロール</string>
-        <string lang="ru">Заменить</string>
-        <string lang="es">Volver a tirar</string>
-        <string lang="kr">다시 굴리기</string>
-        <string lang="pt-br">Rolar novamente</string>
+		<string lang="fr">Relancer</string>
+		<string lang="zh">重新生成</string>
+		<string lang="jp">再ロール</string>
+		<string lang="ru">Заменить</string>
+		<string lang="es">Volver a tirar</string>
+		<string lang="kr">다시 굴리기</string>
+		<string lang="pt-br">Rolar novamente</string>
 </set>
 <set id="ui-revive">
 		<string lang="de">Wiederbeleben</string>
@@ -1307,6 +1483,28 @@
 		<string lang="kr">새로운 런 시작하기</string>
 		<string lang="pt-br">Jogar outra$br$partida</string>
 </set>
+<set id="ui-submit">
+		<string lang="de">Abschicken</string>
+		<string lang="en">Submit</string>
+		<string lang="fr">Envoyer</string>
+		<string lang="zh">提交</string>
+		<string lang="jp">送信</string>
+		<string lang="ru">Отправить</string>
+		<string lang="es">Enviar</string>
+		<string lang="kr">제출</string>
+		<string lang="pt-br">Enviar</string>
+</set>
+<set id="ui-submitfeedback">
+		<string lang="de">Bug Melden oder Feedback Senden</string>
+		<string lang="en">Report Bug or Provide Feedback</string>
+		<string lang="fr">Signaler un bug ou donner un retour</string>
+		<string lang="zh">报告错误或提供反馈</string>
+		<string lang="jp">バグを報告するかフィードバックを提供する</string>
+		<string lang="ru">Сообщить о баге или предоставить обратную связь</string>
+		<string lang="es">Informar sobre un error o proporcionar comentarios</string>
+		<string lang="kr">버그 신고 또는 피드백 제공</string>
+		<string lang="pt-br">Relatar bug ou fornecer feedback</string>
+</set>
 <set id="ui-timeline">
 		<string lang="de">Zeitleiste</string>
 		<string lang="en">Timeline</string>
@@ -1516,105 +1714,6 @@
 		<string lang="kr">&lt;color=#FF00FF&gt;바이러스&lt;/color&gt;</string>
 		<string lang="pt-br">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
 </set>
-<set id="ui-submitfeedback">
-    <string lang="de">Bug Melden oder Feedback Senden</string>
-	<string lang="en">Report Bug or Provide Feedback</string>
-    <string lang="fr">Signaler un bug ou donner un retour</string>
-    <string lang="zh">报告错误或提供反馈</string>
-    <string lang="jp">バグを報告するかフィードバックを提供する</string>
-    <string lang="ru">Сообщить о баге или предоставить обратную связь</string>
-    <string lang="es">Informar sobre un error o proporcionar comentarios</string>
-    <string lang="kr">버그 신고 또는 피드백 제공</string>
-    <string lang="pt-br">Relatar bug ou fornecer feedback</string>
-</set>
-<set id="ui-submit">
-    <string lang="de">Abschicken</string>
-	<string lang="en">Submit</string>
-    <string lang="fr">Envoyer</string>
-    <string lang="zh">提交</string>
-    <string lang="jp">送信</string>
-    <string lang="ru">Отправить</string>
-    <string lang="es">Enviar</string>
-    <string lang="kr">제출</string>
-    <string lang="pt-br">Enviar</string>
-</set>
-<set id="ui-feedback-placeholder">
-    <string lang="de">Beschreibe das Problem oder dein Feedback...</string>
-	<string lang="en">Enter a description of the issue or your feedback...</string>
-    <string lang="fr">Entrez une description du problème ou votre retour...</string>
-    <string lang="zh">输入问题的描述或您的反馈...</string>
-    <string lang="jp">問題の説明またはフィードバックを入力してください...</string>
-    <string lang="ru">Введите описание проблемы или ваш отзыв...</string>
-    <string lang="es">Ingrese una descripción del problema o sus comentarios...</string>
-    <string lang="kr">문제에 대한 설명 또는 피드백을 입력하십시오...</string>
-    <string lang="pt-br">Digite uma descrição do problema ou seu feedback...</string>
-</set>
-<set id="ui-feedback-email">
-    <string lang="de">E-Mail-Adresse (optional)</string>
-	<string lang="en">E-Mail Address (Optional)</string>
-    <string lang="fr">Adresse e-mail (optionnel)</string>
-	<string lang="zh">电子邮件地址（可选）</string>
-	<string lang="jp">メールアドレス（任意）</string>
-	<string lang="ru">Адрес электронной почты (необязательно)</string>
-	<string lang="es">Dirección de correo electrónico (opcional)</string>
-	<string lang="kr">이메일 주소 (선택 사항)</string>
-	<string lang="pt-br">Endereço de e-mail (opcional)</string>
-</set>
-<set id="ui-feedback-email-placeholder">
-	<string lang="de">Gib deine E-Mail-Adresse ein (optional)</string>
-	<string lang="en">Enter your email address (optional)</string>
-	<string lang="fr">Entrez votre adresse e-mail (optionnel)</string>
-	<string lang="zh">输入您的电子邮件地址（可选）</string>
-	<string lang="jp">メールアドレスを入力してください（任意）</string>
-	<string lang="ru">Введите ваш адрес электронной почты (необязательно)</string>
-	<string lang="es">Ingrese su dirección de correo electrónico (opcional)</string>
-	<string lang="kr">이메일 주소를 입력하십시오 (선택 사항)</string>
-	<string lang="pt-br">Digite seu endereço de e-mail (opcional)</string>
-</set>
-<set id="ui-feedback-instructions">
-	<string lang="de">Beim Melden eines Fehlers bitte folgende Informationen angeben:$p$1.) Beschreibung des Fehlers$p$2.) Was hast du gemacht, als der Fehler auftrat? (eine Schritt-für-Schritt-Anleitung ist am besten)$p$3.) Was hättest du stattdessen erwartet?</string>
-	<string lang="en">When reporting a bug please include this information:$p$1.) Description of the bug$p$2.) What you did to get the bug? (a step-by-step is best)$p$3.) What you think should have happened instead?</string>
-	<string lang="fr">Lorsque vous signalez un bug, veuillez inclure ces informations:$p$1.) Description du bug$p$2.) Qu'avez-vous fait pour obtenir le bug? (un pas à pas est le meilleur)$p$3.) Qu'est-ce que vous pensez qu'il aurait dû se passer à la place?</string>
-	<string lang="zh">报告错误时，请包括以下信息：$p$1.) 错误的描述$p$2.) 您是如何获得错误的？（最好是一步一步）$p$3.) 您认为应该发生什么？</string>
-	<string lang="jp">バグを報告する際は、次の情報を含めてください：$p$1.) バグの説明$p$2.) バグを取得するために何をしましたか？（ステップバイステップが最適です）$p$3.) 代わりに何が起こるべきだと思いますか？</string>
-	<string lang="ru">При сообщении об ошибке, пожалуйста, включите эту информацию:$p$1.) Описание ошибки$p$2.) Что вы сделали, чтобы получить ошибку? (пошаговое руководство лучше всего)$p$3.) Что вы думаете, должно было произойти вместо этого?</string>
-	<string lang="es">Al informar un error, incluya esta información:$p$1.) Descripción del error$p$2.) ¿Qué hiciste para obtener el error? (un paso a paso es lo mejor)$p$3.) ¿Qué piensas que debería haber sucedido en su lugar?</string>
-	<string lang="kr">버그를 신고할 때 이 정보를 포함하십시오:$p$1.) 버그 설명$p$2.) 버그를 얻기 위해 무엇을 했나요? (단계별이 가장 좋음)$p$3.) 대신에 무엇이 일어나야 했다고 생각하십니까?</string>
-	<string lang="pt-br">Ao relatar um bug, inclua estas informações:$p$1.) Descrição do bug$p$2.) O que você fez para obter o bug? (um passo a passo é o melhor)$p$3.) O que você acha que deveria ter acontecido em vez disso?</string>
-</set>
-<set id="ui-feedback-status-submitting">
-	<string lang="de">Bericht wird übermittelt...</string>
-	<string lang="en">Submitting report...</string>
-	<string lang="fr">Soumission du rapport...</string>
-	<string lang="zh">正在提交报告...</string>
-	<string lang="jp">レポートを送信中...</string>
-	<string lang="ru">Отправка отчета...</string>
-	<string lang="es">Enviando informe...</string>
-	<string lang="kr">보고서 제출 중...</string>
-	<string lang="pt-br">Enviando relatório...</string>
-</set>
-<set id="ui-feedback-status-successful">
-	<string lang="de">Bericht erfolgreich übermittelt!</string>
-	<string lang="en">Report submitted successfully!</string>
-	<string lang="fr">Rapport soumis avec succès !</string>
-	<string lang="zh">报告提交成功！</string>
-	<string lang="jp">レポートが正常に送信されました！</string>
-	<string lang="ru">Отчет успешно отправлен!</string>
-	<string lang="es">Informe enviado con éxito!</string>
-	<string lang="kr">보고서가 성공적으로 제출되었습니다!</string>
-	<string lang="pt-br">Relatório enviado com sucesso!</string>
-</set>
-<set id="ui-feedback-status-failed">
-	<string lang="de">Berichtübermittlung fehlgeschlagen.</string>
-	<string lang="en">Report submission failed.</string>
-	<string lang="fr">Échec de la soumission du rapport.</string>
-	<string lang="zh">报告提交失败。</string>
-	<string lang="jp">レポートの送信に失敗しました。</string>
-	<string lang="ru">Не удалось отправить отчет.</string>
-	<string lang="es">Error al enviar el informe.</string>
-	<string lang="kr">보고서 제출 실패.</string>
-	<string lang="pt-br">Falha no envio do relatório.</string>
-</set>
 <set id="undefined">
 		<string lang="de">Lokalisationsfehler</string>
 		<string lang="en">Localization Error</string>
@@ -1658,104 +1757,5 @@
 		<string lang="es">Progresión</string>
 		<string lang="kr">진행 상황</string>
 		<string lang="pt-br">Progressão</string>
-</set>
-<set id="endofrun">
-	<string lang="de">Ende des Runs</string>
-	<string lang="en">End of Run</string>
-	<string lang="fr">Fin de la Partie</string>
-	<string lang="zh">游戏结束</string>
-	<string lang="jp">ゲーム終了</string>
-	<string lang="ru">Конец игры</string>
-	<string lang="es">Fin de la partida</string>
-	<string lang="kr">게임 종료</string>
-	<string lang="pt-br">Fim da partida</string>
-</set>
-<set id="stat-enemies-killed">
-	<string lang="de">Gegner Besiegt</string>
-	<string lang="en">Enemies Defeated</string>
-	<string lang="fr">Ennemis tués</string>
-	<string lang="zh">击败敌人</string>
-	<string lang="jp">敵を倒した</string>
-	<string lang="ru">Убито врагов</string>
-	<string lang="es">Enemigos derrotados</string>
-	<string lang="kr">적 처치</string>
-	<string lang="pt-br">Inimigos derrotados</string>
-</set>
-<set id="stat-damage-dealt">
-	<string lang="de">Schaden an Gegnern</string>
-	<string lang="en">Damage Dealt To Enemies</string>
-	<string lang="fr">Dégâts infligés aux ennemis</string>
-	<string lang="zh">对敌人造成的伤害</string>
-	<string lang="jp">敵に与えたダメージ</string>
-	<string lang="ru">Нанесено урона врагам</string>
-	<string lang="es">Daño infligido a enemigos</string>
-	<string lang="kr">적에게 입힌 피해</string>
-	<string lang="pt-br">Dano causado aos inimigos</string>
-</set>
-<set id="stat-damage-received">
-	<string lang="de">Erhaltener Schaden</string>
-	<string lang="en">Damage Received</string>
-	<string lang="fr">Dégâts reçus</string>
-	<string lang="zh">受到的伤害</string>
-	<string lang="jp">受けたダメージ</string>
-	<string lang="ru">Получено урона</string>
-	<string lang="es">Daño recibido</string>
-	<string lang="kr">받은 피해</string>
-	<string lang="pt-br">Dano recebido</string>
-</set>
-<set id="stat-plasma-collected">
-	<string lang="de">Gesammeltes Plasma</string>
-	<string lang="en">Plasma Collected</string>
-	<string lang="fr">Plasma collecté</string>
-	<string lang="zh">收集的等离子体</string>
-	<string lang="jp">回収したプラズマ</string>
-	<string lang="ru">Собрано плазмы</string>
-	<string lang="es">Plasma recogido</string>
-	<string lang="kr">수집된 플라즈마</string>
-	<string lang="pt-br">Plasma coletado</string>
-</set>
-<set id="stat-modules-constructed">
-	<string lang="de">Module Hergestellt</string>
-	<string lang="en">Modules Constructed</string>
-	<string lang="fr">Modules construits</string>
-	<string lang="zh">构建的模块</string>
-	<string lang="jp">モジュールを構築しました</string>
-	<string lang="ru">Построено модулей</string>
-	<string lang="es">Módulos construidos</string>
-	<string lang="kr">모듈 생성</string>
-	<string lang="pt-br">Módulos construídos</string>
-</set>
-<set id="stat-modules-destroyed">
-	<string lang="de">Module Zerstört</string>
-	<string lang="en">Modules Destroyed</string>
-	<string lang="fr">Modules détruits</string>
-	<string lang="zh">摧毁的模块</string>
-	<string lang="jp">モジュールを破壊しました</string>
-	<string lang="ru">Уничтожено модулей</string>
-	<string lang="es">Módulos destruidos</string>
-	<string lang="kr">모듈 파괴</string>
-	<string lang="pt-br">Módulos destruídos</string>
-</set>
-<set id="stat-energy-generated">
-	<string lang="de">Energie Erzeugt</string>
-	<string lang="en">Energy Generated</string>
-	<string lang="fr">Énergie générée</string>
-    <string lang="zh">产生的能量</string>
-    <string lang="jp">生成されたエネルギー</string>
-    <string lang="ru">Сгенерировано энергии</string>
-    <string lang="es">Energía generada</string>
-    <string lang="kr">생성된 에너지</string>
-    <string lang="pt-br">Energia gerada</string>
-</set>
-<set id="stat-points-healed">
-    <string lang="de">Lebenspunkte Geheilt</string>
-	<string lang="en">Points Healed</string>
-    <string lang="fr">Points de vie soignés</string>
-    <string lang="zh">治愈的点数</string>
-    <string lang="jp">回復したポイント</string>
-    <string lang="ru">Восстановлено очков здоровья</string>
-    <string lang="es">Puntos curados</string>
-    <string lang="kr">회복된 포인트</string>
-    <string lang="pt-br">Pontos curados</string>
 </set>
 </localization>

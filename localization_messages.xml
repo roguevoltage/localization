@@ -33,26 +33,26 @@
 		<string lang="pt-br">BUG: $TURN$ não tem ator</string>
 </set>
 <set id="chatmessage-vote-ended">
-        <string lang="de">Abstimmung Beendet</string>
+		<string lang="de">Abstimmung Beendet</string>
 		<string lang="en">Voting Ended</string>
-        <string lang="fr">Vote Terminé</string>
-        <string lang="zh">投票结束</string>
-        <string lang="jp">投票終了</string>
-        <string lang="ru">Голосование завершено</string>
-        <string lang="es">Votación Terminada</string>
-        <string lang="kr">투표 종료</string>
-        <string lang="pt-br">Votação Encerrada</string>
+		<string lang="fr">Vote Terminé</string>
+		<string lang="zh">投票结束</string>
+		<string lang="jp">投票終了</string>
+		<string lang="ru">Голосование завершено</string>
+		<string lang="es">Votación Terminada</string>
+		<string lang="kr">투표 종료</string>
+		<string lang="pt-br">Votação Encerrada</string>
 </set>
 <set id="chatmessage-vote-started">
-        <string lang="de">Anfang der Abstimmung! Um abzustimmen, sende</string>
+		<string lang="de">Anfang der Abstimmung! Um abzustimmen, sende</string>
 		<string lang="en">Voting Started! To vote send</string>
-        <string lang="fr">Vote Commencé! Pour voter, envoyez</string>
-        <string lang="zh">投票开始！要投票，请发送</string>
-        <string lang="jp">投票開始！投票するには、送信してください</string>
-        <string lang="ru">Голосование началось! Чтобы проголосовать, отправьте</string>
-        <string lang="es">¡Votación Iniciada! Para votar, envía</string>
-        <string lang="kr">투표 시작! 투표하려면 보내세요</string>
-        <string lang="pt-br">Votação Iniciada! Para votar, envie</string>
+		<string lang="fr">Vote Commencé! Pour voter, envoyez</string>
+		<string lang="zh">投票开始！要投票，请发送</string>
+		<string lang="jp">投票開始！投票するには、送信してください</string>
+		<string lang="ru">Голосование началось! Чтобы проголосовать, отправьте</string>
+		<string lang="es">¡Votación Iniciada! Para votar, envía</string>
+		<string lang="kr">투표 시작! 투표하려면 보내세요</string>
+		<string lang="pt-br">Votação Iniciada! Para votar, envie</string>
 </set>
 <set id="error-cannotwirecircular">
 		<string lang="de">Kann nicht zirkulär verkabeln</string>
@@ -604,6 +604,39 @@
 		<string lang="kr">$energy$$br$소멸</string>
 		<string lang="pt-br">$energy$$br$se dissipa</string>
 </set>
+<set id="worldmessage-energygeneration">
+		<string lang="de">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energyreception">
+		<string lang="de">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">$ENERGYVALUE$ $energyicon$</string>
+</set>
+<set id="worldmessage-energystorage">
+		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+</set>
 <set id="worldmessage-error-batterychargedischarge">
 		<string lang="de">Kann entweder geladen oder entladen werden</string>
 		<string lang="en">Can only be charged or discharged at a time</string>
@@ -703,61 +736,6 @@
 		<string lang="kr">$energy$가 없습니다</string>
 		<string lang="pt-br">Sem $energy$</string>
 </set>
-<set id="worldmessage-energyreception">
-		<string lang="de">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="en">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="fr">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="zh">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="jp">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="ru">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="es">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="kr">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="pt-br">$ENERGYVALUE$ $energyicon$</string>
-</set>
-<set id="worldmessage-energygeneration">
-		<string lang="de">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="en">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="fr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="zh">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="jp">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="ru">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="es">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="kr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="pt-br">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-</set>
-<set id="worldmessage-energystorage">
-		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="zh">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-</set>
-<set id="worldmessage-plasmageneration">
-		<string lang="de">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="en">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="fr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="zh">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="jp">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="ru">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-</set>
-<set id="worldmessage-plasmaconsumption">
-		<string lang="de">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="en">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="fr">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="zh">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="jp">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="ru">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="es">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="kr">$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="pt-br">$PLASMAVALUE$ $plasmaicon$</string>
-</set>
 <set id="worldmessage-noplasma">
 		<string lang="de">Kein $plasma$</string>
 		<string lang="en">No $plasma$</string>
@@ -779,5 +757,27 @@
 		<string lang="es">No está completamente cableado</string>
 		<string lang="kr">완전히 연결되지 않았습니다</string>
 		<string lang="pt-br">Não totalmente conectado</string>
+</set>
+<set id="worldmessage-plasmaconsumption">
+		<string lang="de">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="en">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="fr">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="zh">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="ru">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="es">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="kr">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="pt-br">$PLASMAVALUE$ $plasmaicon$</string>
+</set>
+<set id="worldmessage-plasmageneration">
+		<string lang="de">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="en">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="fr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="zh">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="ru">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 </set>
 </localization>
