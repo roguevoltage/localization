@@ -105,7 +105,7 @@
 		<string lang="zh">可能从自身移除 $grav+1$。$br$使一个模块获得 $fire$。</string>
 		<string lang="jp">自分自身から $grav+1$ を取り除くことができます。$br$モジュールに $fire$ を付与します。</string>
 		<string lang="ru">Может удалить до $grav+1$ у себя.$br$Накладывает модулю $fire$.</string>
-		<string lang="es">Puede eliminar hasta $grav+1$ de sí mismo.$br$Inflige un módulo con $fire$.</string>
+		<string lang="es">Elimina hasta $grav+1$ de sí mismo.$br$Inflige un módulo con $fire$.</string>
 		<string lang="kr">자신으로부터 $grav+1$를 제거할 수 있습니다.$br$모듈에 $fire$를 부여합니다.</string>
 		<string lang="pt-br">Pode remover até $grav+1$ de si mesmo.$br$Inflige um módulo com $fire$.</string>
 </set>
@@ -237,7 +237,7 @@
 		<string lang="zh">对敌人造成 $1$ $damage$ 并使两个模块获得 $fire$。</string>
 		<string lang="jp">敵に $1$ $damage$ とモジュールに $fire$ を付与します。</string>
 		<string lang="ru">Наносит врагу $1$ $damage$ и накладывает на два модуля $fire$.</string>
-		<string lang="es">Inflige $1$ $damage$ a un enemigo y inflige dos módulos con $fire$.</string>
+		<string lang="es">Inflige $1$ $damage$ a un enemigo e inflige dos módulos con $fire$.</string>
 		<string lang="kr">적에게 $1$ $damage$를 입히고 모듈 두 개에 $fire$를 부여합니다.</string>
 		<string lang="pt-br">Causa $1$ $damage$ a um inimigo e inflige dois módulos com $fire$.</string>
 </set>
@@ -248,7 +248,7 @@
 		<string lang="zh">构建一个 $b$燃烧的碎片$/b$ 模块并将其强制放置在你的架子上。</string>
 		<string lang="jp">$b$燃える瓦礫$/b$ モジュールを構築し、それをあなたのラックの上に強制的に置きます。</string>
 		<string lang="ru">Строит модуль $b$Горящие Обломки$/b$ и принудительно помещает его на одну из ваших полок.</string>
-		<string lang="es">Construye un módulo $b$Escombros Ardientes$/b$ y lo fuerza en uno de tus racks.</string>
+		<string lang="es">Construye un módulo $b$Escombros Ardientes$/b$ y lo fuerza en uno de tus bastidores.</string>
 		<string lang="kr">$b$불타는 잔해$/b$ 모듈을 구성하고 당신의 랙 중 하나에 강제로 놓습니다.</string>
 		<string lang="pt-br">Constrói um módulo $b$Detritos Ardentes$/b$ e o força em um de seus racks.</string>
 </set>
@@ -292,7 +292,7 @@
 		<string lang="zh">在回合开始时，将所有战斗者身上的 $grav$ 全部中和。</string>
 		<string lang="jp">自分のターンの開始時に、全ての戦闘者の上の全ての $grav$ を中和します。</string>
 		<string lang="ru">В начале своего хода нейтрализует все $grav$ на всех бойцах.</string>
-		<string lang="es">Al comienzo de su turno, neutraliza todo el $grav$ en todos los combatientes.</string>
+		<string lang="es">Al comienzo de su turno, neutraliza todo el $grav$ de todos los combatientes.</string>
 		<string lang="kr">자신의 차례가 시작될 때, 모든 전투자의 $grav$를 중화합니다.</string>
 		<string lang="pt-br">No início de seu turno, neutraliza todo o $grav$ em todos os combatentes.</string>
 </set>
@@ -358,7 +358,7 @@
 		<string lang="zh">由火山造成的 $damage$ 被转换为 $grav+$。</string>
 		<string lang="jp">火山による $damage$ は代わりに $grav+$ に変換されます。</string>
 		<string lang="ru">Входящий $damage$ от вулкана преобразуется в $grav+$ вместо этого.</string>
-		<string lang="es">El $damage$ entrante por el volcán se transforma en $grav+$ en su lugar.</string>
+		<string lang="es">El $damage$ proveniente del volcán se transforma en $grav+$ en su lugar.</string>
 		<string lang="kr">화산에 의한 $damage$가 $grav+$로 변환됩니다.</string>
 		<string lang="pt-br">O $damage$ entrante pelo vulcão é transformado em $grav+$ em vez disso.</string>
 </set>
@@ -369,7 +369,7 @@
 		<string lang="zh">由火山造成的 $damage$ 被转换为 $might$。</string>
 		<string lang="jp">火山による $damage$ は代わりに $might$ に変換されます。</string>
 		<string lang="ru">Входящий $damage$ от вулкана преобразуется в $might$ вместо этого.</string>
-		<string lang="es">El $damage$ entrante por el volcán se transforma en $might$ en su lugar.</string>
+		<string lang="es">El $damage$ proveniente del volcán se transforma en $might$ en su lugar.</string>
 		<string lang="kr">화산에 의한 $damage$가 $might$로 변환됩니다.</string>
 		<string lang="pt-br">O $damage$ entrante pelo vulcão é transformado em $might$ em vez disso.</string>
 </set>
@@ -435,7 +435,7 @@
 		<string lang="zh">在时间轴上升到玩家角色之上。</string>
 		<string lang="jp">タイムライン上でプレイヤーキャラクターの上に上昇します。</string>
 		<string lang="ru">Поднимается выше игроков на временной шкале.</string>
-		<string lang="es">Se eleva por encima de los personajes del jugador en la línea de tiempo.</string>
+		<string lang="es">Se eleva por encima de los personajes del jugador en la línea temporal.</string>
 		<string lang="kr">타임라인에서 플레이어 캐릭터 위로 올라갑니다.</string>
 		<string lang="pt-br">Sobe acima dos personagens do jogador na linha do tempo.</string>
 </set>
@@ -446,7 +446,7 @@
 		<string lang="zh">对同一时间步上的所有敌人造成 $2damage$。$br$在时间轴上低于玩家角色。使自己获得 $grav+2$。</string>
 		<string lang="jp">同じタイムステップ上のすべての敵に $2damage$ を与えます。$br$タイムライン上でプレイヤーキャラクターの下に下がります。$br$自分自身に $grav+2$ を付与します。</string>
 		<string lang="ru">Наносит всем врагам на одном временном шаге $2damage$. $br$Опускается ниже игроков на временной шкале. Накладывает на себя $grav+2$.</string>
-		<string lang="es">Inflige $2damage$ a todos los enemigos en el mismo paso de tiempo.$br$Desciende por debajo de los personajes del jugador en la línea de tiempo.$br$Se inflige $grav+2$.</string>
+		<string lang="es">Inflige $2damage$ a todos los enemigos en el mismo paso de tiempo.$br$Desciende por debajo de los personajes del jugador en la línea temporal.$br$Se inflige $grav+2$.</string>
 		<string lang="kr">같은 시간 단계의 모든 적에게 $2damage$를 입힙니다.$br$타임라인에서 플레이어 캐릭터 아래로 내려갑니다.$br$자신에게 $grav+2$를 부여합니다.</string>
 		<string lang="pt-br">Causa $2damage$ a todos os inimigos no mesmo passo de tempo.$br$Desce abaixo dos personagens do jogador na linha do tempo.$br$Inflige a si mesmo com $grav+2$.</string>
 </set>
@@ -501,7 +501,7 @@
 		<string lang="zh">照顾巢穴</string>
 		<string lang="jp">巣の世話</string>
 		<string lang="ru">Уход за гнездом</string>
-		<string lang="es">Cuidar el nido</string>
+		<string lang="es">Cuidar del nido</string>
 		<string lang="kr">보금자리 돌보기</string>
 		<string lang="pt-br">Cuidar do Ninho</string>
 </set>
@@ -523,7 +523,7 @@
 		<string lang="zh">引力弹幕 $grav+1$×2</string>
 		<string lang="jp">重力弾幕 $grav+1$×2</string>
 		<string lang="ru">Грав. Барраж $grav+1$×2</string>
-		<string lang="es">Barrage Grav. $grav+1$×2</string>
+		<string lang="es">Barrena Grav. $grav+1$×2</string>
 		<string lang="kr">중력 탄막 $grav+1$×2</string>
 		<string lang="pt-br">Barragem Grav. $grav+1$×2</string>
 </set>
@@ -677,7 +677,7 @@
 		<string lang="zh">引力冲撞 $grav+2$</string>
 		<string lang="jp">重力タックル $grav+2$</string>
 		<string lang="ru">Грав. Такл $grav+2$</string>
-		<string lang="es">Tacle Grav. $grav+2$</string>
+		<string lang="es">Placaje Grav. $grav+2$</string>
 		<string lang="kr">중력 태클 $grav+2$</string>
 		<string lang="pt-br">Tackle Grav. $grav+2$</string>
 </set>
@@ -775,7 +775,7 @@
 		<string lang="zh">群体攻击 $grav-icon$</string>
 		<string lang="jp">パックアタック $grav-icon$</string>
 		<string lang="ru">Атака Стаи $grav-icon$</string>
-		<string lang="es">Ataque de Manada $grav-icon$</string>
+		<string lang="es">Ataque en Manada $grav-icon$</string>
 		<string lang="kr">무리 공격 $grav-icon$</string>
 		<string lang="pt-br">Ataque de Matilha $grav-icon$</string>
 </set>
@@ -885,7 +885,7 @@
 		<string lang="zh">火山 $damage$ 至 $might$</string>
 		<string lang="jp">火山 $damage$ から $might$</string>
 		<string lang="ru">Вулкан $damage$ к $might$</string>
-		<string lang="es">Volcán $damage$ a $might$</string>
+		<string lang="es">$damage$ de Volcán a $might$</string>
 		<string lang="kr">화산 $damage$ 에서 $might$</string>
 		<string lang="pt-br">Vulcão $damage$ para $might$</string>
 </set>
@@ -940,7 +940,7 @@
 		<string lang="zh">升起</string>
 		<string lang="jp">上昇</string>
 		<string lang="ru">Взлет</string>
-		<string lang="es">Levantarse</string>
+		<string lang="es">Alzarse</string>
 		<string lang="kr">상승</string>
 		<string lang="pt-br">Levantar</string>
 </set>
@@ -951,7 +951,7 @@
 		<string lang="zh">俯冲</string>
 		<string lang="jp">ダイブ</string>
 		<string lang="ru">Пикирование</string>
-		<string lang="es">Picado</string>
+		<string lang="es">En picado</string>
 		<string lang="kr">급강하</string>
 		<string lang="pt-br">Mergulhar</string>
 </set>
