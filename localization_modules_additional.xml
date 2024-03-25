@@ -219,6 +219,17 @@
 		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 </set>
+<set id="description-module-generatorvulnerability">
+		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
+		<string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
+		<string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
+		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но накладывает на владельца $vulnerable$ на 5 шагов времени.</string>
+		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
+		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
+		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
+</set>
 <set id="description-module-lightningrod">
 		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
 		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
@@ -307,15 +318,8 @@
 		<string lang="kr">이 랙에 있는 $cracked$ 타입의 모듈은 $b$50%$/b$의 확률로 활성화 시 파괴되지 않습니다.</string>
 		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$50% de chance$/b$ de não serem destruídos quando ativados.</string>
 </set>
-<set id="description-module-passivegravspike">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine Grav. Spitze niedergeht.</string>
-		<string lang="en">Heals both player characters by $1$ whenever the $b$Grav. Equilibrium$/b$ produces a Grav. Spike.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une Crête Grav. touche le sol.</string>
-		<string lang="zh">每当引力尖峰发生时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
-		<string lang="jp">重力スパイクが接地するたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Лечит обоих персонажей на $1$ каждый раз когда $b$Грав. равновесие$/b$ создаёт Грав. Шипы</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un Pico Grav. toca el suelo.</string>
-		<string lang="kr">$b$Grav. Equilibrium$/b$이 $gravspike$를 생성할 때마다 플레이어 캐릭터를 $1$ 회복합니다.</string>
+<set id="description-module-passivegravdissipator">
+		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
 </set>
 <set id="description-module-passiveshockabsorber">
 		<string lang="de">Wenn ein anderes Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
@@ -748,6 +752,17 @@
 		<string lang="kr">플라즈마 연소 발전기</string>
 		<string lang="pt-br">Gerador de Combustão de Plasma</string>
 </set>
+<set id="name-module-generatorvulnerability">
+		<string lang="de">Gefährlicher Generator</string>
+		<string lang="en">Hazardous Generator</string>
+		<string lang="fr">Générateur Périleux</string>
+		<string lang="zh">危险发电机</string>
+		<string lang="jp">危険なジェネレーター</string>
+		<string lang="ru">Опасный Генератор</string>
+		<string lang="es">Generador Peligroso</string>
+		<string lang="kr">위험한 발전기</string>
+		<string lang="pt-br">Gerador Perigoso</string>
+</set>
 <set id="name-module-lightningrod">
 		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
 		<string lang="en">Lightning Rod $MODIFICATIONVALUE$</string>
@@ -828,16 +843,16 @@
 		<string lang="kr">레귤레이터</string>
 		<string lang="pt-br">Regulador</string>
 </set>
-<set id="name-module-passivegravspike">
-		<string lang="de">Grav. Spitzen-Sensor $MODIFICATIONVALUE$</string>
-		<string lang="en">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
-		<string lang="fr">Capteur Crête Grav. $MODIFICATIONVALUE$</string>
-		<string lang="zh">引力尖峰感应器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">重力スパイクセンサー $MODIFICATIONVALUE$</string>
-		<string lang="ru">Сенсор Грав. Шипов $MODIFICATIONVALUE$</string>
-		<string lang="es">Sensor de Pico Grav. $MODIFICATIONVALUE$</string>
-		<string lang="kr">Grav. Spike Sensor $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Sensor de Pico Grav. $MODIFICATIONVALUE$</string>
+<set id="name-module-passivegravdissipator">
+		<string lang="de">Grav.-Zerstreuer</string>
+		<string lang="en">Grav. Dissipator</string>
+		<string lang="fr">Dissipateur Grav.</string>
+		<string lang="zh">引力散热器</string>
+		<string lang="jp">重力ディシペーター</string>
+		<string lang="ru">Грав. Рассеиватель</string>
+		<string lang="es">Disipador Grav.</string>
+		<string lang="kr">Grav. Dissipator</string>
+		<string lang="pt-br">Dissipador Grav.</string>
 </set>
 <set id="name-module-passiveshockabsorber">
 		<string lang="de">Stoßdämpfer</string>
