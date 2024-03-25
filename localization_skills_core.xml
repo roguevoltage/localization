@@ -384,17 +384,6 @@
 		<string lang="kr">적에게 $vulnerable$ 를 적용합니다. $4$ 턴 지속됩니다.</string>
 		<string lang="pt-br">Aplica $vulnerable$ a um inimigo. Dura $4$ turnos</string>
 </set>
-<set id="description-skill-passive-gravtopower">
-		<string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt.</string>
-		<string lang="en">Incoming $grav+$ is transformed to $might$ instead.</string>
-		<string lang="fr">$grav+$ entrante est transformée en $might$.</string>
-		<string lang="zh">收到的 $grav+$ 转化为 $might$</string>
-		<string lang="jp">$grav+$ を $might$ に変換する</string>
-		<string lang="ru">Входящий $grav+$ превращается в $might$.</string>
-		<string lang="es">$grav+$ entrante se transforma en $might$</string>
-		<string lang="kr">들어오는 $grav+$ 를 $might$ 로 변환합니다.</string>
-		<string lang="pt-br">$grav+$ entrante é transformada em $might$</string>
-</set>
 <set id="description-skill-passive-powerraiseifcrustbroken">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever a $crust$ is broken.</string>
@@ -955,17 +944,6 @@
 		<string lang="es">Grito Perforante</string>
 		<string lang="kr">관통의 외침</string>
 		<string lang="pt-br">Grito Perfurante</string>
-</set>
-<set id="name-skill-passive-gravtopower">
-		<string lang="de">$grav+$ zu $might$</string>
-		<string lang="en">$grav+$ to $might$</string>
-		<string lang="fr">$grav+$ vers $might$</string>
-		<string lang="zh">$grav+$ 转化为 $might$</string>
-		<string lang="jp">$grav+$ から $might$</string>
-		<string lang="ru">$grav+$ в $might$</string>
-		<string lang="es">$grav+$ a $might$</string>
-		<string lang="kr">$grav+$ 에서 $might$</string>
-		<string lang="pt-br">$grav+$ para $might$</string>
 </set>
 <set id="name-skill-passive-powerraiseifcrustbroken">
 		<string lang="de">Krusten-Detektion $mighticon$</string>

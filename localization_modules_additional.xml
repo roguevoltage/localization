@@ -65,7 +65,7 @@
 		<string lang="kr">$damage$가 $shield$에 의해 줄어들 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $damage$ é reduzido por $shield$.</string>
 </set>
-<set id="description-module-collectorstorm">
+<set id="description-module-lightningrod">
 		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
 		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
 		<string lang="fr">Chaque fois que le propriétaire est touché par $storm$ ou $lightning$, empêchez $1damage$, le Paratonnerre génère $b$$SENSORVALUE$$/b$ $energy$ et reçoit $volatile$.</string>
@@ -131,7 +131,7 @@
 		<string lang="kr">$cracked$가 있는 일반적인 $b$Blaster$/b$를 만듭니다.</string>
 		<string lang="pt-br">Constrói um $b$Blaster$/b$ universal$br$com $cracked$.</string>
 </set>
-<set id="description-module-factorycollectorstorm">
+<set id="description-module-factorylightningrod">
 		<string lang="de">Stellt einen universellen $b$Blitzableiter$/b$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Lightning Rod$/b$.</string>
 		<string lang="fr">Construe un $b$Paratonnerre$/b$ universel.</string>
@@ -349,6 +349,10 @@
 		<string lang="kr">이번 턴에 이 랙에서 $generator$가 활성화되지 않았다면 턴이 끝난 후 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
 		<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $generator$ foi ativado neste rack neste turno.</string>
 </set>
+<set id="description-module-storagecellstorm">
+	<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
+	<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after a turn of $lightning$ or $storm$.</string>
+</set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
 		<string lang="en">Destroys another target module to generate $2$ $plasma$.</string>
@@ -372,9 +376,9 @@
 		<string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo neste rack.</string>
 </set>
 <set id="description-module-toggledduplicator-eob">
-		<string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her.$br$Die Kopie erhält $unstable$.</string>
-		<string lang="en">Constructs a copy of another target module on this rack.$br$The copy has $unstable$.</string>
-		<string lang="fr">Construit une copie d'un autre module ciblé.$br$La copie a $unstable$.</string>
+		<string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her.$p$Die Kopie erhält $cracked$ und $unstable$.</string>
+		<string lang="en">Constructs a copy of another target module on this rack.$p$The copy has $cracked$ and $unstable$.</string>
+		<string lang="fr">Construit une copie d'un autre module ciblé.$p$La copie a $cracked$ et $unstable$.</string>
 		<string lang="zh">创建一个其他模块的复制。$br$复制品具有 $unstable$ 。</string>
 		<string lang="jp">別のターゲットモジュールのコピーを作成します。$br$コピーには$unstable$があります。</string>
 		<string lang="ru">Создает копию другого целевого модуля на этом слоте.$br$Копия имеет $unstable$.</string>
@@ -579,7 +583,7 @@
 		<string lang="kr">실드 센서 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-collectorstorm">
+<set id="name-module-lightningrod">
 		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
 		<string lang="en">Lightning Rod $MODIFICATIONVALUE$</string>
 		<string lang="fr">Paratonnerre $MODIFICATIONVALUE$</string>
@@ -645,7 +649,7 @@
 		<string lang="kr">블래스터 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Blaster $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-factorycollectorstorm">
+<set id="name-module-factorylightningrod">
 		<string lang="de">Blitzableiter-Fabrik $MODIFICATIONVALUE$</string>
 		<string lang="en">Lightning Rod Factory $MODIFICATIONVALUE$</string>
 		<string lang="fr">Fabrique de Paratonnerres $MODIFICATIONVALUE$</string>
@@ -865,6 +869,10 @@
 		<string lang="kr">절약 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Austeridade $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-storagecellstorm">
+	<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Storm Cell $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-toggleddisassembler">
 		<string lang="de">Demontierer</string>
 		<string lang="en">Disassembler</string>
@@ -1029,5 +1037,19 @@
 		<string lang="es">Célula de Aceleración $MODIFICATIONVALUE$</string>
 		<string lang="kr">가속 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-modifierselfencrusting">
+	<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-modifierselfencrusting">
+	<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+	<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
+	<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
+	<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+	<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+	<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
+	<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
+	<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+	<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
 </localization>
