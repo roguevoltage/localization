@@ -1,4 +1,15 @@
 <localization>
+<set id="description-boss-dynosaurmom">
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+</set>
 <set id="description-boss-reactor">
 		<string lang="de"></string>
 		<string lang="en"></string>
@@ -22,17 +33,6 @@
 		<string lang="pt-br"></string>
 </set>
 <set id="description-boss-reactorsocket-top">
-		<string lang="de"></string>
-		<string lang="en"></string>
-		<string lang="fr"></string>
-		<string lang="zh"></string>
-		<string lang="jp"></string>
-		<string lang="ru"></string>
-		<string lang="es"></string>
-		<string lang="kr"></string>
-		<string lang="pt-br"></string>
-</set>
-<set id="description-boss-dynosaurmom">
 		<string lang="de"></string>
 		<string lang="en"></string>
 		<string lang="fr"></string>
@@ -256,67 +256,34 @@
 		<string lang="de">Reaktor</string>
 		<string lang="en">Reactor</string>
 		<string lang="fr">Réacteur</string>
-        <string lang="zh">反应堆</string>
-        <string lang="jp">リアクター</string>
-        <string lang="ru">Реактор</string>
-        <string lang="es">Reactor</string>
-        <string lang="kr">반응기</string>
-        <string lang="pt-br">Reator</string>
-</set>
-<set id="shortname-boss-reactor">
-		<string lang="de">Reaktor</string>
-		<string lang="en">Reactor</string>
-		<string lang="fr">Réacteur</string>
-        <string lang="zh">反应堆</string>
-        <string lang="jp">リアクター</string>
-        <string lang="ru">Реактор</string>
-        <string lang="es">Reactor</string>
-        <string lang="kr">반응기</string>
-        <string lang="pt-br">Reator</string>
-</set>
-<set id="name-boss-reactorsocket-top">
-		<string lang="de">Sockel</string>
-		<string lang="en">Socket</string>
-		<string lang="fr">Socle</string>
-        <string lang="zh">插座</string>
-        <string lang="jp">ソケット</string>
-        <string lang="ru">Розетка</string>
-        <string lang="es">Zócalo</string>
-        <string lang="kr">소켓</string>
-        <string lang="pt-br">Soquete</string>
-</set>
-<set id="shortname-boss-reactorsocket-top">
-		<string lang="de">Sockel</string>
-		<string lang="en">Socket</string>
-		<string lang="fr">Socle</string>
-        <string lang="zh">插座</string>
-        <string lang="jp">ソケット</string>
-        <string lang="ru">Розетка</string>
-        <string lang="es">Zócalo</string>
-        <string lang="kr">소켓</string>
-        <string lang="pt-br">Soquete</string>
+		<string lang="zh">反应堆</string>
+		<string lang="jp">リアクター</string>
+		<string lang="ru">Реактор</string>
+		<string lang="es">Reactor</string>
+		<string lang="kr">반응기</string>
+		<string lang="pt-br">Reator</string>
 </set>
 <set id="name-boss-reactorsocket-bottom">
 		<string lang="de">Sockel</string>
 		<string lang="en">Socket</string>
 		<string lang="fr">Socle</string>
-        <string lang="zh">插座</string>
-        <string lang="jp">ソケット</string>
-        <string lang="ru">Розетка</string>
-        <string lang="es">Zócalo</string>
-        <string lang="kr">소켓</string>
-        <string lang="pt-br">Soquete</string>
+		<string lang="zh">插座</string>
+		<string lang="jp">ソケット</string>
+		<string lang="ru">Розетка</string>
+		<string lang="es">Zócalo</string>
+		<string lang="kr">소켓</string>
+		<string lang="pt-br">Soquete</string>
 </set>
-<set id="shortname-boss-reactorsocket-bottom">
+<set id="name-boss-reactorsocket-top">
 		<string lang="de">Sockel</string>
 		<string lang="en">Socket</string>
 		<string lang="fr">Socle</string>
-        <string lang="zh">插座</string>
-        <string lang="jp">ソケット</string>
-        <string lang="ru">Розетка</string>
-        <string lang="es">Zócalo</string>
-        <string lang="kr">소켓</string>
-        <string lang="pt-br">Soquete</string>
+		<string lang="zh">插座</string>
+		<string lang="jp">ソケット</string>
+		<string lang="ru">Розетка</string>
+		<string lang="es">Zócalo</string>
+		<string lang="kr">소켓</string>
+		<string lang="pt-br">Soquete</string>
 </set>
 <set id="name-boss-volcanoboss">
 		<string lang="de">Boss</string>
@@ -536,6 +503,39 @@
 		<string lang="es">Boss</string>
 		<string lang="kr">보스</string>
 		<string lang="pt-br">Boss</string>
+</set>
+<set id="shortname-boss-reactor">
+		<string lang="de">Reaktor</string>
+		<string lang="en">Reactor</string>
+		<string lang="fr">Réacteur</string>
+		<string lang="zh">反应堆</string>
+		<string lang="jp">リアクター</string>
+		<string lang="ru">Реактор</string>
+		<string lang="es">Reactor</string>
+		<string lang="kr">반응기</string>
+		<string lang="pt-br">Reator</string>
+</set>
+<set id="shortname-boss-reactorsocket-bottom">
+		<string lang="de">Sockel</string>
+		<string lang="en">Socket</string>
+		<string lang="fr">Socle</string>
+		<string lang="zh">插座</string>
+		<string lang="jp">ソケット</string>
+		<string lang="ru">Розетка</string>
+		<string lang="es">Zócalo</string>
+		<string lang="kr">소켓</string>
+		<string lang="pt-br">Soquete</string>
+</set>
+<set id="shortname-boss-reactorsocket-top">
+		<string lang="de">Sockel</string>
+		<string lang="en">Socket</string>
+		<string lang="fr">Socle</string>
+		<string lang="zh">插座</string>
+		<string lang="jp">ソケット</string>
+		<string lang="ru">Розетка</string>
+		<string lang="es">Zócalo</string>
+		<string lang="kr">소켓</string>
+		<string lang="pt-br">Soquete</string>
 </set>
 <set id="shortname-boss-volcanoboss">
 		<string lang="de">Boss</string>

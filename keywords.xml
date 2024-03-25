@@ -564,11 +564,11 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Feuer&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Fire&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Feu&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;火焰&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;开火&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;火&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Огонь&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Fuego&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;불&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;발화&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Fogo&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$mighticon$">
@@ -663,7 +663,7 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Kruste&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Crust&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Crôute&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;结晶&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;晶壳&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;結晶&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Кристаллизация&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Corteza&lt;/color&gt;&lt;/b&gt;</string>
@@ -685,11 +685,11 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Selbstverkrustend&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Self-Encrusting&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Auto-Croûte&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;自结晶&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;自我结晶&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;自結晶&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Самокристаллизация&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Cristalización&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;자가크러스팅&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;자가 크러스트화&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FF77BB&gt;&lt;sprite name="crystal" tint=1&gt;Autoencrustação&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$upgrade$">
@@ -700,14 +700,14 @@
         <string lang="jp">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;アップグレード +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Улучшение +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Mejora +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;업그레이드 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;개량 +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#afcf74&gt;&lt;sprite name="upgrade" tint=1&gt;Melhoria +1&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$turbo$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;涡轮 +1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;涡轮增压 +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;ターボ +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Турбо +1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
@@ -729,7 +729,7 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Verwundbar&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Vulnerable&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Vulnerable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;脆弱&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;虚弱&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;弱体化&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Уязвимость&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Vulnerable&lt;/color&gt;&lt;/b&gt;</string>
@@ -755,7 +755,7 @@
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;クールダウン&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезарядка&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Enfriamiento&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;재사용 대기&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;대기&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilização&lt;/b&gt;</string>
     </set>
     <set id="$cooldownicon$">
@@ -887,7 +887,7 @@
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;重力真空&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Грав. Вакуум&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Vacío Grav.&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;중력 진공&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;중력 공백&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Vácuo Grav.&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$plasmacombustion$">
@@ -905,22 +905,22 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Grav.-Verstärkung&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Grav. Amplification&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Amplification Grav.&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;引力增幅&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;引力增强&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;重力増幅&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Грав. Усиление&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Amplificación Grav.&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;중력 증폭&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;색상 변화&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="gravamplification" tint=1&gt;Amplificação Grav.&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$cracked$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Brüchig&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Cracked&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Cassant&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;碎裂&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;破损&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;割れ目&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Хрупкий&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Agrietado&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;깨진&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;손상&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cracked" tint=1&gt;Rachado&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$replicating$">
@@ -949,18 +949,18 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Fehlfunktion&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Malfunctioning&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Défaillance&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;失灵&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;故障&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Неисправный&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Malfuncionamiento&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;고장나는&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;오작동&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="malfunctioning" tint=1&gt;&lt;/color&gt;Malfuncionamento&lt;/b&gt;</string>
     </set>
     <set id="$overload$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Überlastet&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Overload&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Surcharge&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;过载&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;超载&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;オーバーロード&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Перегрузка&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#809798&gt;&lt;sprite name="overload" tint=1&gt;&lt;/color&gt;Sobrecarga&lt;/b&gt;</string>
@@ -971,11 +971,11 @@
         <string lang="de">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instabil&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Unstable&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;不稳定&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;不稳定的&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;不安定&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Неустойчивый&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Inestable&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;불안정한&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;불안정함&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFF80&gt;&lt;sprite name="cloud" tint=1&gt;Instável&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$volatile$">

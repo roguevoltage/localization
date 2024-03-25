@@ -65,17 +65,6 @@
 		<string lang="kr">$damage$가 $shield$에 의해 줄어들 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $damage$ é reduzido por $shield$.</string>
 </set>
-<set id="description-module-lightningrod">
-		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
-		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
-		<string lang="fr">Chaque fois que le propriétaire est touché par $storm$ ou $lightning$, empêchez $1damage$, le Paratonnerre génère $b$$SENSORVALUE$$/b$ $energy$ et reçoit $volatile$.</string>
-		<string lang="zh">每当拥有者被 $storm$ 或 $lightning$ 击中时，防止 $1damage$，避雷针生成 $b$$SENSORVALUE$$/b$ $energy$ 并获得 $volatile$。</string>
-		<string lang="jp">オーナーが$storm$または$lightning$によって攻撃を受けるたびに、$1damage$を防ぎ、避雷針は$b$$SENSORVALUE$$/b$ $energy$を生成し、$volatile$を受け取ります。</string>
-		<string lang="ru">Всегда, когда владелец подвергается удару $storm$ или $lightning$, предотвращайте $1damage$, Молниеотвод генерирует $b$$SENSORVALUE$$/b$ $energy$ и получает $volatile$.</string>
-		<string lang="es">Siempre que el propietario es golpeado por $storm$ o $lightning$, previene $1damage$, el Pararrayos genera $b$$SENSORVALUE$$/b$ $energy$ y recibe $volatile$.</string>
-		<string lang="kr">소유자가 $storm$ 또는 $lightning$에 맞을 때마다 $1damage$를 방지하고, 번개 막이는 $b$$SENSORVALUE$$/b$ $energy$를 생성하고 $volatile$를 받습니다.</string>
-		<string lang="pt-br">Sempre que o dono é atingido por $storm$ ou $lightning$, previne $1damage$, o Para-raios gera $b$$SENSORVALUE$$/b$ $energy$ e recebe $volatile$.</string>
-</set>
 <set id="description-module-effectorgravimmunity">
 		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$br$(Dauer: $energy$×3)</string>
 		<string lang="en">Inflicts target combatant with $gravimmunity$.$br$(Duration: $energy$×3).</string>
@@ -131,17 +120,6 @@
 		<string lang="kr">$cracked$가 있는 일반적인 $b$Blaster$/b$를 만듭니다.</string>
 		<string lang="pt-br">Constrói um $b$Blaster$/b$ universal$br$com $cracked$.</string>
 </set>
-<set id="description-module-factorylightningrod">
-		<string lang="de">Stellt einen universellen $b$Blitzableiter$/b$ her.</string>
-		<string lang="en">Constructs a universal$br$$b$Lightning Rod$/b$.</string>
-		<string lang="fr">Construe un $b$Paratonnerre$/b$ universel.</string>
-		<string lang="zh">制造一个通用的$b$避雷针$/b$。</string>
-		<string lang="jp">一般的な$b$避雷針$/b$を作成します。</string>
-		<string lang="ru">Создает универсальный $b$Молниеотвод$/b$.</string>
-		<string lang="es">Construye un $b$Pararrayos$/b$ universal.</string>
-		<string lang="kr">일반적인 $b$번개 막이$/b$를 만듭니다.</string>
-		<string lang="pt-br">Constrói um $b$Para-raios$/b$ universal.</string>
-</set>
 <set id="description-module-factorydecelerator">
 		<string lang="de">Stellt einen universellen $b$Verlangsamer$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal $b$Decelerator$/b$ with $cracked$.</string>
@@ -163,6 +141,17 @@
 		<string lang="es">Construye un $b$Generador$/b$ universal$br$con $unstable$.</string>
 		<string lang="kr">$unstable$가 있는 일반적인 $b$발전기$/b$를 만듭니다.</string>
 		<string lang="pt-br">Constrói um $b$Gerador$/b$ universal$br$com $unstable$.</string>
+</set>
+<set id="description-module-factorylightningrod">
+		<string lang="de">Stellt einen universellen $b$Blitzableiter$/b$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Lightning Rod$/b$.</string>
+		<string lang="fr">Construe un $b$Paratonnerre$/b$ universel.</string>
+		<string lang="zh">制造一个通用的$b$避雷针$/b$。</string>
+		<string lang="jp">一般的な$b$避雷針$/b$を作成します。</string>
+		<string lang="ru">Создает универсальный $b$Молниеотвод$/b$.</string>
+		<string lang="es">Construye un $b$Pararrayos$/b$ universal.</string>
+		<string lang="kr">일반적인 $b$번개 막이$/b$를 만듭니다.</string>
+		<string lang="pt-br">Constrói um $b$Para-raios$/b$ universal.</string>
 </set>
 <set id="description-module-factorymerger">
 		<string lang="de">Stellt einen universellen $b$Verbinder$/b$$br$mit $cracked$ und $crust$ her.</string>
@@ -230,6 +219,17 @@
 		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 </set>
+<set id="description-module-lightningrod">
+		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
+		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
+		<string lang="fr">Chaque fois que le propriétaire est touché par $storm$ ou $lightning$, empêchez $1damage$, le Paratonnerre génère $b$$SENSORVALUE$$/b$ $energy$ et reçoit $volatile$.</string>
+		<string lang="zh">每当拥有者被 $storm$ 或 $lightning$ 击中时，防止 $1damage$，避雷针生成 $b$$SENSORVALUE$$/b$ $energy$ 并获得 $volatile$。</string>
+		<string lang="jp">オーナーが$storm$または$lightning$によって攻撃を受けるたびに、$1damage$を防ぎ、避雷針は$b$$SENSORVALUE$$/b$ $energy$を生成し、$volatile$を受け取ります。</string>
+		<string lang="ru">Всегда, когда владелец подвергается удару $storm$ или $lightning$, предотвращайте $1damage$, Молниеотвод генерирует $b$$SENSORVALUE$$/b$ $energy$ и получает $volatile$.</string>
+		<string lang="es">Siempre que el propietario es golpeado por $storm$ o $lightning$, previene $1damage$, el Pararrayos genera $b$$SENSORVALUE$$/b$ $energy$ y recibe $volatile$.</string>
+		<string lang="kr">소유자가 $storm$ 또는 $lightning$에 맞을 때마다 $1damage$를 방지하고, 번개 막이는 $b$$SENSORVALUE$$/b$ $energy$를 생성하고 $volatile$를 받습니다.</string>
+		<string lang="pt-br">Sempre que o dono é atingido por $storm$ ou $lightning$, previne $1damage$, o Para-raios gera $b$$SENSORVALUE$$/b$ $energy$ e recebe $volatile$.</string>
+</set>
 <set id="description-module-magnetgravneg">
 		<string lang="de">Nimmt $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
 		<string lang="en">Picks up $grav-$ from $b$another$/b$ combatant as $energy$.</string>
@@ -262,6 +262,17 @@
 		<string lang="es">Cambia el color de una corriente.</string>
 		<string lang="kr">전류의 색상을 변경합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+</set>
+<set id="description-module-modifierselfencrusting">
+		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
+		<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
+		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
+		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
+		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
 <set id="description-module-modifierstormchaser">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -350,8 +361,8 @@
 		<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $generator$ foi ativado neste rack neste turno.</string>
 </set>
 <set id="description-module-storagecellstorm">
-	<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
-	<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after a turn of $lightning$ or $storm$.</string>
+		<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
+		<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after a turn of $lightning$ or $storm$.</string>
 </set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
@@ -583,17 +594,6 @@
 		<string lang="kr">실드 센서 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-lightningrod">
-		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
-		<string lang="en">Lightning Rod $MODIFICATIONVALUE$</string>
-		<string lang="fr">Paratonnerre $MODIFICATIONVALUE$</string>
-		<string lang="zh">避雷针 $MODIFICATIONVALUE$</string>
-		<string lang="jp">避雷針 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Грозовой Игл $MODIFICATIONVALUE$</string>
-		<string lang="es">Pararrayos $MODIFICATIONVALUE$</string>
-		<string lang="kr">번개 막대 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Para-raios $MODIFICATIONVALUE$</string>
-</set>
 <set id="name-module-effectorgravimmunity">
 		<string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
 		<string lang="en">Grav. Immunizer $MODIFICATIONVALUE$</string>
@@ -649,17 +649,6 @@
 		<string lang="kr">블래스터 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Blaster $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-factorylightningrod">
-		<string lang="de">Blitzableiter-Fabrik $MODIFICATIONVALUE$</string>
-		<string lang="en">Lightning Rod Factory $MODIFICATIONVALUE$</string>
-		<string lang="fr">Fabrique de Paratonnerres $MODIFICATIONVALUE$</string>
-		<string lang="zh">避雷针工厂 $MODIFICATIONVALUE$</string>
-		<string lang="jp">避雷針工場 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Фабрика Грозовых Игл $MODIFICATIONVALUE$</string>
-		<string lang="es">Fábrica de Pararrayos $MODIFICATIONVALUE$</string>
-		<string lang="kr">번개 막대 공장 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Fábrica de Para-raios $MODIFICATIONVALUE$</string>
-</set>
 <set id="name-module-factorydecelerator">
 		<string lang="de">Verlangsamer-Fabrik $MODIFICATIONVALUE$</string>
 		<string lang="en">Decelerator Factory $MODIFICATIONVALUE$</string>
@@ -681,6 +670,17 @@
 		<string lang="es">Fábrica de Generadores $MODIFICATIONVALUE$</string>
 		<string lang="kr">발전기 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Gerador $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factorylightningrod">
+		<string lang="de">Blitzableiter-Fabrik $MODIFICATIONVALUE$</string>
+		<string lang="en">Lightning Rod Factory $MODIFICATIONVALUE$</string>
+		<string lang="fr">Fabrique de Paratonnerres $MODIFICATIONVALUE$</string>
+		<string lang="zh">避雷针工厂 $MODIFICATIONVALUE$</string>
+		<string lang="jp">避雷針工場 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Фабрика Грозовых Игл $MODIFICATIONVALUE$</string>
+		<string lang="es">Fábrica de Pararrayos $MODIFICATIONVALUE$</string>
+		<string lang="kr">번개 막대 공장 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Fábrica de Para-raios $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorymerger">
 		<string lang="de">Verbinder-Fabrik $MODIFICATIONVALUE$</string>
@@ -748,6 +748,17 @@
 		<string lang="kr">플라즈마 연소 발전기</string>
 		<string lang="pt-br">Gerador de Combustão de Plasma</string>
 </set>
+<set id="name-module-lightningrod">
+		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
+		<string lang="en">Lightning Rod $MODIFICATIONVALUE$</string>
+		<string lang="fr">Paratonnerre $MODIFICATIONVALUE$</string>
+		<string lang="zh">避雷针 $MODIFICATIONVALUE$</string>
+		<string lang="jp">避雷針 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Грозовой Игл $MODIFICATIONVALUE$</string>
+		<string lang="es">Pararrayos $MODIFICATIONVALUE$</string>
+		<string lang="kr">번개 막대 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Para-raios $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-magnetgravneg">
 		<string lang="de">Grav.-Magnet $grav-icon$</string>
 		<string lang="en">Grav. Magnet $grav-icon$</string>
@@ -780,6 +791,9 @@
 		<string lang="es">Modificador Orgánico $MODIFICATIONVALUE$</string>
 		<string lang="kr">유기 변환기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Modificador Orgânico $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-modifierselfencrusting">
+		<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierstormchaser">
 		<string lang="de">Sturmjäger-Verstärker $MODIFICATIONVALUE$</string>
@@ -870,8 +884,8 @@
 		<string lang="pt-br">Célula de Austeridade $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-storagecellstorm">
-	<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
-	<string lang="en">Storm Cell $MODIFICATIONVALUE$</string>
+		<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
+		<string lang="en">Storm Cell $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggleddisassembler">
 		<string lang="de">Demontierer</string>
@@ -1037,19 +1051,5 @@
 		<string lang="es">Célula de Aceleración $MODIFICATIONVALUE$</string>
 		<string lang="kr">가속 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-modifierselfencrusting">
-	<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
-</set>
-<set id="description-module-modifierselfencrusting">
-	<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-	<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-	<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-	<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
-	<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
-	<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-	<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-	<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-	<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
 </localization>
