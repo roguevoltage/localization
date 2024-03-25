@@ -494,6 +494,17 @@
 		<string lang="kr">적에게 $1damage$를 입히고 모듈에 $selfencrusting$을 부여합니다.</string>
 		<string lang="pt-br">Causa $1damage$ a um inimigo e inflige um módulo com $selfencrusting$.</string>
 </set>
+<set id="name-skill-modulespawn-burningdebris-volcanoboss">
+		<string lang="de">Brennende Trümmer</string>
+		<string lang="en">Burning Debris</string>
+		<string lang="fr">Débris Brûlants</string>
+		<string lang="zh">燃烧的碎片</string>
+		<string lang="jp">燃える瓦礫</string>
+		<string lang="ru">Горящие Обломки</string>
+		<string lang="es">Escombros Ardientes</string>
+		<string lang="kr">불타는 잔해</string>
+		<string lang="pt-br">Detritos Ardentes</string>
+</set>
 <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
 		<string lang="en">Tend Nest</string>
@@ -814,15 +825,15 @@
 		<string lang="pt-br">Escombros Ardentes</string>
 </set>
 <set id="name-skill-passive-ondamage-modulefire">
-		<string lang="de">Geschmolzene Schale $fireicon$</string>
-		<string lang="en">Molten Shell $fireicon$</string>
-		<string lang="fr">Coquille Fondue $fireicon$</string>
-		<string lang="zh">熔化外壳 $fireicon$</string>
-		<string lang="jp">溶融シェル $fireicon$</string>
-		<string lang="ru">Расплавленная Оболочка $fireicon$</string>
-		<string lang="es">Cáscara Fundida $fireicon$</string>
-		<string lang="kr">녹아내린 껍질 $fireicon$</string>
-		<string lang="pt-br">Casca Derretida $fireicon$</string>
+		<string lang="de">Geschmolzene Oberfläche $fireicon$</string>
+		<string lang="en">Molten Exterior $fireicon$</string>
+		<string lang="fr">Extérieur Fondu $fireicon$</string>
+        <string lang="zh">熔化外壳 $fireicon$</string>
+        <string lang="jp">溶融外観 $fireicon$</string>
+        <string lang="ru">Плавленая Поверхность $fireicon$</string>
+        <string lang="es">Exterior Fundido $fireicon$</string>
+        <string lang="kr">녹아내린 표면 $fireicon$</string>
+        <string lang="pt-br">Exterior Derretido $fireicon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifgravinflicted">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
