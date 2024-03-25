@@ -56,13 +56,13 @@
 </set>
 <set id="ui-settings-cleardata-description">
 		<string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig.$p$Achtung: Die Daten können nicht wiederhergestellt werden.</string>
-		<string lang="en">Permanently removes savegame, progression and preferences. Careful: Data cannot be retrieved.</string>
+		<string lang="en">Permanently removes savegame, progression and preferences.$p$Careful: Data cannot be retrieved.</string>
 		<string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences.$p$Attention: les données ne peuvent pas être récupérées.</string>
-		<string lang="zh">永久删除存档、进度和个性化设置。注意：数据无法恢复。</string>
-		<string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。注意：データは復元できません。</string>
-		<string lang="ru">Окончательно удаляет сохранение, прогресс и настройки. $p$Осторожно: данные не могут быть восстановлены.</string>
+		<string lang="zh">永久删除存档、进度和个性化设置。$p$注意：数据无法恢复。</string>
+		<string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。$p$注意：データは復元できません。</string>
+		<string lang="ru">Окончательно удаляет сохранение, прогресс и настройки.$p$Осторожно: данные не могут быть восстановлены.</string>
 		<string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias.$p$Cuidado: los datos no se pueden recuperar.</string>
-		<string lang="kr">저장된 게임, 진행도, 기본 설정을 영구적으로 삭제합니다. 주의하세요: 데이터를 복구하는 것은 불가능합니다.</string>
+		<string lang="kr">저장된 게임, 진행도, 기본 설정을 영구적으로 삭제합니다. $p$주의하세요: 데이터를 복구하는 것은 불가능합니다.</string>
 		<string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências.$p$Cuidado: os dados não podem ser recuperados.</string>
 </set>
 <set id="ui-settings-colorblindmode">
@@ -88,15 +88,15 @@
 		<string lang="pt-br">Fornecer estatísticas</string>
 </set>
 <set id="ui-settings-datacollection-description">
-		<string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit$br$zu informieren.</string>
+		<string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit zu informieren.</string>
 		<string lang="en">Support development by transmitting anonymous run statistics. This data will only be used to inform questions of game balancing and difficulty.</string>
 		<string lang="fr">Aidez au développement en transmettant des statistiques anonymes de vos Runs. Ces données ne seront utilisées que pour informer des questions d'équilibrage et de difficulté du jeu.</string>
 		<string lang="zh">允许运行数据匿名上传以支持我们的开发工作。这些数据将仅用于了解游戏的平衡和难度。</string>
 		<string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
-		<string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти$br$данные будут использоваться только для решения вопросов балансировки игры и$br$сложности.</string>
-		<string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida.$br$Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad$br$del juego.</string>
+		<string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти данные будут использоваться только для решения вопросов балансировки игры и сложности.</string>
+		<string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida. Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad del juego.</string>
 		<string lang="kr">익명 모험 통계를 전송해 개발에 도움을 주세요. 해당 데이터는 게임의 밸런스 및 난이도 조절 관련 문제를 알아내기 위해서만 사용됩니다.</string>
-		<string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run.$br$Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do$br$jogo.</string>
+		<string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run. Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do jogo.</string>
 </set>
 <set id="ui-settings-effects">
 		<string lang="de">SFX</string>
@@ -149,9 +149,9 @@
 		<string lang="zh">游戏速度</string>
 		<string lang="jp">ゲーム速度</string>
 		<string lang="ru">Скорость игры</string>
-		<string lang="es">Velocidad del juego</string>
+		<string lang="es">Veloc. del juego</string>
 		<string lang="kr">게임 속도</string>
-		<string lang="pt-br">Velocidade do jogo</string>
+		<string lang="pt-br">Veloc. do jogo</string>
 </set>
 <set id="ui-settings-music">
 		<string lang="de">Musik</string>
