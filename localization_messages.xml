@@ -550,8 +550,8 @@
 		<string lang="pt-br">$NAME$ fica inconsciente.</string>
 </set>
 <set id="message-unconscious2">
-		<string lang="de">Du kannst ihn/sie an einem Shop, zurück im Lager oder im Loot-Fenster mit genug $plasma$ wiederbeleben!</string>
-		<string lang="en">You can revive them at a shop, back in camp or on the loot screen with enough $plasma$!</string>
+		<string lang="de">Du kannst ihn/sie an einem Shop, zurück im Lager$br$oder im Loot-Fenster mit genug $plasma$ wiederbeleben!</string>
+		<string lang="en">You can revive them at a shop, back in camp$br$or on the loot screen with enough $plasma$!</string>
 		<string lang="fr">vous pouvez les réanimer dans un magasin ou à la base!</string>
 		<string lang="zh">可以在商店、营地或战利品界面用等离子体复活角色$plasma$！</string>
 		<string lang="jp">あなたは店舗やキャンプで彼らを蘇らせることができます！</string>
@@ -639,13 +639,13 @@
 </set>
 <set id="worldmessage-energystorage">
 		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="en">"&lt;sprite name=""storage"" tint=1&gt; $ENERGYVALUE$ $energyicon$"</string>
+		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="zh">"&lt;sprite name=""storage"" tint=1&gt;$ENERGYVALUE$$energyicon$"</string>
-		<string lang="jp">"&lt;sprite name=""storage"" tint=1&gt; $ENERGYVALUE$ $energyicon$"</string>
+		<string lang="zh">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$$energyicon$</string>
+		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="kr">"&lt;sprite name=""storage"" tint=1&gt; $ENERGYVALUE$ $energyicon$"</string>
+		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 </set>
 <set id="worldmessage-error-batterychargedischarge">
