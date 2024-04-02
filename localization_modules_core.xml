@@ -219,17 +219,6 @@
 		<string lang="kr">소유자와 동일한 시간 단계에 위치한 모든 적에게 $grav+$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
 </set>
-<set id="description-module-effectordeceleratorprecision">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav+1$].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
-		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标参战单位施放一次$grav+1$。</string>
-		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの戦闘員に$grav+1$を与えます。</string>
-		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
-		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게 $grav+1$를 부여합니다].</string>
-		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
-</set>
 <set id="description-module-effectorgatlinggun">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
 		<string lang="en">For each point of $energy$ on this module:$br$[Deal $1damage$$br$to a random enemy].</string>
@@ -298,7 +287,7 @@
 </set>
 <set id="description-module-effectorvulnerability">
 		<string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Inflicts target enemy with $vulnerable$.$br$(Duration: $energy$×3).</string>
+		<string lang="en">Inflicts target enemy$br$with $vulnerable$.$br$(Duration: $energy$×3).</string>
 		<string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">对目标敌人施放$vulnerable$。$br$（持续时间：$energy$×3)。</string>
 		<string lang="jp">対象の敵に$vulnerable$を与えます。$br$（持続時間：$energy$ ×3）。</string>
@@ -878,17 +867,6 @@
 		<string lang="es">Decelerador de Melé $MODIFICATIONVALUE$</string>
 		<string lang="kr">근접 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador Corpo a Corpo $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-effectordeceleratorprecision">
-		<string lang="de">Präzisions-Verlangsamer $MODIFICATIONVALUE$</string>
-		<string lang="en">Precision Decelerator $MODIFICATIONVALUE$</string>
-		<string lang="fr">Décélérateur de Précision $MODIFICATIONVALUE$</string>
-		<string lang="zh">精准减速器$MODIFICATIONVALUE$</string>
-		<string lang="jp">精密減速器 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Точный Замедлитель $MODIFICATIONVALUE$</string>
-		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
-		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgatlinggun">
 		<string lang="de">Gatling-Gun $MODIFICATIONVALUE$</string>
