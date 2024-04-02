@@ -219,6 +219,17 @@
 		<string lang="kr">배낭에서는 발동하지 않습니다</string>
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
 </set>
+<set id="module-properties-modifier-not-wired-behind-sensor">
+	<string lang="de">Ist nicht hinter ein $sensor$-Modul verkabelt</string>
+	<string lang="en">Is not wired behind a $sensor$ module</string>
+	<string lang="fr">N'est pas câblé derrière un module $sensor$</string>
+	<string lang="zh">未连接到$sensor$模块后</string>
+	<string lang="jp">$sensor$モジュールの後ろに配線されていません</string>
+	<string lang="ru">Не подключен за $sensor$ модулем</string>
+	<string lang="es">No está conectado detrás de un módulo $sensor$</string>
+	<string lang="kr">$sensor$ 모듈 뒤에 연결되지 않았습니다</string>
+	<string lang="pt-br">Não está conectado atrás de um módulo $sensor$</string>
+</set>
 <set id="module-properties-description-amplification">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
