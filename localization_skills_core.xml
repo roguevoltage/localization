@@ -88,8 +88,8 @@
 		<string lang="pt-br">Se $might$ estiver cheio, ele remove todos os $might$ para duplicar.</string>
 </set>
 <set id="description-skill-gravbite">
-		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $gravamplification$.</string>
-		<string lang="en">Inflicts $1damage$ to an enemy and applies $gravamplification$.</string>
+		<string lang="de">Fügt $1damage$ zu und versieht ihn mit $gravamplification$.</string>
+		<string lang="en">Deals $1damage$ and applies $gravamplification$.</string>
 		<string lang="fr">Inflige $1damage$ à une ennemie et applique $gravamplification$.</string>
 		<string lang="zh">对一名敌人造成$1damage$并施加$gravamplification$。</string>
 		<string lang="jp">敵に $1damage$ を与え、$gravamplification$ を付与する。</string>
@@ -154,7 +154,7 @@
 </set>
 <set id="description-skill-gravpush-1">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+1$ zu</string>
-		<string lang="en">Inflicts another combatant with $grav+1$.</string>
+		<string lang="en">Inflicts another combatant$br$with $grav+1$.</string>
 		<string lang="fr">Inflige $grav+1$ à un autre combattant.</string>
 		<string lang="zh">对另一参战单位施放$grav+1$。</string>
 		<string lang="jp">他の敵に $grav+1$ を与える</string>
@@ -165,7 +165,7 @@
 </set>
 <set id="description-skill-gravpush-2">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$ zu</string>
-		<string lang="en">Inflicts another combatant with $grav+2$.</string>
+		<string lang="en">Inflicts another combatant$br$with $grav+2$.</string>
 		<string lang="fr">Inflige $grav+2$ à un autre combattant.</string>
 		<string lang="zh">对另一参战单位施放$grav+2$。</string>
 		<string lang="jp">他の敵に $grav+2$ を与える</string>
@@ -176,7 +176,7 @@
 </set>
 <set id="description-skill-gravpush-3">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+3$ zu</string>
-		<string lang="en">Inflicts another combatant with $grav+3$</string>
+		<string lang="en">Inflicts another combatant$br$with $grav+3$</string>
 		<string lang="fr">Inflige $grav+3$ à un autre combattant.</string>
 		<string lang="zh">对另一参战单位施放$grav+3$。</string>
 		<string lang="jp">他の敵に $grav+3$ を与える</string>
@@ -187,7 +187,7 @@
 </set>
 <set id="description-skill-gravspore-positive">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+1$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav+1$</string>
+		<string lang="en">Inflicts all other combatants$br$with $grav+1$</string>
 		<string lang="fr">Inflige $grav+1$ à tous les autres combattants.</string>
 		<string lang="zh">对所有其他参战单位施放$grav+1$。</string>
 		<string lang="jp">他の敵に $grav+1$ を与える</string>
@@ -308,8 +308,8 @@
 		<string lang="pt-br">Inflige a todos os inimigos $1damage$ e lhes aplica um módulo com $gravrecoil$</string>
 </set>
 <set id="description-skill-modulegravrecoil-slime">
-		<string lang="de">Fügt einem einem Gegner $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
-		<string lang="en">Deals $1damage$ to an enemy and inflicts one module with $gravrecoil$.</string>
+		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
+		<string lang="en">Deals $1damage$ and inflicts one module with $gravrecoil$.</string>
 		<string lang="fr">Inflige $1damage$ à un ennemi et applique $gravrecoil$ à un module.</string>
 		<string lang="zh">对一名敌人造成$1damage$，并对一个模块施放$gravrecoil$。</string>
 		<string lang="jp">敵に $1damage$ を与え、モジュールに $gravrecoil$ を与える</string>
@@ -518,7 +518,7 @@
 </set>
 <set id="description-skill-shleck-frog">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.$br$Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
-		<string lang="en">Deals $1damage$ to an enemy.$br$May remove $grav+1$ from the target to raise $might$ by $1$.</string>
+		<string lang="en">Deals $1damage$. May remove $grav+1$ from the target to raise $might$ by $1$.</string>
 		<string lang="fr">Inflige $1damage$ à une ennemie.$br$Peut retirer $grav+1$ de la cible pour augmenter $might$ de $1$.</string>
 		<string lang="zh">对一名敌人造成$1damage$。$br$有概率移除目标$grav+1$以提升$1$$might$。</string>
 		<string lang="jp">敵に $1damage$ を与える。$br$ターゲットの $grav+1$ を移除して $might$ を $1$ 増加させることができる。</string>
