@@ -219,16 +219,16 @@
 		<string lang="kr">$might$가 가득 차 있으면, 자신을 파괴하여 $b$Phoenix$/b$를 생성합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Phoenix$/b$.</string>
 </set>
-<set id="description-skill-modulefire-firegnat">
-		<string lang="de">Fügt einem Gegner $grav+1$ zu und versieht ein Modul mit $fire$.</string>
-		<string lang="en">Inflicts an enemy with $grav+1$ and one module with $fire$.</string>
-		<string lang="fr">Inflige à un ennemi $grav+1$ et un module avec $fire$.</string>
-		<string lang="zh">对敌人施加 $grav+1$ 并使一个模块获得 $fire$。</string>
-		<string lang="jp">敵に $grav+1$ とモジュールに $fire$ を付与します。</string>
-		<string lang="ru">Наносит врагу $grav+1$ и модулю $fire$.</string>
-		<string lang="es">Inflige a un enemigo con $grav+1$ y un módulo con $fire$.</string>
-		<string lang="kr">적에게 $grav+1$을 입히고 모듈에 $fire$를 부여합니다.</string>
-		<string lang="pt-br">Inflige um inimigo com $grav+1$ e um módulo com $fire$.</string>
+<set id="description-skill-gravsting-firegnat">
+		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu und versieht ein Modul mit $fire$.</string>
+		<string lang="en">Deals $1damage$ and $grav+1$ to an enemy, and inflicts one module with $fire$.</string>
+        <string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi, et inflige un module avec $fire$.</string>
+        <string lang="zh">对敌人造成 $1damage$ 和 $grav+1$，并使一个模块获得 $fire$。</string>
+        <string lang="jp">敵に $1damage$ と $grav+1$ を与え、モジュールに $fire$ を付与します。</string>
+        <string lang="ru">Наносит врагу $1damage$ и $grav+1$ и накладывает на один модуль $fire$.</string>
+        <string lang="es">Inflige $1damage$ y $grav+1$ a un enemigo, e inflige un módulo con $fire$.</string>
+        <string lang="kr">적에게 $1damage$와 $grav+1$을 입히고 모듈 하나에 $fire$를 부여합니다.</string>
+        <string lang="pt-br">Causa $1damage$ e $grav+1$ a um inimigo, e inflige um módulo com $fire$.</string>
 </set>
 <set id="description-skill-modulefire-volcanoboss">
 		<string lang="de">Fügt einem Gegner $1$ $damage$ zu und versieht zwei Module mit $fire$.</string>
@@ -736,7 +736,7 @@
 		<string lang="kr">불 $fireicon$</string>
 		<string lang="pt-br">Fogo $fireicon$</string>
 </set>
-<set id="name-skill-modulefire-firegnat">
+<set id="name-skill-gravsting-firegnat">
 		<string lang="de">Brennender Stich $grav+1$$fireicon$</string>
 		<string lang="en">Burning Sting $grav+1$$fireicon$</string>
 		<string lang="fr">Piqûre Brûlante $grav+1$$fireicon$</string>
