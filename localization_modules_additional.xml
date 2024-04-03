@@ -65,17 +65,6 @@
 		<string lang="kr">$damage$가 $shield$에 의해 줄어들 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $damage$ é reduzido por $shield$.</string>
 </set>
-<set id="description-module-effectoracceleratorprecision">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav-1$].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un combattant ciblé].</string>
-		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标参战单位施放一次$grav-1$。</string>
-		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの戦闘員に$grav-1$を与えます。</string>
-		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav-1$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav-1$].</string>
-		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게 $grav-1$를 부여합니다].</string>
-		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav-1$].</string>
-</set>
 <set id="description-module-effectorblasterprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl $1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$ to target enemy].</string>
@@ -262,17 +251,6 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
 		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
-</set>
-<set id="description-module-hotpotato">
-		<string lang="de">Am Anfag des Zuges erhält der aktuelle Held $grav+2$. Fügt dem aktuellem Helden $1damage$ am Ende seines Zuges zu.</string>
-		<string lang="en">At the start of the turn the current character gets $grav+2$. At the end of the turn deals $1damage$ to currend hero.</string>
-		<string lang="fr">Au début du tour, le joueur actuel reçoit $grav+2$. Inflige $1damage$ au héros actuel à la fin de son tour.</string>
-		<string lang="zh">在回合开始时，当前玩家获得 $grav+2$。在回合结束时对当前英雄造成 $1damage$。</string>
-		<string lang="jp">ターンの開始時に、現在のプレイヤーは $grav+2$ を受け取ります。ターンの終了時に、現在のヒーローに $1damage$ を与えます。</string>
-		<string lang="ru">В начале хода текущий игрок получает $grav+2$. Наносит $1damage$ текущему герою в конце его хода.</string>
-		<string lang="es">Al comienzo del turno, el jugador actual recibe $grav+2$. Inflige $1damage$ al héroe actual al final de su turno.</string>
-		<string lang="kr">턴 시작시 현재 플레이어는 $grav+2$를 받습니다. 턴 종료시 현재 영웅에게 $1damage$를 줍니다.</string>
-		<string lang="pt-br">No início do turno, o jogador atual recebe $grav+2$. Inflige $1damage$ ao herói atual no final de seu turno.</string>
 </set>
 <set id="description-module-lightningrod">
 		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
@@ -510,17 +488,6 @@
 		<string lang="kr">모든 전투원으로부터 모든 $might$를 제거합니다.</string>
 		<string lang="pt-br">Remove todo o $might$ de todos os combatentes.</string>
 </set>
-<set id="description-module-toggledmaxcapacityenhancer">
-		<string lang="de">Erhöht die Max. Kapazität einer $storagemodule$ um $1$ und läd sie um $1$ auf.</string>
-		<string lang="en">Increases the max. capacity of a $storagemodule$ by $1$ and charges it by $1$.</string>
-		<string lang="fr">Augmente la capacité max. d'une $storagemodule$ de $1$ et la charge de $1$.</string>
-		<string lang="zh">将 $storagemodule$ 的最大容量增加$1$并充电$1$。</string>
-		<string lang="jp">$storagemodule$の最大容量を$1$増やし、$1$充電します。</string>
-		<string lang="ru">Увеличивает макс. ёмкость $storagemodule$ на $1$ и заряжает его на $1$.</string>
-		<string lang="es">Aumenta la capacidad máx. de una $storagemodule$ en $1$ y la carga en $1$.</string>
-		<string lang="kr">$storagemodule$의 최대 용량을 $1$ 증가시키고 $1$로 충전합니다.</string>
-		<string lang="pt-br">Aumenta a capacidade máx. de uma $storagemodule$ em $1$ e a carrega em $1$.</string>
-</set>
 <set id="description-module-toggledrepairkit">
 		<string lang="de">Entfernt $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Removes $outoforder$ from target module on this rack.</string>
@@ -674,17 +641,6 @@
 		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
 		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-effectoracceleratorprecision">
-		<string lang="de">Präzisions-Beschleuniger $MODIFICATIONVALUE$</string>
-		<string lang="en">Precision Accelerator $MODIFICATIONVALUE$</string>
-		<string lang="fr">Accélérateur de Précision $MODIFICATIONVALUE$</string>
-		<string lang="zh">精准加速器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">精密アクセル $MODIFICATIONVALUE$</string>
-		<string lang="ru">Точный Ускоритель $MODIFICATIONVALUE$</string>
-		<string lang="es">Acelerador de Precisión $MODIFICATIONVALUE$</string>
-		<string lang="kr">정밀 가속기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Acelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgravimmunity">
 		<string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
@@ -850,17 +806,6 @@
 		<string lang="es">Generador Peligroso</string>
 		<string lang="kr">위험한 발전기</string>
 		<string lang="pt-br">Gerador Perigoso</string>
-</set>
-<set id="name-module-hotpotato">
-		<string lang="de">Heiße Kartoffel</string>
-		<string lang="en">Hot Potato</string>
-		<string lang="fr">Patate Chaude</string>
-		<string lang="zh">烫手山芋</string>
-		<string lang="jp">ホットポテト</string>
-		<string lang="ru">Горячий Картофель</string>
-		<string lang="es">Patata Caliente</string>
-		<string lang="kr">뜨거운 감자</string>
-		<string lang="pt-br">Batata Quente</string>
 </set>
 <set id="name-module-lightningrod">
 		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
@@ -1099,17 +1044,6 @@
 		<string lang="es">Anulador de Poderío</string>
 		<string lang="kr">마이트 널리파이어</string>
 		<string lang="pt-br">Anulador de Poder</string>
-</set>
-<set id="name-module-toggledmaxcapacityenhancer">
-		<string lang="de">Kapazität-Upgrader</string>
-		<string lang="en">Capacity Enhancer</string>
-		<string lang="fr">Améliorateur de Capacité</string>
-		<string lang="zh">容量增强器</string>
-		<string lang="jp">キャパシティアップグレーダー</string>
-		<string lang="ru">Усилитель Емкости</string>
-		<string lang="es">Potenciador de Capacidad</string>
-		<string lang="kr">용량 증강기</string>
-		<string lang="pt-br">Melhorador de Capacidade</string>
 </set>
 <set id="name-module-toggledrepairkit">
 		<string lang="de">Reparatur-Kit</string>
