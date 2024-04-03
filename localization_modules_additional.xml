@@ -78,7 +78,7 @@
 </set>
 <set id="description-module-effectorblasterprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl $1damage$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$ to target enemy].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$$br$to target enemy].</string>
         <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
         <string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标敌人施放$1damage$。</string>
         <string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの敵に$1damage$を与えます。</string>
@@ -262,17 +262,6 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
 		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
-</set>
-<set id="description-module-hotpotato">
-		<string lang="de">Am Anfag des Zuges erhält der aktuelle Held $grav+2$. Fügt dem aktuellem Helden $1damage$ am Ende seines Zuges zu.</string>
-		<string lang="en">At the start of the turn the current character gets $grav+2$. At the end of the turn deals $1damage$ to currend hero.</string>
-		<string lang="fr">Au début du tour, le joueur actuel reçoit $grav+2$. Inflige $1damage$ au héros actuel à la fin de son tour.</string>
-		<string lang="zh">在回合开始时，当前玩家获得 $grav+2$。在回合结束时对当前英雄造成 $1damage$。</string>
-		<string lang="jp">ターンの開始時に、現在のプレイヤーは $grav+2$ を受け取ります。ターンの終了時に、現在のヒーローに $1damage$ を与えます。</string>
-		<string lang="ru">В начале хода текущий игрок получает $grav+2$. Наносит $1damage$ текущему герою в конце его хода.</string>
-		<string lang="es">Al comienzo del turno, el jugador actual recibe $grav+2$. Inflige $1damage$ al héroe actual al final de su turno.</string>
-		<string lang="kr">턴 시작시 현재 플레이어는 $grav+2$를 받습니다. 턴 종료시 현재 영웅에게 $1damage$를 줍니다.</string>
-		<string lang="pt-br">No início do turno, o jogador atual recebe $grav+2$. Inflige $1damage$ ao herói atual no final de seu turno.</string>
 </set>
 <set id="description-module-lightningrod">
 		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
@@ -850,17 +839,6 @@
 		<string lang="es">Generador Peligroso</string>
 		<string lang="kr">위험한 발전기</string>
 		<string lang="pt-br">Gerador Perigoso</string>
-</set>
-<set id="name-module-hotpotato">
-		<string lang="de">Heiße Kartoffel</string>
-		<string lang="en">Hot Potato</string>
-		<string lang="fr">Patate Chaude</string>
-		<string lang="zh">烫手山芋</string>
-		<string lang="jp">ホットポテト</string>
-		<string lang="ru">Горячий Картофель</string>
-		<string lang="es">Patata Caliente</string>
-		<string lang="kr">뜨거운 감자</string>
-		<string lang="pt-br">Batata Quente</string>
 </set>
 <set id="name-module-lightningrod">
 		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
