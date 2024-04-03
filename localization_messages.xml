@@ -4,7 +4,7 @@
 		<string lang="en">BUG: $NAME$ is dead.</string>
 		<string lang="fr">BUG: $NAME$ est mort.</string>
 		<string lang="zh">错误：$NAME$已经死亡。</string>
-		<string lang="jp">BUG: $NAME$ は死んでいます。</string>
+		<string lang="jp">バグ：$NAME$は死んでいる</string>
 		<string lang="ru">BUG: $NAME$ мёртв.</string>
 		<string lang="es">BUG: $NAME$ está muerto.</string>
 		<string lang="kr">버그: $NAME$(은)는 죽었습니다.</string>
@@ -15,7 +15,7 @@
 		<string lang="en">BUG: $NAME$ has no abilities.</string>
 		<string lang="fr">BUG: $NAME$ n'a pas de capacités.</string>
 		<string lang="zh">错误：$NAME$没有技能。</string>
-		<string lang="jp">BUG: $NAME$ に能力がありません。</string>
+		<string lang="jp">バグ：$NAME$は能力がない</string>
 		<string lang="ru">BUG: $NAME$ не имеет способностей.</string>
 		<string lang="es">BUG: $NAME$ no tiene habilidades.</string>
 		<string lang="kr">버그: $NAME$(은)는 능력이 없습니다.</string>
@@ -26,7 +26,7 @@
 		<string lang="en">BUG: $TURN$ has no actor</string>
 		<string lang="fr">BUG: $TURN$ n'a pas d'acteur</string>
 		<string lang="zh">错误：$TURN$没有角色出战。</string>
-		<string lang="jp">BUG: $TURN$ にアクターがありません</string>
+		<string lang="jp">バグ：$TURN$に行動可能キャラがいない</string>
 		<string lang="ru">BUG: $TURN$ не имеет актёра</string>
 		<string lang="es">BUG: $TURN$ no tiene actor</string>
 		<string lang="kr">BUG: $TURN$에 배우가 없습니다</string>
@@ -48,7 +48,7 @@
 		<string lang="en">Voting Started! To vote send</string>
 		<string lang="fr">Vote Commencé! Pour voter, envoyez</string>
 		<string lang="zh">投票开始！投票发送</string>
-		<string lang="jp">投票開始！投票するには、送信してください</string>
+		<string lang="jp">投票開始！投票先</string>
 		<string lang="ru">Голосование началось! Чтобы проголосовать, отправьте</string>
 		<string lang="es">¡Votación Iniciada! Para votar, envía</string>
 		<string lang="kr">투표가 시작됐습니다! 투표 보내기</string>
@@ -59,7 +59,7 @@
 		<string lang="en">Cannot wire circular</string>
 		<string lang="fr">Ne peut pas câbler circulairement</string>
 		<string lang="zh">无法环形接线</string>
-		<string lang="jp">循環的に接続できません</string>
+		<string lang="jp">ループ配線不可</string>
 		<string lang="ru">Нельзя провести провод по кругу</string>
 		<string lang="es">No se puede conectar en círculo</string>
 		<string lang="kr">순환되게 연결할 수 없습니다</string>
@@ -70,7 +70,7 @@
 		<string lang="en">Station has already been used.</string>
 		<string lang="fr">Station a déjà été utilisé.</string>
 		<string lang="zh">站点已被使用。</string>
-		<string lang="jp">ステーションはすでに使用されています。</string>
+		<string lang="jp">装置使用済み</string>
 		<string lang="ru">Станция уже использована.</string>
 		<string lang="es">La estación ya ha sido usada.</string>
 		<string lang="kr">건물을 이미 이용했습니다.</string>
@@ -81,7 +81,7 @@
 		<string lang="en">Must wire input$br$to output jack</string>
 		<string lang="fr">Cablez jack entrée$br$à jack sortie</string>
 		<string lang="zh">输出端口只能$br$与输入端口相连</string>
-		<string lang="jp">入力を出力に接続</string>
+		<string lang="jp">入力端子から出力端子へ繋がっていない</string>
 		<string lang="ru">Проведите провод$br$от входа к выходу</string>
 		<string lang="es">Conecta la entrada$br$a la salida</string>
 		<string lang="kr">입력 잭은 출력 잭에 연결해야 합니다.</string>
@@ -92,7 +92,7 @@
 		<string lang="en">Wrong color</string>
 		<string lang="fr">Couleur incorrecte</string>
 		<string lang="zh">颜色错误</string>
-		<string lang="jp">色が違います</string>
+		<string lang="jp">色が違う</string>
 		<string lang="ru">Неверный цвет</string>
 		<string lang="es">Color incorrecto</string>
 		<string lang="kr">잘못된 색상</string>
@@ -103,7 +103,7 @@
 		<string lang="en">Blocked</string>
 		<string lang="fr">Bloqué</string>
 		<string lang="zh">受阻</string>
-		<string lang="jp">塞がり</string>
+		<string lang="jp">阻害</string>
 		<string lang="ru">Заблокировано</string>
 		<string lang="es">Bloqueado</string>
 		<string lang="kr">막힘</string>
@@ -114,7 +114,7 @@
 		<string lang="en">Not$br$wired</string>
 		<string lang="fr">Pas$br$cablé</string>
 		<string lang="zh">未$br$接线</string>
-		<string lang="jp">接続されていません</string>
+		<string lang="jp">繋がっていない</string>
 		<string lang="ru">Не подключено</string>
 		<string lang="es">No conectado</string>
 		<string lang="kr">연결되지$br$않음</string>
@@ -125,7 +125,7 @@
 		<string lang="en">This level is not viable.</string>
 		<string lang="fr">Ce niveau n'est pas viable.</string>
 		<string lang="zh">此关卡不可用。</string>
-		<string lang="jp">このレベルは利用できません。</string>
+		<string lang="jp">このレベルでは不可</string>
 		<string lang="ru">Этот уровень недоступен.</string>
 		<string lang="es">Este nivel no es viable.</string>
 		<string lang="kr">이 레벨은 변경할 수 없습니다.</string>
@@ -147,7 +147,7 @@
 		<string lang="en">Cannot be taken from rack</string>
 		<string lang="fr">Ne peut pas être retiré du rack</string>
 		<string lang="zh">无法取下</string>
-		<string lang="jp">ラックからは取り出せません</string>
+		<string lang="jp">ラックから外せない</string>
 		<string lang="ru">Нельзя взять из стойки</string>
 		<string lang="es">No se puede sacar del bastidor</string>
 		<string lang="kr">랙에서 제거할 수 없습니다</string>
@@ -158,7 +158,7 @@
 		<string lang="en">Cannot be dumped</string>
 		<string lang="fr">Ne peut pas être jeté</string>
 		<string lang="zh">无法丢弃</string>
-		<string lang="jp">捨てられません</string>
+		<string lang="jp">廃棄不可</string>
 		<string lang="ru">Нельзя выбросить</string>
 		<string lang="es">No se puede tirar</string>
 		<string lang="kr">버릴 수 없습니다</string>
@@ -169,7 +169,7 @@
 		<string lang="en">Modules can only receive one $upgrade$</string>
 		<string lang="fr">Modules ne peuvent recevoir qu'une seule $upgrade$</string>
 		<string lang="zh">每个模块仅可拥有一个$upgrade$</string>
-		<string lang="jp">モジュールは$upgrade$を1つしか受け取れません</string>
+		<string lang="jp">モジュールの$upgrade$は１回まで</string>
 		<string lang="ru">Модули могут получить только одно $upgrade$</string>
 		<string lang="es">Módulos sólo pueden recibir un $upgrade$</string>
 		<string lang="kr">모듈은 한번만 $upgrade$될 수 있습니다.</string>
@@ -180,7 +180,7 @@
 		<string lang="en">Break $crust$$br$with $energy$</string>
 		<string lang="fr">Cassez $crust$$br$avec $energy$</string>
 		<string lang="zh">用$energy$$br$打破$crust$</string>
-		<string lang="jp">$energy$で$crust$を破壊</string>
+		<string lang="jp">$energy$で$crust$の除去が必要</string>
 		<string lang="ru">Разбейте $crust$$br$с помощью $energy$</string>
 		<string lang="es">Rompe $crust$$br$con $energy$</string>
 		<string lang="kr">$energy$로$br$$crust$를 파괴하세요</string>
@@ -213,7 +213,7 @@
 		<string lang="en">Character loadout cannot be taken from rack</string>
 		<string lang="fr">L'équipement du personnage ne peut pas être pris depuis le rack</string>
 		<string lang="zh">角色自带无法取下</string>
-		<string lang="jp">キャラクターの装備はラックから取り出せません</string>
+		<string lang="jp">キャラ専用モジュールはラックから外せない</string>
 		<string lang="ru">Снаряжение персонажа нельзя взять из стойки</string>
 		<string lang="es">Equipo del personaje no se puede sacar del bastidor</string>
 		<string lang="kr">캐릭터 소지품은 랙에서 제거할 수 없습니다.</string>
@@ -235,7 +235,7 @@
 		<string lang="en">Not negotiable</string>
 		<string lang="fr">Pas négociable</string>
 		<string lang="zh">不可转让</string>
-		<string lang="jp">交渉不可</string>
+		<string lang="jp">取引不可</string>
 		<string lang="ru">Не подлежит торгу</string>
 		<string lang="es">No negociable</string>
 		<string lang="kr">협상 불가</string>
@@ -246,7 +246,7 @@
 		<string lang="en">Does not belong to you</string>
 		<string lang="fr">Ne vous appartient pas</string>
 		<string lang="zh">不属于你</string>
-		<string lang="jp">あなたのものではありません</string>
+		<string lang="jp">自分の所有物ではない</string>
 		<string lang="ru">Не принадлежит вам</string>
 		<string lang="es">No te pertenece</string>
 		<string lang="kr">소유하고 있지 않습니다</string>
@@ -257,7 +257,7 @@
 		<string lang="en">Cannot be transmogrified</string>
 		<string lang="fr">Ne peut pas être transmogrifié</string>
 		<string lang="zh">无法改变</string>
-		<string lang="jp">変身不可</string>
+		<string lang="jp">モジュール変換不可</string>
 		<string lang="ru">Нельзя трансмогрифицировать</string>
 		<string lang="es">No se puede transmogrificar</string>
 		<string lang="kr">변질시킬 수 없습니다</string>
@@ -268,7 +268,7 @@
 		<string lang="en">No more picks left</string>
 		<string lang="fr">Plus de choix disponibles</string>
 		<string lang="zh">没有更多选择</string>
-		<string lang="jp">選択肢がありません</string>
+		<string lang="jp">もう拾えない</string>
 		<string lang="ru">Больше нет выбора</string>
 		<string lang="es">No quedan más selecciones</string>
 		<string lang="kr">더 이상 추출할 수 없습니다</string>
@@ -279,7 +279,7 @@
 		<string lang="en">No free space in rack</string>
 		<string lang="fr">Pas d'espace libre dans le rack</string>
 		<string lang="zh">模架已满</string>
-		<string lang="jp">ラックに空きスペースがありません</string>
+		<string lang="jp">ラックに空きがない</string>
 		<string lang="ru">Нет свободного места в стойке</string>
 		<string lang="es">No hay espacio libre en el bastidor</string>
 		<string lang="kr">랙에 남은 공간이 없습니다</string>
@@ -290,7 +290,7 @@
 		<string lang="en">Rack of $NAME$ is not wired</string>
 		<string lang="fr">Rack de $NAME$ n'est pas cablé</string>
 		<string lang="zh">$NAME$的模组未连接</string>
-		<string lang="jp">$NAME$のラックは接続されていません</string>
+		<string lang="jp">$NAME$のラックは繋がってない</string>
 		<string lang="ru">Стойка $NAME$ не подключена</string>
 		<string lang="es">El bastidor de $NAME$ no está conectado</string>
 		<string lang="kr">$NAME$의 랙이 연결되어 있지 않습니다</string>
@@ -301,7 +301,7 @@
 		<string lang="en">Cannot wire from here</string>
 		<string lang="fr">Impossible de cabler ici</string>
 		<string lang="zh">无法在这里连接</string>
-		<string lang="jp">ここから接続できません</string>
+		<string lang="jp">ここからは繋げない</string>
 		<string lang="ru">Нельзя провести провод отсюда</string>
 		<string lang="es">No se puede conectar desde aquí</string>
 		<string lang="kr">여기서는 연결할 수 없습니다</string>
@@ -312,7 +312,7 @@
 		<string lang="en">Cannot be taken from this socket</string>
 		<string lang="fr">Ne peut pas être pris depuis ce socket</string>
 		<string lang="zh">无法从插槽取下</string>
-		<string lang="jp">このソケットからは取り出せません</string>
+		<string lang="jp">このソケットからは取れない</string>
 		<string lang="ru">Нельзя взять из этого сокета</string>
 		<string lang="es">No se puede sacar de este socket</string>
 		<string lang="kr">이 소켓에서 제거할 수 없습니다</string>
@@ -323,7 +323,7 @@
 		<string lang="en">Socket does not accept modules</string>
 		<string lang="fr">Socket ne prend pas de modules</string>
 		<string lang="zh">插槽与模块不兼容</string>
-		<string lang="jp">ソケットはモジュールを受け入れません</string>
+		<string lang="jp">ソケットがモジュールに合わない</string>
 		<string lang="ru">Сокет не принимает модули</string>
 		<string lang="es">El socket no acepta módulos</string>
 		<string lang="kr">모듈에 맞지 않는 소켓입니다.</string>
@@ -334,7 +334,7 @@
 		<string lang="en">Socket does not accept modules of this type.</string>
 		<string lang="fr">Socket ne prend pas de module de ce type.</string>
 		<string lang="zh">插槽与此类型模块不兼容</string>
-		<string lang="jp">ソケットはこのタイプのモジュールを受け入れません。</string>
+		<string lang="jp">このタイプのモジュールにソケットが合わない</string>
 		<string lang="ru">Сокет не принимает модули этого типа.</string>
 		<string lang="es">El socket no acepta módulos de este tipo.</string>
 		<string lang="kr">이 유형의 모듈에 맞지 않는 소켓입니다.</string>
@@ -345,7 +345,7 @@
 		<string lang="en">Cannot wire during firing sequence</string>
 		<string lang="fr">Cablage interdit pendant une séquence de tir</string>
 		<string lang="zh">能量传输过程中无法接线</string>
-		<string lang="jp">発射シーケンス中に接続できません</string>
+		<string lang="jp">作動中は繋げない</string>
 		<string lang="ru">Нельзя провести провод во время стрельбы</string>
 		<string lang="es">No se puede conectar durante la secuencia de disparo</string>
 		<string lang="kr">발사 시퀀스 도중에는 연결할 수 없습니다</string>
@@ -356,7 +356,7 @@
 		<string lang="en">Cannot wire$br$same module</string>
 		<string lang="fr">Ne peut pas cabler$br$le même module</string>
 		<string lang="zh">无法连接$br$相同模块</string>
-		<string lang="jp">同じモジュールを接続できません</string>
+		<string lang="jp">同一モジュールには繋げない</string>
 		<string lang="ru">Нельзя провести провод$br$от того же модуля</string>
 		<string lang="es">No se puede conectar$br$el mismo módulo</string>
 		<string lang="kr">동일한 모듈은$br$연결할 수 없습니다</string>
@@ -367,7 +367,7 @@
 		<string lang="en">It's not the turn of $NAME$.</string>
 		<string lang="fr">C'est pas le tour de $NAME$.</string>
 		<string lang="zh">未到$NAME$回合。</string>
-		<string lang="jp">$NAME$のターンではありません。</string>
+		<string lang="jp">$NAMEのターンじゃない</string>
 		<string lang="ru">Сейчас не ход $NAME$.</string>
 		<string lang="es">No es el turno de $NAME$.</string>
 		<string lang="kr">$NAME$의 턴이 아닙니다.</string>
@@ -378,7 +378,7 @@
 		<string lang="en">You stumble upon a group of monsters.</string>
 		<string lang="fr">Vous rencontrez une troupe de monstres.</string>
 		<string lang="zh">你偶然发现了一群怪物。</string>
-		<string lang="jp">あなたはモンスターのグループに出くわします。</string>
+		<string lang="jp">怪物の集団に遭遇</string>
 		<string lang="ru">Вы натыкаетесь на группу монстров.</string>
 		<string lang="es">Te encuentras con un grupo de monstruos.</string>
 		<string lang="kr">우연히 몬스터 무리와 마주쳤습니다.</string>
@@ -389,7 +389,7 @@
 		<string lang="en">You did it!</string>
 		<string lang="fr">Vous avez réussi!</string>
 		<string lang="zh">你做到了！</string>
-		<string lang="jp">成功しました！</string>
+		<string lang="jp">やった！</string>
 		<string lang="ru">Вы сделали это!</string>
 		<string lang="es">¡Lo hiciste!</string>
 		<string lang="kr">해냈군요!</string>
@@ -400,7 +400,7 @@
 		<string lang="en">Idle</string>
 		<string lang="fr">Inactif</string>
 		<string lang="zh">闲置中</string>
-		<string lang="jp">遊休</string>
+		<string lang="jp">放置中</string>
 		<string lang="ru">Бездействие</string>
 		<string lang="es">Inactivo</string>
 		<string lang="kr">방치</string>
@@ -422,7 +422,7 @@
 		<string lang="en">No target</string>
 		<string lang="fr">Pas de cible</string>
 		<string lang="zh">没有目标</string>
-		<string lang="jp">ターゲットなし</string>
+		<string lang="jp">対象なし</string>
 		<string lang="ru">Нет цели</string>
 		<string lang="es">Sin objetivo</string>
 		<string lang="kr">대상 없음</string>
@@ -433,7 +433,7 @@
 		<string lang="en">No targets.$br$Targets must be aligned with character on timeline.</string>
 		<string lang="fr">Pas de cible.$br$Les cibles doivent être alignées avec le personnage sur la timeline.</string>
 		<string lang="zh">没有目标。$br$目标与角色在时间轴上必须对齐。</string>
-		<string lang="jp">ターゲットなし$br$ターゲットはタイムライン上のキャラクターと一致する必要があります。</string>
+		<string lang="jp">対象なし$br$タイムライン上のキャラと同列の対象のみ選択可能</string>
 		<string lang="ru">Нет цели.$br$Цели должны быть выровнены с персонажем на временной линии.</string>
 		<string lang="es">Sin objetivos.$br$Objetivos deben estar alineados con el personaje en la línea de tiempo.</string>
 		<string lang="kr">대상이 없습니다.$br$캐릭터와 대상이 동일한 타임라인에 위치해야 합니다.</string>
@@ -444,7 +444,7 @@
 		<string lang="en">Ready for action</string>
 		<string lang="fr">Prêt pour l'action</string>
 		<string lang="zh">准备就绪</string>
-		<string lang="jp">行動準備完了</string>
+		<string lang="jp">準備完了</string>
 		<string lang="ru">Готов к действию</string>
 		<string lang="es">Listo para la acción</string>
 		<string lang="kr">준비 완료</string>
@@ -455,7 +455,7 @@
 		<string lang="en">Select the next module to activate</string>
 		<string lang="fr">Sélectionnez le prochain module à activer</string>
 		<string lang="zh">选择下一个激活的模块</string>
-		<string lang="jp">次のアクティブにするモジュールを選択</string>
+		<string lang="jp">次の起動モジュール選択</string>
 		<string lang="ru">Выберите следующий модуль для активации</string>
 		<string lang="es">Selecciona el siguiente módulo para activar</string>
 		<string lang="kr">다음에 활성화할 모듈을 선택하세요</string>
@@ -466,7 +466,7 @@
 		<string lang="en">Select target for$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 		<string lang="fr">Sélectionnez une cible pour$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 		<string lang="zh">为$br$&lt;size=15&gt;$NAME$&lt;/size&gt;选择目标</string>
-		<string lang="jp">ターゲットを選択$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
+		<string lang="jp">&lt;size=15&gt;$NAME$&lt;/size&gt;の対象選択</string>
 		<string lang="ru">Выберите цель для$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 		<string lang="es">Selecciona un objetivo para$br$&lt;size=15&gt;$NAME$&lt;/size&gt;</string>
 		<string lang="kr">&lt;size=15&gt;$NAME$&lt;/size&gt;의$br$목표를 지정하세요</string>
@@ -477,7 +477,7 @@
 		<string lang="en">Connect the modules you want to activate with wires.</string>
 		<string lang="fr">Connectez les modules avec des câbles.</string>
 		<string lang="zh">连接想要激活的模块。</string>
-		<string lang="jp">ワイヤーでアクティブにしたいモジュールを接続します。</string>
+		<string lang="jp">起動したいモジュールを配線</string>
 		<string lang="ru">Подключите модули, которые вы хотите активировать при помощи проводов.</string>
 		<string lang="es">Conecta los módulos que quieres activar con cables.</string>
 		<string lang="kr">활성화하고 싶은 모듈을 전선으로 연결하세요.</string>
@@ -488,7 +488,7 @@
 		<string lang="en">The Grav. Equilibrium rolls over the battle field.</string>
 		<string lang="fr">Le Grav. Equilibrium envahit le champ de bataille.</string>
 		<string lang="zh">战场每隔一段时间就会出现引力均衡。</string>
-		<string lang="jp">重力平衡は戦場を襲います。</string>
+		<string lang="jp">重量平衡が戦場を覆い尽くす</string>
 		<string lang="ru">Грав. равновесие пролетает по полю боя.</string>
 		<string lang="es">El Equilibrio Grav. se extiende por el campo de batalla.</string>
 		<string lang="kr">중력 평형이 전장을 휩씁니다.</string>
@@ -499,7 +499,7 @@
 		<string lang="en">A Grav. Impulse!</string>
 		<string lang="fr">Un Impulse Grav.!</string>
 		<string lang="zh">引力脉冲来临！</string>
-		<string lang="jp">重力の衝撃！</string>
+		<string lang="jp">重力インパルスだ！</string>
 		<string lang="ru">Грав. импульс!</string>
 		<string lang="es">¡Un Impulso Grav.!</string>
 		<string lang="kr">중력 충격!</string>
@@ -510,7 +510,7 @@
 		<string lang="en">A Grav. Spike!</string>
 		<string lang="fr">Une Crête Grav.!</string>
 		<string lang="zh">引力尖刺来临！</string>
-		<string lang="jp">重力の尖り！</string>
+		<string lang="jp">重力スパイクだ！</string>
 		<string lang="ru">Грав. Шип!</string>
 		<string lang="es">¡Un Pico Grav.!</string>
 		<string lang="kr">중력 폭주!</string>
@@ -521,7 +521,7 @@
 		<string lang="en">A lightning strike!</string>
 		<string lang="fr">Une foudre!</string>
 		<string lang="zh">是闪电打击！</string>
-		<string lang="jp">雷撃！</string>
+		<string lang="jp">稲妻だ！</string>
 		<string lang="ru">Удар молнии!</string>
 		<string lang="es">¡Un rayo!</string>
 		<string lang="kr">천둥 번개!</string>
@@ -532,7 +532,7 @@
 		<string lang="en">An eruption!</string>
 		<string lang="fr">Une éruption!</string>
 		<string lang="zh">爆发了！</string>
-		<string lang="jp">噴火！</string>
+		<string lang="jp">噴火だ！</string>
 		<string lang="ru">Извержение!</string>
 		<string lang="es">¡Una erupción!</string>
 		<string lang="kr">분출!</string>
@@ -543,7 +543,7 @@
 		<string lang="en">$NAME$ becomes unconscious.</string>
 		<string lang="fr">$NAME$ se fait évanouir.</string>
 		<string lang="zh">$NAME$陷入昏迷。</string>
-		<string lang="jp">$NAME$は意識を失います。</string>
+		<string lang="jp">$NAME$は気絶した。</string>
 		<string lang="ru">$NAME$ теряет сознание.</string>
 		<string lang="es">$NAME$ se desmaya.</string>
 		<string lang="kr">$NAME$(은)는 의식을 잃었습니다.</string>
@@ -554,7 +554,7 @@
 		<string lang="en">You can revive them at a shop, back in camp$br$or on the loot screen with enough $plasma$!</string>
 		<string lang="fr">vous pouvez les réanimer dans un magasin ou à la base!</string>
 		<string lang="zh">可以在商店、营地或战利品界面用等离子体复活角色$plasma$！</string>
-		<string lang="jp">あなたは店舗やキャンプで彼らを蘇らせることができます！</string>
+		<string lang="jp">店、野営地、戦利品画面で充分な$plasma$消費で蘇生可能！</string>
 		<string lang="ru">Вы можете оживить их в магазине или в лагере!</string>
 		<string lang="es">¡Puedes resucitarlos en una tienda, en el campamento o en la pantalla de recompensas con $plasma$!</string>
 		<string lang="kr">$plasma$가 충분하다면, 상점이나 야영지, 전리품 화면에서 부활시킬 수 있습니다!</string>
@@ -565,7 +565,7 @@
 		<string lang="en">$b$+ $STATUS$$/b$</string>
 		<string lang="fr">$b$+ $STATUS$$/b$</string>
 		<string lang="zh">$b$+ $STATUS$$/b$</string>
-		<string lang="jp">$b$+ $STATUS$$/b$</string>
+		<string lang="jp">$b$＋$STATUS$$/b$</string>
 		<string lang="ru">$b$+ $STATUS$$/b$</string>
 		<string lang="es">$b$+ $STATUS$$/b$</string>
 		<string lang="kr">$b$+ $STATUS$$/b$</string>
@@ -576,7 +576,7 @@
 		<string lang="en">Cannot toggle during firing sequence</string>
 		<string lang="fr">Impossible de basculer pendant la séquence de tir</string>
 		<string lang="zh">能量传输过程中无法改变开关状态</string>
-		<string lang="jp">発射シーケンス中に切り替えることはできません</string>
+		<string lang="jp">作動中は切替不可</string>
 		<string lang="ru">Невозможно переключить во время стрельбы</string>
 		<string lang="es">No se puede cambiar durante la secuencia de disparo</string>
 		<string lang="kr">발사 시퀀스 도중에는 전환할 수 없습니다</string>
@@ -587,7 +587,7 @@
 		<string lang="en">Cannot toggle from here</string>
 		<string lang="fr">Impossible de basculer depuis ici</string>
 		<string lang="zh">无法在此处改变开关状态</string>
-		<string lang="jp">ここから切り替えることはできません</string>
+		<string lang="jp">ここでは切替不可</string>
 		<string lang="ru">Невозможно переключить отсюда</string>
 		<string lang="es">No se puede cambiar desde aquí</string>
 		<string lang="kr">여기서는 전환할 수 없습니다</string>
@@ -598,7 +598,7 @@
 		<string lang="en">$energy$$br$dissipates</string>
 		<string lang="fr">$energy$$br$se dissipe</string>
 		<string lang="zh">$energy$$br$消散</string>
-		<string lang="jp">$energy$$br$消滅</string>
+		<string lang="jp">$energy$$br$散逸</string>
 		<string lang="ru">$energy$$br$рассеивается</string>
 		<string lang="es">$energy$$br$se disipa</string>
 		<string lang="kr">$energy$$br$소멸</string>
@@ -620,7 +620,7 @@
 		<string lang="en">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
 		<string lang="fr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
-		<string lang="jp">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$b$＋$/b$$ENERGYVALUE$$energyicon$</string>
 		<string lang="ru">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
 		<string lang="es">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
 		<string lang="kr">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
@@ -631,7 +631,7 @@
 		<string lang="en">$ENERGYVALUE$ $energyicon$</string>
 		<string lang="fr">$ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh">$ENERGYVALUE$ $energyicon$</string>
-		<string lang="jp">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">$ENERGYVALUE$$energyicon$</string>
 		<string lang="ru">$ENERGYVALUE$ $energyicon$</string>
 		<string lang="es">$ENERGYVALUE$ $energyicon$</string>
 		<string lang="kr">$ENERGYVALUE$ $energyicon$</string>
@@ -642,7 +642,7 @@
 		<string lang="en">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="fr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$$energyicon$</string>
-		<string lang="jp">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
+		<string lang="jp">"&lt;sprite name=""storage"" tint=1&gt;$ENERGYVALUE$$energyicon$"</string>
 		<string lang="ru">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
@@ -653,7 +653,7 @@
 		<string lang="en">Can only be charged or discharged at a time</string>
 		<string lang="fr">Peut seulement être chargé ou déchargé à la fois</string>
 		<string lang="zh">无法同时充放能量</string>
-		<string lang="jp">一度に充電または放電できます</string>
+		<string lang="jp">一度に充電か放電のどちらかのみ</string>
 		<string lang="ru">Можно либо заряжать, либо разряжать</string>
 		<string lang="es">Solo puede cargarse o descargarse por vez</string>
 		<string lang="kr">충전하는 동시에 방전시킬 수 없습니다</string>
@@ -664,7 +664,7 @@
 		<string lang="en">$b$- $STATUS$$/b$</string>
 		<string lang="fr">$b$- $STATUS$$/b$</string>
 		<string lang="zh">$b$- $STATUS$$/b$</string>
-		<string lang="jp">$b$- $STATUS$$/b$</string>
+		<string lang="jp">$b$－$STATUS$$/b$</string>
 		<string lang="ru">$b$- $STATUS$$/b$</string>
 		<string lang="es">$b$- $STATUS$$/b$</string>
 		<string lang="kr">$b$- $STATUS$$/b$</string>
@@ -675,7 +675,7 @@
 		<string lang="en">Locked</string>
 		<string lang="fr">Verrouillé</string>
 		<string lang="zh">已锁定</string>
-		<string lang="jp">ロック</string>
+		<string lang="jp">ロック中</string>
 		<string lang="ru">Заблокировано</string>
 		<string lang="es">Bloqueado</string>
 		<string lang="kr">고정됨</string>
@@ -686,7 +686,7 @@
 		<string lang="en">Will be activated</string>
 		<string lang="fr">Va être activé</string>
 		<string lang="zh">将被激活</string>
-		<string lang="jp">アクティブになります</string>
+		<string lang="jp">起動中</string>
 		<string lang="ru">Будет активировано</string>
 		<string lang="es">Será activado</string>
 		<string lang="kr">활성화 예정</string>
@@ -708,7 +708,7 @@
 		<string lang="en">Wiring impossible</string>
 		<string lang="fr">Cablage impossible</string>
 		<string lang="zh">非法连线</string>
-		<string lang="jp">配線不可能</string>
+		<string lang="jp">配線不可</string>
 		<string lang="ru">Подключение невозможно</string>
 		<string lang="es">Cableado imposible</string>
 		<string lang="kr">연결할 수 없음</string>
@@ -719,7 +719,7 @@
 		<string lang="en">No module to sacrifice</string>
 		<string lang="fr">Pas de cible à sacrifier</string>
 		<string lang="zh">没有模块可供销毁</string>
-		<string lang="jp">犠牲にするモジュールがありません</string>
+		<string lang="jp">破壊できるモジュールがない</string>
 		<string lang="ru">Нет модуля для пожертвования</string>
 		<string lang="es">No hay módulo para sacrificar</string>
 		<string lang="kr">희생할 모듈이 없음</string>
@@ -730,7 +730,7 @@
 		<string lang="en">Mutation</string>
 		<string lang="fr">Mutation</string>
 		<string lang="zh">变异</string>
-		<string lang="jp">突然変異</string>
+		<string lang="jp">変異</string>
 		<string lang="ru">Мутация</string>
 		<string lang="es">Mutación</string>
 		<string lang="kr">변화</string>
@@ -741,7 +741,7 @@
 		<string lang="en">No $energy$</string>
 		<string lang="fr">Pas de $energy$</string>
 		<string lang="zh">$energy$不足</string>
-		<string lang="jp">$energy$がありません</string>
+		<string lang="jp">$energy$なし</string>
 		<string lang="ru">Нет $energy$</string>
 		<string lang="es">No hay $energy$</string>
 		<string lang="kr">$energy$ 부족</string>
@@ -752,7 +752,7 @@
 		<string lang="en">No $plasma$</string>
 		<string lang="fr">Pas du $plasma$</string>
 		<string lang="zh">$plasma$不足</string>
-		<string lang="jp">$plasma$ がありません</string>
+		<string lang="jp">$plasma$なし</string>
 		<string lang="ru">Нет $plasma$</string>
 		<string lang="es">No hay $plasma$</string>
 		<string lang="kr">$plasma$ 부족</string>
@@ -763,7 +763,7 @@
 		<string lang="en">Not fully wired</string>
 		<string lang="fr">Pas entièrement câblé</string>
 		<string lang="zh">未完全连线</string>
-		<string lang="jp">完全に配線されていません</string>
+		<string lang="jp">配線不完全</string>
 		<string lang="ru">Не полностью подключено</string>
 		<string lang="es">No está completamente cableado</string>
 		<string lang="kr">완전히 연결되지 않음</string>
@@ -774,7 +774,7 @@
 		<string lang="en">$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="fr">$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="zh">$PLASMAVALUE$$plasmaicon$</string>
-		<string lang="jp">$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$PLASMAVALUE$$plasmaicon$</string>
 		<string lang="ru">$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="es">$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
@@ -785,7 +785,7 @@
 		<string lang="en">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="fr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="zh">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="jp">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="jp">$b$＋$/b$$PLASMAVALUE$$plasmaicon$</string>
 		<string lang="ru">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>

@@ -164,6 +164,17 @@
 		<string lang="kr">다른 모든 전투자에게 $grav-1$를 입힙니다</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav-1$</string>
 </set>
+<set id="description-skill-gravsting-firegnat">
+		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu und versieht ein Modul mit $fire$.</string>
+		<string lang="en">Deals $1damage$ and $grav+1$ to an enemy, and inflicts one module with $fire$.</string>
+		<string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi, et inflige un module avec $fire$.</string>
+		<string lang="zh">对敌人造成 $1damage$ 和 $grav+1$，并使一个模块获得 $fire$。</string>
+		<string lang="jp">敵に $1damage$ と $grav+1$ を与え、モジュールに $fire$ を付与します。</string>
+		<string lang="ru">Наносит врагу $1damage$ и $grav+1$ и накладывает на один модуль $fire$.</string>
+		<string lang="es">Inflige $1damage$ y $grav+1$ a un enemigo, e inflige un módulo con $fire$.</string>
+		<string lang="kr">적에게 $1damage$와 $grav+1$을 입히고 모듈 하나에 $fire$를 부여합니다.</string>
+		<string lang="pt-br">Causa $1damage$ e $grav+1$ a um inimigo, e inflige um módulo com $fire$.</string>
+</set>
 <set id="description-skill-gravstomp-brachiosaurus">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $1damage$ und $grav+2$ zu.</string>
 		<string lang="en">Inflicts all combatants on the same time step with $1damage$ and $grav+2$.</string>
@@ -218,17 +229,6 @@
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Phoenix$/b$.</string>
 		<string lang="kr">$might$가 가득 차 있으면, 자신을 파괴하여 $b$Phoenix$/b$를 생성합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Phoenix$/b$.</string>
-</set>
-<set id="description-skill-gravsting-firegnat">
-		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu und versieht ein Modul mit $fire$.</string>
-		<string lang="en">Deals $1damage$ and $grav+1$ to an enemy, and inflicts one module with $fire$.</string>
-        <string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi, et inflige un module avec $fire$.</string>
-        <string lang="zh">对敌人造成 $1damage$ 和 $grav+1$，并使一个模块获得 $fire$。</string>
-        <string lang="jp">敵に $1damage$ と $grav+1$ を与え、モジュールに $fire$ を付与します。</string>
-        <string lang="ru">Наносит врагу $1damage$ и $grav+1$ и накладывает на один модуль $fire$.</string>
-        <string lang="es">Inflige $1damage$ y $grav+1$ a un enemigo, e inflige un módulo con $fire$.</string>
-        <string lang="kr">적에게 $1damage$와 $grav+1$을 입히고 모듈 하나에 $fire$를 부여합니다.</string>
-        <string lang="pt-br">Causa $1damage$ e $grav+1$ a um inimigo, e inflige um módulo com $fire$.</string>
 </set>
 <set id="description-skill-modulefire-volcanoboss">
 		<string lang="de">Fügt einem Gegner $1$ $damage$ zu und versieht zwei Module mit $fire$.</string>
@@ -494,17 +494,6 @@
 		<string lang="kr">적에게 $1damage$를 입히고 모듈에 $selfencrusting$을 부여합니다.</string>
 		<string lang="pt-br">Causa $1damage$ a um inimigo e inflige um módulo com $selfencrusting$.</string>
 </set>
-<set id="name-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Brennende Trümmer</string>
-		<string lang="en">Burning Debris</string>
-		<string lang="fr">Débris Brûlants</string>
-		<string lang="zh">燃烧的碎片</string>
-		<string lang="jp">燃える瓦礫</string>
-		<string lang="ru">Горящие Обломки</string>
-		<string lang="es">Escombros Ardientes</string>
-		<string lang="kr">불타는 잔해</string>
-		<string lang="pt-br">Detritos Ardentes</string>
-</set>
 <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
 		<string lang="en">Tend Nest</string>
@@ -670,6 +659,17 @@
 		<string lang="kr">중력 포자 $grav-1$</string>
 		<string lang="pt-br">Esporo Grav. $grav-1$</string>
 </set>
+<set id="name-skill-gravsting-firegnat">
+		<string lang="de">Brennender Stich $grav+1$$fireicon$</string>
+		<string lang="en">Burning Sting $grav+1$$fireicon$</string>
+		<string lang="fr">Piqûre Brûlante $grav+1$$fireicon$</string>
+		<string lang="zh">灼热螫刺 $grav+1$$fireicon$</string>
+		<string lang="jp">炎の針 $grav+1$$fireicon$</string>
+		<string lang="ru">Пылающее Жало $grav+1$$fireicon$</string>
+		<string lang="es">Picadura Ardiente $grav+1$$fireicon$</string>
+		<string lang="kr">불타는 쐐기 $grav+1$$fireicon$</string>
+		<string lang="pt-br">Ferroadas Flamejantes $grav+1$$fireicon$</string>
+</set>
 <set id="name-skill-gravstomp-brachiosaurus">
 		<string lang="de">Grav.-Stampfen $grav+2$</string>
 		<string lang="en">Grav. Stomp $grav+2$</string>
@@ -736,17 +736,6 @@
 		<string lang="kr">불 $fireicon$</string>
 		<string lang="pt-br">Fogo $fireicon$</string>
 </set>
-<set id="name-skill-gravsting-firegnat">
-		<string lang="de">Brennender Stich $grav+1$$fireicon$</string>
-		<string lang="en">Burning Sting $grav+1$$fireicon$</string>
-		<string lang="fr">Piqûre Brûlante $grav+1$$fireicon$</string>
-		<string lang="zh">灼热螫刺 $grav+1$$fireicon$</string>
-		<string lang="jp">炎の針 $grav+1$$fireicon$</string>
-		<string lang="ru">Пылающее Жало $grav+1$$fireicon$</string>
-		<string lang="es">Picadura Ardiente $grav+1$$fireicon$</string>
-		<string lang="kr">불타는 쐐기 $grav+1$$fireicon$</string>
-		<string lang="pt-br">Ferroadas Flamejantes $grav+1$$fireicon$</string>
-</set>
 <set id="name-skill-modulefire-volcanoboss">
 		<string lang="de">Feuerstoß $fireicon$$fireicon$</string>
 		<string lang="en">Fire Breathing $fireicon$$fireicon$</string>
@@ -757,6 +746,17 @@
 		<string lang="es">Aliento de Fuego $fireicon$$fireicon$</string>
 		<string lang="kr">화염 숨결 $fireicon$$fireicon$</string>
 		<string lang="pt-br">Sopro de Fogo $fireicon$$fireicon$</string>
+</set>
+<set id="name-skill-modulespawn-burningdebris-volcanoboss">
+		<string lang="de">Brennende Trümmer</string>
+		<string lang="en">Burning Debris</string>
+		<string lang="fr">Débris Brûlants</string>
+		<string lang="zh">燃烧的碎片</string>
+		<string lang="jp">燃える瓦礫</string>
+		<string lang="ru">Горящие Обломки</string>
+		<string lang="es">Escombros Ardientes</string>
+		<string lang="kr">불타는 잔해</string>
+		<string lang="pt-br">Detritos Ardentes</string>
 </set>
 <set id="name-skill-ondeath-enemyspawn-egg-phoenix">
 		<string lang="de">Phönix-Ei</string>
@@ -828,12 +828,12 @@
 		<string lang="de">Geschmolzene Oberfläche $fireicon$</string>
 		<string lang="en">Molten Exterior $fireicon$</string>
 		<string lang="fr">Extérieur Fondu $fireicon$</string>
-        <string lang="zh">熔化外壳 $fireicon$</string>
-        <string lang="jp">溶融外観 $fireicon$</string>
-        <string lang="ru">Плавленая Поверхность $fireicon$</string>
-        <string lang="es">Exterior Fundido $fireicon$</string>
-        <string lang="kr">녹아내린 표면 $fireicon$</string>
-        <string lang="pt-br">Exterior Derretido $fireicon$</string>
+		<string lang="zh">熔化外壳 $fireicon$</string>
+		<string lang="jp">溶融外観 $fireicon$</string>
+		<string lang="ru">Плавленая Поверхность $fireicon$</string>
+		<string lang="es">Exterior Fundido $fireicon$</string>
+		<string lang="kr">녹아내린 표면 $fireicon$</string>
+		<string lang="pt-br">Exterior Derretido $fireicon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifgravinflicted">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>

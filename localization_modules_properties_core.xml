@@ -4,7 +4,7 @@
 		<string lang="en">Holds up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="fr">Peut contenir jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="zh">最多可容纳&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$</string>
-		<string lang="jp">最大&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を保持します</string>
+		<string lang="jp">最大&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$まで保持</string>
 		<string lang="ru">Вмещает до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="es">Contiene hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="kr">&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$까지 수용 가능</string>
@@ -15,7 +15,7 @@
 		<string lang="en">Loses all $energy$ at the end of battle</string>
 		<string lang="fr">Tient jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$jusqu'à la fin du combat</string>
 		<string lang="zh">战斗结束后失去所有$energy$</string>
-		<string lang="jp">バトル終了まで&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$を保持します</string>
+		<string lang="jp">戦闘終了時に全$energy$散逸</string>
 		<string lang="ru">Держит до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$до конца боя</string>
 		<string lang="es">Mantiene hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$hasta el final de la batalla</string>
 		<string lang="kr">전투 종료 시 모든 $energy$를 잃습니다</string>
@@ -26,7 +26,7 @@
 		<string lang="en">Stores $energy$ throughout$br$turns and battles</string>
 		<string lang="fr">Stocke $energy$ sur plusieurs tours et combats</string>
 		<string lang="zh">储存$energy$$br$回合及战斗结束后不会消失</string>
-		<string lang="jp">ターンや戦闘をまたいで$energy$を蓄えます</string>
+		<string lang="jp">ターンと戦闘を越えて$energy$貯蔵</string>
 		<string lang="ru">Сохраняет $energy$ на протяжении ходов и между битвами</string>
 		<string lang="es">Almacena $energy$ a lo largo de los turnos y batallas</string>
 		<string lang="kr">턴 진행 및 전투 동안$br$$energy$를 저장합니다</string>
@@ -37,7 +37,7 @@
 		<string lang="en">Stores up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$throughout turns and battles</string>
 		<string lang="fr">Stocke jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
 		<string lang="zh">最多可储存&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$$br$回合及战斗结束后不会消失</string>
-		<string lang="jp">ターンや戦闘をまたいで&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$を蓄えます</string>
+		<string lang="jp">最大&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;までターンと戦闘を越えて$energy$貯蔵</string>
 		<string lang="ru">Сохраняет до &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ на протежении ходов и между битвами</string>
 		<string lang="es">Almacena hasta &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ a lo largo de los turnos y batallas</string>
 		<string lang="kr">턴 진행 및 전투 동안$br$최대 &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$를 저장합니다</string>
@@ -48,7 +48,7 @@
 		<string lang="en">Will not become locked after activation and can be freely exchanged between characters</string>
 		<string lang="fr">Ne sera pas verrouillé après activation et peut être échangé librement entre les personnages</string>
 		<string lang="zh">激活后不会被锁定，可在角色间自由交换</string>
-		<string lang="jp">アクティベート後にロックされず、キャラクター間で自由に交換できます</string>
+		<string lang="jp">起動後も固定されず、キャラ間で自由に交換可能</string>
 		<string lang="ru">Не будет заблокирован после активации и может быть свободно обменян между персонажами</string>
 		<string lang="es">No se bloqueará después de la activación y se puede intercambiar libremente entre los personajes</string>
 		<string lang="kr">활성화 이후에 고정 상태가 되지 않으며, 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
@@ -59,7 +59,7 @@
 		<string lang="en">Will not become locked after charging and can be freely exchanged between characters</string>
 		<string lang="fr">Ne sera pas verrouillé après chargement et peut être échangé librement entre les personnages</string>
 		<string lang="zh">充能后不会被锁定，可在角色间自由交换</string>
-		<string lang="jp">チャージ後にロックされず、キャラクター間で自由に交換できます</string>
+		<string lang="jp">充電後も固定されず、キャラ間で自由に交換可能</string>
 		<string lang="ru">Не будет заблокирован после зарядки и может быть свободно обменян между персонажами</string>
 		<string lang="es">No se bloqueará después de la carga y se puede intercambiar libremente entre los personajes</string>
 		<string lang="kr">충전 이후에 고정 상태가 되지 않으며, 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
@@ -70,7 +70,7 @@
 		<string lang="en">Exhaustion $EXHAUSTION$</string>
 		<string lang="fr">Fatigue $EXHAUSTION$</string>
 		<string lang="zh">疲劳$EXHAUSTION$</string>
-		<string lang="jp">疲労 $EXHAUSTION$</string>
+		<string lang="jp">消耗$EXHAUSTION$</string>
 		<string lang="ru">Изнурение $EXHAUSTION$</string>
 		<string lang="es">Agotamiento $EXHAUSTION$</string>
 		<string lang="kr">고갈 $EXHAUSTION$</string>
@@ -81,7 +81,7 @@
 		<string lang="en">Depending on wired modules</string>
 		<string lang="fr">En fonction du câble</string>
 		<string lang="zh">取决于已连线模块</string>
-		<string lang="jp"></string>
+		<string lang="jp">配線モジュールにより異なる。</string>
 		<string lang="ru">В зависимости от подключенных модулей</string>
 		<string lang="es">Dependiendo de los módulos activados</string>
 		<string lang="kr">연결된 모듈에 따라 변동</string>
@@ -92,7 +92,7 @@
 		<string lang="en">Activation sets back next turn by $EXHAUSTION$</string>
 		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
 		<string lang="zh">激活后角色下一回合延后$EXHAUSTION$步</string>
-		<string lang="jp"></string>
+		<string lang="jp">起動で次のターンを$EXHAUSTION$分だけ遅らせる</string>
 		<string lang="ru">Активация откладывает следующий ход на $b$$EXHAUSTION$$/b$</string>
 		<string lang="es">La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
 		<string lang="kr">활성화 시 다음 턴이 $EXHAUSTION$만큼 늦춰집니다</string>
@@ -103,7 +103,7 @@
 		<string lang="en">Higher $energy$ leads to a better constructed module</string>
 		<string lang="fr">Plus d’$energy$ mène à un module plus performant</string>
 		<string lang="zh">输入$energy$越大，制造的模块越好</string>
-		<string lang="jp">$energy$が高いほど、モジュールの性能が向上します</string>
+		<string lang="jp">高$energy$で、より高品質なモジュールを製造</string>
 		<string lang="ru">Большее $energy$ приводит к улучшеному модулю</string>
 		<string lang="es">Más $energy$ conduce a un módulo mejor construido</string>
 		<string lang="kr">$energy$가 높을수록 더 좋은 모듈을 조립할 수 있습니다</string>
@@ -114,7 +114,7 @@
 		<string lang="en">Level 0</string>
 		<string lang="fr">Niveau 0</string>
 		<string lang="zh">等级0</string>
-		<string lang="jp">レベル 0</string>
+		<string lang="jp">レベル０</string>
 		<string lang="ru">Уровень 0</string>
 		<string lang="es">Nivel 0</string>
 		<string lang="kr">레벨 0</string>
@@ -125,7 +125,7 @@
 		<string lang="en">Level 1</string>
 		<string lang="fr">Niveau 1</string>
 		<string lang="zh">等级1</string>
-		<string lang="jp">レベル 1</string>
+		<string lang="jp">レベル１</string>
 		<string lang="ru">Уровень 1</string>
 		<string lang="es">Nivel 1</string>
 		<string lang="kr">레벨 1</string>
@@ -136,7 +136,7 @@
 		<string lang="en">Level 2</string>
 		<string lang="fr">Niveau 2</string>
 		<string lang="zh">等级2</string>
-		<string lang="jp">レベル 2</string>
+		<string lang="jp">レベル２</string>
 		<string lang="ru">Уровень 2</string>
 		<string lang="es">Nivel 2</string>
 		<string lang="kr">레벨 2</string>
@@ -147,7 +147,7 @@
 		<string lang="en">Level 3</string>
 		<string lang="fr">Niveau 3</string>
 		<string lang="zh">等级3</string>
-		<string lang="jp">レベル 3</string>
+		<string lang="jp">レベル３</string>
 		<string lang="ru">Уровень 3</string>
 		<string lang="es">Nivel 3</string>
 		<string lang="kr">레벨 3</string>
@@ -158,7 +158,7 @@
 		<string lang="en">Level 4</string>
 		<string lang="fr">Niveau 4</string>
 		<string lang="zh">等级4</string>
-		<string lang="jp">レベル 4</string>
+		<string lang="jp">レベル４</string>
 		<string lang="ru">Уровень 4</string>
 		<string lang="es">Nivel 4</string>
 		<string lang="kr">레벨 4</string>
@@ -169,7 +169,7 @@
 		<string lang="en">Level 5</string>
 		<string lang="fr">Niveau 5</string>
 		<string lang="zh">等级5</string>
-		<string lang="jp">レベル 5</string>
+		<string lang="jp">レベル５</string>
 		<string lang="ru">Уровень 5</string>
 		<string lang="es">Nivel 5</string>
 		<string lang="kr">레벨 5</string>
@@ -180,7 +180,7 @@
 		<string lang="en">Level 6</string>
 		<string lang="fr">Niveau 6</string>
 		<string lang="zh">等级6</string>
-		<string lang="jp">レベル 6</string>
+		<string lang="jp">レベル６</string>
 		<string lang="ru">Уровень 6</string>
 		<string lang="es">Nivel 6</string>
 		<string lang="kr">레벨 6</string>
@@ -191,7 +191,7 @@
 		<string lang="en">Level 6</string>
 		<string lang="fr">Niveau 6</string>
 		<string lang="zh">等级6</string>
-		<string lang="jp">レベル 6</string>
+		<string lang="jp">レベル７</string>
 		<string lang="ru">Уровень 6</string>
 		<string lang="es">Nivel 6</string>
 		<string lang="kr">레벨 6</string>
@@ -202,7 +202,7 @@
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>
 		<string lang="fr">Il n'y a actuellement pas d'ennemi sur le même pas de temps que le propriétaire</string>
 		<string lang="zh">目前没有与拥有者处在同一时间步的敌人</string>
-		<string lang="jp">現在、所有者と同じタイムステップに敵がいません</string>
+		<string lang="jp">所有者と同じステップに対象がいない</string>
 		<string lang="ru">В данный момент нет врага на том же шаге времени, что и владелец</string>
 		<string lang="es">Actualmente no hay enemigos en el mismo paso de tiempo que el propietario</string>
 		<string lang="kr">현재 소유자와 같은 시간 단계에 위치한 적이 없습니다</string>
@@ -213,29 +213,18 @@
 		<string lang="en">Does not trigger from backpack</string>
 		<string lang="fr">Ne se déclenche pas dans le sac à dos</string>
 		<string lang="zh">背包内无法触发</string>
-		<string lang="jp">バックパックに格納されている場合はトリガーされません</string>
+		<string lang="jp">バックパックからは発動できない</string>
 		<string lang="ru">Не срабатывает, когда находится в рюкзаке</string>
 		<string lang="es">No se activa desde la mochila</string>
 		<string lang="kr">배낭에서는 발동하지 않습니다</string>
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
-</set>
-<set id="module-properties-modifier-not-wired-behind-sensor">
-	<string lang="de">Ist nicht hinter ein $sensor$-Modul verkabelt</string>
-	<string lang="en">Is not wired behind a $sensor$ module</string>
-	<string lang="fr">N'est pas câblé derrière un module $sensor$</string>
-	<string lang="zh">未连接到$sensor$模块后</string>
-	<string lang="jp">$sensor$モジュールの後ろに配線されていません</string>
-	<string lang="ru">Не подключен за $sensor$ модулем</string>
-	<string lang="es">No está conectado detrás de un módulo $sensor$</string>
-	<string lang="kr">$sensor$ 모듈 뒤에 연결되지 않았습니다</string>
-	<string lang="pt-br">Não está conectado atrás de um módulo $sensor$</string>
 </set>
 <set id="module-properties-description-amplification">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
 		<string lang="zh">为输入能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$</string>
-		<string lang="jp">現在の$energy$に$b$$MODIFICATIONVALUE$ $/b$$energy$を追加します</string>
+		<string lang="jp">入力電流に$b$$MODIFICATIONVALUE$$/b$$energy$加算</string>
 		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$ $/b$$energy$ к текущему</string>
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$ $/b$$energy$ a la corriente</string>
 		<string lang="kr">획득하는 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
@@ -246,7 +235,7 @@
 		<string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
 		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
 		<string lang="zh">从输入能量流减去$b$$MODIFICATIONVALUE$$/b$$energy$</string>
-		<string lang="jp">現在の$energy$から$b$$MODIFICATIONVALUE$ $/b$$energy$を引きます</string>
+		<string lang="jp">入力電流から$b$$MODIFICATIONVALUE$$/b$$energy$減算</string>
 		<string lang="ru">Вычитает $b$$MODIFICATIONVALUE$ $/b$$energy$ из текущего</string>
 		<string lang="es">Resta $b$$MODIFICATIONVALUE$ $/b$$energy$ de la corriente</string>
 		<string lang="kr">획득하는 전류에 $b$$MODIFICATIONVALUE$ $/b$$energy$를 차감합니다</string>
@@ -257,7 +246,7 @@
 		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
 		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
 		<string lang="zh">拥有者回合结束后，$br$传感器失去所有$energy$</string>
-		<string lang="jp">センサーは所有者のターン終了時に$energy$をすべて失います</string>
+		<string lang="jp">所有者のターン終了時$br$センサーは全$energy$散逸</string>
 		<string lang="ru">Датчики теряют всю $energy$$br$в конце хода владельца</string>
 		<string lang="es">Los Sensores pierden toda la $energy$$br$al final del turno del propietario</string>
 		<string lang="kr">감지기는 소유자의 턴 종료 시 모든 $energy$를 잃습니다</string>
@@ -268,18 +257,29 @@
 		<string lang="en">Will lose $energy$ at the end of turn</string>
 		<string lang="fr">Perdra $energy$ à la fin du tour</string>
 		<string lang="zh">回合结束后失去所有$energy$</string>
-		<string lang="jp">ターン終了時に$energy$を失います</string>
+		<string lang="jp">ターン終了時に$energy$散逸</string>
 		<string lang="ru">Потеряет $energy$ в конце хода</string>
 		<string lang="es">Perderá $energy$ al final del turno</string>
 		<string lang="kr">턴 종료 시 모든 $energy$를 잃습니다</string>
 		<string lang="pt-br">Perderá $energy$ no final do turno</string>
+</set>
+<set id="module-properties-modifier-not-wired-behind-sensor">
+		<string lang="de">Ist nicht hinter ein $sensor$-Modul verkabelt</string>
+		<string lang="en">Is not wired behind a $sensor$ module</string>
+		<string lang="fr">N'est pas câblé derrière un module $sensor$</string>
+		<string lang="zh">未连接到$sensor$模块后</string>
+		<string lang="jp">$sensor$モジュールの後ろに配線されていません</string>
+		<string lang="ru">Не подключен за $sensor$ модулем</string>
+		<string lang="es">No está conectado detrás de un módulo $sensor$</string>
+		<string lang="kr">$sensor$ 모듈 뒤에 연결되지 않았습니다</string>
+		<string lang="pt-br">Não está conectado atrás de um módulo $sensor$</string>
 </set>
 <set id="module-properties-name-amplification">
 		<string lang="de">Verstärkung $MODIFICATIONVALUE$</string>
 		<string lang="en">Amplification $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplification $MODIFICATIONVALUE$</string>
 		<string lang="zh">放大$MODIFICATIONVALUE$</string>
-		<string lang="jp">増幅 $MODIFICATIONVALUE$</string>
+		<string lang="jp">増幅$MODIFICATIONVALUE$</string>
 		<string lang="ru">Усиление $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificación $MODIFICATIONVALUE$</string>
 		<string lang="kr">증폭 $MODIFICATIONVALUE$</string>
@@ -290,7 +290,7 @@
 		<string lang="en">Dampening $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amortissement $MODIFICATIONVALUE$</string>
 		<string lang="zh">减弱$MODIFICATIONVALUE$</string>
-		<string lang="jp">ダンピング $MODIFICATIONVALUE$</string>
+		<string lang="jp">減衰$MODIFICATIONVALUE$</string>
 		<string lang="ru">Затухание $MODIFICATIONVALUE$</string>
 		<string lang="es">Amortiguación $MODIFICATIONVALUE$</string>
 		<string lang="kr">억제 $MODIFICATIONVALUE$</string>
@@ -301,7 +301,7 @@
 		<string lang="en">Common</string>
 		<string lang="fr">Commun</string>
 		<string lang="zh">普通</string>
-		<string lang="jp">一般</string>
+		<string lang="jp">コモン</string>
 		<string lang="ru">Обычный</string>
 		<string lang="es">Común</string>
 		<string lang="kr">일반</string>
@@ -323,7 +323,7 @@
 		<string lang="en">Uncommon</string>
 		<string lang="fr">Peu Commun</string>
 		<string lang="zh">罕见</string>
-		<string lang="jp">まれ</string>
+		<string lang="jp">アンコモン</string>
 		<string lang="ru">Необычный</string>
 		<string lang="es">Poco Común</string>
 		<string lang="kr">특별</string>
@@ -345,7 +345,7 @@
 		<string lang="en">Factory</string>
 		<string lang="fr">Fabrique</string>
 		<string lang="zh">工厂</string>
-		<string lang="jp">ファクトリ</string>
+		<string lang="jp">製造機</string>
 		<string lang="ru">Фабрика</string>
 		<string lang="es">Fábrica</string>
 		<string lang="kr">공장</string>
@@ -356,7 +356,7 @@
 		<string lang="en">Generator</string>
 		<string lang="fr">Générateur</string>
 		<string lang="zh">发生器</string>
-		<string lang="jp">ジェネレーター</string>
+		<string lang="jp">発生機</string>
 		<string lang="ru">Генератор</string>
 		<string lang="es">Generador</string>
 		<string lang="kr">발전기</string>
@@ -367,7 +367,7 @@
 		<string lang="en">Grenade</string>
 		<string lang="fr">Grenade</string>
 		<string lang="zh">榴弹</string>
-		<string lang="jp">手榴弾</string>
+		<string lang="jp">グレネード</string>
 		<string lang="ru">Граната</string>
 		<string lang="es">Granada</string>
 		<string lang="kr">수류탄</string>
@@ -389,7 +389,7 @@
 		<string lang="en">Magnet</string>
 		<string lang="fr">Aimant</string>
 		<string lang="zh">磁铁</string>
-		<string lang="jp">磁気</string>
+		<string lang="jp">磁石</string>
 		<string lang="ru">Магнит</string>
 		<string lang="es">Imán</string>
 		<string lang="kr">자석</string>
@@ -400,7 +400,7 @@
 		<string lang="en">Module Enhancer</string>
 		<string lang="fr">Améliorateur de Module</string>
 		<string lang="zh">模块增强器</string>
-		<string lang="jp">モジュールアップグレーダー</string>
+		<string lang="jp">モジュール増強器</string>
 		<string lang="ru">Модуль Улучшитель</string>
 		<string lang="es">Mejorador de Módulo</string>
 		<string lang="kr">모듈 증강기</string>
@@ -411,7 +411,7 @@
 		<string lang="en">Effector Module</string>
 		<string lang="fr">Module d'Effet</string>
 		<string lang="zh">效果模块</string>
-		<string lang="jp">エフェクターモジュール</string>
+		<string lang="jp">エフェクター・モジュール</string>
 		<string lang="ru">Эффектор Модуль</string>
 		<string lang="es">Módulo de Efecto</string>
 		<string lang="kr">효과 모듈</string>
@@ -422,7 +422,7 @@
 		<string lang="en">Passive Module</string>
 		<string lang="fr">Module Passif</string>
 		<string lang="zh">被动模块</string>
-		<string lang="jp">パッシブモジュール</string>
+		<string lang="jp">パッシブ・モジュール</string>
 		<string lang="ru">Пассивный Модуль</string>
 		<string lang="es">Módulo Pasivo</string>
 		<string lang="kr">수동 모듈</string>
@@ -433,7 +433,7 @@
 		<string lang="en">Passthrough Module</string>
 		<string lang="fr">Module de Relais</string>
 		<string lang="zh">中继模块</string>
-		<string lang="jp">スループットモジュール</string>
+		<string lang="jp">中継モジュール</string>
 		<string lang="ru">Пропускной Модуль</string>
 		<string lang="es">Módulo de Traspaso</string>
 		<string lang="kr">통과 모듈</string>
@@ -466,7 +466,7 @@
 		<string lang="en">Storage Module</string>
 		<string lang="fr">Module de Stockage</string>
 		<string lang="zh">储存模块</string>
-		<string lang="jp">ストレージモジュール</string>
+		<string lang="jp">貯蔵モジュール</string>
 		<string lang="ru">Модуль Хранения</string>
 		<string lang="es">Módulo de Almacenamiento</string>
 		<string lang="kr">저장 모듈</string>
@@ -477,7 +477,7 @@
 		<string lang="en">Threat</string>
 		<string lang="fr">Menace</string>
 		<string lang="zh">威胁</string>
-		<string lang="jp">脅威</string>
+		<string lang="jp">威嚇</string>
 		<string lang="ru">Угроза</string>
 		<string lang="es">Amenaza</string>
 		<string lang="kr">위협</string>
@@ -488,7 +488,7 @@
 		<string lang="en">Toggled</string>
 		<string lang="fr">Interrupteur</string>
 		<string lang="zh">已打开</string>
-		<string lang="jp">スイッチ</string>
+		<string lang="jp">切替</string>
 		<string lang="ru">Выключатель</string>
 		<string lang="es">Interruptor</string>
 		<string lang="kr">전환됨</string>
@@ -499,7 +499,7 @@
 		<string lang="en">Vault</string>
 		<string lang="fr">Dépôt</string>
 		<string lang="zh">库</string>
-		<string lang="jp">ボールト</string>
+		<string lang="jp">電池</string>
 		<string lang="ru">Хранилище</string>
 		<string lang="es">Bóveda</string>
 		<string lang="kr">금고</string>
@@ -510,7 +510,7 @@
 		<string lang="en">Minimum Distance $b$+3$/b$</string>
 		<string lang="fr">Distance minimale $b$+3$/b$</string>
 		<string lang="zh">最短距离$b$+3$/b$</string>
-		<string lang="jp">最小距離 $b$+3$/b$</string>
+		<string lang="jp">最短距離$b$＋３$/b$</string>
 		<string lang="ru">Минимальное расстояние $b$+3$/b$</string>
 		<string lang="es">Distancia mínima $b$+3$/b$</string>
 		<string lang="kr">최소 거리 $b$+3$/b$</string>
@@ -521,7 +521,7 @@
 		<string lang="en">Toggle to activate during voltage sequence</string>
 		<string lang="fr">Sera utilisé pendant la séquence de tir,$br$si activé</string>
 		<string lang="zh">切换至模组运行期间激活</string>
-		<string lang="jp">オンに設定されている場合、$br$発射シーケンス中にアクティブになります</string>
+		<string lang="jp">切替で電源入力時に起動</string>
 		<string lang="ru">Будет активирован во время стрельбы,$br$если включен</string>
 		<string lang="es">Se activará durante la secuencia de disparo,$br$si está activado</string>
 		<string lang="kr">전환을 통해 전압 시퀀스 도중 활성화</string>
@@ -532,7 +532,7 @@
 		<string lang="en">Will be activated during voltage sequence</string>
 		<string lang="fr">Sera utilisé pendant la séquence de tir</string>
 		<string lang="zh">即将在模组运行期间激活</string>
-		<string lang="jp">発射シーケンス中にアクティブになります</string>
+		<string lang="jp">電源入力時に起動</string>
 		<string lang="ru">Будет активирован во время стрельбы</string>
 		<string lang="es">Se activará durante la secuencia de disparo</string>
 		<string lang="kr">전압 시퀀스 도중 활성화 예정</string>

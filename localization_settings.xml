@@ -4,7 +4,7 @@
 		<string lang="en">Abandon$br$Run</string>
 		<string lang="fr">Abandonner$br$le Run</string>
 		<string lang="zh">放弃本次$br$游戏</string>
-		<string lang="jp">Runを中止</string>
+		<string lang="jp">ラン$br$放棄</string>
 		<string lang="ru">Прервать Забег</string>
 		<string lang="es">Abandonar la partida</string>
 		<string lang="kr">모험$br$포기</string>
@@ -26,7 +26,7 @@
 		<string lang="en">Automatic firing on single target</string>
 		<string lang="fr">Sélection automatique de seule cible</string>
 		<string lang="zh">自动射击单个目标</string>
-		<string lang="jp">モジュールの自動ターゲット選択</string>
+		<string lang="jp">単体対象への自動攻撃</string>
 		<string lang="ru">Автоматическая стрельба по одной цели</string>
 		<string lang="es">Disparo automático a un solo objetivo</string>
 		<string lang="kr">단일 목표에게 자동으로 발사</string>
@@ -37,7 +37,7 @@
 		<string lang="en">Automatically show tooltips when playing with controller</string>
 		<string lang="fr">Afficher automatiquement les info-bulles lors de la lecture avec le contrôleur</string>
 		<string lang="zh">使用控制器游戏时自动提示</string>
-		<string lang="jp">コントローラーでプレイするときにツールチップを自動的に表示する</string>
+		<string lang="jp">コントローラー使用時ツールチップ自動表示</string>
 		<string lang="ru">Автоматически показывать подсказки при игре с контроллером</string>
 		<string lang="es">Mostrar automáticamente información sobre herramientas al jugar con el controlador</string>
 		<string lang="kr">컨트롤러로 플레이 시 툴팁 자동 표시</string>
@@ -48,7 +48,7 @@
 		<string lang="en">Clear all data</string>
 		<string lang="fr">Effacer toutes les données</string>
 		<string lang="zh">清除所有数据</string>
-		<string lang="jp">すべてのデータを削除</string>
+		<string lang="jp">全データ消去</string>
 		<string lang="ru">Очистить все данные</string>
 		<string lang="es">Borrar todos los datos</string>
 		<string lang="kr">모든 데이터 지우기</string>
@@ -59,7 +59,7 @@
 		<string lang="en">Permanently removes savegame, progression and preferences.$p$Careful: Data cannot be retrieved.</string>
 		<string lang="fr">Supprime définitivement la sauvegarde, la progression et les préférences.$p$Attention: les données ne peuvent pas être récupérées.</string>
 		<string lang="zh">永久删除存档、进度和个性化设置。$p$注意：数据无法恢复。</string>
-		<string lang="jp">セーブデータ、進捗状況、および設定を完全に削除します。$p$注意：データは復元できません。</string>
+		<string lang="jp">セーブ、プログレッション、設定が永久に削除されます。注意：データ復元不可。</string>
 		<string lang="ru">Окончательно удаляет сохранение, прогресс и настройки.$p$Осторожно: данные не могут быть восстановлены.</string>
 		<string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias.$p$Cuidado: los datos no se pueden recuperar.</string>
 		<string lang="kr">저장된 게임, 진행도, 기본 설정을 영구적으로 삭제합니다. $p$주의하세요: 데이터를 복구하는 것은 불가능합니다.</string>
@@ -70,7 +70,7 @@
 		<string lang="en">Color Blind Mode</string>
 		<string lang="fr">Mode daltonien</string>
 		<string lang="zh">色盲模式</string>
-		<string lang="jp">色覚異常モード</string>
+		<string lang="jp">色弱モード</string>
 		<string lang="ru">Режим Цветовой Слепоты</string>
 		<string lang="es">Modo daltonismo</string>
 		<string lang="kr">색맹 모드</string>
@@ -81,7 +81,7 @@
 		<string lang="en">Provide Statistics</string>
 		<string lang="fr">Fournir Statistiques</string>
 		<string lang="zh">提供数据</string>
-		<string lang="jp">統計データを提供</string>
+		<string lang="jp">統計提供</string>
 		<string lang="ru">Предоставить статистику</string>
 		<string lang="es">Proporcionar estadísticas</string>
 		<string lang="kr">통계 제공</string>
@@ -92,7 +92,7 @@
 		<string lang="en">Support development by transmitting anonymous run statistics. This data will only be used to inform questions of game balancing and difficulty.</string>
 		<string lang="fr">Aidez au développement en transmettant des statistiques anonymes de vos Runs. Ces données ne seront utilisées que pour informer des questions d'équilibrage et de difficulté du jeu.</string>
 		<string lang="zh">允许运行数据匿名上传以支持我们的开发工作。这些数据将仅用于了解游戏的平衡和难度。</string>
-		<string lang="jp">開発を支援するために、匿名の統計データを送信します。あなたのデータは、ゲームのバランスと難易度に関する質問についての情報提供のためにのみ使用されます。</string>
+		<string lang="jp">ラン統計を匿名提供し開発サポート。ゲームバランスおよび難易度に関する質問についてのみデータ使用。</string>
 		<string lang="ru">Поддержка разработки путем передачи анонимной статистики прохождения. Эти данные будут использоваться только для решения вопросов балансировки игры и сложности.</string>
 		<string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida. Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad del juego.</string>
 		<string lang="kr">익명 모험 통계를 전송해 개발에 도움을 주세요. 해당 데이터는 게임의 밸런스 및 난이도 조절 관련 문제를 알아내기 위해서만 사용됩니다.</string>
@@ -136,7 +136,7 @@
 		<string lang="en">Full Screen</string>
 		<string lang="fr">Plein écran</string>
 		<string lang="zh">全屏</string>
-		<string lang="jp">フルスクリーン</string>
+		<string lang="jp">全画面</string>
 		<string lang="ru">Полный экран</string>
 		<string lang="es">Pantalla completa</string>
 		<string lang="kr">전체 화면</string>
@@ -191,7 +191,7 @@
 		<string lang="en">Save &amp; Exit Run</string>
 		<string lang="fr">Sauvegarder &amp; Quitter le Run</string>
 		<string lang="zh">保存并退出游戏</string>
-		<string lang="jp">保存してRunを終了</string>
+		<string lang="jp">セーブ＆ラン退出</string>
 		<string lang="ru">Сохранить и выйти</string>
 		<string lang="es">Guardar y salir de la partida</string>
 		<string lang="kr">모험 저장 및 종료</string>
@@ -202,7 +202,7 @@
 		<string lang="en">Enable Twitch Integration</string>
 		<string lang="fr">Activer l'intégration Twitch</string>
 		<string lang="zh">绑定Twitch</string>
-		<string lang="jp">Twitch統合を有効にする</string>
+		<string lang="jp">Twitch接続</string>
 		<string lang="ru">Включить интеграцию с Twitch</string>
 		<string lang="es">Habilitar integración de Twitch</string>
 		<string lang="kr">트위치 통합 허용</string>
@@ -224,7 +224,7 @@
 		<string lang="en">Enter Channel Name ...</string>
 		<string lang="fr">Entrez nom de la chaîne ...</string>
 		<string lang="zh">输入频道名称...</string>
-		<string lang="jp">チャンネル名を入力してください</string>
+		<string lang="jp">チャンネル名入力……</string>
 		<string lang="ru">Введите имя канала ...</string>
 		<string lang="es">Ingrese el nombre del canal ...</string>
 		<string lang="kr">채널 이름 입력...</string>
@@ -235,7 +235,7 @@
 		<string lang="en">OAuth Token</string>
 		<string lang="fr">Token OAuth</string>
 		<string lang="zh">OAuth Token</string>
-		<string lang="jp">チャンネルトークン</string>
+		<string lang="jp">OAuthトークン</string>
 		<string lang="ru">OAuth Токен</string>
 		<string lang="es">Token de canal</string>
 		<string lang="kr">OAuth 토큰</string>
@@ -246,7 +246,7 @@
 		<string lang="en">Enter OAuth Token...</string>
 		<string lang="fr">Entrez le jeton OAuth ...</string>
 		<string lang="zh">输入OAuth Token...</string>
-		<string lang="jp">OAuthトークンを入力してください</string>
+		<string lang="jp">OAuthトークン入力……</string>
 		<string lang="ru">Введите OAuth Токен ...</string>
 		<string lang="es">Ingrese el token OAuth ...</string>
 		<string lang="kr">OAuth 토큰 입력...</string>

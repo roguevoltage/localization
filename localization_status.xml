@@ -4,7 +4,7 @@
 		<string lang="en">Incoming $grav$ is amplified by $1$</string>
 		<string lang="fr">$grav$ entrante est augmentée de $1$</string>
 		<string lang="zh">被施加的$grav$增加$1$。</string>
-		<string lang="jp">受ける$grav$が$1$増加</string>
+		<string lang="jp">付与される$grav$を$1$増強</string>
 		<string lang="ru">Входящий $grav$ усиливается на $1$</string>
 		<string lang="es">El $grav$ entrante se amplifica en $1$</string>
 		<string lang="kr">획득하는 $grav$가 $1$ 증폭됩니다.</string>
@@ -15,7 +15,7 @@
 		<string lang="en">Cannot receive $grav$</string>
 		<string lang="fr">Ne peut pas recevoir $grav$</string>
 		<string lang="zh">无法受到$grav$。</string>
-		<string lang="jp">$grav$を受け取ることができません</string>
+		<string lang="jp">$grav$を除去できない</string>
 		<string lang="ru">Не может получить $grav$</string>
 		<string lang="es">No puede recibir $grav$</string>
 		<string lang="kr">$grav$를 받을 수 없습니다</string>
@@ -26,7 +26,7 @@
 		<string lang="en">Changes color at the end of owner's turn</string>
 		<string lang="fr">La couleur muté à la fin du tour du propriétaire</string>
 		<string lang="zh">拥有者回合结束后改变颜色。</string>
-		<string lang="jp">ラックに置かれた場合、オーナーのターン終了時に色を変更します</string>
+		<string lang="jp">所有者のターン終了時に色変更</string>
 		<string lang="ru">Изменяет цвет в конце хода владельца.</string>
 		<string lang="es">Cambia de color al final del turno del propietario</string>
 		<string lang="kr">소유자의 턴 종료 시 색상이 변화합니다</string>
@@ -37,7 +37,7 @@
 		<string lang="en">Adds $1$ $energy$ to the incoming current until the end of turn</string>
 		<string lang="fr">Ajoute $1$ $energy$ au courant jusqu'à la fin du tour</string>
 		<string lang="zh">为输入能量流增加$1$$energy$直到回合结束。</string>
-		<string lang="jp">$energy$を$1$追加、ターン終了まで</string>
+		<string lang="jp">ターン終了時まで入力電流に$1$$energy$加算</string>
 		<string lang="ru">Добавляет $1$ $energy$ в ток до конца хода</string>
 		<string lang="es">Añade $1$ $energy$ a la corriente entrante hasta el final del turno</string>
 		<string lang="kr">다음 턴 종료 전까지 획득하는 전류에 $1$ $energy$를 추가합니다</string>
@@ -48,7 +48,7 @@
 		<string lang="en">Cannot be sold</string>
 		<string lang="fr">Ne peut pas être vendu</string>
 		<string lang="zh">无法出售</string>
-		<string lang="jp">売却できません</string>
+		<string lang="jp">売却不可</string>
 		<string lang="ru">Нельзя продать</string>
 		<string lang="es">No puede ser vendido</string>
 		<string lang="kr">판매할 수 없습니다</string>
@@ -59,7 +59,7 @@
 		<string lang="en">Can't be activated this turn</string>
 		<string lang="fr">Ne peut pas être activé ce tour</string>
 		<string lang="zh">本回合无法被激活</string>
-		<string lang="jp">このターンにアクティブ化できません</string>
+		<string lang="jp">このターン起動不可</string>
 		<string lang="ru">Нельзя активировать в этом ходу</string>
 		<string lang="es">No se puede activar este turno</string>
 		<string lang="kr">이번 턴에는 활성화시킬 수 없습니다</string>
@@ -70,7 +70,7 @@
 		<string lang="en">Will be destroyed after activation</string>
 		<string lang="fr">Détruit après activation</string>
 		<string lang="zh">激活后销毁</string>
-		<string lang="jp">活性化後に破壊される</string>
+		<string lang="jp">起動後に破壊</string>
 		<string lang="ru">Уничтожиться после активации</string>
 		<string lang="es">Se destruirá después de la activación</string>
 		<string lang="kr">활성화 이후에 파괴됩니다</string>
@@ -81,7 +81,7 @@
 		<string lang="en">Will be destroyed after discharge</string>
 		<string lang="fr">Détruit après décharge</string>
 		<string lang="zh">释能后销毁</string>
-		<string lang="jp">放電後に破壊される</string>
+		<string lang="jp">放電後に破壊</string>
 		<string lang="ru">Уничтожиться после разрядки</string>
 		<string lang="es">Se destruirá después de la descarga</string>
 		<string lang="kr">방전 이후에 파괴됩니다</string>
@@ -92,7 +92,7 @@
 		<string lang="en">Destroyed after additional activation</string>
 		<string lang="fr">Détruit après activation additionnelle</string>
 		<string lang="zh">额外激活后销毁</string>
-		<string lang="jp">追加の活性化後に破壊される</string>
+		<string lang="jp">追加起動後に破壊</string>
 		<string lang="ru">Уничтожиться после дополнительной активации</string>
 		<string lang="es">Se destruirá después de la activación adicional</string>
 		<string lang="kr">추가로 활성화된 이후에 파괴됩니다</string>
@@ -103,7 +103,7 @@
 		<string lang="en">Destroyed after additional discharge</string>
 		<string lang="fr">Détruit après décharge additionnelle</string>
 		<string lang="zh">额外释能后销毁</string>
-		<string lang="jp">追加の放電後に破壊される</string>
+		<string lang="jp">追加放電後に破壊</string>
 		<string lang="ru">Уничтожиться после дополнительной разрядки</string>
 		<string lang="es">Se destruirá después de la descarga adicional</string>
 		<string lang="kr">추가로 방전된 이후에 파괴됩니다</string>
@@ -114,7 +114,7 @@
 		<string lang="en">Activation this turn will destroy the module</string>
 		<string lang="fr">Activation ce tour détruira le module</string>
 		<string lang="zh">本回合激活模块将销毁</string>
-		<string lang="jp">このターンの活性化はモジュールを破壊します</string>
+		<string lang="jp">このターン起動でモジュール破壊</string>
 		<string lang="ru">Активация в этом ходу уничтожит модуль</string>
 		<string lang="es">La activación destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 활성화 시 해당 모듈이 파괴됩니다</string>
@@ -125,7 +125,7 @@
 		<string lang="en">Discharge this turn will destroy the module</string>
 		<string lang="fr">Décharge ce tour détruira le module</string>
 		<string lang="zh">本回合释能模块将销毁</string>
-		<string lang="jp">このターンの放電はモジュールを破壊します</string>
+		<string lang="jp">このターン放電でモジュール破壊</string>
 		<string lang="ru">Разрядка в этом ходу уничтожит модуль</string>
 		<string lang="es">La descarga destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 방전 시 해당 모듈이 파괴됩니다</string>
@@ -136,7 +136,7 @@
 		<string lang="en">Prevents module activation. First incoming $energy$ will permanently break the crust.</string>
 		<string lang="fr">Module non activable.$br$La première $energy$ entrante brisera la croûte de façon permanente.</string>
 		<string lang="zh">阻止模块激活。首次传入的$energy$将永久性破坏晶壳。</string>
-		<string lang="jp">モジュールはアクティブ化できません。$br$最初の受けるエネルギーは外殻を破壊します</string>
+		<string lang="jp">モジュールの起動を阻害$br$$energy$入力時に晶結を永久除去</string>
 		<string lang="ru">Модуль не может быть активирован.$br$Первая поступающая $энергия$ разбивает кристалл.</string>
 		<string lang="es">Impide la activación del módulo.$br$La primera $energy$ entrante romperá la corteza</string>
 		<string lang="kr">모듈이 활성화될 수 없습니다. 처음 $energy$를 획득 시 크러스트가 영구적으로 파괴됩니다.</string>
@@ -147,7 +147,7 @@
 		<string lang="en">Prevents module discharge.$br$First triggering will break the crust</string>
 		<string lang="fr">Module non déchargeable.$br$Le premier déclenchement brise la croûte</string>
 		<string lang="zh">阻止模块释能。$br$首次触发可以破坏晶壳。</string>
-		<string lang="jp">モジュールは放電できません。$br$最初のトリガーは外殻を破壊します</string>
+		<string lang="jp">モジュールの放電を阻害$br$発動時に晶結を永久除去</string>
 		<string lang="ru">Модуль не может быть разряжен.$br$Первый разряд разбивает кристалл.</string>
 		<string lang="es">Impide la descarga del módulo.$br$El primer disparo romperá la corteza</string>
 		<string lang="kr">모듈이 방전될 수 없습니다.$br$처음 발동 시 크러스트가 파괴됩니다</string>
@@ -158,7 +158,7 @@
 		<string lang="en">Activate this turn to extinguish, or it will deal $1damage$ to the owner after their turn</string>
 		<string lang="fr">Activez-le pour l'éteindre ou il infligera$br$$1damage$ au propriétaire après son tour</string>
 		<string lang="zh">本回合激活可熄灭，否则将在回合后对所有拥有者造成$1damage$。</string>
-		<string lang="jp">このターンにアクティブ化すると消火するか、ターン終了時にオーナーに$1damage$を与えます</string>
+		<string lang="jp">このターン起動で消滅か$br$ターン終了時持ち主に$1damage$</string>
 		<string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
 		<string lang="es">Activa el módulo para extinguirlo, de lo contrario infligirá $1damage$ al propietario después de su turno</string>
 		<string lang="kr">이번 턴에 활성화시켜 불을 끌 수 있으며, 끄지 못하면 턴 종료 시 소유자에게 $1damage$를 줍니다.</string>
@@ -169,7 +169,7 @@
 		<string lang="en">Activation inflicts the owner with $grav+2$</string>
 		<string lang="fr">Activation inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">激活后对拥有者施放$grav+2$</string>
-		<string lang="jp">アクティブ化はオーナーに $grav+2$を与えます</string>
+		<string lang="jp">起動で所有者に$grav+2$付与</string>
 		<string lang="ru">Активация даст владельцу $grav+2$</string>
 		<string lang="es">La activación inflige al propietario con $grav+2$</string>
 		<string lang="kr">활성화 시 소유자에게 $grav+2$를 부여합니다</string>
@@ -180,7 +180,7 @@
 		<string lang="en">Activation this turn inflicts the owner$br$with $grav+2$</string>
 		<string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">本回合激活后对拥有者$br$施放$grav+2$</string>
-		<string lang="jp">このターンにアクティブ化はオーナーに $grav+2$を与えます</string>
+		<string lang="jp">起動で所有者にこのターン$grav+2$付与</string>
 		<string lang="ru">Активация в этом ходу даст владельцу $grav+2$</string>
 		<string lang="es">La activación de este turno inflige al propietario con $grav+2$</string>
 		<string lang="kr">이번 턴에 활성화 시,$br$소유자에게 $grav+2$를 부여합니다.</string>
@@ -191,7 +191,7 @@
 		<string lang="en">Activation applies $grav-1$ to the owner</string>
 		<string lang="fr">Activation applique $grav-1$ au propriétaire</string>
 		<string lang="zh">激活后对拥有者施加$grav-1$</string>
-		<string lang="jp">アクティブ化はオーナーに $grav-1$を与えます</string>
+		<string lang="jp">起動で所有者に$grav-1$付与</string>
 		<string lang="ru">Активация даст владельцу $grav-1$</string>
 		<string lang="es">La activación aplica $grav-1$ al propietario</string>
 		<string lang="kr">활성화 시 소유자에게 $grav-1$를 적용합니다</string>
@@ -202,7 +202,7 @@
 		<string lang="en">Cannot be taken from rack</string>
 		<string lang="fr">Ne peut pas être enlevé du rack</string>
 		<string lang="zh">无法取下</string>
-		<string lang="jp">ラックから取り外せません</string>
+		<string lang="jp">ラックから外せない</string>
 		<string lang="ru">Нельзя взять со стойки</string>
 		<string lang="es">No puede ser tomado del bastidor</string>
 		<string lang="kr">랙에서 제거할 수 없습니다</string>
@@ -224,7 +224,7 @@
 		<string lang="en">Locked to rack until end of turn</string>
 		<string lang="fr">Verrouillé au rack jusqu'à la fin du tour</string>
 		<string lang="zh">本回合无法移动</string>
-		<string lang="jp">ターン終了までラックに固定</string>
+		<string lang="jp">ターン終了時までラックに固定</string>
 		<string lang="ru">Заблокирован на стойке до конца хода</string>
 		<string lang="es">Bloqueado en el bastidor hasta el final del turno</string>
 		<string lang="kr">턴 종료 시까지 랙에 고정됨</string>
@@ -235,7 +235,7 @@
 		<string lang="en">Locked to rack until next turn</string>
 		<string lang="fr">Verrouillé au rack jusqu'au prochain tour</string>
 		<string lang="zh">下回合前无法移动</string>
-		<string lang="jp">次のターンまでラックに固定</string>
+		<string lang="jp">次ターンまでラックに固定</string>
 		<string lang="ru">Заблокирован на стойке до следующего хода</string>
 		<string lang="es">Bloqueado en el bastidor hasta el siguiente turno</string>
 		<string lang="kr">다음 턴까지 랙에 고정됨</string>
@@ -246,7 +246,7 @@
 		<string lang="en">Cannot be taken from rack</string>
 		<string lang="fr">Ne peut pas être enlevé du rack</string>
 		<string lang="zh">无法取下</string>
-		<string lang="jp">ラックから取り外せません</string>
+		<string lang="jp">ラックから外せない</string>
 		<string lang="ru">Нельзя взять со стойки</string>
 		<string lang="es">No se puede sacar del bastidor</string>
 		<string lang="kr">랙에서 제거할 수 없습니다</string>
@@ -257,7 +257,7 @@
 		<string lang="en">When activated, receives $outoforder$$br$until the end of battle.</string>
 		<string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">激活后变为$outoforder$，直到战斗结束。</string>
-		<string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
+		<string lang="jp">起動で戦闘終了時まで$outoforder$付与</string>
 		<string lang="ru">При активации получает $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">활성화 시, 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
@@ -268,7 +268,7 @@
 		<string lang="en">When discharged, receives $outoforder$$br$until the end of battle.</string>
 		<string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">释能后变为$outoforder$，直到战斗结束。</string>
-		<string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
+		<string lang="jp">放電で戦闘終了時まで$outoforder$付与</string>
 		<string lang="ru">При разрядке получает $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">방전 시, 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
@@ -279,7 +279,7 @@
 		<string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when discharged.</string>
 		<string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">释能后有$CHANCETOBREAK$几率变为$outoforder$，直到战斗结束。</string>
-		<string lang="jp">放電すると、戦闘終了まで$outoforder$を受け取ります。</string>
+		<string lang="jp">放電で$CHANCETOBREAK$％の確率で$br$戦闘終了時まで$outoforder$付与</string>
 		<string lang="ru">$CHANCETOBREAK$% Шанс получить при разрядке $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">$CHANCETOBREAK$%의 확률로, 방전 시 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
@@ -290,7 +290,7 @@
 		<string lang="en">$CHANCETOBREAK$% chance to receive $outoforder$ until the end of battle when activated.</string>
 		<string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">激活后有$CHANCETOBREAK$几率获得$outoforder$，直到战斗结束。</string>
-		<string lang="jp">アクティブ化すると、戦闘終了まで$outoforder$を受け取ります。</string>
+		<string lang="jp">起動で$CHANCETOBREAK$％の確率で$br$戦闘終了時まで$outoforder$付与</string>
 		<string lang="ru">$CHANCETOBREAK$% Шанс получить при активации $outoforder$ до конца боя.</string>
 		<string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">$CHANCETOBREAK$%의 확률로, 활성화 시 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
@@ -301,7 +301,7 @@
 		<string lang="en">Throughput changes at the end of owner's turn</string>
 		<string lang="fr">Change les traits à la fin du tour du propriétaire</string>
 		<string lang="zh">拥有者轮次结束后产能值发生改变</string>
-		<string lang="jp">ラックに置かれた場合、オーナーのターン終了時に特性を変更します</string>
+		<string lang="jp">所有者のターン終了時にスループット変更</string>
 		<string lang="ru">Изменяет пропускную способность в конце хода владельца.</string>
 		<string lang="es">Cambia el rendimiento al final del turno del propietario si se coloca en el bastidor</string>
 		<string lang="kr">소유자의 턴 종료 시 처리량이 변화합니다</string>
@@ -312,7 +312,7 @@
 		<string lang="en">Cannot be activated anymore in this battle</string>
 		<string lang="fr">Ne peut plus être activé dans ce combat</string>
 		<string lang="zh">本次战斗无法再次激活</string>
-		<string lang="jp">この戦闘ではもうアクティブ化できません</string>
+		<string lang="jp">この戦闘中は起動不可</string>
 		<string lang="ru">Больше не может быть активирован в этом бою</string>
 		<string lang="es">No puede ser activado de nuevo en esta batalla</string>
 		<string lang="kr">이번 전투 동안에는 더 이상 활성화할 수 없습니다.</string>
@@ -323,7 +323,7 @@
 		<string lang="en">When activated, receives $cooldown$$br$for one turn</string>
 		<string lang="fr">Reçoit $cooldown$ pour un tour après activation</string>
 		<string lang="zh">激活后，$cooldown$$br$一回合</string>
-		<string lang="jp">アクティブ化すると、1ターンに$cooldown$を受け取ります</string>
+		<string lang="jp">起動で１ターン$cooldown$付与</string>
 		<string lang="ru">Получает $cooldown$ на один ход после активации</string>
 		<string lang="es">Cuando se activa, recibe $cooldown$ por un turno</string>
 		<string lang="kr">활성화 시,$br$한 턴 동안 $cooldown$ 상태가 됩니다.</string>
@@ -334,7 +334,7 @@
 		<string lang="en">When discharged, receives $cooldown$$br$for one turn</string>
 		<string lang="fr">Reçoit $cooldown$ pour un tour après décharge</string>
 		<string lang="zh">释能后，$cooldown$$br$一回合</string>
-		<string lang="jp">放電すると、1ターンに$cooldown$を受け取ります</string>
+		<string lang="jp">放電で１ターン$cooldown$付与</string>
 		<string lang="ru">Получает $cooldown$ на один ход после разрядки</string>
 		<string lang="es">Cuando se descarga, recibe $cooldown$ por un turno</string>
 		<string lang="kr">방전 시,$br$한 턴 동안 $cooldown$ 상태가 됩니다.</string>
@@ -345,7 +345,7 @@
 		<string lang="en">Activation this turn will lead to $cooldown$</string>
 		<string lang="fr">Activation ce tour mènera à $cooldown$</string>
 		<string lang="zh">本回合激活会进入$cooldown$</string>
-		<string lang="jp">このターンにアクティブ化は $cooldown$を引き起こします</string>
+		<string lang="jp">このターン起動で$cooldown$付与</string>
 		<string lang="ru">Активация в этом ходу даст $cooldown$</string>
 		<string lang="es">La activación este turno causará $cooldown$</string>
 		<string lang="kr">이번 턴에 활성화 시 $cooldown$ 상태가 됩니다.</string>
@@ -356,7 +356,7 @@
 		<string lang="en">Discharge this turn will lead to $cooldown$</string>
 		<string lang="fr">Décharge ce tour mènera à $cooldown$</string>
 		<string lang="zh">本回合释能会进入$cooldown$</string>
-		<string lang="jp">このターンに放電は $cooldown$を引き起こします</string>
+		<string lang="jp">このターン放電で$cooldown$付与</string>
 		<string lang="ru">Разрядка в этом ходу даст $cooldown$</string>
 		<string lang="es">La descarga este turno causará $cooldown$</string>
 		<string lang="kr">이번 턴에 방전 시 $cooldown$ 상태가 됩니다.</string>
@@ -367,7 +367,7 @@
 		<string lang="en">Activation uses up $1plasma$</string>
 		<string lang="fr">Activation utilise $1plasma$</string>
 		<string lang="zh">激活会消耗$1plasma$</string>
-		<string lang="jp">アクティブ化は $1plasma$を消費します</string>
+		<string lang="jp">起動で$1plasma$消費</string>
 		<string lang="ru">Активация потребляет $1plasma$</string>
 		<string lang="es">La activación usa $1plasma$</string>
 		<string lang="kr">활성화 시 $1plasma$를 소모합니다</string>
@@ -378,7 +378,7 @@
 		<string lang="en">Activation this turn uses up $1plasma$</string>
 		<string lang="fr">Activation ce tour utilise $1plasma$</string>
 		<string lang="zh">本回合激活会消耗$1plasma$</string>
-		<string lang="jp">このターンにアクティブ化は $1plasma$を消費します</string>
+		<string lang="jp">このターン起動で$1plasma$消費</string>
 		<string lang="ru">Активация в этом ходу даст $1plasma$</string>
 		<string lang="es">La activación este turno usa $1plasma$</string>
 		<string lang="kr">이번 턴에 활성화 시 $1plasma$를 소모합니다</string>
@@ -389,7 +389,7 @@
 		<string lang="en">Activation deals $1damage$$br$to the owner</string>
 		<string lang="fr">Activation inflige $1damage$ au propriétaire</string>
 		<string lang="zh">激活会对拥有者造成$1damage$$br$</string>
-		<string lang="jp">アクティブ化はオーナーに$1damage$を与えます</string>
+		<string lang="jp">起動で所有者に$1damage$</string>
 		<string lang="ru">Активация наносит $1damage$ владельцу</string>
 		<string lang="es">Activación inflige $1damage$ al propietario</string>
 		<string lang="kr">활성화 시$br$소유자에게 $1damage$를 줍니다</string>
@@ -400,7 +400,7 @@
 		<string lang="en">Activation this turn deals $1damage$$br$to the owner</string>
 		<string lang="fr">Activation ce tour inflige $1damage$ au propriétaire</string>
 		<string lang="zh">本回合激活会对拥有者造成$1damage$$br$</string>
-		<string lang="jp">このターンにアクティブ化はオーナーに$1damage$を与えます</string>
+		<string lang="jp">このターン起動で所有者に$1damage$</string>
 		<string lang="ru">Активация в этом ходу наносит $1damage$ владельцу</string>
 		<string lang="es">Activación este turno inflige $1damage$ al propietario</string>
 		<string lang="kr">이번 턴에 활성화 시$br$소유자에게 $1damage$를 줍니다</string>
@@ -411,7 +411,7 @@
 		<string lang="en">Salvaged from a previous run.$br$Cannot be duplicated.</string>
 		<string lang="fr">Récupéré d'une précédente mission.$br$Ne peut pas être dupliqué.</string>
 		<string lang="zh">继承自上次游戏。$br$无法复制。</string>
-		<string lang="jp">前のミッションから救出された。$br$複製できません。</string>
+		<string lang="jp">前回ランで回収$br$複製不可</string>
 		<string lang="ru">Спасен из предыдущего забега.$br$Не может быть дублирован.</string>
 		<string lang="es">Rescatado de una misión anterior.$br$No se puede duplicar.</string>
 		<string lang="kr">이전 모험에서 회수한 모듈입니다.$br$복제할 수 없습니다.</string>
@@ -422,7 +422,7 @@
 		<string lang="en">Will receive $crust$ after activation</string>
 		<string lang="fr">Reçoit $crust$ après activation</string>
 		<string lang="zh">激活后获得$crust$</string>
-		<string lang="jp">アクティブ化は $crust$を受け取ります</string>
+		<string lang="jp">起動時$crust$付与</string>
 		<string lang="ru">Получит $crust$ после активации</string>
 		<string lang="es">Recibirá $crust$ después de la activación</string>
 		<string lang="kr">활성화 이후 $crust$가 부여됩니다</string>
@@ -433,7 +433,7 @@
 		<string lang="en">Activation this turn will lead to $crust$</string>
 		<string lang="fr">Activation ce tour mènera à $crust$</string>
 		<string lang="zh">本回合激活会导致$crust$</string>
-		<string lang="jp">このターンにアクティブ化は $crust$を引き起こします</string>
+		<string lang="jp">このターン起動時$crust$付与</string>
 		<string lang="ru">Активация в этом ходу даст $crust$</string>
 		<string lang="es">La activación de este turno causará $crust$</string>
 		<string lang="kr">이번 턴에 활성화 시 $crust$가 부여됩니다</string>
@@ -444,7 +444,7 @@
 		<string lang="en">Adds $1$ $energy$ to the incoming current.$br$Lasts until the end of combat</string>
 		<string lang="fr">Ajoute $1$ $energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
 		<string lang="zh">为输入能量流增加$1$$energy$。$br$直至战斗结束。</string>
-		<string lang="jp">$energy$を$1$追加、戦闘終了まで。</string>
+		<string lang="jp">戦闘終了時まで入力電流に$1$$energy$加算</string>
 		<string lang="ru">Добавляет $1$ $energy$ в ток до конца боя</string>
 		<string lang="es">Añade $1$ $energy$ a la corriente entrante.$br$Dura hasta el final del combate</string>
 		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다.$br$전투 종료 시까지 유지됩니다</string>
@@ -455,7 +455,7 @@
 		<string lang="en">Will be destroyed after battle</string>
 		<string lang="fr">Est détruit après le combat</string>
 		<string lang="zh">战斗结束后销毁</string>
-		<string lang="jp">戦闘後に破壊されます</string>
+		<string lang="jp">戦闘終了時に破壊</string>
 		<string lang="ru">Будет уничтожен после боя</string>
 		<string lang="es">Será destruido después de la batalla</string>
 		<string lang="kr">전투 이후에 파괴됩니다</string>
@@ -466,7 +466,7 @@
 		<string lang="en">Adds $1$ $energy$ to the incoming current</string>
 		<string lang="fr">Ajoute $1$ $energy$ au courant</string>
 		<string lang="zh">为输入能量流增加$1$$energy$</string>
-		<string lang="jp">$energy$を$1$追加</string>
+		<string lang="jp">入力電流に$1$$energy$加算</string>
 		<string lang="ru">Добавляет $1$ $energy$ в ток</string>
 		<string lang="es">Añade $1$ $energy$ a la corriente entrante</string>
 		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다</string>
@@ -477,7 +477,7 @@
 		<string lang="en">Incoming $damage$ is reduced by $1$</string>
 		<string lang="fr">$damage$ entrants sont réduits de $1$</string>
 		<string lang="zh">即将承受的$damage$减少$1$</string>
-		<string lang="jp">$damage$は $1$減少します</string>
+		<string lang="jp">受ける$damage$を$1$軽減</string>
 		<string lang="ru">Входящий $damage$ уменьшается на $1$</string>
 		<string lang="es">El daño entrante de $damage$ es reducido por $1$</string>
 		<string lang="kr">다음 $damage$가 $1$ 감소합니다</string>
@@ -488,7 +488,7 @@
 		<string lang="en">Incoming $damage$ is transformed to $grav+$ instead</string>
 		<string lang="fr">$damage$ entrants sont transformées en $grav+$</string>
 		<string lang="zh">即将承受的$damage$将转换为$grav+$</string>
-		<string lang="jp">$damage$は $grav+$に変換されます</string>
+		<string lang="jp">受ける$damage$を$grav+$へ変換</string>
 		<string lang="ru">Входящий $damage$ превращается в $grav+$</string>
 		<string lang="es">El daño entrante de $damage$ es transformado en $grav+$</string>
 		<string lang="kr">다음 $damage$가 그 대신 $grav+$로 변형됩니다</string>
@@ -499,7 +499,7 @@
 		<string lang="en">Incoming $grav+$ is transformed to $damage$ instead</string>
 		<string lang="fr">$grav+$ entrante est transformée en $damage$</string>
 		<string lang="zh">被施加的$grav+$将转换为$damage$</string>
-		<string lang="jp">$grav+$は $damage$に変換されます</string>
+		<string lang="jp">受ける$grav+$を$damage$へ変換</string>
 		<string lang="ru">Входящий $grav+$ превращается в $damage$</string>
 		<string lang="es">El daño entrante de $grav+$ es transformado en $damage$</string>
 		<string lang="kr">다음 $grav+$가 그 대신 $damage$로 변형됩니다</string>
@@ -510,7 +510,7 @@
 		<string lang="en">Incoming $grav+$ is transformed to $might$ instead</string>
 		<string lang="fr">$grav+$ entrante est transformée en $might$</string>
 		<string lang="zh">被施加的$grav+$将转换为$might$</string>
-		<string lang="jp">$grav+$は $might$に変換されます</string>
+		<string lang="jp">受ける$grav+$を$might$へ変換</string>
 		<string lang="ru">Входящий $grav+$ превращается в $might$</string>
 		<string lang="es">El daño entrante de $grav+$ es transformado en $might$</string>
 		<string lang="kr">다음 $grav+$가 그 대신 $might$으로 변형됩니다</string>
@@ -521,7 +521,7 @@
 		<string lang="en">Incoming $damage$ is amplified by $1$</string>
 		<string lang="fr">$damage$ entrants sont augmentés de $1$</string>
 		<string lang="zh">即将承受的$damage$增加$1$</string>
-		<string lang="jp">受ける$damage$が$1$増加</string>
+		<string lang="jp">受ける$damage$を$1$増強</string>
 		<string lang="ru">Входящий $damage$ усиливается на $1$</string>
 		<string lang="es">El $damage$ entrante se amplifica en $1$</string>
 		<string lang="kr">다음 $damage$가 $1$ 증폭됩니다</string>
@@ -532,7 +532,7 @@
 		<string lang="en">Grav. Amplification</string>
 		<string lang="fr">Amplification Grav.</string>
 		<string lang="zh">引力放大</string>
-		<string lang="jp">重力増幅</string>
+		<string lang="jp">重力増強</string>
 		<string lang="ru">Грав. Усиление</string>
 		<string lang="es">Amplificación Grav.</string>
 		<string lang="kr">중력 증폭</string>
@@ -565,7 +565,7 @@
 		<string lang="en">Boost +1</string>
 		<string lang="fr">Sursaut +1</string>
 		<string lang="zh">增强 +1</string>
-		<string lang="jp">ブースト +1</string>
+		<string lang="jp">ブースト＋１</string>
 		<string lang="ru">Усиление +1</string>
 		<string lang="es">Aumento +1</string>
 		<string lang="kr">부스트 +1</string>
@@ -587,7 +587,7 @@
 		<string lang="en">Cooldown</string>
 		<string lang="fr">Recharge</string>
 		<string lang="zh">冷却</string>
-		<string lang="jp">クールダウン</string>
+		<string lang="jp">冷却</string>
 		<string lang="ru">Перезарядка</string>
 		<string lang="es">Enfriamiento</string>
 		<string lang="kr">대기</string>
@@ -598,7 +598,7 @@
 		<string lang="en">Cracked</string>
 		<string lang="fr">Cassant</string>
 		<string lang="zh">破损</string>
-		<string lang="jp">割れた</string>
+		<string lang="jp">破損</string>
 		<string lang="ru">Хрупкий</string>
 		<string lang="es">Agrietado</string>
 		<string lang="kr">손상</string>
@@ -609,7 +609,7 @@
 		<string lang="en">Crust</string>
 		<string lang="fr">Croûte</string>
 		<string lang="zh">晶壳</string>
-		<string lang="jp">結晶</string>
+		<string lang="jp">晶結</string>
 		<string lang="ru">Кристаллизация</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">크러스트</string>
@@ -620,7 +620,7 @@
 		<string lang="en">Fire</string>
 		<string lang="fr">Feu</string>
 		<string lang="zh">开火</string>
-		<string lang="jp">火</string>
+		<string lang="jp">作動</string>
 		<string lang="ru">Огонь</string>
 		<string lang="es">Fuego</string>
 		<string lang="kr">발화</string>
@@ -642,7 +642,7 @@
 		<string lang="en">Grav. Vacuum</string>
 		<string lang="fr">Vacuum Grav.</string>
 		<string lang="zh">引力真空</string>
-		<string lang="jp">重力真空</string>
+		<string lang="jp">重力吸引</string>
 		<string lang="ru">Грав. Вакуум</string>
 		<string lang="es">Vacío Grav.</string>
 		<string lang="kr">중력 공백</string>
@@ -653,7 +653,7 @@
 		<string lang="en">Locked</string>
 		<string lang="fr">Verrouillé</string>
 		<string lang="zh">已锁定</string>
-		<string lang="jp">モジュールロック</string>
+		<string lang="jp">固定</string>
 		<string lang="ru">Заблокированный</string>
 		<string lang="es">Bloqueado</string>
 		<string lang="kr">고정됨</string>
@@ -664,7 +664,7 @@
 		<string lang="en">Character Loadout</string>
 		<string lang="fr">Equipement de Personnage</string>
 		<string lang="zh">角色自带</string>
-		<string lang="jp">キャラクター装備</string>
+		<string lang="jp">キャラ専用</string>
 		<string lang="ru">Снаряжение персонажа</string>
 		<string lang="es">Equipo de Personaje</string>
 		<string lang="kr">캐릭터 소지품</string>
@@ -675,7 +675,7 @@
 		<string lang="en">Malfunctioning</string>
 		<string lang="fr">Défaillance</string>
 		<string lang="zh">失灵</string>
-		<string lang="jp">故障</string>
+		<string lang="jp">不調</string>
 		<string lang="ru">Неисправный</string>
 		<string lang="es">Malfuncionamiento</string>
 		<string lang="kr">오작동</string>
@@ -686,7 +686,7 @@
 		<string lang="en">Mutation</string>
 		<string lang="fr">Mutation</string>
 		<string lang="zh">变异</string>
-		<string lang="jp">突然変異</string>
+		<string lang="jp">変異</string>
 		<string lang="ru">Мутация</string>
 		<string lang="es">Mutación</string>
 		<string lang="kr">변화</string>
@@ -708,7 +708,7 @@
 		<string lang="en">Overload</string>
 		<string lang="fr">Surcharge</string>
 		<string lang="zh">超载</string>
-		<string lang="jp">オーバーロード</string>
+		<string lang="jp">過負荷</string>
 		<string lang="ru">Перегрузка</string>
 		<string lang="es">Sobrecarga</string>
 		<string lang="kr">과부하</string>
@@ -741,7 +741,7 @@
 		<string lang="en">Salvaged</string>
 		<string lang="fr">Sauvetage</string>
 		<string lang="zh">已保留</string>
-		<string lang="jp">回収</string>
+		<string lang="jp">回収済</string>
 		<string lang="ru">Спасённый</string>
 		<string lang="es">Rescatado</string>
 		<string lang="kr">회수됨</string>
@@ -752,7 +752,7 @@
 		<string lang="en">Self-Encrusting</string>
 		<string lang="fr">Auto-Encrustement</string>
 		<string lang="zh">自我结晶</string>
-		<string lang="jp">自己結晶</string>
+		<string lang="jp">結晶化</string>
 		<string lang="ru">Самокристаллизация</string>
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 크러스트화</string>
@@ -763,7 +763,7 @@
 		<string lang="en">Turbo +1</string>
 		<string lang="fr">Turbo +1</string>
 		<string lang="zh">涡轮增压 +1</string>
-		<string lang="jp">ターボ +1</string>
+		<string lang="jp">ターボ＋１</string>
 		<string lang="ru">Турбо +1</string>
 		<string lang="es">Turbo +1</string>
 		<string lang="kr">터보 +1</string>
@@ -774,7 +774,7 @@
 		<string lang="en">Unstable</string>
 		<string lang="fr">Instable</string>
 		<string lang="zh">不稳定的</string>
-		<string lang="jp">不安定</string>
+		<string lang="jp">制御不可</string>
 		<string lang="ru">Неустойчивый</string>
 		<string lang="es">Inestable</string>
 		<string lang="kr">불안정함</string>
@@ -785,7 +785,7 @@
 		<string lang="en">Upgrade +1</string>
 		<string lang="fr">Amélioration +1</string>
 		<string lang="zh">升级 +1</string>
-		<string lang="jp">アップグレード +1</string>
+		<string lang="jp">改良＋１</string>
 		<string lang="ru">улучшение +1</string>
 		<string lang="es">Mejora +1</string>
 		<string lang="kr">개량 +1</string>
@@ -807,7 +807,7 @@
 		<string lang="en">$damage$ to $grav+short$</string>
 		<string lang="fr">$damage$ vers $grav+short$</string>
 		<string lang="zh">$damage$转化为$grav+short$</string>
-		<string lang="jp">$damage$から$grav+short$へ</string>
+		<string lang="jp">$damage$を$grav+short$へ</string>
 		<string lang="ru">$damage$ в $grav+short$</string>
 		<string lang="es">$damage$ a $grav+short$</string>
 		<string lang="kr">$damage$에서 $grav+short$</string>
@@ -818,7 +818,7 @@
 		<string lang="en">$grav+short$ to $damage$</string>
 		<string lang="fr">$grav+short$ vers $damage$</string>
 		<string lang="zh">$grav+short$转化为$damage$</string>
-		<string lang="jp">$grav+short$から$damage$へ</string>
+		<string lang="jp">$grav+short$を$damage$へ</string>
 		<string lang="ru">$grav+short$ в $damage$</string>
 		<string lang="es">$grav+short$ a $damage$</string>
 		<string lang="kr">$grav+short$에서 $damage$</string>
@@ -829,7 +829,7 @@
 		<string lang="en">$grav+$ to $might$</string>
 		<string lang="fr">$grav+$ vers $might$</string>
 		<string lang="zh">$grav+$转化为$might$</string>
-		<string lang="jp">$grav+$から$might$へ</string>
+		<string lang="jp">$grav+short$を$might$へ</string>
 		<string lang="ru">$grav+$ в $might$</string>
 		<string lang="es">$grav+$ a $might$</string>
 		<string lang="kr">$grav+$에서 $might$</string>
@@ -840,7 +840,7 @@
 		<string lang="en">Vulnerable</string>
 		<string lang="fr">Vulnerable</string>
 		<string lang="zh">被虚弱</string>
-		<string lang="jp">弱点</string>
+		<string lang="jp">脆弱</string>
 		<string lang="ru">Уязвимость</string>
 		<string lang="es">Vulnerable</string>
 		<string lang="kr">취약</string>
@@ -851,7 +851,7 @@
 		<string lang="en">Grav. Amp.</string>
 		<string lang="fr">Grav. Amp.</string>
 		<string lang="zh">引力增强</string>
-		<string lang="jp">重力増幅</string>
+		<string lang="jp">重力増強</string>
 		<string lang="ru">Грав. Усил.</string>
 		<string lang="es">Grav. Amp.</string>
 		<string lang="kr">중력 증폭</string>
@@ -862,7 +862,7 @@
 		<string lang="en">Grav. Res.</string>
 		<string lang="fr">Res. Grav</string>
 		<string lang="zh">引力抗性</string>
-		<string lang="jp">重力耐性</string>
+		<string lang="jp">重力抵抗</string>
 		<string lang="ru">Грав. Сопротивление</string>
 		<string lang="es">Res. Grav.</string>
 		<string lang="kr">중력 저항</string>
@@ -895,7 +895,7 @@
 		<string lang="en">Crust</string>
 		<string lang="fr">Croûte</string>
 		<string lang="zh">晶壳</string>
-		<string lang="jp">結晶</string>
+		<string lang="jp">晶結</string>
 		<string lang="ru">Кристаллизация</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">크러스트</string>
@@ -928,7 +928,7 @@
 		<string lang="en">Grav. Vacuum</string>
 		<string lang="fr">Vacuum Grav.</string>
 		<string lang="zh">引力真空</string>
-		<string lang="jp">重力真空</string>
+		<string lang="jp">重力吸引</string>
 		<string lang="ru">Грав. Вакуум</string>
 		<string lang="es">Vacío Grav.</string>
 		<string lang="kr">중력 공백</string>
@@ -939,7 +939,7 @@
 		<string lang="en">Overload</string>
 		<string lang="fr">Surcharge</string>
 		<string lang="zh">超载</string>
-		<string lang="jp">オーバーロード</string>
+		<string lang="jp">過負荷</string>
 		<string lang="ru">Перегрузка</string>
 		<string lang="es">Sobrecarga</string>
 		<string lang="kr">과부하</string>
@@ -950,7 +950,7 @@
 		<string lang="en">Overload</string>
 		<string lang="fr">Surcharge</string>
 		<string lang="zh">超载</string>
-		<string lang="jp">オーバーロード</string>
+		<string lang="jp">過負荷</string>
 		<string lang="ru">Перегрузка</string>
 		<string lang="es">Sobrecarga</string>
 		<string lang="kr">과부하</string>
@@ -961,7 +961,7 @@
 		<string lang="en">Plasma Combustion</string>
 		<string lang="fr">Crépitation Plasma</string>
 		<string lang="zh">等离子燃烧机</string>
-		<string lang="jp">プラズマ爆燃</string>
+		<string lang="jp">プラズマ燃焼</string>
 		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Crepitación de Plasma</string>
 		<string lang="kr">플라즈마 연소</string>
@@ -972,7 +972,7 @@
 		<string lang="en">Plasma Combustion</string>
 		<string lang="fr">Crépitation Plasma</string>
 		<string lang="zh">等离子燃烧机</string>
-		<string lang="jp">プラズマ爆燃</string>
+		<string lang="jp">プラズマ燃焼</string>
 		<string lang="ru">Сжигание Плазмы</string>
 		<string lang="es">Crepitación de Plasma</string>
 		<string lang="kr">플라즈마 연소</string>
@@ -994,7 +994,7 @@
 		<string lang="en">Self-Encrusting</string>
 		<string lang="fr">Auto-Encrustement</string>
 		<string lang="zh">自我结晶</string>
-		<string lang="jp">自己結晶</string>
+		<string lang="jp">結晶化</string>
 		<string lang="ru">Самокристаллизация</string>
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 크러스트화</string>
@@ -1005,7 +1005,7 @@
 		<string lang="en">Self-Encrusting</string>
 		<string lang="fr">Auto-Encrustement</string>
 		<string lang="zh">自我结晶</string>
-		<string lang="jp">自己結晶</string>
+		<string lang="jp">結晶化</string>
 		<string lang="ru">Самокристаллизация</string>
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 크러스트화</string>
@@ -1027,7 +1027,7 @@
 		<string lang="en">DMG to Grav+</string>
 		<string lang="fr">DMG vers Grav+</string>
 		<string lang="zh">伤害转化为正引力荷</string>
-		<string lang="jp">DMGを重力+に変換</string>
+		<string lang="jp">$damage$を$grav+short$へ</string>
 		<string lang="ru">Урон в Грав+</string>
 		<string lang="es">Daño a Grav+</string>
 		<string lang="kr">피해에서 중력 전하+</string>
@@ -1038,7 +1038,7 @@
 		<string lang="en">$grav+short$ to DMG</string>
 		<string lang="fr">$grav+short$ vers DMG</string>
 		<string lang="zh">$grav+short$转化为伤害</string>
-		<string lang="jp">重力+をDMGに変換</string>
+		<string lang="jp">$grav+short$を$damage$へ</string>
 		<string lang="ru">Грав+ в Урон</string>
 		<string lang="es">$grav+short$ a Daño</string>
 		<string lang="kr">$grav+short$에서 피해</string>
@@ -1049,7 +1049,7 @@
 		<string lang="en">Vulnerable</string>
 		<string lang="fr">Vulnerable</string>
 		<string lang="zh">被虚弱</string>
-		<string lang="jp">弱点</string>
+		<string lang="jp">脆弱化</string>
 		<string lang="ru">Уязвимость</string>
 		<string lang="es">Vulnerable</string>
 		<string lang="kr">취약</string>

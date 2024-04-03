@@ -35,13 +35,13 @@
 <set id="description-module-collectorgravneg">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $grav-$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav-$ is applied to a player character.</string>
-        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un personnage joueur reçoit $grav-$.</string>
-        <string lang="zh">每当一个玩家角色获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
-        <string lang="jp">プレイヤー キャラクターに$grav-$が適用されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav-$ применяется к игроку.</string>
-        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $grav-$.</string>
-        <string lang="kr">플레이어 캐릭터에게 $grav-$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
-        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un personnage joueur reçoit $grav-$.</string>
+		<string lang="zh">每当一个玩家角色获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+		<string lang="jp">プレイヤー キャラクターに$grav-$が適用されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav-$ применяется к игроку.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $grav-$.</string>
+		<string lang="kr">플레이어 캐릭터에게 $grav-$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
 </set>
 <set id="description-module-collectormight">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
@@ -79,13 +79,13 @@
 <set id="description-module-effectorblasterprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl $1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$$br$to target enemy].</string>
-        <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
-        <string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标敌人施放$1damage$。</string>
-        <string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの敵に$1damage$を与えます。</string>
-        <string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому врагу $1damage$].</string>
-        <string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $1damage$ a un enemigo objetivo].</string>
-        <string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 적에게 $1damage$를 입힙니다].</string>
-        <string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$ a um inimigo alvo].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
+		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标敌人施放$1damage$。</string>
+		<string lang="jp">このモジュールの$energy$の各ポイントにつき、ターゲットの敵に$1damage$を与えます。</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому врагу $1damage$].</string>
+		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $1damage$ a un enemigo objetivo].</string>
+		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 적에게 $1damage$를 입힙니다].</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$ a um inimigo alvo].</string>
 </set>
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
@@ -459,13 +459,13 @@
 <set id="description-module-toggledgravvacuum">
 		<string lang="de">Versieht ein anderes Modul deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
 		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one instance of $gravvacuum$.</string>
-        <string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.</string>
-        <string lang="zh">永久地将 $gravvacuum$ 应用于此机架上的目标 $passthroughmodule$。$p$$passthroughmodule$ 只能有一个 $gravvacuum$ 实例。</string>
-        <string lang="jp">このラック上のターゲット $passthroughmodule$ に $gravvacuum$ を永久に適用します。$p$$passthroughmodule$ は $gravvacuum$ のインスタンスを1つしか持つことができません。</string>
-        <string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.$p$$passthroughmodule$ могут иметь только один экземпляр $gravvacuum$.</string>
-        <string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.$p$$passthroughmodule$s solo pueden tener una instancia de $gravvacuum$.</string>
-        <string lang="kr">이 랙의 대상 $passthroughmodule$에 $gravvacuum$를 영구적으로 적용합니다.$p$$passthroughmodule$는 $gravvacuum$의 인스턴스를 하나만 가질 수 있습니다.</string>
-        <string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.$p$$passthroughmodule$s só podem ter uma instância de $gravvacuum$.</string>
+		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.</string>
+		<string lang="zh">永久地将 $gravvacuum$ 应用于此机架上的目标 $passthroughmodule$。$p$$passthroughmodule$ 只能有一个 $gravvacuum$ 实例。</string>
+		<string lang="jp">このラック上のターゲット $passthroughmodule$ に $gravvacuum$ を永久に適用します。$p$$passthroughmodule$ は $gravvacuum$ のインスタンスを1つしか持つことができません。</string>
+		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.$p$$passthroughmodule$ могут иметь только один экземпляр $gravvacuum$.</string>
+		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.$p$$passthroughmodule$s solo pueden tener una instancia de $gravvacuum$.</string>
+		<string lang="kr">이 랙의 대상 $passthroughmodule$에 $gravvacuum$를 영구적으로 적용합니다.$p$$passthroughmodule$는 $gravvacuum$의 인스턴스를 하나만 가질 수 있습니다.</string>
+		<string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.$p$$passthroughmodule$s só podem ter uma instância de $gravvacuum$.</string>
 </set>
 <set id="description-module-toggledgrenadegravimmunity">
 		<string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$.$br$(Dauer: 6)</string>
@@ -643,16 +643,27 @@
 		<string lang="kr">실드 센서 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-effectoracceleratorprecision">
+		<string lang="de">Präzisions-Beschleuniger $MODIFICATIONVALUE$</string>
+		<string lang="en">Precision Accelerator $MODIFICATIONVALUE$</string>
+		<string lang="fr">Accélérateur de Précision $MODIFICATIONVALUE$</string>
+		<string lang="zh">精准加速器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">精密アクセル $MODIFICATIONVALUE$</string>
+		<string lang="ru">Точный Ускоритель $MODIFICATIONVALUE$</string>
+		<string lang="es">Acelerador de Precisión $MODIFICATIONVALUE$</string>
+		<string lang="kr">정밀 가속기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Acelerador de Precisão $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-effectorblasterprecision">
 		<string lang="de">Präzisions-Blaster $MODIFICATIONVALUE$</string>
 		<string lang="en">Precision Blaster $MODIFICATIONVALUE$</string>
-        <string lang="fr">Blaster de Précision $MODIFICATIONVALUE$</string>
-        <string lang="zh">精准爆破器 $MODIFICATIONVALUE$</string>
-        <string lang="jp">精密ブラスター $MODIFICATIONVALUE$</string>
-        <string lang="ru">Точный Бластер $MODIFICATIONVALUE$</string>
-        <string lang="es">Blaster de Precisión $MODIFICATIONVALUE$</string>
-        <string lang="kr">정밀 블라스터 $MODIFICATIONVALUE$</string>
-        <string lang="pt-br">Blaster de Precisão $MODIFICATIONVALUE$</string>
+		<string lang="fr">Blaster de Précision $MODIFICATIONVALUE$</string>
+		<string lang="zh">精准爆破器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">精密ブラスター $MODIFICATIONVALUE$</string>
+		<string lang="ru">Точный Бластер $MODIFICATIONVALUE$</string>
+		<string lang="es">Blaster de Precisión $MODIFICATIONVALUE$</string>
+		<string lang="kr">정밀 블라스터 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Blaster de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratorprecision">
 		<string lang="de">Präzisions-Verlangsamer $MODIFICATIONVALUE$</string>
@@ -664,17 +675,6 @@
 		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
 		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-effectoracceleratorprecision">
-		<string lang="de">Präzisions-Beschleuniger $MODIFICATIONVALUE$</string>
-		<string lang="en">Precision Accelerator $MODIFICATIONVALUE$</string>
-		<string lang="fr">Accélérateur de Précision $MODIFICATIONVALUE$</string>
-		<string lang="zh">精准加速器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">精密アクセル $MODIFICATIONVALUE$</string>
-		<string lang="ru">Точный Ускоритель $MODIFICATIONVALUE$</string>
-		<string lang="es">Acelerador de Precisión $MODIFICATIONVALUE$</string>
-		<string lang="kr">정밀 가속기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Acelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgravimmunity">
 		<string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
