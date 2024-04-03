@@ -33,15 +33,15 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é quebrado.</string>
 </set>
 <set id="description-module-collectorgravneg">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $grav-$ auf den Charakter eingeht.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the owner is inflicted with $grav-$.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que le propriétaire est affecté par $grav-$.</string>
-		<string lang="zh">每当获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
-		<string lang="jp">$grav-$によってオーナーに与えられるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда владелец подвергается $grav-$.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el propietario es afectado por $grav-$.</string>
-		<string lang="kr">$grav-$에 걸릴 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que o dono é afetado por $grav-$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $grav-$ erhält.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav-$ is applied to a player character.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un personnage joueur reçoit $grav-$.</string>
+        <string lang="zh">每当一个玩家角色获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">プレイヤー キャラクターに$grav-$が適用されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav-$ применяется к игроку.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $grav-$.</string>
+        <string lang="kr">플레이어 캐릭터에게 $grav-$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
 </set>
 <set id="description-module-collectormight">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
@@ -253,15 +253,15 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 </set>
 <set id="description-module-generatorvulnerability">
-		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht den Charakter für 5 Zeitschritte mit $vulnerable$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation, but inflicts the owner with $vulnerable$ for 5 time steps.</string>
-		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $vulnerable$ au propriétaire pour 5 étapes de temps.</string>
-		<string lang="zh">启动时生成 $b$$GENERATIONVALUE$$/b$ $energy$，但会让使用者获得5个时刻的 $vulnerable$ 。</string>
-		<string lang="jp">起動時に $b$$GENERATIONVALUE$$/b$ $energy$ を生成しますが、所有者に 5 タイム ステップの $vulnerable$ を与えます。</string>
-		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но накладывает на владельца $vulnerable$ на 5 шагов времени.</string>
-		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero inflige $vulnerable$ al propietario durante 5 pasos de tiempo.</string>
-		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만 소유자에게 5개의 시간 단계 동안 $vulnerable$를 입힙니다.</string>
-		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o dono com $vulnerable$ por 5 passos de tempo.</string>
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
+		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
+		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
+		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 </set>
 <set id="description-module-lightningrod">
 		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
@@ -457,14 +457,15 @@
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 </set>
 <set id="description-module-toggledgravvacuum">
-		<string lang="de">Versieht ein anderes Modul deiner Wahl auf diesem Rack, das noch kein $gravvacuum$ hat, dauerhaft mit $gravvacuum$.</string>
-		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack that does not already have $gravvacuum$.</string>
-		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack qui n'a pas déjà $gravvacuum$.</string>
-		<string lang="zh">永久地将 $gravvacuum$ 应用于本机架上尚未拥有 $gravvacuum$ 的目标 $passthroughmodule$。</string>
-		<string lang="jp">このラックの$gravvacuum$を持っていないターゲット$passthroughmodule$に$gravvacuum$を永久に適用します。</string>
-		<string lang="ru">Навсегда применяет $gravvacuum$ к целевому $passthroughmodule$ на этой стойке, который еще не имеет $gravvacuum$.</string>
-		<string lang="es">Aplica $gravvacuum$ de forma permanente a un módulo $passthroughmodule$ que aún no tenga $gravvacuum$ en este bastidor .</string>
-		<string lang="kr">이 랙의 $gravvacuum$가 없는 대상 $passthroughmodule$에 영구적으로 $gravvacuum$를 적용합니다.</string>
+		<string lang="de">Versieht ein anderes Modul deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
+		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one instance of $gravvacuum$.</string>
+        <string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.</string>
+        <string lang="zh">永久地将 $gravvacuum$ 应用于此机架上的目标 $passthroughmodule$。$p$$passthroughmodule$ 只能有一个 $gravvacuum$ 实例。</string>
+        <string lang="jp">このラック上のターゲット $passthroughmodule$ に $gravvacuum$ を永久に適用します。$p$$passthroughmodule$ は $gravvacuum$ のインスタンスを1つしか持つことができません。</string>
+        <string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.$p$$passthroughmodule$ могут иметь только один экземпляр $gravvacuum$.</string>
+        <string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.$p$$passthroughmodule$s solo pueden tener una instancia de $gravvacuum$.</string>
+        <string lang="kr">이 랙의 대상 $passthroughmodule$에 $gravvacuum$를 영구적으로 적용합니다.$p$$passthroughmodule$는 $gravvacuum$의 인스턴스를 하나만 가질 수 있습니다.</string>
+        <string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.$p$$passthroughmodule$s só podem ter uma instância de $gravvacuum$.</string>
 </set>
 <set id="description-module-toggledgrenadegravimmunity">
 		<string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$.$br$(Dauer: 6)</string>

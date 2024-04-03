@@ -539,7 +539,7 @@
 		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
 </set>
 <set id="description-module-toggledbooster-eot">
-		<string lang="de">Versieht alle $passthroughmodule$e auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
 		<string lang="en">Applies $boost$ to all $passthroughmodule$s on this rack until the end of turn.</string>
 		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
 		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
@@ -613,7 +613,7 @@
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$br$$passthroughmodule$может иметь только 1 $upgrade$.</string>
 		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.$br$Solo admite una $upgrade$.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적인 $upgrade$을 적용합니다.$p$$passthroughmodule$은 한번만 $upgrade$될 수 있습니다.</string>
-		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
+		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.$p$$passthroughmodule$s só podem ter um $upgrade$.</string>
 </set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
