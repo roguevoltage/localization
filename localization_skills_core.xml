@@ -22,9 +22,9 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.</string>
 </set>
 <set id="description-skill-croak">
-		<string lang="de">Entfernt alle $might$ um alle Module auf dem Rack eines Gegners mit $gravrecoil$ zu vesehen.</string>
-		<string lang="en">Remove all $might$ to apply $gravrecoil$ to all modules on an enemy rack.</string>
-		<string lang="fr">Retire $might$ pour appliquer $gravrecoil$ à tous les modules d'un rack ennemi.</string>
+		<string lang="de">Entfernt alle $might$.$p$Viersieht alle Module auf dem Rack eines Gegners mit $gravrecoil$.</string>
+		<string lang="en">Remove all $might$.$p$Applies $gravrecoil$ to all modules on an enemy rack.</string>
+		<string lang="fr">Retire $might$.$p$Applique $gravrecoil$ à tous les modules d'un rack ennemi.</string>
 		<string lang="zh">移除全部$might$来为敌方所有模块施加$gravrecoil$。</string>
 		<string lang="jp">$might$を全て消費し、敵のラックにあるモジュール全てに$gravrecoil$付与。</string>
 		<string lang="ru">Удаляет $might$ для применения $gravrecoil$ ко всем модулям на вражеской стойке.</string>
@@ -77,7 +77,7 @@
 		<string lang="pt-br">Se os HP forem pares, ele se divide em dois.</string>
 </set>
 <set id="description-skill-enemyspawn-slime">
-		<string lang="de">Wenn $might$ gefüllt ist, entfernt er alle $might$ um sich zu verdoppeln.</string>
+		<string lang="de">Entfernt alle $might$.$p$Verdoppelt sich selbst.</string>
 		<string lang="en">If $might$ is full, it removes all $might$ to duplicate.</string>
 		<string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
 		<string lang="zh">如果$might$已满，则消耗全部$might$进行复制。</string>
