@@ -43,6 +43,17 @@
 		<string lang="kr">플레이어 캐릭터에게 $grav-$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
 </set>
+<set id="description-module-collectormalfunction">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is $outoforder$ or $cooldown$.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
+		<string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+		<string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль $outoforder$ или $cooldown$.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo está $outoforder$ o en $cooldown$.</string>
+		<string lang="kr">모듈이 $outoforder$ 또는 $cooldown$일 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo está $outoforder$ ou em $cooldown$.</string>
+</set>
 <set id="description-module-collectormight">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
@@ -97,6 +108,17 @@
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게 $grav+1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
+</set>
+<set id="description-module-effectorgravamplification">
+		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
+		<string lang="en">Inflicts target combatant with $gravamplification$.$br$(Duration: $energy$×3).</string>
+		<string lang="fr">Inflige $gravamplification$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
+		<string lang="zh">让目标获得 $gravamplification$，持续 $energy$×3。</string>
+		<string lang="jp">ターゲットの戦闘者に$gravamplification$を与えます。$br$(持続時間：$energy$×3)。</string>
+		<string lang="ru">Накладывает $gravamplification$ на цель.$br$(Продолжительность: $energy$×3).</string>
+		<string lang="es">Inflige $gravamplification$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
+		<string lang="kr">대상 전투원에게 $gravamplification$ 부여합니다.$br$(지속시간: $energy$×3).</string>
+		<string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
 </set>
 <set id="description-module-effectorgravimmunity">
 		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$br$(Dauer: $energy$×3)</string>
@@ -621,6 +643,17 @@
 		<string lang="kr">Grav. Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-collectormalfunction">
+		<string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Malfunction Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur de Panne $MODIFICATIONVALUE$</string>
+		<string lang="zh">故障感应器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">故障センサー $MODIFICATIONVALUE$</string>
+		<string lang="ru">Сенсор Поломки $MODIFICATIONVALUE$</string>
+		<string lang="es">Sensor de Malfunción $MODIFICATIONVALUE$</string>
+		<string lang="kr">고장 센서 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Sensor de Malfuncionamento $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-collectormight">
 		<string lang="de">Macht-Sensor $MODIFICATIONVALUE$</string>
 		<string lang="en">Might Sensor $MODIFICATIONVALUE$</string>
@@ -675,6 +708,17 @@
 		<string lang="es">Decelerador de Precisión $MODIFICATIONVALUE$</string>
 		<string lang="kr">정밀 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectorgravamplification">
+		<string lang="de">Grav. Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Grav. Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplificateur Grav. $MODIFICATIONVALUE$</string>
+		<string lang="zh">引力放大器 $MODIFICATIONVALUE$</string>
+		<string lang="jp">重力増幅器 $MODIFICATIONVALUE$</string>
+		<string lang="ru">Грав. Усилитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Amplificador Grav. $MODIFICATIONVALUE$</string>
+		<string lang="kr">Grav. Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Amplificador Grav. $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgravimmunity">
 		<string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
