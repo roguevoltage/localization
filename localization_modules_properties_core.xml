@@ -33,7 +33,7 @@
 		<string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
 </set>
 <set id="discharge-storesenergy-capped">
-		<string lang="de">Speichert bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ über Züge$br$und Kämpfe hinweg</string>
+		<string lang="de">Speichert bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$über Züge und Kämpfe hinweg</string>
 		<string lang="en">Stores up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$throughout turns and battles</string>
 		<string lang="fr">Stocke jusqu'à &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ sur plusieurs tours et combats</string>
 		<string lang="zh">最多可储存&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$$br$回合及战斗结束后不会消失</string>
@@ -242,7 +242,7 @@
 		<string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$ $/b$$energy$ da corrente</string>
 </set>
 <set id="module-properties-discharge-endofturn">
-		<string lang="de">Sensoren verlieren alle $energy$ am Ende des Zuges des Charakters</string>
+		<string lang="de">Sensoren verlieren alle $energy$$br$am Ende des Zuges des Charakters</string>
 		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
 		<string lang="fr">Capteurs perdent toute $energy$$br$à la fin du tour du propriétaire</string>
 		<string lang="zh">拥有者回合结束后，$br$传感器失去所有$energy$</string>

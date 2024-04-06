@@ -396,8 +396,8 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que uma $crust$ é quebrada.</string>
 </set>
 <set id="description-skill-passive-powerraiseifdamaged">
-		<string lang="de">Erhöht $might$ um $1$, immer wenn er $damage$ erhält.</string>
-		<string lang="en">Raises $might$ by $1$ whenever it receives $damage$.</string>
+		<string lang="de">Erhöht $might$ um $1$, immer wenn er $damage$ nimmt.</string>
+		<string lang="en">Raises $might$ by $1$ whenever it takes $damage$.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">受到$damage$时，提升$1$$might$。</string>
 		<string lang="jp">$damage$を受けた時、$might$$1$上昇。</string>
@@ -407,8 +407,8 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que recebe $damage$</string>
 </set>
 <set id="description-skill-passive-powerraiseifdamaged-full">
-		<string lang="de">Füllt $might$, immer wenn er $damage$ erhält.</string>
-		<string lang="en">Fills $might$ whenever it receives $damage$.</string>
+		<string lang="de">Füllt $might$, immer wenn er $damage$ nimmt.</string>
+		<string lang="en">Fills $might$ whenever it takes $damage$.</string>
 		<string lang="fr">Remplit $might$ à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">受到$damage$时，获得最大$might$。</string>
 		<string lang="jp">$damage$を受けた時、$might$補充。</string>

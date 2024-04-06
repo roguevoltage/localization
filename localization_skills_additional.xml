@@ -264,8 +264,8 @@
 		<string lang="pt-br">Causa $1damage$ a um inimigo e aplica $grav-1$ a todos os aliados.</string>
 </set>
 <set id="description-skill-passive-gravifdamaged">
-		<string lang="de">Fügt dem Angreifer $grav+1$ zu, immer wenn er $damage$ erhält.</string>
-		<string lang="en">Whenever it receives $damage$, inflicts the attacker with $grav+1$.</string>
+		<string lang="de">Fügt dem Angreifer $grav+1$ zu, immer wenn er $damage$ nimmt.</string>
+		<string lang="en">Whenever it takes $damage$, inflicts the attacker with $grav+1$.</string>
 		<string lang="fr">Inflige $grav+1$ à l'attaquant, à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">每当它受到 $damage$ 时，使攻击者获得 $grav+1$。</string>
 		<string lang="jp">$damage$ を受けるたびに、攻撃者に $grav+1$ を与えます。</string>
@@ -297,8 +297,8 @@
 		<string lang="pt-br">No início de seu turno, neutraliza todo o $grav$ em si mesmo.</string>
 </set>
 <set id="description-skill-passive-ondamage-burningdebris">
-		<string lang="de">Immer wenn es $damage$ erhält, konstruiert es ein $b$Brennende Trümmer$/b$ Modul und zwingt es auf eines deiner Racks.</string>
-		<string lang="en">Whenever it receives $damage$, constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
+		<string lang="de">Immer wenn es $damage$ nimmt, konstruiert es ein $b$Brennende Trümmer$/b$ Modul und zwingt es auf eines deiner Racks.</string>
+		<string lang="en">Whenever it takes $damage$, constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
 		<string lang="fr">Chaque fois qu'il reçoit $damage$, il construit un module $b$Débris Brûlants$/b$ et le force sur l'un de vos racks.</string>
 		<string lang="zh">每当它受到 $damage$ 时，它会建造一个 $b$燃烧碎片$/b$ 模块并强制放置到你的架子上。</string>
 		<string lang="jp">それが $damage$ を受けるたびに、$b$燃える破片$/b$ モジュールを構築し、あなたのラックに強制的に配置します。</string>
@@ -309,7 +309,7 @@
 </set>
 <set id="description-skill-passive-ondamage-modulefire">
 		<string lang="de">Versieht ein Modul mit $fire$, immer wenn ihm $damage$ zugefügt wird.</string>
-		<string lang="en">Inflicts a module with $fire$ whenever it receives $damage$.</string>
+		<string lang="en">Inflicts a module with $fire$ whenever it takes $damage$.</string>
 		<string lang="fr">Inflige un module avec $fire$, à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">每当它受到 $damage$ 时，使一个模块获得 $fire$。</string>
 		<string lang="jp">$damage$ を受けるたびに、モジュールに $fire$ を付与します。</string>

@@ -33,7 +33,7 @@
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto conectado a um módulo de ameaça</string>
 </set>
 <set id="description-status-modulereplicating">
-		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
+		<string lang="de">Bei Aktivierung stellt dieses Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
 		<string lang="en">On activation, this module will construct a copy of itself. The copy is on $cooldown$ and loses $replicating$.</string>
 		<string lang="fr">A l'activation, ce module construira une copie de lui-même. La copie est sur $cooldown$ et perd $replicating$.</string>
 		<string lang="zh">激活时，此模块将构建自己的副本。副本在 $cooldown$ 上并且失去 $replicating$。</string>
@@ -44,7 +44,7 @@
 		<string lang="pt-br">Na ativação, este módulo construirá uma cópia de si mesmo. A cópia está em $cooldown$ e perde $replicating$.</string>
 </set>
 <set id="description-status-modulereplicating-infinitely">
-		<string lang="de">Bei Aktivierung stellt das Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$.</string>
+		<string lang="de">Bei Aktivierung stellt dieses Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$.</string>
 		<string lang="en">On activation, this module will construct a copy of itself. The copy is on $cooldown$.</string>
 		<string lang="fr">A l'activation, ce module construira une copie de lui-même. La copie est sur $cooldown$.</string>
 		<string lang="zh">激活时，此模块将构建自己的副本。副本在 $cooldown$ 上。</string>
