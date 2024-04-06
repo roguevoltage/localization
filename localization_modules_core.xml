@@ -66,15 +66,15 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
 </set>
 <set id="description-module-collectorhealing">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter geheilt wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character is healed.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur est soigné.</string>
-		<string lang="zh">有角色受到治疗时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤー・キャラの回復時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока исцеляется.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador es curado.</string>
-		<string lang="kr">플레이어 캐릭터가 치유될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador é curado.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $healing$ erhält.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
+		<string lang="zh">有角色受到$healing$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">プレイヤー・キャラが$healing$を受けた時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
+		<string lang="kr">플레이어 캐릭터가 $healing$을 받을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
 </set>
 <set id="description-module-collectorkill">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Kampfteilnehmer stirbt.</string>
@@ -110,7 +110,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é criado.</string>
 </set>
 <set id="description-module-collectortrauma">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $damage$ erhält.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $damage$ nimmt.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character takes $damage$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur subit $damage$.</string>
 		<string lang="zh">有角色受到$damage$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -242,26 +242,26 @@
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
 </set>
 <set id="description-module-effectorpotion">
-		<string lang="de">Heilt den Charakter.</string>
-		<string lang="en">Heals the owner.</string>
-		<string lang="fr">Soigne le propriétaire.</string>
-		<string lang="zh">治疗拥有者。</string>
-		<string lang="jp">所有者を回復。</string>
-		<string lang="ru">Лечит владельца.</string>
-		<string lang="es">Cura al dueño.</string>
-		<string lang="kr">소유자를 치유합니다.</string>
-		<string lang="pt-br">Cura o dono.</string>
+		<string lang="de">Wendet $healing$ auf den Besitzer an.</string>
+		<string lang="en">Applies $healing$ to the owner.</string>
+		<string lang="fr">Applique $healing$ au propriétaire.</string>
+		<string lang="zh">对拥有者施放$healing$。</string>
+		<string lang="jp">所有者に$healing$。</string>
+		<string lang="ru">Применяет $healing$ к владельцу.</string>
+		<string lang="es">Aplica $healing$ al dueño.</string>
+		<string lang="kr">소유자에게 $healing$을 적용합니다.</string>
+		<string lang="pt-br">Aplica $healing$ ao dono.</string>
 </set>
 <set id="description-module-effectorpotion-aoe">
-		<string lang="de">Heilt alle Verbündeten.</string>
-		<string lang="en">Heals all allies.</string>
-		<string lang="fr">Soigne tous les alliés.</string>
-		<string lang="zh">治疗全部盟友。</string>
-		<string lang="jp">仲間全員を回復。</string>
-		<string lang="ru">Лечит всех союзников.</string>
-		<string lang="es">Cura a todos los aliados.</string>
-		<string lang="kr">모든 아군을 치유합니다.</string>
-		<string lang="pt-br">Cura todos os aliados.</string>
+		<string lang="de">Wendet $healing$ auf alle Verbündeten an.</string>
+		<string lang="en">Applies $healing$ to all allies.</string>
+		<string lang="fr">Applique $healing$ à tous les alliés.</string>
+		<string lang="zh">对全部盟友施放$healing$。</string>
+		<string lang="jp">全員の仲間に$healing$。</string>
+		<string lang="ru">Применяет $healing$ ко всем союзникам.</string>
+		<string lang="es">Aplica $healing$ a todos los aliados.</string>
+		<string lang="kr">모든 아군에게 $healing$을 적용합니다.</string>
+		<string lang="pt-br">Aplica $healing$ a todos os aliados.</string>
 </set>
 <set id="description-module-effectorshield">
 		<string lang="de">Versieht einen Verbündeten deiner Wahl mit $shield$.$br$(Dauer: $energy$×3)</string>
@@ -594,18 +594,18 @@
 		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
-		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und heilt ihn/sie um $1$.</string>
-		<string lang="en">Permanently increases the character's max. HP by $1$ and heals them by $1$.</string>
-		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et le soigne de $1$.</string>
-		<string lang="zh">永久提升角色最大生命值$1$，并治疗$1$生命值。</string>
-		<string lang="jp">キャラの最大ＨＰを永久$1$増強し、$1$回復。</string>
-		<string lang="ru">Навсегда увеличивает макс. HP персонажа на $1$ и лечит его на $1$.</string>
-		<string lang="es">Aumenta permanentemente la máx. HP del personaje en $1$ y lo cura en $1$.</string>
-		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ 치유합니다.</string>
-		<string lang="pt-br">Aumenta permanentemente o máx. HP do personagem em $1$ e cura-o em $1$.</string>
+		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1$ $healing$ auf ihn/sie an.</string>
+		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1$ $healing$ to them.</string>
+		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1$ $healing$.</string>
+		<string lang="zh">永久增加角色的最大生命值$1$并对其施加$1$ $healing$。</string>
+		<string lang="jp">キャラの最大ＨＰを$1$永久増加し、$1$ $healing$を適用。</string>
+		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1$ $healing$ к нему/ей.</string>
+		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1$ $healing$ a él/ella.</string>
+		<string lang="kr">캐릭터의 최대 HP를 영구적으로 $1$ 증가시키고 $1$ $healing$을 적용합니다.</string>
+		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1$ $healing$ a ele/ela.</string>
 </set>
 <set id="description-module-toggledupgrader">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$br$Module können nur ein $upgrade$ erhalten.</string>
+		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
 		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。$p$每个$passthroughmodule$仅可拥有一个$br$$upgrade$。</string>
@@ -627,19 +627,19 @@
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2$ $energy$.</string>
 </set>
 <set id="description-module-vaultregeneration">
-		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um alle Spielercharaktere um $1$ zu heilen.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to heal all player characters by $1$.</string>
-		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour soigner tous les personnages joueurs de $1$.</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，治疗所有角色$1$生命值。</string>
-		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、プレイヤー・キャラ全員を$1$回復。</string>
-		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохранённую $energy$ чтобы вылечить всех игроков на $1$.</string>
-		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para curar a todos los personajes jugadores en $1$.</string>
-		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 모든 플레이어 캐릭터를 $1$ 치유합니다.</string>
-		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para curar todos os personagens jogadores em $1$.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1$ $healing$ auf alle Spielercharaktere anzuwenden.</string>
+		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1$ $healing$ to all player characters.</string>
+		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1$ $healing$ à tous les personnages joueurs.</string>
+		<string lang="zh">可充能。$p$在拥有者的回合开始时，消耗$1$储存$energy$，为所有玩家角色施加$1$ $healing$。</string>
+		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、全てのプレイヤーキャラクターに$1$ $healing$を適用。</string>
+		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1$ $healing$ ко всем игрокам.</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1$ $healing$ a todos los personajes jugadores.</string>
+		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴이 시작될 때, 저장된 $energy$를 $1$ 제거해 모든 플레이어 캐릭터에게 $1$ $healing$을 적용합니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1$ $healing$ a todos os personagens jogadores.</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
-		<string lang="en">Can be charged.$p$Whenever the owner receives $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
+		<string lang="en">Can be charged.$p$Whenever the owner takes $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
 		<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
 		<string lang="zh">可充能。$p$拥有者受到$damage$时，消耗$1$储存$energy$，减少拥有者$1$所受伤害。</string>
 		<string lang="jp">充電可能。$p$所有者が$damage$を受けた時、貯蔵$energy$から$1$消費し、ダメージを$1$軽減。</string>

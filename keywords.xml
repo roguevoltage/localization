@@ -142,6 +142,17 @@
         <string lang="kr">&lt;b&gt;5&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;5&lt;/b&gt;</string>
     </set>
+    <set id="$attackicon$">
+        <string lang="de">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="en">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="fr">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="zh">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="jp">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="ru">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="es">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="kr">&lt;sprite name="sword" tint=1&gt;</string>
+        <string lang="pt-br">&lt;sprite name="sword" tint=1&gt;</string>
+    </set>
     <set id="$crownicon$">
         <string lang="de">&lt;sprite name="crown" tint=1&gt;</string>
         <string lang="en">&lt;sprite name="crown" tint=1&gt;</string>
@@ -274,6 +285,28 @@
         <string lang="kr">&lt;b&gt;&lt;sprite name="fox"&gt;여우&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;sprite name="fox"&gt;Raposa&lt;/b&gt;</string>
     </set>
+    <set id="$healing$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Heilung&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Healing&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Soins&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;治疗&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;回復&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Лечение&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Curación&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;치유&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Cura&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$healingicon$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
     <set id="$healingpotion$">
         <string lang="de">&lt;b&gt;&lt;sprite name="healingpotion"&gt;Heiltrank&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;sprite name="healingpotion"&gt;Healing Potion&lt;/b&gt;</string>
@@ -339,6 +372,17 @@
         <string lang="es">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;중력 충전&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;</string>
+    </set>
+    <set id="$gravmanipulationicon$">
+        <string lang="de">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="en">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="fr">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="zh">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="jp">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="ru">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="es">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="kr">&lt;sprite name="grav" tint=1&gt;</string>
+        <string lang="pt-br">&lt;sprite name="grav" tint=1&gt;</string>
     </set>
     <set id="$grav+$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung (+)&lt;/color&gt;&lt;/b&gt;</string>
@@ -603,6 +647,17 @@
         <string lang="es">&lt;b&gt;&lt;color&#61;#E0FF55&gt;&lt;sprite name="power" tint=1&gt;Poderío&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#E0FF55&gt;&lt;sprite name="power" tint=1&gt;힘&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#E0FF55&gt;&lt;sprite name="power" tint=1&gt;Poder&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$modularicon$">
+        <string lang="de">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="en">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="fr">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="zh">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="jp">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="ru">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="es">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="kr">&lt;sprite name="modular" tint=1&gt;</string>
+        <string lang="pt-br">&lt;sprite name="modular" tint=1&gt;</string>
     </set>
     <set id="$damage$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#FF7777&gt;&lt;sprite name="damage" tint=1&gt;Schaden&lt;/color&gt;&lt;/b&gt;</string>
