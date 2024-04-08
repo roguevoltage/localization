@@ -1,7 +1,25 @@
 <localization>
+<set id="description-campstructure-hangar">
+		<string lang="en">Build your own character</string>
+</set>
+<set id="description-campstructure-timevault">
+		<string lang="en">Store a module between runs</string>
+</set>
 <set id="description-campstructure-campfire">
+		<string lang="en">Get an additional module as an option for loot</string>
+</set>
+<set id="description-campstructure-vendingmachine">
+		<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$for $plasma$</string>
+</set>
+<set id="description-campstructure-laboratory">
+	<string lang="en">First Reroll is free</string>
+</set>
+<set id="description-campstructure-telescope">
+	<string lang="en">Get an additional module as an option for loot</string>
+</set>
+<set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
-		<string lang="en">The foundation of every camp</string>
+		<string lang="en">“The foundation of every camp”</string>
 		<string lang="fr">Le début de tout campement</string>
 		<string lang="zh">每个营地的基础</string>
 		<string lang="jp">野営地の基礎</string>
@@ -10,20 +28,9 @@
 		<string lang="kr">모든 야영지의 기초</string>
 		<string lang="pt-br">A fundação de todo acampamento</string>
 </set>
-<set id="description-campstructure-gradarbeacon">
-		<string lang="de">Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
-		<string lang="en">Our only means to contact other survivors</string>
-		<string lang="fr">Notre seul moyen de contacter d'autres survivants</string>
-		<string lang="zh">我们联系其他幸存者的唯一途径</string>
-		<string lang="jp">他の生存者との唯一の連絡手段</string>
-		<string lang="ru">Наш единственный способ связаться с другими выжившими</string>
-		<string lang="es">Nuestro único medio para contactar con otros supervivientes</string>
-		<string lang="kr">다른 생존자들과 접촉할 유일한 수단</string>
-		<string lang="pt-br">Nosso único meio de entrar em contato com outros sobreviventes</string>
-</set>
-<set id="description-campstructure-hangar">
+<set id="quote-campstructure-hangar">
 		<string lang="de">Opa Slopper hat hier an seinen Grav.-Robotern getüftelt</string>
-		<string lang="en">Grandpa Slopper used to tinker on his Grav.-Bots in here</string>
+		<string lang="en">“Grandpa Slopper used to tinker on his Grav.-Bots in here”</string>
 		<string lang="fr">Papi Slopper bricolait généralement ici ses robots grav.</string>
 		<string lang="zh">斯洛普爷爷以前就在这里摆弄他的引力机器人</string>
 		<string lang="jp">スロッパー爺さんが重力ボット弄ってたとこ</string>
@@ -32,9 +39,9 @@
 		<string lang="kr">슬로퍼 할아버지는 여기에서 중력봇을 수리하고는 했습니다</string>
 		<string lang="pt-br">O vovô Slopper costumava mexer em seus robôs grav. aqui</string>
 </set>
-<set id="description-campstructure-powerplant">
+<set id="quote-campstructure-powerplant">
 		<string lang="de">Eine neue Energiequelle für unser Lager</string>
-		<string lang="en">A sustainable source of energy for our camp</string>
+		<string lang="en">“A sustainable source of energy for our camp”</string>
 		<string lang="fr">Une source d'énergie durable pour notre camp</string>
 		<string lang="zh">我们营地的可持续能量源</string>
 		<string lang="jp">野営地にとって持続可能なエネルギー源</string>
@@ -43,9 +50,9 @@
 		<string lang="kr">야영지를 위한 지속 가능한 에너지원</string>
 		<string lang="pt-br">Uma fonte sustentável de energia para nosso acampamento</string>
 </set>
-<set id="description-campstructure-scrapyard">
+<set id="quote-campstructure-scrapyard">
 		<string lang="de">Hier lagern die Bewohner alles Nützliche, auf was sie auf ihren Streifzügen stoßen</string>
-		<string lang="en">Here the residents store everything useful they come across on their forays</string>
+		<string lang="en">“Here the residents store everything useful they come across on their forays”</string>
 		<string lang="fr">Ici, les résidents stockent tout ce qui leur est utile lors de leurs excursions</string>
 		<string lang="zh">幸存者们把冒险中得到的一切有用物资都存放在这里</string>
 		<string lang="jp">住民の便利な戦利品すべての保管先</string>
@@ -53,6 +60,15 @@
 		<string lang="es">Aquí los residentes almacenan todo lo útil que encuentran en sus incursiones</string>
 		<string lang="kr">여기 주민들은 약탈 도중에 찾아낸 모든 유용한 것들을 보관합니다</string>
 		<string lang="pt-br">Aqui os residentes armazenam tudo o que encontram de útil em suas incursões</string>
+</set>
+<set id="quote-campstructure-telescope">
+	<string lang="en">“Wait, is that a $generator$$b$+1$/b$ over there?”</string>
+</set>
+<set id="quote-campstructure-timevault">
+	<string lang="en">“This one we will put in yesterday.”</string>
+</set>
+<set id="quote-campstructure-vendingmachine">
+	<string lang="en">“It got stuck! I want my plasma back!”</string>
 </set>
 <set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
@@ -108,6 +124,29 @@
 		<string lang="es">Yacimiento de chatarra</string>
 		<string lang="kr">폐품 처리장</string>
 		<string lang="pt-br">Ferro-velho</string>
+</set>
+<set id="name-campstructure-vendingmachine">
+	<string lang="de">Modulautomat</string>
+	<string lang="en">Module Vending Machine</string>
+	<string lang="fr">Distributeur de modules</string>
+	<string lang="zh">模块贩售机</string>
+	<string lang="jp">モジュール自動販売機</string>
+	<string lang="ru">Автомат по продаже модулей</string>
+	<string lang="es">Máquina expendedora de módulos</string>
+	<string lang="kr">모듈 자판기</string>
+	<string lang="pt-br">Máquina de venda de módulos</string>
+</set>
+<set id="name-campstructure-moduleworkshop">
+	<string lang="de">Werkhalle</string>
+	<string lang="en">Workshop</string>
+</set>
+<set id="name-campstructure-telescope">
+	<string lang="de">Teleskop</string>
+	<string lang="en">Telescope</string>
+</set>
+<set id="name-campstructure-timevault">
+	<string lang="de">Zeitkapsel</string>
+	<string lang="en">Time Capsule</string>
 </set>
 <set id="unlock-clicktounlock">
 		<string lang="de">&lt;color=#67FF73&gt;Zum Freischalten klicken&lt;/color&gt;</string>
