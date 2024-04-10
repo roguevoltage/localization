@@ -318,17 +318,6 @@
 		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
-<set id="description-module-modifierstormchaser">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">修改一个电流的颜色。$p$在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
-		<string lang="jp">電流の色を変更します。$p$電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
-		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-		<string lang="kr">전류의 색상을 변경합니다.$p$전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-</set>
 <set id="description-module-modifierviral">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
 		<string lang="en">Changes the color of a current.</string>
@@ -457,7 +446,7 @@
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 </set>
 <set id="description-module-toggledgravvacuum">
-		<string lang="de">Versieht ein anderes Modul deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
+		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
 		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one instance of $gravvacuum$.</string>
 		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.</string>
 		<string lang="zh">永久地将 $gravvacuum$ 应用于此机架上的目标 $passthroughmodule$。$p$$passthroughmodule$ 只能有一个 $gravvacuum$ 实例。</string>
@@ -523,7 +512,7 @@
 		<string lang="pt-br">Remove $outoforder$ do módulo alvo neste rack.</string>
 </set>
 <set id="description-module-toggledtransmogrifier">
-		<string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
+		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack, um ein Modul anderen Typs der gleichen Stufe herzustellen.</string>
 		<string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
@@ -534,7 +523,7 @@
 		<string lang="pt-br">Destroi outro módulo alvo neste rack para construir um módulo diferente do mesmo nível.</string>
 </set>
 <set id="description-module-toggledtransmogrifier-cracked">
-		<string lang="de">Zerstört ein anderes Modul deiner Wahl und stellt ein Modul anderen Typs der gleichen Stufe her.</string>
+		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack, um ein Modul anderen Typs der gleichen Stufe herzustellen.</string>
 		<string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">将一个其他模块转换为同一级别的不同模块。</string>
@@ -556,7 +545,7 @@
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
 </set>
 <set id="description-module-turbulence">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the incoming current.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant.</string>
 		<string lang="zh">在一个电流上增加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
@@ -887,17 +876,6 @@
 </set>
 <set id="name-module-modifierselfencrusting">
 		<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-modifierstormchaser">
-		<string lang="de">Sturmjäger-Verstärker $MODIFICATIONVALUE$</string>
-		<string lang="en">Stormchaser Amplifier $MODIFICATIONVALUE$</string>
-		<string lang="fr">Amplificateur Chasseur de Tempête $MODIFICATIONVALUE$</string>
-		<string lang="zh">风暴追逐者放大器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">ストームチェイサーアンプ $MODIFICATIONVALUE$</string>
-		<string lang="ru">Усилитель Охотника за Бурей $MODIFICATIONVALUE$</string>
-		<string lang="es">Amplificador de Cazatormentas $MODIFICATIONVALUE$</string>
-		<string lang="kr">폭풍 추격자 증폭기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Amplificador Caçador de Tempestades $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierviral">
 		<string lang="de">Störmodul $MODIFICATIONVALUE$</string>

@@ -132,7 +132,7 @@
 		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 </set>
 <set id="description-module-defibrillator">
-		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er in Höhe der gespeicherten $energy$ wiederbelebt.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
 		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
 		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
 		<string lang="zh">可充能。$p$如果有角色昏迷，则该角色复活时获得与储存$energy$等值的生命值。</string>
@@ -440,7 +440,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
 		<string lang="zh">改变能量流的颜色。$p$为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
@@ -451,7 +451,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 </set>
 <set id="description-module-modifierplasmacombustion">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
+		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
 		<string lang="zh">为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
@@ -473,8 +473,8 @@
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 </set>
 <set id="description-module-passivemedikit">
-		<string lang="de">Heilt den Charakter zu Beginn jedes Kampfes um $1$ HP.</string>
-		<string lang="en">Heals the owner by $1$ HP at the beginning of each battle.</string>
+		<string lang="de">Wendet zu Beginn jedes Kampfes $1$ $healing$ auf den Besitzer an.</string>
+		<string lang="en">At the beginning of each battle applies $1$ $healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
 		<string lang="zh">每场战斗前治疗拥有者$1$的生命值。</string>
 		<string lang="jp">戦闘開始時に所有者のＨＰを$1$回復。</string>

@@ -44,8 +44,8 @@
 		<string lang="pt-br">Irmão! Espere! Você esqueceu sua $regenerationcell$!$br$Não é o seu equipamento mais importante?$br$Vamos nos livrar daqueles monstros juntos!</string>
 </set>
 <set id="tutorial-camp">
-		<string lang="de">Zurück im Lager kannst du für $plasma$ deine Charactere heilen oder Gebäude wiederherstellen, um spezielle Module zu entdecken.</string>
-		<string lang="en">Back in camp you can use $plasma$ to heal yourself or restore buildings to discover special modules.</string>
+		<string lang="de">Zurück im Lager kannst du deine Charaktere für $plasma$ heilen, oder Gebäude wiederherstellen, in denen du Module kaufen und upgraden kannst.</string>
+		<string lang="en">Back in camp you can use $plasma$ to heal yourself or restore buildings in which you can buy and upgrade modules.</string>
 		<string lang="fr">Retour au camp, vous pouvez utiliser $plasma$ pour vous soigner ou restaurer des bâtiments pour découvrir des modules spéciaux.</string>
 		<string lang="zh">在营地你可以使用$plasma$$br$来治疗自己，或修筑建筑，以发现特殊模块。</string>
 		<string lang="jp">キャンプに戻ると、$plasma$を使って自分を回復したり、建物を修復して特殊モジュールを発見したりできる。</string>
@@ -187,15 +187,15 @@
 		<string lang="pt-br">Avaliação da Batalha</string>
 </set>
 <set id="tutorialwindow-bossshroom-description">
-		<string lang="de">Die starke Gravioaktivität in diesen Sümpfen muss von diesem gruseligen Riesenpilz ausgehen.$br$Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
-		<string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.$br$If we stick to what we have learned, we can defeat it!</string>
-		<string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant.$br$Si nous nous en tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
-		<string lang="zh">这片沼泽的强烈引力活动一定来自这个恐怖的巨型蘑菇！$br$只要按照我们前面所学的做，$br$一定可以打败它！</string>
-		<string lang="jp">この沼地に広がる強い重力活動の原因は、この巨大キノコに違いないよ。$br$経験を活かせば、倒せるはずだ！</string>
-		<string lang="ru">Сильная гравиоактивность в этих болотах, должно быть, исходит от этого страшного гигантского гриба.$br$Если мы будем придерживаться того, что мы узнали, мы сможем победить его!</string>
-		<string lang="es">La fuerte gravioactividad en estos pantanos debe provenir de este aterrador hongo gigante.$br$Si nos atenemos a lo que hemos aprendido, ¡podemos derrotarlo!</string>
-		<string lang="kr">이 늪지대의 강력한 중력 작용은 분명 이 무시무시한 거대 버섯 때문이겠죠.$br$배운대로만 하면 충분히 물리칠 수 있을 거에요!</string>
-		<string lang="pt-br">A forte gravioatividade desses pântanos deve vir deste assustador cogumelo gigante.$br$Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
+		<string lang="de">Die starke Gravioaktivität in diesen Sümpfen muss von diesem gruseligen Riesenpilz ausgehen.$p$Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
+		<string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.$p$If we stick to what we have learned, we can defeat it!</string>
+		<string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant.$p$Si nous nous en tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
+		<string lang="zh">这片沼泽的强烈引力活动一定来自这个恐怖的巨型蘑菇！$p$只要按照我们前面所学的做，$br$一定可以打败它！</string>
+		<string lang="jp">この沼地に広がる強い重力活動の原因は、この巨大キノコに違いないよ。$p$経験を活かせば、倒せるはずだ！</string>
+		<string lang="ru">Сильная гравиоактивность в этих болотах, должно быть, исходит от этого страшного гигантского гриба.$p$Если мы будем придерживаться того, что мы узнали, мы сможем победить его!</string>
+		<string lang="es">La fuerte gravioactividad en estos pantanos debe provenir de este aterrador hongo gigante.$p$Si nos atenemos a lo que hemos aprendido, ¡podemos derrotarlo!</string>
+		<string lang="kr">이 늪지대의 강력한 중력 작용은 분명 이 무시무시한 거대 버섯 때문이겠죠.$p$배운대로만 하면 충분히 물리칠 수 있을 거에요!</string>
+		<string lang="pt-br">A forte gravioatividade desses pântanos deve vir deste assustador cogumelo gigante.$p$Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator-description">
 		<string lang="de">Hast du gesehen, wie die $regenerationcell$ beide Helden geheilt und den $curesensor$ zweimal ausgelöst hat?$p$Er hält jetzt $2$ $energy$.$p$Sensoren verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $b$Akkumulator$/b$, wo sie gespeichert werden kann.</string>
@@ -407,7 +407,7 @@
 		<string lang="pt-br">Carga Grav.</string>
 </set>
 <set id="tutorialwindow-lootaccumulator-description">
-		<string lang="de">Ein $b$Akkumulator$/b$$br$mit einem &lt;color=green&gt;$b$grünen$/b$&lt;/color&gt; Eingang!$p$Das ist äußerst nützlich,$br$um $energy$ zu speichern!</string>
+		<string lang="de">Ein $b$Akkumulator$/b$$br$mit einem &lt;color=green&gt;$b$grünen$/b$&lt;/color&gt; Eingang!$p$Sehr nützlich, um $energy$ zu speichern!</string>
 		<string lang="en">An $b$Accumulator$/b$$br$with a &lt;color=green&gt;$b$green$/b$&lt;/color&gt; input!$p$This is extremely useful$br$to store $energy$!</string>
 		<string lang="fr">Un $b$Accumulateur$/b$$br$avec une entrée &lt;color=green&gt;$b$verte$/b$&lt;/color&gt;!$p$C'est extrêmement utile$br$pour stocker de l'$energy$!</string>
 		<string lang="zh">一块带有&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;输入的$br$$b$蓄电池$/b$！$p$这对于储存$energy$$br$非常有用！</string>
@@ -418,7 +418,7 @@
 		<string lang="pt-br">Um $b$Acumulador$/b$$br$com uma entrada &lt;color=green&gt;$b$verde$/b$&lt;/color&gt; !$p$Isso é extremamente útil$br$para armazenar $energy$!</string>
 </set>
 <set id="tutorialwindow-lootamplifier-description">
-		<string lang="de">Ein $b$Verstärker +1$/b$! Und er wandelt von &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; zu &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;! Das wird im nächsten Kampf eine starke $b$Kettenreaktion$/b$ ermöglichen!$p$Er ist jedoch $cracked$, also wird er $b$nach Gebrauch zerstört$/b$.</string>
+		<string lang="de">Ein $b$Verstärker +1$/b$! Und er wandelt von &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; zu &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;! Das ermöglicht im nächsten Kampf eine starke $b$Kettenreaktion$/b$!$p$Er ist jedoch $cracked$, wird also nach Aktivierung $b$zerstört$/b$.</string>
 		<string lang="en">An $b$Amplifier +1$/b$! And it converts from &lt;color=green&gt;$b$green$/b$&lt;/color&gt; to &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;! This will allow a strong $b$chain reaction$/b$ in the next fight!$p$It is however $cracked$, so it will be $b$destroyed after use$/b$.</string>
 		<string lang="fr">Un $b$Amplificateur +1$/b$! Et il convertit du &lt;color=green&gt;$b$vert$/b$&lt;/color&gt; en &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;! Cela permettra une forte $b$réaction en chaîne$/b$ au prochain combat!$p$Il est $cracked$, donc il sera $b$détruit après utilisation$/b$.</string>
 		<string lang="zh">获得$b$增幅器+1$/b$！它可以将&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;转为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;！在下次战斗发起强力的$b$连锁反应$/b$！$p$但该模块已$cracked$破损，将$b$在使用后销毁$/b$。</string>
@@ -440,7 +440,7 @@
 		<string lang="pt-br">Uma $b$Fábrica de Poções +1$/b$!$p$Irmão, posso usar esta?$br$Eu prometo que também construirei poções de cura para você!</string>
 </set>
 <set id="tutorialwindow-lootplasmaconverter-description">
-		<string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!$br$Jackson, wir werden noch reich!$p$Lass uns ihn vorerst im Rucksack aufbewahren. Ich sage dir, wann es ein guter Moment ist, ihn zu benutzen.</string>
+		<string lang="de">Ein $b$Plasma-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!$br$Jackson, wir werden reich!$p$Lass ihn uns vorerst im Rucksack aufbewahren. Ich sage dir, wenn es ein guter Moment kommt, ihn zu benutzen!</string>
 		<string lang="en">A $b$Plasma Converter$/b$ with a $b$universal$/b$ input jack! Jackson, we will be rich!$p$Let's put it in the backpack for now. I will let you know when it's a good moment to use.</string>
 		<string lang="fr">Un $b$Convertisseur de Plasma$/b$ avec une prise d'entrée $b$universelle$/b$! Jackson, nous allons être riches!$p$Mets-le dans le sac à dos pour l'instant. Je te dirai quand ce sera un bon moment pour l'utiliser.</string>
 		<string lang="zh">带有$b$通用$/b$输入端口的$b$等离子转换器$/b$！杰克逊，这回我们发财了！$p$暂时把它收到背包里。等用的时候我会告诉你的。</string>
@@ -451,7 +451,7 @@
 		<string lang="pt-br">Um $b$Conversor de Plasma$/b$ com um conector de entrada $b$universal$/b$! Que achado incrível!$p$Vamos colocá-lo na mochila por enquanto. Eu te aviso quando for um bom momento para usar.</string>
 </set>
 <set id="tutorialwindow-plasma-description">
-		<string lang="de">Dieses Mal können wir unsere überschüssige $energy$ in $plasma$ umwandeln – die $b$Währung$/b$ dieser zerstörten Welt.$p$Mit $plasma$ kannst du Module kaufen oder Charactere nach dem Kampf wiederbeleben.</string>
+		<string lang="de">Dieses Mal können wir unsere überschüssige $energy$ in $plasma$ umwandeln – die $b$Währung$/b$ dieser zerstörten Welt.$p$Mit $plasma$ kannst du Module kaufen oder Charaktere heilen und wiederbeleben.</string>
 		<string lang="en">This time let's convert our excess $energy$ to $plasma$ – the $b$currency$/b$ of this destroyed world.$p$With $plasma$ you can buy modules or revive characters after the fight.</string>
 		<string lang="fr">Cette fois, convertissons notre excès d'$energy$ en $plasma$ – la $b$monnaie$/b$ de ce monde détruit.$p$Avec $plasma$, vous pouvez acheter des modules ou ressusciter des personnages après le combat.</string>
 		<string lang="zh">这一次让我们把多余的$energy$转化为$plasma$——当前世界的$b$通用货币$/b$。$p$战斗结束后你可以使用$plasma$购买模块或复活角色。</string>
