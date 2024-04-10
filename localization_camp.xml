@@ -9,13 +9,16 @@
 		<string lang="en">Get an additional module as an option for loot</string>
 </set>
 <set id="description-campstructure-vendingmachine">
-		<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$for $plasma$</string>
+		<string lang="en">Buy $cracked$ modules$br$for $plasma$</string>
 </set>
 <set id="description-campstructure-laboratory">
 	<string lang="en">First Reroll is free</string>
 </set>
 <set id="description-campstructure-telescope">
 	<string lang="en">Get an additional module as an option for loot</string>
+</set>
+<set id="description-campstructure-workshop">
+	<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$for $plasma$</string>
 </set>
 <set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
@@ -69,6 +72,9 @@
 </set>
 <set id="quote-campstructure-vendingmachine">
 	<string lang="en">“It got stuck! I want my plasma back!”</string>
+</set>
+<set id="quote-campstructure-workshop">
+	<string lang="en"></string>
 </set>
 <set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
@@ -135,6 +141,10 @@
 	<string lang="es">Máquina expendedora de módulos</string>
 	<string lang="kr">모듈 자판기</string>
 	<string lang="pt-br">Máquina de venda de módulos</string>
+</set>
+<set id="name-campstructure-workshop">
+	<string lang="de">Modulwerkstatt</string>
+	<string lang="en">Module Workshop</string>
 </set>
 <set id="name-campstructure-moduleworkshop">
 	<string lang="de">Werkhalle</string>
