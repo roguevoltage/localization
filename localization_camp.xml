@@ -1,24 +1,27 @@
 <localization>
 <set id="description-campstructure-hangar">
-		<string lang="en">Build your own character</string>
+    <string lang="de">Bau deinen eigenen Charakter</string>
+	<string lang="en">Build your own character</string>
 </set>
 <set id="description-campstructure-timevault">
-		<string lang="en">Store a module between runs</string>
+    <string lang="de">Lagere ein Modul zwischen Runs</string>
+	<string lang="en">Store a module between runs</string>
 </set>
 <set id="description-campstructure-campfire">
-		<string lang="en">Get an additional module as an option for loot</string>
+    <string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
+	<string lang="en">Get an additional module as an option for loot</string>
 </set>
 <set id="description-campstructure-vendingmachine">
-		<string lang="en">Buy $cracked$ modules$br$for $plasma$</string>
-</set>
-<set id="description-campstructure-laboratory">
-	<string lang="en">First Reroll is free</string>
+    <string lang="de">Kaufe für $plasma$ Verbrauchsmodule mit $cracked$</string>
+	<string lang="en">Buy $cracked$ modules$br$with $plasma$</string>
 </set>
 <set id="description-campstructure-telescope">
+    <string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
 	<string lang="en">Get an additional module as an option for loot</string>
 </set>
 <set id="description-campstructure-workshop">
-	<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$for $plasma$</string>
+    <string lang="en">Kaufe for $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
+	<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$with $plasma$</string>
 </set>
 <set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
@@ -32,7 +35,7 @@
 		<string lang="pt-br">A fundação de todo acampamento</string>
 </set>
 <set id="quote-campstructure-hangar">
-		<string lang="de">Opa Slopper hat hier an seinen Grav.-Robotern getüftelt</string>
+		<string lang="de">“Gemeinsam setzen wir das Werk von Opa Slopper fort”</string>
 		<string lang="en">“Grandpa Slopper used to tinker on his Grav.-Bots in here”</string>
 		<string lang="fr">Papi Slopper bricolait généralement ici ses robots grav.</string>
 		<string lang="zh">斯洛普爷爷以前就在这里摆弄他的引力机器人</string>
@@ -65,16 +68,20 @@
 		<string lang="pt-br">Aqui os residentes armazenam tudo o que encontram de útil em suas incursões</string>
 </set>
 <set id="quote-campstructure-telescope">
-	<string lang="en">“Wait, is that a Generator +1 over there?”</string>
+    <string lang="de">“Warte, sehe ich dort drüben einen Generator +1?”</string>
+	<string lang="en">“Wait, do I see a Generator +1 over there?”</string>
 </set>
 <set id="quote-campstructure-timevault">
+    <string lang="de">“Oh, das packen wir also morgen rein.”</string>
 	<string lang="en">“Oh, so this one we will put in tomorrow.”</string>
 </set>
 <set id="quote-campstructure-vendingmachine">
+    <string lang="de">“Es ist stecken geblieben! Ich will mein Plasma zurück!”</string>
 	<string lang="en">“It got stuck! I want my plasma back!”</string>
 </set>
 <set id="quote-campstructure-workshop">
-	<string lang="en"></string>
+	<string lang="de">“Ich habe noch Plasma übrig, was soll ich mir holen?”</string>
+    <string lang="en">“I still have plasma left, what should I get?”</string>
 </set>
 <set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
@@ -99,15 +106,15 @@
 		<string lang="pt-br">Baliza Gradar</string>
 </set>
 <set id="name-campstructure-hangar">
-		<string lang="de">Hangar</string>
-		<string lang="en">Hangar</string>
-		<string lang="fr">Hangar</string>
-		<string lang="zh">机库</string>
-		<string lang="jp">格納庫</string>
-		<string lang="ru">Ангар</string>
-		<string lang="es">Hangar</string>
-		<string lang="kr">격납고</string>
-		<string lang="pt-br">Hangar</string>
+		<string lang="de">Mech-Hangar</string>
+		<string lang="en">Mech Hangar</string>
+        <string lang="fr">Hangar de Mechs</string>
+        <string lang="zh">机甲机库</string>
+        <string lang="jp">メックハンガー</string>
+        <string lang="ru">Ангар для мехов</string>
+        <string lang="es">Hangar de Mechs</string>
+        <string lang="kr">메크 행거</string>
+        <string lang="pt-br">Hangar de Mechs</string>
 </set>
 <set id="name-campstructure-powerplant">
 		<string lang="de">Kraftwerk</string>
@@ -146,10 +153,6 @@
 	<string lang="de">Modulwerkstatt</string>
 	<string lang="en">Module Workshop</string>
 </set>
-<set id="name-campstructure-moduleworkshop">
-	<string lang="de">Werkhalle</string>
-	<string lang="en">Workshop</string>
-</set>
 <set id="name-campstructure-telescope">
 	<string lang="de">Teleskop</string>
 	<string lang="en">Telescope</string>
@@ -159,10 +162,16 @@
 	<string lang="en">Time Capsule</string>
 </set>
 <set id="unlock-alreadydownpayment">
+        <string lang="de">&lt;color=#67FF73&gt;Diesen Besuch erfolgreich eine Anzahlung geleistet&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#67FF73&gt;Successfully put downpayment this visit&lt;/color&gt;</string>
 </set>
 <set id="unlock-allowsdownpayment">
+        <string lang="de">Diesen Besuch $1$ $plasma$ Anzahlung leisten</string>
 		<string lang="en">Put $1$ $plasma$ as downpayment this visit</string>
+</set>
+<set id="unlock-notenoughplasma">
+        <string lang="de">Nicht genug $plasma$ für Anzahlung</string>
+		<string lang="en">Not enough $plasma$ for downpayment</string>
 </set>
 <set id="unlock-clicktounlock">
 		<string lang="de">&lt;color=#67FF73&gt;Zum Freischalten klicken&lt;/color&gt;</string>
@@ -198,6 +207,7 @@
 		<string lang="pt-br">&lt;color=#67FF73&gt;Desbloqueando&lt;/color&gt;</string>
 </set>
 <set id="scope-notpartofearlyaccess">
+        <string lang="de">Wird während des Early Access entwickelt</string>
 		<string lang="en">Will be developed during Early Access</string>
 </set>
 </localization>
