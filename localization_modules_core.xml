@@ -242,7 +242,7 @@
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
 </set>
 <set id="description-module-effectorpotion">
-		<string lang="de">Wendet $healing$ auf den Besitzer an.</string>
+		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
 		<string lang="en">Applies $healing$ to the owner.</string>
 		<string lang="fr">Applique $healing$ au propriétaire.</string>
 		<string lang="zh">对拥有者施放$healing$。</string>
@@ -418,7 +418,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$3 oder mehr $grav+$$/b$ hat.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$3 oder mehr $grav+$$/b$ hat.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$3 ou plus $grav+$$/b$.</string>
 		<string lang="zh">改变能量流的颜色。$p$如果拥有者有$b$至少3点$grav+$$/b$，则增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
@@ -429,7 +429,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$3 ou mais $grav+$$/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Besitzer $b$2 oder weniger HP$/b$ hat.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$2 oder weniger HP$/b$ hat.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$2 or less HP$/b$.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$2 PV ou moins$/b$.</string>
 		<string lang="zh">改变能量流的颜色。$p$如果拥有者的$b$生命值小于等于2点$/b$，则增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
@@ -473,7 +473,7 @@
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 </set>
 <set id="description-module-passivemedikit">
-		<string lang="de">Wendet zu Beginn jedes Kampfes $1$ $healing$ auf den Besitzer an.</string>
+		<string lang="de">Wendet zu Beginn jedes Kampfes $1$ $healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1$ $healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
 		<string lang="zh">每场战斗前治疗拥有者$1$的生命值。</string>
