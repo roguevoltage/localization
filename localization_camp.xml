@@ -62,10 +62,10 @@
 		<string lang="pt-br">Aqui os residentes armazenam tudo o que encontram de útil em suas incursões</string>
 </set>
 <set id="quote-campstructure-telescope">
-	<string lang="en">“Wait, is that a $generator$$b$+1$/b$ over there?”</string>
+	<string lang="en">“Wait, is that a Generator +1 over there?”</string>
 </set>
 <set id="quote-campstructure-timevault">
-	<string lang="en">“This one we will put in yesterday.”</string>
+	<string lang="en">“Oh, so this one we will put in tomorrow.”</string>
 </set>
 <set id="quote-campstructure-vendingmachine">
 	<string lang="en">“It got stuck! I want my plasma back!”</string>
@@ -148,6 +148,12 @@
 	<string lang="de">Zeitkapsel</string>
 	<string lang="en">Time Capsule</string>
 </set>
+<set id="unlock-alreadydownpayment">
+		<string lang="en">&lt;color=#67FF73&gt;Successfully put downpayment this visit&lt;/color&gt;</string>
+</set>
+<set id="unlock-allowsdownpayment">
+		<string lang="en">Put $1$ $plasma$ as downpayment this visit</string>
+</set>
 <set id="unlock-clicktounlock">
 		<string lang="de">&lt;color=#67FF73&gt;Zum Freischalten klicken&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#67FF73&gt;Click to unlock&lt;/color&gt;</string>
@@ -160,15 +166,15 @@
 		<string lang="pt-br">&lt;color=#67FF73&gt;Clique para desbloquear&lt;/color&gt;</string>
 </set>
 <set id="unlock-requirement">
-		<string lang="de">Benötigt: </string>
-		<string lang="en">Requires:</string>
-		<string lang="fr">Prérequis: </string>
-		<string lang="zh">要求：</string>
-		<string lang="jp">要：</string>
-		<string lang="ru">Требуется: </string>
-		<string lang="es">Requiere: </string>
-		<string lang="kr">요구사항:</string>
-		<string lang="pt-br">Requer: </string>
+		<string lang="de">Benötigt: $REQUIREMENT$</string>
+		<string lang="en">Requires: $REQUIREMENT$</string>
+		<string lang="fr">Prérequis: $REQUIREMENT$</string>
+		<string lang="zh">要求：$REQUIREMENT$</string>
+		<string lang="jp">要：$REQUIREMENT$</string>
+		<string lang="ru">Требуется:$REQUIREMENT$</string>
+		<string lang="es">Requiere: $REQUIREMENT$</string>
+		<string lang="kr">요구사항: $REQUIREMENT$</string>
+		<string lang="pt-br">Requer: $REQUIREMENT$</string>
 </set>
 <set id="unlock-unlocking">
 		<string lang="de">&lt;color=#67FF73&gt;Wird freigeschaltet&lt;/color&gt;</string>
@@ -180,5 +186,8 @@
 		<string lang="es">&lt;color=#67FF73&gt;Desbloqueando&lt;/color&gt;</string>
 		<string lang="kr">&lt;color=#67FF73&gt;해금&lt;/color&gt;</string>
 		<string lang="pt-br">&lt;color=#67FF73&gt;Desbloqueando&lt;/color&gt;</string>
+</set>
+<set id="scope-notpartofearlyaccess">
+		<string lang="en">Will be developed during Early Access</string>
 </set>
 </localization>
