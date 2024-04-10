@@ -117,6 +117,94 @@
 <set id="description-module-hotpotato">
 		<string lang="en">At the beginning of the owner's turn, inflict them with $grav+2$.$p$At the end of the owner's turn deals $1damage$ to them.</string>
 </set>
+	<set id="name-module-collectormalfunction">
+	<string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
+	<string lang="en">Malfunction Sensor $MODIFICATIONVALUE$</string>
+	<string lang="fr">Capteur de Panne $MODIFICATIONVALUE$</string>
+	<string lang="zh">故障感应器 $MODIFICATIONVALUE$</string>
+	<string lang="jp">故障センサー $MODIFICATIONVALUE$</string>
+	<string lang="ru">Сенсор Поломки $MODIFICATIONVALUE$</string>
+	<string lang="es">Sensor de Malfunción $MODIFICATIONVALUE$</string>
+	<string lang="kr">고장 센서 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Sensor de Malfuncionamento $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-collectormalfunction">
+	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is $outoforder$ or $cooldown$.</string>
+	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
+	<string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+	<string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль $outoforder$ или $cooldown$.</string>
+	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo está $outoforder$ o en $cooldown$.</string>
+	<string lang="kr">모듈이 $outoforder$ 또는 $cooldown$일 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo está $outoforder$ ou em $cooldown$.</string>
+</set>
+<set id="name-module-effectorgravamplification">
+	<string lang="de">Grav. Verstärker $MODIFICATIONVALUE$</string>
+	<string lang="en">Grav. Amplifier $MODIFICATIONVALUE$</string>
+	<string lang="fr">Amplificateur Grav. $MODIFICATIONVALUE$</string>
+	<string lang="zh">引力放大器 $MODIFICATIONVALUE$</string>
+	<string lang="jp">重力増幅器 $MODIFICATIONVALUE$</string>
+	<string lang="ru">Грав. Усилитель $MODIFICATIONVALUE$</string>
+	<string lang="es">Amplificador Grav. $MODIFICATIONVALUE$</string>
+	<string lang="kr">Grav. Amplifier $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Amplificador Grav. $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-effectorgravamplification">
+	<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
+	<string lang="en">Inflicts target combatant with $gravamplification$.$br$(Duration: $energy$×3).</string>
+	<string lang="fr">Inflige $gravamplification$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
+	<string lang="zh">让目标获得 $gravamplification$，持续 $energy$×3。</string>
+	<string lang="jp">ターゲットの戦闘者に$gravamplification$を与えます。$br$(持続時間：$energy$×3)。</string>
+	<string lang="ru">Накладывает $gravamplification$ на цель.$br$(Продолжительность: $energy$×3).</string>
+	<string lang="es">Inflige $gravamplification$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
+	<string lang="kr">대상 전투원에게 $gravamplification$ 부여합니다.$br$(지속시간: $energy$×3).</string>
+	<string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
+</set>
+<set id="name-module-generatorbomb">
+	<string lang="de">Explosiver Generator</string>
+	<string lang="en">Explosive Generator</string>
+	<string lang="fr">Générateur Explosif</string>
+	<string lang="zh">爆炸发电机</string>
+	<string lang="jp">爆発発電機</string>
+	<string lang="ru">Взрывной Генератор</string>
+	<string lang="es">Generador Explosivo</string>
+	<string lang="kr">폭발 발전기</string>
+	<string lang="pt-br">Gerador Explosivo</string>
+</set>
+<set id="description-module-generatorbomb">
+	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ und erzeugt ein $b$Zeitbomben-Modul$/b$</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation and creates a $b$Time Bomb Module$/b$</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation et crée un module $b$Bombe à retardement$/b$</string>
+	<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$并生成一个$b$定时炸弹模块$/b$</string>
+	<string lang="jp">アクティベート時に$b$$GENERATIONVALUE$$/b$ $energy$を生成し、$b$タイム ボム モジュール$/b$を作成します</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации и создает модуль $b$Временная бомба$/b$</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación y crea un módulo $b$Bomba de Tiempo$/b$</string>
+	<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 $b$시한폭탄 모듈$/b$을 생성합니다</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
+</set>
+<set id="name-module-passivestoragechargerandom">
+	<string lang="de">unpräziese Lade Station </string>
+	<string lang="en">Unprecise Charging Station </string>
+	<string lang="fr">Station de Charge Aléatoire</string>
+	<string lang="zh">不精确充电站</string>
+	<string lang="jp">非精密充電ステーション</string>
+	<string lang="ru">Неточная Зарядная Станция</string>
+	<string lang="es">Estación de Carga no Precisa</string>
+	<string lang="kr">불명확한 충전소</string>
+	<string lang="pt-br">Estação de Carregamento Imprópria</string>
+</set>
+<set id="description-module-passivestoagechargerandom">
+	<string lang="de">Läd am anfang des Zuges eine zufälliges $storagemodule$ um $1$ auf</string>
+	<string lang="en">At the beginning of the turn, charges a random $storagemodule$ by $1$</string>
+	<string lang="fr">Charge un $storagemodule$ aléatoire de $1$ au début du tour</string>
+	<string lang="zh">在回合开始时，将一个随机的$storagemodule$充电$1$</string>
+	<string lang="jp">ターンの開始時にランダムな$storagemodule$を$1$で充電します</string>
+	<string lang="ru">В начале хода заряжает случайный $storagemodule$ на $1$</string>
+	<string lang="es">Al comienzo del turno, carga un $storagemodule$ aleatorio en $1$</string>
+	<string lang="kr">턴이 시작될 때 무작위 $storagemodule$을 $1$로 충전합니다</string>
+	<string lang="pt-br">No início do turno, carrega um $storagemodule$ aleatório em $1$</string>
+</set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
 		<string lang="en">Pulsar</string>
