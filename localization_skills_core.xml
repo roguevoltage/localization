@@ -33,7 +33,7 @@
 		<string lang="pt-br">Remove todos os $might$ para aplicar $gravrecoil$ a todos os módulos no rack de um inimigo.</string>
 </set>
 <set id="description-skill-damageinheightofpower">
-		<string lang="de">Verursacht $damage$ in Höhe der $might$</string>
+		<string lang="de">Fügt $damage$ in Höhe der $might$ zu</string>
 		<string lang="en">Deals $damage$ in height of $might$</string>
 		<string lang="fr">Inflige des dégâts équivalents à la $might$</string>
 		<string lang="zh">造成与$might$等值的$damage$。</string>
@@ -99,7 +99,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo e aplica $gravamplification$.</string>
 </set>
 <set id="description-skill-gravimplode">
-		<string lang="de">Entfernt alle $grav+$ auf dem Ziel und verursacht ebensoviel $damage$.</string>
+		<string lang="de">Entfernt alle $grav+$ auf dem Ziel, um ebensoviel $damage$ zuzufügen.</string>
 		<string lang="en">Removes all $grav+$ from a target to deal that much $damage$.</string>
 		<string lang="fr">Enlève tous les $grav+$ sur la cible et inflige des $damage$.</string>
 		<string lang="zh">移除目标全部$grav+$，造成等量$damage$。</string>
@@ -110,7 +110,7 @@
 		<string lang="pt-br">Remove todos os $grav+$ de um alvo para infligir tanto $damage$.</string>
 </set>
 <set id="description-skill-gravimplode-bossshroom">
-		<string lang="de">Entfernt alle $grav+$ auf dem Ziel und verursacht ebensoviel $damage$.</string>
+		<string lang="de">Entfernt alle $grav+$ auf dem Ziel, um ebensoviel $damage$ zuzufügen.</string>
 		<string lang="en">Removes all $grav+$ from a target to deal that much $damage$.</string>
 		<string lang="fr">Enlève tous les $grav+$ sur la cible et inflige des $damage$.</string>
 		<string lang="zh">移除目标全部$grav+$，造成等量$damage$。</string>
@@ -120,7 +120,7 @@
 		<string lang="kr">대상의 모든 $grav+$를 제거해 그와 동일한 $damage$를 줍니다.</string>
 </set>
 <set id="description-skill-gravimplode-one">
-		<string lang="de">Entfernt $grav+1$ auf einem Gegner und verursacht $1damage$.</string>
+		<string lang="de">Entfernt $grav+1$ auf einem Gegner, um $1damage$ zuzufügen.</string>
 		<string lang="en">Removes $grav+1$ on an enemy to inflict $1damage$.</string>
 		<string lang="fr">Implose $grav+1$ sur la cible et inflige $1damage$.</string>
 		<string lang="zh">移除敌人所受的$grav+1$，并造成$1damage$。</string>
@@ -319,7 +319,7 @@
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $gravrecoil$</string>
 </set>
 <set id="description-skill-moduleplasmacombustion">
-		<string lang="de">Verursacht $d1amage$ und versieht ein Modul mit $plasmacombustion$.</string>
+		<string lang="de">Fügt $d1amage$ zu und versieht ein Modul mit $plasmacombustion$.</string>
 		<string lang="en">Deals $1damage$ and inflicts a module with $plasmacombustion$.</string>
 		<string lang="fr">Inflige $1damage$ et applique $plasmacombustion$ à un module.</string>
 		<string lang="zh">造成$1damage$并对一个模块施放$plasmacombustion$。</string>
