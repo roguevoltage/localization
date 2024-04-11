@@ -1134,4 +1134,26 @@
 		<string lang="kr">가속 셀 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-generatorstorm">
+        <string lang="de">Sturmjäger-Generator</string>
+		<string lang="en">Stormseeker Generator</string>
+        <string lang="fr">Générateur de Chasseur de Tempête</string>
+        <string lang="zh">风暴追踪器发电机</string>
+        <string lang="jp">ストームシーカージェネレーター</string>
+        <string lang="ru">Генератор Штормоискателя</string>
+        <string lang="es">Generador de Cazatormentas</string>
+        <string lang="kr">폭풍 추적기 발전기</string>
+        <string lang="pt-br">Gerador de Caçador de Tempestades</string>
+</set>
+<set id="description-module-generatorstorm">
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$。</string>
+		<string lang="jp">$b$$GENERATIONVALUE$$/b$ $energy$を生成します。</string>
+		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
+		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
+		<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
+		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
+</set>
 </localization>
