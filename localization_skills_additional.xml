@@ -275,7 +275,7 @@
 		<string lang="pt-br">Causa $1damage$ a um inimigo e aplica $grav-1$ a todos os aliados.</string>
 </set>
 <set id="description-skill-passive-ondamage-gravpos">
-		<string lang="de">Fügt dem Angreifer $grav+1$ zu, immer wenn er $damage$ nimmt.</string>
+		<string lang="de">Fügt dem Angreifer $grav+1$ zu, immer wenn der Besitzer $damage$ nimmt.</string>
 		<string lang="en">Whenever it takes $damage$, inflicts the attacker with $grav+1$.</string>
 		<string lang="fr">Inflige $grav+1$ à l'attaquant, à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">每当它受到 $damage$ 时，使攻击者获得 $grav+1$。</string>
@@ -1047,5 +1047,27 @@
 		<string lang="es">Vulnerabilidad</string>
 		<string lang="kr">취약점</string>
 		<string lang="pt-br">Vulnerabilidade</string>
+</set>
+<set id="name-skill-snap-conditional-grav">
+        <string lang="de">Grav.-Schnappen</string>
+        <string lang="en">Grav. Snap</string>
+        <string lang="fr">Happe Grav.</string>
+        <string lang="zh">引力捕捉</string>
+        <string lang="jp">重力スナップ</string>
+        <string lang="ru">Грав. Хватка</string>
+        <string lang="es">Grav. Mordida</string>
+        <string lang="kr">중력 스냅</string>
+        <string lang="pt-br">Grav. Mordida</string>
+</set>
+<set id="description-skill-snap-conditional-grav">
+        <string lang="de">Fügt $1$ $damage$ zu.$p$Wenn das Ziel $grav+2$ oder mehr hat, füge zusätzlichen $1$ $damage$ zu und entferne $grav+1$.</string>
+        <string lang="en">Deals $1$ $damage$.$p$If target has $grav+2$ or more, remove $grav+1$ to deal an additional $1$ $damage$.</string>
+        <string lang="fr">Inflige $1$ $damage$.$p$Si la cible a $grav+2$ ou plus, retirez $grav+1$ pour infliger un $damage$ supplémentaire de $1$.</string>
+        <string lang="zh">造成 $1$ $damage$.$p$如果目标有 $grav+2$ 或更多, 移除 $grav+1$ 造成额外 $1$ $damage$.</string>
+        <string lang="jp">$1$ $damage$ を与える。$p$対象が $grav+2$ 以上の場合、$grav+1$ を取り除いて追加で $1$ $damage$ を与える。</string>
+        <string lang="ru">Наносит $1$ $damage$.$p$Если цель имеет $grav+2$ или больше, удаляет $grav+1$ для нанесения дополнительного $1$ $damage$.</string>
+        <string lang="es">Inflige $1$ $damage$.$p$Si el objetivo tiene $grav+2$ o más, elimina $grav+1$ para infligir un $damage$ adicional de $1$.</string>
+        <string lang="kr">$1$ $damage$를 줍니다.$p$대상이 $grav+2$ 이상인 경우, $grav+1$을 제거하여 추가 $1$ $damage$를 줍니다.</string>
+        <string lang="pt-br">Causa $1$ $damage$.$p$Se o alvo tiver $grav+2$ ou mais, remova $grav+1$ para causar um $damage$ adicional de $1$.</string>
 </set>
 </localization>
