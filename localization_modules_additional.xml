@@ -341,7 +341,15 @@
 		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$50% de chance$/b$ de não serem destruídos quando ativados.</string>
 </set>
 <set id="description-module-passivegravdissipator">
+        <string lang="de">Zu Beginn des Zuges des Charakters, entferne $grav+1$ von allen Charakteren.</string>
 		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
+        <string lang="fr">Au début du tour du propriétaire, retire $grav+1$ de tous les personnages joueurs.</string>
+        <string lang="zh">在拥有者回合开始时，从所有玩家角色中移除 $grav+1$。</string>
+        <string lang="jp">所有者のターンの開始時に、全てのプレイヤー キャラクターから$grav+1$を取り除きます。</string>
+        <string lang="ru">В начале хода владельца, удаляет $grav+1$ у всех игроков.</string>
+        <string lang="es">Al comienzo del turno del propietario, elimina $grav+1$ de todos los personajes jugadores.</string>
+        <string lang="kr">소유자의 턴이 시작될 때, 모든 플레이어 캐릭터로부터 $grav+1$을 제거합니다.</string>
+        <string lang="pt-br">No início do turno do dono, remove $grav+1$ de todos os personagens jogadores.</string>
 </set>
 <set id="description-module-passiveshockabsorber">
 		<string lang="de">Wenn ein anderes Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
@@ -389,6 +397,13 @@
 <set id="description-module-storagecellstorm">
 		<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
 		<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after a turn of $lightning$ or $storm$.</string>
+        <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après un tour de $lightning$ ou $storm$.</string>
+        <string lang="zh">在 $lightning$ 或 $storm$ 的回合后充能 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">$lightning$または$storm$のターン後に$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
+        <string lang="ru">Заряжается $b$$SENSORVALUE$$/b$ $energy$ после хода $lightning$ или $storm$.</string>
+        <string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después de un turno de $lightning$ o $storm$.</string>
+        <string lang="kr">$lightning$ 또는 $storm$의 턴 후 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após um turno de $lightning$ ou $storm$.</string>
 </set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
@@ -875,7 +890,15 @@
 		<string lang="pt-br">Modificador Orgânico $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierselfencrusting">
+        <string lang="de">Selbstverkrustender Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur Auto-Croûtant $MODIFICATIONVALUE$</string>
+        <string lang="zh">自包覆放大器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">自己包覆増幅器 $MODIFICATIONVALUE$</string>
+        <string lang="ru">Самооблагающийся Усилитель $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador Auto-Incrustante $MODIFICATIONVALUE$</string>
+        <string lang="kr">자기 포장 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador Auto-Incrustante $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierviral">
 		<string lang="de">Störmodul $MODIFICATIONVALUE$</string>
@@ -957,6 +980,13 @@
 <set id="name-module-storagecellstorm">
 		<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
 		<string lang="en">Storm Cell $MODIFICATIONVALUE$</string>
+        <string lang="fr">Cellule de Tempête $MODIFICATIONVALUE$</string>
+        <string lang="zh">风暴电池 $MODIFICATIONVALUE$</string>
+        <string lang="jp">ストームセル $MODIFICATIONVALUE$</string>
+        <string lang="ru">Штормовая Ячейка $MODIFICATIONVALUE$</string>
+        <string lang="es">Célula de Tormenta $MODIFICATIONVALUE$</string>
+        <string lang="kr">폭풍 셀 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Célula de Tempestade $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggleddisassembler">
 		<string lang="de">Demontierer</string>
