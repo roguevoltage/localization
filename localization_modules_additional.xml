@@ -33,7 +33,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é quebrado.</string>
 </set>
 <set id="description-module-collectorgravneg">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $grav-$ erhält.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav-$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav-$ is applied to a player character.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un personnage joueur reçoit $grav-$.</string>
 		<string lang="zh">每当一个玩家角色获得 $grav-$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
@@ -132,7 +132,7 @@
 		<string lang="pt-br">Inflige $damage$ ao dono.</string>
 </set>
 <set id="description-module-effectorrevitalizer">
-		<string lang="de">Wendet $healing$ auf einen Spielercharakter deiner Wahl an.</string>
+		<string lang="de">Wendet $healing$ auf einen Charakter deiner Wahl an.</string>
 		<string lang="en">Applies $healing$ to target player character.</string>
 		<string lang="fr">Applique $healing$ au personnage joueur ciblé.</string>
 		<string lang="zh">对目标玩家角色施放 $healing$。</string>

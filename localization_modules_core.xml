@@ -55,7 +55,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro módulo é destruído.</string>
 </set>
 <set id="description-module-collectorgravpos">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $grav+$ erhält.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav+$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav+$ is applied to a player character.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque $grav+$ est appliqué à un personnage joueur.</string>
 		<string lang="zh">有角色受到$grav+$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -66,7 +66,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
 </set>
 <set id="description-module-collectorhealing">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $healing$ erhält.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
 		<string lang="zh">有角色受到$healing$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -110,7 +110,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é criado.</string>
 </set>
 <set id="description-module-collectortrauma">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Spielercharakter $damage$ nimmt.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $damage$ nimmt.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character takes $damage$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur subit $damage$.</string>
 		<string lang="zh">有角色受到$damage$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -583,7 +583,7 @@
 		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.</string>
 </set>
 <set id="description-module-toggledgrenadevulnerability">
-		<string lang="de">Versieht alle Gegner und Spielercharaktere mit $vulnerable$. (Dauer: 6)</string>
+		<string lang="de">Versieht alle Gegner und Charaktere mit $vulnerable$. (Dauer: 6)</string>
 		<string lang="en">Applies $vulnerable$ to all enemies and player characters. (Duration: 6)</string>
 		<string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
 		<string lang="zh">为所有敌人及己方角色施加$vulnerable$。（持续时间：6）</string>
@@ -627,7 +627,7 @@
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2$ $energy$.</string>
 </set>
 <set id="description-module-vaultregeneration">
-		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1$ $healing$ auf alle Spielercharaktere anzuwenden.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1$ $healing$ auf alle Charaktere anzuwenden.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1$ $healing$ to all player characters.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1$ $healing$ à tous les personnages joueurs.</string>
 		<string lang="zh">可充能。$p$在拥有者的回合开始时，消耗$1$储存$energy$，为所有玩家角色施加$1$ $healing$。</string>
