@@ -227,6 +227,72 @@
 	<string lang="kr">턴이 시작될 때 무작위 $storagemodule$을 $1$로 충전합니다</string>
 	<string lang="pt-br">No início do turno, carrega um $storagemodule$ aleatório em $1$</string>
 </set>
+<set id="name-module-collectorcollector">
+	<string lang="de">Sensor-Sensor</string>
+	<string lang="en">Sensor Sensor</string>
+	<string lang="fr">Collecteur Collecteur</string>
+	<string lang="zh">收集器收集器</string>
+	<string lang="jp">コレクターコレクター</string>
+	<string lang="ru">Коллектор Коллектор</string>
+	<string lang="es">Colector Colector</string>
+	<string lang="kr">수집기 수집기</string>
+
+</set>
+<set id="description-module-passivestoagechargerandom">
+	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderer Sensor geladen wird.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another sensor is charged.</string>
+	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre capteur est chargé.</string>
+	<string lang="zh">每当另一个传感器充电时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+	<string lang="jp">他のセンサーが充電されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой сенсор заряжается.</string>
+	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se carga otro sensor.</string>
+	<string lang="kr">다른 센서가 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro sensor é carregado.</string>
+</set>
+<set id="name-module-storagecellselfcharging-proximity">
+	<string lang="de">Enthaltsame Zelle</string>
+	<string lang="en">Austerity Cell</string>
+	<string lang="fr">Cellule de Rétention</string>
+	<string lang="zh">节俭电池</string>
+	<string lang="jp">縁故セル</string>
+	<string lang="ru">Спартанская Ячейка</string>
+	<string lang="es">Celda de Austeridad</string>
+	<string lang="kr">절약 셀</string>
+	<string lang="pt-br">Célula de Austeridade</string>
+</set>
+<set id="description-module-storagecellselfcharging-proximity">
+	<string lang="de">Wird am am anfang des Zuges um $1$ $energy$ geladen wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt ist.</string>
+	<string lang="en">Charges by $1$ $energy$ at the beginning of the turn if another combatant is on the same time step.</string>
+	<string lang="fr">Se charge de $1$ $energy$ au début du tour si un autre combattant est sur la même étape de temps.</string>
+	<string lang="zh">如果另一个战斗者在同一时间步上，回合开始时充电$1$ $energy$。</string>
+	<string lang="jp">もう一人の戦闘者が同じ時間ステップにいる場合、ターンの最初に$1$ $energy$で充電します。</string>
+	<string lang="ru">Заряжается на $1$ $energy$ в начале хода, если другой боец находится на том же шаге времени.</string>
+	<string lang="es">Se carga con $1$ $energy$ al comienzo del turno si otro combatiente está en el mismo paso de tiempo.</string>
+	<string lang="kr">또 다른 전투원이 동일한 시간 단계에 있으면 $1$ $energy$로 충전됩니다.</string>
+	<string lang="pt-br">Carrega $1$ $energy$ no início do turno se outro combatente estiver na mesma etapa de tempo.</string>
+</set>
+<set id="name-module-effectortaunt">
+	<string lang="de">Spottmodul $MODIFICATIONVALUE$</string>
+	<string lang="en">Taunt Module $MODIFICATIONVALUE$</string>
+	<string lang="fr">Module de Provocation $MODIFICATIONVALUE$</string>
+	<string lang="zh">嘲讽模块 $MODIFICATIONVALUE$</string>
+	<string lang="jp">挑発モジュール $MODIFICATIONVALUE$</string>
+	<string lang="ru">Модуль Насмешки $MODIFICATIONVALUE$</string>
+	<string lang="es">Módulo de Burla $MODIFICATIONVALUE$</string>
+	<string lang="kr">도발 모듈 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Módulo de Provocação $MODIFICATIONVALUE$</string>
+</set>
+<set id="description-module-effectortaunt">
+	<string lang="de">Gibt den Character $taunt$.$br$(Dauer: $energy$×3)</string>
+	<string lang="en">Gives the character $taunt$.$br$(Duration: $energy$×3)</string>
+	<string lang="fr">Donne au personnage $taunt$.$br$(Durée: $energy$×3)</string>
+	<string lang="zh">给角色$taunt$.$br$(持续时间：$energy$×3)</string>
+	<string lang="jp">キャラクターに$taunt$を与えます。$br$(持続時間：$energy$×3)</string>
+	<string lang="ru">Дает персонажу $taunt$.$br$(Продолжительность: $energy$×3)</string>
+	<string lang="es">Da al personaje $taunt$.$br$(Duración: $energy$×3)</string>
+	<string lang="kr">캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
+	<string lang="pt-br">Dá ao personagem $taunt$.$br$(Duração: $energy$×3)</string>
+</set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
 		<string lang="en">Pulsar</string>
