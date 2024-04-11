@@ -529,4 +529,26 @@
         <string lang="kr">독성 포자</string>
         <string lang="pt-br">Esporo Tóxico</string>
 </set>
+<set id="name-skill-passive-ondamage-burningdebris">
+		<string lang="de">Brennende Trümmer</string>
+		<string lang="en">Burning Debris</string>
+		<string lang="fr">Débris Brûlants</string>
+		<string lang="zh">燃烧碎片</string>
+		<string lang="jp">燃える破片</string>
+		<string lang="ru">Горящие Обломки</string>
+		<string lang="es">Escombros Ardientes</string>
+		<string lang="kr">불타는 파편</string>
+		<string lang="pt-br">Escombros Ardentes</string>
+</set>
+<set id="description-skill-passive-ondamage-burningdebris">
+		<string lang="de">Immer wenn es $damage$ nimmt, konstruiert es ein $b$Brennende Trümmer$/b$ Modul und zwingt es auf eines deiner Racks.</string>
+		<string lang="en">Whenever it takes $damage$, constructs a $b$Burning Debris$/b$ module and forces it onto of your racks.</string>
+		<string lang="fr">Chaque fois qu'il reçoit $damage$, il construit un module $b$Débris Brûlants$/b$ et le force sur l'un de vos racks.</string>
+		<string lang="zh">每当它受到 $damage$ 时，它会建造一个 $b$燃烧碎片$/b$ 模块并强制放置到你的架子上。</string>
+		<string lang="jp">それが $damage$ を受けるたびに、$b$燃える破片$/b$ モジュールを構築し、あなたのラックに強制的に配置します。</string>
+		<string lang="ru">Каждый раз, когда он получает $damage$, он строит модуль $b$Горящие Обломки$/b$ и заставляет его на один из ваших стеллажей.</string>
+		<string lang="es">Cada vez que recibe $damage$, construye un módulo $b$Escombros Ardientes$/b$ y lo fuerza en uno de tus racks.</string>
+		<string lang="kr">그것이 $damage$를 받을 때마다, $b$불타는 파편$/b$ 모듈을 구성하고 당신의 랙 중 하나에 강제로 놓습니다.</string>
+		<string lang="pt-br">Sempre que ele receber $damage$, constrói um módulo $b$Escombros Ardentes$/b$ e o força em um de seus racks.</string>
+</set>
 </localization>
