@@ -1,14 +1,14 @@
 <localization>
 <set id="advice-camp">
-		<string lang="de">Die Modul-Belohnungen der Camp-Gebäude sind mächtig. Plane, jedes Level mit genügend Plasma abzuschließen, um sie freizuschalten.</string>
-		<string lang="en">Module rewards from the camp structures are powerful.$br$Plan to finish each stage with enough plasma to purchase them.</string>
-		<string lang="fr">Les récompenses des modules des structures du camp sont puissantes. Prévoyez de terminer chaque étapes avec suffisamment de plasma pour les acheter.</string>
-		<string lang="zh">营地建筑的奖励模块非常强大。确保关卡结束后有足够的等离子体购买它们。</string>
-		<string lang="jp">野営地の建造物から得られる報酬のモジュールは強力なものばかりだ。各ステージで計画立ててプラズマを獲得し、購入しよう。</string>
-		<string lang="ru">Награды за модули от структур лагеря мощные. Планируйте завершать каждый этап с достаточным количеством плазмы для их покупки.</string>
-		<string lang="es">Los módulos de recompensa de las estructuras del campamento son poderosos. Planifica el terminar cada etapa con suficiente plasma para comprarlas.</string>
-		<string lang="kr">야영지 시설의 모듈 보상은 매우 유용합니다. 각 스테이지마다 모듈을 구매하기 위한 플라즈마를 충분히 확보하는 것을 잊지 마세요.</string>
-		<string lang="pt-br">As recompensas de módulos das estruturas do acampamento são poderosas. Planeje terminar cada estágio com plasma suficiente para comprá-las.</string>
+		<string lang="de">Schließe jedes Level mit genügend $plasma$ ab, um Anzahlungen für die Camp-Gebäude zu leisten.</string>
+		<string lang="en">Finish each stage with enough $plasma$ to put downpayments on the camp structures.</string>
+        <string lang="fr">Terminez chaque niveau avec suffisamment de $plasma$ pour verser un acompte sur les structures du camp.</string>
+        <string lang="zh">每个关卡结束时，确保有足够的$plasma$来为营地建筑支付定金。</string>
+        <string lang="jp">各ステージを十分な$plasma$で終え、キャンプ構造物の頭金を支払おう。</string>
+        <string lang="ru">Заканчивайте каждый уровень с достаточным количеством $plasma$ для внесения авансовых платежей на строения лагеря.</string>
+        <string lang="es">Termina cada nivel con suficiente $plasma$ para hacer pagos iniciales en las estructuras del campamento.</string>
+        <string lang="kr">각 스테이지를 충분한 $plasma$로 마무리하여 캠프 구조물에 대한 계약금을 지불하세요.</string>
+        <string lang="pt-br">Termine cada estágio com dinheiro suficiente para fazer pagamentos iniciais nas estruturas do acampamento.</string>
 </set>
 <set id="advice-cracked">
 		<string lang="de">Horte Module mit $cracked$ nicht, sondern nutze ihren starken einmaligen Effekt, um eine gute Wertung zu erhalten oder einen Kampf zügig zu beenden.</string>
@@ -77,9 +77,9 @@
 		<string lang="pt-br">Cada ponto de $energy$ que você pode gerar é significativo.</string>
 </set>
 <set id="advice-energy-2">
-		<string lang="de">Versuche, $energy$ auf Sensor-Modulen nicht verpuffen zu lassen.</string>
-		<string lang="en">Try to not let $energy$ on sensor modules dissipate.</string>
-		<string lang="fr">Essayez de ne pas laisser l'$energy$ sur les modules de capteurs se dissiper.</string>
+		<string lang="de">Versuche, $energy$ auf $sensor$-Modulen nicht verpuffen zu lassen.</string>
+		<string lang="en">Try to not let $energy$ on $sensor$ modules dissipate.</string>
+		<string lang="fr">Essayez de ne pas laisser l'$energy$ sur les modules $sensor$ se dissiper.</string>
 		<string lang="zh">尽量不要浪费传感型模块产出的$energy$。</string>
 		<string lang="jp">センサー・モジュールの$energy$を散逸させないようにしよう。</string>
 		<string lang="ru">Постарайтесь не допустить рассеивание $energy$ на сенсорных модулях.</string>
