@@ -2,26 +2,68 @@
 <set id="description-campstructure-hangar">
     <string lang="de">Bau deinen eigenen Charakter</string>
 	<string lang="en">Build your own character</string>
+    <string lang="fr">Construisez votre propre personnage</string>
+    <string lang="zh">打造自己的角色</string>
+    <string lang="jp">自分だけのキャラクターを作成</string>
+    <string lang="ru">Создай своего собственного персонажа</string>
+    <string lang="es">Construye tu propio personaje</string>
+    <string lang="kr">자신만의 캐릭터 만들기</string>
+    <string lang="pt-br">Construa seu próprio personagem</string>
 </set>
 <set id="description-campstructure-timevault">
     <string lang="de">Lagere ein Modul zwischen Runs</string>
 	<string lang="en">Store a module between runs</string>
+    <string lang="fr">Stockez un module entre les runs</string>
+    <string lang="zh">在运行之间存储模块</string>
+    <string lang="jp">ランの間にモジュールを保存</string>
+    <string lang="ru">Храните модуль между прогонами</string>
+    <string lang="es">Almacena un módulo entre carreras</string>
+    <string lang="kr">런 사이에 모듈 저장</string>
+    <string lang="pt-br">Armazene um módulo entre as corridas</string>
 </set>
 <set id="description-campstructure-campfire">
     <string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
 	<string lang="en">Get an additional module as an option for loot</string>
+    <string lang="fr">Obtenez un module supplémentaire en option pour le butin</string>
+    <string lang="zh">作为战利品的额外模块选项</string>
+    <string lang="jp">戦利品のオプションとして追加のモジュールを取得</string>
+    <string lang="ru">Получите дополнительный модуль в качестве варианта добычи</string>
+    <string lang="es">Obtén un módulo adicional como opción para el botín</string>
+    <string lang="kr">전리품 옵션으로 추가 모듈 획득</string>
+    <string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
 </set>
 <set id="description-campstructure-vendingmachine">
     <string lang="de">Kaufe für $plasma$ Verbrauchsmodule mit $cracked$</string>
 	<string lang="en">Buy $cracked$ modules$br$with $plasma$</string>
+    <string lang="fr">Achetez des modules de consommation avec $cracked$ avec $plasma$</string>
+    <string lang="zh">用$plasma$购买$cracked$模块</string>
+    <string lang="jp">$plasma$で$cracked$モジュールを購入</string>
+    <string lang="ru">Купите $cracked$ модули$br$за $plasma$</string>
+    <string lang="es">Compra módulos de consumo con $cracked$ con $plasma$</string>
+    <string lang="kr">$plasma$로 $cracked$ 모듈 구매</string>
+    <string lang="pt-br">Compre módulos de consumo com $cracked$ com $plasma$</string>
 </set>
 <set id="description-campstructure-telescope">
     <string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
 	<string lang="en">Get an additional module as an option for loot</string>
+    <string lang="fr">Obtenez un module supplémentaire en option pour le butin</string>
+    <string lang="zh">作为战利品的额外模块选项</string>
+    <string lang="jp">戦利品のオプションとして追加のモジュールを取得</string>
+    <string lang="ru">Получите дополнительный модуль в качестве варианта добычи</string>
+    <string lang="es">Obtén un módulo adicional como opción para el botín</string>
+    <string lang="kr">전리품 옵션으로 추가 모듈 획득</string>
+    <string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
 </set>
 <set id="description-campstructure-workshop">
-    <string lang="en">Kaufe for $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
+    <string lang="de">Kaufe für $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
 	<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$with $plasma$</string>
+    <string lang="fr">Achetez des modules $crownicon$$b$Rares$/b$ avec $plasma$</string>
+    <string lang="zh">用$plasma$购买$crownicon$$b$稀有$/b$模块</string>
+    <string lang="jp">$plasma$で$crownicon$$b$レア$/b$モジュールを購入</string>
+    <string lang="ru">Купите $crownicon$$b$Редкие$/b$ модули$br$за $plasma$</string>
+    <string lang="es">Compra módulos $crownicon$$b$Raros$/b$ con $plasma$</string>
+    <string lang="kr">$plasma$로 $crownicon$$b$희귀$/b$ 모듈 구매</string>
+    <string lang="pt-br">Compre módulos $crownicon$$b$Raros$/b$ com $plasma$</string>
 </set>
 <set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
@@ -162,7 +204,7 @@
 	<string lang="en">Time Capsule</string>
 </set>
 <set id="unlock-alreadydownpayment">
-        <string lang="de">&lt;color=#67FF73&gt;Diesen Besuch erfolgreich eine Anzahlung geleistet&lt;/color&gt;</string>
+        <string lang="de">&lt;color=#67FF73&gt;Diesen Besuch erfolgreich$br$Anzahlung geleistet&lt;/color&gt;</string>
 		<string lang="en">&lt;color=#67FF73&gt;Successfully put downpayment this visit&lt;/color&gt;</string>
 </set>
 <set id="unlock-allowsdownpayment">
