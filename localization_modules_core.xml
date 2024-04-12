@@ -121,7 +121,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
 </set>
 <set id="description-module-condensator">
-		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$ wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
+		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$$br$wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
 		<string lang="en">Can be charged or discharged.$p$Incoming $energy$ is amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="fr">Peut être chargé ou déchargé.$p$$energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="zh">可充放能量。$p$传入的$energy$放大$b$$MODIFICATIONVALUE$$/b$。</string>
@@ -935,15 +935,15 @@
 		<string lang="pt-br">Tela Protetora $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorvulnerability">
-		<string lang="de">Verwundbarkeits-Modul $MODIFICATIONVALUE$</string>
-		<string lang="en">Vuln. Module $MODIFICATIONVALUE$</string>
-		<string lang="fr">Module Vulnérabilité $MODIFICATIONVALUE$</string>
-		<string lang="zh">虚弱模块$MODIFICATIONVALUE$</string>
-		<string lang="jp">脆弱機$MODIFICATIONVALUE$</string>
-		<string lang="ru">Модуль Уязвимости $MODIFICATIONVALUE$</string>
-		<string lang="es">Módulo de Vulnerabilidad $MODIFICATIONVALUE$</string>
-		<string lang="kr">취약 모듈 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Módulo de Vulnerabilidade $MODIFICATIONVALUE$</string>
+		<string lang="de">Verwundbarkeits-Strahler $MODIFICATIONVALUE$</string>
+		<string lang="en">Vulnerability Ray $MODIFICATIONVALUE$</string>
+		<string lang="fr">Rayon de Vulnérabilité $MODIFICATIONVALUE$</string>
+		<string lang="zh">脆弱射线$MODIFICATIONVALUE$</string>
+    	<string lang="jp">脆弱レイ$MODIFICATIONVALUE$</string>
+		<string lang="ru">Луч Уязвимости $MODIFICATIONVALUE$</string>
+		<string lang="es">Rayo de Vulnerabilidad $MODIFICATIONVALUE$</string>
+		<string lang="kr">취약성 광선 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Raio de Vulnerabilidade $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorypotion">
 		<string lang="de">Heiltrank-Fabrik $MODIFICATIONVALUE$</string>

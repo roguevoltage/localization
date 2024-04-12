@@ -77,7 +77,7 @@
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav-1$].</string>
 </set>
 <set id="description-module-effectorblasterprecision">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl $1damage$ zu].</string>
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl$br$$1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$$br$to target enemy].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
 		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对目标敌人施放$1damage$。</string>
@@ -681,15 +681,15 @@
 		<string lang="pt-br">Desacelerador de Precisão $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgravimmunity">
-		<string lang="de">Grav. Immunisator $MODIFICATIONVALUE$</string>
-		<string lang="en">Grav. Immunizer $MODIFICATIONVALUE$</string>
-		<string lang="fr">Immuniseur Grav. $MODIFICATIONVALUE$</string>
-		<string lang="zh">引力免疫器 $MODIFICATIONVALUE$</string>
-		<string lang="jp">重力免疫装置 $MODIFICATIONVALUE$</string>
-		<string lang="ru">Грав. Иммунайзер $MODIFICATIONVALUE$</string>
-		<string lang="es">Inmunizador Grav. $MODIFICATIONVALUE$</string>
-		<string lang="kr">Grav. Immunizer $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Imunizador Grav. $MODIFICATIONVALUE$</string>
+		<string lang="de">Grav.-Immunitäts-Strahler $MODIFICATIONVALUE$</string>
+		<string lang="en">Grav. Immunity Ray $MODIFICATIONVALUE$</string>
+		<string lang="fr">Rayon d'Immunité Grav. $MODIFICATIONVALUE$</string>
+        <string lang="zh">引力免疫射线 $MODIFICATIONVALUE$</string>
+		<string lang="jp">重力免疫レイ $MODIFICATIONVALUE$</string>
+		<string lang="ru">Луч Грав. Иммунитета $MODIFICATIONVALUE$</string>
+		<string lang="es">Rayo de Inmunidad Grav. $MODIFICATIONVALUE$</string>
+		<string lang="kr">Grav. 면역 레이 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Raio de Imunidade Grav. $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorlightning">
 		<string lang="de">Blitzmodul $MODIFICATIONVALUE$</string>

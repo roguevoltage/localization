@@ -162,15 +162,15 @@
 	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo está $outoforder$ ou em $cooldown$.</string>
 </set>
 <set id="name-module-effectorgravamplification">
-	<string lang="de">Grav. Verstärker $MODIFICATIONVALUE$</string>
-	<string lang="en">Grav. Amplifier $MODIFICATIONVALUE$</string>
-	<string lang="fr">Amplificateur Grav. $MODIFICATIONVALUE$</string>
-	<string lang="zh">引力放大器 $MODIFICATIONVALUE$</string>
-	<string lang="jp">重力増幅器 $MODIFICATIONVALUE$</string>
-	<string lang="ru">Грав. Усилитель $MODIFICATIONVALUE$</string>
-	<string lang="es">Amplificador Grav. $MODIFICATIONVALUE$</string>
-	<string lang="kr">Grav. Amplifier $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Amplificador Grav. $MODIFICATIONVALUE$</string>
+	<string lang="de">Grav.-Verstärkungs-Strahler $MODIFICATIONVALUE$</string>
+	<string lang="en">Grav. Amplification Ray $MODIFICATIONVALUE$</string>
+	<string lang="fr">Rayon d'Amplification Grav. $MODIFICATIONVALUE$</string>
+    <string lang="zh">引力放大射线 $MODIFICATIONVALUE$</string>
+	<string lang="jp">重力増幅レイ $MODIFICATIONVALUE$</string>
+	<string lang="ru">Импульс Гравитации $MODIFICATIONVALUE$</string>
+	<string lang="es">Rayo de Amplificación Grav. $MODIFICATIONVALUE$</string>
+	<string lang="kr">Grav. Amplification Ray $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Raio de Amplificação Grav. $MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-effectorgravamplification">
 	<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
@@ -272,26 +272,26 @@
 	<string lang="pt-br">Carrega $1$ $energy$ no início do turno se outro combatente estiver na mesma etapa de tempo.</string>
 </set>
 <set id="name-module-effectortaunt">
-	<string lang="de">Spottmodul $MODIFICATIONVALUE$</string>
-	<string lang="en">Taunt Module $MODIFICATIONVALUE$</string>
-	<string lang="fr">Module de Provocation $MODIFICATIONVALUE$</string>
-	<string lang="zh">嘲讽模块 $MODIFICATIONVALUE$</string>
-	<string lang="jp">挑発モジュール $MODIFICATIONVALUE$</string>
-	<string lang="ru">Модуль Насмешки $MODIFICATIONVALUE$</string>
-	<string lang="es">Módulo de Burla $MODIFICATIONVALUE$</string>
-	<string lang="kr">도발 모듈 $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Módulo de Provocação $MODIFICATIONVALUE$</string>
+	<string lang="de">Spott-Strahler $MODIFICATIONVALUE$</string>
+	<string lang="en">Taunt Ray $MODIFICATIONVALUE$</string>
+	<string lang="fr">Rayon de Provocation $MODIFICATIONVALUE$</string>
+    <string lang="zh">嘲讽射线 $MODIFICATIONVALUE$</string>
+	<string lang="jp">挑発レイ $MODIFICATIONVALUE$</string>
+	<string lang="ru">Луч Презрения $MODIFICATIONVALUE$</string>
+	<string lang="es">Rayo de Burla $MODIFICATIONVALUE$</string>
+	<string lang="kr">도발 레이 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Raio de Provocação $MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-effectortaunt">
-	<string lang="de">Gibt den Character $taunt$.$br$(Dauer: $energy$×3)</string>
-	<string lang="en">Gives the character $taunt$.$br$(Duration: $energy$×3)</string>
-	<string lang="fr">Donne au personnage $taunt$.$br$(Durée: $energy$×3)</string>
-	<string lang="zh">给角色$taunt$.$br$(持续时间：$energy$×3)</string>
-	<string lang="jp">キャラクターに$taunt$を与えます。$br$(持続時間：$energy$×3)</string>
-	<string lang="ru">Дает персонажу $taunt$.$br$(Продолжительность: $energy$×3)</string>
-	<string lang="es">Da al personaje $taunt$.$br$(Duración: $energy$×3)</string>
-	<string lang="kr">캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
-	<string lang="pt-br">Dá ao personagem $taunt$.$br$(Duração: $energy$×3)</string>
+	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
+    <string lang="en">Inflicts target character with $taunt$.$br$(Duration: $energy$×3)</string>
+    <string lang="fr">Inflige $taunt$ sur le personnage ciblé.$br$(Durée: $energy$×3)</string>
+    <string lang="zh">让目标角色获得 $taunt$.$br$(持续时间：$energy$×3)</string>
+    <string lang="jp">ターゲットキャラクターに$taunt$を与えます。$br$(持続時間：$energy$×3)</string>
+    <string lang="ru">Накладывает $taunt$ на целевого персонажа.$br$(Продолжительность: $energy$×3)</string>
+    <string lang="es">Inflige $taunt$ en un personaje objetivo.$br$(Duración: $energy$×3)</string>
+    <string lang="kr">대상 캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
+    <string lang="pt-br">Inflige $taunt$ no personagem alvo.$br$(Duração: $energy$×3)</string>
 </set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
@@ -314,12 +314,6 @@
 		<string lang="es">Modifica una corriente.</string>
 		<string lang="kr">전류를 수정합니다.</string>
 		<string lang="pt-br">Modifica uma corrente.</string>
-</set>
-<set id="name-module-toggledstormrepeller">
-		<string lang="en">Storm Repeller</string>
-</set>
-<set id="description-module-toggledstormrepeller">
-		<string lang="en">Permanently applies the $b$Storm Repeller$/b$ status to target $passthroughmodule$ on this rack.</string>
 </set>
 <set id="name-module-dampener">
 		<string lang="de">Dämpfer $MODIFICATIONVALUE$</string>
