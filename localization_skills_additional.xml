@@ -98,6 +98,17 @@
 		<string lang="kr">자신으로부터 모든 $grav$를 제거합니다.</string>
 		<string lang="pt-br">Remove todo o $grav$ de si mesmo.</string>
 </set>
+<set id="description-skill-gravneutralize">
+		<string lang="de">Entfernt alle $grav$ von einem Ziel.</string>
+		<string lang="en">Removes all $grav$ from a combatant.</string>
+        <string lang="fr">Supprime tous les $grav$ d'un combattant.</string>
+        <string lang="zh">从一个战斗者身上移除所有 $grav$。</string>
+        <string lang="jp">戦闘者から全ての $grav$ を取り除きます。</string>
+        <string lang="ru">Удаляет все $grav$ у бойца.</string>
+        <string lang="es">Elimina todo el $grav$ de un combatiente.</string>
+        <string lang="kr">전투자로부터 모든 $grav$를 제거합니다.</string>
+        <string lang="pt-br">Remove todo o $grav$ de um combatente.</string>
+</set>
 <set id="description-skill-gravneutralize-self-geothermaldrone">
 		<string lang="de">Entfernt bis zu $grav+1$ von sich selbst.$br$Versieht ein Module mit $fire$.</string>
 		<string lang="en">May remove $grav+1$ from itself.$br$Inflicts a module with $fire$.</string>
@@ -451,8 +462,8 @@
 		<string lang="pt-br">Causa $2damage$ a um inimigo e inflige um módulo com $cooldown$.</string>
 </set>
 <set id="description-skill-stasis">
-		<string lang="de">Wendet $stasis$ auf einen Kampfteilnehmer an.</string>
-		<string lang="en">Applies $stasis$ to target combatant.</string>
+		<string lang="de">Wendet $stasis$ auf einen Kampfteilnehmer an.$p$Kann den Fluss der Zeit $b$umkehren$/b$.</string>
+		<string lang="en">Applies $stasis$ to target combatant.$p$May $b$reverse$/b$ the flow of time.</string>
         <string lang="fr">Applique $stasis$ à un combattant.</string>
         <string lang="zh">将 $stasis$ 应用于目标战斗者。</string>
         <string lang="jp">対象の戦闘者に $stasis$ を適用します。</string>
@@ -582,9 +593,20 @@
 		<string lang="kr">중력 중화</string>
 		<string lang="pt-br">Neutralização Grav.</string>
 </set>
+<set id="name-skill-gravneutralize">
+		<string lang="de">Grav.-Neutralisierung</string>
+		<string lang="en">Grav. Neutralize</string>
+		<string lang="fr">Neutralisation Grav.</string>
+		<string lang="zh">引力中和</string>
+		<string lang="jp">重力中和</string>
+		<string lang="ru">Грав. Нейтрализация</string>
+		<string lang="es">Neutralización Grav.</string>
+		<string lang="kr">중력 중화</string>
+		<string lang="pt-br">Neutralização Grav.</string>
+</set>
 <set id="name-skill-gravneutralize-self">
-		<string lang="de">Grav.-Nullifizierung</string>
-		<string lang="en">Grav. Nullify</string>
+		<string lang="de">Grav.-Neutralisierung</string>
+		<string lang="en">Grav. Neutralize</string>
 		<string lang="fr">Neutralisation Grav.</string>
 		<string lang="zh">引力中和</string>
 		<string lang="jp">重力中和</string>

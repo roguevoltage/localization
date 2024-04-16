@@ -318,6 +318,17 @@
 		<string lang="kr">적에게 $1damage$를 주고, 모듈 하나에 $gravrecoil$을 부여합니다.</string>
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $gravrecoil$</string>
 </set>
+<set id="description-skill-modulepollution-reactor">
+        <string lang="de">Fügt allen Charakteren $1damage$ und $grav+1$ zu und versieht je ein Modul mit $pollution$.</string>
+		<string lang="en">Deals $damage$ and $grav+1$ to all characters and inflicts one module each with $pollution$.</string>
+        <string lang="fr">Inflige $1damage$ et $grav+1$ à tous les personnages et applique $pollution$ à un module chacun.</string>
+        <string lang="zh">对所有角色造成$1damage$和$grav+1$，并且每有一个角色，就对一个模块施放$pollution$。</string>
+        <string lang="jp">全キャラに$1damage$、$grav+1$、各モジュールに$pollution$付与。</string>
+        <string lang="ru">Наносит всем персонажам $1damage$ и $grav+1$ и накладывает $pollution$ на каждый модуль.</string>
+        <string lang="es">Inflige a todos los personajes $1damage$ y $grav+1$ y le aplica $pollution$ a un módulo.</string>
+        <string lang="kr">모든 캐릭터에게 $1damage$와 $grav+1$을 주고, 각 모듈에 $pollution$을 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os personagens $1damage$ e $grav+1$ e lhes aplica um módulo com $pollution$</string>
+</set>
 <set id="description-skill-moduleplasmacombustion">
 		<string lang="de">Fügt $d1amage$ zu und versieht ein Modul mit $plasmacombustion$.</string>
 		<string lang="en">Deals $1damage$ and inflicts a module with $plasmacombustion$.</string>
@@ -878,6 +889,17 @@
 		<string lang="es">Baba $gravrecoilicon$</string>
 		<string lang="kr">점액 $gravrecoilicon$</string>
 		<string lang="pt-br">Baba $gravrecoilicon$</string>
+</set>
+<set id="name-skill-modulepollution-reactor">
+		<string lang="de">Weltuntergangswelle</string>
+		<string lang="en">Doomsday Surge</string>
+        <string lang="fr">Vague de Fin du Monde</string>
+		<string lang="zh">末日电涌</string>
+        <string lang="jp">世界の終わりの波</string>
+        <string lang="ru">Волна Конца Света</string>
+        <string lang="es">Ola del Juicio Final</string>
+        <string lang="kr">세계의 종말 파도</string>
+        <string lang="pt-br">Onda do Juízo Final</string>
 </set>
 <set id="name-skill-moduleplasmacombustion">
 		<string lang="de">Plasma-Verbrennung</string>
