@@ -133,14 +133,14 @@
 </set>
 <set id="description-module-defibrillator">
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
-		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived with HP in height of its stored $energy$.</string>
-		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé avec des PV en hauteur de son $energy$ stocké.</string>
+		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived and receive $healing$ in height of its stored $energy$.</string>
+		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé et reçoit $healing$ à hauteur de son $energy$ stocké.</string>
 		<string lang="zh">可充能。$p$如果有角色昏迷，则该角色复活时获得与储存$energy$等值的生命值。</string>
 		<string lang="jp">充電可能。$p$キャラ気絶時、貯蔵$energy$分のＨＰで蘇生。</string>
 		<string lang="ru">Может быть заряжен.$p$Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
-		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá con HP igual a su $energy$ almacenado.</string>
-		<string lang="kr">충전할 수 있습니다.$p$캐릭터가 의식을 잃을 경우, 최대 저장된 $energy$에 달하는 체력을 지닌 채로 부활합니다.</string>
-		<string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido com HP na altura de sua $energy$ armazenada.</string>
+		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá y recibirá $healing$ en altura de su $energy$ almacenado.</string>
+        <string lang="kr">충전할 수 있습니다.$p$캐릭터가 의식을 잃으면, 그 캐릭터는 부활하고 저장된 $energy$의 양만큼 $healing$을 받습니다.</string>
+        <string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido e recebe $healing$ em altura de sua $energy$ armazenada.</string>
 </set>
 <set id="description-module-distributor">
 		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
@@ -199,7 +199,7 @@
 </set>
 <set id="description-module-effectordeceleratorgatling">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $grav+1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy with $grav+1$].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy$br$with $grav+1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
 		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对任意一名敌人施放$grav+1$。</string>
 		<string lang="jp">モジュールの$energy$の分だけ$br$ランダムな敵に$grav+1$付与。</string>
