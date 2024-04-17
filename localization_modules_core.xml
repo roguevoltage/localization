@@ -473,8 +473,8 @@
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 </set>
 <set id="description-module-passivemedikit">
-		<string lang="de">Wendet zu Beginn jedes Kampfes $1$ $healing$ auf den Charakter an.</string>
-		<string lang="en">At the beginning of each battle applies $1$ $healing$ to the owner.</string>
+		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
+		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
 		<string lang="zh">每场战斗前治疗拥有者$1$的生命值。</string>
 		<string lang="jp">戦闘開始時に所有者のＨＰを$1$回復。</string>
@@ -594,15 +594,15 @@
 		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
-		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1$ $healing$ auf ihn/sie an.</string>
-		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1$ $healing$ to them.</string>
-		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1$ $healing$.</string>
-		<string lang="zh">永久增加角色的最大生命值$1$并对其施加$1$ $healing$。</string>
-		<string lang="jp">キャラの最大ＨＰを$1$永久増加し、$1$ $healing$を適用。</string>
-		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1$ $healing$ к нему/ей.</string>
-		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1$ $healing$ a él/ella.</string>
-		<string lang="kr">캐릭터의 최대 HP를 영구적으로 $1$ 증가시키고 $1$ $healing$을 적용합니다.</string>
-		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1$ $healing$ a ele/ela.</string>
+		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1healing$ auf ihn/sie an.</string>
+		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1healing$ to them.</string>
+		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
+		<string lang="zh">永久增加角色的最大生命值$1$并对其施加$1healing$。</string>
+		<string lang="jp">キャラの最大ＨＰを$1$永久増加し、$1healing$を適用。</string>
+		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1healing$ к нему/ей.</string>
+		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1healing$ a él/ella.</string>
+		<string lang="kr">캐릭터의 최대 HP를 영구적으로 $1$ 증가시키고 $1healing$을 적용합니다.</string>
+		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1healing$ a ele/ela.</string>
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
@@ -616,26 +616,26 @@
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.$p$$passthroughmodule$s só podem ter um $upgrade$.</string>
 </set>
 <set id="description-module-trashcompactor">
-		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2$ $energy$ zu erzeugen.</string>
-		<string lang="en">Destroys another target module on this rack to generate $2$ $energy$.</string>
-		<string lang="fr">Génère $2$ $energy$ à partir de la destruction d'un autre module ciblé.</string>
-		<string lang="zh">销毁模架上另一自选模块，以换取$2$$energy$。</string>
-		<string lang="jp">ラックの別モジュールを破壊し、$2$$energy$発電。</string>
-		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2$ $energy$.</string>
-		<string lang="es">Destruye otro módulo objetivo para generar $2$ $energy$.</string>
-		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 $2$ $energy$를 생성합니다.</string>
-		<string lang="pt-br">Destroi outro módulo alvo para gerar $2$ $energy$.</string>
+		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
+		<string lang="en">Destroys another target module on this rack to generate $2energy$.</string>
+		<string lang="fr">Génère $2energy$ à partir de la destruction d'un autre module ciblé.</string>
+		<string lang="zh">销毁模架上另一自选模块，以换取$2energy$。</string>
+		<string lang="jp">ラックの別モジュールを破壊し、$2energy$発電。</string>
+		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2energy$.</string>
+		<string lang="es">Destruye otro módulo objetivo para generar $2energy$.</string>
+		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 $2energy$를 생성합니다.</string>
+		<string lang="pt-br">Destroi outro módulo alvo para gerar $2energy$.</string>
 </set>
 <set id="description-module-vaultregeneration">
-		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1$ $healing$ auf alle Charaktere anzuwenden.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1$ $healing$ to all player characters.</string>
-		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1$ $healing$ à tous les personnages joueurs.</string>
-		<string lang="zh">可充能。$p$在拥有者的回合开始时，消耗$1$储存$energy$，为所有玩家角色施加$1$ $healing$。</string>
-		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、全てのプレイヤーキャラクターに$1$ $healing$を適用。</string>
-		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1$ $healing$ ко всем игрокам.</string>
-		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1$ $healing$ a todos los personajes jugadores.</string>
-		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴이 시작될 때, 저장된 $energy$를 $1$ 제거해 모든 플레이어 캐릭터에게 $1$ $healing$을 적용합니다.</string>
-		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1$ $healing$ a todos os personagens jogadores.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
+		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to all player characters.</string>
+		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ à tous les personnages joueurs.</string>
+		<string lang="zh">可充能。$p$在拥有者的回合开始时，消耗$1$储存$energy$，为所有玩家角色施加$1healing$。</string>
+		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、全てのプレイヤーキャラクターに$1healing$を適用。</string>
+		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ ко всем игрокам.</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ a todos los personajes jugadores.</string>
+		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴이 시작될 때, 저장된 $energy$를 $1$ 제거해 모든 플레이어 캐릭터에게 $1healing$을 적용합니다.</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1healing$ a todos os personagens jogadores.</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>

@@ -296,6 +296,17 @@
         <string lang="kr">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;치유&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Cura&lt;/color&gt;&lt;/b&gt;</string>
     </set>
+    <set id="$1healing$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Heilung&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Healing&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Soins&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;治疗&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#92FF83&gt;１ &lt;sprite name="healing" tint=1&gt;回復&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Лечение&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Curación&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;치유&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Cura&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
     <set id="$healingicon$">
         <string lang="de">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="en">&lt;b&gt;&lt;color&#61;#92FF83&gt;&lt;sprite name="healing" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
@@ -433,7 +444,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+１&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+1&lt;/color&gt;&lt;/b&gt;</string>
@@ -444,7 +455,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 Grav. Charge (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 Charge Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;１ 重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 Грав. Заряд (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;1 중력 전하 (+)&lt;/color&gt;&lt;/b&gt;</string>
@@ -466,7 +477,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 Grav. Charge (+) &lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;2 Charge Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+２ 重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 Грав. Заряд (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;+2 중력 전하 (+)&lt;/color&gt;&lt;/b&gt;</string>
@@ -532,7 +543,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 Grav. charge (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 Charge Grav. (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 引力荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 重力电荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;１ 重力电荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 Грав. Заряд (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 Carga Grav. (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;1 중력 전하 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
@@ -554,7 +565,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 Grav. Charge (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 Charge Grav. (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 引力荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 重力电荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFF00&gt;２ 重力电荷 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 Грав. Заряд (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 Carga Grav. (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFF00&gt;2 중력 전하 (-) &lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
@@ -587,7 +598,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;Plasma&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;Plasma&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;等离子&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;等離子&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF00FF&gt;１ &lt;sprite name="plasma" tint=1&gt;等離子&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;Плазма&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;Plasma&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FF00FF&gt;1 &lt;sprite name="plasma" tint=1&gt;플라즈마&lt;/color&gt;&lt;/b&gt;</string>
@@ -675,7 +686,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;Damage&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;Dégâts&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;伤害&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF7777&gt;１ &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;Урон&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;Daño&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FF7777&gt;1 &lt;sprite name="damage" tint=1&gt;피해&lt;/color&gt;&lt;/b&gt;</string>
@@ -686,7 +697,7 @@
         <string lang="en">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Damage&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="fr">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Dégâts&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="zh">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;伤害&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FF7777&gt;２ &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="ru">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Урон&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="es">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Daño&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;피해&lt;/color&gt;&lt;/b&gt;</string>
@@ -713,6 +724,28 @@
         <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;Energía&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;에너지&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;&lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+    <set id="$1energy$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Energie&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Energy&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Énergie&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;能量&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;１ &lt;sprite name="energy" tint=1&gt;エネルギー&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Энергия&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Energía&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;에너지&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
+    </set>
+        <set id="$2energy$">
+        <string lang="de">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energie&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="en">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energy&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="fr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Énergie&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="zh">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;能量&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="jp">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;２ &lt;sprite name="energy" tint=1&gt;エネルギー&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="ru">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Энергия&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="es">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energía&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="kr">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;에너지&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pt-br">&lt;b&gt;&lt;color&#61;#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
     </set>
     <set id="$energyicon$">
         <string lang="de">&lt;b&gt;&lt;sprite name="energy" tint=1&gt;&lt;/b&gt;</string>
