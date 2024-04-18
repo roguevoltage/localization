@@ -1,16 +1,16 @@
 <localization>
-<set id="description-playercharacter-kimmy">
-		<string lang="de">Wunderkind auf dem Gebiet der Gravitronik. Es gibt nichts im Wohnlager, was Kimmy nicht reparieren könnte.</string>
-		<string lang="en">A prodigy gravineer, there is nothing in the camp Kimmy can't fix.</string>
-		<string lang="fr">Une gravinieure prodige, il n'y a rien dans le camp que Kimmy ne peut pas réparer.</string>
-		<string lang="zh">作为引力方面的天才，营地里没有什么事是吉米解决不了的。</string>
-		<string lang="jp">天才重力工。野営地に修理できないものはなし。</string>
-		<string lang="ru">Гениальный гравинер, в лагере нет ничего, что Кимми не может починить.</string>
-		<string lang="es">Una gravinera prodigio, no hay nada en el campamento que Kimmy no pueda arreglar.</string>
-		<string lang="kr">천재 중력학자, 이 야영지에서 키미가 고칠 수 없는 건 없습니다.</string>
-		<string lang="pt-br">Uma gravinheira prodígio, não há nada no acampamento que Kimmy não possa consertar.</string>
+<set id="flavor-playercharacter-kimmy">
+		<string lang="de">Es gibt nichts, was das Wunderkind der Gravitronik nicht reparieren könnte. Oder zerstören.</string>
+		<string lang="en">A prodigy gravineer, there is nothing in the camp Kimmy can't fix. Or break.</string>
+		<string lang="fr">Une gravinieure prodige, il n'y a rien dans le camp que Kimmy ne peut pas réparer. Ou casser.</string>
+		<string lang="zh">作为引力方面的天才，营地里没有什么事是吉米解决不了的。或者破坏。</string>
+		<string lang="jp">天才重力工。野営地に修理できないものはなし。壊せないものもなし。</string>
+		<string lang="ru">Гениальный гравинер, в лагере нет ничего, что Кимми не может починить. Или сломать.</string>
+		<string lang="es">Una gravinera prodigio, no hay nada en el campamento que Kimmy no pueda arreglar. O romper.</string>
+		<string lang="kr">천재 중력학자, 이 야영지에서 키미가 고칠 수 없는 건 없습니다. 또는 부술 수 없는 건 없습니다.</string>
+		<string lang="pt-br">Uma gravinheira prodígio, não há nada no acampamento que Kimmy não possa consertar. Ou quebrar.</string>
 </set>
-<set id="description-playercharacter-nanaslopper">
+<set id="flavor-playercharacter-nanaslopper">
 		<string lang="de">Sie ist vielleicht über 80, aber im Ausmaß ihrer Fürsorge keinesfals nicht zu unterschätzen.</string>
 		<string lang="en">She might be over 80, but don't under-estimate her power as a caregiver.</string>
 		<string lang="fr">Elle peut être au-dessus de 80, mais ne sous-estimez pas ses forces de sollicitude.</string>
@@ -21,7 +21,7 @@
 		<string lang="kr">이미 80을 넘은 나이지만, 양육자로서 그녀의 힘을 무시해서는 안됩니다.</string>
 		<string lang="pt-br">Ela pode ter mais de 80 anos, mas não subestime seu poder como cuidadora.</string>
 </set>
-<set id="description-playercharacter-slopperjackson">
+<set id="flavor-playercharacter-slopperjackson">
 		<string lang="de">Er ist der Jüngste der Slopper-Brüder, aber er läuft ihnen allen davon</string>
 		<string lang="en">He's the youngest of the Slopper brothers, but he outruns all of them.</string>
 		<string lang="fr">Il est le plus jeune des frères Slopper, mais il gagne tous les courses de vitesse.</string>
@@ -32,16 +32,49 @@
 		<string lang="kr">슬로퍼 형제 중 가장 어리지만, 그 누구보다도 유능합니다.</string>
 		<string lang="pt-br">Ele é o mais novo dos irmãos Slopper, mas ele supera todos eles.</string>
 </set>
-<set id="description-playercharacter-slopperjohnson">
+<set id="flavor-playercharacter-slopperjohnson">
 		<string lang="de">Der mürrische Held unserer Geschichte. Liefert Pakete in die sichere Zone.</string>
 		<string lang="en">The grumpy hero of our story. Delivers parcels to the perimeter.</string>
 		<string lang="fr">Le héros grognon de notre histoire. Livre des colis au périmètre.</string>
-		<string lang="zh">以脾气暴躁闻名。负责为周边地区运送包裹。</string>
+		<string lang="zh">以脾气暴躁闻名。$br$负责为周边地区运送包裹。</string>
 		<string lang="jp">我らが物語の不機嫌な主人公。境界への宅配人。</string>
 		<string lang="ru">Сердитый герой нашей истории. Доставляет посылки на периметр.</string>
 		<string lang="es">El héroe gruñón de nuestra historia. Entrega paquetes al perímetro.</string>
 		<string lang="kr">우리 이야기의 괴팍한 주인공. 경계 지대로 소포를 배달합니다.</string>
 		<string lang="pt-br">O herói rabugento da nossa história. Entrega pacotes para o perímetro.</string>
+</set>
+<set id="description-playercharacter-kimmy">
+        <string lang="de">Stellt immer stärkere Batteriezellen her.</string>
+		<string lang="en">Constructs stronger and stronger battery cells.</string>
+        <string lang="fr">Construit des cellules de batterie de plus en plus puissantes.</string>
+        <string lang="zh">制造越来越强大的电池。</string>
+        <string lang="jp">ますます強力なバッテリーセルを製造。</string>
+        <string lang="ru">Создает все более мощные батарейные элементы.</string>
+        <string lang="es">Construye celdas de batería cada vez más fuertes.</string>
+        <string lang="kr">점점 더 강력한 배터리 셀을 제작합니다.</string>
+        <string lang="pt-br">Constrói células de bateria cada vez mais fortes.</string>
+</set>
+<set id="description-playercharacter-slopperjackson">
+        <string lang="de">Unterstützt seine Verbündeten mit$br$Tränken und Verlangsamung.</string>
+		<string lang="en">Supports his allies with$br$potions and deceleration.</string>
+        <string lang="fr">Soutient ses alliés avec$br$des potions et des ralentissements.</string>
+        <string lang="zh">用药水和减速技能支援队友。</string>
+        <string lang="jp">ポーションと減速で仲間をサポート。</string>
+        <string lang="ru">Поддерживает своих союзников с помощью зелий и замедления.</string>
+        <string lang="es">Apoya a sus aliados con pociones y desaceleración.</string>
+        <string lang="kr">포션과 감속으로 동맹을 지원합니다.</string>
+        <string lang="pt-br">Apoia seus aliados com poções e desaceleração.</string>
+</set>
+<set id="description-playercharacter-slopperjohnson">
+        <string lang="de">Generiert Energie$br$durch das Heilen seiner Verbündeten.</string>
+		<string lang="en">Generates energy$br$from healing his allies.</string>
+        <string lang="fr">Génère de l'énergie$br$en soignant ses alliés.</string>
+        <string lang="zh">通过治疗队友产生能量。</string>
+        <string lang="jp">仲間の回復でエネルギーを生成。</string>
+        <string lang="ru">Генерирует энергию$br$при лечении своих союзников.</string>
+        <string lang="es">Genera energía$br$curando a sus aliados.</string>
+        <string lang="kr">동맹을 치료함으로써 에너지를 생성합니다.</string>
+        <string lang="pt-br">Gera energia$br$curando seus aliados.</string>
 </set>
 <set id="name-playercharacter-kimmy">
 		<string lang="de">Kimmy</string>
@@ -91,7 +124,7 @@
 		<string lang="de">Slopper Jackson</string>
 		<string lang="en">Slopper Jackson</string>
 		<string lang="fr">Slopper Jackson</string>
-		<string lang="zh">斯洛普·杰克逊</string>
+		<string lang="zh">斯洛普杰克逊</string>
 		<string lang="jp">スロッパー・ジャクソン</string>
 		<string lang="ru">Слоппер Джексон</string>
 		<string lang="es">Slopper Jackson</string>
@@ -113,7 +146,7 @@
 		<string lang="de">Slopper Johnson</string>
 		<string lang="en">Slopper Johnson</string>
 		<string lang="fr">Slopper Johnson</string>
-		<string lang="zh">斯洛普·约翰逊</string>
+		<string lang="zh">斯洛普约翰逊</string>
 		<string lang="jp">スロッパー・ジョンソン</string>
 		<string lang="ru">Слоппер Джонсон</string>
 		<string lang="es">Slopper Johnson</string>
@@ -135,7 +168,7 @@
 		<string lang="de">“Reich' mir 'nen Grav-Kolben ... und 'nen Zuckershake, wenn du schon dabei bist!”</string>
 		<string lang="en">“Hand me the grav piston ... and a sugar shake, while you're at it!”</string>
 		<string lang="fr">“Donne-moi le piston grav. ... et un shake de sucre, pendant que tu y es!”</string>
-		<string lang="zh">把引力活塞递给我……顺便再给我做一杯奶昔！</string>
+		<string lang="zh">把引力活塞递给我……$br$顺便再给我做一杯奶昔！</string>
 		<string lang="jp">重力ピストンちょうだい……あと砂糖シェイクもね！</string>
 		<string lang="ru">“Дай мне гравитационный поршень ... и сахарный коктейль, пока ты здесь!”</string>
 		<string lang="es">“¡Pásame el pistón grav. ... y un batido de azúcar, mientras estás en eso!”</string>
@@ -144,7 +177,7 @@
 </set>
 <set id="quote-playercharacter-slopperjackson">
 		<string lang="de">“Eines Tages werde ich der schnellste Lieferjunge innerhalb der Zone sein!”</string>
-		<string lang="en">“I will be the quickest delivery boy$br$in the perimeter!”</string>
+		<string lang="en">“I will be the quickest delivery boy in the perimeter!”</string>
 		<string lang="fr">“Un jour, je serai le garçon de courses le plus rapide du périmètre”</string>
 		<string lang="zh">我会成为这里最快的送货员！</string>
 		<string lang="jp">境界最速の宅配人になるぞ！</string>

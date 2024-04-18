@@ -1,27 +1,27 @@
 <localization>
-<set id="description-playercharacter-alice">
-		<string lang="de">Eine Grav.-Krustologin, die für neue Forschung nicht davor zurückschreckt, sich die Hände schmutzig zu machen.</string>
+<set id="flavor-playercharacter-alice">
+		<string lang="de">Eine Grav.-Krustologin, die nicht davor zurückschreckt, sich die Hände schmutzig zu machen.</string>
 		<string lang="en">A grav.-crustologist that is not afraid to get her hands dirty for new research.</string>
 		<string lang="fr">Une grav.-crustologue qui n'a pas peur de se salir les mains pour de nouvelles recherches.</string>
-		<string lang="zh">一位引力甲壳动物学家，为了新的研究不惜弄脏双手。</string>
+		<string lang="zh">一位引力甲壳动物学家，$br$为了新的研究不惜弄脏双手。</string>
 		<string lang="jp">新しい研究のために手を汚すことを恐れない重力甲殻類学者。</string>
 		<string lang="ru">Грав.-королог, которая не боится испачкать руки ради новых исследований.</string>
 		<string lang="es">Una grav.-crustóloga que no tiene miedo de ensuciarse las manos por una nueva investigación.</string>
 		<string lang="kr">새로운 연구를 위해 손을 더럽히는 것을 두려워하지 않는 중력-갑각류학자입니다.</string>
 		<string lang="pt-br">Uma grav.-crustologista que não tem medo de sujar as mãos por uma nova pesquisa.</string>
 </set>
-<set id="description-playercharacter-ninja">
+<set id="flavor-playercharacter-ninja">
 		<string lang="de">Sie lebte einst ein ruhiges Leben. Die Gravistrophe ließ sie mit nichts außer ihrer Wut zurück.</string>
 		<string lang="en">She used to live a quiet life. The gravistrophe left her with nothing but her rage.</string>
 		<string lang="fr">Elle vivait autrefois une vie tranquille. La gravistrophe ne lui a laissé que sa rage.</string>
-		<string lang="zh">她曾经过着平静的生活。引力灾难只留下了她的愤怒。</string>
+		<string lang="zh">她曾经过着平静的生活。$br$引力灾难只留下了她的愤怒。</string>
 		<string lang="jp">彼女は以前静かな生活を送っていました。重力災害は彼女に怒り以外の何も残しませんでした。</string>
 		<string lang="ru">Она когда-то жила спокойной жизнью. Гравистрофа оставила её только с её яростью.</string>
 		<string lang="es">Ella solía vivir una vida tranquila. La gravistrofe la dejó con nada más que su rabia.</string>
 		<string lang="kr">그녀는 한때 조용한 삶을 살았습니다. 중력 재앙은 그녀에게 분노 외에는 아무것도 남기지 않았습니다.</string>
 		<string lang="pt-br">Ela costumava viver uma vida tranquila. A gravistrofe a deixou com nada além de sua raiva.</string>
 </set>
-<set id="description-playercharacter-nomad">
+<set id="flavor-playercharacter-nomad">
 		<string lang="de">Ein Fremder, der gelernt hat, die Muster des Sturms zu lesen. Seine Augen wirken sanft und vertraut.</string>
 		<string lang="en">A stranger that learned to read the patterns of the storm. His eyes look gentle and familiar.</string>
 		<string lang="fr">Un étranger qui a appris à lire les motifs de la tempête. Ses yeux ont l'air doux et familiers.</string>
@@ -32,38 +32,56 @@
 		<string lang="kr">폭풍의 패턴을 읽는 법을 배운 낯선 사람입니다. 그의 눈은 부드럽고 친숙해 보입니다.</string>
 		<string lang="pt-br">Um estranho que aprendeu a ler os padrões da tempestade. Seus olhos parecem gentis e familiares.</string>
 </set>
-<set id="description-playercharacter-plasmamech">
+<set id="flavor-playercharacter-plasmamech">
 		<string lang="de">Opa Sloppers letzte Schöpfung. Vielleicht nicht gerade der effizienteste seiner Prototypen.</string>
 		<string lang="en">Grandpa Slopper's final creation. Maybe not exactly the most efficient of his prototypes.</string>
 		<string lang="fr">La dernière création de Grand-père Slopper. Peut-être pas la plus efficace de ses prototypes.</string>
-		<string lang="zh">斯洛珀爷爷的最后创作。也许不是他最有效的原型。</string>
+		<string lang="zh">斯洛珀爷爷的最后创作。$br$也许不是他最有效的原型。</string>
 		<string lang="jp">スロッパーおじいちゃんの最後の作品。おそらく彼のプロトタイプの中で最も効率的ではありません。</string>
 		<string lang="ru">Последнее творение Дедушки Слоппера. Возможно, не самый эффективный из его прототипов.</string>
 		<string lang="es">La creación final del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
 		<string lang="kr">스로퍼 할아버지의 최후의 창작물입니다. 아마도 그의 프로토타입 중 가장 효율적이지는 않을 것입니다.</string>
 		<string lang="pt-br">A criação final do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
 </set>
-<set id="description-playercharacter-runner">
+<set id="flavor-playercharacter-runner">
 		<string lang="de">Die Großcousine der Sloppers. Sie würde es vorziehen, nichts mit ihnen zu tun zu haben.</string>
 		<string lang="en">The Slopper's second cousin. She prefers to not have to do anything with them.</string>
 		<string lang="fr">La seconde cousine des Slopper. Elle préférerait ne pas avoir à faire quoi que ce soit avec eux.</string>
-		<string lang="zh">斯洛珀家族的远房表亲。她宁愿不与他们有任何关系。</string>
+		<string lang="zh">斯洛珀家族的远房表亲。$br$她宁愿不与他们有任何关系。</string>
 		<string lang="jp">スロッパー家の遠い親戚。彼女は彼らと何も関係を持ちたくないと思っています。</string>
 		<string lang="ru">Вторая кузина Слопперов. Она предпочитает не иметь с ними ничего общего.</string>
 		<string lang="es">La segunda prima de los Slopper. Preferiría no tener que involucrarse con ellos.</string>
 		<string lang="kr">스로퍼의 두 번째 사촌입니다. 그녀는 그들과 아무런 관련이 없는 것을 선호합니다.</string>
 		<string lang="pt-br">A segunda prima dos Slopper. Ela prefere não ter que fazer nada com eles.</string>
 </set>
-<set id="description-playercharacter-sol">
-		<string lang="de">Eine ehemalige Bewohnerin von Eden. Hat ihr privilegiertes Leben hinter sich gelassen, um den Fluss der Zeit wiederherzustellen.</string>
+<set id="flavor-playercharacter-sol">
+		<string lang="de">Eine ehemalige Bewohnerin von Eden. Hat ihr privilegiertes Leben hinter sich gelassen, um die Zeit wieder einzurenken.</string>
 		<string lang="en">A former resident of the Walled Garden, she left her life of privilege to restore the flow of time.</string>
 		<string lang="fr">Ancienne résidente du Jardin Enclos, elle a quitté sa vie de privilégiée pour restaurer le flux du temps.</string>
-		<string lang="zh">曾经生活在封闭花园的居民，她放弃了她的特权生活，来恢复时间的流动。</string>
+		<string lang="zh">曾经生活在封闭花园的居民，$br$她放弃了她的特权生活，来恢复时间的流动。</string>
 		<string lang="jp">ウォールドガーデンの元住民で、彼女は時間の流れを回復するために特権的な生活を捨てました。</string>
 		<string lang="ru">Бывшая жительница Сада, она оставила свою привелигированную жизнь, ради того чтобы восстановить поток времени.</string>
 		<string lang="es">Una antigua residente del Edén, dejó su vida de privilegios para restaurar el flujo del tiempo.</string>
 		<string lang="kr">폐쇄된 정원의 전 주민이었던 그녀는 시간의 흐름을 복원하기 위해 특권의 삶을 버렸습니다.</string>
 		<string lang="pt-br">Uma ex-residente do Jardim Murado, ela deixou sua vida de privilégios para restaurar o fluxo do tempo.</string>
+</set>
+<set id="description-playercharacter-alice">
+		<string lang="en">Launches strong attacks by breaking crusts.</string>
+</set>
+<set id="description-playercharacter-ninja">
+		<string lang="en">Slices aligned monsters with the blade module.</string>
+</set>
+<set id="description-playercharacter-nomad">
+		<string lang="en">Makes the storm strike the monsters as well.</string>
+</set>
+<set id="description-playercharacter-plasmamech">
+		<string lang="en">Uses up plasma for attacks and sustain.</string>
+</set>
+<set id="description-playercharacter-runner">
+		<string lang="en">Can get incredibly fast by inverting grav. charge.</string>
+</set>
+<set id="description-playercharacter-sol">
+		<string lang="en">Places lightning strikes in the timeline.</string>
 </set>
 <set id="name-playercharacter-alice">
 		<string lang="de">Alice</string>
@@ -201,77 +219,77 @@
 		<string lang="de">“Welch interessante Oszillation in dieser Allotropie!”</string>
 		<string lang="en">“What an interesting oscillation in this allotropy!”</string>
 		<string lang="fr">“Quelle oscillation intéressante dans cette allotropie !”</string>
-		<string lang="zh">“这种异质性中有趣的振荡！”</string>
-		<string lang="jp">“この同素体の中の興味深い振動！”</string>
+		<string lang="zh">这种异质性中有趣的振荡！</string>
+		<string lang="jp">この同素体の中の興味深い振動！</string>
 		<string lang="ru">“Какие интересные колебания в этой аллотропии!”</string>
 		<string lang="es">“¡Qué oscilación tan interesante en esta alotropía!”</string>
-		<string lang="kr">“이 이소성의 흥미로운 진동이군요!”</string>
+		<string lang="kr">이 이소성의 흥미로운 진동이군요!</string>
 		<string lang="pt-br">“Que oscilação interessante nesta alotropia!”</string>
 </set>
 <set id="quote-playercharacter-nanaslopper">
 		<string lang="de">“Ich hoffe, noch ein Mal den hellen Himmel aus meiner Jugend zu sehen.”</string>
 		<string lang="en">“I wish I could see the bright skies of my youth again.”</string>
 		<string lang="fr">“Je souhaite voir à nouveau les ciels lumineux de ma jeunesse.”</string>
-		<string lang="zh">“好想再看看我年轻时的明亮天空呀……”</string>
-		<string lang="jp">“私は、私の若い頃の明るい空をもう一度見たいです”</string>
+		<string lang="zh">好想再看看我年轻时的明亮天空呀……</string>
+		<string lang="jp">私は、私の若い頃の明るい空をもう一度見たいです</string>
 		<string lang="ru">“Я хотел бы снова увидеть яркие небеса моей молодости.”</string>
 		<string lang="es">“Ojalá pudiese ver de nuevo los cielos brillantes de mi juventud.”</string>
-		<string lang="kr">“젊었을 때의 밝은 하늘을 다시 볼 수 있었으면 좋겠어요.”</string>
+		<string lang="kr">젊었을 때의 밝은 하늘을 다시 볼 수 있었으면 좋겠어요.</string>
 		<string lang="pt-br">“Eu gostaria de poder ver os céus brilhantes da minha juventude novamente.”</string>
 </set>
 <set id="quote-playercharacter-ninja">
-		<string lang="de">“Ich werde herausfinden, was passiert ist, und jemand muss dafür zahlen!”</string>
+		<string lang="de">“Ich werde herausfinden, was passiert ist, und jemand wird dafür zahlen!”</string>
 		<string lang="en">“I will find out what happened and make somebody pay!”</string>
 		<string lang="fr">“Je vais découvrir ce qui s'est passé et faire payer quelqu'un !”</string>
-		<string lang="zh">“我会找出发生了什么事，并让某人付出代价！”</string>
-		<string lang="jp">“私は何が起こったのかを突き止め、誰かに代償を払わせるでしょう！”</string>
+		<string lang="zh">我会找出发生了什么事，$br$并让某人付出代价！</string>
+		<string lang="jp">私は何が起こったのかを突き止め、誰かに代償を払わせるでしょう！</string>
 		<string lang="ru">“Я узнаю, что произошло и заставлю кого-то заплатить!”</string>
 		<string lang="es">“¡Descubriré qué pasó y haré que alguien lo pague!”</string>
-		<string lang="kr">“무슨 일이 있었는지 알아내고 누군가에게 대가를 치르게 할 거야!”</string>
+		<string lang="kr">무슨 일이 있었는지 알아내고 누군가에게 대가를 치르게 할 거야!</string>
 		<string lang="pt-br">“Vou descobrir o que aconteceu e fazer alguém pagar!”</string>
 </set>
 <set id="quote-playercharacter-nomad">
 		<string lang="de">“Psst! Folge mir.”</string>
 		<string lang="en">“Hush now! Follow me.”</string>
 		<string lang="fr">“Chut ! Suis-moi.”</string>
-		<string lang="zh">“嘘！跟我来。”</string>
-		<string lang="jp">“ほら！私についてきて。”</string>
+		<string lang="zh">嘘！跟我来。</string>
+		<string lang="jp">ほら！私についてきて。</string>
 		<string lang="ru">“Тсс! Следуй за мной.”</string>
 		<string lang="es">“¡Shh! Sígueme.”</string>
-		<string lang="kr">“쉿! 저를 따라와요.”</string>
+		<string lang="kr">쉿! 저를 따라와요.</string>
 		<string lang="pt-br">“Shh! Siga-me.”</string>
 </set>
 <set id="quote-playercharacter-plasmamech">
 		<string lang="de">“Plasma-Speicher erschöpft. Bitte Plasmakartusche austauschen.”</string>
 		<string lang="en">“Plasma storage depleted. Please replace plasma cartridge.”</string>
 		<string lang="fr">“Stockage du plasma épuisé. Veuillez remplacer la cartouche de plasma.”</string>
-		<string lang="zh">“等离子储存耗尽。请更换等离子弹药。”</string>
-		<string lang="jp">“プラズマストレージが枯渇しました。プラズマカートリッジを交換してください。”</string>
+		<string lang="zh">等离子储存耗尽。$br$请更换等离子弹药。</string>
+		<string lang="jp">プラズマストレージが枯渇しました。プラズマカートリッジを交換してください。</string>
 		<string lang="ru">“Запасы плазмы исчерпаны. Пожалуйста, замените плазменный картридж.”</string>
 		<string lang="es">“Almacenamiento de plasma agotado. Por favor, reemplace el cartucho de plasma.”</string>
-		<string lang="kr">“플라즈마 저장소가 고갈되었습니다. 플라즈마 카트리지를 교체하십시오.”</string>
+		<string lang="kr">플라즈마 저장소가 고갈되었습니다. 플라즈마 카트리지를 교체하십시오.</string>
 		<string lang="pt-br">“Armazenamento de plasma esgotado. Por favor, substitua o cartucho de plasma.”</string>
 </set>
 <set id="quote-playercharacter-runner">
 		<string lang="de">“Oh mein Gorf! Dieser Anzug hat 9 Plasma gekostet!”</string>
-		<string lang="en">“Oh my Gorf! This tracksuit was like$br$9 Plasma!”</string>
+		<string lang="en">“Oh my Gorf! This tracksuit was like 9 Plasma!”</string>
 		<string lang="fr">“Oh mon Gorf ! Ce survêtement a coûté 9 Plasma !”</string>
-		<string lang="zh">“哦，我的戈夫！这套运动服要9个等离子！”</string>
-		<string lang="jp">“ああ、私のゴルフ！このトラックスーツは9プラズマもした！”</string>
+		<string lang="zh">哦，我的戈夫！$br$这套运动服要9个等离子！</string>
+		<string lang="jp">ああ、私のゴルフ！このトラックスーツは9プラズマもした！</string>
 		<string lang="ru">“О, мой Горф! Этот трек-костюм стоил как 9 плазмы!”</string>
 		<string lang="es">“¡Oh, mi Gorf! ¡Este chándal costó como 9 de Plasma!”</string>
-		<string lang="kr">“오, 내 골프! 이 트랙수트가 9 플라즈마였어요!”</string>
+		<string lang="kr">오, 내 골프! 이 트랙수트가 9 플라즈마였어요!</string>
 		<string lang="pt-br">“Oh, meu Gorf! Este agasalho custou como 9 de Plasma!”</string>
 </set>
 <set id="quote-playercharacter-sol">
 		<string lang="de">“Wir müssen diesem zeitlichen Unrecht ein Ende setzen.”</string>
 		<string lang="en">“We have to bring an end to this temporal injustice.”</string>
 		<string lang="fr">“Nous devons mettre fin à cette injustice temporelle.”</string>
-		<string lang="zh">“我们必须结束这种时间上的不公平。”</string>
-		<string lang="jp">“私たちはこの時間的な不正義に終止符を打たなければなりません”</string>
+		<string lang="zh">我们必须结束这种时间上的不公平。</string>
+		<string lang="jp">私たちはこの時間的な不正義に終止符を打たなければなりません</string>
 		<string lang="ru">“Мы должны положить конец этой временной несправедливости.”</string>
 		<string lang="es">“Tenemos que poner fin a esta injusticia temporal.”</string>
-		<string lang="kr">“우리는 이 시간적 불공정에 종지부를 찍어야 합니다.”</string>
+		<string lang="kr">우리는 이 시간적 불공정에 종지부를 찍어야 합니다.</string>
 		<string lang="pt-br">“Temos que acabar com essa injustiça temporal.”</string>
 </set>
 <set id="shortname-playercharacter-alice">
