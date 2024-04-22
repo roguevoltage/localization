@@ -265,7 +265,7 @@
 </set>
 <set id="tutorialwindow-chargeregenerationcell-description">
 		<string lang="de">Lass uns deine nächste Kettenreaktion vorbereiten:$p$Lade deine $regenerationcell$.$p$Zu Beginn von $slopperjohnson$$b$s nächstem Zug$/b$ wird sie $1healing$ auf beide Charaktere anwenden und den $curesensor$ zweimal auslösen.</string>
-		<string lang="en">Let's prepare your next chain reaction:$p$Charge your $regenerationcell$.$p$At the beginning of $slopperjohnson$$b$'s next turn$/b$, it will apply$br$$1healing$ to both heroes, triggering the $curesensor$ twice.</string>
+		<string lang="en">Let's prepare your next chain reaction:$p$Use this turn to charge your $regenerationcell$.$p$At the beginning of $slopperjohnson$$b$'s next turn$/b$, it will apply$br$$1healing$ to both heroes.$p$This will trigger the $curesensor$ twice.</string>
 		<string lang="fr">Utilisons ce tour pour préparer une réaction en chaîne encore plus grande.$p$Chargez votre $regenerationcell$.$p$Au début du $b$prochain tour de $/b$$slopperjohnson$, elle appliquera $1healing$ aux deux héros et déclenchera le $curesensor$ deux fois.</string>
 		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，它将同时治疗两名角色，并触发$curesensor$两次。</string>
 		<string lang="jp">このターンは、さらに巨大な連鎖反応に備えよう。$p$$regenerationcell$を充電するんだ。$p$$slopperjohnson$の次ターン、味方２人を回復し、$curesensor$を２回発動させる。</string>
@@ -430,7 +430,7 @@
 </set>
 <set id="tutorialwindow-gravcharge-heading-positive">
 		<string lang="de">$grav+$$br$$b$verlangsamt Charaktere$p$&lt;size=8&gt;(schiebt sie auf der Zeitleiste nach hinten)&lt;/size&gt;</string>
-		<string lang="en">$grav+$$br$delays combatants$p$&lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
+		<string lang="en">$grav+$$br$slows down combatants$p$&lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
 		<string lang="fr">$grav+$$br$$b$retarde les combattants$p$&lt;size=8&gt;(les pousse en arrière sur la chronologie)&lt;/size&gt;</string>
 		<string lang="zh">$grav+$$br$$b$减速单位$p$&lt;size=8&gt;（在时间轴上延后该单位回合）&lt;/size&gt;</string>
 		<string lang="jp">$grav+$：$br$キャラを遅くする$p$&lt;size=8&gt;（タイムライン上で後に押し出す）&lt;/size&gt;</string>
@@ -539,15 +539,15 @@
 		<string lang="pt-br">O Rack Modular</string>
 </set>
 <set id="tutorialwindow-sensors1-description">
-		<string lang="de">$sensor$-Module wie dein $curesensor$ sind die beste $energy$-Quelle und erlauben starke Kettenreaktionen.$p$Lass uns jetzt deine Allererste bauen.</string>
-		<string lang="en">$sensor$ modules like your $curesensor$ are the best $energy$ sources and allow powerful chain reactions.$p$Let's build your first one.</string>
-		<string lang="fr">Les modules $sensor$ comme ton $curesensor$ sont les meilleures sources d'$energy$ et permettent de puissantes réactions en chaîne.$p$Construisons ton premier.</string>
-		<string lang="zh">$sensor$模块是最佳的$energy$来源，可以引发强大的连锁反应。$p$现在让我们来制作你的第一个。</string>
-        <string lang="jp">$sensor$モジュールは最高の$energy$源であり、強力な連鎖反応を可能にします。$p$さあ、最初のものを作りましょう。</string>
-        <string lang="ru">$sensor$-модули – лучший источник $energy$ и позволяют сильные цепные реакции.$p$Давайте построим твой первый.</string>
-        <string lang="es">Los módulos $sensor$ son las mejores fuentes de $energy$ y permiten poderosas reacciones en cadena.$p$Vamos a construir tu primero.</string>
-        <string lang="kr">$sensor$ 모듈은 최고의 $energy$ 원천이며 강력한 연쇄 반응을 일으킬 수 있습니다.$p$이제 첫 번째 모듈을 만들어 봅시다.</string>
-        <string lang="pt-br">Os módulos $sensor$ são as melhores fontes de $energy$ e permitem poderosas reações em cadeia.$p$Vamos construir o seu primeiro.</string>
+        <string lang="de">Hast du schon den $curesensor$ bemerkt?$p$$sensor$-Module können eine Menge $energy$ erzeugen und ermöglichen starke Kettenreaktionen.$p$Lass uns deinen ersten bauen.</string>
+		<string lang="en">Have you noticed your $curesensor$?$p$$sensor$ modules can produce a lot of $energy$ and allow powerful chain reactions.$p$Let's build your first one.</string>
+        <string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ peuvent produire beaucoup d'$energy$ et permettre de puissantes réactions en chaîne.$p$Construisons le tien.</string>
+        <string lang="zh">你注意到你的$curesensor$了吗？$p$$sensor$模块可以产生大量$energy$，并允许强大的连锁反应。$p$让我们建造你的第一个。</string>
+        <string lang="jp">$curesensor$に気づいたかい？$p$$sensor$モジュールは多くの$energy$を生み出し、強力な連鎖反応を可能にします。$p$最初のものを作りましょう。</string>
+        <string lang="ru">Заметил свой $curesensor$?$p$Модули $sensor$ могут производить много $energy$ и позволяют мощные цепные реакции.$p$Давай построим твой первый.</string>
+        <string lang="es">¿Has notado tu $curesensor$?$p$Los módulos $sensor$ pueden producir mucha $energy$ y permitir poderosas reacciones en cadena.$p>Vamos a construir tu primero.</string>
+        <string lang="kr">$curesensor$에 주목했나요?$p$$sensor$ 모듈은 많은 $energy$를 생산하고 강력한 연쇄 반응을 가능하게 합니다.$p$첫 번째 모듈을 만들어봅시다.</string>
+        <string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ podem produzir muita $energy$ e permitir poderosas reações em cadeia.$p>Vamos construir o seu primeiro.</string>
 </set>
 <set id="tutorialwindow-sensors2-description">
 		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ aktivierst, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der $1$ $energy$ erzeugt.$p$Leite ihn durch den $amplifier$ für einen starken Angriff mit$br$$2damage$.</string>
