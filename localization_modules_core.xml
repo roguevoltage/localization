@@ -25,7 +25,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ geladen wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
-		<string lang="zh">任意$storagemodule$被充能时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">$storagemodule$を充電時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
@@ -36,7 +36,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the turn order is changed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que l'ordre des tours est modifié.</string>
-		<string lang="zh">轮次发生改变时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">轮次发生改变时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">ターン順変更時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда порядок ходов изменяется.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el orden de turno es cambiado.</string>
@@ -47,7 +47,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul zerstört wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module is destroyed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre module est détruit.</string>
-		<string lang="zh">任意模块被销毁时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">任意模块被销毁时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">他のモジュール破壊時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой модуль уничтожается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que otro módulo es destruido.</string>
@@ -69,7 +69,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
-		<string lang="zh">有角色受到$healing$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">有角色受到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">プレイヤー・キャラが$healing$を受けた時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
@@ -80,7 +80,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Kampfteilnehmer stirbt.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a combatant dies.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un combattant meurt.</string>
-		<string lang="zh">有参战单位死亡时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">有参战单位死亡时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">キャラの死亡時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда участник боя умирает.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un combatiente muere.</string>
@@ -91,7 +91,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul hergestellt wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is constructed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est construit.</string>
-		<string lang="zh">任意模块被制造时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">任意模块被制造时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">モジュールの製造時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, при создании модуля.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo es construido.</string>
@@ -102,7 +102,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ erzeugt wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is created.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est créé.</string>
-		<string lang="zh">产生$plasma$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">产生$plasma$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">$plasma$の生成時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда создаётся $plasma$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es creado.</string>
@@ -113,7 +113,7 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $damage$ nimmt.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character takes $damage$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur subit $damage$.</string>
-		<string lang="zh">有角色受到$damage$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">有角色受到$damage$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">プレイヤー・キャラがダメージを受けた時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $damage$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $damage$.</string>
@@ -344,7 +344,7 @@
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$$br$。</string>
+		<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
@@ -410,7 +410,7 @@
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $sensor$-Modul verkabelt.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired behind a $sensor$ module.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $sensor$.</string>
-		<string lang="zh">改变能量流的颜色。$p$若连接在$b$传感型模块$/b$之后，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="zh">改变能量流的颜色。$p$若连接在$b$传感型模块$/b$之后，$br$则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">電流の色を変換。$p$$b$Sensor Module$/b$から繋がっている場合、$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
 		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
@@ -529,7 +529,7 @@
 </set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
-		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps and deal $b$$INVERSECHARGEVALUE$$/b$ $damage$ to both heroes.$br$(Reduce effect with $energy$).</string>
+		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
 		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
 		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
 		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方２人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$で威力相殺）</string>
@@ -630,7 +630,7 @@
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to all player characters.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ à tous les personnages joueurs.</string>
-		<string lang="zh">可充能。$p$在拥有者的回合开始时，消耗$1$储存$energy$，为所有玩家角色施加$1healing$。</string>
+		<string lang="zh">可充能。$p$在拥有者的回合开始时，$br$消耗$1$储存$energy$，为所有玩家角色施加$1healing$。</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、全てのプレイヤーキャラクターに$1healing$を適用。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ ко всем игрокам.</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ a todos los personajes jugadores.</string>
@@ -641,7 +641,7 @@
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
 		<string lang="en">Can be charged.$p$Whenever the owner takes $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
 		<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
-		<string lang="zh">可充能。$p$拥有者受到$damage$时，消耗$1$储存$energy$，减少拥有者$1$所受伤害。</string>
+		<string lang="zh">可充能。$p$拥有者受到$damage$时，$br$消耗$1$储存$energy$，$br$减少拥有者$1$所受伤害。</string>
 		<string lang="jp">充電可能。$p$所有者が$damage$を受けた時、貯蔵$energy$から$1$消費し、ダメージを$1$軽減。</string>
 		<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
 		<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>

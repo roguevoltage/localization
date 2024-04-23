@@ -232,7 +232,7 @@
 </set>
 <set id="tutorialwindow-chargeaccumulator1-description">
 		<string lang="de">Hast du gesehen, wie die $regenerationcell$ beide Charaktere geheilt und den $curesensor$ zweimal ausgelöst hat?$p$Er hält jetzt $2energy$.</string>
-		<string lang="en">Did you see how at the beginning of the turn the $regenerationcell$ healed both heroes?$p$This triggered the $curesensor$ twice.$p$It now holds $2energy$.</string>
+		<string lang="en">Did you see how the $regenerationcell$ healed both heroes?$p$This triggered the $curesensor$ twice.$p$It now holds $2energy$.</string>
 		<string lang="fr">Avez-vous vu comment la $regenerationcell$ a guéri les deux héros, déclenchant le $curesensor$ deux fois?$p$Il détient maintenant $2energy$.</string>
 		<string lang="zh">留意到刚才$regenerationcell$同时治疗了两名角色，并触发了$curesensor$两次吗？$p$现在它存有$2energy$。</string>
 		<string lang="jp">$regenerationcell$が味方２人を回復し、$curesensor$を２回発動させたのを見ただろう？$p$いまセンサーは$2energy$保持している。</string>
@@ -366,7 +366,7 @@
 		<string lang="de">Module laufen mit $energy$-Punkten.$br$Manche erzeugen sie, manche verstärken oder speichern sie und andere verbrauchen sie für Effekte.</string>
 		<string lang="en">Modules run on $energy$ points.$br$Some generate it, some amplify or store it and others consume it for effects.</string>
 		<string lang="fr">Les modules fonctionnent avec de l'$energy$.$br$Certains génèrent de l'$energy$, certains l'amplifient ou la stockent et d'autres l'utilisent pour des effets.</string>
-		<string lang="zh">模块运行需要$energy$。$br$有些模块负责产出，有些负责放大或储存，有些则能将其转化为效果。</string>
+		<string lang="zh">模块运行需要$energy$。$br$有些模块负责产出，有些负责放大或储存，$br$有些则能将其转化为效果。</string>
 		<string lang="jp">モジュールは$energy$で動作する。$br$$energy$を生成するものもあれば、増幅したり蓄積したり、変換して効果を発揮するものもある。</string>
 		<string lang="ru">Модули работают на $energy$.$br$Некоторые генерируют $energy$, некоторые усиливают или сохраняют ее, а другие превращают ее в эффекты.</string>
 		<string lang="es">Los módulos funcionan con $energy$.$br$Algunos generan $energy$, otros la amplifican o almacenan y otros la convierten en efectos.</string>
@@ -465,8 +465,8 @@
 		<string lang="de">Ein $b$Verstärker +1$/b$!$p$Er fügt dem Strom $b$+1$/b$ $energy$ hinzu. Dieser wandelt von &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; in &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt; um!$p$Er ist jedoch $cracked$, wird also nach Gebrauch $b$zerstört$/b$.</string>
 		<string lang="en">An $b$Amplifier +1$/b$!$p$It adds $b$+1$/b$ $energy$ to the current. This one converts from &lt;color=green&gt;$b$green$/b$&lt;/color&gt; to &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;! $p$It is however $cracked$, so it will be $b$destroyed after use$/b$.</string>
 		<string lang="fr">Un $b$Amplificateur +1$/b$!$p$Il ajoute $b$+1$/b$ $energy$ au courant. Celui-ci convertit du &lt;color=green&gt;$b$vert$/b$&lt;/color&gt; au &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;!$p$Il est cependant $cracked$, donc il sera $b$détruit après utilisation$/b$.</string>
-		<string lang="zh">获得$b$增幅器+1$/b$！它可以将&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;转为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;！在下次战斗发起强力的$b$连锁反应$/b$！$p$但该模块已$cracked$破损，将$b$在使用后销毁$/b$。</string>
-		<string lang="jp">$b$増幅器＋１$/b$！しかも&lt;color=green&gt;$b$緑$/b$&lt;/color&gt;から&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;へ接続可能！これで、次の戦いから強力な$b$連鎖反応$/b$を起こせるぞ！$p$ただ、$cracked$してるから$b$使用後に壊れる$/b$のに注意だ。</string>
+		<string lang="zh">获得$b$增幅器+1$/b$！$p$它可以将&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;转为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;！在下次战斗发起强力的$b$连锁反应$/b$！$p$但该模块已$cracked$破损，将$b$在使用后销毁$/b$。</string>
+		<string lang="jp">$b$増幅器＋１$/b$！$p$しかも&lt;color=green&gt;$b$緑$/b$&lt;/color&gt;から&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;へ接続可能！これで、次の戦いから強力な$b$連鎖反応$/b$を起こせるぞ！$p$ただ、$cracked$してるから$b$使用後に壊れる$/b$のに注意だ。</string>
 		<string lang="ru">$b$Усилитель +1$/b$! И он преобразует из &lt;color=green&gt;$b$зеленого$/b$&lt;/color&gt; в &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;! Это позволит сильной $b$цепной реакции$/b$ в следующем бою!$p$Он $cracked$, поэтому будет $b$уничтожен$/b$ после использования.</string>
 		<string lang="es">¡Un $b$Amplificador +1$/b$! ¡Y convierte el &lt;color=green&gt;$b$verde$/b$&lt;/color&gt; a &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;! ¡Esto permitirá una fuerte $b$reacción en cadena$/b$ en la próxima batalla!$p$Está $cracked$, así que será $b$destruido$/b$ después de un uso.</string>
 		<string lang="kr">$b$증폭기 +1$/b$이군요! 증폭기는 &lt;color=green&gt;$b$초록색$/b$&lt;/color&gt;을 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;으로 변환합니다! 다음 전투에서 강력한 $b$연쇄 반응$/b$을 일으킬 수 있게 될 겁니다!$p$하지만 $cracked$ 상태의 모듈이기 때문에, $b$쓰고 난 뒤엔 파괴$/b$될 것입니다.</string>
@@ -520,7 +520,7 @@
 		<string lang="de">In Rogue Voltage baust du Maschinen aus $b$Modulen$/b$, die du miteinander verkabelst.</string>
 		<string lang="en">In Rogue Voltage, you construct machines from $b$modules$/b$ that you wire together.</string>
 		<string lang="fr">Dans Rogue Voltage, vous construisez vos propres actions avec des $b$modules$/b$ que vous reliez entre eux.</string>
-		<string lang="zh">在《能量游侠》中，你需要连接$b$模块$/b$来构建机器。</string>
+		<string lang="zh">在《末日电涌》中，$br$你需要连接$b$模块$/b$来构建机器。</string>
 		<string lang="jp">Rogue Voltageでは、$b$モジュール$/b$を配線して機械を組むんだ。</string>
 		<string lang="ru">В Rogue Voltage вы сами создаете свои действия с помощью $b$модулей$/b$, которые вы соединяете вместе.</string>
 		<string lang="es">En Rogue Voltage, construyes tus propias acciones con $b$módulos$/b$ que conectas entre sí.</string>
@@ -586,7 +586,7 @@
 		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
 		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
-		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
+		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？$br$那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
 		<string lang="jp">"７ステップ後にハイライトされてる&lt;sprite name=""timestep"" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８ステップ後に$fox$のターンがくる。"</string>
 		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
 		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
