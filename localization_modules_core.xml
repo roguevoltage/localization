@@ -75,12 +75,13 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
-		<string lang="zh">有角色受到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤー・キャラが$healing$を受けた時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="zh">有角色得到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">プレイヤーキャラが回復されるたび、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
-		<string lang="kr">플레이어 캐릭터가 $healing$을 받을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
+		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorkill">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Kampfteilnehmer stirbt.</string>
@@ -146,12 +147,13 @@
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
 		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived and receive $healing$ in height of its stored $energy$.</string>
 		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé et reçoit $healing$ à hauteur de son $energy$ stocké.</string>
-		<string lang="zh">可充能。$p$如果有角色昏迷，则该角色复活时获得与储存$energy$等值的生命值。</string>
-		<string lang="jp">充電可能。$p$キャラ気絶時、貯蔵$energy$分のＨＰで蘇生。</string>
+		<string lang="zh">可充能。$p$如果有角色昏迷，则该角色复活时获得与储存$energy$等值的$healing$。</string>
+		<string lang="jp">充電可能。$p$キャラが気絶するなら、蘇生し、貯まっている$energy$分だけ$healing$。</string>
 		<string lang="ru">Может быть заряжен.$p$Если персонаж теряет сознание, он оживает с HP в высоте его сохраненной $energy$.</string>
 		<string lang="es">Puede ser cargado.$p$Si un personaje se vuelve inconsciente, se revivirá y recibirá $healing$ en altura de su $energy$ almacenado.</string>
-		<string lang="kr">충전할 수 있습니다.$p$캐릭터가 의식을 잃으면, 그 캐릭터는 부활하고 저장된 $energy$의 양만큼 $healing$을 받습니다.</string>
+		<string lang="kr">충전할 수 있습니다.$p$캐릭터가 의식불명 상태가 될 경우 부활하며, 저장된 $energy$와 동일한 양만큼 $healing$됩니다.</string>
 		<string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido e recebe $healing$ em altura de sua $energy$ armazenada.</string>
+		<string lang="zh-tw">可充能。$p$如果有角色昏迷，則該角色復活時獲得與儲存$energy$等值的$healing$。</string>
 </set>
 <set id="description-module-distributor">
 		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
@@ -259,28 +261,31 @@
 		<string lang="es">Convierte $energy$ en$br$valioso $plasma$.</string>
 		<string lang="kr">$energy$를$br$귀중한 $plasma$로 변환합니다.</string>
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
+		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。</string>
 </set>
 <set id="description-module-effectorpotion">
 		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
 		<string lang="en">Applies $healing$ to the owner.</string>
 		<string lang="fr">Applique $healing$ au propriétaire.</string>
-		<string lang="zh">对拥有者施放$healing$。</string>
-		<string lang="jp">所有者に$healing$。</string>
+		<string lang="zh">对拥有者施加$healing$。</string>
+		<string lang="jp">所有者を$healing$。</string>
 		<string lang="ru">Применяет $healing$ к владельцу.</string>
 		<string lang="es">Aplica $healing$ al dueño.</string>
-		<string lang="kr">소유자에게 $healing$을 적용합니다.</string>
+		<string lang="kr">소유자에게 $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $healing$ ao dono.</string>
+		<string lang="zh-tw">對擁有者施加$healing$。</string>
 </set>
 <set id="description-module-effectorpotion-aoe">
 		<string lang="de">Wendet $healing$ auf alle Verbündeten an.</string>
 		<string lang="en">Applies $healing$ to all allies.</string>
 		<string lang="fr">Applique $healing$ à tous les alliés.</string>
-		<string lang="zh">对全部盟友施放$healing$。</string>
-		<string lang="jp">全員の仲間に$healing$。</string>
+		<string lang="zh">为全部盟友施加$healing$。</string>
+		<string lang="jp">味方全員を$healing$。</string>
 		<string lang="ru">Применяет $healing$ ко всем союзникам.</string>
 		<string lang="es">Aplica $healing$ a todos los aliados.</string>
-		<string lang="kr">모든 아군에게 $healing$을 적용합니다.</string>
+		<string lang="kr">모든 아군에게 $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $healing$ a todos os aliados.</string>
+		<string lang="zh-tw">為全部盟友施加$healing$。</string>
 </set>
 <set id="description-module-effectorshield">
 		<string lang="de">Versieht einen Verbündeten deiner Wahl mit $shield$.$br$(Dauer: $energy$×3)</string>
@@ -442,12 +447,13 @@
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $sensor$-Modul verkabelt.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired behind a $sensor$ module.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $sensor$.</string>
-		<string lang="zh">改变能量流的颜色。$p$若连接在$b$传感型模块$/b$之后，$br$则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流の色を変換。$p$$b$Sensor Module$/b$から繋がっている場合、$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
+		<string lang="zh">改变能量流的颜色。$p$若输入流来自$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="jp">電流の色を変換。$p$$sensor$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
 		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.$p$$b$감지기 모듈$/b$과 연결된 뒤에, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="kr">전류의 색상을 변화시킵니다.$p$$sensor$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+		<string lang="zh-tw">改變能量流的顏色。$p$若輸入流來自$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$3 oder mehr $grav+$$/b$ hat.</string>
@@ -513,13 +519,13 @@
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
-		<string lang="zh">每场战斗前治疗拥有者$1$的生命值。</string>
-		<string lang="jp">戦闘開始時に所有者のＨＰを$1$回復。</string>
+		<string lang="zh">每场战斗开始时对拥有者施加$1$点$healing$。</string>
+		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
 		<string lang="ru">Восстанавливает $1$ HP владельцу в начале каждого боя.</string>
 		<string lang="es">Cura al propietario en $1$ HP al comienzo de cada batalla.</string>
-		<string lang="kr">각 전투가 시작될 때마다 소유자의 체력을 $1$ 치유합니다.</string>
+		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
 		<string lang="pt-br">Cura o dono em $1$ HP no início de cada batalha.</string>
-		<string lang="zh-tw">每場戰鬥前治療擁有者$1$的生命值。</string>
+		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。</string>
 </set>
 <set id="description-module-splitter">
 		<string lang="de">Verdoppelt einen Strom.</string>
@@ -645,13 +651,13 @@
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1healing$ auf ihn/sie an.</string>
 		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
-		<string lang="zh">永久提升角色最大生命值$1$，并治疗$1$生命值。</string>
-		<string lang="jp">味方１体の最大ＨＰを永久$1$増強し、$1$回復。</string>
+		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
+		<string lang="jp">キャラの最大ＨＰを恒久的に$1$上昇し、$1$$healing$。</string>
 		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1healing$ к нему/ей.</string>
 		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1healing$ a él/ella.</string>
-		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ 치유합니다.</string>
+		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1healing$ a ele/ela.</string>
-		<string lang="zh-tw">永久提升角色最大生命值$1$，並治療$1$生命值。</string>
+		<string lang="zh-tw">令角色最大生命值永久提升$1$，並對其施加$1$點$healing$。</string>
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
