@@ -33,7 +33,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
 		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
-		<string lang="zh-tw">任意$storagemodule$被充能時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorchrono">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -45,7 +45,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el orden de turno es cambiado.</string>
 		<string lang="kr">턴 순서가 변경될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que a ordem de turno é alterada.</string>
-		<string lang="zh-tw">輪次發生改變時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">輪次發生改變時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorfracture">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul zerstört wird.</string>
@@ -57,7 +57,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que otro módulo es destruido.</string>
 		<string lang="kr">다른 모듈이 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro módulo é destruído.</string>
-		<string lang="zh-tw">任意模組被銷毀時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">任意模組被銷毀時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorgravpos">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav+$ erhält.</string>
@@ -69,13 +69,13 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $grav+$ es aplicado a un personaje jugador.</string>
 		<string lang="kr">플레이어 캐릭터에게 $grav+$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
-		<string lang="zh-tw">有角色受到$grav+$時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">有角色受到$grav+$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorhealing">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
-		<string lang="zh">有角色得到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh">有角色得到$healing$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">プレイヤーキャラが回復されるたび、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
@@ -93,7 +93,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un combatiente muere.</string>
 		<string lang="kr">전투원이 죽을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um combatente morre.</string>
-		<string lang="zh-tw">有參戰單位死亡時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">有參戰單位死亡時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectormodulecreation">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul hergestellt wird.</string>
@@ -105,7 +105,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo es construido.</string>
 		<string lang="kr">모듈이 조립될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo é construído.</string>
-		<string lang="zh-tw">任意模組被製造時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">任意模組被製造時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorplasma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ erzeugt wird.</string>
@@ -117,7 +117,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es creado.</string>
 		<string lang="kr">$plasma$가 생성될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é criado.</string>
-		<string lang="zh-tw">產生$plasma$時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">產生$plasma$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectortrauma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $damage$ nimmt.</string>
@@ -129,7 +129,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $damage$.</string>
 		<string lang="kr">플레이어 캐릭터가 $damage$를 입을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
-		<string lang="zh-tw">有角色受到$damage$時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">有角色受到$damage$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-condensator">
 		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$$br$wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
@@ -143,7 +143,7 @@
 		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="zh-tw">可充放能量。$p$傳入的$energy$放大$b$$MODIFICATIONVALUE$$/b$。</string>
 </set>
-<set id="description-module-defibrillator">
+<set id="description-module-defibrillator" remarks="$healing$ is a keyword now">
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
 		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived and receive $healing$ in height of its stored $energy$.</string>
 		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé et reçoit $healing$ à hauteur de son $energy$ stocké.</string>
@@ -251,11 +251,11 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
 		<string lang="zh-tw">模組每擁有一點$energy$，$br$就對任意一名敵人造成$1damage$。</string>
 </set>
-<set id="description-module-effectorplasmaconverter">
+<set id="description-module-effectorplasmaconverter" remarks="error in the japanese string, $valuable$ is not a keyword">
 		<string lang="de">Wandelt $energy$ in$br$wertvolles $plasma$ um.</string>
 		<string lang="en">Converts $energy$ into$br$valuable $plasma$.</string>
 		<string lang="fr">Convertit $energy$ en$br$précieux $plasma$.</string>
-		<string lang="zh">将$energy$转化为重要的$plasma$。</string>
+		<string lang="zh">将$energy$转化为$br$重要的$plasma$。</string>
 		<string lang="jp">$energy$を$plasma$へ変換。</string>
 		<string lang="ru">Преобразует $energy$ в$br$ценную $plasma$.</string>
 		<string lang="es">Convierte $energy$ en$br$valioso $plasma$.</string>
@@ -263,7 +263,7 @@
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
 		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。</string>
 </set>
-<set id="description-module-effectorpotion">
+<set id="description-module-effectorpotion" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
 		<string lang="en">Applies $healing$ to the owner.</string>
 		<string lang="fr">Applique $healing$ au propriétaire.</string>
@@ -275,7 +275,7 @@
 		<string lang="pt-br">Aplica $healing$ ao dono.</string>
 		<string lang="zh-tw">對擁有者施加$healing$。</string>
 </set>
-<set id="description-module-effectorpotion-aoe">
+<set id="description-module-effectorpotion-aoe" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet $healing$ auf alle Verbündeten an.</string>
 		<string lang="en">Applies $healing$ to all allies.</string>
 		<string lang="fr">Applique $healing$ à tous les alliés.</string>
@@ -443,7 +443,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 		<string lang="zh-tw">改變能量流的顏色。</string>
 </set>
-<set id="description-module-modifiercollector">
+<set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $sensor$-Modul verkabelt.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired behind a $sensor$ module.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $sensor$.</string>
@@ -515,7 +515,7 @@
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 		<string lang="zh-tw">此模架上的$generator$模組有$b$33%幾率$/b$額外產出$b$+1$/b$$energy$。</string>
 </set>
-<set id="description-module-passivemedikit">
+<set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
@@ -647,7 +647,7 @@
 		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
 		<string lang="zh-tw">為所有敵人及己方角色施加$vulnerable$。（持續時間：6）</string>
 </set>
-<set id="description-module-toggledmaxhpenhancer">
+<set id="description-module-toggledmaxhpenhancer" remarks="$healing$ is a keyword now">
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1healing$ auf ihn/sie an.</string>
 		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
