@@ -153,7 +153,7 @@
 		<string lang="es">¡Ese $chronocat$ acaba de aplicar $grav+2$ a $slopperjohnson$, retrasando su turno detrás del $fox$!</string>
 		<string lang="kr">$chronocat$이가 $slopperjohnson$에게 $grav+2$를 부여해, $slopperjohnson$의 턴을 $fox$ 뒤로 밀어냈습니다!</string>
 		<string lang="pt-br">Esse $chronocat$ acabou de aplicar $grav+2$ a $slopperjohnson$, empurrando seu turno atrás do do $fox$!</string>
-		<string lang="zh-tw">$chronocat$剛剛對$slopperjohnson$施放了$grav+2$，導致他的回合延至$fox$之後！</string>
+		<string lang="zh-tw">$chronocat$剛剛對$slopperjohnson$施放了$grav+2$，$br$導致他的回合延至$fox$之後！</string>
 </set>
 <set id="tutorial-turn-order-window-title">
 		<string lang="de">Die Reihenfolge der Züge</string>
@@ -237,7 +237,7 @@
 		<string lang="es">La fuerte gravioactividad en estos pantanos debe provenir de este aterrador hongo gigante.$p$Si nos atenemos a lo que hemos aprendido, ¡podemos derrotarlo!</string>
 		<string lang="kr">이 늪지대의 강력한 중력 작용은 분명 이 무시무시한 거대 버섯 때문이겠죠.$p$배운대로만 하면 충분히 물리칠 수 있을 거에요!</string>
 		<string lang="pt-br">A forte gravioatividade desses pântanos deve vir deste assustador cogumelo gigante.$p$Se nos atermos ao que aprendemos, podemos derrotá-lo!</string>
-		<string lang="zh-tw">這片沼澤的強烈引力活動一定來自這個恐怖的巨型蘑菇！$br$只要按照我們前面所學的做，一定可以打敗它！</string>
+		<string lang="zh-tw">這片沼澤的強烈引力活動一定來自這個恐怖的巨型蘑菇！$p$只要按照我們前面所學的做，$br$一定可以打敗它！</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator1-description">
 		<string lang="de">Hast du gesehen, wie die $regenerationcell$ beide Charaktere geheilt und den $curesensor$ zweimal ausgelöst hat?$p$Er hält jetzt $2energy$.</string>
@@ -249,6 +249,7 @@
 		<string lang="es">¿Viste cómo la $regenerationcell$ curó a ambos héroes, disparando el $curesensor$ dos veces?$p$Ahora tiene $2energy$.</string>
 		<string lang="kr">방금 $regenerationcell$가 두 주인공을 모두 치유하고 $curesensor$를 두 번 활성화하는 걸 보셨나요?$p$이제 $regenerationcell$는 $2energy$를 보유하고 있습니다.</string>
 		<string lang="pt-br">Você viu como a $regenerationcell$ curou ambos os heróis, acionando o $curesensor$ duas vezes?$p$Agora ela tem $2energy$.</string>
+        <string lang="zh-tw">留意到剛才$regenerationcell$同時治療了兩名角色，$br$並觸發了$curesensor$兩次嗎？$p$現在它存有$2energy$。</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator1-title">
 		<string lang="de">Die Regenerationszelle</string>
@@ -264,14 +265,15 @@
 </set>
 <set id="tutorialwindow-chargeaccumulator2-description">
 		<string lang="de">$sensor$-Module verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $storageicon$$b$Akkumulator$/b$, wo sie gespeichert werden kann.</string>
-		<string lang="en">$p$$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Accumulator$/b$ where it can be stored.</string>
+		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Accumulator$/b$ where it can be stored.</string>
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Accumulateur$/b$ où il peut être stocké.</string>
 		<string lang="zh">如果这些$energy$本回合未被释放，将尽数消失。$p$将它们导入$storageicon$$b$蓄电池$/b$中储存。</string>
-		<string lang="jp">$p$ターン終了時までに放電しなければ、センサーは$energy$をすべて失う。$p$$storageicon$$b$蓄電池$/b$に接続し、蓄電するんだ。</string>
+		<string lang="jp">ターン終了時までに放電しなければ、センサーは$energy$をすべて失う。$p$$storageicon$$b$蓄電池$/b$に接続し、蓄電するんだ。</string>
 		<string lang="ru">Сенсоры потеряют всю $energy$, если не будут разряжены к концу хода.$p$Маршрутизируйте его в $storageicon$$b$Аккумулятор$/b$, где он может быть сохранен.</string>
 		<string lang="es">Módulos $sensor$ perderán toda la $energy$ al final del turno si no se descargan.$p$Redirígelo al $storageicon$$b$Acumulador$/b$, donde puede ser almacenado.</string>
 		<string lang="kr">감지기는 턴 종료 시 방전시키지 않으면 모든 $energy$를 잃어버리게 됩니다.$p$$energy$를 저장할 수 있는 $storageicon$$b$축압기$/b$로 연결해주세요.</string>
 		<string lang="pt-br">Sensores perderão toda a $energy$ se não forem descarregados até o final do turno.$p$Encaminhe-a para o $storageicon$$b$Acumulador$/b$, onde pode ser armazenada.</string>
+        <string lang="zh-tw">如果這些$energy$本回合未被釋放，將全部消失。$p$將它們導入$storageicon$$b$蓄電池$/b$中儲存。</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator2-title">
 		<string lang="de">$energy$ speichern</string>
@@ -283,6 +285,7 @@
 		<string lang="es">Almacenar $energy$</string>
 		<string lang="kr">$energy$ 저장하기</string>
 		<string lang="pt-br">Armazenando $energy$</string>
+        <string lang="zh-tw">儲存$energy$</string>
 </set>
 <set id="tutorialwindow-chargeregenerationcell-description">
 		<string lang="de">Lass uns deine nächste Kettenreaktion vorbereiten:$p$Lade deine $regenerationcell$.$p$Zu Beginn von $slopperjohnson$$b$s nächstem Zug$/b$ wird sie $1healing$ auf beide Charaktere anwenden und den $curesensor$ zweimal auslösen.</string>
@@ -294,7 +297,7 @@
 		<string lang="es">Utilicemos este turno para preparar una reacción en cadena aún más grande.$p$Carga tu $regenerationcell$.$p$En el próximo turno de $slopperjohnson$, curará a ambos héroes, disparando el $curesensor$ dos veces.</string>
 		<string lang="kr">이번 턴을 사용해 더 큰 연쇄 반응을 준비해보죠.$p$$regenerationcell$를 충전시키세요.$p$다음 $slopperjohnson$의 턴에 $regenerationcell$가 두 주인공을 모두 치료하며, $curesensor$를 두 번 발동시킬 것입니다.</string>
 		<string lang="pt-br">Vamos usar esta rodada para preparar uma reação em cadeia ainda maior.$p$Carregue sua $regenerationcell$.$p$No próximo turno de $slopperjohnson$, ela curará ambos os heróis, acionando o $curesensor$ duas vezes.</string>
-		<string lang="zh-tw">這一回合讓我們準備一次更強力的連鎖反應。$p$為你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，它將同時治療兩名角色，並觸發$curesensor$兩次。</string>
+		<string lang="zh-tw">這一回合讓我們準備一次更強力的連鎖反應。$p$為你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，$br$它將同時治療兩名角色，$br$並觸發$curesensor$兩次。</string>
 </set>
 <set id="tutorialwindow-chargeregenerationcell-header">
 		<string lang="de">Lade die Regenerationszelle</string>
@@ -318,7 +321,7 @@
 		<string lang="es">Tu $curesensor$ tiene $overload$,$br$lo que significa que descargarlo$br$lo pondrá en $cooldown$.$p$Los módulos en $cooldown$ no pueden ser activados por un turno y los sensores no podrán reaccionar.</string>
 		<string lang="kr">$curesensor$는 $overload$를 보유하고 있으며,$br$이는 한번 방전시킨 뒤에$br$$cooldown$ 상태에 들어가게 된다는 것을 의미합니다.$p$$cooldown$ 상태인 모듈은 한 턴 동안 활성화시킬 수 없게 되며, 감지기는 발동하지 않게 됩니다.</string>
 		<string lang="pt-br">Seu $curesensor$ tem $overload$,$br$o que significa que descarregá-lo$br$o colocará em $cooldown$.$p$Módulos em $cooldown$ não podem ser ativados por um turno e sensores não reagirão a gatilhos.</string>
-		<string lang="zh-tw">你的$curesensor$已$overload$，$br$這意味著釋能後$br$它將進入$cooldown$。$p$$cooldown$中的模組在一回合內無法被啟動，傳感型模組無法被觸發。</string>
+		<string lang="zh-tw">你的$curesensor$已$overload$，$br$這意味著釋能後它將進入$cooldown$。$p$$cooldown$中的模組在一回合內無法被啟動，$br$傳感型模組無法被觸發。</string>
 </set>
 <set id="tutorialwindow-cooldown-header">
 		<string lang="de">Cooldown</string>
@@ -534,7 +537,7 @@
 		<string lang="es">¡Un $b$Conversor de Plasma$/b$ con un conector de entrada $b$universal$/b$!$p$¡Seremos ricos, Jackson!$p$Pongámoslo en la mochila por ahora. Te avisaré cuando sea un buen momento para usarlo.</string>
 		<string lang="kr">$b$범용$/b$ 입력 잭이 있는 $b$플라즈마 변환기$/b$라니! 잭슨, 우린 이제 부자야!$p$일단 배낭에 넣어두자고. 쓸만한 좋은 타이밍이 오면 가르쳐줄 테니 말이야.</string>
 		<string lang="pt-br">Um $b$Conversor de Plasma$/b$ com um conector de entrada $b$universal$/b$! Que achado incrível!$p$Vamos colocá-lo na mochila por enquanto. Eu te aviso quando for um bom momento para usar.</string>
-		<string lang="zh-tw">帶有$b$通用$/b$輸入端口的$b$等離子轉換器$/b$！傑克遜，這回我們發財了！$p$暫時把它收到背包裏。等用的時候我會告訴你的。</string>
+		<string lang="zh-tw">帶有$b$通用$/b$輸入端口的$b$等離子轉換器$/b$！$br$傑克遜，這回我們發財了！$p$暫時把它收到背包裏。$br$等用的時候我會告訴你的。</string>
 </set>
 <set id="tutorialwindow-plasma-description">
 		<string lang="de">Dieses Mal können wir unsere überschüssige $energy$ in $plasma$ umwandeln – die $b$Währung$/b$ dieser zerstörten Welt.$p$Mit $plasma$ kannst du Module kaufen oder Charaktere heilen und wiederbeleben.</string>
@@ -606,7 +609,7 @@
 		<string lang="es">Activa la $healingpotion$ con el $generator$.$p$Esto disparará el $curesensor$, que generará $1$ $energy$.$p$Dirígelo a través del $amplifier$ para un ataque poderoso.</string>
 		<string lang="kr">$generator$로 $healingpotion$을 활성화할 시, $slopperjohnson$은 $1$ $healing$를 획득합니다.$p$이는 곧 $curesensor$를 활성화시키며, $1$ $energy$를 생산하게 합니다.$p$이제 $amplifier$와 연결해$br$강력한 $2damage$ 블래스트를 날려보세요.</string>
 		<string lang="pt-br">Ative a $healingpotion$ com o $generator$.$p$Isso aciona o $curesensor$, que gerará $1$ $energy$.$p$Encaminhe-o através do $amplifier$ para um ataque forte.</string>
-		<string lang="zh-tw">用$generator$啟動$healingpotion$，讓$slopperjohnson$得到$1$點$healing$。$p$$curesensor$隨之觸發，產出$1$$energy$。$p$將產生的能量導入$amplifier$，$br$打出$2damage$的強力一擊吧。</string>
+		<string lang="zh-tw">用$generator$啟動$healingpotion$，$br$讓$slopperjohnson$得到$1$點$healing$。$p$$curesensor$隨之觸發，$br$產出$1$$energy$。$p$將產生的能量導入$amplifier$，$br$打出$2damage$的強力一擊吧。</string>
 </set>
 <set id="tutorialwindow-sensors-title">
 		<string lang="de">Kettenreaktionen</string>
@@ -636,13 +639,13 @@
 		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
 		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
-		<string lang="zh">"看到7步后高亮的&lt;sprite name=""timestep"" tint=1&gt;$b$圆圈$/b$了吗？那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。"</string>
-		<string lang="jp">"７タイムステップ後にハイライトされてる&lt;sprite name=""timestep"" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８タイムステップ後に$fox$のターンがくる。"</string>
+		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
+		<string lang="jp">７タイムステップ後にハイライトされてる&lt;sprite name=""timestep"" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８タイムステップ後に$fox$のターンがくる。</string>
 		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
 		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
-		<string lang="kr">"7단계에 강조표시된 &lt;sprite name=""timestep"" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요."</string>
+		<string lang="kr">"7단계에 강조표시된 &lt;sprite name="timestep" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요."</string>
 		<string lang="pt-br">Veja o &lt;sprite name="timestep" tint=1&gt;$b$círculo$/b$ destacado em 7 etapas? É onde será o próximo turno de $slopperjohnson$.$p$Depois, em 8 etapas, será a vez do $fox$.</string>
-		<string lang="zh-tw">"看到7步後高亮的&lt;sprite name=""timestep"" tint=1&gt;$b$圓圈$/b$了嗎？那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。"</string>
+		<string lang="zh-tw">看到7步後高亮的&lt;sprite name="timestep" tint=1&gt;$b$圓圈$/b$了嗎？那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。</string>
 </set>
 <set id="tutorialwindow-timeline-header">
 		<string lang="de">Die Zeitleiste</string>
@@ -702,6 +705,7 @@
 		<string lang="es">Carga el Acumulador</string>
 		<string lang="kr">축압기 충전하기</string>
 		<string lang="pt-br">Carregue o Acumulador</string>
+        <string lang="zh-tw">為蓄電池充能</string>
 </set>
 <set id="ui-tutorialbutton-continue">
 		<string lang="de">Alles klar!</string>
