@@ -64,7 +64,7 @@
 		<string lang="en">Brother! Wait! You forgot your $regenerationcell$!$br$Isn't it your most important module?$br$Let's get rid of those monsters together!</string>
 		<string lang="fr">Frère! Attends! Tu as oublié ta $regenerationcell$!$br$N'est-ce pas ton module le plus important?$br$Débarrassons-nous de ces monstres ensemble!</string>
 		<string lang="zh">好兄弟！等一下！你忘记带上$regenerationcell$了！$br$这不是你最重要的模块吗？$br$现在让我们一起搞定那些怪物吧！</string>
-		<string lang="jp">兄さん！待って！$regenerationcell$忘れてるよ！$br$一番大事な装備でしょ？$br$一緒に怪物退治といこうよ！</string>
+		<string lang="jp">兄さん！待って！$br$$regenerationcell$忘れてるよ！$br$一番大事な装備でしょ？$br$一緒に怪物退治といこうよ！</string>
 		<string lang="ru">Брат! Подожди! Ты забыл свой $regenerationcell$!$br$Разве это не твой самый важный предмет экипировки?$br$Давай избавимся от этих монстров вместе!</string>
 		<string lang="es">¡Hermano! ¡Espera! ¡Olvidaste tu $regenerationcell$!$br$¿No era tu pieza de equipo más importante?$br$¡Deshagámonos de esos monstruos, juntos!</string>
 		<string lang="kr">형! 잠깐! $regenerationcell$를 두고 갔잖아!$br$가장 중요한 장비 아니야?$br$같이 저 괴물들을 쓸어버리자고!</string>
@@ -100,7 +100,7 @@
 		<string lang="en">$grav-$ on a combatant is completely removed and they receive half of it as $damage$ (rounded up).</string>
 		<string lang="fr">$grav-$ est complètement supprimé.$br$combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
 		<string lang="zh">参战单位所受的$grav-$效果将被完全移除，但受到原数值一半的$damage$（取邻近的最大整数）。</string>
-		<string lang="jp">$grav-$はゼロになり、保持者は半分の$damage$を受ける。（切り上げ）</string>
+		<string lang="jp">$grav-$はゼロになり、$br$保持者は半分の$damage$を受ける。（切り上げ）</string>
 		<string lang="ru">$grav-$ полностью удаляется.$br$Бойцы получают половину в виде $damage$ (округление вверх).</string>
 		<string lang="es">$grav-$ se eliminará por completo.$br$Los combatientes reciben la mitad de ello como $damage$ (redondeado hacia arriba).</string>
 		<string lang="kr">전투원에게 부여된 $grav-$는 완전히 제거되며, 절반에 달하는 $damage$를 입게 됩니다 (올림).</string>
@@ -109,10 +109,10 @@
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-negative">
 		<string lang="de">$grav-$$br$führt zu einer $b$Grav.-Spitze$/b$</string>
-		<string lang="en">$grav-$$br$causes a $b$Grav.-Spike$/b$</string>
+		<string lang="en">$grav-$$br$causes a $b$Grav. Spike$/b$</string>
 		<string lang="fr">$grav-$$br$produit une $b$crête grav.$/b$</string>
 		<string lang="zh">$grav-$$br$造成$b$引力尖刺$/b$。</string>
-		<string lang="jp">$grav-$$br$は$b$Grav.-Spike$/b$を引き起こす。</string>
+		<string lang="jp">$grav-$$br$は$b$重力スパイクだ$/b$を引き起こす。</string>
 		<string lang="ru">$grav-$$br$приводит к $b$Грав. Пику$/b$</string>
 		<string lang="es">$grav-$$br$causa un $b$Pico Grav.$/b$</string>
 		<string lang="kr">$grav-$는$br$$b$중력 폭주$/b$를 일으킵니다.</string>
@@ -175,7 +175,7 @@
 		<string lang="jp">ここにモジュールを保管して、キャラクター間で交換もできる。$p$$healingpotion$をラックに入れてくれ。ただ、まだ使わなくていい！</string>
 		<string lang="ru">Здесь вы можете хранить модули и обмениваться ими между персонажами.$p$Возьмите $healingpotion$ в свою стойку, но вам не обязательно его использовать прямо сейчас!</string>
 		<string lang="es">Aquí puedes almacenar módulos e intercambiarlos entre personajes.$p$Lleva la $healingpotion$ a tu bastidor,$br$¡Pero no hace falta usarla de inmediato!</string>
-		<string lang="kr">여기에 모듈을 보관하고 캐릭터 간에 교환할 수 있습니다. $healingpotion$을 랙으로 가져가세요,$br$지금 사용하지는 않으셔도 됩니다!</string>
+		<string lang="kr">여기에 모듈을 보관하고 캐릭터 간에 교환할 수 있습니다.$p$$healingpotion$을 랙으로 가져가세요,$br$지금 사용하지는 않으셔도 됩니다!</string>
 		<string lang="pt-br">Aqui você pode armazenar módulos e trocá-los entre personagens.$p$Pegue a $healingpotion$ em seu rack,$br$mas você não precisa usá-la ainda!</string>
 		<string lang="zh-tw">在這裏，你可以儲存或在角色間交換模組。$p$將$healingpotion$放進模架，$br$但你不必立即使用它！</string>
 </set>
@@ -244,7 +244,7 @@
 		<string lang="en">Did you see how the $regenerationcell$ healed both heroes?$p$This triggered the $curesensor$ twice.$p$It now holds $2energy$.</string>
 		<string lang="fr">Avez-vous vu comment la $regenerationcell$ a guéri les deux héros, déclenchant le $curesensor$ deux fois?$p$Il détient maintenant $2energy$.</string>
 		<string lang="zh">留意到刚才$regenerationcell$同时治疗了两名角色，并触发了$curesensor$两次吗？$p$现在它存有$2energy$。</string>
-		<string lang="jp">$regenerationcell$が味方２人を回復し、$curesensor$を２回発動させたのを見ただろう？$p$いまセンサーは$2energy$保持している。</string>
+		<string lang="jp">$regenerationcell$が味方２人を回復し、$br$$curesensor$を２回発動させたのを見ただろう？$p$いまセンサーは$2energy$保持している。</string>
 		<string lang="ru">Вы видели, как $regenerationcell$ вылечила обоих героев, вызвав $curesensor$ дважды?$p$Теперь он держит $2energy$.</string>
 		<string lang="es">¿Viste cómo la $regenerationcell$ curó a ambos héroes, disparando el $curesensor$ dos veces?$p$Ahora tiene $2energy$.</string>
 		<string lang="kr">방금 $regenerationcell$가 두 주인공을 모두 치유하고 $curesensor$를 두 번 활성화하는 걸 보셨나요?$p$이제 $regenerationcell$는 $2energy$를 보유하고 있습니다.</string>
@@ -319,7 +319,7 @@
 		<string lang="jp">$curesensor$は$overload$を持っている。$br$つまり、放電すると、$cooldown$に入る。$p$$cooldown$中のモジュールは１ターンの間、有効化できず、センサーは発動しない。</string>
 		<string lang="ru">Ваш $curesensor$ имеет $overload$, что означает, что разрядка его$br$поставит его на $cooldown$.$p$Модули на $cooldown$ не могут быть активированы в течение одного хода, и сенсоры не будут реагировать на триггеры.</string>
 		<string lang="es">Tu $curesensor$ tiene $overload$,$br$lo que significa que descargarlo$br$lo pondrá en $cooldown$.$p$Los módulos en $cooldown$ no pueden ser activados por un turno y los sensores no podrán reaccionar.</string>
-		<string lang="kr">$curesensor$는 $overload$를 보유하고 있으며,$br$이는 한번 방전시킨 뒤에$br$$cooldown$ 상태에 들어가게 된다는 것을 의미합니다.$p$$cooldown$ 상태인 모듈은 한 턴 동안 활성화시킬 수 없게 되며, 감지기는 발동하지 않게 됩니다.</string>
+		<string lang="kr">$curesensor$는 $overload$를 보유하고 있으며,$br$이는 한번 방전시킨 뒤에 $cooldown$ 상태에 들어가게 된다는 것을 의미합니다.$p$$cooldown$ 상태인 모듈은 한 턴 동안 활성화시킬 수 없게 되며, 감지기는 발동하지 않게 됩니다.</string>
 		<string lang="pt-br">Seu $curesensor$ tem $overload$,$br$o que significa que descarregá-lo$br$o colocará em $cooldown$.$p$Módulos em $cooldown$ não podem ser ativados por um turno e sensores não reagirão a gatilhos.</string>
 		<string lang="zh-tw">你的$curesensor$已$overload$，$br$這意味著釋能後它將進入$cooldown$。$p$$cooldown$中的模組在一回合內無法被啟動，$br$傳感型模組無法被觸發。</string>
 </set>
@@ -460,7 +460,7 @@
 		<string lang="en">$grav-$$br$accelerates combatants$p$&lt;size=8&gt;(pulls them forward on the timeline)&lt;/size&gt;</string>
 		<string lang="fr">$grav-$$br$accélère les combattants$p$&lt;size=8&gt;(les tire en avant sur la chronologie)&lt;/size&gt;</string>
 		<string lang="zh">$grav-$$b$加速单位$/b$$p$&lt;size=8&gt;（在时间轴上提前该单位回合）&lt;/size&gt;</string>
-		<string lang="jp">$grav-$：$b$敵味方を早くする$/bp$&lt;size=8&gt;（タイムライン上で前に引っ張る）&lt;/size&gt;</string>
+		<string lang="jp">$grav-$：$br$敵味方を早くする$p$&lt;size=8&gt;（タイムライン上で前に引っ張る）&lt;/size&gt;</string>
 		<string lang="ru">$grav-$$br$ускоряет бойцов$p$&lt;size=8&gt;(тянет их вперед по временной шкале)&lt;/size&gt;</string>
 		<string lang="es">$grav-$$br$acelera a los combatientes$p$&lt;size=8&gt;(los empuja hacia adelante en la línea de tiempo)&lt;/size&gt;</string>
 		<string lang="kr">$grav-$ $b$전투원을 가속시킵니다$/b$$p$&lt;size=8&gt;(타임라인에서 앞으로 끌어당깁니다)&lt;/size&gt;</string>
@@ -472,7 +472,7 @@
 		<string lang="en">$grav+$$br$slows down combatants$p$&lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
 		<string lang="fr">$grav+$$br$$b$retarde les combattants$p$&lt;size=8&gt;(les pousse en arrière sur la chronologie)&lt;/size&gt;</string>
 		<string lang="zh">$grav+$$b$减速单位$/b$$p$&lt;size=8&gt;（在时间轴上延后该单位回合）&lt;/size&gt;</string>
-		<string lang="jp">$grav+$：$b$敵味方を遅くする$/bp$&lt;size=8&gt;（タイムライン上で後に押し出す）&lt;/size&gt;</string>
+		<string lang="jp">$grav+$：$br$敵味方を遅くする$p$&lt;size=8&gt;（タイムライン上で後に押し出す）&lt;/size&gt;</string>
 		<string lang="ru">$grav+$$br$замедляет бойцов$p$&lt;size=8&gt;(отталкивает их назад по временной шкале)&lt;/size&gt;</string>
 		<string lang="es">$grav+$$br$retrasa a los combatientes$p$&lt;size=8&gt;(los empuja hacia atrás en la línea de tiempo)&lt;/size&gt;</string>
 		<string lang="kr">$grav+$ $b$전투원을 지연시킵니다$/b$$p$&lt;size=8&gt;(타임라인에서 뒤로 밀어냅니다)&lt;/size&gt;</string>
@@ -508,12 +508,12 @@
 		<string lang="en">An $b$Amplifier +1$/b$!$p$It adds $b$+1$/b$ $energy$ to the current. This one converts from &lt;color=green&gt;$b$green$/b$&lt;/color&gt; to &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;! $p$It is however $cracked$, so it will be $b$destroyed after use$/b$.</string>
 		<string lang="fr">Un $b$Amplificateur +1$/b$!$p$Il ajoute $b$+1$/b$ $energy$ au courant. Celui-ci convertit du &lt;color=green&gt;$b$vert$/b$&lt;/color&gt; au &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;!$p$Il est cependant $cracked$, donc il sera $b$détruit après utilisation$/b$.</string>
 		<string lang="zh">获得$b$增幅器+1$/b$！$p$它可以将&lt;color=green&gt;$b$绿色$/b$&lt;/color&gt;转为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;！在下次战斗发起强力的$b$连锁反应$/b$！$p$但该模块已$cracked$破损，将$b$在使用后销毁$/b$。</string>
-		<string lang="jp">$b$増幅器＋１$/b$！$p$しかも&lt;color=green&gt;$b$緑$/b$&lt;/color&gt;から&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;へ接続可能！これで、次の戦いから強力な$b$連鎖反応$/b$を起こせるぞ！$p$ただ、$cracked$してるから$b$使用後に壊れる$/b$のに注意だ。</string>
+		<string lang="jp">$b$増幅器＋１$/b$！$p$しかも&lt;color=green&gt;$b$緑$/b$&lt;/color&gt;から&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;へ接続可能！$br$これで、次の戦いから強力な$b$連鎖反応$/b$を起こせるぞ！$p$ただ、$cracked$してるから$b$使用後に壊れる$/b$のに注意だ。</string>
 		<string lang="ru">$b$Усилитель +1$/b$! И он преобразует из &lt;color=green&gt;$b$зеленого$/b$&lt;/color&gt; в &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;! Это позволит сильной $b$цепной реакции$/b$ в следующем бою!$p$Он $cracked$, поэтому будет $b$уничтожен$/b$ после использования.</string>
 		<string lang="es">¡Un $b$Amplificador +1$/b$! ¡Y convierte el &lt;color=green&gt;$b$verde$/b$&lt;/color&gt; a &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;! ¡Esto permitirá una fuerte $b$reacción en cadena$/b$ en la próxima batalla!$p$Está $cracked$, así que será $b$destruido$/b$ después de un uso.</string>
-		<string lang="kr">$b$증폭기 +1$/b$이군요! 증폭기는 &lt;color=green&gt;$b$초록색$/b$&lt;/color&gt;을 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;으로 변환합니다! 다음 전투에서 강력한 $b$연쇄 반응$/b$을 일으킬 수 있게 될 겁니다!$p$하지만 $cracked$ 상태의 모듈이기 때문에, $b$쓰고 난 뒤엔 파괴$/b$될 것입니다.</string>
+		<string lang="kr">$b$증폭기 +1$/b$이군요! $p$증폭기는 &lt;color=green&gt;$b$초록색$/b$&lt;/color&gt;을 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;으로 변환합니다! 다음 전투에서 강력한 $b$연쇄 반응$/b$을 일으킬 수 있게 될 겁니다!$p$하지만 $cracked$ 상태의 모듈이기 때문에, $b$쓰고 난 뒤엔 파괴$/b$될 것입니다.</string>
 		<string lang="pt-br">Um $b$Amplificador +1$/b$! E ele converte de &lt;color=green&gt;$b$verde$/b$&lt;/color&gt; para &lt;color=#FF5555&gt;$b$vermelho$/b$&lt;/color&gt;! Isso permitirá uma forte $b$reação em cadeia$/b$ na próxima luta!$p$Está $cracked$, então será $b$destruído$/b$ após o uso.</string>
-		<string lang="zh-tw">獲得$b$增幅器+1$/b$！它可以將&lt;color=green&gt;$b$綠色$/b$&lt;/color&gt;轉為&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;！在下次戰鬥發起強力的$b$連鎖反應$/b$！$p$但該模組已$cracked$，將$b$在使用後銷毀$/b$。</string>
+		<string lang="zh-tw">獲得$b$增幅器+1$/b$！$p$它可以將&lt;color=green&gt;$b$綠色$/b$&lt;/color&gt;轉為&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;！在下次戰鬥發起強力的$b$連鎖反應$/b$！$p$但該模組已$cracked$，將$b$在使用後銷毀$/b$。</string>
 </set>
 <set id="tutorialwindow-lootfactorypotion-description">
 		<string lang="de">Eine $b$Heiltrank-Fabrik +1$/b$!$p$Wenn ich sie benutze, um Heiltränke herzustellen, können wir mit deinem $curesensor$ noch mehr $energy$ erzeugen!</string>
@@ -535,9 +535,9 @@
 		<string lang="jp">$b$汎用$/b$入力端子付き$b$プラズマ変換器$/b$！$p$ジャクソン、儲かったな！$p$ひとまずバックパックに突っ込んどこう。使い時が来たら知らせるよ。</string>
 		<string lang="ru">$b$Конвертер плазмы$/b$ с $универсальным$/b$ входом!$p$Джексон, мы разбогатеем!$p$Положим его пока в рюкзак. Я скажу тебе, когда настанет хороший момент для использования.</string>
 		<string lang="es">¡Un $b$Conversor de Plasma$/b$ con un conector de entrada $b$universal$/b$!$p$¡Seremos ricos, Jackson!$p$Pongámoslo en la mochila por ahora. Te avisaré cuando sea un buen momento para usarlo.</string>
-		<string lang="kr">$b$범용$/b$ 입력 잭이 있는 $b$플라즈마 변환기$/b$라니! 잭슨, 우린 이제 부자야!$p$일단 배낭에 넣어두자고. 쓸만한 좋은 타이밍이 오면 가르쳐줄 테니 말이야.</string>
+		<string lang="kr">$b$범용$/b$ 입력 잭이 있는 $b$플라즈마 변환기$/b$라니! $p$잭슨, 우린 이제 부자야!$p$일단 배낭에 넣어두자고. 쓸만한 좋은 타이밍이 오면 가르쳐줄 테니 말이야.</string>
 		<string lang="pt-br">Um $b$Conversor de Plasma$/b$ com um conector de entrada $b$universal$/b$! Que achado incrível!$p$Vamos colocá-lo na mochila por enquanto. Eu te aviso quando for um bom momento para usar.</string>
-		<string lang="zh-tw">帶有$b$通用$/b$輸入端口的$b$等離子轉換器$/b$！$br$傑克遜，這回我們發財了！$p$暫時把它收到背包裏。$br$等用的時候我會告訴你的。</string>
+		<string lang="zh-tw">帶有$b$通用$/b$輸入端口的$b$等離子轉換器$/b$！$p$傑克遜，這回我們發財了！$p$暫時把它收到背包裏。$br$等用的時候我會告訴你的。</string>
 </set>
 <set id="tutorialwindow-plasma-description">
 		<string lang="de">Dieses Mal können wir unsere überschüssige $energy$ in $plasma$ umwandeln – die $b$Währung$/b$ dieser zerstörten Welt.$p$Mit $plasma$ kannst du Module kaufen oder Charaktere heilen und wiederbeleben.</string>
@@ -628,10 +628,10 @@
 		<string lang="en">The timeline shows the succession of the upcoming turns.$p$$b$Now$/b$, it's $slopperjohnson$'s turn.$p$Afterwards, time will tick forward and $b$in 4 time steps$/b$ it'll be the $chronocat$'s turn.$p$Two steps later, it'll be $slopperjackson$'s turn.</string>
 		<string lang="fr">La chronologie montre la succession des tours à venir.$p$$b$Maintenant$/b$, c'est au tour de $slopperjohnson$.$p$Ensuite, le temps avancera et $b$en 4 étapes$/b$ ce sera au tour du $chronocat$.$p$Deux étapes plus tard, ce sera au tour de $slopperjackson$.</string>
 		<string lang="zh">时间轴显示了角色出战的轮次。$p$$b$现在$/b$，轮到$slopperjohnson$的回合。$p$随后时间轴向前推进，并在$b$4个时间步长$/b$后轮到$chronocat$。$p$再经过2步，轮到$slopperjackson$。</string>
-		<string lang="jp">タイムラインはターン順を示す。$p$$b$いま$/b$は$slopperjohnson$のターンだ。$p$それから、時間は前に進み、$b$４タイムステップ$b$後には$chronocat$のターン。$p$さらに２タイムステップで$slopperjackson$のターン。</string>
+		<string lang="jp">タイムラインはターン順を示す。$p$$b$いま$/b$は$slopperjohnson$のターンだ。$p$それから、時間は前に進み、$b$４タイムステップ$/b$後には$chronocat$のターン。$p$さらに２タイムステップで$slopperjackson$のターン。</string>
 		<string lang="ru">Временная шкала показывает последовательность предстоящих ходов.$p$$b$Сейчас$/b$ ходит $slopperjohnson$.$p$После этого время продвинется вперед и через $b$4 шага$/b$ наступит очередь $chronocat$.$p$Через два шага наступит очередь $slopperjackson$.</string>
 		<string lang="es">La línea temporal muestra la sucesión de los próximos turnos.$p$$b$Ahora$/b$, es el turno de $slopperjohnson$.$p$Después, el tiempo avanzará y $b$en 4 pasos$/b$ será el turno del $chronocat$.$p$Dos pasos después, será el turno de $slopperjackson$.</string>
-		<string lang="kr">타임라인에는 다가올 턴이 차례대로 표시됩니다.$p$$b$현재는$/b$, $slopperjohnson$의 턴입니다.$p$이후에는 시간이 흘러가며, $b$4번의 시간 단계가 지나면$/b$ $chronocat$의 턴이 됩니다.$p$두 단계 이후에는 $slopperjackson$의 턴입니다.</string>
+		<string lang="kr">타임라인에는 다가올 턴이 차례대로 표시됩니다.$p$$b$현재는$/b$, $slopperjohnson$의 턴입니다.$p$이후에는 시간이 흘러가며, $b$4번의 시간 단계가 지나면$/b$$br$$chronocat$의 턴이 됩니다.$p$두 단계 이후에는 $slopperjackson$의 턴입니다.</string>
 		<string lang="pt-br">A linha do tempo mostra a sucessão dos próximos turnos.$p$$b$Agora$/b$, é a vez de $slopperjohnson$.$p$Depois, o tempo avançará e $b$em 4 etapas$/b$ será a vez do $chronocat$.$p$Duas etapas depois, será a vez de $slopperjackson$.</string>
 		<string lang="zh-tw">時間軸顯示了角色出戰的輪次。$p$$b$現在$/b$，輪到$slopperjohnson$的回合。$p$隨後時間軸向前推進，並在$b$4個時間步長$/b$後輪到$chronocat$。$p$再經過2步，輪到$slopperjackson$。</string>
 </set>
@@ -640,10 +640,10 @@
 		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
 		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
-		<string lang="jp">７タイムステップ後にハイライトされてる&lt;sprite name=""timestep"" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８タイムステップ後に$fox$のターンがくる。</string>
+		<string lang="jp">７タイムステップ後にハイライトされてる&lt;sprite name="timestep" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８タイムステップ後に$fox$のターンがくる。</string>
 		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
 		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
-		<string lang="kr">"7단계에 강조표시된 &lt;sprite name="timestep" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요."</string>
+		<string lang="kr">7단계에 강조표시된 &lt;sprite name="timestep" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요.</string>
 		<string lang="pt-br">Veja o &lt;sprite name="timestep" tint=1&gt;$b$círculo$/b$ destacado em 7 etapas? É onde será o próximo turno de $slopperjohnson$.$p$Depois, em 8 etapas, será a vez do $fox$.</string>
 		<string lang="zh-tw">看到7步後高亮的&lt;sprite name="timestep" tint=1&gt;$b$圓圈$/b$了嗎？那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。</string>
 </set>

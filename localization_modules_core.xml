@@ -79,7 +79,7 @@
 		<string lang="jp">プレイヤーキャラが回復されるたび、$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
-		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $br$$b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
 		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
@@ -112,7 +112,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is created.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est créé.</string>
 		<string lang="zh">产生$plasma$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$plasma$の生成時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">$plasma$の生成時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда создаётся $plasma$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es creado.</string>
 		<string lang="kr">$plasma$가 생성될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -328,7 +328,7 @@
 		<string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
 		<string lang="fr">Construe un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$破损的通用$b$治疗药剂$/b$。</string>
-		<string lang="jp">$cracked$付与された汎用端子の$b$Healing Potion$/b$製造。</string>
+		<string lang="jp">$cracked$付与された汎用端子の$b$回復薬$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
@@ -355,7 +355,7 @@
 		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
-		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
+		<string lang="kr">활성화 시$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 </set>
@@ -676,7 +676,7 @@
 		<string lang="en">Destroys another target module on this rack to generate $2energy$.</string>
 		<string lang="fr">Génère $2energy$ à partir de la destruction d'un autre module ciblé.</string>
 		<string lang="zh">销毁模架上另一自选模块，以换取$2energy$。</string>
-		<string lang="jp">ラックの別モジュールを破壊し、$2energy$発電。</string>
+		<string lang="jp">ラックの別モジュールを破壊し、$br$$2energy$発電。</string>
 		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2energy$.</string>
 		<string lang="es">Destruye otro módulo objetivo para generar $2energy$.</string>
 		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 $2energy$를 생성합니다.</string>
