@@ -134,13 +134,13 @@
 		<string lang="de">Entfernt $grav+1$ auf einem Gegner, um $1damage$ zuzufügen.</string>
 		<string lang="en">Removes $grav+1$ on an enemy to inflict $1damage$.</string>
 		<string lang="fr">Implose $grav+1$ sur la cible et inflige $1damage$.</string>
-		<string lang="zh">移除敌人所受的$grav+1$，并造成$1damage$。</string>
+		<string lang="zh">移除敌人所受的$grav+1$，$br$并造成$1damage$。</string>
 		<string lang="jp">敵１体から$grav+1$除去し、$1damage$。</string>
 		<string lang="ru">Удаляет $grav+1$ с врага и наносит $1damage$.</string>
 		<string lang="es">Remueve $grav+1$ en un enemigo para infligir $1damage$.</string>
 		<string lang="kr">적의 $grav+1$를 제거해 $1damage$를 줍니다.</string>
 		<string lang="pt-br">Remove $grav+1$ em um inimigo para infligir $1damage$.</string>
-		<string lang="zh-tw">移除敵人所受的$grav+1$，並造成$1damage$。</string>
+		<string lang="zh-tw">移除敵人所受的$grav+1$，$br$並造成$1damage$。</string>
 </set>
 <set id="description-skill-gravimpulse">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+4$ zu.</string>
@@ -585,7 +585,7 @@
 		<string lang="es">Inflige $1damage$ a un enemigo.$p$Puede eliminar $grav+1$ del objetivo para aumentar $might$ en $1$.</string>
 		<string lang="kr">적에게 $1damage$를 줍니다.$p$대상의 $grav+1$를 제거해 $might$을 $1$ 상승시킬 수 있습니다.</string>
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.$p$Pode remover $grav+1$ do alvo para aumentar $might$ em $1$.</string>
-		<string lang="zh-tw">對一名敵人造成$1damage$。$br$有概率移除目標$grav+1$以提升$1$$might$。</string>
+		<string lang="zh-tw">對一名敵人造成$1damage$。$p$有概率移除目標$grav+1$以提升$1$$might$。</string>
 </set>
 <set id="description-skill-shleck-protozoon">
 		<string lang="de">Fügt $1damage$ zu.$p$Kann $grav+1$ vom Ziel entfernen, um sich selbst um $1$ zu heilen.</string>

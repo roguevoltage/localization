@@ -45,7 +45,7 @@
 		<string lang="es">Vuelve a $slopperjohnson$$br$y muévela a su bastidor.</string>
 		<string lang="kr">다시 $slopperjohnson$으로 전환한 뒤$br$랙으로 이동시키세요.</string>
 		<string lang="pt-br">Volte para $slopperjohnson$$br$e mova-a para a mochila dele.</string>
-		<string lang="zh-tw">切換回$slopperjohnson$$br$，並將其移進模架。</string>
+		<string lang="zh-tw">切換回$slopperjohnson$，$br$並將其移進模架。</string>
 </set>
 <set id="happening-tutorial-slopperjacksonjoin-introduction">
 		<string lang="de">Ereignis</string>
@@ -105,7 +105,7 @@
 		<string lang="es">$grav-$ se eliminará por completo.$br$Los combatientes reciben la mitad de ello como $damage$ (redondeado hacia arriba).</string>
 		<string lang="kr">전투원에게 부여된 $grav-$는 완전히 제거되며, 절반에 달하는 $damage$를 입게 됩니다 (올림).</string>
 		<string lang="pt-br">$grav-$ é completamente removido.$br$Os combatentes recebem metade dele como $damage$ (arredondado para cima).</string>
-		<string lang="zh-tw">參戰單位所受的$grav-$效果將被完全移除，但受到原數值一半的$damage$（取鄰近的最大整數）。</string>
+		<string lang="zh-tw">參戰單位所受的$grav-$效果將被完全移除，$br$但受到原數值一半的$damage$（取鄰近的最大整數）。</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-negative">
 		<string lang="de">$grav-$$br$führt zu einer $b$Grav.-Spitze$/b$</string>
@@ -243,7 +243,7 @@
 		<string lang="de">Hast du gesehen, wie die $regenerationcell$ beide Charaktere geheilt und den $curesensor$ zweimal ausgelöst hat?$p$Er hält jetzt $2energy$.</string>
 		<string lang="en">Did you see how the $regenerationcell$ healed both heroes?$p$This triggered the $curesensor$ twice.$p$It now holds $2energy$.</string>
 		<string lang="fr">Avez-vous vu comment la $regenerationcell$ a guéri les deux héros, déclenchant le $curesensor$ deux fois?$p$Il détient maintenant $2energy$.</string>
-		<string lang="zh">留意到刚才$regenerationcell$同时治疗了两名角色，并触发了$curesensor$两次吗？$p$现在它存有$2energy$。</string>
+		<string lang="zh">留意到刚才$regenerationcell$同时治疗了两名角色，$br$并触发了$curesensor$两次吗？$p$现在它存有$2energy$。</string>
 		<string lang="jp">$regenerationcell$が味方２人を回復し、$curesensor$を２回発動させたのを見ただろう？$p$いまセンサーは$2energy$保持している。</string>
 		<string lang="ru">Вы видели, как $regenerationcell$ вылечила обоих героев, вызвав $curesensor$ дважды?$p$Теперь он держит $2energy$.</string>
 		<string lang="es">¿Viste cómo la $regenerationcell$ curó a ambos héroes, disparando el $curesensor$ dos veces?$p$Ahora tiene $2energy$.</string>
@@ -315,7 +315,7 @@
 		<string lang="de">Dein $curesensor$ hat $overload$,$br$was bedeutet, dass er nach dem Entladen auf $cooldown$ gesetzt wird.$p$Module auf $cooldown$ können für einen Zug nicht aktiviert werden und Sensoren reagieren nicht auf Trigger.</string>
 		<string lang="en">Your $curesensor$ has $overload$,$br$which means that discharging it$br$will set it on $cooldown$.$p$Modules on $cooldown$ cannot be activated for one turn and sensors will not react to triggers.</string>
 		<string lang="fr">Votre $curesensor$ a $overload$,$br$ce qui signifie que le décharger$br$le mettra en $cooldown$.$p$Les modules en $cooldown$ ne peuvent pas être activés pendant un tour et les capteurs ne réagiront pas aux déclencheurs.</string>
-		<string lang="zh">你的$curesensor$已$overload$，$br$这意味着释能后$br$它将进入$cooldown$。$p$$cooldown$中的模块在一回合内无法被激活，传感型模块无法被触发。</string>
+		<string lang="zh">你的$curesensor$已$overload$，$br$这意味着释能后它将进入$cooldown$。$p$$cooldown$中的模块在一回合内无法被激活，$br$传感型模块无法被触发。</string>
 		<string lang="jp">$curesensor$は$overload$を持っている。$br$つまり、放電すると、$cooldown$に入る。$p$$cooldown$中のモジュールは１ターンの間、有効化できず、センサーは発動しない。</string>
 		<string lang="ru">Ваш $curesensor$ имеет $overload$, что означает, что разрядка его$br$поставит его на $cooldown$.$p$Модули на $cooldown$ не могут быть активированы в течение одного хода, и сенсоры не будут реагировать на триггеры.</string>
 		<string lang="es">Tu $curesensor$ tiene $overload$,$br$lo que significa que descargarlo$br$lo pondrá en $cooldown$.$p$Los módulos en $cooldown$ no pueden ser activados por un turno y los sensores no podrán reaccionar.</string>
@@ -525,7 +525,7 @@
 		<string lang="es">¡Una $b$Fábrica de Pociones +1$/b$!$p$¡Hermano, me dejas usarla?$br$¡Te prometo que también haré pociones para ti!</string>
 		<string lang="kr">$b$물약 공장 +1$/b$이네요!$p$저걸 사용해 치유 물약을 조립하면, $curesensor$로 더 많은 $energy$를 생산할 수 있습니다!</string>
 		<string lang="pt-br">Uma $b$Fábrica de Poções +1$/b$!$p$Irmão, posso usar esta?$br$Eu prometo que também construirei poções de cura para você!</string>
-		<string lang="zh-tw">是$b$藥劑工廠+1$/b$！$p$只要用它製造治療藥劑，你的$curesensor$就可以不斷產出更多的$energy$！</string>
+		<string lang="zh-tw">是$b$藥劑工廠+1$/b$！$p$只要用它製造治療藥劑，$br$你的$curesensor$就可以不斷產出更多的$energy$！</string>
 </set>
 <set id="tutorialwindow-lootplasmaconverter-description">
 		<string lang="de">Ein $b$$plasma$-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!$p$Jackson, wir werden reich!$p$Lass ihn uns vorerst im Rucksack aufbewahren. Ich sage dir, wenn ein guter Moment kommt, ihn zu benutzen!</string>
@@ -633,19 +633,19 @@
 		<string lang="es">La línea temporal muestra la sucesión de los próximos turnos.$p$$b$Ahora$/b$, es el turno de $slopperjohnson$.$p$Después, el tiempo avanzará y $b$en 4 pasos$/b$ será el turno del $chronocat$.$p$Dos pasos después, será el turno de $slopperjackson$.</string>
 		<string lang="kr">타임라인에는 다가올 턴이 차례대로 표시됩니다.$p$$b$현재는$/b$, $slopperjohnson$의 턴입니다.$p$이후에는 시간이 흘러가며, $b$4번의 시간 단계가 지나면$/b$ $chronocat$의 턴이 됩니다.$p$두 단계 이후에는 $slopperjackson$의 턴입니다.</string>
 		<string lang="pt-br">A linha do tempo mostra a sucessão dos próximos turnos.$p$$b$Agora$/b$, é a vez de $slopperjohnson$.$p$Depois, o tempo avançará e $b$em 4 etapas$/b$ será a vez do $chronocat$.$p$Duas etapas depois, será a vez de $slopperjackson$.</string>
-		<string lang="zh-tw">時間軸顯示了角色出戰的輪次。$p$$b$現在$/b$，輪到$slopperjohnson$的回合。$p$隨後時間軸向前推進，並在$b$4個時間步長$/b$後輪到$chronocat$。$p$再經過2步，輪到$slopperjackson$。</string>
+		<string lang="zh-tw">時間軸顯示了角色出戰的輪次。$p$$b$現在$/b$，輪到$slopperjohnson$的回合。$p$隨後時間軸向前推進，並在$b$4個時間步長$/b$後輪到$br$$chronocat$。$p$再經過2步，輪到$slopperjackson$。</string>
 </set>
 <set id="tutorialwindow-timeline-description-2">
 		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
 		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
-		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
+		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？$br$那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
 		<string lang="jp">７タイムステップ後にハイライトされてる&lt;sprite name=""timestep"" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、８タイムステップ後に$fox$のターンがくる。</string>
 		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
 		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
 		<string lang="kr">"7단계에 강조표시된 &lt;sprite name="timestep" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요."</string>
 		<string lang="pt-br">Veja o &lt;sprite name="timestep" tint=1&gt;$b$círculo$/b$ destacado em 7 etapas? É onde será o próximo turno de $slopperjohnson$.$p$Depois, em 8 etapas, será a vez do $fox$.</string>
-		<string lang="zh-tw">看到7步後高亮的&lt;sprite name="timestep" tint=1&gt;$b$圓圈$/b$了嗎？那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。</string>
+		<string lang="zh-tw">看到7步後高亮的&lt;sprite name="timestep" tint=1&gt;$b$圓圈$/b$了嗎？$br$那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。</string>
 </set>
 <set id="tutorialwindow-timeline-header">
 		<string lang="de">Die Zeitleiste</string>
