@@ -7,7 +7,7 @@
 		<string lang="jp">ラックから着脱不可</string>
 		<string lang="ru">Нельзя забрать со стойки</string>
 		<string lang="es">No puede ser tomado del bastidor</string>
-		<string lang="kr">랙에서 제거할 수 없습니다</string>
+		<string lang="kr">랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 		<string lang="zh-tw">無法取下</string>
 </set>
@@ -19,7 +19,7 @@
 		<string lang="jp">$energy$保持中はラック固定</string>
 		<string lang="ru">Нельзя забрать со стойки$br$пока держит $energy$</string>
 		<string lang="es">No puede ser tomado del bastidor$br$mientras contiene $energy$</string>
-		<string lang="kr">$energy$를 보유한 동안 랙에 고정됨</string>
+		<string lang="kr">$energy$를 보유한 동안 랙에 고정됨</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto segurando $energy$</string>
 		<string lang="zh-tw">存有$energy$時無法取下</string>
 </set>
@@ -31,7 +31,7 @@
 		<string lang="jp">脅威モジュール配線中はラックから着脱不可</string>
 		<string lang="ru">Нельзя забрать со стойки$br$пока подключен к угрозе модуля</string>
 		<string lang="es">No puede ser tomado del bastidor$br$mientras está conectado a un módulo de amenaza</string>
-		<string lang="kr">위협 모듈과 연결되어 있는 동안에는 랙에서 제거할 수 없습니다</string>
+		<string lang="kr">위협 모듈과 연결되어 있는 동안에는 랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto conectado a um módulo de ameaça</string>
 		<string lang="zh-tw">與威脅模組相連時$br$無法取下</string>
 </set>
@@ -43,7 +43,7 @@
 		<string lang="jp">起動時、自身を複製し、複製に$cooldown$付与、$replicating$除去</string>
 		<string lang="ru">При активации этот модуль создаст копию самого себя. Копия находится на $cooldown$ и теряет $replicating$.</string>
 		<string lang="es">Al activarse, este módulo construirá una copia de sí mismo. La copia está en $cooldown$ y pierde $replicating$.</string>
-		<string lang="kr">활성화 시, 이 모듈은 자신의 복사본을 조립합니다. 복사본은 $cooldown$ 상태가 되며, $replicating$ 상태를 잃습니다.</string>
+		<string lang="kr">활성화 시, 이 모듈은 자신의 복사본을 조립합니다. 복사본은 $cooldown$ 상태가 되며, $replicating$ 상태를 잃습니다.</string>
 		<string lang="pt-br">Na ativação, este módulo construirá uma cópia de si mesmo. A cópia está em $cooldown$ e perde $replicating$.</string>
 		<string lang="zh-tw">啟動時製造自身的複製品。複製品處於$cooldown$中，並失去$replicating$屬性。</string>
 </set>
@@ -55,7 +55,7 @@
 		<string lang="jp">起動時、自身を複製し、複製に$cooldown$付与</string>
 		<string lang="ru">При активации этот модуль создаст копию самого себя. Копия находится на $cooldown$.</string>
 		<string lang="es">Al activarse, este módulo construirá una copia de sí mismo. La copia está en $cooldown$.</string>
-		<string lang="kr">활성화 시, 이 모듈은 자신의 복사본을 조립합니다. 복사본은 $cooldown$ 상태가 됩니다.</string>
+		<string lang="kr">활성화 시, 이 모듈은 자신의 복사본을 조립합니다. 복사본은 $cooldown$ 상태가 됩니다.</string>
 		<string lang="pt-br">Na ativação, este módulo construirá uma cópia de si mesmo. A cópia está em $cooldown$.</string>
 		<string lang="zh-tw">啟動時製造自身的複製品。複製品處於$cooldown$中。</string>
 </set>
@@ -67,7 +67,7 @@
 		<string lang="jp">起動で$storm$を$4$タイムステップ引き寄せる</string>
 		<string lang="ru">Активация притягивает $storm$$br$на до $4$ шагов</string>
 		<string lang="es">La activación atrae la $storm$$br$hasta $4$ pasos de tiempo</string>
-		<string lang="kr">활성화 시 $storm$을 최대 $4$ 시간 단계까지 유도합니다</string>
+		<string lang="kr">활성화 시 $storm$을 최대 $4$ 시간 단계까지 유도합니다</string>
 		<string lang="pt-br">Ativação atrai a $storm$$br$por até $4$ passos de tempo</string>
 		<string lang="zh-tw">啟動時令$storm$提前$br$最多$4$個時間步</string>
 </set>
@@ -79,7 +79,7 @@
 		<string lang="jp">所有者のターン終了時に破壊される</string>
 		<string lang="ru">Будет уничтожен после хода владельца</string>
 		<string lang="es">Será destruido después del turno del dueño</string>
-		<string lang="kr">소유자의 턴 이후에 파괴됩니다</string>
+		<string lang="kr">소유자의 턴 이후에 파괴됩니다</string>
 		<string lang="pt-br">Será destruído após o turno do dono</string>
 		<string lang="zh-tw">擁有者的回合結束後自毀</string>
 </set>
@@ -91,7 +91,7 @@
 		<string lang="jp">起動で所有者に$b$5$/b$タイムステップ間、$vulnerable$付与</string>
 		<string lang="ru">Активация накладывает на владельца $vulnerable$ на $b$5$/b$ шагов</string>
 		<string lang="es">La activación inflige al dueño con $vulnerable$ por $b$5$/b$ pasos de tiempo</string>
-		<string lang="kr">활성화 시 소유자에게 $b$5$/b$ 시간 단계 동안 $vulnerable$을 부여합니다</string>
+		<string lang="kr">활성화 시 소유자에게 $b$5$/b$ 시간 단계 동안 $vulnerable$을 부여합니다</string>
 		<string lang="pt-br">A ativação inflige ao dono com $vulnerable$ por $b$5$/b$ passos de tempo</string>
 		<string lang="zh-tw">啟動後對擁有者施加$vulnerable$，持續$b$5$/b$個時間步</string>
 </set>
@@ -103,7 +103,7 @@
 		<string lang="jp">時間停止中</string>
 		<string lang="ru">Время останавливается для этого бойца.</string>
 		<string lang="es">El tiempo se detiene para este combatiente.</string>
-		<string lang="kr">이 전투원의 시간은 멈춰있습니다.</string>
+		<string lang="kr">이 전투원의 시간은 멈춰있습니다.</string>
 		<string lang="pt-br">O tempo para este combatente.</string>
 		<string lang="zh-tw">本場戰鬥中時間靜止。</string>
 </set>
@@ -115,7 +115,7 @@
 		<string lang="jp">噴火から$damage$を受ける代わりに、$grav+$付与</string>
 		<string lang="ru">Входящий $damage$ от вулкана превращается в $grav+$.</string>
 		<string lang="es">El daño entrante de $damage$ por el volcán es transformado en $grav+$.</string>
-		<string lang="kr">화산에 의한 다음 $damage$는 $grav+$로 변환됩니다.</string>
+		<string lang="kr">화산에 의한 다음 $damage$는 $grav+$로 변환됩니다.</string>
 		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $grav+$.</string>
 		<string lang="zh-tw">火山對自身造成的$damage$轉換為$grav+$。</string>
 </set>
@@ -127,7 +127,7 @@
 		<string lang="jp">噴火から$damage$を受ける代わりに、$might$上昇</string>
 		<string lang="ru">Входящий $damage$ от вулкана превращается в $might$.</string>
 		<string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
-		<string lang="kr">화산에 의한 다음 $damage$는 $might$으로 변환됩니다.</string>
+		<string lang="kr">화산에 의한 다음 $damage$는 $might$으로 변환됩니다.</string>
 		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
 		<string lang="zh-tw">火山對自身造成的$damage$轉換為$might$。</string>
 </set>
@@ -139,7 +139,7 @@
 		<string lang="jp">キャラ専用</string>
 		<string lang="ru">Снаряжение персонажа</string>
 		<string lang="es">Equipo de Personaje</string>
-		<string lang="kr">캐릭터 소지품</string>
+		<string lang="kr">캐릭터 소지품</string>
 		<string lang="pt-br">Equipamento do Personagem</string>
 		<string lang="zh-tw">角色自帶</string>
 </set>
@@ -151,7 +151,7 @@
 		<string lang="jp">複製１</string>
 		<string lang="ru">Репликация 1</string>
 		<string lang="es">Replicación 1</string>
-		<string lang="kr">증식 1</string>
+		<string lang="kr">증식 1</string>
 		<string lang="pt-br">Replicação 1</string>
 		<string lang="zh-tw">複製1</string>
 </set>
@@ -163,7 +163,7 @@
 		<string lang="jp">無限複製</string>
 		<string lang="ru">Бесконечная репликация</string>
 		<string lang="es">Replicación Infinita</string>
-		<string lang="kr">무한 증식</string>
+		<string lang="kr">무한 증식</string>
 		<string lang="pt-br">Replicação Infinita</string>
 		<string lang="zh-tw">無限複製</string>
 </set>
@@ -175,7 +175,7 @@
 		<string lang="jp">大嵐誘引</string>
 		<string lang="ru">Притяжение Шторма</string>
 		<string lang="es">Atracción de Tormenta</string>
-		<string lang="kr">폭풍 유도</string>
+		<string lang="kr">폭풍 유도</string>
 		<string lang="pt-br">Atração de Tempestade</string>
 		<string lang="zh-tw">風暴感召</string>
 </set>
@@ -187,7 +187,7 @@
 		<string lang="jp">揮発性</string>
 		<string lang="ru">Мимолётный</string>
 		<string lang="es">Volátil</string>
-		<string lang="kr">휘발성</string>
+		<string lang="kr">휘발성</string>
 		<string lang="pt-br">Volátil</string>
 		<string lang="zh-tw">激蕩</string>
 </set>
@@ -199,7 +199,7 @@
 		<string lang="jp">有害</string>
 		<string lang="ru">Опасность</string>
 		<string lang="es">Peligroso</string>
-		<string lang="kr">유해성</string>
+		<string lang="kr">유해성</string>
 		<string lang="pt-br">Perigoso</string>
 		<string lang="zh-tw">危害</string>
 </set>
@@ -211,7 +211,7 @@
 		<string lang="jp">停止</string>
 		<string lang="ru">Стазис</string>
 		<string lang="es">Estasis</string>
-		<string lang="kr">정지</string>
+		<string lang="kr">정지</string>
 		<string lang="pt-br">Estase</string>
 		<string lang="zh-tw">靜滯</string>
 </set>
@@ -223,7 +223,7 @@
 		<string lang="jp">噴火$damage$$grav+$置換</string>
 		<string lang="ru">Вулкан $damage$ в $grav+$</string>
 		<string lang="es">$damage$ de volcán a $grav+$</string>
-		<string lang="kr">화산 $damage$에서 $grav+$</string>
+		<string lang="kr">화산 $damage$에서 $grav+$</string>
 		<string lang="pt-br">Vulcão $damage$ para $grav+$</string>
 		<string lang="zh-tw">火山$damage$轉化（$grav+$）</string>
 </set>
@@ -235,7 +235,7 @@
 		<string lang="jp">噴火$damage$$might$置換</string>
 		<string lang="ru">Вулкан $damage$ в $might$</string>
 		<string lang="es">$damage$ de volcán a $might$</string>
-		<string lang="kr">화산 $damage$에서 $might$</string>
+		<string lang="kr">화산 $damage$에서 $might$</string>
 		<string lang="pt-br">Vulcão $damage$ para $might$</string>
 		<string lang="zh-tw">火山$damage$轉化（$might$）</string>
 </set>
@@ -247,7 +247,7 @@
 		<string lang="jp">停止</string>
 		<string lang="ru">Стазис</string>
 		<string lang="es">Estasis</string>
-		<string lang="kr">정지</string>
+		<string lang="kr">정지</string>
 		<string lang="pt-br">Estase</string>
 		<string lang="zh-tw">靜滯</string>
 </set>
