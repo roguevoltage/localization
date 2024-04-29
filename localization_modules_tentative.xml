@@ -152,7 +152,7 @@
 </set>
 <set id="description-module-collectormalfunction">
 	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
-	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is $outoforder$ or $cooldown$.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module receives $outoforder$ or $cooldown$.</string>
 	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
 	<string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
 	<string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
@@ -174,7 +174,7 @@
 </set>
 <set id="description-module-effectorgravamplification">
 	<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
-	<string lang="en">Inflicts target combatant with $gravamplification$.$br$(Duration: $energy$×3).</string>
+	<string lang="en">Inflicts target combatant with $gravamplification$.$p$(Duration: $energy$×3).</string>
 	<string lang="fr">Inflige $gravamplification$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
 	<string lang="zh">让目标获得 $gravamplification$，持续 $energy$×3。</string>
 	<string lang="jp">ターゲットの戦闘者に$gravamplification$を与えます。$br$(持続時間：$energy$×3)。</string>
@@ -206,19 +206,12 @@
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
 </set>
 <set id="name-module-passivestoragechargerandom">
-	<string lang="de">unpräziese Lade Station </string>
-	<string lang="en">Unprecise Charging Station </string>
-	<string lang="fr">Station de Charge Aléatoire</string>
-	<string lang="zh">不精确充电站</string>
-	<string lang="jp">非精密充電ステーション</string>
-	<string lang="ru">Неточная Зарядная Станция</string>
-	<string lang="es">Estación de Carga no Precisa</string>
-	<string lang="kr">불명확한 충전소</string>
-	<string lang="pt-br">Estação de Carregamento Imprópria</string>
+	<string lang="de">Speicher-Induktor</string>
+	<string lang="en">Storage Inductor</string>
 </set>
 <set id="description-module-passivestoragechargerandom">
 	<string lang="de">Lädt zu Beginn des eigenen Zuges ein zufälliges $storagemodule$ auf diesem Rack mit $1$ $energy$</string>
-	<string lang="en">At the beginning of the turn, charges a random $storagemodule$ on this rack with $1$ $energy$</string>
+	<string lang="en">At the beginning of the turn, charges a random $storagemodule$ on this rack with $1energy$.</string>
     <string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sur ce rack avec $1$ $energy$</string>
     <string lang="zh">在回合开始时，使用$1$ $energy$为此架上的一个随机$storagemodule$充电</string>
     <string lang="jp">ターンの最初に、このラック上のランダムな$storagemodule$を$1$ $energy$で充電します</string>
@@ -239,7 +232,7 @@
 </set>
 <set id="description-module-collectorcollector">
 	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderer $sensor$ geladen wird.</string>
-	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another $sensor$ is charged.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another $sensor$ is triggered.</string>
 	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre $sensor$ est chargé.</string>
 	<string lang="zh">每当另一个传感器充电时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
 	<string lang="jp">他のセンサーが充電されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
@@ -261,7 +254,7 @@
 </set>
 <set id="description-module-storagecellselfcharging-proximity">
 	<string lang="de">Wird am am anfang des Zuges um $1$ $energy$ geladen wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt ist.</string>
-	<string lang="en">Charges by $1$ $energy$ at the beginning of the turn if another combatant is on the same time step.</string>
+	<string lang="en">Is charged with $1energy$ at the beginning of the turn if there is another combatant on the same time step as the owner.</string>
 	<string lang="fr">Se charge de $1$ $energy$ au début du tour si un autre combattant est sur la même étape de temps.</string>
 	<string lang="zh">如果另一个战斗者在同一时间步上，回合开始时充电$1$ $energy$。</string>
 	<string lang="jp">もう一人の戦闘者が同じ時間ステップにいる場合、ターンの最初に$1$ $energy$で充電します。</string>
@@ -283,7 +276,7 @@
 </set>
 <set id="description-module-effectortaunt">
 	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
-    <string lang="en">Inflicts target character with $taunt$.$br$(Duration: $energy$×3)</string>
+    <string lang="en">Applies $taunt$ to target allly.$p$(Duration: $energy$×3).</string>
     <string lang="fr">Inflige $taunt$ sur le personnage ciblé.$br$(Durée: $energy$×3)</string>
     <string lang="zh">让目标角色获得 $taunt$.$br$(持续时间：$energy$×3)</string>
     <string lang="jp">ターゲットキャラクターに$taunt$を与えます。$br$(持続時間：$energy$×3)</string>
