@@ -396,8 +396,8 @@
 		<string lang="zh-tw">擁有者回合開始時，移除所有己方角色的$grav+1$。</string>
 </set>
 <set id="description-module-passiveshockabsorber">
-		<string lang="de">Wenn ein anderes Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
-		<string lang="en">If another module on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
+		<string lang="de">Wenn ein Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
+		<string lang="en">If a module on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
 		<string lang="fr">Si un autre module sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
 		<string lang="zh">此模架上的其他模块$outoforder$时，改为由该模块代替其发生$outoforder$。</string>
 		<string lang="jp">このラックの別モジュールに$outoforder$付与されるなら、代わりに$outoforder$付与。</string>
@@ -405,6 +405,9 @@
 		<string lang="es">Si otro módulo en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
 		<string lang="kr">이 랙의 다른 모듈에게 $outoforder$ 상태가 부여될 경우, 이 모듈이 대신 $outoforder$ 상태가 됩니다.</string>
 		<string lang="zh-tw">此模架上的其他模組$outoforder$時，改為由該模組代替其發生$outoforder$。</string>
+</set>
+<set id="description-module-passiveshockredirector">
+		<string lang="en">If a module on this rack should receive $cooldown$, another target module on this rack receives $cooldown$ instead.</string>
 </set>
 <set id="description-module-passivestormlantern">
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges des Charakters den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
@@ -1053,6 +1056,10 @@
 		<string lang="kr">충격 흡수기</string>
 		<string lang="pt-br">Absorvedor de Choque</string>
 		<string lang="zh-tw">衝擊吸收器</string>
+</set>
+<set id="name-module-passiveshockredirector">
+		<string lang="de">Schock-Umlenker</string>
+		<string lang="en">Shock Redirector</string>
 </set>
 <set id="name-module-passivestormlantern">
 		<string lang="de">Sturmlaterne</string>
