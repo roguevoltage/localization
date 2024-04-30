@@ -267,7 +267,7 @@
 		<string lang="de">$sensor$-Module verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $storageicon$$b$Akkumulator$/b$, wo sie gespeichert werden kann.</string>
 		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Accumulator$/b$ where it can be stored.</string>
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Accumulateur$/b$ où il peut être stocké.</string>
-		<string lang="zh">如果这些$energy$本回合未被释放，将尽数消失。$p$将它们导入$storageicon$$b$蓄电池$/b$中储存。</string>
+		<string lang="zh">如果在回合结束时没有释放能量，$sensor$将失去所有$energy$。$p$将其导入至$storageicon$$b$Accumulator$/b$储存起来。</string>
 		<string lang="jp">ターン終了時までに放電しなければ、センサーは$energy$をすべて失う。$p$$storageicon$$b$蓄電池$/b$に接続し、蓄電するんだ。</string>
 		<string lang="ru">Сенсоры потеряют всю $energy$, если не будут разряжены к концу хода.$p$Маршрутизируйте его в $storageicon$$b$Аккумулятор$/b$, где он может быть сохранен.</string>
 		<string lang="es">Módulos $sensor$ perderán toda la $energy$ al final del turno si no se descargan.$p$Redirígelo al $storageicon$$b$Acumulador$/b$, donde puede ser almacenado.</string>
@@ -279,7 +279,7 @@
 		<string lang="de">$energy$ speichern</string>
 		<string lang="en">Storing $energy$</string>
 		<string lang="fr">Stockage d'$energy$</string>
-		<string lang="zh">储存$energy$</string>
+		<string lang="zh">储存$energy$中</string>
 		<string lang="jp">$energy$の保存</string>
 		<string lang="ru">Сохранение $energy$</string>
 		<string lang="es">Almacenar $energy$</string>
@@ -291,7 +291,7 @@
 		<string lang="de">Lass uns deine nächste Kettenreaktion vorbereiten:$p$Lade deine $regenerationcell$.$p$Zu Beginn von $slopperjohnson$$b$s nächstem Zug$/b$ wird sie $1healing$ auf beide Charaktere anwenden und den $curesensor$ zweimal auslösen.</string>
 		<string lang="en">Let's prepare your next chain reaction:$p$Use this turn to charge your $regenerationcell$.$p$At the beginning of $slopperjohnson$$b$'s next turn$/b$, it will apply$br$$1healing$ to both heroes.$p$This will trigger the $curesensor$ twice.</string>
 		<string lang="fr">Utilisons ce tour pour préparer une réaction en chaîne encore plus grande.$p$Chargez votre $regenerationcell$.$p$Au début du $b$prochain tour de $/b$$slopperjohnson$, elle appliquera $1healing$ aux deux héros et déclenchera le $curesensor$ deux fois.</string>
-		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，它将同时治疗两名角色，并触发$curesensor$两次。</string>
+		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，$br$它将同时治疗两名角色，并触发$curesensor$两次。</string>
 		<string lang="jp">このターンは、さらに巨大な連鎖反応に備えよう。$p$$regenerationcell$を充電するんだ。$p$$slopperjohnson$の次ターン、味方２人を回復し、$curesensor$を２回発動させる。</string>
 		<string lang="ru">Давайте используем этот ход, чтобы подготовить еще более мощную цепную реакцию.$p$Зарядите вашу $regenerationcell$.$p$На следующем ходу $slopperjohnson$ она вылечит обоих героев, вызвав $curesensor$ дважды.</string>
 		<string lang="es">Utilicemos este turno para preparar una reacción en cadena aún más grande.$p$Carga tu $regenerationcell$.$p$En el próximo turno de $slopperjohnson$, curará a ambos héroes, disparando el $curesensor$ dos veces.</string>
@@ -519,7 +519,7 @@
 		<string lang="de">Eine $b$Heiltrank-Fabrik +1$/b$!$p$Wenn ich sie benutze, um Heiltränke herzustellen, können wir mit deinem $curesensor$ noch mehr $energy$ erzeugen!</string>
 		<string lang="en">A $b$Potion Factory +1$/b$!$p$If I use it to construct healing potions, we can generate even more $energy$ with your $curesensor$!</string>
 		<string lang="fr">Une $b$Fabrique de Potions +1$/b$!$p$Si je l'utilise pour fabriquer des potions de soin, nous pouvons générer encore plus d'$energy$ avec ton $curesensor$!</string>
-		<string lang="zh">是$b$药剂工厂+1$/b$！$p$只要用它制造治疗药剂，你的$curesensor$就可以不断产出更多的$energy$！</string>
+		<string lang="zh">是$b$药剂工厂+1$/b$！$p$只要用它制造治疗药剂，$br$你的$curesensor$就可以不断产出更多的$energy$！</string>
 		<string lang="jp">$b$回復薬製造機＋１！$/b$$p$これで回復薬を作れば、$curesensor$でさらに$energy$を発電できる！</string>
 		<string lang="ru">$b$Фабрика зелий +1$/b$!$p$Брат, могу ли я использовать эту?$br$Я обещаю также создавать зелья лечения для тебя!</string>
 		<string lang="es">¡Una $b$Fábrica de Pociones +1$/b$!$p$¡Hermano, me dejas usarla?$br$¡Te prometo que también haré pociones para ti!</string>
@@ -603,7 +603,7 @@
 		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ aktivierst, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der $1$ $energy$ erzeugt.$p$Leite ihn durch den $amplifier$ für einen starken Angriff mit$br$$2damage$.</string>
 		<string lang="en">If you activate the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate $1$ $energy$.$p$Route it through the $amplifier$ for a strong$br$$2damage$ blast.</string>
 		<string lang="fr">Activez la $healingpotion$ avec le $generator$.$p$Cela déclenche le $curesensor$, qui générera $1$ $energy$.$p$Dirigez-le à travers l'$amplifier$ pour une attaque puissante.</string>
-		<string lang="zh">用$generator$激活$healingpotion$，让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，产出$1$$energy$。$p$将产生的能量导入$amplifier$，$br$打出$2damage$的强力一击吧。</string>
+		<string lang="zh">用$generator$激活$healingpotion$，$br$让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，$br$产出$1$$energy$。$p$将产生的能量导入$amplifier$，打出$2damage$的强力一击吧。</string>
 		<string lang="jp">$healingpotion$を$generator$で起動すると、$slopperjohnson$は$1$$healing$。$p$すると$curesensor$が発動し、$1$$energy$発電。$p$$amplifier$に繋ぐと強力な$2damage$の爆破が起きる。</string>
 		<string lang="ru">Активируйте $healingpotion$ с помощью $generator$.$p$Это вызовет $curesensor$, который сгенерирует $1$ $energy$.$p$Маршрутизируйте его через $amplifier$ для сильной атаки.</string>
 		<string lang="es">Activa la $healingpotion$ con el $generator$.$p$Esto disparará el $curesensor$, que generará $1$ $energy$.$p$Dirígelo a través del $amplifier$ para un ataque poderoso.</string>

@@ -327,7 +327,7 @@
 		<string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
 		<string lang="fr">Construe un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$治疗药剂$/b$。</string>
+		<string lang="zh">制造一个$cracked$破损的通用$br$$b$治疗药剂$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$b$Healing Potion$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
@@ -387,7 +387,7 @@
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$$br$sur les deux jacks output.</string>
-		<string lang="zh">激活时两个输出端口同时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
+		<string lang="zh">激活时两个输出端口同时产出$br$$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時に両出力端子に$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ на обоих выходных разъемах при активации.</string>
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en ambos conectores de salida en la activación.</string>
@@ -519,7 +519,7 @@
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
-		<string lang="zh">每场战斗开始时对拥有者施加$1$点$healing$。</string>
+		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
 		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
 		<string lang="ru">Восстанавливает $1$ HP владельцу в начале каждого боя.</string>
 		<string lang="es">Cura al propietario en $1$ HP al comienzo de cada batalla.</string>
@@ -579,7 +579,7 @@
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
 		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
 		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
-		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
+		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，$br$对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
 		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方２人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$で威力相殺）</string>
 		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить урон можно с помощью с помощью $energy$).</string>
 		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
@@ -612,16 +612,16 @@
 		<string lang="zh-tw">移除模架上所有模組的$crust$。</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
-		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$br$- oder -$br$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
-		<string lang="en">Permanently removes $overload$ from a module on this rack$br$- or -$br$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
-		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$br$- ou -$br$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
-		<string lang="zh">永久移除选定模块的$overload$$br$-或者-$br$将选定模块的$malfunctioning$永久替换为$overload$。</string>
+		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
+		<string lang="en">Permanently removes $overload$ from a module on this rack$p$- or -$p$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
+		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$p$- ou -$p$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
+		<string lang="zh">永久移除选定模块的$overload$$p$-或者-$p$将选定模块的$malfunctioning$永久替换为$overload$。</string>
 		<string lang="jp">ラックのモジュールから$overload$を永久除去。$br$または、$malfunctioning$を永久除去し、$overload$付与。</string>
-		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$br$- или -$br$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
-		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$br$- o -$br$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
-		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
-		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$br$- ou -$br$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
-		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。</string>
+		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$p$- или -$p$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
+		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$p$- o -$p$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
+		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$p$- 또는 -$p$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
+		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$p$- ou -$p$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
+		<string lang="zh-tw">永久移除選定模組的$overload$$p$-或者-$p$將選定模組的$malfunctioning$永久替換為$overload$。</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
@@ -687,7 +687,7 @@
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to all player characters.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ à tous les personnages joueurs.</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，治疗所有角色$1$生命值。</string>
+		<string lang="zh">可充能。$p$拥有者回合开始时，$br$消耗$1$储存$energy$，$br$治疗所有角色$1healing$。</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、プレイヤーキャラ全体を$1$回復。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ ко всем игрокам.</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ a todos los personajes jugadores.</string>
