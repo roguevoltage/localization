@@ -205,11 +205,11 @@
 	<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 $b$시한폭탄 모듈$/b$을 생성합니다</string>
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
 </set>
-<set id="name-module-passivestoragechargerandom">
+<set id="name-module-passivestorageinductor">
 	<string lang="de">Speicher-Induktor</string>
 	<string lang="en">Storage Inductor</string>
 </set>
-<set id="description-module-passivestoragechargerandom">
+<set id="description-module-passivestorageinductor">
 	<string lang="de">Lädt zu Beginn des eigenen Zuges ein zufälliges $storagemodule$ auf diesem Rack mit $1$ $energy$</string>
 	<string lang="en">At the beginning of the turn, charges a random $storagemodule$ on this rack with $1energy$.</string>
     <string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sur ce rack avec $1$ $energy$</string>

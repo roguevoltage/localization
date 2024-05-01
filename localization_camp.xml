@@ -23,6 +23,12 @@
 		<string lang="pt-br">Construa seu próprio personagem</string>
 		<string lang="zh-tw">定制屬於自己的角色</string>
 </set>
+<set id="description-campstructure-refinery">
+	<string lang="en">Gives a $passthroughmodule$ $upgrade$ between camp visits.</string>
+</set>
+<set id="description-campstructure-powerplant">
+	<string lang="en">Charges a $storagemodule$ between camp visits.</string>
+</set>
 <set id="description-campstructure-telescope">
 		<string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
 		<string lang="en">Get an additional module as an option for loot</string>
@@ -34,6 +40,10 @@
 		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
 		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
+</set>
+<set id="description-campstructure-telescope-alternative">
+		<string lang="de">Der erste Loot-Reroll ist gratis</string>
+		<string lang="en">Your first loot reroll is free</string>
 </set>
 <set id="description-campstructure-timevault">
 		<string lang="de">Lagere ein Modul zwischen Runs</string>
@@ -94,6 +104,17 @@
 		<string lang="kr">기계 격납고</string>
 		<string lang="pt-br">Hangar de Mechs</string>
 		<string lang="zh-tw">機甲庫</string>
+</set>
+<set id="name-campstructure-refinery">
+	<string lang="de">Raffinerie</string>
+	<string lang="en">Refinery</string>
+	<string lang="fr">Raffinerie</string>
+	<string lang="zh">精炼厂</string>
+	<string lang="jp">リファインリー</string>
+	<string lang="ru">Очистительный завод</string>
+	<string lang="es">Refinería</string>
+	<string lang="kr">정제소</string>
+	<string lang="pt-br">Refinaria</string>
 </set>
 <set id="name-campstructure-powerplant">
 		<string lang="de">Kraftwerk</string>
