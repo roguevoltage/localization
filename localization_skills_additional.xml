@@ -11,6 +11,18 @@
 		<string lang="pt-br">Causa $2damage$ a um inimigo e se inflige $grav+2$.</string>
 		<string lang="zh-tw">對一名敵人造成$2damage$，並對自身施加$grav+2$。</string>
 </set>
+<set id="description-skill-claw-phoenix">
+	<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Modul mit $fire$.</string>
+	<string lang="en">Deals $1damage$ to an enemy and inflicts one module with $fire$.</string>
+	<string lang="fr">Inflige $1damage$ à une cible et inflige un module avec $fire$.</string>
+	<string lang="zh">对一名敌人造成$1damage$，并令一个模块$fire$。</string>
+	<string lang="jp">敵１体に$1damage$、モジュール１つに$fire$付与。</string>
+	<string lang="ru">Наносит $1damage$ врагу и накладывает на один модуль $fire$.</string>
+	<string lang="es">Inflige $1damage$ a un enemigo e inflige un módulo con $fire$.</string>
+	<string lang="kr">적에게 $1damage$를 줍니다 그리고 모듈 하나에게 $fire$ 상태를 부여합니다.</string>
+	<string lang="pt-br">Inflige $1damage$ a um inimigo e inflige um módulo com $fire$.</string>
+	<string lang="zh-tw">對一名敵人造成$1damage$，並令一個模組$fire$。</string>
+</set>
 <set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
 		<string lang="en">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
@@ -165,7 +177,7 @@
 		<string lang="es">Inflige a otro combatiente con $grav-1$, luego inflige a otro combatiente con $grav+1$.</string>
 		<string lang="kr">다른 전투원에게 $grav-1$를 부여하고, 또 다른 전투원에게 $grav+1$를 부여합니다.</string>
 		<string lang="pt-br">Inflige outro combatente com $grav-1$, então inflige outro combatente com $grav+1$.</string>
-		<string lang="zh-tw">對另一參戰單位施加$grav-1$，再對另一參戰單位施加$grav+1$。</string>
+		<string lang="zh-tw">對另一參戰單位施加$grav-1$，$br$再對另一參戰單位施加$grav+1$。</string>
 </set>
 <set id="description-skill-gravpull-volcanoboss">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
@@ -562,6 +574,18 @@
 		<string lang="kr">적에게 $1damage$를 주고 모듈에게 $selfencrusting$를 부여합니다.</string>
 		<string lang="pt-br">Causa $1damage$ a um inimigo e inflige um módulo com $selfencrusting$.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$，並令一個模組$selfencrusting$。</string>
+</set>
+<set id="name-skill-claw-phoenix">
+	<string lang="de">Kralle$fireicon$</string>
+	<string lang="en">Claw$fireicon$</string>
+	<string lang="fr">Griffe$fireicon$</string>
+	<string lang="zh">爪击$fireicon$</string>
+	<string lang="jp">ツメ$fireicon$</string>
+	<string lang="ru">Коготь$fireicon$</string>
+	<string lang="es">Garra$fireicon$</string>
+	<string lang="kr">할퀴기$fireicon$</string>
+	<string lang="pt-br">Garra$fireicon$</string>
+	<string lang="zh-tw">爪擊$fireicon$</string>
 </set>
 <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
