@@ -240,7 +240,7 @@
 		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人施放$grav+$。</string>
 </set>
 <set id="description-module-effectorgatlinggun">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deal $1damage$$br$to a random enemy].</string>
 		<string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
 		<string lang="zh">模块每拥有一点$energy$，$br$就对任意一名敌人造成$1damage$。</string>
