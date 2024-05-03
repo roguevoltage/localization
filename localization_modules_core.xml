@@ -28,7 +28,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
 		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$storagemodule$を充電時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">$storagemodule$を充電時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
 		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -40,7 +40,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the turn order is changed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que l'ordre des tours est modifié.</string>
 		<string lang="zh">轮次发生改变时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">ターン順変更時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">ターン順変更時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда порядок ходов изменяется.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el orden de turno es cambiado.</string>
 		<string lang="kr">턴 순서가 변경될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -52,7 +52,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module is destroyed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre module est détruit.</string>
 		<string lang="zh">任意模块被销毁时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">別のモジュール破壊時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">別のモジュール破壊時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой модуль уничтожается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que otro módulo es destruido.</string>
 		<string lang="kr">다른 모듈이 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -64,7 +64,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav+$ is applied to a player character.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque $grav+$ est appliqué à un personnage joueur.</string>
 		<string lang="zh">有角色受到$grav+$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤーキャラの$grav+$増強時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">プレイヤーキャラの$grav+$増強時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $grav+$ применяется к персонажу игрока.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $grav+$ es aplicado a un personaje jugador.</string>
 		<string lang="kr">플레이어 캐릭터에게 $grav+$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -75,8 +75,8 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
-		<string lang="zh">有角色得到$healing$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤーキャラが回復されるたび、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="zh">有角色得到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">プレイヤーキャラが回復されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
 		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $br$$b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -88,7 +88,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a combatant dies.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un combattant meurt.</string>
 		<string lang="zh">有参战单位死亡时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">敵味方の死亡時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">敵味方の死亡時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда участник боя умирает.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un combatiente muere.</string>
 		<string lang="kr">전투원이 죽을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -100,7 +100,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module is constructed.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est construit.</string>
 		<string lang="zh">任意模块被制造时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">モジュールの製造時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">モジュールの製造時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, при создании модуля.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo es construido.</string>
 		<string lang="kr">모듈이 조립될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -124,7 +124,7 @@
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character takes $damage$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur subit $damage$.</string>
 		<string lang="zh">有角色受到$damage$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤーキャラがダメージを受けた時、$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="jp">プレイヤーキャラがダメージを受けた時、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $damage$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $damage$.</string>
 		<string lang="kr">플레이어 캐릭터가 $damage$를 입을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
@@ -240,8 +240,8 @@
 		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人施放$grav+$。</string>
 </set>
 <set id="description-module-effectorgatlinggun">
-		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul: [Füge einem zufälligen Gegner $1damage$ zu].</string>
-		<string lang="en">For each point of $energy$ on this module:$br$[Deal $1damage$$br$to a random enemy].</string>
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $1damage$ zu].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Deal $1damage$$br$to a random enemy].</string>
 		<string lang="fr">Inflige $1damage$ à un ennemi aléatoire pour chaque point de $energy$ sur ce module.</string>
 		<string lang="zh">模块每拥有一点$energy$，$br$就对任意一名敌人造成$1damage$。</string>
 		<string lang="jp">モジュールの$energy$の分だけ$br$ランダムな敵に$1damage$。</string>
@@ -327,8 +327,8 @@
 		<string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
 		<string lang="fr">Construe un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$治疗药剂$/b$。</string>
-		<string lang="jp">$cracked$付与された汎用端子の$b$回復薬$/b$製造。</string>
+		<string lang="zh">制造一个$cracked$破损的通用$br$$b$治疗药剂$/b$。</string>
+		<string lang="jp">$cracked$付与された汎用端子の$b$Healing Potion$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
@@ -387,7 +387,7 @@
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$$br$sur les deux jacks output.</string>
-		<string lang="zh">激活时两个输出端口同时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
+		<string lang="zh">激活时两个输出端口同时产出$br$$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時に両出力端子に$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ на обоих выходных разъемах при активации.</string>
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en ambos conectores de salida en la activación.</string>
@@ -519,7 +519,7 @@
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
-		<string lang="zh">每场战斗开始时对拥有者施加$1$点$healing$。</string>
+		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
 		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
 		<string lang="ru">Восстанавливает $1$ HP владельцу в начале каждого боя.</string>
 		<string lang="es">Cura al propietario en $1$ HP al comienzo de cada batalla.</string>
@@ -543,13 +543,13 @@
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
 		<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-		<string lang="zh">可释放$br$$b$$CHARGEVALUE$$/b$$energy$。</string>
+		<string lang="zh">可释放$b$$CHARGEVALUE$$/b$$energy$。</string>
 		<string lang="jp">$b$$CHARGEVALUE$$/b$$energy$で放電可能。</string>
 		<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를$br$방전시킬 수 있습니다.</string>
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-		<string lang="zh-tw">可釋放$br$$b$$CHARGEVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">可釋放$b$$CHARGEVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-storagecellreplicating">
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
@@ -579,7 +579,7 @@
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
 		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
 		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
-		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
+		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，$br$对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
 		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方２人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$で威力相殺）</string>
 		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить урон можно с помощью с помощью $energy$).</string>
 		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
@@ -612,16 +612,16 @@
 		<string lang="zh-tw">移除模架上所有模組的$crust$。</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
-		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$br$- oder -$br$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
-		<string lang="en">Permanently removes $overload$ from a module on this rack$br$- or -$br$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
-		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$br$- ou -$br$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
-		<string lang="zh">永久移除选定模块的$overload$$br$-或者-$br$将选定模块的$malfunctioning$永久替换为$overload$。</string>
+		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
+		<string lang="en">Permanently removes $overload$ from a module on this rack$p$- or -$p$permanently removes $malfunctioning$ from a module on this rack and replaces it with $overload$.</string>
+		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$p$- ou -$p$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
+		<string lang="zh">永久移除选定模块的$overload$$p$-或者-$p$将选定模块的$malfunctioning$永久替换为$overload$。</string>
 		<string lang="jp">ラックのモジュールから$overload$を永久除去。$br$または、$malfunctioning$を永久除去し、$overload$付与。</string>
-		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$br$- или -$br$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
-		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$br$- o -$br$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
-		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
-		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$br$- ou -$br$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
-		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。</string>
+		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$p$- или -$p$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
+		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$p$- o -$p$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
+		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$p$- 또는 -$p$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
+		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$p$- ou -$p$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
+		<string lang="zh-tw">永久移除選定模組的$overload$$p$-或者-$p$將選定模組的$malfunctioning$永久替換為$overload$。</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
@@ -647,8 +647,8 @@
 		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
 		<string lang="zh-tw">為所有敵人及己方角色施加$vulnerable$。（持續時間：6）</string>
 </set>
-<set id="description-module-toggledmaxhpenhancer" remarks="$healing$ is a keyword now">
-		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $1healing$ auf ihn/sie an.</string>
+<set id="description-module-toggledmaxhpenhancer">
+		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$1healing$ auf ihn/sie an.</string>
 		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
 		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
@@ -657,37 +657,37 @@
 		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1healing$ a él/ella.</string>
 		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1healing$ a ele/ela.</string>
-		<string lang="zh-tw">令角色最大生命值永久提升$1$，並對其施加$1$點$healing$。</string>
+		<string lang="zh-tw">令角色最大生命值永久提升$1$，$br$並對其施加$1$點$healing$。</string>
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
 		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one $upgrade$.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
-		<string lang="zh">为目标$passthroughmodule$施加永久$upgrade$。$p$每个$passthroughmodule$仅可拥有一个$upgrade$。</string>
+		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。$p$每个$passthroughmodule$仅可拥有一个$br$$upgrade$。</string>
 		<string lang="jp">ラックの対象にした$passthroughmodule$に$upgrade$永久付与。$p$$passthroughmodule$に付与できる$upgrade$は１つのみ。</string>
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$br$$passthroughmodule$может иметь только 1 $upgrade$.</string>
 		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.$br$Solo admite una $upgrade$.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적인 $upgrade$을 적용합니다.$p$$passthroughmodule$은 한번만 $upgrade$될 수 있습니다.</string>
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.$p$$passthroughmodule$s só podem ter um $upgrade$.</string>
-		<string lang="zh-tw">為目標$passthroughmodule$施加永久$upgrade$。$p$每個$passthroughmodule$僅可擁有一個$upgrade$。</string>
+		<string lang="zh-tw">為目標$passthroughmodule$施加永久$br$$upgrade$。$p$每個$passthroughmodule$僅可擁有一個$br$$upgrade$。</string>
 </set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
 		<string lang="en">Destroys another target module on this rack to generate $2energy$.</string>
 		<string lang="fr">Génère $2energy$ à partir de la destruction d'un autre module ciblé.</string>
-		<string lang="zh">销毁模架上另一自选模块，以换取$2energy$。</string>
-		<string lang="jp">ラックの別モジュールを破壊し、$br$$2energy$発電。</string>
+		<string lang="zh">销毁模架上另一自选模块，$br$以换取$2energy$。</string>
+		<string lang="jp">ラックの別モジュールを破壊し、$2energy$発電。</string>
 		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2energy$.</string>
 		<string lang="es">Destruye otro módulo objetivo para generar $2energy$.</string>
 		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 $2energy$를 생성합니다.</string>
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2energy$.</string>
-		<string lang="zh-tw">銷毀模架上另一自選模組，以換取$2energy$。</string>
+		<string lang="zh-tw">銷毀模架上另一自選模組，$br$以換取$2energy$。</string>
 </set>
 <set id="description-module-vaultregeneration">
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to all player characters.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ à tous les personnages joueurs.</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，治疗所有角色$1$生命值。</string>
+		<string lang="zh">可充能。$p$拥有者回合开始时，$br$消耗$1$储存$energy$，$br$治疗所有角色$1healing$。</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、プレイヤーキャラ全体を$1$回復。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ ко всем игрокам.</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ a todos los personajes jugadores.</string>
