@@ -106,15 +106,16 @@
 		<string lang="zh-tw">機甲庫</string>
 </set>
 <set id="name-campstructure-refinery">
-	<string lang="de">Raffinerie</string>
-	<string lang="en">Refinery</string>
-	<string lang="fr">Raffinerie</string>
-	<string lang="zh">精炼厂</string>
-	<string lang="jp">リファインリー</string>
-	<string lang="ru">Очистительный завод</string>
-	<string lang="es">Refinería</string>
-	<string lang="kr">정제소</string>
-	<string lang="pt-br">Refinaria</string>
+        <string lang="de">Raffinerie</string>
+        <string lang="en">Refinery</string>
+        <string lang="fr">Raffinerie</string>
+        <string lang="zh">精炼厂</string>
+        <string lang="jp">リファインリー</string>
+        <string lang="ru">Очистительный завод</string>
+        <string lang="es">Refinería</string>
+        <string lang="kr">정제소</string>
+        <string lang="pt-br">Refinaria</string>
+        <string lang="zh-tw">精煉廠</string>
 </set>
 <set id="name-campstructure-powerplant">
 		<string lang="de">Kraftwerk</string>
@@ -143,6 +144,7 @@
 <set id="name-campstructure-telescope">
 		<string lang="de">Teleskop</string>
 		<string lang="en">Telescope</string>
+        <string lang="fr">Télescope</string>
 		<string lang="zh">望远镜</string>
 		<string lang="jp">望遠鏡</string>
         <string lang="ru">Телескоп</string>
@@ -154,6 +156,7 @@
 <set id="name-campstructure-timevault">
 		<string lang="de">Zeitkapsel</string>
 		<string lang="en">Time Capsule</string>
+        <string lang="fr">Capsule Temporelle</string>
 		<string lang="zh">时间胶囊</string>
 		<string lang="jp">タイムカプセル</string>
         <string lang="ru">Временная капсула</string>
@@ -177,6 +180,7 @@
 <set id="name-campstructure-workshop">
 		<string lang="de">Modulwerkstatt</string>
 		<string lang="en">Module Workshop</string>
+        <string lang="fr">Atelier de Modules</string>
 		<string lang="zh">模块工坊</string>
 		<string lang="jp">モジュール工房</string>
         <string lang="ru">Модульная мастерская</string>
@@ -295,39 +299,39 @@
 		<string lang="zh-tw">將於搶先體驗期間開發完成</string>
 </set>
 <set id="unlock-allowsdownpayment">
-		<string lang="de">Diesen Besuch $1$ $plasma$$br$Anzahlung leisten</string>
-		<string lang="en">Put $1$ $plasma$ as downpayment this visit</string>
-		<string lang="zh">支付$1$$plasma$作为首付款</string>
-		<string lang="zh-tw">支付$1$$plasma$作為首付款</string>
-		<string lang="jp">今回の頭金に$1$$plasma$投入</string>
-		<string lang="kr">방문 계약금으로 $1$ $plasma$를 지불합니다</string>
+		<string lang="de">Diesen Besuch $1plasma$$br$Anzahlung leisten</string>
+		<string lang="en">Put $1plasma$ as downpayment this visit</string>
+        <string lang="fr">Effectuez un acompte de $1plasma$$br$lors de cette visite</string>
+		<string lang="zh">支付$1plasma$作为首付款</string>
+		<string lang="jp">今回の頭金に$1plasma$投入</string>
+        <string lang="ru">Внесите $1plasma$ в качестве первоначального взноса на этом визите</string>
+        <string lang="es">Pon $1plasma$ como anticipo en esta visita</string>
+		<string lang="kr">방문 계약금으로 $1plasma$를 지불합니다</string>
+        <string lang="pt-br">Coloque $1plasma$ como entrada nesta visita</string>        
+		<string lang="zh-tw">支付$1plasma$作為首付款</string>
 </set>
 <set id="unlock-alreadydownpayment">
-		<string lang="de">&lt;color=#67FF73&gt;Diesen Besuch erfolgreich$br$Anzahlung geleistet&lt;/color&gt;</string>
-		<string lang="en">&lt;color=#67FF73&gt;Successfully put downpayment this visit&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#67FF73&gt;成功支付首付款&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#67FF73&gt;成功支付首付款&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#67FF73&gt;今回の頭金支払い成功&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#67FF73&gt;성공적으로 방문 계약금을 지불했습니다&lt;/color&gt;</string>
-</set>
-<set id="unlock-clicktounlock">
-		<string lang="de">&lt;color=#67FF73&gt;Zum Freischalten klicken&lt;/color&gt;</string>
-		<string lang="en">&lt;color=#67FF73&gt;Click to unlock&lt;/color&gt;</string>
-		<string lang="fr">&lt;color=#67FF73&gt;Cliquez pour déverrouiller&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#67FF73&gt;点击解锁&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#67FF73&gt;アンロック&lt;/color&gt;</string>
-		<string lang="ru">&lt;color=#67FF73&gt;Нажмите, чтобы разблокировать&lt;/color&gt;</string>
-		<string lang="es">&lt;color=#67FF73&gt;Haz click para desbloquear&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#67FF73&gt;클릭하여 해금&lt;/color&gt;</string>
-		<string lang="pt-br">&lt;color=#67FF73&gt;Clique para desbloquear&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#67FF73&gt;點擊解鎖&lt;/color&gt;</string>
+		<string lang="de">Diesen Besuch erfolgreich$br$Anzahlung geleistet</string>
+		<string lang="en">Successfully put downpayment this visit</string>
+        <string lang="fr">Acompte effectué avec succès$br$lors de cette visite</string>
+		<string lang="zh">成功支付首付款</string>
+		<string lang="jp">今回の頭金支払い成功</string>
+        <string lang="ru">Успешно внесен первоначальный взнос на этом визите</string>
+        <string lang="es">Pago de anticipo exitoso en esta visita</string>
+		<string lang="kr">성공적으로 방문 계약금을 지불했습니다</string>
+        <string lang="pt-br">Entrada paga com sucesso nesta visita</string>
+        <string lang="zh-tw">成功支付首付款</string>
 </set>
 <set id="unlock-notenoughplasma">
 		<string lang="de">Nicht genug $plasma$ für Anzahlung</string>
 		<string lang="en">Not enough $plasma$ for downpayment</string>
+        <string lang="fr">Pas assez de $plasma$ pour l'acompte</string>
 		<string lang="zh">所持$plasma$不足以支付首付款</string>
 		<string lang="jp">頭金の$plasma$不足</string>
+        <string lang="ru">Недостаточно $plasma$ для первоначального взноса</string>
+        <string lang="es">No hay suficiente $plasma$ para el anticipo</string>
 		<string lang="kr">계약금에 쓸 $plasma$가 부족합니다</string>
+        <string lang="pt-br">Não há plasma suficiente para a entrada</string>
 		<string lang="zh-tw">所持$plasma$不足以支付首付款</string>
 </set>
 <set id="unlock-requirement">
@@ -343,15 +347,27 @@
 		<string lang="zh-tw">需要：$REQUIREMENT$</string>
 </set>
 <set id="unlock-unlocking">
-		<string lang="de">&lt;color=#67FF73&gt;Wird freigeschaltet&lt;/color&gt;</string>
-		<string lang="en">&lt;color=#67FF73&gt;Unlocking&lt;/color&gt;</string>
-		<string lang="fr">&lt;color=#67FF73&gt;Déverrouillage&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#67FF73&gt;解锁中&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#67FF73&gt;アンロック&lt;/color&gt;</string>
-		<string lang="ru">&lt;color=#67FF73&gt;Разблокировка&lt;/color&gt;</string>
-		<string lang="es">&lt;color=#67FF73&gt;Desbloqueando&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#67FF73&gt;해금&lt;/color&gt;</string>
-		<string lang="pt-br">&lt;color=#67FF73&gt;Desbloqueando&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#67FF73&gt;解鎖中&lt;/color&gt;</string>
+		<string lang="de">Wird freigeschaltet</string>
+		<string lang="en">Unlocking</string>
+		<string lang="fr">Déverrouillage</string>
+		<string lang="zh">解锁中</string>
+		<string lang="jp">アンロック</string>
+		<string lang="ru">Разблокировка</string>
+		<string lang="es">Desbloqueando</string>
+		<string lang="kr">해금</string>
+		<string lang="pt-br">Desbloqueando</string>
+		<string lang="zh-tw">解鎖中</string>
+</set>
+<set id="ui-campstructure-clicktopen">
+        <string lang="de">Klicken zum Öffnen</string>
+        <string lang="en">Click to open</string>
+        <string lang="fr">Cliquez pour ouvrir</string>
+        <string lang="zh">点击打开</string>
+        <string lang="jp">クリックして開く</string>
+        <string lang="ru">Нажмите, чтобы открыть</string>
+        <string lang="es">Haz click para abrir</string>
+        <string lang="kr">열기 위해 클릭</string>
+        <string lang="pt-br">Clique para abrir</string>
+        <string lang="zh-tw">點擊打開</string>
 </set>
 </localization>

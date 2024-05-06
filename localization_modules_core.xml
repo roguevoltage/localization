@@ -248,7 +248,7 @@
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит $1damage$ случайному врагу]</string>
 		<string lang="es">Inflige $1damage$ a un enemigo aleatorio por cada punto de $energy$ en este módulo.</string>
 		<string lang="kr">이 모듈이 보유한 $energy$ 포인트마다:$br$[무작위 적에게 $1damage$를 줍니다].</string>
-		<string lang="pt-br">Inflige $1damage$ a um inimigo aleatório para cada ponto de $energy$ neste módulo.</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$$br$a um inimigo aleatório].</string>
 		<string lang="zh-tw">模組每擁有一點$energy$，$br$就對任意一名敵人造成$1damage$。</string>
 </set>
 <set id="description-module-effectorplasmaconverter" remarks="error in the japanese string, $valuable$ is not a keyword">
@@ -518,13 +518,13 @@
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
-		<string lang="fr">Soigne le propriétaire de $1$ PV au début de chaque combat.</string>
+		<string lang="fr">Applique $1healing$ au propriétaire au début de chaque combat.</string>
 		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
 		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
-		<string lang="ru">Восстанавливает $1$ HP владельцу в начале каждого боя.</string>
-		<string lang="es">Cura al propietario en $1$ HP al comienzo de cada batalla.</string>
+		<string lang="ru">Применяет $1healing$ к владельцу в начале каждого боя.</string>
+		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada batalla.</string>
 		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
-		<string lang="pt-br">Cura o dono em $1$ HP no início de cada batalha.</string>
+		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada batalha.</string>
 		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。</string>
 </set>
 <set id="description-module-splitter">

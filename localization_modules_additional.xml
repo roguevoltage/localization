@@ -158,7 +158,7 @@
 <set id="description-module-factoryblaster">
 		<string lang="de">Stellt einen universellen $b$Blaster$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Blaster$/b$ with $cracked$.</string>
-		<string lang="fr">Construe un $b$Blaster$/b$ universel$br$avec $cracked$.</string>
+		<string lang="fr">Construe un $b$Blaster$/b$ universel avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$的$br$通用$b$爆能枪$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$b$ブラスター$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Бластер$/b$$br$с $cracked$.</string>
@@ -170,7 +170,7 @@
 <set id="description-module-factorydecelerator">
 		<string lang="de">Stellt einen universellen $b$Verlangsamer$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal $b$Decelerator$/b$ with $cracked$.</string>
-		<string lang="fr">Construe un $b$Décélerateur$/b$ universel$br$avec $cracked$.</string>
+		<string lang="fr">Construe un $b$Décélerateur$/b$ universel avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$的通用$b$减速器$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$b$減速機$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Децелератор$/b$$br$с $cracked$.</string>
@@ -224,7 +224,7 @@
 		<string lang="ru">Создает универсальный $b$Модификатор$/b$$br$с $cracked$.</string>
 		<string lang="es">Construye un $b$Modificador$/b$ universal$br$con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$증폭기$/b$를 조립합니다.</string>
-		<string lang="pt-br">Constrói um $b$Modificador$/b$ universal$br$com $cracked$.</string>
+		<string lang="pt-br">Constrói um $b$Modificador$/b$ universal com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$的通用$b$增幅器$/b$。</string>
 </set>
 <set id="description-module-factoryrevitalizingscreen">
@@ -487,10 +487,10 @@
 		<string lang="fr">Construit une copie d'un autre module ciblé.$p$La copie a $cracked$ et $unstable$.</string>
 		<string lang="zh">选择同模架上另一模块，制造一个该模块的复制品。$p$复制品$cracked$且$unstable$。</string>
 		<string lang="jp">このラックの別の対象モジュールを複製。$p$複製に$cracked$と$unstable$付与。</string>
-		<string lang="ru">Создает копию другого целевого модуля на этом слоте.$br$Копия имеет $unstable$.</string>
-		<string lang="es">Construye una copia de otro módulo objetivo en este bastidor.$br$La copia tiene $unstable$.</string>
+		<string lang="ru">Создает копию другого целевого модуля на этом слоте.$p$Копия имеет $cracked$ и $unstable$.</string>
+		<string lang="es">Construye una copia de otro módulo objetivo en este bastidor.$p$La copia tiene $cracked$ y $unstable$.</string>
 		<string lang="kr">다른 대상 모듈의 복사본을 이 랙에 조립합니다.$p$복사본은 $cracked$과 $unstable$ 상태를 지닙니다.</string>
-		<string lang="pt-br">Constrói uma cópia de outro módulo alvo neste rack.$br$A cópia tem $unstable$.</string>
+		<string lang="pt-br">Constrói uma cópia de outro módulo alvo neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
 		<string lang="zh-tw">選擇同模架上另一模組，製造一個該模組的複製品。$p$複製品$cracked$且$unstable$。</string>
 </set>
 <set id="description-module-toggledechochamber">
@@ -872,9 +872,9 @@
 		<string lang="zh">增幅器工厂$MODIFICATIONVALUE$</string>
 		<string lang="jp">増幅器製造機$MODIFICATIONVALUE$</string>
 		<string lang="ru">Фабрика Модификаторов $MODIFICATIONVALUE$</string>
-		<string lang="es">Fábrica de Modificadores $MODIFICATIONVALUE$</string>
+		<string lang="es">Fábrica de Amplificadores $MODIFICATIONVALUE$</string>
 		<string lang="kr">증폭기 공장 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Fábrica de Modificador $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Fábrica de Amplificador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">增幅器工廠$MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factoryrevitalizingscreen">
