@@ -123,13 +123,13 @@
 		<string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen $lightning$ niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
 		<string lang="en">Summons a single $lightning$ strike onto target time step that deals $damage$ to all combatants on it.</string>
 		<string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
-		<string lang="zh">于目标时间步召唤一道$lightning$，对处于此时间步的所有参战单位造成$damage$。</string>
+		<string lang="zh">于目标时间步召唤一道$br$$lightning$，对处于此时间步的所有参战单位造成$damage$。</string>
 		<string lang="jp">$lightning$ひとつを対象のタイムステップに落とし、その上の敵味方全体に$damage$。</string>
 		<string lang="ru">Призывает один $lightning$ удар на целевой временной шаг, который наносит $damage$ всем бойцам на нем.</string>
 		<string lang="es">Invoca un solo $lightning$ en un paso de tiempo objetivo que inflige $damage$ a todos los combatientes en él.</string>
 		<string lang="kr">$lightning$ 하나를 소환해 대상 시간 단계에 위치한 모든 전투원에게 $damage$를 줍니다.</string>
 		<string lang="pt-br">Invoca um único $lightning$ em um passo de tempo alvo que inflige $damage$ a todos os combatentes nele.</string>
-		<string lang="zh-tw">於目標時間步召喚一道$lightning$，對處於此時間步的所有參戰單位造成$damage$。</string>
+		<string lang="zh-tw">於目標時間步召喚一道$lightning$，$br$對處於此時間步的所有參戰單位造成$damage$。</string>
 </set>
 <set id="description-module-effectormine">
 		<string lang="de">Fügt dem Charakter $damage$ zu.</string>
@@ -449,13 +449,13 @@
 		<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
 		<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after a turn of $lightning$ or $storm$.</string>
 		<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après un tour de $lightning$ ou $storm$.</string>
-		<string lang="zh">$lightning$或$storm$回合后，获得$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$lightning$か$storm$のターン後、$b$$SENSORVALUE$$/b$$energy$充電。</string>
+		<string lang="zh">$lightning$或$storm$回合后，$br$获得$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">$lightning$か$storm$のターン後、$br$$b$$SENSORVALUE$$/b$$energy$充電。</string>
 		<string lang="ru">Заряжается $b$$SENSORVALUE$$/b$ $energy$ после хода $lightning$ или $storm$.</string>
 		<string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después de un turno de $lightning$ o $storm$.</string>
 		<string lang="kr">$lightning$나 $storm$이 있었던 턴 종료 시, $b$$SENSORVALUE$$/b$ $energy$가 충전됩니다.</string>
 		<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após um turno de $lightning$ ou $storm$.</string>
-		<string lang="zh-tw">$lightning$或$storm$回合後，獲得$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">$lightning$或$storm$回合後，$br$獲得$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
