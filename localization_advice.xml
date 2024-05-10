@@ -171,13 +171,13 @@
 		<string lang="de">Wenn dir keines der drei Loot-Module zusagt, kannst du $plasma$ ausgeben, um den Loot neu auszuwürfeln. Dies ändert nicht dessen Seltenheit.</string>
 		<string lang="en">If no loot module does it for you, you can spend $plasma$ to reroll.$br$This will not change the rarity of the loot.</string>
 		<string lang="fr">Si aucun module de butin ne vous convient, vous pouvez dépenser du $plasma$ pour renouveler les modules. Cela ne changera pas leurs rareté.</string>
-		<string lang="zh">如果没有心仪的战利品模块，可以花费$plasma$重新选择。重选不会改变战利品的稀有度等级。</string>
+		<string lang="zh">没有所需的战利品模块时可以花费$plasma$刷新，且稀有度等级不会变化。</string>
 		<string lang="jp">戦利品のモジュールにほしいものがなければ、$plasma$消費でリロールできる。リロールしても、戦利品のレアリティは変わらない。</string>
 		<string lang="ru">Если ни один модуль добычи не подходит вам, вы можете потратить плазму, чтобы перебросить. Это не изменит редкость добычи.</string>
 		<string lang="es">Si ningún módulo del botín te sirve, puedes gastar $plasma$ para volver a tirar. Esto no cambiará la rareza del botín.</string>
 		<string lang="kr">마음에 드는 전리품 모듈이 없다면, $plasma$를 지불해 새로고침을 할 수 있습니다. 전리품의 희귀도는 변경되지 않습니다.</string>
 		<string lang="pt-br">Se nenhum módulo de saque fizer isso por você, você pode gastar $plasma$ para rolar novamente. Isso não mudará a raridade do saque.</string>
-		<string lang="zh-tw">如果沒有心儀的戰利品模組，可以花費$plasma$重新選擇。重選不會改變戰利品的稀有度等級。</string>
+		<string lang="zh-tw">沒有所需的戰利品模塊時可以花費$plasma$重新生成，且稀有度等級不會變化。</string>
 </set>
 <set id="advice-rightclick">
 		<string lang="de">Wenn du mit Tastatur und Maus spielst, kannst du ein Modul mit einem Rechtsklick zum Rack des anderen Characters schicken.</string>
@@ -195,37 +195,37 @@
 		<string lang="de">Wenn du Game Over gehst, vergiss nicht, dein bestes Modul in den nächsten Run hinüberzuretten.</string>
 		<string lang="en">If you go Game Over, don't forget to salvage your best module$br$for the next run.</string>
 		<string lang="fr">Si vous perdez, n'oubliez pas de récupérer votre meilleur module pour la prochaine partie.</string>
-		<string lang="zh">如果游戏落败，别忘记保留你最爱的模块，以便下次游戏继承。</string>
+		<string lang="zh">游戏失败时，你可以选择一个你想要的模块继承到下局游戏。</string>
 		<string lang="jp">ゲームオーバーになった場合、次のランに向けて最高のモジュールの回収を忘れずに。</string>
 		<string lang="ru">Если вы проиграете, не забудьте спасти свой лучший модуль для следующего забега.</string>
 		<string lang="es">Si pierdes el juego, no olvides salvar tu mejor módulo para la próxima partida.</string>
 		<string lang="kr">게임 오버 시, 다음 모험을 위해 여러분이 지녔던 최고의 모듈들을 회수하는 걸 잊지 마세요.</string>
 		<string lang="pt-br">Se você for Game Over, não se esqueça de salvar seu melhor módulo para a próxima rodada.</string>
-		<string lang="zh-tw">如果遊戲落敗，別忘記保留你最愛的模組，以便下次遊戲繼承。</string>
+		<string lang="zh-tw">遊戲失敗時，你可以選擇一個你想要的模塊繼承到下局遊戲。</string>
 </set>
 <set id="advice-storm">
 		<string lang="de">Wenn du einen Kampf nicht rechtzeitig beendest, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
 		<string lang="en">If you can't manage to end a battle in time, a $storm$ is gathering and the battle will take a dangerous turn.</string>
 		<string lang="fr">Si vous ne parvenez pas à mettre fin au combat à temps, une $storm$ se rassemble et la bataille prendra une tournure dangereuse.</string>
-		<string lang="zh">如果未能及时结束战斗，将生成$storm$，战况会发生危险的转折。</string>
+		<string lang="zh">如果你没能尽快结束战斗，$storm$将开始生成，令战场变得越来越危险。</string>
 		<string lang="jp">戦闘を時間内に終わらせられなければ、$storm$が発生し危険なターンが到来する可能性がある。</string>
 		<string lang="ru">Если вы не сможете закончить бой вовремя, соберется $storm$ и битва примет опасный оборот.</string>
 		<string lang="es">Si no puedes terminar la pelea a tiempo, se formará una $storm$ y la batalla tomará un giro peligroso.</string>
 		<string lang="kr">시간 내에 전투를 끝내지 못한다면 $storm$이 몰려오게 되며, 전투는 위험한 방향으로 흘러갈 것입니다.</string>
 		<string lang="pt-br">Se você não conseguir terminar a luta a tempo, uma $storm$ está se formando e a batalha tomará um rumo perigoso.</string>
-		<string lang="zh-tw">如果未能及時結束戰鬥，將生成$storm$，戰況會發生危險的轉折。</string>
+		<string lang="zh-tw">如果你沒能儘快結束戰鬥，$storm$將開始生成，令戰場變得越來越危險。</string>
 </set>
 <set id="advice-strategy">
 		<string lang="de">Manche Kämpfe können dich mit gespawnten Monstern oder Status-Effekten überwältigen. Überlege dir sorgfältig, welche Ziele du priorisieren solltest.</string>
 		<string lang="en">Some battles can overwhelm you with spawned monsters or debilitating status effects. Carefully consider your target priorities.</string>
 		<string lang="fr">Certains combats peuvent vous submerger avec des monstres apparus ou des effets de statut débilitants. Considérez soigneusement vos priorités de cible.</string>
-		<string lang="zh">一些战斗中出现的怪物数量或减益效果也许会令你应接不暇。请仔细考虑目标的优先级。</string>
+		<string lang="zh">一些战局中敌人会不断生成或者施加减益效果打乱你的节奏。请仔细思考进攻的优先级。</string>
 		<string lang="jp">一部の戦闘では、増える怪物や弱体化ステータス効果で苦戦する恐れがある。対象の優先順位に注意しよう。</string>
 		<string lang="ru">Некоторые бои могут подавить вас с помощью появившихся монстров или ослабляющих статусных эффектов. Тщательно обдумайте приоритетные цели</string>
 		<string lang="es">Algunas batallas pueden abrumarte con monstruos generados o efectos de estado debilitantes. Considera cuidadosamente la prioridad de tu objetivo.</string>
 		<string lang="kr">일부 전투는 상대가 몬스터를 소환하거나 약화 효과로 인해 불리한 상태로 시작될 수도 있습니다. 목표 우선 순위를 신중하게 고려하세요.</string>
 		<string lang="pt-br">Algumas batalhas podem sobrecarregá-lo com monstros gerados ou efeitos de status debilitantes. Considere cuidadosamente suas prioridades de alvo.</string>
-		<string lang="zh-tw">一些戰鬥中出現的怪物數量或減益效果也許會令你應接不暇。請仔細考慮目標的優先順序。</string>
+		<string lang="zh-tw">一些戰局中敵人會不斷生成或者施加减益效果打亂你的節奏。 請仔細思考進攻的優先順序。</string>
 </set>
 <set id="advice-timeline">
 		<string lang="de">Zusätzliche Module, um die Zeitleiste zu manipulieren, sind äußerst nützlich für eine zuverlässigige Ausrichtung und Kontrolle der Züge.</string>

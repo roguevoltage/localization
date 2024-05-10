@@ -9,69 +9,77 @@
         <string lang="es">Recoge $grav+$ del propietario.</string>
         <string lang="kr">소유자로부터 $grav+$를 획득합니다.</string>
         <string lang="pt-br">Pega $grav+$ do dono.</string>
+		<string lang="zh-tw">從擁有者處吸收$grav+$。</string>
 </set>
 <set id="name-module-gravoutlet">
 		<string lang="de">Grav.-Abnehmer</string>
 		<string lang="en">Grav. Outlet</string>
 		<string lang="fr">Prise Grav.</string>
-		<string lang="zh">引力排放口</string>
+		<string lang="zh">引力释放阀</string>
 		<string lang="jp">重力アウトレット</string>
 		<string lang="kr">Grav. Outlet</string>
+        <!-- <string lang="pt-br"></string> -->
+		<string lang="zh-tw">引力釋放閥</string>
 </set>
 <set id="name-module-modifiervulnerability">
 		<string lang="de">Gefährlicher Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Hazardous Amplifier $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplificateur Périleux $MODIFICATIONVALUE$</string>
-		<string lang="zh">危险放大器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">危险放大器$MODIFICATIONVALUE$</string>
 		<string lang="jp">危険な増幅器 $MODIFICATIONVALUE$</string>
 		<string lang="ru">Опасный усилитель $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador Peligroso $MODIFICATIONVALUE$</string>
 		<string lang="kr">위험한 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador Perigoso $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">危險放大器$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-modifiervulnerability">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="zh">在一个能量流上添加$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
 		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
 		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
+		<string lang="zh-tw">在一個能量流上添加$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 </set>
 <set id="description-module-modifierstormchaser">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">修改一个电流的颜色。$p$在一个电流上添加 $b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
+		<string lang="zh">修改一个能量流的颜色。$p$在一个能量流上添加$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 		<string lang="jp">電流の色を変更します。$p$電流に $b$$MODIFICATIONVALUE$$/b$ $energy$ を追加します。</string>
 		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
 		<string lang="kr">전류의 색상을 변경합니다.$p$전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
+		<string lang="zh-tw">修改一個能量流的顏色。$p$在一個能量流上添加$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 </set>
 <set id="name-module-modifiercyclotron">
 		<string lang="de">Zyklotron $MODIFICATIONVALUE$</string>
 		<string lang="en">Cyclotron $MODIFICATIONVALUE$</string>
 		<string lang="fr">Cyclotron $MODIFICATIONVALUE$</string>
-		<string lang="zh">环状加速器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">环形加速器$MODIFICATIONVALUE$</string>
 		<string lang="jp">サイクロトロン $MODIFICATIONVALUE$</string>
         <string lang="ru">Циклотрон $MODIFICATIONVALUE$</string>
         <string lang="es">Ciclotrón $MODIFICATIONVALUE$</string>
         <string lang="kr">사이클로트론 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Ciclotron $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">環形加速器$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-modifiercyclotron">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
 		<string lang="en">Changes the color of a current.</string>
 		<string lang="fr">Change la couleur d'un courant.</string>
-		<string lang="zh">修改一个电流的颜色。</string>
+		<string lang="zh">修改一个能量流的颜色。</string>
 		<string lang="jp">電流の色を変更します。</string>
 		<string lang="ru">Изменяет цвет тока.</string>
 		<string lang="es">Cambia el color de una corriente.</string>
 		<string lang="kr">전류의 색상을 변경합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+		<string lang="zh-tw">修改一個能量流的顏色。</string>
 </set>
 <set id="name-module-modifiermolten">
 		<string lang="de">Geschmolzene Trümmer</string>
@@ -83,28 +91,31 @@
         <string lang="es">Escombros Fundidos</string>
         <string lang="kr">녹아내린 잔해</string>
         <string lang="pt-br">Detritos Derretidos</string>
+		<string lang="zh-tw">燒焦碎片</string>
 </set>
 <set id="description-module-modifiermolten">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
 		<string lang="en">Changes the color of a current.</string>
 		<string lang="fr">Change la couleur d'un courant.</string>
-		<string lang="zh">修改一个电流的颜色。</string>
+		<string lang="zh">修改一个能量流的颜色。</string>
 		<string lang="jp">電流の色を変更します。</string>
 		<string lang="ru">Изменяет цвет тока.</string>
 		<string lang="es">Cambia el color de una corriente.</string>
 		<string lang="kr">전류의 색상을 변경합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+		<string lang="zh-tw">修改一個能量流的顏色。</string>
 </set>
 <set id="name-module-modifierstormchaser">
 		<string lang="de">Sturmjäger-Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Stormchaser Amplifier $MODIFICATIONVALUE$</string>
 		<string lang="fr">Amplificateur Chasseur de Tempête $MODIFICATIONVALUE$</string>
-		<string lang="zh">风暴追逐者放大器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">风暴追逐者放大器$MODIFICATIONVALUE$</string>
 		<string lang="jp">ストームチェイサーアンプ $MODIFICATIONVALUE$</string>
 		<string lang="ru">Усилитель Охотника за Бурей $MODIFICATIONVALUE$</string>
 		<string lang="es">Amplificador de Cazatormentas $MODIFICATIONVALUE$</string>
 		<string lang="kr">폭풍 추격자 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador Caçador de Tempestades $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">風暴追逐者放大器$MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggledgrenadestorm">
 		<string lang="de">Sturm-Granate</string>
@@ -113,17 +124,20 @@
 		<string lang="zh">风暴手雷</string>
 		<string lang="jp">ストームヌルファイアー</string>
 		<string lang="kr">Storm Grenade</string>
+        <!-- <string lang="pt-br"></string> -->
+		<string lang="zh-tw">風暴手雷</string>
 </set>
 <set id="description-module-toggledgrenadestorm">
 		<string lang="de">Drängt den $storm$$br$$b$10$/b$ Zeitschritte zurück.</string>
 		<string lang="en">Pushes back $storm$$br$by $b$10$/b$ time steps.</string>
 		<string lang="fr">Pousse $storm$ de $b$10$/b$ étapes de temps en arrière.</string>
-		<string lang="zh">将 $storm$ 推回 $b$10$/b$个时刻。</string>
+		<string lang="zh">将$storm$后推$b$10$/b$个时刻。</string>
 		<string lang="jp">$storm$を$b$10$/b$タイムステップ後ろに押し戻します。</string>
         <string lang="ru">Отталкивает $storm$$br$на $b$10$/b$ шагов времени назад.</string>
         <string lang="es">Empuja la $storm$ hacia atrás$br$por $b$10$/b$ pasos de tiempo.</string>
         <string lang="kr">$storm$를 $b$10$/b$ 시간 단계로 밀어냅니다.</string>
         <string lang="pt-br">Empurra $storm$$br$por $b$10$/b$ passos de tempo.</string>
+		<string lang="zh-tw">將$storm$後推$b$10$/b$個時刻。</string>
 </set>
 <set id="name-module-hotpotato">
 		<string lang="de">Heiße Kartoffel</string>
@@ -135,6 +149,7 @@
 		<string lang="es">Patata Caliente</string>
 		<string lang="kr">뜨거운 감자</string>
 		<string lang="pt-br">Batata Quente</string>
+		<string lang="zh-tw">燙手山芋</string>
 </set>
 <set id="description-module-hotpotato">
 		<string lang="en">At the beginning of the owner's turn, inflict them with $grav+2$.$p$At the end of the owner's turn deals $1damage$ to them.</string>
@@ -143,34 +158,37 @@
 	<string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
 	<string lang="en">Malfunction Sensor $MODIFICATIONVALUE$</string>
 	<string lang="fr">Capteur de Panne $MODIFICATIONVALUE$</string>
-	<string lang="zh">故障感应器 $MODIFICATIONVALUE$</string>
+	<string lang="zh">故障感应器$MODIFICATIONVALUE$</string>
 	<string lang="jp">故障センサー $MODIFICATIONVALUE$</string>
 	<string lang="ru">Сенсор Поломки $MODIFICATIONVALUE$</string>
 	<string lang="es">Sensor de Malfunción $MODIFICATIONVALUE$</string>
 	<string lang="kr">고장 센서 $MODIFICATIONVALUE$</string>
 	<string lang="pt-br">Sensor de Malfuncionamento $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">故障感應器$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-collectormalfunction">
 	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
 	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module receives $outoforder$ or $cooldown$.</string>
 	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
-	<string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+	<string lang="zh">每当一个模块$outoforder$或$cooldown$时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
 	<string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
 	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль $outoforder$ или $cooldown$.</string>
 	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo está $outoforder$ o en $cooldown$.</string>
 	<string lang="kr">모듈이 $outoforder$ 또는 $cooldown$일 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo está $outoforder$ ou em $cooldown$.</string>
+	<string lang="zh-tw">每當一個模塊$outoforder$或$cooldown$時，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
 </set>
 <set id="name-module-effectorgravamplification">
 	<string lang="de">Grav.-Verstärkungs-Strahler $MODIFICATIONVALUE$</string>
 	<string lang="en">Grav. Amplification Ray $MODIFICATIONVALUE$</string>
 	<string lang="fr">Rayon d'Amplification Grav. $MODIFICATIONVALUE$</string>
-    <string lang="zh">引力放大射线 $MODIFICATIONVALUE$</string>
+    <string lang="zh">引力放大射线$MODIFICATIONVALUE$</string>
 	<string lang="jp">重力増幅レイ $MODIFICATIONVALUE$</string>
 	<string lang="ru">Импульс Гравитации $MODIFICATIONVALUE$</string>
 	<string lang="es">Rayo de Amplificación Grav. $MODIFICATIONVALUE$</string>
 	<string lang="kr">Grav. Amplification Ray $MODIFICATIONVALUE$</string>
 	<string lang="pt-br">Raio de Amplificação Grav. $MODIFICATIONVALUE$</string>
+    <string lang="zh-tw">引力放大射線$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-effectorgravamplification">
 	<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
@@ -182,28 +200,31 @@
 	<string lang="es">Inflige $gravamplification$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
 	<string lang="kr">대상 전투원에게 $gravamplification$ 부여합니다.$br$(지속시간: $energy$×3).</string>
 	<string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
+	<string lang="zh-tw">讓目標獲得 $gravamplification$，持續$energy$×3。</string>
 </set>
 <set id="name-module-generatorbomb">
 	<string lang="de">Explosiver Generator</string>
 	<string lang="en">Explosive Generator</string>
 	<string lang="fr">Générateur Explosif</string>
-	<string lang="zh">爆炸发电机</string>
+	<string lang="zh">爆轰发电机</string>
 	<string lang="jp">爆発発電機</string>
 	<string lang="ru">Взрывной Генератор</string>
 	<string lang="es">Generador Explosivo</string>
 	<string lang="kr">폭발 발전기</string>
 	<string lang="pt-br">Gerador Explosivo</string>
+	<string lang="zh-tw">爆轟發電機</string>
 </set>
 <set id="description-module-generatorbomb">
 	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ und erzeugt ein $b$Zeitbomben-Modul$/b$</string>
 	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation and creates a $b$Time Bomb Module$/b$</string>
 	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation et crée un module $b$Bombe à retardement$/b$</string>
-	<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$并生成一个$b$定时炸弹模块$/b$</string>
+	<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$ 并生成一个$b$定时炸弹模块$/b$</string>
 	<string lang="jp">アクティベート時に$b$$GENERATIONVALUE$$/b$ $energy$を生成し、$b$タイム ボム モジュール$/b$を作成します</string>
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации и создает модуль $b$Временная бомба$/b$</string>
 	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación y crea un módulo $b$Bomba de Tiempo$/b$</string>
 	<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 $b$시한폭탄 모듈$/b$을 생성합니다</string>
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
+	<string lang="zh-tw">在啟動時產生$b$$GENERATIONVALUE$$/b$ $energy$ 並生成一個$b$定時炸彈模塊 $/b$</string>
 </set>
 <set id="name-module-passivestorageinductor">
 	<string lang="de">Speicher-Induktor</string>
@@ -213,12 +234,13 @@
 	<string lang="de">Lädt zu Beginn des eigenen Zuges ein zufälliges $storagemodule$ auf diesem Rack mit $1$ $energy$</string>
 	<string lang="en">At the beginning of the turn, charges a random $storagemodule$ on this rack with $1energy$.</string>
     <string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sur ce rack avec $1$ $energy$</string>
-    <string lang="zh">在回合开始时，使用$1$ $energy$为此架上的一个随机$storagemodule$充电</string>
+    <string lang="zh">在回合开始时，使用$1$ $energy$为此架上的一个随机$storagemodule$充能</string>
     <string lang="jp">ターンの最初に、このラック上のランダムな$storagemodule$を$1$ $energy$で充電します</string>
     <string lang="ru">В начале хода заряжает случайный $storagemodule$ на этом стеллаже на $1$ $energy$</string>
     <string lang="es">Al comienzo del turno, carga un $storagemodule$ aleatorio en este rack con $1$ $energy$</string>
     <string lang="kr">턴 시작시 이 랙의 무작위 $storagemodule$를 $1$ $energy$로 충전합니다</string>
     <string lang="pt-br">No início do turno, carrega um $storagemodule$ aleatório neste rack com $1$ $energy$</string>
+    <string lang="zh-tw">在回合開始時，使用$1$ $energy$為此架上的一個隨機$storagemodule$充能</string>
 </set>
 <set id="name-module-collectorcollector">
 	<string lang="de">Sensor-Sensor</string>
@@ -234,56 +256,61 @@
 	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderer $sensor$ geladen wird.</string>
 	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another $sensor$ is triggered.</string>
 	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre $sensor$ est chargé.</string>
-	<string lang="zh">每当另一个传感器充电时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+	<string lang="zh">每当另一个传感器充能时，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
 	<string lang="jp">他のセンサーが充電されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
 	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой $sensor$ заряжается.</string>
 	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se carga otro $sensor$.</string>
 	<string lang="kr">다른 센서가 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro $sensor$ é carregado.</string>
+	<string lang="zh-tw">每當另一個感測器充能時，生成$b$$SENSORVALUE$$/b$ $energy$。</string>
 </set>
 <set id="name-module-storagecellselfcharging-proximity">
 	<string lang="de">Näherungszelle</string>
 	<string lang="en">Proximity Cell</string>
 	<string lang="fr">Cellule de Proximité</string>
-    <string lang="zh">接近电池</string>
+    <string lang="zh">邻接电池</string>
     <string lang="jp">近接セル</string>
     <string lang="ru">Ближний Аккумулятор</string>
     <string lang="es">Celda de Proximidad</string>
     <string lang="kr">근접 셀</string>
     <string lang="pt-br">Célula de Proximidade</string>
+    <string lang="zh-tw">鄰接電池</string>
 </set>
 <set id="description-module-storagecellselfcharging-proximity">
 	<string lang="de">Wird am am anfang des Zuges um $1$ $energy$ geladen wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt ist.</string>
 	<string lang="en">Is charged with $1energy$ at the beginning of the turn if there is another combatant on the same time step as the owner.</string>
 	<string lang="fr">Se charge de $1$ $energy$ au début du tour si un autre combattant est sur la même étape de temps.</string>
-	<string lang="zh">如果另一个战斗者在同一时间步上，回合开始时充电$1$ $energy$。</string>
+	<string lang="zh">如果另一个参战角色在同一时间轴点上，回合开始时充能 $1$ $energy$。</string>
 	<string lang="jp">もう一人の戦闘者が同じ時間ステップにいる場合、ターンの最初に$1$ $energy$で充電します。</string>
 	<string lang="ru">Заряжается на $1$ $energy$ в начале хода, если другой боец находится на том же шаге времени.</string>
 	<string lang="es">Se carga con $1$ $energy$ al comienzo del turno si otro combatiente está en el mismo paso de tiempo.</string>
 	<string lang="kr">또 다른 전투원이 동일한 시간 단계에 있으면 $1$ $energy$로 충전됩니다.</string>
 	<string lang="pt-br">Carrega $1$ $energy$ no início do turno se outro combatente estiver na mesma etapa de tempo.</string>
+	<string lang="zh-tw">如果另一個參戰角色在同一時間軸點上，回合開始時充能 $1$ $energy$。</string>
 </set>
 <set id="name-module-effectortaunt">
 	<string lang="de">Spott-Strahler $MODIFICATIONVALUE$</string>
 	<string lang="en">Taunt Ray $MODIFICATIONVALUE$</string>
 	<string lang="fr">Rayon de Provocation $MODIFICATIONVALUE$</string>
-    <string lang="zh">嘲讽射线 $MODIFICATIONVALUE$</string>
+    <string lang="zh">嘲讽射线$MODIFICATIONVALUE$</string>
 	<string lang="jp">挑発レイ $MODIFICATIONVALUE$</string>
 	<string lang="ru">Луч Презрения $MODIFICATIONVALUE$</string>
 	<string lang="es">Rayo de Burla $MODIFICATIONVALUE$</string>
 	<string lang="kr">도발 레이 $MODIFICATIONVALUE$</string>
 	<string lang="pt-br">Raio de Provocação $MODIFICATIONVALUE$</string>
+    <string lang="zh-tw">嘲諷射線$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-effectortaunt">
 	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
     <string lang="en">Applies $taunt$ to target allly.$p$(Duration: $energy$×3).</string>
     <string lang="fr">Inflige $taunt$ sur le personnage ciblé.$br$(Durée: $energy$×3)</string>
-    <string lang="zh">让目标角色获得 $taunt$.$br$(持续时间：$energy$×3)</string>
+    <string lang="zh">让目标角色获得 $taunt$。$br$(持续时间：$energy$×3)</string>
     <string lang="jp">ターゲットキャラクターに$taunt$を与えます。$br$(持続時間：$energy$×3)</string>
     <string lang="ru">Накладывает $taunt$ на целевого персонажа.$br$(Продолжительность: $energy$×3)</string>
     <string lang="es">Inflige $taunt$ en un personaje objetivo.$br$(Duración: $energy$×3)</string>
     <string lang="kr">대상 캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
     <string lang="pt-br">Inflige $taunt$ no personagem alvo.$br$(Duração: $energy$×3)</string>
+    <string lang="zh-tw">讓目標角色獲得 $taunt$.$br$（持續時間：$energy$×3）</string>
 </set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
@@ -295,28 +322,31 @@
 		<string lang="es">Púlsar</string>
 		<string lang="kr">펄서</string>
 		<string lang="pt-br">Pulsar</string>
+		<string lang="zh-tw">脈沖源</string>
 </set>
 <set id="description-module-pulsar">
 		<string lang="de">Modifiziert einen Strom.</string>
 		<string lang="en">Modifies a current.</string>
 		<string lang="fr">Modifie un courant.</string>
-		<string lang="zh">修改一个电流。</string>
+		<string lang="zh">修改一个能量流。</string>
 		<string lang="jp">電流を変更します。</string>
 		<string lang="ru">Модифицирует ток.</string>
 		<string lang="es">Modifica una corriente.</string>
 		<string lang="kr">전류를 수정합니다.</string>
 		<string lang="pt-br">Modifica uma corrente.</string>
+		<string lang="zh-tw">修改一個能量流。</string>
 </set>
 <set id="name-module-dampener">
 		<string lang="de">Dämpfer $MODIFICATIONVALUE$</string>
 		<string lang="en">Dampener $MODIFICATIONVALUE$</string>
 		<string lang="fr">Atténuateur $MODIFICATIONVALUE$</string>
-		<string lang="zh">抑制器 $MODIFICATIONVALUE$</string>
+		<string lang="zh">抑制器$MODIFICATIONVALUE$</string>
 		<string lang="jp">ダンパー $MODIFICATIONVALUE$</string>
         <string lang="ru">Демпфер $MODIFICATIONVALUE$</string>
         <string lang="es">Atenuador $MODIFICATIONVALUE$</string>
         <string lang="kr">댐퍼 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Atenuador $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">抑制器$MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-dampener">
 		<string lang="de">Entzieht einem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$.</string>
@@ -328,5 +358,6 @@
         <string lang="es">Resta $b$$MODIFICATIONVALUE$$/b$ $energy$ de una corriente.</string>
         <string lang="kr">현재 값에서 $b$$MODIFICATIONVALUE$$/b$ $energy$를 뺍니다.</string>
         <string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$$/b$ $energy$ de um atual.</string>
+		<string lang="zh-tw">從當前值中减去$b$$MODIFICATIONVALUE$$/b$ $energy$。</string>
 </set>
 </localization>

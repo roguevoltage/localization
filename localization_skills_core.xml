@@ -75,25 +75,25 @@
 		<string lang="de">Wenn seine HP gerade sind, teilt er sich in zwei.</string>
 		<string lang="en">If HP is even, it splits into two.</string>
 		<string lang="fr">Si les PV sont pairs, il se divise en deux.</string>
-		<string lang="zh">如果生命值为偶数，则一分为二。</string>
+		<string lang="zh">当生命值为偶数时一分为二。</string>
 		<string lang="jp">ＨＰが偶数なら、２体に分裂。</string>
 		<string lang="ru">Если HP четное, то делится на две копии поменьше.</string>
 		<string lang="es">Si los HP son pares, se divide en dos.</string>
 		<string lang="kr">체력이 짝수일 경우, 둘로 분열합니다.</string>
 		<string lang="pt-br">Se os HP forem pares, ele se divide em dois.</string>
-		<string lang="zh-tw">如果生命值為偶數，則一分為二。</string>
+		<string lang="zh-tw">當生命值為偶數時一分為二。</string>
 </set>
 <set id="description-skill-enemyspawn-slime">
 		<string lang="de">Entfernt alle $might$.$p$Verdoppelt sich selbst.</string>
 		<string lang="en">If $might$ is full, it removes all $might$ to duplicate.</string>
 		<string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
-		<string lang="zh">如果$might$已满，则消耗全部$might$进行复制。</string>
+		<string lang="zh">$might$已满时消耗全部$might$进行复制。</string>
 		<string lang="jp">$might$が最大なら、全$might$除去し複製。</string>
 		<string lang="ru">Если $might$ заполнена, то удаляет всю $might$ для дублирования.</string>
 		<string lang="es">Si $might$ está lleno, retira todos los $might$ para duplicarse.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 모든 $might$을 제거해 분열합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele remove todos os $might$ para duplicar.</string>
-		<string lang="zh-tw">如果$might$已滿，則消耗全部$might$進行複製。</string>
+		<string lang="zh-tw">$might$已滿時消耗全部$might$進行複製。</string>
 </set>
 <set id="description-skill-gravbite">
 		<string lang="de">Fügt $1damage$ zu und versieht ihn mit $gravamplification$.</string>
@@ -315,13 +315,13 @@
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
 		<string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all combatants on the same time step.</string>
 		<string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les combattants sur le même étape de temps.</string>
-		<string lang="zh">对处在同一时间步的所有参战单位造成$b$$VALUE$$/b$$damage$。</string>
+		<string lang="zh">对处在同一时间轴点的所有参战单位造成$b$$VALUE$$/b$$damage$。</string>
 		<string lang="jp">同一タイムステップの敵味方全体に$b$$VALUE$$/b$$damage$。</string>
 		<string lang="ru">Наносит $b$$VALUE$$/b$ $damage$ всем бойцам на одном временном шаге.</string>
 		<string lang="es">Inflige a todos los combatientes en el mismo paso de tiempo $b$$VALUE$$/b$ $damage$</string>
 		<string lang="kr">동일한 시간 단계에 위치한 모든 전투원에게 $b$$VALUE$$/b$ $damage$를 줍니다.</string>
 		<string lang="pt-br">Inflige a todos os combatentes no mesmo passo de tempo $b$$VALUE$$/b$ $damage$</string>
-		<string lang="zh-tw">對處在同一時間步的所有參戰單位造成$b$$VALUE$$/b$$damage$。</string>
+		<string lang="zh-tw">對處在同一時間軸點的所有參戰單位造成$b$$VALUE$$/b$$damage$。</string>
 </set>
 <set id="description-skill-modularrackfire">
 		<string lang="de">Aktiviert Module auf dem Rack.</string>
@@ -435,13 +435,13 @@
 		<string lang="de">Fügt einem Gegner $vulnerable$ zu. Er hält $4$ Zeitschritte an.</string>
 		<string lang="en">Applies $vulnerable$ to an enemy. It lasts for $4$ time steps.</string>
 		<string lang="fr">Applique $vulnerable$ à une cible. Dure $4$ tours.</string>
-		<string lang="zh">对一名敌人施加$vulnerable$，持续$4$时间步长。</string>
+		<string lang="zh">对一名敌人施加$vulnerable$，持续$4$个时刻。</string>
 		<string lang="jp">敵１体に$vulnerable$付与。$4$タイムステップ持続。</string>
 		<string lang="ru">Накладывает $vulnerable$ на врага. Длится $4$ временных шага.</string>
 		<string lang="es">Aplica $vulnerable$ a un enemigo. Dura $4$ turnos</string>
 		<string lang="kr">적에게 $vulnerable$을 부여합니다. $4$ 시간 단계 동안 지속됩니다.</string>
 		<string lang="pt-br">Aplica $vulnerable$ a um inimigo. Dura $4$ turnos</string>
-		<string lang="zh-tw">對一名敵人施加$vulnerable$，持續$4$時間步長。</string>
+		<string lang="zh-tw">對一名敵人施加$vulnerable$，持續$4$個時刻。</string>
 </set>
 <set id="description-skill-passive-powerraiseifcrustbroken">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
@@ -615,13 +615,13 @@
 		<string lang="de">Fügt allen Charakteren auf diesem Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
 		<string lang="en">Deals $b$$VALUE$$/b$ $damage$ to all player characters on that time step.</string>
 		<string lang="fr">Inflige $b$$VALUE$$/b$ $damage$ à tous les personnages joueurs sur ce étape de temps.</string>
-		<string lang="zh">对当前时间步上的所有玩家角色造成$b$$VALUE$$/b$$damage$。</string>
+		<string lang="zh">对当前时间轴点上的所有玩家角色造成$b$$VALUE$$/b$$damage$。</string>
 		<string lang="jp">同一タイムステップのプレイヤーキャラ全体に$b$$VALUE$$/b$$damage$。</string>
 		<string lang="ru">Наносит $b$$VALUE$$/b$ $damage$ всем игрокам на этом временном шаге.</string>
 		<string lang="es">Inflige a todos los personajes jugadores en el mismo paso de tiempo $b$$VALUE$$/b$ $damage$</string>
 		<string lang="kr">해당 시간 단계에 위치한 모든 플레이어 캐릭터에게 $b$$VALUE$$/b$ $damage$를 줍니다.</string>
 		<string lang="pt-br">Inflige a todos os personagens jogadores no mesmo passo de tempo $b$$VALUE$$/b$ $damage$</string>
-		<string lang="zh-tw">對當前時間步上的所有己方角色造成$b$$VALUE$$/b$$damage$。</string>
+		<string lang="zh-tw">對當前時間軸點上的所有己方角色造成$b$$VALUE$$/b$$damage$。</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>

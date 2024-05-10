@@ -75,37 +75,37 @@
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav-1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un combattant ciblé].</string>
-		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
+		<string lang="zh">模块每得到$1$$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$[対象の敵味方に$grav-1$付与]。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav-1$].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav-1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게$br$$grav-1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav-1$].</string>
-		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav-1$。</string>
+		<string lang="zh-tw">模組每得到$1$$energy$供應，$br$對目標參戰單位$br$施加一次$grav-1$。</string>
 </set>
 <set id="description-module-effectorblasterprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl$br$$1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$$br$to target enemy].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
-		<string lang="zh">模块每得到1$energy$供应，$br$对目标敌人造成$br$$1damage$。</string>
+		<string lang="zh">模块每得到$1$$energy$供应，$br$对目标敌人造成$br$$1damage$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$[対象の敵に$1damage$]</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому врагу $1damage$].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $1damage$ a un enemigo objetivo].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 적에게$br$$1damage$를 줍니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$ a um inimigo alvo].</string>
-		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標敵人造成$br$$1damage$。</string>
+		<string lang="zh-tw">模組每得到$1$$energy$供應，$br$對目標敵人造成$br$$1damage$。</string>
 </set>
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant$br$with $grav+1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
-		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav+1$。</string>
+		<string lang="zh">模块每得到$1$$energy$供应，$br$对目标参战单位$br$施加一次$grav+1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$[対象の敵味方に$grav+1$付与]。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게$br$$grav+1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
-		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav+1$。</string>
+		<string lang="zh-tw">模組每得到$1$$energy$供應，$br$對目標參戰單位$br$施加一次$grav+1$。</string>
 </set>
 <set id="description-module-effectorgravimmunity">
 		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$br$(Dauer: $energy$×3)</string>
@@ -123,13 +123,13 @@
 		<string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen $lightning$ niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
 		<string lang="en">Summons a single $lightning$ strike onto target time step that deals $damage$ to all combatants on it.</string>
 		<string lang="fr">Invoque une foudre sur l'étape de temps ciblée qui inflige $damage$ à tous les combattants sur elle.</string>
-		<string lang="zh">于目标时间步召唤一道$br$$lightning$，对处于此时间步的所有参战单位造成$damage$。</string>
+		<string lang="zh">于目标时间轴点召唤一道$br$$lightning$，对处于此时间轴点的所有参战单位造成 $damage$。</string>
 		<string lang="jp">$lightning$ひとつを対象のタイムステップに落とし、その上の敵味方全体に$damage$。</string>
 		<string lang="ru">Призывает один $lightning$ удар на целевой временной шаг, который наносит $damage$ всем бойцам на нем.</string>
 		<string lang="es">Invoca un solo $lightning$ en un paso de tiempo objetivo que inflige $damage$ a todos los combatientes en él.</string>
 		<string lang="kr">$lightning$ 하나를 소환해 대상 시간 단계에 위치한 모든 전투원에게 $damage$를 줍니다.</string>
 		<string lang="pt-br">Invoca um único $lightning$ em um passo de tempo alvo que inflige $damage$ a todos os combatentes nele.</string>
-		<string lang="zh-tw">於目標時間步召喚一道$lightning$，$br$對處於此時間步的所有參戰單位造成$damage$。</string>
+		<string lang="zh-tw">於目標時間軸點召喚一道$lightning$，$br$對處於此時間軸點的所有參戰單位造成 $damage$。</string>
 </set>
 <set id="description-module-effectormine">
 		<string lang="de">Fügt dem Charakter $damage$ zu.</string>
@@ -413,13 +413,13 @@
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges des Charakters den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
 		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of the owner's turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
 		<string lang="fr">$storm$ frappera également les ennemis.$p$Au début du tour du propriétaire, attirez le $storm$ de jusqu'à $3$ étapes de temps (distance minimale de $b$+1$/b$).</string>
-		<string lang="zh">$storm$也会袭击敌人。$p$拥有者回合开始时，令$storm$提前最多$3$个时间步（最少$b$+1$/b$）。</string>
+		<string lang="zh">$storm$也会袭击敌人。$p$拥有者回合开始时，令$storm$提前最多$3$个时间轴点（最少$b$+1$/b$）。</string>
 		<string lang="jp">$storm$が敵にも落ちる。$p$所有者のターン開始時、$storm$を最大$3$タイムステップ引き寄せる。（最短$b$+1$/b$）</string>
 		<string lang="ru">$storm$ также поражает врагов.$p$В начале хода владельца привлекает $storm$ на до $3$ шагов времени (минимальное расстояние $b$+1$/b$).</string>
 		<string lang="es">La $storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae la $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
 		<string lang="kr">$storm$은 적에게도 몰아칠 것입니다.$p$소유자의 턴 시작 시, $storm$을 최대 $3$ 시간 단계까지 유도합니다(최소 $b$+1$/b$의 거리까지).</string>
 		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno do dono, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
-		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
+		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時刻（最少$b$+1$/b$）。</string>
 </set>
 <set id="description-module-plasmadischarger">
 		<string lang="de">Verbraucht alles $plasma$ um ebensoviel $energy$ zu erzeugen.</string>
@@ -587,7 +587,7 @@
 		<string lang="es">Elimina $outoforder$ del módulo objetivo en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 모듈에게서 $outoforder$ 상태를 제거합니다.</string>
 		<string lang="pt-br">Remove $outoforder$ do módulo alvo neste rack.</string>
-		<string lang="zh-tw">在此模架上選擇一個模組，移除其$outoforder$狀態。</string>
+		<string lang="zh-tw">在此模架上選擇一個模組，$br$移除其$outoforder$狀態。</string>
 </set>
 <set id="description-module-toggledtransmogrifier">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack, um ein Modul anderen Typs der gleichen Stufe herzustellen.</string>
@@ -641,13 +641,13 @@
 		<string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn mit $grav-1$ zu versehen.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du personnage, retirez $1$ $energy$ stockée pour lui appliquer $grav-1$.</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$点所储存的$energy$，对其施加$grav-1$。</string>
+		<string lang="zh">可充能。$p$拥有者回合开始时，消耗储存的$1$$energy$，对其施加$grav-1$。</string>
 		<string lang="jp">充電可。$p$所有者のターン開始時、充電された$energy$を$1$消費し、$grav-1$付与。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода персонажа, удалите $1$ сохраненную $energy$ чтобы применить к нему $grav-1$.</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del personaje, elimina $1$ $energy$ almacenada para aplicarle $grav-1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 소유자에게 $grav-1$를 부여합니다.</string>
 		<string lang="pt-br">Pode ser carregado.$p$No início do turno do personagem, remova $1$ $energy$ armazenada para aplicar $grav-1$ a ele.</string>
-		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對其施加$grav-1$。</string>
+		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗儲存的$1$$energy$，對其施加$grav-1$。</string>
 </set>
 <set id="name-module-burningdebris">
 		<string lang="de">Brennende Trümmer</string>
