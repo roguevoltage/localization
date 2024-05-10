@@ -267,13 +267,13 @@
 		<string lang="de">$sensor$-Module verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $storageicon$$b$Akkumulator$/b$, wo sie gespeichert werden kann.</string>
 		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Accumulator$/b$ where it can be stored.</string>
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Accumulateur$/b$ où il peut être stocké.</string>
-		<string lang="zh">如果在回合结束时没有释放能量，$sensor$将失去所有$energy$。$p$将其导入至$storageicon$$b$蓄电池$/b$储存起来。</string>
+		<string lang="zh">$sensor$将在回合结束时失去所有未释放的$energy$。$p$将其导入至$storageicon$$b$蓄电池$/b$储存起来。</string>
 		<string lang="jp">ターン終了時までに放電しなければ、センサーは$energy$をすべて失う。$p$$storageicon$$b$蓄電池$/b$に接続し、蓄電するんだ。</string>
 		<string lang="ru">Сенсоры потеряют всю $energy$, если не будут разряжены к концу хода.$p$Маршрутизируйте его в $storageicon$$b$Аккумулятор$/b$, где он может быть сохранен.</string>
 		<string lang="es">Módulos $sensor$ perderán toda la $energy$ al final del turno si no se descargan.$p$Redirígelo al $storageicon$$b$Acumulador$/b$, donde puede ser almacenado.</string>
 		<string lang="kr">감지기는 턴 종료 시 방전시키지 않으면 모든 $energy$를 잃어버리게 됩니다.$p$$energy$를 저장할 수 있는 $storageicon$$b$축압기$/b$로 연결해주세요.</string>
 		<string lang="pt-br">Sensores perderão toda a $energy$ se não forem descarregados até o final do turno.$p$Encaminhe-a para o $storageicon$$b$Acumulador$/b$, onde pode ser armazenada.</string>
-        <string lang="zh-tw">如果這些$energy$本回合未被釋放，將全部消失。$p$將它們導入$storageicon$$b$蓄電池$/b$中儲存。</string>
+        <string lang="zh-tw">$sensor$將在回合結束時失去所有未釋放的$energy$。$p$將它們導入$storageicon$$b$蓄電池$/b$中儲存。</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator2-title">
 		<string lang="de">$energy$ speichern</string>
@@ -627,13 +627,13 @@
 		<string lang="de">Die Zeitleiste zeigt die Reihenfolge der kommenden Züge an.$p$$b$Jetzt$/b$ ist $slopperjohnson$ am Zug.$p$Danach tickt die Zeit vorwärts und in $b$4 Schritten$/b$ ist die $chronocat$ an der Reihe.$p$Zwei Schritte später ist es $slopperjackson$s Zug.</string>
 		<string lang="en">The timeline shows the succession of the upcoming turns.$p$$b$Now$/b$, it's $slopperjohnson$'s turn.$p$Afterwards, time will tick forward and $b$in 4 time steps$/b$ it'll be the $chronocat$'s turn.$p$Two steps later, it'll be $slopperjackson$'s turn.</string>
 		<string lang="fr">La chronologie montre la succession des tours à venir.$p$$b$Maintenant$/b$, c'est au tour de $slopperjohnson$.$p$Ensuite, le temps avancera et $b$en 4 étapes$/b$ ce sera au tour du $chronocat$.$p$Deux étapes plus tard, ce sera au tour de $slopperjackson$.</string>
-		<string lang="zh">时间轴显示了角色出战的轮次。$p$$b$现在$/b$，轮到$slopperjohnson$的回合。$p$随后时间轴向前推进，并在$b$4个时间步长$/b$后轮到$chronocat$。$p$再经过2步，轮到$slopperjackson$。</string>
+		<string lang="zh">时间轴显示了角色出战的轮次。$p$$b$现在$/b$，轮到$slopperjohnson$的回合。$p$随后时间轴向前推进，并在$b$4个时刻$/b$后轮到$chronocat$。$p$再经过2个时刻，轮到$slopperjackson$。</string>
 		<string lang="jp">タイムラインはターン順を示す。$p$$b$いま$/b$は$slopperjohnson$のターンだ。$p$それから、時間は前に進み、$b$４タイムステップ$/b$後には$chronocat$のターン。$p$さらに２タイムステップで$slopperjackson$のターン。</string>
 		<string lang="ru">Временная шкала показывает последовательность предстоящих ходов.$p$$b$Сейчас$/b$ ходит $slopperjohnson$.$p$После этого время продвинется вперед и через $b$4 шага$/b$ наступит очередь $chronocat$.$p$Через два шага наступит очередь $slopperjackson$.</string>
 		<string lang="es">La línea temporal muestra la sucesión de los próximos turnos.$p$$b$Ahora$/b$, es el turno de $slopperjohnson$.$p$Después, el tiempo avanzará y $b$en 4 pasos$/b$ será el turno del $chronocat$.$p$Dos pasos después, será el turno de $slopperjackson$.</string>
 		<string lang="kr">타임라인에는 다가올 턴이 차례대로 표시됩니다.$p$$b$현재는$/b$, $slopperjohnson$의 턴입니다.$p$이후에는 시간이 흘러가며, $b$4번의 시간 단계가 지나면$/b$$br$$chronocat$의 턴이 됩니다.$p$두 단계 이후에는 $slopperjackson$의 턴입니다.</string>
 		<string lang="pt-br">A linha do tempo mostra a sucessão dos próximos turnos.$p$$b$Agora$/b$, é a vez de $slopperjohnson$.$p$Depois, o tempo avançará e $b$em 4 etapas$/b$ será a vez do $chronocat$.$p$Duas etapas depois, será a vez de $slopperjackson$.</string>
-		<string lang="zh-tw">時間軸顯示了角色出戰的輪次。$p$$b$現在$/b$，輪到$slopperjohnson$的回合。$p$隨後時間軸向前推進，並在$b$4個時間步長$/b$後輪到$br$$chronocat$。$p$再經過2步，輪到$slopperjackson$。</string>
+		<string lang="zh-tw">時間軸顯示了角色出戰的輪次。$p$$b$現在$/b$，輪到$slopperjohnson$的回合。$p$隨後時間軸向前推進，並在$b$4個時刻$/b$後輪到$chronocat$。$p$再經過2個時刻，輪到$slopperjackson$。</string>
 </set>
 <set id="tutorialwindow-timeline-description-2">
 		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>

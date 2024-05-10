@@ -100,7 +100,7 @@
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Charakter ist, versieht ein Modul mit $selfencrusting$.</string>
 		<string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
 		<string lang="fr">Inflige à un autre combattant $grav+2$. S'il s'agit d'un personnage joueur, inflige un module avec $selfencrusting$.</string>
-        <string lang="zh">对另一个战斗者施加 $grav+2$。如果是玩家角色，使一个模块获得 $selfencrusting$。</string>
+        <string lang="zh">对另一个参战角色施加 $grav+2$。如果是玩家角色，使一个模块获得 $selfencrusting$。</string>
         <string lang="jp">別の戦闘者に $grav+2$ を与えます。プレイヤーキャラクターの場合、モジュールに $selfencrusting$ を付与します。</string>
         <string lang="ru">Наносит другому бойцу $grav+2$. Если это игрок, накладывает на модуль $selfencrusting$.</string>
         <string lang="es">Inflige a otro combatiente con $grav+2$. Si es un personaje jugador, inflige un módulo con $selfencrusting$.</string>
@@ -418,7 +418,7 @@
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
 		<string lang="en">Inflicts all combatants on the same time step with $vulnerable$.</string>
 		<string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $vulnerable$.</string>
-		<string lang="zh">使所有在同一时间步的战斗者获得 $vulnerable$ 状态。</string>
+		<string lang="zh">使所有在同一时间轴点的参战角色获得 $vulnerable$ 状态。</string>
 		<string lang="jp">敵に $vulnerable$ を付与する。</string>
 		<string lang="kr">Inflicts all combatants on the same time step with $vulnerable$.</string>
 </set>

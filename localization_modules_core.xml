@@ -183,13 +183,13 @@
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
 		<string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
 		<string lang="fr">Inflige des $damage$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
-		<string lang="zh">对所有与拥有者处在同一时间步的敌人造成$damage$。</string>
+		<string lang="zh">对所有与拥有者处在同一时间轴点的敌人造成$damage$。</string>
 		<string lang="jp">所有者と同一タイムステップの敵全体に$damage$。</string>
 		<string lang="ru">Наносит $damage$ всем врагам на том же временном шаге, что и владелец.</string>
 		<string lang="es">Inflige $damage$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
 		<string lang="kr">소유자와 동일한 시간 단계에 위치한 모든 적에게 $damage$를 줍니다</string>
 		<string lang="pt-br">Inflige $damage$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
-		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人造成$damage$。</string>
+		<string lang="zh-tw">對所有與擁有者處在同一時間軸點的敵人造成$damage$。</string>
 </set>
 <set id="description-module-effectorblaster">
 		<string lang="de">Fügt einem Gegner deiner Wahl $damage$ zu.</string>
@@ -231,13 +231,13 @@
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
 		<string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
 		<string lang="fr">Inflige $grav+$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
-		<string lang="zh">对所有与拥有者处在同一时间步的敌人施放$grav+$。</string>
+		<string lang="zh">对所有与拥有者处在同一时间轴点的敌人施放$grav+$。</string>
 		<string lang="jp">所有者と同一タイムステップの敵全体に$grav+$付与。</string>
 		<string lang="ru">Применяет $grav+$ ко всем врагам на том же временном шаге, что и владелец.</string>
 		<string lang="es">Inflige $grav+$ a todos los enemigos en el mismo paso de tiempo que el dueño.</string>
 		<string lang="kr">소유자와 동일한 시간 단계에 위치한 모든 적에게 $grav+$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
-		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人施放$grav+$。</string>
+		<string lang="zh-tw">對所有與擁有者處在同一時間軸點的敵人施放$grav+$。</string>
 </set>
 <set id="description-module-effectorgatlinggun">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $1damage$ zu].</string>
@@ -543,7 +543,7 @@
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
 		<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-		<string lang="zh">可释放$b$$CHARGEVALUE$$/b$$energy$。</string>
+		<string lang="zh">可释能$b$$CHARGEVALUE$$/b$$energy$。</string>
 		<string lang="jp">$b$$CHARGEVALUE$$/b$$energy$で放電可能。</string>
 		<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
@@ -555,7 +555,7 @@
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
 		<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="fr">Peut être déchargé pour$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-		<string lang="zh">可释放$br$$b$$CHARGEVALUE$$/b$$energy$。</string>
+		<string lang="zh">可释能$br$$b$$CHARGEVALUE$$/b$$energy$。</string>
 		<string lang="jp">$b$$CHARGEVALUE$$/b$$energy$で放電可能。</string>
 		<string lang="ru">Может быть разряжен на$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
@@ -579,13 +579,13 @@
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
 		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
 		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
-		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，$br$对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
+		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间后爆炸，$br$对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
 		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方２人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$で威力相殺）</string>
 		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить урон можно с помощью с помощью $energy$).</string>
 		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
 		<string lang="kr">$b$$TIMETOTURN$$/b$ 시간 단계 후에 폭발하며, 두 주인공에게 $b$$INVERSECHARGEVALUE$$/b$ $damage$를 줍니다.$br$($energy$로 효과 감소).</string>
 		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
-		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。</string>
+		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時刻後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。</string>
 </set>
 <set id="description-module-toggledbooster-eot">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
