@@ -25,6 +25,19 @@
 		<string lang="zh-tw">有$energy$輸入時，$br$獲得$turbo$。
 </string>
 </set>
+<set id="description-module-collectorcollector">
+	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $sensor$ anderen Typs geladen wird.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $sensor$ of a different type is charged.</string>
+	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $sensor$ d'un type différent est chargé.</string>
+	<string lang="zh">每当其他类型的$sensor$被充能，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+    <string lang="jp">他の種類の$sensor$が充電されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+    <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $sensor$ другого типа заряжается.</string>
+    <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se carga un $sensor$ de un tipo diferente.</string>
+    <string lang="kr">다른 유형의 $sensor$가 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+    <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $sensor$ de um tipo diferente é carregado.</string>
+    <string lang="zh-tw">每當其他類型的$sensor$被充能，$br$產出$b$$SENSORVALUE$$/b$$energy$。
+</string>
+</set>
 <set id="description-module-collectorcrust">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is broken.</string>
@@ -448,6 +461,19 @@
 		<string lang="zh-tw">
 </string>
 </set>
+<set id="description-module-passivestorageinductor">
+	<string lang="de">Lädt zu Beginn des Zuges des Charakters ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
+	<string lang="en">At the beginning of the owner's turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
+    <string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sans $cracked$ sur ce rack avec $1energy$.</string>
+    <string lang="zh">在拥有者回合开始时，为此模架上的一个随机非$cracked$$storagemodule$充能$1energy$。</string>
+    <string lang="jp">所有者のターン開始時、このラック上のランダムな非$cracked$$storagemodule$に$1energy$充填。</string>
+    <string lang="ru">В начале хода владельца, заряжает случайный не-$cracked$ $storagemodule$ на этой стойке на $1energy$.</string>
+    <string lang="es">Al comienzo del turno del propietario, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
+    <string lang="kr">소유자의 턴이 시작될 때, 이 랙의 무작위 비-$cracked$$storagemodule$에 $1energy$를 충전합니다.</string>
+    <string lang="pt-br">No início do turno do dono, carrega um $storagemodule$ aleatório sem $cracked$ neste rack com $1energy$.</string>
+    <string lang="zh-tw">在擁有者回合開始時，為此模架上的一個隨機非$cracked$$storagemodule$充能$1energy$。
+</string>
+</set>
 <set id="description-module-passivestormlantern">
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges des Charakters den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
 		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of the owner's turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
@@ -630,18 +656,17 @@
 		<string lang="zh-tw">移除所有參戰單位的$might$。
 </string>
 </set>
-<set id="description-module-toggledstoragemaxcapacityenhancer">
-		<string lang="de">Erhöht die Max. Kapazität einer $storagemodule$ um $1$ und läd sie um $1$ auf.</string>
-		<string lang="en">Increases the max. capacity of a $storagemodule$ by $1$ and charges it by $1$.</string>
-		<string lang="fr">Augmente la capacité max. d'une $storagemodule$ de $1$ et la charge de $1$.</string>
-		<string lang="zh">令一个$storagemodule$的最大储量提升$1$，并为其输入$1$能量。</string>
-		<string lang="jp">$storagemodule$の最大容量を$1$増やし、$br$$1$充電。</string>
-		<string lang="ru">Увеличивает макс. ёмкость $storagemodule$ на $1$ и заряжает его на $1$.</string>
-		<string lang="es">Aumenta la capacidad máx. de una $storagemodule$ en $1$ y la carga en $1$.</string>
-		<string lang="kr">$storagemodule$ 하나의 최대 용량을 $1$ 증가시키고, $1$ 충전합니다.</string>
-		<string lang="pt-br">Aumenta a capacidade máx. de uma $storagemodule$ em $1$ e a carrega em $1$.</string>
-		<string lang="zh-tw">令一個$storagemodule$的最大儲量提升$1$，並為其輸入$1$能量。
-</string>
+<set id="description-module-toggledmaxcapacityenhancer">
+		<string lang="de">Erhöht die Max. Kapazität eines $storage$-Moduls ohne $cracked$ deiner Wahl um $1$ und lädt es um $1energy$.</string>
+		<string lang="en">Increases the max. capacity of target non-$cracked$ $storagemodule$ by $1$ and charges it with $1energy$.</string>
+		<string lang="fr">Augmente la capacité max. d'un $storagemodule$ sans $cracked$ ciblé par $1$ et le charge avec $1energy$.</string>
+		<string lang="zh">提升一個非$cracked$$storagemodule$的最大容量$1$，並為其輸入$1energy$。</string>
+		<string lang="jp">$cracked$のない対象$storagemodule$の最大容量を$1$増加し、$1energy$を充填。</string>
+		<string lang="ru">Увеличивает максимальную емкость целевого $storagemodule$ без $cracked$ на $1$ и заряжает его на $1energy$.</string>
+		<string lang="es">Aumenta la capacidad máx. de un $storagemodule$ sin $cracked$ objetivo en $1$ y lo carga con $1energy$.</string>
+		<string lang="kr">$cracked$ 상태가 아닌 대상 $storagemodule$의 최대 용량을 $1$ 증가시키고, $1energy$를 충전합니다.</string>
+		<string lang="pt-br">Aumenta a capacidade máx. de um $storagemodule$ sem $cracked$ alvo em $1$ e o carrega com $1energy$.</string>
+		<string lang="zh-tw">提升一個非$cracked$$storagemodule$的最大容量$1$，並為其輸入$1energy$。</string>
 </set>
 <set id="description-module-toggledrepairkit">
 		<string lang="de">Entfernt $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
@@ -745,6 +770,19 @@
 		<string lang="kr">코일 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Bobina $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">線圈$MODIFICATIONVALUE$
+</string>
+</set>
+<set id="name-module-collectorcollector">
+	<string lang="de">Sensor-Sensor</string>
+	<string lang="en">Sensor Sensor</string>
+	<string lang="fr">Capteur Capteur</string>
+	<string lang="zh">传感器传感器</string>
+    <string lang="jp">センサーセンサー</string>
+	<string lang="ru">Сенсор Сенсор</string>
+	<string lang="es">Sensor Sensor</string>
+	<string lang="kr">수집기 수집기</string>
+    <string lang="pt-br">Sensor Sensor</string>
+    <string lang="zh-tw">感測器感測器
 </string>
 </set>
 <set id="name-module-collectorcrust">
@@ -1172,6 +1210,18 @@
 		<string lang="zh-tw">
 </string>
 </set>
+<set id="name-module-passivestorageinductor">
+	<string lang="de">Speicher-Induktor</string>
+	<string lang="en">Storage Inductor</string>
+    <string lang="fr">Inducteur de Stockage</string>
+    <string lang="zh">存储电感器</string>
+    <string lang="jp">ストレージインダクタ</string>
+    <string lang="ru">Индуктор Хранения</string>
+    <string lang="es">Inductor de Almacenamiento</string>
+    <string lang="kr">저장 인덕터</string>
+    <string lang="pt-br">Indutor de Armazenamento</string>
+    <string lang="zh-tw">存儲電感器</string>
+</set>
 <set id="name-module-passivestormlantern">
 		<string lang="de">Sturmlaterne</string>
 		<string lang="en">Storm Lantern</string>
@@ -1354,18 +1404,17 @@
 		<string lang="zh-tw">力量歸零器
 </string>
 </set>
-<set id="name-module-toggledstoragemaxcapacityenhancer">
-		<string lang="de">Kapazität-Upgrader</string>
-		<string lang="en">Capacity Enhancer</string>
-		<string lang="fr">Améliorateur de Capacité</string>
-		<string lang="zh">存储增强器</string>
-		<string lang="jp">容量増強器</string>
-		<string lang="ru">Усилитель Емкости</string>
-		<string lang="es">Potenciador de Capacidad</string>
-		<string lang="kr">용량 증강기</string>
-		<string lang="pt-br">Melhorador de Capacidade</string>
-		<string lang="zh-tw">存儲增強器
-</string>
+<set id="name-module-toggledmaxcapacityenhancer">
+		<string lang="de">Speicherkapazitäts-Upgrader</string>
+		<string lang="en">Storage Capacity Enhancer</string>
+		<string lang="fr">Améliorateur de Capacité de Stockage</string>
+		<string lang="zh">存储容量增强器</string>
+		<string lang="jp">記憶容量増強器</string>
+		<string lang="ru">Улучшитель Ёмкости Хранения</string>
+		<string lang="es">Mejorador de Capacidad de Almacenamiento</string>
+		<string lang="kr">저장 용량 증강기</string>
+		<string lang="pt-br">Aprimorador de Capacidade de Armazenamento</string>
+		<string lang="zh-tw">存儲容量增強器</string>
 </set>
 <set id="name-module-toggledrepairkit">
 		<string lang="de">Reparatur-Kit</string>
