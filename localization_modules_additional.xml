@@ -553,29 +553,29 @@
 </string>
 </set>
 <set id="description-module-toggledduplicator">
-		<string lang="de">Stellt eine permanente Kopie eines Moduls deiner Wahl her.</string>
-		<string lang="en">Constructs a permanent copy of another target module on this rack.</string>
-		<string lang="fr">Construit une copie permanente d'un autre module ciblé.</string>
-		<string lang="zh">选择同模架上另一模块，$br$制造一个该模块的永久性复制品。</string>
-		<string lang="jp">このラックの別の対象モジュールを恒久的に複製。</string>
-		<string lang="ru">Создает постоянную копию другого целевого модуля на этой стойке.</string>
-		<string lang="es">Construye una copia permanente de otro módulo objetivo en este bastidor.</string>
-		<string lang="kr">다른 대상 모듈의 영구적인 복사본을 이 랙에 조립합니다.</string>
-		<string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo neste rack.</string>
-		<string lang="zh-tw">選擇同模架上另一模組，$br$製造一個該模組的永久性複製品。
+		<string lang="de">Stellt eine permanente Kopie eines Moduls ohne $cracked$ deiner Wahl auf diesem Rack her.</string>
+		<string lang="en">Constructs a permanent copy of another target non-$cracked$ module on this rack.</string>
+		<string lang="fr">Construit une copie permanente d'un autre module ciblé sans $cracked$ sur ce rack.</string>
+		<string lang="zh">选择同模架上另一非$cracked$模块，制造一个永久复制品。</string>
+        <string lang="jp">このラックの別の非$cracked$付与された対象モジュールの永久コピーを作成。</string>
+        <string lang="ru">Создает постоянную копию другого целевого модуля без $cracked$ на этом стеллаже.</string>
+        <string lang="es">Construye una copia permanente de otro módulo objetivo sin $cracked$ en este bastidor.</string>
+        <string lang="kr">이 랙의 다른 $cracked$ 상태가 아닌 대상 모듈의 영구 복사본을 생성합니다.</string>
+        <string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo não $cracked$ neste rack.</string>
+        <string lang="zh-tw">選擇同模架上另一非$cracked$模組，製造一個永久複製品。
 </string>
 </set>
 <set id="description-module-toggledduplicator-eob">
-		<string lang="de">Stellt eine Kopie eines Moduls deiner Wahl her.$p$Die Kopie erhält $cracked$ und $unstable$.</string>
-		<string lang="en">Constructs a copy of another target module on this rack.$p$The copy has $cracked$ and $unstable$.</string>
-		<string lang="fr">Construit une copie d'un autre module ciblé.$p$La copie a $cracked$ et $unstable$.</string>
-		<string lang="zh">选择同模架上另一模块，制造一个该模块的复制品。$p$复制品$cracked$且$unstable$。</string>
-		<string lang="jp">このラックの別の対象モジュールを複製。$p$複製に$cracked$と$unstable$付与。</string>
-		<string lang="ru">Создает копию другого целевого модуля на этом слоте.$p$Копия имеет $cracked$ и $unstable$.</string>
-		<string lang="es">Construye una copia de otro módulo objetivo en este bastidor.$p$La copia tiene $cracked$ y $unstable$.</string>
-		<string lang="kr">다른 대상 모듈의 복사본을 이 랙에 조립합니다.$p$복사본은 $cracked$과 $unstable$ 상태를 지닙니다.</string>
-		<string lang="pt-br">Constrói uma cópia de outro módulo alvo neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
-		<string lang="zh-tw">選擇同模架上另一模組，製造一個該模組的複製品。$p$複製品$cracked$且$unstable$。
+		<string lang="de">Stellt eine Kopie eines Moduls ohne $cracked$ deiner Wahl auf diesem Rack her.$p$Die Kopie erhält $cracked$ und $unstable$.</string>
+		<string lang="en">Constructs a copy of another target non-$cracked$ module on this rack.$p$The copy has $cracked$ and $unstable$.</string>
+		<string lang="fr">Construit une copie d'un autre module ciblé sans $cracked$ sur ce rack.$p$La copie a $cracked$ et $unstable$.</string>
+		<string lang="zh">选择同模架上另一非$cracked$模块，制造一个复制品。$p$复制品获得$cracked$和$unstable$。</string>
+        <string lang="jp">このラックの別の非$cracked$付与された対象モジュールのコピーを作成。$p$コピーは$cracked$と$unstable$を持つ。</string>
+        <string lang="ru">Создает копию другого целевого модуля без $cracked$ на этом стеллаже.$p$Копия имеет $cracked$ и $unstable$.</string>
+        <string lang="es">Construye una copia de otro módulo objetivo sin $cracked$ en este bastidor.$p$La copia tiene $cracked$ y $unstable$.</string>
+        <string lang="kr">이 랙의 다른 $cracked$ 상태가 아닌 대상 모듈의 복사본을 생성합니다.$p$복사본은 $cracked$와 $unstable$을 가집니다.</string>
+        <string lang="pt-br">Constrói uma cópia de outro módulo alvo não $cracked$ neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
+        <string lang="zh-tw">選擇同模架上另一非$cracked$模組，製造一個複製品。$p$複製品獲得$cracked$和$unstable$。
 </string>
 </set>
 <set id="description-module-toggledechochamber">
