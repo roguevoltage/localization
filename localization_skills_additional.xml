@@ -15,13 +15,13 @@
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Modul mit $fire$.</string>
 		<string lang="en">Deals $1damage$ to an enemy and inflicts one module with $fire$.</string>
 		<string lang="fr">Inflige $1damage$ à une cible et inflige un module avec $fire$.</string>
-		<string lang="zh">对一名敌人造成$1damage$，并令一个模块$fire$。</string>
-		<string lang="jp">敵１体に$1damage$、モジュール１つに$fire$付与。</string>
+		<string lang="zh">对一名敌人造成$1$$damage$，并令1个模块$fire$。</string>
+		<string lang="jp">敵1体に$1damage$。$br$モジュール1つに$fire$付与。</string>
 		<string lang="ru">Наносит $1damage$ врагу и накладывает на один модуль $fire$.</string>
 		<string lang="es">Inflige $1damage$ a un enemigo e inflige un módulo con $fire$.</string>
-		<string lang="kr">적에게 $1damage$를 줍니다 그리고 모듈 하나에게 $fire$ 상태를 부여합니다.</string>
+		<string lang="kr">적에게 $1damage$를 주고 모듈 하나에 $fire$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ a um inimigo e inflige um módulo com $fire$.</string>
-		<string lang="zh-tw">對一名敵人造成$1damage$，並令一個模組$fire$。</string>
+		<string lang="zh-tw">"對一名敵人造成$1$$damage$，並令1個模組$fire$。</string>
 </set>
 <set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
@@ -244,7 +244,7 @@
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
 		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Dynosaur$/b$.</string>
 		<string lang="zh">$might$达到最大值时自毁，$br$诞生一只$b$化石恐龙$/b$。</string>
-		<string lang="jp">$might$最大なら、$br$自身を破壊し$b$グラビサウルス$/b$出現。</string>
+		<string lang="jp">$might$最大なら、$br$自身を破壊し$br$$b$グラビサウルス$/b$出現。</string>
 		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Dynosaur$/b$.</string>
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Dynosaur$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$공룡$/b$을 소환합니다.</string>
@@ -256,7 +256,7 @@
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Graviraptor$/b$.</string>
 		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Graviraptor$/b$.</string>
 		<string lang="zh">$might$达到最大值时自毁，$br$诞生一只$b$引力龙$/b$。</string>
-		<string lang="jp">$might$最大なら、$br$自身を破壊し$b$グラビラプトル$/b$出現。</string>
+		<string lang="jp">$might$最大なら、$br$自身を破壊し$br$$b$グラビラプトル$/b$出現。</string>
 		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Graviraptor$/b$.</string>
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Graviraptor$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$중력랩터$/b$를 소환합니다.</string>
@@ -268,7 +268,7 @@
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
 		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Phoenix$/b$.</string>
 		<string lang="zh">$might$达到最大值时自毁，$br$诞生一只$b$不死鸟$/b$。</string>
-		<string lang="jp">$might$最大なら、$br$自身を破壊し$b$不死鳥$/b$出現。</string>
+		<string lang="jp">$might$最大なら、$br$自身を破壊し$br$$b$不死鳥$/b$出現。</string>
 		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Phoenix$/b$.</string>
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Phoenix$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$불사조$/b$를 소환합니다.</string>
@@ -472,7 +472,7 @@
 		<string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
 		<string lang="fr">Retire tout $might$ pour infliger un ennemi avec autant de $grav+$.</string>
 		<string lang="zh">移除全部$might$，对一名敌人施加等量$grav+$。</string>
-		<string lang="jp">$might$全て消費し、$br$対象の敵1体に同量の$grav+$付与。</string>
+		<string lang="jp">全$might$消費し、$br$敵1体に同量の$grav+$付与。</string>
 		<string lang="ru">Удаляет все $might$, чтобы нанести врагу столько же $grav+$.</string>
 		<string lang="es">Elimina todo el $might$ para infligir a un enemigo con esa cantidad de $grav+$.</string>
 		<string lang="kr">모든 $might$을 제거해 적에게 그와 동일한 $grav+$를 부여합니다.</string>
@@ -484,7 +484,7 @@
 		<string lang="en">Rises above the player characters on the timeline.</string>
 		<string lang="fr">Monte au-dessus des personnages joueurs sur la timeline.</string>
 		<string lang="zh">时间轴优先级提升至玩家角色之上。</string>
-		<string lang="jp">タイムライン上で、プレイヤーキャラよりも上昇。</string>
+		<string lang="jp">タイムライン上で、$br$プレイヤーキャラよりも上昇。</string>
 		<string lang="ru">Поднимается выше игроков на временной шкале.</string>
 		<string lang="es">Se eleva por encima de los personajes del jugador en la línea temporal.</string>
 		<string lang="kr">플레이어 캐릭터의 타임라인 위로 날아오릅니다.</string>
@@ -496,7 +496,7 @@
 		<string lang="en">Deals $2damage$ to all enemies on the same time step.$br$Sinks below the player characters on the timeline.$br$Inflicts itself with $grav+2$.</string>
 		<string lang="fr">Inflige $2damage$ à tous les ennemis sur le même pas de temps.$br$Descend en dessous des personnages joueurs sur la timeline.$br$S'inflige $grav+2$.</string>
 		<string lang="zh">对与自身处于同一时间轴点的所有敌人造成$2damage$。$br$时间轴优先级降低至玩家角色之下。$br$对自身施加$grav+2$。</string>
-		<string lang="jp">同一タイムステップの敵全体に$2damage$。$br$タイムライン上でプレイヤーキャラよりも下降。$br$自身に$grav+2$付与。</string>
+		<string lang="jp">同一タイムステップの敵全体に$br$$2damage$。$br$タイムライン上で$br$プレイヤーキャラよりも下降。$br$自身に$grav+2$付与。</string>
 		<string lang="ru">Наносит всем врагам на одном временном шаге $2damage$. $br$Опускается ниже игроков на временной шкале. Накладывает на себя $grav+2$.</string>
 		<string lang="es">Inflige $2damage$ a todos los enemigos en el mismo paso de tiempo.$br$Desciende por debajo de los personajes del jugador en la línea temporal.$br$Se inflige $grav+2$.</string>
 		<string lang="kr">동일한 시간 단계에 위치한 모든 적에게 $2damage$를 줍니다.$br$플레이어 캐릭터의 타임라인 밑으로 파고듭니다.$br$자신에게 $grav+2$를 부여합니다.</string>
@@ -579,13 +579,13 @@
 		<string lang="de">Kralle$fireicon$</string>
 		<string lang="en">Claw$fireicon$</string>
 		<string lang="fr">Griffe$fireicon$</string>
-		<string lang="zh">爪击$fireicon$</string>
-		<string lang="jp">ツメ$fireicon$</string>
+		<string lang="zh">烈焰爪击$fireicon$</string>
+		<string lang="jp">焼ツメ$fireicon$</string>
 		<string lang="ru">Коготь$fireicon$</string>
 		<string lang="es">Garra$fireicon$</string>
-		<string lang="kr">할퀴기$fireicon$</string>
+		<string lang="kr">맹렬한 할퀴기 $fireicon$</string>
 		<string lang="pt-br">Garra$fireicon$</string>
-		<string lang="zh-tw">爪擊$fireicon$</string>
+		<string lang="zh-tw">烈焰爪擊$fireicon$</string>
 </set>
 <set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>

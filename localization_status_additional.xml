@@ -51,7 +51,7 @@
 		<string lang="de">Bei Aktivierung stellt dieses Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$.</string>
 		<string lang="en">On activation, this module will construct a copy of itself. The copy is on $cooldown$.</string>
 		<string lang="fr">A l'activation, ce module construira une copie de lui-même. La copie est sur $cooldown$.</string>
-		<string lang="zh">激活时制造自身的复制品。复制品处于$cooldown$中。</string>
+		<string lang="zh">激活时制造自身的复制品。$br$复制品处于$cooldown$中。</string>
 		<string lang="jp">起動時、自身を複製し、複製に$cooldown$付与</string>
 		<string lang="ru">При активации этот модуль создаст копию самого себя. Копия находится на $cooldown$.</string>
 		<string lang="es">Al activarse, este módulo construirá una copia de sí mismo. La copia está en $cooldown$.</string>
@@ -220,7 +220,7 @@
 		<string lang="en">Volcano $damage$ to $grav+$</string>
 		<string lang="fr">Volcan $damage$ vers $grav+$</string>
 		<string lang="zh">火山$damage$转化（$grav+$）</string>
-		<string lang="jp">噴火$damage$$grav+$置換</string>
+		<string lang="jp">噴火$damage$を$grav+$へ</string>
 		<string lang="ru">Вулкан $damage$ в $grav+$</string>
 		<string lang="es">$damage$ de volcán a $grav+$</string>
 		<string lang="kr">화산 $damage$에서 $grav+$</string>
@@ -232,7 +232,7 @@
 		<string lang="en">Volcano $damage$ to $might$</string>
 		<string lang="fr">Volcan $damage$ vers $might$</string>
 		<string lang="zh">火山$damage$转化（$might$）</string>
-		<string lang="jp">噴火$damage$$might$置換</string>
+		<string lang="jp">噴火$damage$を$might$へ</string>
 		<string lang="ru">Вулкан $damage$ в $might$</string>
 		<string lang="es">$damage$ de volcán a $might$</string>
 		<string lang="kr">화산 $damage$에서 $might$</string>

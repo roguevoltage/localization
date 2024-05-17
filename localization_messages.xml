@@ -400,7 +400,7 @@
 		<string lang="en">It's not the turn of $NAME$.</string>
 		<string lang="fr">C'est pas le tour de $NAME$.</string>
 		<string lang="zh">未到$NAME$回合。</string>
-		<string lang="jp">$NAMEのターンじゃない</string>
+		<string lang="jp">$NAME$のターンじゃない</string>
 		<string lang="ru">Сейчас не ход $NAME$.</string>
 		<string lang="es">No es el turno de $NAME$.</string>
 		<string lang="kr">$NAME$의 턴이 아닙니다.</string>
@@ -436,7 +436,7 @@
 		<string lang="en">Idle</string>
 		<string lang="fr">Inactif</string>
 		<string lang="zh">闲置中</string>
-		<string lang="jp">放置中</string>
+		<string lang="jp">ヒマ</string>
 		<string lang="ru">Бездействие</string>
 		<string lang="es">Inactivo</string>
 		<string lang="kr">방치</string>
@@ -592,7 +592,7 @@
 		<string lang="en">$NAME$ becomes unconscious.</string>
 		<string lang="fr">$NAME$ se fait évanouir.</string>
 		<string lang="zh">$NAME$陷入昏迷。</string>
-		<string lang="jp">$NAME$は気絶した。</string>
+		<string lang="jp">$NAME$気絶</string>
 		<string lang="ru">$NAME$ теряет сознание.</string>
 		<string lang="es">$NAME$ se desmaya.</string>
 		<string lang="kr">$NAME$(은)는 의식을 잃었습니다.</string>
@@ -843,13 +843,13 @@
 		<string lang="de">An $OTHERCHARACTERICON$$OTHERCHARACTER$$br$gesendet</string>
 		<string lang="en">Passed to$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
 		<string lang="fr">Passé à$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
-		<string lang="zh">传递给$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
-		<string lang="jp">$OTHERCHARACTERICON$$OTHERCHARACTER$に送信</string>
+		<string lang="zh">已交给$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
+		<string lang="jp">$OTHERCHARACTERICON$$OTHERCHARACTER$にパス</string>
 		<string lang="ru">Передано$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
 		<string lang="es">Enviado a$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
 		<string lang="kr">$OTHERCHARACTERICON$$OTHERCHARACTER$에게 전달됨</string>
 		<string lang="pt-br">Enviado para$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
-		<string lang="zh-tw">傳遞給$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
+		<string lang="zh-tw">已交給$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
 </set>
 <set id="worldmessage-plasmaconsumption">
 		<string lang="de">$PLASMAVALUE$ $plasmaicon$</string>
@@ -873,6 +873,6 @@
 		<string lang="es">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
-		<string lang="zh-tw">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="zh-tw">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 </set>
 </localization>
