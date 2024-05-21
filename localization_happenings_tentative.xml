@@ -109,4 +109,70 @@
         <string lang="kr">커뮤니티에서 빌드를 자랑하세요</string>
         <string lang="pt-br">Mostre sua construção na comunidade</string>
     </set>
+    <set id="happening-chargingstationrefinery-description">
+        <string lang="de">Akzeptiert ausschließlich $passthrough$-Module ohne $upgrade$.$br$Verleiht dem Modul ein permanentes $upgrade$ beim nächsten Camp besuch.</string>
+        <string lang="en">Only accepts modules of type $passthroughmodule$ without $upgrade$.$br$Gives a module a permanent $upgrade$ at the next camp visit.</string>
+        <string lang="fr">Accepte uniquement les modules $passthrough$ sans $upgrade$.$br$Donne un $upgrade$ permanent à un module lors de la prochaine visite au camp.</string>
+        <string lang="zh">只接受没有$upgrade$的$passthrough$模块.$br$在下次营地访问时为一个模块提供永久$upgrade$。</string>
+        <string lang="jp">$upgrade$なしの$passthrough$モジュールのみ受け付けます.$br$次のキャンプ訪問時にモジュールに永久的な$upgrade$を与えます。</string>
+        <string lang="ru">Принимает только модули $passthrough$ без $upgrade$.$br$Дает модулю постоянное $upgrade$ при следующем посещении лагеря.</string>
+        <string lang="es">Solo acepta módulos $passthrough$ sin $upgrade$.$br$Da un $upgrade$ permanente a un módulo en la próxima visita al campamento.</string>
+        <string lang="kr">$upgrade$ 없이 $passthrough$ 모듈만 수락합니다.$br$다음 캠프 방문 시 모듈에 영구적인 $upgrade$를 제공합니다.</string>
+        <string lang="pt-br">Aceita apenas módulos $passthrough$ sem $upgrade$.$br$Dá a um módulo um $upgrade$ permanente na próxima visita ao acampamento.</string>
+    </set>
+    <set id="happening-chargingstationrefinery-introduction">
+        <string lang="de">Du betritts auf die</string>
+        <string lang="en">You enter the</string>
+        <string lang="fr">Vous entrez dans la</string>
+        <string lang="zh">你进入了</string>
+        <string lang="jp">あなたは</string>
+        <string lang="ru">Вы входите в</string>
+        <string lang="es">Entras en el</string>
+        <string lang="kr">당신은</string>
+        <string lang="pt-br">Você entra no</string>
+    </set>
+    <set id="happening-chargingstationrefinery-heading">
+        <string lang="de">Raffinerie: Durchsatz-Upgrader</string>
+        <string lang="en">Refinery: Passthrough Upgrader</string>
+        <string lang="fr">Raffinerie: Amplificateur de Relais</string>
+        <string lang="zh">中继升级器</string>
+        <string lang="jp">中継機改良装置</string>
+        <string lang="ru">Усилитель пропускной способности</string>
+        <string lang="es">Refinería: Potenciador de Traspaso</string>
+        <string lang="kr">정제소: 통과 개량기</string>
+        <string lang="pt-br">Refinaria: Amplificador de Atravessar</string>
+    </set>
+    <set id="happening-chargingstationrefinery-description">
+        <string lang="de">Lädt ein $storagemodule$$br$um beim nächsten Camp-Besuch follständig auf</string>
+        <string lang="en">Fully charges a $storagemodule$$br$at the next camp visit</string>
+        <string lang="fr">Recharge un $storagemodule$$br$lors de la prochaine visite au camp</string>
+        <string lang="zh">在下次营地访问时完全充电一个$storagemodule$</string>
+        <string lang="jp">次のキャンプ訪問時に$storagemodule$を完全に充電します</string>
+        <string lang="ru">Полностью заряжает $storagemodule$$br$при следующем посещении лагеря</string>
+        <string lang="es">Carga completamente un $storagemodule$$br$en la próxima visita al campamento</string>
+        <string lang="kr">다음 캠프 방문 시 $storagemodule$를 완전히 충전합니다</string>
+        <string lang="pt-br">Carrega completamente um $storagemodule$$br$na próxima visita ao acampamento</string>
+    </set>
+    <set id="happening-chargingstationpowerplant-introduction">
+        <string lang="de">Du betritts auf die</string>
+        <string lang="en">You enter the</string>
+        <string lang="fr">Vous entrez dans la</string>
+        <string lang="zh">你进入了</string>
+        <string lang="jp">あなたは</string>
+        <string lang="ru">Вы входите в</string>
+        <string lang="es">Entras en el</string>
+        <string lang="kr">당신은</string>
+        <string lang="pt-br">Você entra no</string>
+    </set>
+    <set id="happening-chargingstationpowerplant-heading">
+        <string lang="de">Kraftwerk: Ladesäule</string>
+        <string lang="en">Power Plant: Charging Station</string>
+        <string lang="fr">Centrale électrique: Station de recharge</string>
+        <string lang="zh">发电厂：充电站</string>
+        <string lang="jp">発電所：チャージステーション</string>
+        <string lang="ru">Электростанция: Зарядная станция</string>
+        <string lang="es">Central eléctrica: Estación de carga</string>
+        <string lang="kr">발전소: 충전소</string>
+        <string lang="pt-br">Usina: Estação de Recarga</string>
+    </set>
 </localization>

@@ -183,6 +183,28 @@
 	<string lang="kr">대상 전투원에게 $gravamplification$ 부여합니다.$br$(지속시간: $energy$×3).</string>
 	<string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
 </set>
+<set id="name-module-generatorcrust">
+	<string lang="de">Krusten Generator</string>
+	<string lang="en">Crust Generator</string>
+	<string lang="fr">Générateur de Croûte</string>
+	<string lang="zh">壳发电机</string>
+	<string lang="jp">クラスト発電機</string>
+	<string lang="ru">Генератор Корки</string>
+	<string lang="es">Generador de Corteza</string>
+	<string lang="kr">크러스트 발전기</string>
+	<string lang="pt-br">Gerador de Crosta</string>
+</set>
+<set id="description-module-generatorcrust">
+	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ und verursacht $crust$ auf ein Modul</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation and causes $crust$ on a module</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation et provoque $crust$ sur un module</string>
+	<string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$并在一个模块上产生$crust$</string>
+	<string lang="jp">アクティベート時に$b$$GENERATIONVALUE$$/b$ $energy$を生成し、モジュールに$crust$を引き起こします</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации и вызывает $crust$ на модуле</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación y causa $crust$ en un módulo</string>
+	<string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 모듈에 $crust$를 유발합니다</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e causa $crust$ em um módulo</string>
+</set>
 <set id="name-module-generatorbomb">
 	<string lang="de">Explosiver Generator</string>
 	<string lang="en">Explosive Generator</string>
@@ -248,6 +270,28 @@
     <string lang="es">Inflige $taunt$ en un personaje objetivo.$br$(Duración: $energy$×3)</string>
     <string lang="kr">대상 캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
     <string lang="pt-br">Inflige $taunt$ no personagem alvo.$br$(Duração: $energy$×3)</string>
+</set>
+<set id="name-module-storagecellemergency">
+	<string lang="de">Notfall Batterie</string>
+	<string lang="en">Emergency Battery</string>
+	<string lang="fr">Batterie de Secours</string>
+    <string lang="zh">紧急电池</string>
+	<string lang="jp">緊急バッテリー</string>
+	<string lang="ru">Аварийный Аккумулятор</string>
+	<string lang="es">Batería de Emergencia</string>
+	<string lang="kr">비상 배터리</string>
+	<string lang="pt-br">Bateria de Emergência</string>
+</set>
+<set id="description-module-storagecellemergency">
+	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
+	<string lang="en">Can be discharged for $b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="fr">Peut être déchargé pour $b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="zh">可用于$b$$CHARGEVALUE$$/b$ $energy$。</string>
+	<string lang="jp">$b$$CHARGEVALUE$$/b$ $energy$に使用できます。</string>
+	<string lang="ru">Может быть разряжен на $b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="es">Puede ser descargado por $b$$CHARGEVALUE$$/b$ $energy$.</string>
+	<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$에 사용할 수 있습니다.</string>
+	<string lang="pt-br">Pode ser descarregado por $b$$CHARGEVALUE$$/b$ $energy$.</string>
 </set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
