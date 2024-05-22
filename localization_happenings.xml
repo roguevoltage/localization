@@ -11,6 +11,7 @@
 		<string lang="pt-br">Carrega um $storagemodule$$br$com $2energy$.</string>
 		<string lang="zh-tw">為一個$storagemodule$$br$輸入至多$2energy$。
 </string>
+		<string lang="uk">Заряджає $storagemodule$ $br$ на $2energy$.</string>
 </set>
 <set id="happening-chargingstation-description2">
 		<string lang="de">Sie wurde bereits benutzt,$br$aber jemand muss vergessen haben die Speicherzelle mitzunehmen.</string>
@@ -24,6 +25,7 @@
 		<string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar a célula de armazenamento com eles.</string>
 		<string lang="zh-tw">此站點已被使用，$br$但使用者似乎忘了取走這個儲存單元。
 </string>
+		<string lang="uk">Його вже використовували,$br$але хтось, мабуть, забув взяти з собою модуль зберігання.</string>
 </set>
 <set id="happening-chargingstation-error-nomodule">
 		<string lang="de">Platziere Speichermodul auf den Sockel</string>
@@ -37,6 +39,7 @@
 		<string lang="pt-br">Coloque o módulo de armazenamento no soquete</string>
 		<string lang="zh-tw">將儲存模組放進插槽
 </string>
+		<string lang="uk">Встановіть модуль зберігання в сокет</string>
 </set>
 <set id="happening-chargingstation-heading">
 		<string lang="de">Ladesäule</string>
@@ -50,6 +53,7 @@
 		<string lang="pt-br">Estação de carregamento</string>
 		<string lang="zh-tw">充電站
 </string>
+		<string lang="uk">Зарядна Станція</string>
 </set>
 <set id="happening-chargingstation-introduction">
 		<string lang="de">Du stößt auf eine</string>
@@ -63,6 +67,7 @@
 		<string lang="pt-br">Você descobre uma</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявили</string>
 </set>
 <set id="happening-endofdemo-calltoaction">
 		<string lang="de">Hast du Feedback, Fragen oder Ideen?$br$Möchtest du die Entwicklung unterstützen?</string>
@@ -76,18 +81,19 @@
 		<string lang="pt-br">Você tem feedback, perguntas ou ideias?$br$Você quer apoiar o desenvolvimento?</string>
 		<string lang="zh-tw">您有任何回饋、問題或建議嗎？$br$您想支持本遊戲的開發嗎？
 </string>
+		<string lang="uk">У вас є відгуки, запитання чи ідеї?$br$Хочете підтримати розробку?</string>
 </set>
 <set id="happening-endofdemo-currentcycle">
-		<string lang="de"></string>
-		<string lang="en"></string>
-		<string lang="fr"></string>
-		<string lang="zh"></string>
-		<string lang="jp"></string>
-		<string lang="ru"></string>
-		<string lang="es"></string>
-		<string lang="kr"></string>
-		<string lang="pt-br"></string>
-		<string lang="zh-tw"></string>
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
 </set>
 <set id="happening-endofdemo-currentdifficulty">
 		<string lang="de">Schwierigkeit: $DIFFICULTY$</string>
@@ -101,6 +107,7 @@
 		<string lang="pt-br">Dificuldade: $DIFFICULTY$</string>
 		<string lang="zh-tw">當前難度：$DIFFICULTY$
 </string>
+		<string lang="uk">Поточна складність: $DIFFICULTY$</string>
 </set>
 <set id="happening-endofdemo-currentplasma">
 		<string lang="de">Plasma: $PLASMA$</string>
@@ -114,6 +121,7 @@
 		<string lang="pt-br">Plasma: $PLASMA$</string>
 		<string lang="zh-tw">等離子體：$PLASMA$
 </string>
+		<string lang="uk">Плазма: $PLASMA$</string>
 </set>
 <set id="happening-endofdemo-developer">
 		<string lang="de">$b$Luca$/b$$br$Entwickler</string>
@@ -127,6 +135,7 @@
 		<string lang="pt-br">$b$Luca$/b$$br$Desenvolvedor</string>
 		<string lang="zh-tw">$b$Luca$/b$$br$開發者
 </string>
+		<string lang="uk">$b$Luca$/b$ $br$Розробник</string>
 </set>
 <set id="happening-endofdemo-heading">
 		<string lang="de">Ende der Demo</string>
@@ -140,6 +149,7 @@
 		<string lang="pt-br">Fim da demonstração</string>
 		<string lang="zh-tw">試玩結束
 </string>
+		<string lang="uk">Кінець демо</string>
 </set>
 <set id="happening-endofdemo-introduction">
 		<string lang="de">Das ist das</string>
@@ -153,6 +163,7 @@
 		<string lang="pt-br">Você chegou ao</string>
 		<string lang="zh-tw">您已通關
 </string>
+		<string lang="uk">Ви досягли</string>
 </set>
 <set id="happening-endofdemo-jointhecommunity">
 		<string lang="de">Zeige deinen Build in der Community</string>
@@ -166,6 +177,7 @@
 		<string lang="pt-br">Mostre sua construção na comunidade</string>
 		<string lang="zh-tw">在社區中展示您的模組
 </string>
+		<string lang="uk">Покажіть свій білд в спільноті</string>
 </set>
 <set id="happening-endofdemo-runduration">
 		<string lang="de">Dauer des Runs: $DURATION$</string>
@@ -179,6 +191,7 @@
 		<string lang="pt-br">Duração: $DURATION$</string>
 		<string lang="zh-tw">遊戲時長：$DURATION$
 </string>
+		<string lang="uk">Тривалість забігу: $DURATION$</string>
 </set>
 <set id="happening-endofdemo-scope-demo">
 		<string lang="de">Diese Demo</string>
@@ -192,6 +205,7 @@
 		<string lang="pt-br">Esta demonstração</string>
 		<string lang="zh-tw">試玩版
 </string>
+		<string lang="uk">Це демо</string>
 </set>
 <set id="happening-endofdemo-scope-demo-biomes">
 		<string lang="de">2 Biome</string>
@@ -205,6 +219,7 @@
 		<string lang="pt-br">2 biomas</string>
 		<string lang="zh-tw">2種地貌
 </string>
+		<string lang="uk">2 біоми</string>
 </set>
 <set id="happening-endofdemo-scope-demo-characters">
 		<string lang="de">2 Charaktere</string>
@@ -218,6 +233,7 @@
 		<string lang="pt-br">2 personagens</string>
 		<string lang="zh-tw">2個角色
 </string>
+		<string lang="uk">2 персонажі</string>
 </set>
 <set id="happening-endofdemo-scope-demo-date">
 		<string lang="de">Frühling '24</string>
@@ -231,6 +247,7 @@
 		<string lang="pt-br">Primavera de '24</string>
 		<string lang="zh-tw">24年 春
 </string>
+		<string lang="uk">Весна '24</string>
 </set>
 <set id="happening-endofdemo-scope-demo-modules">
 		<string lang="de">35 Module</string>
@@ -244,6 +261,7 @@
 		<string lang="pt-br">35 módulos</string>
 		<string lang="zh-tw">35種模組
 </string>
+		<string lang="uk">35 модулів</string>
 </set>
 <set id="happening-endofdemo-scope-demo-stages">
 		<string lang="de">2 Levels</string>
@@ -257,6 +275,7 @@
 		<string lang="pt-br">2 etapas</string>
 		<string lang="zh-tw">2大關卡
 </string>
+		<string lang="uk">2 етапи</string>
 </set>
 <set id="happening-endofdemo-scope-ea">
 		<string lang="de">Early Access</string>
@@ -270,6 +289,7 @@
 		<string lang="pt-br">Acesso Antecipado</string>
 		<string lang="zh-tw">搶先體驗版
 </string>
+		<string lang="uk">Ранній доступ</string>
 </set>
 <set id="happening-endofdemo-scope-ea-biomes">
 		<string lang="de">5+ Biome</string>
@@ -283,6 +303,7 @@
 		<string lang="pt-br">5+ biomas</string>
 		<string lang="zh-tw">5種以上地貌
 </string>
+		<string lang="uk">5+ біомів</string>
 </set>
 <set id="happening-endofdemo-scope-ea-characters">
 		<string lang="de">8+ Charaktere</string>
@@ -296,6 +317,7 @@
 		<string lang="pt-br">8+ personagens</string>
 		<string lang="zh-tw">8個以上角色
 </string>
+		<string lang="uk">8+ персонажів</string>
 </set>
 <set id="happening-endofdemo-scope-ea-date">
 		<string lang="de">Q2 '24</string>
@@ -309,6 +331,7 @@
 		<string lang="pt-br">T2 '24</string>
 		<string lang="zh-tw">24年 第二季度
 </string>
+		<string lang="uk">2 кв. '24</string>
 </set>
 <set id="happening-endofdemo-scope-ea-modules">
 		<string lang="de">90+ Module</string>
@@ -322,6 +345,7 @@
 		<string lang="pt-br">90+ módulos</string>
 		<string lang="zh-tw">90種以上模組
 </string>
+		<string lang="uk">90+ модулів</string>
 </set>
 <set id="happening-endofdemo-scope-ea-stages">
 		<string lang="de">4 Levels</string>
@@ -335,6 +359,7 @@
 		<string lang="pt-br">4 etapas</string>
 		<string lang="zh-tw">4大關卡
 </string>
+		<string lang="uk">4 етапи</string>
 </set>
 <set id="happening-endofdemo-spreadtheword">
 		<string lang="de">• Erzähle anderen von Rogue Voltage</string>
@@ -348,6 +373,7 @@
 		<string lang="pt-br">• Espalhe a palavra sobre Rogue Voltage</string>
 		<string lang="zh-tw">•推廣《末日電湧》
 </string>
+		<string lang="uk">• Розкажіть про Rogue Voltage</string>
 </set>
 <set id="happening-endofdemo-thankyou">
 		<string lang="de">Herzlichen Glückwunsch und vielen Dank fürs Spielen!$br$Ich hoffe, dir hat dieser erste Eindruck des Spiels gefallen.</string>
@@ -361,6 +387,7 @@
 		<string lang="pt-br">Parabéns e obrigado por jogar!$br$Espero que você tenha gostado deste primeiro vislumbre do jogo.</string>
 		<string lang="zh-tw">恭喜！由衷感謝您的參與！$br$希望我們的遊戲給您留下了美好的第一印象。
 </string>
+		<string lang="uk">Вітаю та дякую за гру!$br$Сподіваюся, вам сподобався цей перший погляд на гру.</string>
 </set>
 <set id="happening-endofdemo-wishlist">
 		<string lang="de">+ STEAM WUNSCHLISTE</string>
@@ -374,6 +401,7 @@
 		<string lang="pt-br">+ LISTA DE DESEJOS DA STEAM</string>
 		<string lang="zh-tw">添加至Steam願望單
 </string>
+		<string lang="uk">ДОДАТИ ДО СПИСКУ БАЖАНЬ У STEAM</string>
 </set>
 <set id="happening-error-nomodule">
 		<string lang="de">Platziere Modul auf den Sockel</string>
@@ -387,6 +415,7 @@
 		<string lang="pt-br">Coloque o módulo no soquete</string>
 		<string lang="zh-tw">將模組放入插槽
 </string>
+		<string lang="uk">Встановіть модуль у сокет</string>
 </set>
 <set id="happening-gameover-discord">
 		<string lang="de">Lass es mich im Discord-Kanal wissen:</string>
@@ -400,6 +429,7 @@
 		<string lang="pt-br">Deixe-me saber no Discord:</string>
 		<string lang="zh-tw">在Discord中發表您的看法：
 </string>
+		<string lang="uk">Дайте мені знати в Discord:</string>
 </set>
 <set id="happening-gameover-heading">
 		<string lang="de">Game Over</string>
@@ -413,6 +443,7 @@
 		<string lang="pt-br">Fim de jogo</string>
 		<string lang="zh-tw">遊戲結束
 </string>
+		<string lang="uk">Кінець Гри</string>
 </set>
 <set id="happening-gameover-salvage-header">
 		<string lang="de">Ein Modul bergen</string>
@@ -426,6 +457,7 @@
 		<string lang="pt-br">Recuperar um módulo</string>
 		<string lang="zh-tw">保留一個模組
 </string>
+		<string lang="uk">Врятувати один модуль</string>
 </set>
 <set id="happening-gameover-salvage-text">
 		<string lang="de">Platziere ein Modul im Zeitanker, um es in deinen nächsten Versuch hinüberzuretten.</string>
@@ -439,6 +471,7 @@
 		<string lang="pt-br">Coloque um módulo na âncora temporal para salvá-lo para sua próxima tentativa.</string>
 		<string lang="zh-tw">選擇一個模組放入時空錨點，下次遊戲可繼承。
 </string>
+		<string lang="uk">Помістіть модуль у часовий прив’язок, щоб зберегти його для наступної спроби.</string>
 </set>
 <set id="happening-gameover-text">
 		<string lang="de">“Kinder, das wird mir zu gefährlich!$br$Übertragt einen Modul-Bauplan und ich grav.-blaste euch in der Zeit zurück!"</string>
@@ -452,6 +485,7 @@
 		<string lang="pt-br">“Pessoal, isso está ficando muito perigoso!$br$Transmita um plano de módulo e eu grav.-expulsarei você de volta no tempo!"</string>
 		<string lang="zh-tw">孩子們，這兒太危險了！$br$快把模組藍圖傳走，我要用引力爆炸送你們回到過去！
 </string>
+		<string lang="uk">«Друзі, це стає надто небезпечним!$br$Передайте креслення модуля, і я поверну вас у минуле!</string>
 </set>
 <set id="happening-gameover-unusual">
 		<string lang="de">Ist etwas unübliches passiert?</string>
@@ -465,6 +499,7 @@
 		<string lang="pt-br">Aconteceu algo incomum?</string>
 		<string lang="zh-tw">發生了什麼不尋常的事情嗎？
 </string>
+		<string lang="uk">Сталося щось незвичайне?</string>
 </set>
 <set id="happening-healingstation-description">
 		<string lang="de">Heilt beide Charaktere um $1$</string>
@@ -478,6 +513,7 @@
 		<string lang="pt-br">Cura ambos os personagens em $1$</string>
 		<string lang="zh-tw">同時治療兩名角色$1$點生命值。
 </string>
+		<string lang="uk">Лікує обох персонажів $1$</string>
 </set>
 <set id="happening-healingstation-description2">
 		<string lang="de">Sie wurde bereits benutzt,$br$aber jemand muss vergessen haben, das Modul mitzunehmen.</string>
@@ -491,6 +527,7 @@
 		<string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar a poção com eles.</string>
 		<string lang="zh-tw">此站點已被使用，$br$但使用者似乎忘了取走這個藥劑。
 </string>
+		<string lang="uk">Його вже використовували,$br$але хтось, мабуть, забув узяти з собою зілля.</string>
 </set>
 <set id="happening-healingstation-heading">
 		<string lang="de">Heilungs-Station</string>
@@ -504,6 +541,7 @@
 		<string lang="pt-br">Estação de cura</string>
 		<string lang="zh-tw">治療站
 </string>
+		<string lang="uk">Станція Лікування</string>
 </set>
 <set id="happening-healingstation-introduction">
 		<string lang="de">Du stößt auf eine</string>
@@ -517,6 +555,7 @@
 		<string lang="pt-br">Você descobre uma</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявляєте</string>
 </set>
 <set id="happening-led-goodbye">
 		<string lang="de">AUF$br$WIEDERSEHEN</string>
@@ -530,6 +569,7 @@
 		<string lang="pt-br">ADEUS</string>
 		<string lang="zh-tw">再見
 </string>
+		<string lang="uk">ПРОЩАВАЙ</string>
 </set>
 <set id="happening-led-inuse">
 		<string lang="de">IN BENUTZUNG</string>
@@ -543,6 +583,7 @@
 		<string lang="pt-br">EM USO</string>
 		<string lang="zh-tw">使用中
 </string>
+		<string lang="uk">ВИКОРИСТОВУЄТЬСЯ</string>
 </set>
 <set id="happening-led-placemodule">
 		<string lang="de">PLATZIERE$br$MODUL</string>
@@ -556,6 +597,7 @@
 		<string lang="pt-br">COLOQUE$br$MODULO</string>
 		<string lang="zh-tw">放置$br$模組
 </string>
+		<string lang="uk">ПОМІСТИТИ$br$МОДУЛЬ</string>
 </set>
 <set id="happening-led-ready">
 		<string lang="de">BEREIT</string>
@@ -569,6 +611,7 @@
 		<string lang="pt-br">PRONTO</string>
 		<string lang="zh-tw">點擊按鈕$br$開始
 </string>
+		<string lang="uk">НАТИСНІТЬ КНОПКУ$br$ЩОБ ЗАСТОСУВАТИ</string>
 </set>
 <set id="happening-led-takemodule">
 		<string lang="de">NIMM$br$MODUL</string>
@@ -582,6 +625,7 @@
 		<string lang="pt-br">PEGUE$br$MODULO</string>
 		<string lang="zh-tw">取出$br$模組
 </string>
+		<string lang="uk">ВЗЯТИ$br$МОДУЛЬ</string>
 </set>
 <set id="happening-modifierupgrader-description">
 		<string lang="de">Akzeptiert ausschließlich $passthrough$-Module ohne $upgrade$.$br$Verleiht dem Modul ein permanentes $upgrade$.</string>
@@ -595,6 +639,7 @@
 		<string lang="pt-br">Apenas aceita módulos do tipo $passthroughmodule$.$br$Dá aos módulos um $upgrade$ permanente.</string>
 		<string lang="zh-tw">僅接受無$upgrade$的$passthroughmodule$型模組。$br$為目標模組施加一個永久的$upgrade$。
 </string>
+		<string lang="uk">Приймає лише модулі типу $passthroughmodule$ без $upgrade$.$br$Надає модулю постійний $upgrade$.</string>
 </set>
 <set id="happening-modifierupgrader-description2">
 		<string lang="de">Er wurde bereits benutzt, $br$aber jemand hat vergessen, den Verstärker mitzunehmen.</string>
@@ -608,6 +653,7 @@
 		<string lang="pt-br">Já foi usado,$br$mas alguém deve ter esquecido de levar o amplificador com eles.</string>
 		<string lang="zh-tw">此站點已被使用，$br$但使用者似乎忘了取走這個增幅器。
 </string>
+		<string lang="uk">Його вже використовували, $br$але напевно хтось забув взяти з собою підсилювач.</string>
 </set>
 <set id="happening-modifierupgrader-error-nomodule">
 		<string lang="de">Platziere Modifikator auf den Sockel</string>
@@ -621,6 +667,7 @@
 		<string lang="pt-br">Coloque um modificador no soquete</string>
 		<string lang="zh-tw">將模組放入插槽
 </string>
+		<string lang="uk">Поставте модифікатор у сокет</string>
 </set>
 <set id="happening-modifierupgrader-heading">
 		<string lang="de">Durchsatz-Upgrader</string>
@@ -634,6 +681,7 @@
 		<string lang="pt-br">Amplificador de Atravessar</string>
 		<string lang="zh-tw">中繼升級器
 </string>
+		<string lang="uk">Підсилювач пропускної спроможності</string>
 </set>
 <set id="happening-modifierupgrader-introduction">
 		<string lang="de">Du stößt auf einen</string>
@@ -647,6 +695,7 @@
 		<string lang="pt-br">Você descobre um</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявляєте</string>
 </set>
 <set id="happening-moduleduplicator-description">
 		<string lang="de">Verdoppelt ein Modul deiner Wahl</string>
@@ -660,6 +709,7 @@
 		<string lang="pt-br">Duplica um módulo de sua escolha</string>
 		<string lang="zh-tw">複製所選模組
 </string>
+		<string lang="uk">Дублює обраний вами модуль</string>
 </set>
 <set id="happening-moduleduplicator-error-twomodules">
 		<string lang="de">Platziere ein zu verdoppelndes Modul auf den linken Sockel</string>
@@ -673,6 +723,7 @@
 		<string lang="pt-br">Coloque um módulo para duplicar no soquete esquerdo</string>
 		<string lang="zh-tw">將所選模組放入左邊插槽以複製
 </string>
+		<string lang="uk">Розмістіть один модуль для дублювання у лівий сокет</string>
 </set>
 <set id="happening-moduleduplicator-heading">
 		<string lang="de">Modul-Duplikator</string>
@@ -686,6 +737,7 @@
 		<string lang="pt-br">Estação de duplicação</string>
 		<string lang="zh-tw">複製站
 </string>
+		<string lang="uk">Станція Дублювання</string>
 </set>
 <set id="happening-moduleduplicator-introduction">
 		<string lang="de">Du stößt auf einen</string>
@@ -699,6 +751,7 @@
 		<string lang="pt-br">Você descobre uma</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявляєте</string>
 </set>
 <set id="happening-moduledurabilityenhancer-description">
 		<string lang="de">Erhöht die Haltbarkeit eines Moduls</string>
@@ -712,6 +765,7 @@
 		<string lang="pt-br">Aumenta a durabilidade de um módulo.</string>
 		<string lang="zh-tw">提高模組的耐久度。
 </string>
+		<string lang="uk">Підвищує міцність модуля.</string>
 </set>
 <set id="happening-moduledurabilityenhancer-heading">
 		<string lang="de">Haltbarkeits-Verstärker</string>
@@ -725,6 +779,7 @@
 		<string lang="pt-br">Aprimorador de Durabilidade</string>
 		<string lang="zh-tw">耐久增強器
 </string>
+		<string lang="uk">Підвищення міцності</string>
 </set>
 <set id="happening-moduledurabilityenhancer-introduction">
 		<string lang="de">Du stößt auf einen</string>
@@ -738,6 +793,7 @@
 		<string lang="pt-br">Você descobre um</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявляєте</string>
 </set>
 <set id="happening-moduletransmogrifier-description">
 		<string lang="de">Verwandelt ein Modul in ein anderes der gleichen Stufe</string>
@@ -751,6 +807,7 @@
 		<string lang="pt-br">Transforma um módulo em outro do mesmo nível</string>
 		<string lang="zh-tw">可將模組轉換為同級別的其他模組
 </string>
+		<string lang="uk">Перетворює модуль на інший того самого рівня</string>
 </set>
 <set id="happening-moduletransmogrifier-heading">
 		<string lang="de">Transmogrifikator</string>
@@ -764,6 +821,7 @@
 		<string lang="pt-br">Transmogrificador</string>
 		<string lang="zh-tw">轉換器
 </string>
+		<string lang="uk">Трансмогріфікатор</string>
 </set>
 <set id="happening-moduletransmogrifier-introduction">
 		<string lang="de">Du stößt auf einen</string>
@@ -777,6 +835,7 @@
 		<string lang="pt-br">Você descobre um</string>
 		<string lang="zh-tw">你發現了一個
 </string>
+		<string lang="uk">Ви виявляєте</string>
 </set>
 <set id="name-happening-chargingstation">
 		<string lang="de">Ladesäule</string>
@@ -790,6 +849,7 @@
 		<string lang="pt-br">Estação de carregamento</string>
 		<string lang="zh-tw">充電站
 </string>
+		<string lang="uk">Зарядна Станція</string>
 </set>
 <set id="name-happening-healingstation">
 		<string lang="de">Heilungs-Station</string>
@@ -803,6 +863,7 @@
 		<string lang="pt-br">Estação de cura</string>
 		<string lang="zh-tw">治療站
 </string>
+		<string lang="uk">Станція Лікування</string>
 </set>
 <set id="name-happening-modifierupgrader">
 		<string lang="de">Durchsatz-Upgrader</string>
@@ -816,6 +877,7 @@
 		<string lang="pt-br">Amplificador de Atravessar</string>
 		<string lang="zh-tw">中繼升級器
 </string>
+		<string lang="uk">Підсилювач пропускної спроможності</string>
 </set>
 <set id="name-happening-moduleduplicator">
 		<string lang="de">Modul-Duplikator</string>
@@ -829,6 +891,7 @@
 		<string lang="pt-br">Estação de duplicação</string>
 		<string lang="zh-tw">複製站
 </string>
+		<string lang="uk">Станція Дублювання</string>
 </set>
 <set id="name-happening-moduletransmogrifier">
 		<string lang="de">Transmogrifikator</string>
@@ -842,5 +905,6 @@
 		<string lang="pt-br">Transmogrificador</string>
 		<string lang="zh-tw">轉換器
 </string>
+		<string lang="uk">Трансмогріфікатор</string>
 </set>
 </localization>

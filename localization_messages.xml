@@ -11,6 +11,7 @@
 		<string lang="pt-br">BUG: $NAME$ está morto.</string>
 		<string lang="zh-tw">錯誤：$NAME$已經死亡。
 </string>
+		<string lang="uk">ПОМИЛКА: $NAME$ мертвий.</string>
 </set>
 <set id="bug-noabilities">
 		<string lang="de">BUG: $NAME$ hat keine Fähigkeiten.</string>
@@ -24,6 +25,7 @@
 		<string lang="pt-br">BUG: $NAME$ não tem habilidades.</string>
 		<string lang="zh-tw">錯誤：$NAME$沒有技能。
 </string>
+		<string lang="uk">ПОМИЛКА: $NAME$ не має здібностей.</string>
 </set>
 <set id="bug-noactor">
 		<string lang="de">BUG: $TURN$ hat keinen Akteur.</string>
@@ -37,6 +39,7 @@
 		<string lang="pt-br">BUG: $TURN$ não tem ator</string>
 		<string lang="zh-tw">錯誤：$TURN$沒有角色出戰。
 </string>
+		<string lang="uk">ПОМИЛКА: $TURN$ не має актора</string>
 </set>
 <set id="chatmessage-vote-ended">
 		<string lang="de">Abstimmung Beendet</string>
@@ -50,6 +53,7 @@
 		<string lang="pt-br">Votação Encerrada</string>
 		<string lang="zh-tw">投票結束
 </string>
+		<string lang="uk">Голосування Завершено</string>
 </set>
 <set id="chatmessage-vote-started">
 		<string lang="de">Anfang der Abstimmung! Um abzustimmen, sende</string>
@@ -63,6 +67,7 @@
 		<string lang="pt-br">Votação Iniciada! Para votar, envie</string>
 		<string lang="zh-tw">投票開始！投票發送
 </string>
+		<string lang="uk">Голосування Розпочато! Щоб проголосувати, надішліть</string>
 </set>
 <set id="error-cannotwirecircular">
 		<string lang="de">Kann nicht zirkulär verkabeln</string>
@@ -76,6 +81,7 @@
 		<string lang="pt-br">Não pode ser conectado em círculo</string>
 		<string lang="zh-tw">無法環形接線
 </string>
+		<string lang="uk">Неможливо провести дріт по колу</string>
 </set>
 <set id="error-happening-station-alreadyused">
 		<string lang="de">Station wurde bereits benutzt.</string>
@@ -89,6 +95,7 @@
 		<string lang="pt-br">A estação já foi usada.</string>
 		<string lang="zh-tw">站點已被使用。
 </string>
+		<string lang="uk">Станція вже використана.</string>
 </set>
 <set id="error-inputtooutput">
 		<string lang="de">Verkabele Input-$br$zu Output-Buchse</string>
@@ -102,6 +109,7 @@
 		<string lang="pt-br">Conecte a entrada$br$à saída</string>
 		<string lang="zh-tw">輸出端口只能$br$與輸入端口相連
 </string>
+		<string lang="uk">Проведіть дріт$br$від входу до виходу</string>
 </set>
 <set id="error-jackcolormismatch">
 		<string lang="de">Falsche Farbe</string>
@@ -115,6 +123,7 @@
 		<string lang="pt-br">Cor errada</string>
 		<string lang="zh-tw">顏色錯誤
 </string>
+		<string lang="uk">Не той колір</string>
 </set>
 <set id="error-jacklocked">
 		<string lang="de">Gesperrt</string>
@@ -128,6 +137,7 @@
 		<string lang="pt-br">Bloqueado</string>
 		<string lang="zh-tw">受阻
 </string>
+		<string lang="uk">Заблоковано</string>
 </set>
 <set id="error-jacknotwired">
 		<string lang="de">Nicht$br$verkabelt</string>
@@ -141,6 +151,7 @@
 		<string lang="pt-br">Não conectado</string>
 		<string lang="zh-tw">未$br$接線
 </string>
+		<string lang="uk">Не$br$підключено</string>
 </set>
 <set id="error-levelnotviable">
 		<string lang="de">Dieses Level ist nicht verfügbar.</string>
@@ -154,6 +165,7 @@
 		<string lang="pt-br">Este nível não é viável.</string>
 		<string lang="zh-tw">此關卡不可用。
 </string>
+		<string lang="uk">Цей рівень недоступний.</string>
 </set>
 <set id="error-module-cannotbesalvaged">
 		<string lang="de">Kann nicht in den nächsten Run hinübergerettet werden</string>
@@ -167,6 +179,7 @@
 		<string lang="pt-br">Não pode ser recuperado</string>
 		<string lang="zh-tw">無法繼承
 </string>
+		<string lang="uk">Неможливо врятувати</string>
 </set>
 <set id="error-modulecannotbetakenfromrack">
 		<string lang="de">Kann nicht vom Rack genommen werden</string>
@@ -180,6 +193,7 @@
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 		<string lang="zh-tw">無法取下
 </string>
+		<string lang="uk">Не можна взяти зі стійки</string>
 </set>
 <set id="error-module-cannotbetrashed">
 		<string lang="de">Kann nicht verklappt werden</string>
@@ -193,6 +207,7 @@
 		<string lang="pt-br">Não pode ser descartado</string>
 		<string lang="zh-tw">無法丟棄
 </string>
+		<string lang="uk">Не можна викинути</string>
 </set>
 <set id="error-module-cannotbeupgradedfurther">
 		<string lang="de">Module können nur ein $upgrade$ erhalten</string>
@@ -206,6 +221,7 @@
 		<string lang="pt-br">Módulos só podem receber um $upgrade$</string>
 		<string lang="zh-tw">每個模組僅可擁有一個$upgrade$
 </string>
+		<string lang="uk">Модулі можуть отримати лише одне $upgrade$</string>
 </set>
 <set id="error-module-encrusted">
 		<string lang="de">Zerbreche $crust$$br$mit $energy$</string>
@@ -219,6 +235,7 @@
 		<string lang="pt-br">Quebre $crust$$br$com $energy$</string>
 		<string lang="zh-tw">用$energy$$br$打破$crust$
 </string>
+		<string lang="uk">Розбийте $crust$ $br$за допомогою $energy$</string>
 </set>
 <set id="error-modulelock-eob">
 		<string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
@@ -232,6 +249,7 @@
 		<string lang="pt-br">Só pode ser movido fora do combate</string>
 		<string lang="zh-tw">僅非戰鬥時間可移動
 </string>
+		<string lang="uk">Можна переміщати лише поза боєм</string>
 </set>
 <set id="error-modulelock-nextturn">
 		<string lang="de">Bis zum nächsten Zug$br$ans Rack geschlossen</string>
@@ -245,6 +263,7 @@
 		<string lang="pt-br">Trancado no rack$br$até o próximo turno</string>
 		<string lang="zh-tw">下回合前$br$無法移動
 </string>
+		<string lang="uk">Заблоковано на стійці$br$до наступного ходу</string>
 </set>
 <set id="error-modulelock-startingmodule">
 		<string lang="de">Charakterausrüstung kann nicht vom Rack genommen werden</string>
@@ -258,6 +277,7 @@
 		<string lang="pt-br">O equipamento do personagem não pode ser retirado do rack</string>
 		<string lang="zh-tw">角色自帶無法取下
 </string>
+		<string lang="uk">Спорядження персонажа не можна взяти зі стійки</string>
 </set>
 <set id="error-module-notduplicable">
 		<string lang="de">Kann nicht dupliziert werden</string>
@@ -271,6 +291,7 @@
 		<string lang="pt-br">Não pode ser duplicado</string>
 		<string lang="zh-tw">無法複製
 </string>
+		<string lang="uk">Не можна дублювати</string>
 </set>
 <set id="error-module-notnegotiable">
 		<string lang="de">Unverkäuflich</string>
@@ -284,6 +305,7 @@
 		<string lang="pt-br">Não negociável</string>
 		<string lang="zh-tw">不可轉讓
 </string>
+		<string lang="uk">Не для продажу</string>
 </set>
 <set id="error-module-notownedbyplayer">
 		<string lang="de">Gehört dir nicht</string>
@@ -297,6 +319,7 @@
 		<string lang="pt-br">Não pertence a você</string>
 		<string lang="zh-tw">不屬於你
 </string>
+		<string lang="uk">Вам не належить</string>
 </set>
 <set id="error-module-nottransmogrifiable">
 		<string lang="de">Kann nicht transmogrifiziert werden</string>
@@ -310,6 +333,7 @@
 		<string lang="pt-br">Não pode ser transmogrificado</string>
 		<string lang="zh-tw">無法改變
 </string>
+		<string lang="uk">Не підлягає трансмогріфікації</string>
 </set>
 <set id="error-nomorelootpicks">
 		<string lang="de">Keine Auswahl mehr übrig</string>
@@ -323,6 +347,7 @@
 		<string lang="pt-br">Não há mais escolhas</string>
 		<string lang="zh-tw">沒有更多選擇
 </string>
+		<string lang="uk">Більше вибору не залишилося</string>
 </set>
 <set id="error-nospaceinrack">
 		<string lang="de">Kein freier Platz im Rack</string>
@@ -336,6 +361,7 @@
 		<string lang="pt-br">Não há espaço livre no rack</string>
 		<string lang="zh-tw">模架已滿
 </string>
+		<string lang="uk">Немає вільного місця в стійці</string>
 </set>
 <set id="error-racknotwired">
 		<string lang="de">Das Rack von $NAME$ ist nicht verkabelt</string>
@@ -349,6 +375,7 @@
 		<string lang="pt-br">O rack de $NAME$ não está conectado</string>
 		<string lang="zh-tw">$NAME$的模組未連接
 </string>
+		<string lang="uk">Стійка з $NAME$ не підключена</string>
 </set>
 <set id="error-rackwiringimpossible">
 		<string lang="de">Kann hier nicht verkabeln</string>
@@ -362,6 +389,7 @@
 		<string lang="pt-br">Não pode ser conectado daqui</string>
 		<string lang="zh-tw">無法在這裏連接
 </string>
+		<string lang="uk">Неможливо провести дріт звідси</string>
 </set>
 <set id="error-socketdoesnotallowdrag">
 		<string lang="de">Kann nicht von diesem Socket genommen werden</string>
@@ -375,6 +403,7 @@
 		<string lang="pt-br">Não pode ser retirado deste socket</string>
 		<string lang="zh-tw">無法從插槽取下
 </string>
+		<string lang="uk">Не можна взяти з цього сокету</string>
 </set>
 <set id="error-socket-dropforbidden">
 		<string lang="de">Sockel akzeptiert keine Module</string>
@@ -388,6 +417,7 @@
 		<string lang="pt-br">O socket não aceita módulos</string>
 		<string lang="zh-tw">插槽與模組不相容
 </string>
+		<string lang="uk">Сокет не приймає модулі</string>
 </set>
 <set id="error-socket-wrongmoduletype">
 		<string lang="de">Sockel akzeptiert keine Module von diesem Typ.</string>
@@ -401,6 +431,7 @@
 		<string lang="pt-br">O socket não aceita módulos deste tipo.</string>
 		<string lang="zh-tw">插槽與此類型模組不相容
 </string>
+		<string lang="uk">Сокет не приймає модулі цього типу.</string>
 </set>
 <set id="error-wiringliverack">
 		<string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
@@ -414,6 +445,7 @@
 		<string lang="pt-br">Não pode ser conectado durante a sequência de disparo</string>
 		<string lang="zh-tw">能量傳輸過程中無法接線
 </string>
+		<string lang="uk">Не можна провести дріт під час стрільби</string>
 </set>
 <set id="error-wiringsamemodule">
 		<string lang="de">Verkabelung desselben Moduls$br$nicht erlaubt</string>
@@ -427,6 +459,7 @@
 		<string lang="pt-br">Não pode ser conectado$br$o mesmo módulo</string>
 		<string lang="zh-tw">無法連接$br$相同模組
 </string>
+		<string lang="uk">Неможливо провести дріт$br$з того самого модуля</string>
 </set>
 <set id="error-wrongturn">
 		<string lang="de">$NAME$ ist nicht am Zug.</string>
@@ -440,6 +473,7 @@
 		<string lang="pt-br">Não é a vez de $NAME$.</string>
 		<string lang="zh-tw">未到$NAME$回合。
 </string>
+		<string lang="uk">Зараз не хід $NAME$.</string>
 </set>
 <set id="message-battle">
 		<string lang="de">Ihr stoßt auf eine Gruppe Monster.</string>
@@ -453,6 +487,7 @@
 		<string lang="pt-br">Você se depara com um grupo de monstros.</string>
 		<string lang="zh-tw">你偶然發現了一群怪物。
 </string>
+		<string lang="uk">Ви натрапляєте на групу монстрів.</string>
 </set>
 <set id="message-battlewon">
 		<string lang="de">Glanzleistung!</string>
@@ -466,6 +501,7 @@
 		<string lang="pt-br">Você conseguiu!</string>
 		<string lang="zh-tw">你做到了！
 </string>
+		<string lang="uk">Ти зробив це!</string>
 </set>
 <set id="message-idleworld">
 		<string lang="de">Untätig</string>
@@ -479,6 +515,7 @@
 		<string lang="pt-br">Inativo</string>
 		<string lang="zh-tw">閒置中
 </string>
+		<string lang="uk">Бездіяльність</string>
 </set>
 <set id="message-jackcolorchange">
 		<string lang="de">$COLOR$</string>
@@ -492,6 +529,7 @@
 		<string lang="pt-br">$COLOR$</string>
 		<string lang="zh-tw">$COLOR$
 </string>
+		<string lang="uk">$COLOR$</string>
 </set>
 <set id="message-notarget">
 		<string lang="de">Kein Ziel</string>
@@ -505,6 +543,7 @@
 		<string lang="pt-br">Sem alvo</string>
 		<string lang="zh-tw">沒有目標
 </string>
+		<string lang="uk">Немає цілі</string>
 </set>
 <set id="message-notarget-blademodule">
 		<string lang="de">Kein Ziel.$br$Ziele müssen mit dem Charakter auf der Zeitlinie in einer Linie sein.</string>
@@ -518,6 +557,7 @@
 		<string lang="pt-br">Sem alvos.$br$Alvos devem estar alinhados com o personagem na linha do tempo.</string>
 		<string lang="zh-tw">沒有目標。$br$目標與角色在時間軸上必須對齊。
 </string>
+		<string lang="uk">Немає цілей.$br$Цілі повинні бути узгоджені з персонажем на шкалі часу.</string>
 </set>
 <set id="message-prompt-readytofire">
 		<string lang="de">Bereit zum Handeln</string>
@@ -531,6 +571,7 @@
 		<string lang="pt-br">Pronto para a ação</string>
 		<string lang="zh-tw">準備就緒
 </string>
+		<string lang="uk">Готовий до дії</string>
 </set>
 <set id="message-prompt-selectnextmodule">
 		<string lang="de">Wähle das nächste Modul zum Aktivieren</string>
@@ -544,6 +585,7 @@
 		<string lang="pt-br">Selecione o próximo módulo para ativar</string>
 		<string lang="zh-tw">選擇下一個啟動的模組
 </string>
+		<string lang="uk">Виберіть наступний модуль для активації</string>
 </set>
 <set id="message-prompt-selecttarget">
 		<string lang="de">Wähle ein Ziel für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -557,6 +599,7 @@
 		<string lang="pt-br">Selecione o alvo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
 		<string lang="zh-tw">為$br$&lt;size=15&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標
 </string>
+		<string lang="uk">Виберіть ціль для$br$&amp;lt;size=16&amp;gt;$MODULEICON$ $NAME$&amp;lt;/size&amp;gt;</string>
 </set>
 <set id="message-rackconnect">
 		<string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -570,6 +613,7 @@
 		<string lang="pt-br">Conecte os módulos que você deseja ativar com fios.</string>
 		<string lang="zh-tw">連接想要啟動的模組。
 </string>
+		<string lang="uk">З’єднайте модулі, які потрібно активувати, за допомогою дротів.</string>
 </set>
 <set id="message-turn-naturaldisaster-gravequilibrium">
 		<string lang="de">Das Grav-Equilibrium zieht über den Kampfplatz.</string>
@@ -583,6 +627,7 @@
 		<string lang="pt-br">O Equilíbrio Grav. rola pelo campo de batalha.</string>
 		<string lang="zh-tw">戰場每隔一段時間就會出現引力均衡。
 </string>
+		<string lang="uk">Грав. Рівновага котиться полем бою.</string>
 </set>
 <set id="message-turn-naturaldisaster-gravimpulse">
 		<string lang="de">Ein Grav.-Impuls!</string>
@@ -596,6 +641,7 @@
 		<string lang="pt-br">Um Impulso Grav.!</string>
 		<string lang="zh-tw">引力脈衝來臨！
 </string>
+		<string lang="uk">Грав. Імпульс!</string>
 </set>
 <set id="message-turn-naturaldisaster-gravspike">
 		<string lang="de">Eine Grav.-Spitze!</string>
@@ -609,6 +655,7 @@
 		<string lang="pt-br">Um Pico Grav.!</string>
 		<string lang="zh-tw">引力激增來臨！
 </string>
+		<string lang="uk">Грав. Шип!</string>
 </set>
 <set id="message-turn-naturaldisaster-lightningstrike">
 		<string lang="de">Ein Blitzschlag!</string>
@@ -622,6 +669,7 @@
 		<string lang="pt-br">Um raio!</string>
 		<string lang="zh-tw">是閃電打擊！
 </string>
+		<string lang="uk">Удар блискавки!</string>
 </set>
 <set id="message-turn-naturaldisaster-volcano">
 		<string lang="de">Ein Vulkanausbruch!</string>
@@ -635,6 +683,7 @@
 		<string lang="pt-br">Uma erupção!</string>
 		<string lang="zh-tw">爆發了！
 </string>
+		<string lang="uk">Виверження!</string>
 </set>
 <set id="message-unconscious">
 		<string lang="de">$NAME$ wird ohnmächtig.</string>
@@ -648,6 +697,7 @@
 		<string lang="pt-br">$NAME$ fica inconsciente.</string>
 		<string lang="zh-tw">$NAME$陷入昏迷。
 </string>
+		<string lang="uk">$NAME$ стає непритомним.</string>
 </set>
 <set id="message-unconscious2">
 		<string lang="de">Du kannst ihn/sie an einem Shop, zurück im Lager$br$oder im Loot-Fenster mit genug $plasma$ wiederbeleben!</string>
@@ -661,6 +711,7 @@
 		<string lang="pt-br">Você pode ressuscitá-los em uma loja ou de volta ao acampamento!</string>
 		<string lang="zh-tw">可以在商店、營地或戰利品介面用等離子體復活角色$plasma$！
 </string>
+		<string lang="uk">Ви можете оживити їх у магазині або в таборі$br$або на екрані здобичі з достатньою кількістю $plasma$!</string>
 </set>
 <set id="worldmessage-addedstatuseffect">
 		<string lang="de">$b$+ $STATUS$$/b$</string>
@@ -674,6 +725,7 @@
 		<string lang="pt-br">$b$+ $STATUS$$/b$</string>
 		<string lang="zh-tw">$b$+ $STATUS$$/b$
 </string>
+		<string lang="uk">$b$+ $STATUS$ $/b$</string>
 </set>
 <set id="worldmessage-cannottogglemoduleduringfiresequence">
 		<string lang="de">Umschalten während Feuersequenz nicht erlaubt</string>
@@ -687,6 +739,7 @@
 		<string lang="pt-br">Não pode ser alternado durante a sequência de disparo</string>
 		<string lang="zh-tw">能量傳輸過程中無法改變開關狀態
 </string>
+		<string lang="uk">Неможливо перемикати під час стрільби</string>
 </set>
 <set id="worldmessage-cannottogglemodulefromhere">
 		<string lang="de">Kann hier nicht umgeschaltet werden</string>
@@ -700,6 +753,7 @@
 		<string lang="pt-br">Não pode ser alternado a partir daqui</string>
 		<string lang="zh-tw">無法在此處改變開關狀態
 </string>
+		<string lang="uk">Не можна перемикатися звідси</string>
 </set>
 <set id="worldmessage-collectorlosesenergy">
 		<string lang="de">$energy$$br$verfliegt</string>
@@ -713,6 +767,7 @@
 		<string lang="pt-br">$energy$$br$se dissipa</string>
 		<string lang="zh-tw">$energy$$br$消散
 </string>
+		<string lang="uk">$energy$ $br$розсіюється</string>
 </set>
 <set id="worldmessage-damagereduction">
 		<string lang="de">$ENERGYVALUE$ $shieldicon$</string>
@@ -726,6 +781,7 @@
 		<string lang="pt-br">$ENERGYVALUE$ $shieldicon$</string>
 		<string lang="zh-tw">$ENERGYVALUE$ $shieldicon$
 </string>
+		<string lang="uk">$ENERGYVALUE$ $shieldicon$</string>
 </set>
 <set id="worldmessage-energygeneration">
 		<string lang="de">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
@@ -739,6 +795,7 @@
 		<string lang="pt-br">$b$+$/b$$ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh-tw">$b$+$/b$$ENERGYVALUE$ $energyicon$
 </string>
+		<string lang="uk">$b$+$/b$ $ENERGYVALUE$ $energyicon$</string>
 </set>
 <set id="worldmessage-energyreception">
 		<string lang="de">$ENERGYVALUE$ $energyicon$</string>
@@ -752,6 +809,7 @@
 		<string lang="pt-br">$ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh-tw">$ENERGYVALUE$ $energyicon$
 </string>
+		<string lang="uk">$ENERGYVALUE$ $energyicon$</string>
 </set>
 <set id="worldmessage-energystorage">
 		<string lang="de">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
@@ -764,6 +822,7 @@
 		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="zh-tw">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$$energyicon$"</string>
+		<string lang="uk">$ENERGYVALUE$ $energyicon$</string>
 </set>
 <set id="worldmessage-error-batterychargedischarge">
 		<string lang="de">Kann entweder geladen oder entladen werden</string>
@@ -777,6 +836,7 @@
 		<string lang="pt-br">Só pode ser carregado ou descarregado de cada vez</string>
 		<string lang="zh-tw">無法同時充放能量
 </string>
+		<string lang="uk">Одночасно можна або заряджати, або розряджати</string>
 </set>
 <set id="worldmessage-losesstatuseffect">
 		<string lang="de">$b$- $STATUS$$/b$</string>
@@ -790,6 +850,7 @@
 		<string lang="pt-br">$b$- $STATUS$$/b$</string>
 		<string lang="zh-tw">$b$- $STATUS$$/b$
 </string>
+		<string lang="uk">$b$- $STATUS$ $/b$</string>
 </set>
 <set id="worldmessage-modulelock">
 		<string lang="de">Verriegelt</string>
@@ -803,6 +864,7 @@
 		<string lang="pt-br">Bloqueado</string>
 		<string lang="zh-tw">已鎖定
 </string>
+		<string lang="uk">Заблоковано</string>
 </set>
 <set id="worldmessage-modulelock-cannotdragfromliverack">
 		<string lang="de">Wird aktiviert werden</string>
@@ -816,6 +878,7 @@
 		<string lang="pt-br">Será ativado</string>
 		<string lang="zh-tw">將被啟動
 </string>
+		<string lang="uk">Буде активовано</string>
 </set>
 <set id="worldmessage-modulelock-canonlybemovedoutsideofcombat">
 		<string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
@@ -829,6 +892,7 @@
 		<string lang="pt-br">Só pode ser movido fora do combate</string>
 		<string lang="zh-tw">僅非戰鬥時間可移動
 </string>
+		<string lang="uk">Можна переміщати лише поза боєм</string>
 </set>
 <set id="worldmessage-module-nofreejacktowire">
 		<string lang="de">Verkabeln nicht möglich</string>
@@ -842,6 +906,7 @@
 		<string lang="pt-br">Cabeamento impossível</string>
 		<string lang="zh-tw">非法連線
 </string>
+		<string lang="uk">Підключення неможливе</string>
 </set>
 <set id="worldmessage-module-trashcompactor-notarget">
 		<string lang="de">Kein Modul zum opfern</string>
@@ -855,6 +920,7 @@
 		<string lang="pt-br">Sem módulo para sacrificar</string>
 		<string lang="zh-tw">沒有模組可供銷毀
 </string>
+		<string lang="uk">Жодного модуля, яким можна пожертвувати</string>
 </set>
 <set id="worldmessage-mutation">
 		<string lang="de">Mutation</string>
@@ -868,6 +934,7 @@
 		<string lang="pt-br">Mutação</string>
 		<string lang="zh-tw">變異
 </string>
+		<string lang="uk">Мутація</string>
 </set>
 <set id="worldmessage-noenergy">
 		<string lang="de">Keine$br$$energy$</string>
@@ -881,6 +948,7 @@
 		<string lang="pt-br">Sem $energy$</string>
 		<string lang="zh-tw">$energy$不足
 </string>
+		<string lang="uk">Немає $energy$</string>
 </set>
 <set id="worldmessage-noplasma">
 		<string lang="de">Kein $plasma$</string>
@@ -894,6 +962,7 @@
 		<string lang="pt-br">Sem $plasma$</string>
 		<string lang="zh-tw">$plasma$不足
 </string>
+		<string lang="uk">Немає $plasma$</string>
 </set>
 <set id="worldmessage-notfullywired">
 		<string lang="de">Nicht vollständig verkabelt</string>
@@ -907,6 +976,7 @@
 		<string lang="pt-br">Não totalmente conectado</string>
 		<string lang="zh-tw">未完全連線
 </string>
+		<string lang="uk">Не повністю підключений</string>
 </set>
 <set id="worldmessage-passedtounfocusedrack">
 		<string lang="de">An $OTHERCHARACTERICON$$OTHERCHARACTER$$br$gesendet</string>
@@ -920,6 +990,7 @@
 		<string lang="pt-br">Enviado para$br$$OTHERCHARACTERICON$$OTHERCHARACTER$</string>
 		<string lang="zh-tw">已交給$br$$OTHERCHARACTERICON$$OTHERCHARACTER$
 </string>
+		<string lang="uk">Передано до$br$ $OTHERCHARACTERICON$ $OTHERCHARACTER$</string>
 </set>
 <set id="worldmessage-plasmaconsumption">
 		<string lang="de">$PLASMAVALUE$ $plasmaicon$</string>
@@ -933,6 +1004,7 @@
 		<string lang="pt-br">$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="zh-tw">$PLASMAVALUE$$plasmaicon$
 </string>
+		<string lang="uk">$PLASMAVALUE$ $plasmaicon$</string>
 </set>
 <set id="worldmessage-plasmageneration">
 		<string lang="de">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
@@ -945,5 +1017,6 @@
 		<string lang="kr">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="pt-br">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
 		<string lang="zh-tw">$b$+$/b$$PLASMAVALUE$ $plasmaicon$</string>
+		<string lang="uk">$b$+$/b$ $PLASMAVALUE$ $plasmaicon$</string>
 </set>
 </localization>

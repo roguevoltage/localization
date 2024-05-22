@@ -9,7 +9,9 @@
 		<string lang="es">Abandonar la partida</string>
 		<string lang="kr">모험$br$포기</string>
 		<string lang="pt-br">Abandonar o run</string>
-		<string lang="zh-tw">放棄本次$br$遊戲</string>
+		<string lang="zh-tw">放棄本次$br$遊戲
+</string>
+		<string lang="uk">Перервати$br$Забіг</string>
 </set>
 <set id="ui-settings-ambience">
 		<string lang="de">Umgebung</string>
@@ -21,7 +23,9 @@
 		<string lang="es">Ambiente</string>
 		<string lang="kr">환경음</string>
 		<string lang="pt-br">Ambiente</string>
-		<string lang="zh-tw">環境音</string>
+		<string lang="zh-tw">環境音
+</string>
+		<string lang="uk">Атмосфера</string>
 </set>
 <set id="ui-settings-autofiremodules">
 		<string lang="de">Automatisches Feuern auf ein Einzelziel</string>
@@ -33,7 +37,9 @@
 		<string lang="es">Disparo automático a un solo objetivo</string>
 		<string lang="kr">단일 목표에게 자동으로 발사</string>
 		<string lang="pt-br">Disparo automático em alvo único</string>
-		<string lang="zh-tw">自動射擊單個目標</string>
+		<string lang="zh-tw">自動射擊單個目標
+</string>
+		<string lang="uk">Автоматична стрільба по одиночній цілі</string>
 </set>
 <set id="ui-settings-autotooltip">
 		<string lang="de">Tooltips automatisch anzeigen, wenn mit Controller gespielt wird</string>
@@ -45,7 +51,9 @@
 		<string lang="es">Mostrar automáticamente información sobre herramientas al jugar con el controlador</string>
 		<string lang="kr">컨트롤러로 플레이 시 툴팁 자동 표시</string>
 		<string lang="pt-br">Mostrar automaticamente dicas de ferramentas ao jogar com o controlador</string>
-		<string lang="zh-tw">使用控制器遊戲時自動提示</string>
+		<string lang="zh-tw">使用控制器遊戲時自動提示
+</string>
+		<string lang="uk">Автоматично показувати підказки під час гри з контролером</string>
 </set>
 <set id="ui-settings-cleardata">
 		<string lang="de">Alle Daten löschen</string>
@@ -57,7 +65,9 @@
 		<string lang="es">Borrar todos los datos</string>
 		<string lang="kr">모든 데이터 지우기</string>
 		<string lang="pt-br">Limpar todos os dados</string>
-		<string lang="zh-tw">清除所有數據</string>
+		<string lang="zh-tw">清除所有數據
+</string>
+		<string lang="uk">Очистити всі дані</string>
 </set>
 <set id="ui-settings-cleardata-description">
 		<string lang="de">Löscht Spielstand, Fortschritt und Voreinstellungen vollständig.$p$$b$Achtung:$/b$ Die Daten können nicht wiederhergestellt werden.</string>
@@ -69,7 +79,9 @@
 		<string lang="es">Elimina permanentemente la partida guardada, la progresión y las preferencias.$p$$b$Cuidado:$/b$ los datos no se pueden recuperar.</string>
 		<string lang="kr">저장된 게임, 진행도, 기본 설정을 영구적으로 삭제합니다. $p$주의하세요: 데이터를 복구하는 것은 불가능합니다.</string>
 		<string lang="pt-br">Remove permanentemente o savegame, a progressão e as preferências.$p$$b$Cuidado:$/b$ os dados não podem ser recuperados.</string>
-		<string lang="zh-tw">永久刪除存檔、進度和個性化設置。注意：數據無法恢復。</string>
+		<string lang="zh-tw">永久刪除存檔、進度和個性化設置。注意：數據無法恢復。
+</string>
+		<string lang="uk">Назавжди видаляє збереження гри, прогрес і налаштування.$p$ $b$Обережно:$/b$ Дані не можуть бути відновлені.</string>
 </set>
 <set id="ui-settings-colorblindmode">
 		<string lang="de">Farbenblinder Modus</string>
@@ -81,7 +93,9 @@
 		<string lang="es">Modo daltonismo</string>
 		<string lang="kr">색맹 모드</string>
 		<string lang="pt-br">Modo daltonismo</string>
-		<string lang="zh-tw">色盲模式</string>
+		<string lang="zh-tw">色盲模式
+</string>
+		<string lang="uk">Режим Колірної Сліпоти</string>
 </set>
 <set id="ui-settings-datacollection">
 		<string lang="de">Statistiken Bereitstellen</string>
@@ -93,7 +107,9 @@
 		<string lang="es">Proporcionar estadísticas</string>
 		<string lang="kr">통계 제공</string>
 		<string lang="pt-br">Fornecer estatísticas</string>
-		<string lang="zh-tw">提供數據</string>
+		<string lang="zh-tw">提供數據
+</string>
+		<string lang="uk">Надайте статистику</string>
 </set>
 <set id="ui-settings-datacollection-description">
 		<string lang="de">Unterstütze die Entwicklung, indem du anonyme Statistiken deiner Runs bereitstellst. Diese Daten werden nur benutzt, um Fragen von Balancing und Schwierigkeit zu informieren.</string>
@@ -105,7 +121,9 @@
 		<string lang="es">Apoya el desarrollo transmitiendo estadísticas anónimas de la partida. Estos datos solo se utilizarán para informar sobre cuestiones de equilibrio y dificultad del juego.</string>
 		<string lang="kr">익명 모험 통계를 전송해 개발에 도움을 주세요. 해당 데이터는 게임의 밸런스 및 난이도 조절 관련 문제를 알아내기 위해서만 사용됩니다.</string>
 		<string lang="pt-br">Apoie o desenvolvimento transmitindo estatísticas anônimas de run. Esses dados serão usados apenas para informar questões de equilíbrio e dificuldade do jogo.</string>
-		<string lang="zh-tw">允許運行數據匿名上傳以支持我們的開發工作。這些數據將僅用於瞭解遊戲的平衡和難度。</string>
+		<string lang="zh-tw">允許運行數據匿名上傳以支持我們的開發工作。這些數據將僅用於瞭解遊戲的平衡和難度。
+</string>
+		<string lang="uk">Підтримуйте розробку, передаючи анонімну статистику запуску. Ці дані використовуватимуться лише для інформування про баланс і складність гри.</string>
 </set>
 <set id="ui-settings-effects">
 		<string lang="de">SFX</string>
@@ -117,7 +135,9 @@
 		<string lang="es">SFX</string>
 		<string lang="kr">효과음</string>
 		<string lang="pt-br">SFX</string>
-		<string lang="zh-tw">音效</string>
+		<string lang="zh-tw">音效
+</string>
+		<string lang="uk">Звукові Ефекти</string>
 </set>
 <set id="ui-settings-fullcontrol">
 		<string lang="de">Vollständige Kontrolle</string>
@@ -129,7 +149,9 @@
 		<string lang="es">Modo de control total</string>
 		<string lang="kr">전체 제어 모드</string>
 		<string lang="pt-br">Modo de controle total</string>
-		<string lang="zh-tw">全控制模式</string>
+		<string lang="zh-tw">全控制模式
+</string>
+		<string lang="uk">Режим Повного Контролю</string>
 </set>
 <set id="ui-settings-fullcontrol-description">
 		<string lang="de">Jedes Modul fragt nach Priorität in der Feuersequenz. Benutze dies für komplexe Manöver.</string>
@@ -141,7 +163,9 @@
 		<string lang="es">Cada módulo solicitará prioridad en la secuencia de disparo. Úsalo para maniobras complejas.</string>
 		<string lang="kr">모든 모듈이 발사 순서에서 우선 순위를 요청합니다. 복잡한 조종에 사용하십시오.</string>
 		<string lang="pt-br">Cada módulo solicitará prioridade na sequência de disparo. Use isso para manobras complexas.</string>
-		<string lang="zh-tw">每個模組都會提示在射擊序列中的優先順位。用於複雜的機動。</string>
+		<string lang="zh-tw">每個模組都會提示在射擊序列中的優先順位。用於複雜的機動。
+</string>
+		<string lang="uk">Кожен модуль запитуватиме пріоритет у послідовності запуску. Використовуйте це для складних маневрів.</string>
 </set>
 <set id="ui-settings-fullscreen">
 		<string lang="de">Vollbild</string>
@@ -153,7 +177,9 @@
 		<string lang="es">Pantalla completa</string>
 		<string lang="kr">전체 화면</string>
 		<string lang="pt-br">Tela cheia</string>
-		<string lang="zh-tw">全屏</string>
+		<string lang="zh-tw">全屏
+</string>
+		<string lang="uk">Повноекранний</string>
 </set>
 <set id="ui-settings-gamespeed">
 		<string lang="de">Geschwindigkeit</string>
@@ -165,7 +191,9 @@
 		<string lang="es">Veloc. del juego</string>
 		<string lang="kr">게임 속도</string>
 		<string lang="pt-br">Veloc. do jogo</string>
-		<string lang="zh-tw">遊戲速度</string>
+		<string lang="zh-tw">遊戲速度
+</string>
+		<string lang="uk">Швидкість Гри</string>
 </set>
 <set id="ui-settings-music">
 		<string lang="de">Musik</string>
@@ -177,7 +205,9 @@
 		<string lang="es">Música</string>
 		<string lang="kr">배경음</string>
 		<string lang="pt-br">Música</string>
-		<string lang="zh-tw">音樂</string>
+		<string lang="zh-tw">音樂
+</string>
+		<string lang="uk">Музика</string>
 </set>
 <set id="ui-settings-rider-data">
 		<string lang="de">Dateneinstellungen</string>
@@ -189,7 +219,9 @@
 		<string lang="es">Configuración de datos</string>
 		<string lang="kr">데이터 설정</string>
 		<string lang="pt-br">Configurações de dados</string>
-		<string lang="zh-tw">數據設置</string>
+		<string lang="zh-tw">數據設置
+</string>
+		<string lang="uk">Налаштування Даних</string>
 </set>
 <set id="ui-settings-rider-game">
 		<string lang="de">Spieleinstellungen</string>
@@ -201,7 +233,9 @@
 		<string lang="es">Configuración del juego</string>
 		<string lang="kr">게임 설정</string>
 		<string lang="pt-br">Configurações do jogo</string>
-		<string lang="zh-tw">遊戲設置</string>
+		<string lang="zh-tw">遊戲設置
+</string>
+		<string lang="uk">Налаштування Гри</string>
 </set>
 <set id="ui-settings-saveandexit">
 		<string lang="de">Speichern &amp; Run Beenden</string>
@@ -213,7 +247,9 @@
 		<string lang="es">Guardar y salir de la partida</string>
 		<string lang="kr">모험 저장 및 종료</string>
 		<string lang="pt-br">Salvar e sair do run</string>
-		<string lang="zh-tw">保存並退出遊戲</string>
+		<string lang="zh-tw">保存並退出遊戲
+</string>
+		<string lang="uk">Зберегти та Вийти</string>
 </set>
 <set id="ui-settings-twitch">
 		<string lang="de">Twitch-Integration Aktivieren</string>
@@ -225,7 +261,9 @@
 		<string lang="es">Habilitar integración de Twitch</string>
 		<string lang="kr">트위치 통합 허용</string>
 		<string lang="pt-br">Ativar integração do Twitch</string>
-		<string lang="zh-tw">綁定Twitch</string>
+		<string lang="zh-tw">綁定Twitch
+</string>
+		<string lang="uk">Увімкнути Twitch Інтеграцію</string>
 </set>
 <set id="ui-settings-twitch-channel">
 		<string lang="de">Channel-Name</string>
@@ -237,7 +275,9 @@
 		<string lang="es">Nombre del canal</string>
 		<string lang="kr">채널 이름</string>
 		<string lang="pt-br">Nome do canal</string>
-		<string lang="zh-tw">頻道名稱</string>
+		<string lang="zh-tw">頻道名稱
+</string>
+		<string lang="uk">Назва Каналу</string>
 </set>
 <set id="ui-settings-twitch-channel-prompt">
 		<string lang="de">Channel-Name eingeben</string>
@@ -249,7 +289,9 @@
 		<string lang="es">Ingrese el nombre del canal ...</string>
 		<string lang="kr">채널 이름 입력...</string>
 		<string lang="pt-br">Digite o nome do canal ...</string>
-		<string lang="zh-tw">輸入頻道名稱...</string>
+		<string lang="zh-tw">輸入頻道名稱...
+</string>
+		<string lang="uk">Введіть назву каналу...</string>
 </set>
 <set id="ui-settings-twitch-token">
 		<string lang="de">OAuth-Token</string>
@@ -261,7 +303,9 @@
 		<string lang="es">Token de canal</string>
 		<string lang="kr">OAuth 토큰</string>
 		<string lang="pt-br">Token do canal</string>
-		<string lang="zh-tw">OAuth Token</string>
+		<string lang="zh-tw">OAuth Token
+</string>
+		<string lang="uk">Маркер OAuth</string>
 </set>
 <set id="ui-settings-twitch-token-prompt">
 		<string lang="de">OAuth-Token eingeben</string>
@@ -273,6 +317,8 @@
 		<string lang="es">Ingrese el token OAuth ...</string>
 		<string lang="kr">OAuth 토큰 입력...</string>
 		<string lang="pt-br">Digite o token OAuth ...</string>
-		<string lang="zh-tw">輸入OAuth Token...</string>
+		<string lang="zh-tw">輸入OAuth Token...
+</string>
+		<string lang="uk">Введіть маркер OAuth...</string>
 </set>
 </localization>

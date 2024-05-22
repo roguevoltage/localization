@@ -11,6 +11,7 @@
 		<string lang="pt-br">Pode ser carregado ou descarregado.</string>
 		<string lang="zh-tw">可充放能量。
 </string>
+		<string lang="uk">Можна заряджати або розряджати.</string>
 </set>
 <set id="description-module-amplifier">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -24,6 +25,7 @@
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
 <set id="description-module-collectoraccumulation">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ geladen wird.</string>
@@ -37,6 +39,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
 		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $storagemodule$ заряджається.</string>
 </set>
 <set id="description-module-collectorchrono">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -50,6 +53,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que a ordem de turno é alterada.</string>
 		<string lang="zh-tw">輪次發生改變時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли змінюється порядок ходів.</string>
 </set>
 <set id="description-module-collectorfracture">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul zerstört wird.</string>
@@ -63,6 +67,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro módulo é destruído.</string>
 		<string lang="zh-tw">任意模組被銷毀時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли знищується інший модуль.</string>
 </set>
 <set id="description-module-collectorgravpos">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav+$ erhält.</string>
@@ -76,6 +81,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
 		<string lang="zh-tw">有角色受到$grav+$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $grav+$ застосовується до персонажу гравця.</string>
 </set>
 <set id="description-module-collectorhealing">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
@@ -89,6 +95,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
 		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли персонаж гравця отримує $healing$.</string>
 </set>
 <set id="description-module-collectorkill">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Kampfteilnehmer stirbt.</string>
@@ -102,6 +109,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um combatente morre.</string>
 		<string lang="zh-tw">有參戰單位死亡時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли хтось гине.</string>
 </set>
 <set id="description-module-collectormodulecreation">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul hergestellt wird.</string>
@@ -115,6 +123,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo é construído.</string>
 		<string lang="zh-tw">任意模組被製造時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли будується модуль.</string>
 </set>
 <set id="description-module-collectorplasma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ erzeugt wird.</string>
@@ -128,6 +137,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é criado.</string>
 		<string lang="zh-tw">產生$plasma$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли створюється $plasma$.</string>
 </set>
 <set id="description-module-collectortrauma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $damage$ nimmt.</string>
@@ -141,6 +151,7 @@
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $damage$.</string>
 		<string lang="zh-tw">有角色受到$damage$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли персонаж гравця отримує $damage$.</string>
 </set>
 <set id="description-module-condensator">
 		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$$br$wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
@@ -154,6 +165,7 @@
 		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
 		<string lang="zh-tw">可充放能量。$p$傳入的$energy$放大$b$$MODIFICATIONVALUE$$/b$。
 </string>
+		<string lang="uk">Можна заряджати або розряджати.$p$Вхідна $energy$ є$br$посилюється на $b$ $MODIFICATIONVALUE$ $/b$.</string>
 </set>
 <set id="description-module-defibrillator" remarks="$healing$ is a keyword now">
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
@@ -167,6 +179,7 @@
 		<string lang="pt-br">Pode ser carregado.$p$Se um personagem ficar inconsciente, ele é revivido e recebe $healing$ em altura de sua $energy$ armazenada.</string>
 		<string lang="zh-tw">可充能。$p$如果有角色昏迷，則該角色復活時獲得與儲存$energy$等值的$healing$。
 </string>
+		<string lang="uk">Можна заряджати.$p$Якщо персонаж втрачає свідомість, він приходить до тями і отримують $healing$ у розмірі збереженої $energy$.</string>
 </set>
 <set id="description-module-distributor">
 		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
@@ -180,6 +193,7 @@
 		<string lang="pt-br">Distribui $energy$ alternadamente sobre ambos conectores de saída, começando com o esquerdo.</string>
 		<string lang="zh-tw">兩個輸出端口輪流產出$energy$，從左側開始。
 </string>
+		<string lang="uk">Розподіляє $energy$ по черзі над обома вихідними гніздами, починаючи з лівого.</string>
 </set>
 <set id="description-module-effectoraccelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav-$ zu.</string>
@@ -193,6 +207,7 @@
 		<string lang="pt-br">Inflige $grav-$ ao alvo.</string>
 		<string lang="zh-tw">對任意目標施放$br$$grav-$。
 </string>
+		<string lang="uk">Застосовує до цілі $br$ $grav-$.</string>
 </set>
 <set id="description-module-effectorblade">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
@@ -206,6 +221,7 @@
 		<string lang="pt-br">Inflige $damage$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
 		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人造成$damage$。
 </string>
+		<string lang="uk">Завдає $damage$ усім ворогам на тому самому часовому кроці, що й власник.</string>
 </set>
 <set id="description-module-effectorblaster">
 		<string lang="de">Fügt einem Gegner deiner Wahl $damage$ zu.</string>
@@ -219,6 +235,7 @@
 		<string lang="pt-br">Inflige $damage$ ao inimigo alvo.</string>
 		<string lang="zh-tw">對目標敵人造成$damage$。
 </string>
+		<string lang="uk">Завдає цільовому ворогові $damage$.</string>
 </set>
 <set id="description-module-effectordecelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav+$ zu.</string>
@@ -232,6 +249,7 @@
 		<string lang="pt-br">Inflige $grav+$ ao alvo.</string>
 		<string lang="zh-tw">對任意目標施放$br$$grav+$。
 </string>
+		<string lang="uk">Застосовує до цілі $br$ $grav+$.</string>
 </set>
 <set id="description-module-effectordeceleratorgatling">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $grav+1$ zu].</string>
@@ -245,6 +263,7 @@
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
 		<string lang="zh-tw">模組每擁有一點$energy$$br$，$br$就對任意一名敵人施放$grav+1$。
 </string>
+		<string lang="uk">За кожну $energy$ $br$на цьому модулі:$br$[Нанести випадковому ворогу $br$ $grav+1$].</string>
 </set>
 <set id="description-module-effectordeceleratormelee">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
@@ -258,6 +277,7 @@
 		<string lang="pt-br">Inflige $grav+$ a todos os inimigos no mesmo passo de tempo que o dono.</string>
 		<string lang="zh-tw">對所有與擁有者處在同一時間步的敵人施放$grav+$。
 </string>
+		<string lang="uk">Завдає $grav+$ на всіх ворогів на тому самому часовому кроці, що й власник.</string>
 </set>
 <set id="description-module-effectorgatlinggun">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $1damage$ zu].</string>
@@ -271,6 +291,7 @@
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$$br$a um inimigo aleatório].</string>
 		<string lang="zh-tw">模組每擁有一點$energy$，$br$就對任意一名敵人造成$1damage$。
 </string>
+		<string lang="uk">За кожну $energy$ $br$на цьому модулі:$br$[Завдає $1damage$ $br$до випадкового ворога].</string>
 </set>
 <set id="description-module-effectorplasmaconverter" remarks="error in the japanese string, $valuable$ is not a keyword">
 		<string lang="de">Wandelt $energy$ in$br$wertvolles $plasma$ um.</string>
@@ -284,6 +305,7 @@
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
 		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。
 </string>
+		<string lang="uk">Перетворює $energy$ в$br$цінну $plasma$.</string>
 </set>
 <set id="description-module-effectorpotion" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
@@ -297,6 +319,7 @@
 		<string lang="pt-br">Aplica $healing$ ao dono.</string>
 		<string lang="zh-tw">對擁有者施加$healing$。
 </string>
+		<string lang="uk">Застосовує $healing$ до власника.</string>
 </set>
 <set id="description-module-effectorpotion-aoe" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet $healing$ auf alle Verbündeten an.</string>
@@ -310,6 +333,7 @@
 		<string lang="pt-br">Aplica $healing$ a todos os aliados.</string>
 		<string lang="zh-tw">為全部盟友施加$healing$。
 </string>
+		<string lang="uk">Застосовує $healing$ до всіх союзників.</string>
 </set>
 <set id="description-module-effectorshield">
 		<string lang="de">Versieht einen Verbündeten deiner Wahl mit $shield$.$br$(Dauer: $energy$×3)</string>
@@ -323,6 +347,7 @@
 		<string lang="pt-br">Aplica $shield$ ao aliado alvo.$br$(Duração: $energy$×3).</string>
 		<string lang="zh-tw">為目標盟友施加$shield$。$br$（持續時間：$energy$×3）。
 </string>
+		<string lang="uk">Дає $shield$ союзнику.$br$(Тривалість: $energy$×3).</string>
 </set>
 <set id="description-module-effectorshield-aoe">
 		<string lang="de">Versieht alle Verbündeten mit $shield$.$br$(Dauer: $energy$×3)</string>
@@ -336,6 +361,7 @@
 		<string lang="pt-br">Aplica $shield$ a todos os aliados.$br$(Duração: $energy$×3).</string>
 		<string lang="zh-tw">為全部盟友施加$shield$。$br$（持續時間：$energy$×3）。
 </string>
+		<string lang="uk">Дає $shield$ всім союзникам.$br$(Тривалість: $energy$×3).</string>
 </set>
 <set id="description-module-effectorvulnerability">
 		<string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.$br$(Dauer: $energy$×3)</string>
@@ -349,6 +375,7 @@
 		<string lang="pt-br">Inflige $vulnerable$ ao inimigo alvo.$br$(Duração: $energy$×3).</string>
 		<string lang="zh-tw">對目標敵人施放$vulnerable$。$br$（持續時間：$energy$×3）。
 </string>
+		<string lang="uk">Дає цільовому ворогу$br$з $vulnerable$.$br$(Тривалість: $energy$×3).</string>
 </set>
 <set id="description-module-factorypotion">
 		<string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>
@@ -362,6 +389,7 @@
 		<string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。
 </string>
+		<string lang="uk">Створює універсальне $b$Цілюще Зілля$/b$ з $cracked$.</string>
 </set>
 <set id="description-module-factorystoragecell">
 		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ her.</string>
@@ -375,6 +403,7 @@
 		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$。
 </string>
+		<string lang="uk">Створює універсальний $b$Клітинку Зберігання$/b$ з $cracked$.</string>
 </set>
 <set id="description-module-generator">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -388,6 +417,7 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ $br$під час активації.</string>
 </set>
 <set id="description-module-generatordecelerating">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -401,6 +431,7 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ $br$під час активації.</string>
 </set>
 <set id="description-module-generatordirty">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -414,6 +445,7 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ $br$під час активації.</string>
 </set>
 <set id="description-module-generatordual">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
@@ -427,6 +459,7 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ em ambos conectores de saída na ativação.</string>
 		<string lang="zh-tw">啟動時兩個輸出端口同時產出$b$$GENERATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ на обох вихідних гніздах під час активації.</string>
 </set>
 <set id="description-module-generatoroverload">
 		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $cooldown$.</string>
@@ -440,6 +473,7 @@
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o próximo módulo com $cooldown$.</string>
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$但會使下個模組進入$cooldown$.
 </string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації, але викличе у наступного модуля $cooldown$.</string>
 </set>
 <set id="description-module-magnetgravpos">
 		<string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
@@ -453,6 +487,7 @@
 		<string lang="pt-br">Pega $grav+$ de $b$outro$/b$ combatente como $energy$.</string>
 		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav+$並轉化為$energy$。
 </string>
+		<string lang="uk">Забирає $grav+$ у $b$іншого$/b$ бійця як $energy$.</string>
 </set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
@@ -466,6 +501,7 @@
 		<string lang="pt-br">Mescla duas correntes.</string>
 		<string lang="zh-tw">合併兩股能量流。
 </string>
+		<string lang="uk">Об'єднує два струми.</string>
 </set>
 <set id="description-module-modifier">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
@@ -479,6 +515,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
 		<string lang="zh-tw">改變能量流的顏色。
 </string>
+		<string lang="uk">Змінює колір струму.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul verkabelt.</string>
@@ -492,6 +529,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
 		<string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$3 oder mehr $grav+$$/b$ hat.</string>
@@ -505,6 +543,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$3 ou mais $grav+$$/b$.</string>
 		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者有$b$至少3點$grav+$$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має$b$3 або більше $grav+$ $/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$2 oder weniger HP$/b$ hat.</string>
@@ -518,6 +557,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
 		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者的$b$生命值小於等於2點$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має $b$2 HP або менше$/b$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
 		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -531,6 +571,7 @@
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 		<string lang="zh-tw">改變能量流的顏色。$p$為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
 <set id="description-module-modifierplasmacombustion">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -544,6 +585,7 @@
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
 		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
 <set id="description-module-passivegeneratorroll">
 		<string lang="de">$generator$-Module auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
@@ -557,6 +599,7 @@
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
 		<string lang="zh-tw">此模架上的$generator$模組有$b$33%幾率$/b$額外產出$b$+1$/b$$energy$。
 </string>
+		<string lang="uk">$generator$ модулі на цій стійці мають a $b$33% ймовірність$/b$ генерації $b$+1$/b$ $energy$.</string>
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
@@ -570,6 +613,7 @@
 		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada batalha.</string>
 		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。
 </string>
+		<string lang="uk">На початку кожного бою застосовується $1healing$ до власника.</string>
 </set>
 <set id="description-module-splitter">
 		<string lang="de">Verdoppelt einen Strom.</string>
@@ -583,6 +627,7 @@
 		<string lang="pt-br">Duplica uma corrente.</string>
 		<string lang="zh-tw">複製一股能量流。
 </string>
+		<string lang="uk">Дублює струм.</string>
 </set>
 <set id="description-module-storagecell">
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
@@ -596,6 +641,7 @@
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="zh-tw">可釋放$b$$CHARGEVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Може бути розряджений на$br$ $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellreplicating">
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
@@ -609,6 +655,7 @@
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="zh-tw">可釋放$br$$b$$CHARGEVALUE$$/b$$energy$。
 </string>
+		<string lang="uk">Може бути розряджений на$br$ $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellselfcharging">
 		<string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
@@ -622,6 +669,7 @@
 		<string lang="pt-br">É carregado com $1$ $energy$ no final do combate.</string>
 		<string lang="zh-tw">在戰鬥結束後獲得$1$$energy$充能。
 </string>
+		<string lang="uk">Заряджається на $1$ $energy$ в кінці бою.</string>
 </set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
@@ -635,6 +683,7 @@
 		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
 		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。
 </string>
+		<string lang="uk">Вибухне через $b$ $TIMETOTURN$ $/b$ часові кроки.$p$Завдає $b$ $INVERSECHARGEVALUE$ $/b$ $damage$ $br$обом героям.$p$Зменшити ефект можна за допомогою $energy$.</string>
 </set>
 <set id="description-module-toggledbooster-eot">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
@@ -648,6 +697,7 @@
 		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
 		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。
 </string>
+		<string lang="uk">Застосовує $boost$ для всіх модулів типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledcrustremover">
 		<string lang="de">Entfernt $crust$ von allen Modulen auf diesem Rack.</string>
@@ -661,6 +711,7 @@
 		<string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
 		<string lang="zh-tw">移除模架上所有模組的$crust$。
 </string>
+		<string lang="uk">Видаляє $crust$ з усіх модулів на цій стійці.</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
 		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
@@ -674,6 +725,7 @@
 		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$p$- ou -$p$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
 		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。
 </string>
+		<string lang="uk">Видаляє назавжди $overload$ з модуля на цій стійці$p$- або -$p$видаляє назавжди $malfunctioning$ з модуля на цій стійці та замінює його на $overload$.</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
@@ -687,6 +739,7 @@
 		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.</string>
 		<string lang="zh-tw">移除所有參戰單位的$grav$。
 </string>
+		<string lang="uk">Видаляє всі $grav$ у всіх бійців.</string>
 </set>
 <set id="description-module-toggledgrenadevulnerability">
 		<string lang="de">Versieht alle Gegner und Charaktere mit $vulnerable$. (Dauer: 6)</string>
@@ -700,6 +753,7 @@
 		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
 		<string lang="zh-tw">為所有敵人及己方角色施加$vulnerable$。（持續時間：6）
 </string>
+		<string lang="uk">Застосовує $vulnerable$ на всіх учасників бою. (Тривалість: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$1healing$ auf ihn/sie an.</string>
@@ -713,6 +767,7 @@
 		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1healing$ a ele/ela.</string>
 		<string lang="zh-tw">令角色最大生命值永久提升$1$，$br$並對其施加$1$點$healing$。
 </string>
+		<string lang="uk">Назавжди збільшує макс. HP на $1$ і застосовує $1healing$.</string>
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
@@ -726,6 +781,7 @@
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.$p$$passthroughmodule$s só podem ter um $upgrade$.</string>
 		<string lang="zh-tw">為目標$passthroughmodule$施加永久$br$$upgrade$。$p$每個$passthroughmodule$僅可擁有一個$br$$upgrade$。
 </string>
+		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.$p$ $passthrough$ модулі можуть мати лише один $upgrade$.</string>
 </set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
@@ -739,6 +795,7 @@
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2energy$.</string>
 		<string lang="zh-tw">銷毀模架上另一自選模組，$br$以換取$2energy$。
 </string>
+		<string lang="uk">Знищує інший цільовий модуль на цій стійці для створення $2energy$.</string>
 </set>
 <set id="description-module-vaultregeneration">
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
@@ -752,6 +809,7 @@
 		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1healing$ a todos os personagens jogadores.</string>
 		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$儲存$energy$，治療所有角色$1$ $healing$。
 </string>
+		<string lang="uk">Можна заряджати.$p$На початку ходу власника зніміть $1$ збережену $energy$ щоб застосовувати $1healing$ для всіх гравців.</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
@@ -765,6 +823,7 @@
 		<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
 		<string lang="zh-tw">可充能。$p$擁有者受到$damage$時，消耗$1$儲存$energy$，減少擁有者$1$所受傷害。
 </string>
+		<string lang="uk">Можна заряджати.$p$Коли власник отримує $damage$, видаляє $1$ збережену $energy$ щоб зменшити цю шкоду на $1$.</string>
 </set>
 <set id="name-module-accumulator">
 		<string lang="de">Akkumulator</string>
@@ -778,6 +837,7 @@
 		<string lang="pt-br">Acumulador</string>
 		<string lang="zh-tw">蓄電池
 </string>
+		<string lang="uk">Акумулятор</string>
 </set>
 <set id="name-module-amplifier">
 		<string lang="de">Verstärker $MODIFICATIONVALUE$</string>
@@ -791,6 +851,7 @@
 		<string lang="pt-br">Amplificador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">增幅器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectoraccumulation">
 		<string lang="de">Akku-Sensor $MODIFICATIONVALUE$</string>
@@ -804,6 +865,7 @@
 		<string lang="pt-br">Sensor de Acumulação $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">儲能感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Накопичення $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorchrono">
 		<string lang="de">Chrono-Sensor $MODIFICATIONVALUE$</string>
@@ -817,6 +879,7 @@
 		<string lang="pt-br">Sensor de Crono $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">時序感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Хроно $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorfracture">
 		<string lang="de">Trümmer-Sensor $MODIFICATIONVALUE$</string>
@@ -830,6 +893,7 @@
 		<string lang="pt-br">Sensor de Fratura $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">銷毀感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Руйнування $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorgravpos">
 		<string lang="de">Grav.-Sensor $grav+icon$ $MODIFICATIONVALUE$</string>
@@ -843,6 +907,7 @@
 		<string lang="pt-br">Sensor Grav. $grav+icon$ $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">引力感測器$grav+icon$ $MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Грав. Сенсор $grav+icon$ $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorhealing">
 		<string lang="de">Heilungs-Sensor $MODIFICATIONVALUE$</string>
@@ -856,6 +921,7 @@
 		<string lang="pt-br">Sensor de Cura $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">治療感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Лікування $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorkill">
 		<string lang="de">Seelen-Sensor $MODIFICATIONVALUE$</string>
@@ -869,6 +935,7 @@
 		<string lang="pt-br">Sensor de Almas $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">靈魂感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Душі $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectormodulecreation">
 		<string lang="de">Fabrik-Sensor $MODIFICATIONVALUE$</string>
@@ -882,6 +949,7 @@
 		<string lang="pt-br">Sensor de Fábrica $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">製造感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Фабрик $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorplasma">
 		<string lang="de">Plasma-Sensor $MODIFICATIONVALUE$</string>
@@ -895,6 +963,7 @@
 		<string lang="pt-br">Sensor de Plasma $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">等離子感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Плазми $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectortrauma">
 		<string lang="de">Trauma-Sensor $MODIFICATIONVALUE$</string>
@@ -908,6 +977,7 @@
 		<string lang="pt-br">Sensor de Trauma $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">創傷感測器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сенсор Травми $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-condensator">
 		<string lang="de">Kondensator $MODIFICATIONVALUE$</string>
@@ -921,6 +991,7 @@
 		<string lang="pt-br">Condensador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">冷凝器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Конденсатор $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-defibrillator">
 		<string lang="de">Defibrillator</string>
@@ -934,6 +1005,7 @@
 		<string lang="pt-br">Desfibrilador</string>
 		<string lang="zh-tw">起搏器
 </string>
+		<string lang="uk">Дефібрилятор</string>
 </set>
 <set id="name-module-distributor">
 		<string lang="de">Verteiler $MODIFICATIONVALUE$</string>
@@ -947,6 +1019,7 @@
 		<string lang="pt-br">Distribuidor $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">分配器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Розподілювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectoraccelerator">
 		<string lang="de">Beschleuniger $MODIFICATIONVALUE$</string>
@@ -960,6 +1033,7 @@
 		<string lang="pt-br">Acelerador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加速器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Прискорювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorblade">
 		<string lang="de">Klingenmodul $MODIFICATIONVALUE$</string>
@@ -973,6 +1047,7 @@
 		<string lang="pt-br">Módulo de Lâmina $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">長劍模組$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Модуль Леза $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorblaster">
 		<string lang="de">Blaster $MODIFICATIONVALUE$</string>
@@ -986,6 +1061,7 @@
 		<string lang="pt-br">Blaster $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">爆能槍$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Бластер $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordecelerator">
 		<string lang="de">Verlangsamer $MODIFICATIONVALUE$</string>
@@ -999,6 +1075,7 @@
 		<string lang="pt-br">Desacelerador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">減速器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сповільнювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratorgatling">
 		<string lang="de">Gatling-Verlangsamer $MODIFICATIONVALUE$</string>
@@ -1012,6 +1089,7 @@
 		<string lang="pt-br">Desacelerador Gatling $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加特林減速器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сповільнювач Гатлінга $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratormelee">
 		<string lang="de">Nahkampf-Verlangsamer $MODIFICATIONVALUE$</string>
@@ -1025,6 +1103,7 @@
 		<string lang="pt-br">Desacelerador Corpo a Corpo $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">群體減速器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Сповільнювач Ближнього Бою $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgatlinggun">
 		<string lang="de">Gatling-Gun $MODIFICATIONVALUE$</string>
@@ -1038,6 +1117,7 @@
 		<string lang="pt-br">Metralhadora Gatling $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加特林機槍$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Пістолет Гатлінга $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorplasmaconverter">
 		<string lang="de">Plasma-Konverter</string>
@@ -1051,6 +1131,7 @@
 		<string lang="pt-br">Conversor de Plasma</string>
 		<string lang="zh-tw">等離子轉換器
 </string>
+		<string lang="uk">Плазмовий Перетворювач</string>
 </set>
 <set id="name-module-effectorpotion">
 		<string lang="de">Heiltrank $MODIFICATIONVALUE$</string>
@@ -1064,6 +1145,7 @@
 		<string lang="pt-br">Poção de Cura $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">治療藥劑$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Цілюще Зілля $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorpotion-aoe">
 		<string lang="de">Heilender Schirm $MODIFICATIONVALUE$</string>
@@ -1077,6 +1159,7 @@
 		<string lang="pt-br">Tela Revitalizante $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">煥活屏障$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Відновлюючий Екран $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorshield">
 		<string lang="de">Schildmodul $MODIFICATIONVALUE$</string>
@@ -1090,6 +1173,7 @@
 		<string lang="pt-br">Módulo de Escudo $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">護盾模組$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Модуль Щита $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorshield-aoe">
 		<string lang="de">Schutzschirm $MODIFICATIONVALUE$</string>
@@ -1103,6 +1187,7 @@
 		<string lang="pt-br">Tela Protetora $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">防護屏障$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Захисний Екран $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorvulnerability">
 		<string lang="de">Verwundbarkeits-Strahler $MODIFICATIONVALUE$</string>
@@ -1116,6 +1201,7 @@
 		<string lang="pt-br">Raio de Vulnerabilidade $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">虛弱射線$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Промінь Вразливості $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorypotion">
 		<string lang="de">Heiltrank-Fabrik $MODIFICATIONVALUE$</string>
@@ -1129,6 +1215,7 @@
 		<string lang="pt-br">Fábrica de Poções $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">藥劑工廠$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Фабрика Лікувальних Зелій $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorystoragecell">
 		<string lang="de">Speicherzellen-Fabrik $MODIFICATIONVALUE$</string>
@@ -1142,6 +1229,7 @@
 		<string lang="pt-br">Fábrica de Células de Armazenamento $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">儲存單元工廠$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Фабрика Акумуляторів $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-generator">
 		<string lang="de">Generator</string>
@@ -1155,6 +1243,7 @@
 		<string lang="pt-br">Gerador</string>
 		<string lang="zh-tw">發生器
 </string>
+		<string lang="uk">Генератор</string>
 </set>
 <set id="name-module-generatordecelerating">
 		<string lang="de">Grav.-Generator</string>
@@ -1168,6 +1257,7 @@
 		<string lang="pt-br">Gerador Grav.</string>
 		<string lang="zh-tw">引力發生器
 </string>
+		<string lang="uk">Грав. Генератор</string>
 </set>
 <set id="name-module-generatordirty">
 		<string lang="de">Schmutziger Generator</string>
@@ -1181,6 +1271,7 @@
 		<string lang="pt-br">Gerador Sujo</string>
 		<string lang="zh-tw">污染發生器
 </string>
+		<string lang="uk">Брудний Генератор</string>
 </set>
 <set id="name-module-generatordual">
 		<string lang="de">Zweifach-Generator</string>
@@ -1194,6 +1285,7 @@
 		<string lang="pt-br">Gerador Duplo</string>
 		<string lang="zh-tw">雙路發生器
 </string>
+		<string lang="uk">Подвійний Генератор</string>
 </set>
 <set id="name-module-generatoroverload">
 		<string lang="de">Überlast-Generator</string>
@@ -1207,6 +1299,7 @@
 		<string lang="pt-br">Gerador de Sobrecarga</string>
 		<string lang="zh-tw">超載發生器
 </string>
+		<string lang="uk">Перевантажений Генератор</string>
 </set>
 <set id="name-module-magnetgravpos">
 		<string lang="de">Grav.-Magnet $grav+icon$</string>
@@ -1220,6 +1313,7 @@
 		<string lang="pt-br">Ímã Grav. $grav+icon$</string>
 		<string lang="zh-tw">引力磁鐵$grav+icon$+
 </string>
+		<string lang="uk">Грав. Магніт $grav+icon$</string>
 </set>
 <set id="name-module-merger">
 		<string lang="de">Verbinder $MODIFICATIONVALUE$</string>
@@ -1233,6 +1327,7 @@
 		<string lang="pt-br">Fusor $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">合流器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Поєднувач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifier">
 		<string lang="de">Wandler</string>
@@ -1246,6 +1341,7 @@
 		<string lang="pt-br">Conversor</string>
 		<string lang="zh-tw">轉換器
 </string>
+		<string lang="uk">Перетворювач</string>
 </set>
 <set id="name-module-modifiercollector">
 		<string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>
@@ -1259,6 +1355,7 @@
 		<string lang="pt-br">Amplificador de Sensor $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">傳感增幅器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Підсилювач Сенсора $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierconditionaldeceleration">
 		<string lang="de">Bedingter Verst. $MODIFICATIONVALUE$: Verlangsamung</string>
@@ -1272,6 +1369,7 @@
 		<string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Desaceleração</string>
 		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：減速
 </string>
+		<string lang="uk">Умовний Підсилювач $MODIFICATIONVALUE$: Уповільнення</string>
 </set>
 <set id="name-module-modifierconditionaltrauma">
 		<string lang="de">Bedingter Verst. $MODIFICATIONVALUE$: Trauma</string>
@@ -1285,6 +1383,7 @@
 		<string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
 		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：創傷
 </string>
+		<string lang="uk">Умовний Підсилювач. $MODIFICATIONVALUE$: Травма</string>
 </set>
 <set id="name-module-modifierdecelerating">
 		<string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
@@ -1298,6 +1397,7 @@
 		<string lang="pt-br">Amplificador de Rebote $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">反沖增幅器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Підсилювач Віддачі $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierplasmacombustion">
 		<string lang="de">Plasmaverbrennender Verstärker $MODIFICATIONVALUE$</string>
@@ -1311,6 +1411,7 @@
 		<string lang="pt-br">Amplificador de Combustão $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">等離子燃燒增幅器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Підсилювач Плазмового Згорання $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-passivegeneratorroll">
 		<string lang="de">Kompressor</string>
@@ -1324,6 +1425,7 @@
 		<string lang="pt-br">Compressor</string>
 		<string lang="zh-tw">壓縮器
 </string>
+		<string lang="uk">Компресор</string>
 </set>
 <set id="name-module-passivemedikit">
 		<string lang="de">Medikit</string>
@@ -1337,6 +1439,7 @@
 		<string lang="pt-br">Kit Médico</string>
 		<string lang="zh-tw">急救包
 </string>
+		<string lang="uk">Аптечка</string>
 </set>
 <set id="name-module-splitter">
 		<string lang="de">Abzweiger $MODIFICATIONVALUE$</string>
@@ -1350,6 +1453,7 @@
 		<string lang="pt-br">Divisor $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">分割器$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Розділювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-storagecell">
 		<string lang="de">Speicherzelle</string>
@@ -1363,6 +1467,7 @@
 		<string lang="pt-br">Célula de Armazenamento</string>
 		<string lang="zh-tw">儲存單元
 </string>
+		<string lang="uk">Клітинка Зберігання</string>
 </set>
 <set id="name-module-storagecellreplicating">
 		<string lang="de">Reproduzierende Speicherzelle</string>
@@ -1376,6 +1481,7 @@
 		<string lang="pt-br">Célula de Armazenamento Replicante</string>
 		<string lang="zh-tw">複製儲存單元
 </string>
+		<string lang="uk">Реплікуюча Клітинка Зберігання</string>
 </set>
 <set id="name-module-storagecellselfcharging">
 		<string lang="de">Äolische Zelle</string>
@@ -1389,6 +1495,7 @@
 		<string lang="pt-br">Célula Eólica</string>
 		<string lang="zh-tw">風蝕單元
 </string>
+		<string lang="uk">Еолова Клітина</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
@@ -1402,6 +1509,7 @@
 		<string lang="pt-br">Bomba Relógio</string>
 		<string lang="zh-tw">定時炸彈
 </string>
+		<string lang="uk">Часова Бомба</string>
 </set>
 <set id="name-module-toggledbooster-eot">
 		<string lang="de">Durchsatz-Booster</string>
@@ -1415,6 +1523,7 @@
 		<string lang="pt-br">Amplificador de Atravessar</string>
 		<string lang="zh-tw">中繼增強器
 </string>
+		<string lang="uk">Пропускний Підсилювач</string>
 </set>
 <set id="name-module-toggledcrustremover">
 		<string lang="de">Entkruster-Kit</string>
@@ -1428,6 +1537,7 @@
 		<string lang="pt-br">Kit de Decrustação</string>
 		<string lang="zh-tw">脫殼組件
 </string>
+		<string lang="uk">Набір Очищення</string>
 </set>
 <set id="name-module-toggleddurabilityenhancer">
 		<string lang="de">Haltbarkeits-Verstärker</string>
@@ -1441,6 +1551,7 @@
 		<string lang="pt-br">Aprimorador de Durabilidade</string>
 		<string lang="zh-tw">耐久增強器
 </string>
+		<string lang="uk">Підсилювач Міцності</string>
 </set>
 <set id="name-module-toggledgrenadegravnullifier">
 		<string lang="de">Grav.-Neutralisator</string>
@@ -1454,6 +1565,7 @@
 		<string lang="pt-br">Neutralizador Grav.</string>
 		<string lang="zh-tw">引力中和器
 </string>
+		<string lang="uk">Грав. Нейтралізатор</string>
 </set>
 <set id="name-module-toggledgrenadevulnerability">
 		<string lang="de">Verwundbarkeits-Granate</string>
@@ -1467,6 +1579,7 @@
 		<string lang="pt-br">Granada de Vulnerabilidade</string>
 		<string lang="zh-tw">虛弱榴彈
 </string>
+		<string lang="uk">Граната Вразливості</string>
 </set>
 <set id="name-module-toggledmaxhpenhancer">
 		<string lang="de">Gesundheits-Upgrader</string>
@@ -1480,6 +1593,7 @@
 		<string lang="pt-br">Melhorador de Saúde</string>
 		<string lang="zh-tw">生命增強器
 </string>
+		<string lang="uk">Підсилювач Здоров'я</string>
 </set>
 <set id="name-module-toggledupgrader">
 		<string lang="de">Durchsatz-Upgrader</string>
@@ -1493,6 +1607,7 @@
 		<string lang="pt-br">Melhorador de Atravessar</string>
 		<string lang="zh-tw">中繼升級器
 </string>
+		<string lang="uk">Підсилювач Пропускної Спроможності</string>
 </set>
 <set id="name-module-trashcompactor">
 		<string lang="de">Schrottpresse</string>
@@ -1506,6 +1621,7 @@
 		<string lang="pt-br">Compactador de Lixo</string>
 		<string lang="zh-tw">垃圾壓縮機
 </string>
+		<string lang="uk">Сміттєвий Прес</string>
 </set>
 <set id="name-module-vaultregeneration">
 		<string lang="de">Regenerationszelle $MODIFICATIONVALUE$</string>
@@ -1519,6 +1635,7 @@
 		<string lang="pt-br">Célula de Regeneração $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">再生單元$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Клітина Регенерації $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-vaultshield">
 		<string lang="de">Schildzelle $MODIFICATIONVALUE$</string>
@@ -1532,6 +1649,7 @@
 		<string lang="pt-br">Célula de Escudo $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">護盾單元$MODIFICATIONVALUE$
 </string>
+		<string lang="uk">Клітина Щита $MODIFICATIONVALUE$</string>
 </set>
 <set id="shortname-module-timebomb">
 		<string lang="de">Bombe</string>
@@ -1545,5 +1663,6 @@
 		<string lang="pt-br">Bomba</string>
 		<string lang="zh-tw">炸彈
 </string>
+		<string lang="uk">Бомба</string>
 </set>
 </localization>
