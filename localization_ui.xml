@@ -664,8 +664,7 @@
 		<string lang="es">Demo extendida</string>
 		<string lang="kr">데모 확장판</string>
 		<string lang="pt-br">Demo estendida</string>
-		<string lang="zh-tw">擴展版試玩
-</string>
+		<string lang="zh-tw">擴展版試玩</string>
 		<string lang="uk">Розширене Демо</string>
 </set>
 <set id="scope-notpartofdemo">
@@ -678,9 +677,21 @@
 		<string lang="es">No forma parte de la demo</string>
 		<string lang="kr">데모 아님</string>
 		<string lang="pt-br">Não faz parte da demo</string>
-		<string lang="zh-tw">不包含在試玩內
-</string>
+		<string lang="zh-tw">不包含在試玩內</string>
 		<string lang="uk">Не є частиною демо</string>
+</set>
+<set id="scope-notpartoftutorial">
+		<string lang="de">Nicht Teil des Tutorials</string>
+		<string lang="en">Not part of the tutorial</string>
+		<string lang="fr">Pas part du tutoriel</string>
+        <string lang="zh">不包含在教程内</string>
+        <string lang="jp">チュートリアルに含まれない</string>
+        <string lang="ru">Не входит в обучение</string>
+        <string lang="es">No forma parte del tutorial</string>
+        <string lang="kr">튜토리얼 아님</string>
+        <string lang="pt-br">Não faz parte do tutorial</string>
+        <string lang="zh-tw">不包含在教程內</string>
+        <string lang="uk">Не є частиною навчання</string>
 </set>
 <set id="scope-playtest">
 		<string lang="de">Playtest</string>
@@ -692,8 +703,7 @@
 		<string lang="es">Prueba de juego</string>
 		<string lang="kr">플레이테스트</string>
 		<string lang="pt-br">Teste de jogo</string>
-		<string lang="zh-tw">測試
-</string>
+		<string lang="zh-tw">測試</string>
 		<string lang="uk">Тестування гри</string>
 </set>
 <set id="scope-prototype">
@@ -1420,8 +1430,7 @@
 		<string lang="es">Coge el módulo de botín en tu bastidor</string>
 		<string lang="kr">전리품 모듈을 선택해 랙에 집어넣으세요.</string>
 		<string lang="pt-br">Pegue o módulo de saque em seu rack</string>
-		<string lang="zh-tw">選擇戰利品模組並收入模架
-</string>
+		<string lang="zh-tw">選擇戰利品模組並收入模架</string>
 		<string lang="uk">Візьміть модуль здобичі у свою стійку</string>
 </set>
 <set id="ui-loot-reroll">
@@ -1434,9 +1443,21 @@
 		<string lang="es">Volver a tirar$br$(-$REROLLCOST$ $plasmaicon$)</string>
 		<string lang="kr">새로고침$br$(-$REROLLCOST$ $plasmaicon$)</string>
 		<string lang="pt-br">Rolar novamente$br$(-$REROLLCOST$ $plasmaicon$)</string>
-		<string lang="zh-tw">重骰$br$（-$REROLLCOST$$plasmaicon$）
-</string>
+		<string lang="zh-tw">重骰$br$（-$REROLLCOST$$plasmaicon$）</string>
 		<string lang="uk">Замінити$br$(-$REROLLCOST$ $plasmaicon$)</string>
+</set>
+<set id="ui-loot-reroll-free">
+		<string lang="de">Neu$br$Auswürfeln$br$(1× Gratis)</string>
+		<string lang="en">Reroll$br$(1× Free)</string>
+		<string lang="fr">Relancer$br$(1× Gratuit)</string>
+        <string lang="zh">重骰$br$（1× 免费）</string>
+        <string lang="jp">リロール$br$（1× 無料）</string>
+        <string lang="ru">Заменить$br$(1× Бесплатно)</string>
+        <string lang="es">Volver a tirar$br$(1× Gratis)</string>
+        <string lang="kr">새로고침$br$(1× 무료)</string>
+        <string lang="pt-br">Rolar novamente$br$(1× Grátis)</string>
+        <string lang="zh-tw">重骰$br$（1× 免費）</string>
+        <string lang="uk">Замінити$br$(1× Безкоштовно)</string>
 </set>
 <set id="ui-loot-revive">
 		<string lang="de">Wiederbeleben$br$(-$REVIVECOST$ $plasmaicon$)</string>
