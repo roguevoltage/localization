@@ -9,8 +9,7 @@
 		<string lang="es">Obtén un módulo adicional como opción para el botín</string>
 		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
 		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
-		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組
-</string>
+		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
 		<string lang="uk">Отримайте додатковий модуль як варіант здобичі</string>
 </set>
 <set id="description-campstructure-hangar">
@@ -23,26 +22,70 @@
 		<string lang="es">Construye tu propio personaje</string>
 		<string lang="kr">나만의 캐릭터를 구축하세요</string>
 		<string lang="pt-br">Construa seu próprio personagem</string>
-		<string lang="zh-tw">定制屬於自己的角色
-</string>
+		<string lang="zh-tw">定制屬於自己的角色</string>
 		<string lang="uk">Створіть власного персонажа</string>
 </set>
+<set id="description-campstructure-laboratory">
+		<string lang="de">Färbt die Jacks eines Moduls zwischen Camp-Besuchen zu universell um.</string>
+		<string lang="en">Recolors the jacks of one module to universal between camp visits.</string>
+        <string lang="fr">Recolore les prises d'un module en universel entre les visites de camp</string>
+		<string lang="zh">每拜访一次营地，随机令一个模块的接口改为通用接口</string>
+		<string lang="jp">野営地を訪れるたび、$br$モジュールの端子ひとつを汎用へ再着色</string>
+        <string lang="ru">Перекрашивает разъемы одного модуля в универсальные между посещениями лагеря.</string>
+        <string lang="es">Vuelve a colorear los conectores de un módulo a universal entre visitas al campamento.</string>
+		<string lang="kr">야영지 방문당 한 번씩 잭의 모듈 중 하나를 범용으로 다시 칠합니다</string>
+		<string lang="zh-tw">每拜訪一次營地，隨機令一個模組的介面改為通用介面</string>
+		<string lang="uk">Перефарбовує роз'єми одного модуля в універсальні між відвідинами табору.</string>
+</set>
 <set id="description-campstructure-powerplant">
+        <string lang="de">Lädt ein $storagemodule$ zwischen Camp-Besuchen auf.</string>
 		<string lang="en">Charges a $storagemodule$ between camp visits.</string>
+        <string lang="fr">Charge un $storagemodule$ entre les visites de camp</string>
 		<string lang="zh">切换营地时为任一$storagemodule$充能。</string>
 		<string lang="jp">野営地訪問中に$br$$storagemodule$充電</string>
+        <string lang="ru">Заряжает $storagemodule$ между посещениями лагеря.</string>
+        <string lang="es">Carga un $storagemodule$ entre visitas al campamento.</string>
 		<string lang="kr">야영지 방문 사이에 $storagemodule$을 충전합니다</string>
-		<string lang="zh-tw">切換營地時為任一$storagemodule$充能。
-</string>
+		<string lang="zh-tw">切換營地時為任一$storagemodule$充能。</string>
 		<string lang="uk">Заряджає $storagemodule$ між відвідинами табору.</string>
 </set>
 <set id="description-campstructure-refinery">
+        <string lang="de">Verleiht einem $passthroughmodule$ $upgrade$ zwischen Camp-Besuchen.</string>
 		<string lang="en">Gives a $passthroughmodule$ $upgrade$ between camp visits.</string>
+        <string lang="fr">Donne un $upgrade$ à un $passthroughmodule$ entre les visites de camp.</string>
 		<string lang="zh">切换营地时任一$passthroughmodule$获得$upgrade$。</string>
 		<string lang="jp">野営地訪問中に$br$$passthroughmodule$へ$upgrade$付与</string>
+        <string lang="ru">Дает $upgrade$ $passthroughmodule$ между посещениями лагеря.</string>
+        <string lang="es">Da un $upgrade$ a un $passthroughmodule$ entre visitas al campamento.</string>
 		<string lang="kr">야영지 방문 사이에 $passthroughmodule$ $upgrade$을 제공합니다.</string>
 		<string lang="zh-tw">切換營地時任一$passthroughmodule$獲得$upgrade$。</string>
 		<string lang="uk">Дає $passthroughmodule$ $upgrade$ між відвідинами табору.</string>
+</set>
+<set id="description-campstructure-refinery-2">
+		<string lang="de">$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
+		<string lang="en">$passthrough$ modules can only have one $upgrade$.</string>
+		<string lang="fr">Modules $passthrough$ ne peuvent avoir qu'une seule $upgrade$.</string>
+		<string lang="zh">每个$passthroughmodule$仅可拥有一个$br$$upgrade$。</string>
+		<string lang="jp">$passthroughmodule$に付与できる$upgrade$は1つのみ。</string>
+		<string lang="ru">$passthroughmodule$может иметь только 1 $upgrade$.</string>
+		<string lang="es">Solo admite una $upgrade$.</string>
+		<string lang="kr">$passthroughmodule$은 한번만 $upgrade$될 수 있습니다.</string>
+		<string lang="pt-br">$passthroughmodule$s só podem ter um $upgrade$.</string>
+		<string lang="zh-tw">每個$passthroughmodule$僅可擁有一個$br$$upgrade$。</string>
+		<string lang="uk">$passthrough$ модулі можуть мати лише один $upgrade$.</string>
+</set>
+<set id="description-campstructure-scrapyard">
+		<string lang="de">Charakterausrüstung kann zerstört und transmogrifiziert werden.</string>
+		<string lang="en">Initial character loadout can be destroyed and transmogrified.</string>
+		<string lang="fr">L'équipement de départ du personnage peut être détruit ou transmogrifié.</string>
+        <string lang="zh">角色初始装备可被摧毁或转化。</string>
+        <string lang="jp">キャラクターの初期装備は破壊または変形可能</string>
+        <string lang="ru">Начальное снаряжение персонажа может быть уничтожено или трансмогрифицировано.</string>
+        <string lang="es">El equipo inicial del personaje puede ser destruido o transmutado.</string>
+        <string lang="kr">캐릭터의 초기 장비는 파괴되거나 변형될 수 있습니다.</string>
+        <string lang="pt-br">O equipamento inicial do personagem pode ser destruído ou transmogrificado.</string>
+        <string lang="zh-tw">角色初始裝備可被摧毀或轉化。</string>
+        <string lang="uk">Початкове снаряження персонажа може бути знищено або трансмогрифіковано.</string>
 </set>
 <set id="description-campstructure-telescope">
 		<string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
@@ -54,18 +97,19 @@
 		<string lang="es">Obtén un módulo adicional como opción para el botín</string>
 		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
 		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
-		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組
-</string>
+		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
 		<string lang="uk">Отримайте додатковий модуль як варіант здобичі</string>
 </set>
-<set id="description-campstructure-telescope-alternative">
+<set id="description-campstructure-watchtower">
 		<string lang="de">Der erste Loot-Reroll ist gratis</string>
 		<string lang="en">Your first loot reroll is free</string>
+        <string lang="fr">Votre premier reroll de butin est gratuit</string>
 		<string lang="zh">首次重骰不耗费点数</string>
 		<string lang="jp">初回リロール無料</string>
+        <string lang="ru">Ваш первый повторный лут безкоштовний</string>
+        <string lang="es">Tu primer reroll de botín es gratis</string>
 		<string lang="kr">첫 번째 새로고침이 무료입니다</string>
-		<string lang="zh-tw">首次重骰不耗費點數
-</string>
+		<string lang="zh-tw">首次重骰不耗費點數</string>
 		<string lang="uk">Перше оновлення здобичі безкоштовне</string>
 </set>
 <set id="description-campstructure-timevault">
@@ -78,22 +122,20 @@
 		<string lang="es">Almacena un módulo entre partidas</string>
 		<string lang="kr">모험 사이에 모듈을 보관합니다</string>
 		<string lang="pt-br">Armazene um módulo entre as corridas</string>
-		<string lang="zh-tw">儲存一個模組，供下次遊戲使用
-</string>
+		<string lang="zh-tw">儲存一個模組，供下次遊戲使用</string>
 		<string lang="uk">Зберігає модуль між забігами</string>
 </set>
 <set id="description-campstructure-vendingmachine">
-		<string lang="de">Kaufe für $plasma$ Verbrauchsmodule mit $cracked$</string>
-		<string lang="en">Buy $cracked$ modules$br$with $plasma$</string>
-		<string lang="fr">Achetez des modules de consommation avec $cracked$ avec $plasma$</string>
+		<string lang="de">Kaufe für $1plasma$ Verbrauchsmodule mit $cracked$</string>
+		<string lang="en">Buy $cracked$ modules$br$for $1plasma$</string>
+		<string lang="fr">Achetez des modules de consommation avec $cracked$ pour $1plasma$</string>
 		<string lang="zh">花费$plasma$$br$购买$cracked$模块</string>
 		<string lang="jp">$plasma$で$br$$cracked$モジュール購入</string>
 		<string lang="ru">Купите $cracked$ модули$br$за $plasma$</string>
 		<string lang="es">Compra módulos consumibles con $cracked$ con $plasma$</string>
 		<string lang="kr">$plasma$로$br$$cracked$ 상태의 모듈을 구매</string>
 		<string lang="pt-br">Compre módulos de consumo com $cracked$ com $plasma$</string>
-		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組
-</string>
+		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組</string>
 		<string lang="uk">Продає $cracked$ модулі за $plasma$</string>
 </set>
 <set id="description-campstructure-workshop">
@@ -106,8 +148,7 @@
 		<string lang="es">Compra módulos $crownicon$$b$Raros$/b$ con $plasma$</string>
 		<string lang="kr">$plasma$로$br$$crownicon$$b$희귀한$/b$ 모듈을 구매</string>
 		<string lang="pt-br">Compre módulos $crownicon$$b$Raros$/b$ com $plasma$</string>
-		<string lang="zh-tw">花費$plasma$$br$購買$crownicon$$b$稀有$/b$模組
-</string>
+		<string lang="zh-tw">花費$plasma$$br$購買$crownicon$$b$稀有$/b$模組</string>
 		<string lang="uk">Продає $crownicon$$b$Рідкісні$/b$ модулі за $plasma$</string>
 </set>
 <set id="name-campstructure-campfire">
@@ -148,8 +189,7 @@
 		<string lang="es">Planta de energía</string>
 		<string lang="kr">발전소</string>
 		<string lang="pt-br">Usina de energia</string>
-		<string lang="zh-tw">發電站
-</string>
+		<string lang="zh-tw">發電站</string>
 		<string lang="uk">Електростанція</string>
 </set>
 <set id="name-campstructure-refinery">
@@ -162,8 +202,7 @@
 		<string lang="es">Refinería</string>
 		<string lang="kr">정제소</string>
 		<string lang="pt-br">Refinaria</string>
-		<string lang="zh-tw">精煉廠
-</string>
+		<string lang="zh-tw">精煉廠</string>
 		<string lang="uk">Очисний завод</string>
 </set>
 <set id="name-campstructure-scrapyard">
@@ -176,9 +215,21 @@
 		<string lang="es">Cementerio de chatarra</string>
 		<string lang="kr">폐품 처리장</string>
 		<string lang="pt-br">Ferro-velho</string>
-		<string lang="zh-tw">廢料場
-</string>
+		<string lang="zh-tw">廢料場</string>
 		<string lang="uk">Сміттєзвалище</string>
+</set>
+<set id="name-campstructure-laboratory">
+		<string lang="de">Labor</string>
+		<string lang="en">Laboratory</string>
+		<string lang="fr">Laboratoire</string>
+        <string lang="zh">实验室</string>
+        <string lang="jp">研究所</string>
+        <string lang="ru">Лаборатория</string>
+        <string lang="es">Laboratorio</string>
+        <string lang="kr">연구소</string>
+        <string lang="pt-br">Laboratório</string>
+        <string lang="zh-tw">實驗室</string>
+        <string lang="uk">Лабораторія</string>
 </set>
 <set id="name-campstructure-telescope">
 		<string lang="de">Teleskop</string>
@@ -218,9 +269,21 @@
 		<string lang="es">Máquina expendedora de módulos</string>
 		<string lang="kr">모듈 자판기</string>
 		<string lang="pt-br">Máquina de venda de módulos</string>
-		<string lang="zh-tw">模組販售機
-</string>
+		<string lang="zh-tw">模組販售機</string>
 		<string lang="uk">Торговий автомат модулів</string>
+</set>
+<set id="name-campstructure-watchtower">
+		<string lang="de">Wachturm</string>
+        <string lang="en">Watchtower</string>
+        <string lang="fr">Tour de Guet</string>
+        <string lang="zh">瞭望塔</string>
+        <string lang="jp">見張り塔</string>
+        <string lang="ru">Дозорная башня</string>
+        <string lang="es">Torre de vigilancia</string>
+        <string lang="kr">감시탑</string>
+        <string lang="pt-br">Torre de vigia</string>
+        <string lang="zh-tw">瞭望塔</string>
+        <string lang="uk">Варта</string>
 </set>
 <set id="name-campstructure-workshop">
 		<string lang="de">Modulwerkstatt</string>
@@ -232,8 +295,7 @@
 		<string lang="es">Taller de módulos</string>
 		<string lang="kr">모듈 작업장</string>
 		<string lang="pt-br">Oficina de módulos</string>
-		<string lang="zh-tw">模組工坊
-</string>
+		<string lang="zh-tw">模組工坊</string>
 		<string lang="uk">Майстерня Модулів</string>
 </set>
 <set id="quote-campstructure-campfire">
@@ -260,9 +322,21 @@
 		<string lang="es">“El abuelo Slopper solía trastear con sus robots grav. aquí"</string>
 		<string lang="kr">우리는 슬로퍼 할아버지가 시작한 것을 함께 끝낼 것입니다</string>
 		<string lang="pt-br">O vovô Slopper costumava mexer em seus robôs grav. aqui</string>
-		<string lang="zh-tw">“我們一起，完成斯洛普爺爺未竟的事業。”
-</string>
+		<string lang="zh-tw">“我們一起，完成斯洛普爺爺未竟的事業。”</string>
 		<string lang="uk">«Дідусь Слоппер майстрував тут своїх Грав. Роботів»</string>
+</set>
+<set id="quote-campstructure-laboratory">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+		<string lang="uk"/>
 </set>
 <set id="quote-campstructure-powerplant">
 		<string lang="de">Eine neue Energiequelle für unser Lager”</string>
@@ -274,9 +348,21 @@
 		<string lang="es">Una fuente de energía sostenible para nuestro campamento</string>
 		<string lang="kr">야영지를 위한 지속 가능한 에너지원</string>
 		<string lang="pt-br">Uma fonte sustentável de energia para nosso acampamento</string>
-		<string lang="zh-tw">我們營地的可持續能量源
-</string>
+		<string lang="zh-tw">我們營地的可持續能量源</string>
 		<string lang="uk">«Надійне джерело енергії для нашого табору»</string>
+</set>
+<set id="quote-campstructure-refinery">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+		<string lang="uk"/>
 </set>
 <set id="quote-campstructure-scrapyard">
 		<string lang="de">Hier lagern die Bewohner alles Nützliche, auf was sie auf ihren Streifzügen stoßen</string>
@@ -302,8 +388,7 @@
 		<string lang="es">“Espera, eso de ahí, ¿es un Generador+1?"</string>
 		<string lang="kr">잠깐, 저기 보이는 거 발전기 +1 아닌가?</string>
 		<string lang="pt-br"/>
-		<string lang="zh-tw">“等一下，那邊是發生器+1嗎？”
-</string>
+		<string lang="zh-tw">“等一下，那邊是發生器+1嗎？”</string>
 		<string lang="uk">«Зачекайте, це там що, Генератор +1?»</string>
 </set>
 <set id="quote-campstructure-timevault">
@@ -316,8 +401,7 @@
 		<string lang="es">“Oh, asi que este lo colocaremos mañana"</string>
 		<string lang="kr">오, 여기에 있는 이건 내일 넣자</string>
 		<string lang="pt-br"/>
-		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”
-</string>
+		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”</string>
 		<string lang="uk">«О, цей ми спакуємо завтра.»</string>
 </set>
 <set id="quote-campstructure-vendingmachine">
@@ -344,9 +428,21 @@
 		<string lang="es">“Aún me queda algo de plasma ¿Qué me debería pillar?"</string>
 		<string lang="kr">플라즈마가 아직 좀 남았는데, 뭘 사야 하지?</string>
 		<string lang="pt-br"/>
-		<string lang="zh-tw">“等離子體還剩一些，需要拿來做什麼？”
-</string>
+		<string lang="zh-tw">“等離子體還剩一些，需要拿來做什麼？”</string>
 		<string lang="uk">«У мене ще залишилася плазма,$br$що б іще узяти?»</string>
+</set>
+<set id="quote-campstructure-watchtower">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+		<string lang="uk"/>
 </set>
 <set id="scope-notpartofearlyaccess">
 		<string lang="de">Wird während des Early Access entwickelt</string>
