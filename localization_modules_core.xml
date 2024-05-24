@@ -757,7 +757,7 @@
 </set>
 <set id="description-module-toggledmaxhpenhancer">
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$1healing$ auf ihn/sie an.</string>
-		<string lang="en">Permanently increases the character's max. HP by $1$ and applies $1healing$ to them.</string>
+		<string lang="en">Permanently increases the owner's max. HP by $1$ and applies $1healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
 		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
 		<string lang="jp">キャラの最大HPを恒久的に$1$増やし、$1$$healing$。</string>
@@ -783,7 +783,7 @@
 </set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
-		<string lang="en">Destroys another target module on this rack to generate $2energy$.</string>
+		<string lang="en">Destroys another target module on this rack to generate$br$$2energy$.</string>
 		<string lang="fr">Génère $2energy$ à partir de la destruction d'un autre module ciblé.</string>
 		<string lang="zh">销毁模架上另一自选模块，$br$以换取$2energy$。</string>
 		<string lang="jp">ラックの別モジュールを破壊し、$br$$2energy$発電。</string>

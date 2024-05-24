@@ -585,6 +585,19 @@
 		<string lang="zh-tw">選擇下一個啟動的模組</string>
 		<string lang="uk">Виберіть наступний модуль для активації</string>
 </set>
+<set id="message-prompt-selecttargetmoduleformodule">
+		<string lang="de">Wähle ein Ziel für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="en">Select target for$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="fr">Sélectionnez une cible pour$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="zh">为$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$选择目标</string>
+		<string lang="jp">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;の対象選択</string>
+		<string lang="ru">Выберите цель для$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="es">Selecciona un objetivo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$목표를 지정하세요</string>
+		<string lang="pt-br">Selecione o alvo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
+		<string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標</string>
+		<string lang="uk">Виберіть ціль для$br$&amp;lt;size=16&amp;gt;$MODULEICON$ $NAME$&amp;lt;/size&amp;gt;</string>
+</set>
 <set id="message-prompt-selecttargetcombatantformodule">
 		<string lang="de">Wähle ein Ziel für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
 		<string lang="en">Select target for$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -831,8 +844,8 @@
 		<string lang="es">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="kr">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
 		<string lang="pt-br">&lt;sprite name="storage" tint=1&gt; $ENERGYVALUE$ $energyicon$</string>
-		<string lang="zh-tw">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$$energyicon$"</string>
-		<string lang="uk">$ENERGYVALUE$ $energyicon$</string>
+		<string lang="zh-tw">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$$energyicon$</string>
+		<string lang="uk">&lt;sprite name="storage" tint=1&gt;$ENERGYVALUE$ $energyicon$</string>
 </set>
 <set id="worldmessage-error-batterychargedischarge">
 		<string lang="de">Kann entweder geladen oder entladen werden</string>
@@ -858,9 +871,21 @@
 		<string lang="es">$b$- $STATUS$$/b$</string>
 		<string lang="kr">$b$- $STATUS$$/b$</string>
 		<string lang="pt-br">$b$- $STATUS$$/b$</string>
-		<string lang="zh-tw">$b$- $STATUS$$/b$
-</string>
+		<string lang="zh-tw">$b$- $STATUS$$/b$</string>
 		<string lang="uk">$b$- $STATUS$ $/b$</string>
+</set>
+<set id="worldmessage-maxcapacityenhance">
+		<string lang="de">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="en">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="fr">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="zh">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="jp">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="ru">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="es">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="kr">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="pt-br">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="zh-tw">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
+		<string lang="uk">$b$+$/b$ $ENERGYVALUE$$storageicon$</string>
 </set>
 <set id="worldmessage-modulelock">
 		<string lang="de">Verriegelt</string>
