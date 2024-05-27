@@ -11,7 +11,7 @@
 		<string lang="pt-br">Termine cada estágio com dinheiro suficiente para fazer pagamentos iniciais nas estruturas do acampamento.</string>
 		<string lang="zh-tw">營地建築的獎勵模組非常強大。確保關卡結束後有足夠的等離子體購買它們。
 </string>
-		<string lang="uk">Закінчуйте кожен етап кількістю $plasma$ достатньою для початкових внесків на будівлі табору.</string>
+		<string lang="uk">Май достатню кількість $plasmaicon$$b$Плазми$/b$ під кінець кожного етапу для внесків на будівлі табору.</string>
 </set>
 <set id="advice-cracked">
 		<string lang="de">Horte Module mit $cracked$ nicht, sondern nutze ihren starken einmaligen Effekt, um eine gute Wertung zu erhalten oder einen Kampf zügig zu beenden.</string>
@@ -25,7 +25,7 @@
 		<string lang="pt-br">Não acumule módulos de uso único ($cracked$), mas use seu forte efeito único para garantir uma classificação $gold$ ou terminar um combate que está saindo do controle.</string>
 		<string lang="zh-tw">與其囤積$cracked$模組，不如利用它們強大的一次性效果來取得高評分或結束難纏的敵人。
 </string>
-		<string lang="uk">Не накопичуйте крихкі $cracked$ модулі, використовуйте їх потужний одноразовий ефект, щоб отримати гарний рейтинг або завершити бій, що виходить з-під контролю.</string>
+		<string lang="uk">Не накопичуй крихкі $cracked$ модулі, використовуй їхній потужний ефект, щоб отримати гарний рейтинг або завершити бій, що виходить з-під контролю.</string>
 </set>
 <set id="advice-deceleration">
 		<string lang="de">Unterschätze nicht die Wirksamkeit, einen Gegner einfach zu verlangsamen.</string>
@@ -39,7 +39,7 @@
 		<string lang="pt-br">Não subestime a eficácia de simplesmente desacelerar um inimigo.</string>
 		<string lang="zh-tw">不要小看單純減速敵人的作用。
 </string>
-		<string lang="uk">Не варто недооцінювати ефективність простого уповільнення ворога.</string>
+		<string lang="uk">Не варто недооцінювати ефективності уповільнення ворога.</string>
 </set>
 <set id="advice-draft">
 		<string lang="de">Wenn du Loot-Module auswählst, achte auf eine gute Balance zwischen Energiequellen, Durchsatzmodulen und Effektoren.</string>
@@ -53,7 +53,7 @@
 		<string lang="pt-br">Ao escolher módulos como saque, encontre um bom equilíbrio entre fontes de energia, módulos de transferência e effectors.</string>
 		<string lang="zh-tw">優秀模組的構建，在於能量型、中繼型、效果型三種模組之間的良好平衡。
 </string>
-		<string lang="uk">Ключ до якісної збірки – гарний баланс між джерелами енергії, пропускними модулями та ефекторами.</string>
+		<string lang="uk">Ключ до якісної збірки – баланс між джерелами енергії, пропускними модулями та модулями впливу.</string>
 </set>
 <set id="advice-enemies-1">
 		<string lang="de">Klicke auf Gegner, um ihre Fähigkeiten zu sehen. Gegner werden immer versuchen, deine Pläne zu durchkreuzen und ihre Verbündeten zu unterstützen.</string>
@@ -67,7 +67,7 @@
 		<string lang="pt-br">Clique nos inimigos para ver suas habilidades. Os inimigos sempre tentarão interromper seus planos e apoiar seus aliados.</string>
 		<string lang="zh-tw">點擊敵人來查看他們的技能。他們總是致力於破壞你的計畫，並幫助自己的盟友。
 </string>
-		<string lang="uk">Натисніть на ворогів, щоб побачити їхні здібності.$br$Вороги завжди будуть намагатися порушити ваші плани і підтримувати своїх союзників.</string>
+		<string lang="uk">Натискай на ворогів, щоб побачити їхні здібності.$br$Вороги завжди будуть намагатися зірвати твої плани і підтримати своїх союзників.</string>
 </set>
 <set id="advice-enemies-2">
 		<string lang="de">Überprüfe die Fähigkeiten der Gegner auf Störquellen wie $grav$ oder $crust$.</string>
@@ -81,7 +81,7 @@
 		<string lang="pt-br">Verifique os movimentos do inimigo em busca de fontes de interrupção, como $grav$ ou $crust$.</string>
 		<string lang="zh-tw">查看敵人是否有干擾技能，如$grav$或$crust$。
 </string>
-		<string lang="uk">Перевірте набори рухів ворога на наявність джерел перешкод,$br$як от $grav$ або $crust$.</string>
+		<string lang="uk">Зважай на перешкоди серед вмінь ворогів,$br$як от $grav$ або $crust$.</string>
 </set>
 <set id="advice-energy">
 		<string lang="de">Jeder Punkt $energy$, den du erzeugen kannst, zählt.</string>
@@ -95,7 +95,7 @@
 		<string lang="pt-br">Cada ponto de $energy$ que você pode gerar é significativo.</string>
 		<string lang="zh-tw">產出的每一點$energy$都會派上用場。
 </string>
-		<string lang="uk">Кожна точка $energy$, який ви можете згенерувати, має сенс.</string>
+		<string lang="uk">Кожна одиниця згенерованої тобою $energy$ має значення.</string>
 </set>
 <set id="advice-energy-2">
 		<string lang="de">Versuche, $energy$ auf $sensor$-Modulen nicht verpuffen zu lassen.</string>
@@ -109,7 +109,7 @@
 		<string lang="pt-br">Tente não deixar a $energy$ nos módulos de sensores se dissipar.</string>
 		<string lang="zh-tw">儘量不要浪費傳感型模組產出的$energy$。
 </string>
-		<string lang="uk">Спробуйте не дозволити розсіювання $energy$ на $sensor$ модулях.</string>
+		<string lang="uk">Намагайся не давати розсіюватися $energyicon$$b$Енергії$/b$ на $sensor$ модулях.</string>
 </set>
 <set id="advice-exhaustion">
 		<string lang="de">Wenn du einen $generator$ aktivierst, wird dein nächster Zug um dessen Erschöpfungswert zurückgesetzt.</string>
@@ -123,7 +123,7 @@
 		<string lang="pt-br">Ativar um $generator$ define seu próximo turno de volta pelo valor de Exaustão.</string>
 		<string lang="zh-tw">啟動$generator$會使你的輪次延後等同疲勞值的步長。
 </string>
-		<string lang="uk">Активація a $generator$ повертає ваш наступний хід назад на значення виснаження.</string>
+		<string lang="uk">При активація $generator$ відтерміновує твій наступний хід на значення виснаження.</string>
 </set>
 <set id="advice-exhaustion-2">
 		<string lang="de">Wenn du versuchst, Züge auszurichten, ist es manchmal am klügsten, einen Generator überhaupt nicht zu aktivieren.</string>
@@ -137,7 +137,7 @@
 		<string lang="pt-br">Se você está tentando alinhar os turnos, às vezes o movimento mais inteligente é não ativar um gerador de forma alguma.</string>
 		<string lang="zh-tw">如果想對齊輪次，有時最明智的做法是乾脆不去啟動發生器。
 </string>
-		<string lang="uk">Якщо ви намагаєтеся вирівняти кроки, інколи найрозумніше буде взагалі не активувати генератор.</string>
+		<string lang="uk">Для того щоб вирівняти ходи, іноді краще взагалі не активувати генератор.</string>
 </set>
 <set id="advice-happenings">
 		<string lang="de">$b$?$/b$-Ereignisse bieten die Möglichkeit, deine Module zu duplizieren, zu transformieren oder zu verbessern.</string>
@@ -151,7 +151,7 @@
 		<string lang="pt-br">Os eventos $b$?$/b$ oferecem opções para duplicar, transformar ou melhorar seus módulos.</string>
 		<string lang="zh-tw">$b$？$/b$-關卡提供複製、轉換或改進模組的機會。
 </string>
-		<string lang="uk">$b$?$/b$- Рівні пропонують варіанти дублювання, трансформації або покращення ваших модулів.</string>
+		<string lang="uk">$b$?$/b$- Рівні пропонують варіанти дублювання, трансформації або покращення модулів.</string>
 </set>
 <set id="advice-middleclick">
 		<string lang="de">Wenn du mit Tastatur und Maus spielst, kannst du mit einem Mittelklick auf ein Modul es in den Rucksack verschieben und wieder herausnehmen.</string>
@@ -165,7 +165,7 @@
 		<string lang="pt-br">Ao jogar com teclado e mouse, clicar com o botão do meio em um módulo o enviará para dentro e para fora da mochila.</string>
 		<string lang="zh-tw">使用鍵盤滑鼠遊戲時，中鍵單擊模組可將其快速移至背包。
 </string>
-		<string lang="uk">Під час гри з клавіатурою та мишею, клацання середньою кнопкою миші на модулі відправляє його в рюкзак і навпаки.</string>
+		<string lang="uk">Під час гри з клавіатурою та мишею, можна клацнути середньою кнопкою миші на модулі, щоб відправити його до рюкзаку або назад з рюкзака.</string>
 </set>
 <set id="advice-rating">
 		<string lang="de">Wenn du eine $gold$-Bewertung erhältst, wird die Dauer für $gold$ im nächsten Kampf um 2 reduziert.</string>
@@ -179,7 +179,7 @@
 		<string lang="pt-br">Se você receber uma classificação $gold$, a duração da classificação $gold$ na próxima luta será reduzida em 2.</string>
 		<string lang="zh-tw">如果本關取得$gold$評分，則下一次戰鬥的$gold$評分將縮短2步。
 </string>
-		<string lang="uk">Якщо ви отримуєте $gold$ рейтинг, тривалість для $gold$ у наступному бою буде зменшено на 2.</string>
+		<string lang="uk">Отримання $gold$ рейтингу зменшує термін для взяття $gold$ у наступному бою на 2.</string>
 </set>
 <set id="advice-rating-2">
 		<string lang="de">Nicht alle Kämpfe können mit einer $gold$-Belohnung abgeschlossen werden. In diesen Fällen kannst du dir mehr Zeit nehmen, um dich zu heilen und Plasma und Ressourcen für zukünftige Kämpfe zu generieren.</string>
@@ -193,7 +193,7 @@
 		<string lang="pt-br">Nem todas as batalhas podem ser concluídas a tempo para uma classificação $gold$. Nesses casos, considere tirar um tempo extra para se curar e gerar plasma e recursos para lutas futuras.</string>
 		<string lang="zh-tw">並非所有戰鬥都能快速結束以取得$gold$評分。這時不妨多花些時間治療自己，並為之後的戰鬥產出等離子體及其他資源。
 </string>
-		<string lang="uk">Не всі бої можна завершити вчасно, щоб отримати нагороду $gold$.$br$У таких випадках подумайте про додатковий час, щоб відновитися та створити плазму та ресурси для майбутніх боїв.</string>
+		<string lang="uk">Не кожен бій можна встигнути завершити з $gold$ рейтингом.$br$В такому разі можна використати додатковий час для лікування та генерації плазми і ресурсів для майбутніх боїв.</string>
 </set>
 <set id="advice-rerolling">
 		<string lang="de">Wenn dir keines der drei Loot-Module zusagt, kannst du $plasma$ ausgeben, um den Loot neu auszuwürfeln. Dies ändert nicht dessen Seltenheit.</string>
@@ -207,7 +207,7 @@
 		<string lang="pt-br">Se nenhum módulo de saque fizer isso por você, você pode gastar $plasma$ para rolar novamente. Isso não mudará a raridade do saque.</string>
 		<string lang="zh-tw">如果沒有心儀的戰利品模組，可以花費$plasma$重新選擇。重選不會改變戰利品的稀有度等級。
 </string>
-		<string lang="uk">Якщо жоден модуль здобичі не підходить вам, ви можете витратити $plasma$, щоб скинути.$br$Це не змінить рідкості здобичі.</string>
+		<string lang="uk">Якщо нічого зі здобичі тобі не підходить, її можна оновити, витративши $plasmaicon$$b$Плазму$/b$.$br$Це не змінить рідкості модулів.</string>
 </set>
 <set id="advice-rightclick">
 		<string lang="de">Wenn du mit Tastatur und Maus spielst, kannst du ein Modul mit einem Rechtsklick zum Rack des anderen Characters schicken.</string>
@@ -221,7 +221,7 @@
 		<string lang="pt-br">Ao jogar com teclado e mouse, clicar com o botão direito em um módulo o enviará para o rack do outro personagem.</string>
 		<string lang="zh-tw">使用鍵盤滑鼠遊戲時，右鍵單擊模組可將其快速移至另一角色的模架。
 </string>
-		<string lang="uk">Під час гри за допомогою клавіатури та миші, клацання правою кнопкою миші на модулі надішле його на стійку іншого персонажа.</string>
+		<string lang="uk">Під час гри за допомогою клавіатури та миші, можна клацанути правою кнопкою миші на модулі, щоб надіслати його до стійки іншого персонажа.</string>
 </set>
 <set id="advice-salvage">
 		<string lang="de">Wenn du Game Over gehst, vergiss nicht, dein bestes Modul in den nächsten Run hinüberzuretten.</string>
@@ -235,7 +235,7 @@
 		<string lang="pt-br">Se você for Game Over, não se esqueça de salvar seu melhor módulo para a próxima rodada.</string>
 		<string lang="zh-tw">如果遊戲落敗，別忘記保留你最愛的模組，以便下次遊戲繼承。
 </string>
-		<string lang="uk">Якщо ви закінчите гру, не забудьте врятувати свій найкращий модуль$br$для наступного забігу.</string>
+		<string lang="uk">Якщо ти програв, не забудь врятувати свій найкращий модуль для наступного походу.</string>
 </set>
 <set id="advice-storm">
 		<string lang="de">Wenn du einen Kampf nicht rechtzeitig beendest, zieht ein $storm$ auf und der Kampf nimmt eine gefährliche Wendung.</string>
@@ -249,7 +249,7 @@
 		<string lang="pt-br">Se você não conseguir terminar a luta a tempo, uma $storm$ está se formando e a batalha tomará um rumo perigoso.</string>
 		<string lang="zh-tw">如果未能及時結束戰鬥，將生成$storm$，戰況會發生危險的轉折。
 </string>
-		<string lang="uk">Якщо ви не можете завершити бій вчасно, збереться $storm$, і битва прийме небезпечний поворот.</string>
+		<string lang="uk">Якщо не вийде завершити бій вчасно, збереться $storm$, і битва стане небезпечною.</string>
 </set>
 <set id="advice-strategy">
 		<string lang="de">Manche Kämpfe können dich mit gespawnten Monstern oder Status-Effekten überwältigen. Überlege dir sorgfältig, welche Ziele du priorisieren solltest.</string>
@@ -263,7 +263,7 @@
 		<string lang="pt-br">Algumas batalhas podem sobrecarregá-lo com monstros gerados ou efeitos de status debilitantes. Considere cuidadosamente suas prioridades de alvo.</string>
 		<string lang="zh-tw">一些戰鬥中出現的怪物數量或減益效果也許會令你應接不暇。請仔細考慮目標的優先順序。
 </string>
-		<string lang="uk">Деякі битви можуть вразити вас породженими монстрами або виснажливими ефектами статусу. Ретельно обміркуйте свої цільові пріоритети.</string>
+		<string lang="uk">Деякі битви можуть завалити тебе створеними монстрами або виснажливими статусними ефектами. Добре подумай над пріоритетами цілей.</string>
 </set>
 <set id="advice-timeline">
 		<string lang="de">Zusätzliche Module, um die Zeitleiste zu manipulieren, sind äußerst nützlich für eine zuverlässigige Ausrichtung und Kontrolle der Züge.</string>
@@ -277,6 +277,6 @@
 		<string lang="pt-br">Módulos adicionais para manipular a linha do tempo são muito úteis para alinhamento e controle de turnos confiáveis.</string>
 		<string lang="zh-tw">可操控時間軸的附加模組在輪次的對齊和控制上非常有用。
 </string>
-		<string lang="uk">Додаткові модулі для керування шкалою часу дуже корисні для надійного вирівнювання та контролю ходів.</string>
+		<string lang="uk">Модулі, що керують шкалою часу, стануть у нагоді для надійного вирівнювання ходів та контролю.</string>
 </set>
 </localization>
