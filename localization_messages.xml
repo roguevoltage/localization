@@ -67,7 +67,7 @@
 		<string lang="pt-br">Votação Iniciada! Para votar, envie</string>
 		<string lang="zh-tw">投票開始！投票發送
 </string>
-		<string lang="uk">Голосування Розпочато! Щоб проголосувати, надішліть</string>
+		<string lang="uk">Голосування Розпочато! Щоб проголосувати, надішли</string>
 </set>
 <set id="error-cannotwirecircular">
 		<string lang="de">Kann nicht zirkulär verkabeln</string>
@@ -109,7 +109,7 @@
 		<string lang="pt-br">Conecte a entrada$br$à saída</string>
 		<string lang="zh-tw">輸出端口只能$br$與輸入端口相連
 </string>
-		<string lang="uk">Зʼєднайте вход і вихід дротом</string>
+		<string lang="uk">Зʼєднай вход і вихід дротом</string>
 </set>
 <set id="error-jackcolormismatch">
 		<string lang="de">Falsche Farbe</string>
@@ -445,7 +445,7 @@
 		<string lang="pt-br">Não pode ser conectado durante a sequência de disparo</string>
 		<string lang="zh-tw">能量傳輸過程中無法接線
 </string>
-		<string lang="uk">Зʼєднувати модулі під час роботи не можна</string>
+		<string lang="uk">Зʼєднувати модулі під час роботи стійки не можна</string>
 </set>
 <set id="error-wiringsamemodule">
 		<string lang="de">Verkabelung desselben Moduls$br$nicht erlaubt</string>
@@ -487,7 +487,7 @@
 		<string lang="pt-br">Você se depara com um grupo de monstros.</string>
 		<string lang="zh-tw">你偶然發現了一群怪物。
 </string>
-		<string lang="uk">Ви натрапили на групу монстрів.</string>
+		<string lang="uk">Ти натрапив на групу монстрів.</string>
 </set>
 <set id="message-battlewon">
 		<string lang="de">Glanzleistung!</string>
@@ -583,7 +583,7 @@
 		<string lang="kr">다음에 활성화할 모듈을 선택하세요</string>
 		<string lang="pt-br">Selecione o próximo módulo para ativar</string>
 		<string lang="zh-tw">選擇下一個啟動的模組</string>
-		<string lang="uk">Виберіть наступний модуль для активації</string>
+		<string lang="uk">Обери наступний модуль для активації</string>
 </set>
 <set id="message-prompt-selecttargetmoduleformodule">
 		<string lang="de">Wähle ein Ziel für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -595,8 +595,8 @@
 		<string lang="es">Selecciona un objetivo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
 		<string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$목표를 지정하세요</string>
 		<string lang="pt-br">Selecione o alvo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
-		<string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標</string>
-		<string lang="uk">Виберіть ціль для$br$&amp;lt;size=16&amp;gt;$MODULEICON$ $NAME$&amp;lt;/size&amp;gt;</string>
+		<string lang="zh-tw">為$br$&lt;size=15&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標</string>
+		<string lang="uk">Обери ціль для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-prompt-selecttargetcombatantformodule">
 		<string lang="de">Wähle ein Ziel für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -609,7 +609,7 @@
 		<string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$목표를 지정하세요</string>
 		<string lang="pt-br">Selecione o alvo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
 		<string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標</string>
-		<string lang="uk">Виберіть ціль для$br$&amp;lt;size=16&amp;gt;$MODULEICON$ $NAME$&amp;lt;/size&amp;gt;</string>
+		<string lang="uk">Виберіть ціль для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-prompt-selecttargettimestepformodule">
 		<string lang="de">Wähle einen Zeitschritt für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -622,7 +622,7 @@
         <string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$시간 단계를 선택하세요</string>
         <string lang="pt-br">Selecione um passo de tempo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
         <string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇時間步長</string>
-        <string lang="uk">Виберіть часовий крок для$br$&amp;lt;size=16&amp;gt;$MODULEICON$ $NAME$&amp;lt;/size&amp;gt;</string>
+        <string lang="uk">Виберіть часовий крок для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-rackconnect">
 		<string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -636,7 +636,7 @@
 		<string lang="pt-br">Conecte os módulos que você deseja ativar com fios.</string>
 		<string lang="zh-tw">連接想要啟動的模組。
 </string>
-		<string lang="uk">З’єднайте модулі, які потрібно активувати, за допомогою дротів.</string>
+		<string lang="uk">З’єднай модулі, які потрібно активувати, за допомогою дротів.</string>
 </set>
 <set id="message-turn-naturaldisaster-gravequilibrium">
 		<string lang="de">Das Grav-Equilibrium zieht über den Kampfplatz.</string>
@@ -650,7 +650,7 @@
 		<string lang="pt-br">O Equilíbrio Grav. rola pelo campo de batalha.</string>
 		<string lang="zh-tw">戰場每隔一段時間就會出現引力均衡。
 </string>
-		<string lang="uk">Грав. Рівновага крокує полем бою.</string>
+		<string lang="uk">Гравірівновага крокує полем бою.</string>
 </set>
 <set id="message-turn-naturaldisaster-gravimpulse">
 		<string lang="de">Ein Grav.-Impuls!</string>
@@ -664,7 +664,7 @@
 		<string lang="pt-br">Um Impulso Grav.!</string>
 		<string lang="zh-tw">引力脈衝來臨！
 </string>
-		<string lang="uk">Грав. Імпульс!</string>
+		<string lang="uk">Гравіімпульс!</string>
 </set>
 <set id="message-turn-naturaldisaster-gravspike">
 		<string lang="de">Eine Grav.-Spitze!</string>
@@ -678,7 +678,7 @@
 		<string lang="pt-br">Um Pico Grav.!</string>
 		<string lang="zh-tw">引力激增來臨！
 </string>
-		<string lang="uk">Грав. Спалах!</string>
+		<string lang="uk">Гравіспалах!</string>
 </set>
 <set id="message-turn-naturaldisaster-lightningstrike">
 		<string lang="de">Ein Blitzschlag!</string>
@@ -762,7 +762,7 @@
 		<string lang="pt-br">Não pode ser alternado durante a sequência de disparo</string>
 		<string lang="zh-tw">能量傳輸過程中無法改變開關狀態
 </string>
-		<string lang="uk">Не можна перемикати під час роботи</string>
+		<string lang="uk">Не можна перемикати під час роботи стійки</string>
 </set>
 <set id="worldmessage-cannottogglemodulefromhere">
 		<string lang="de">Kann hier nicht umgeschaltet werden</string>

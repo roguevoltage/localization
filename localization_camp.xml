@@ -10,7 +10,7 @@
 		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
 		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
-		<string lang="uk">Отримайте додатковий модуль як варіант здобичі</string>
+		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
 </set>
 <set id="description-campstructure-hangar">
 		<string lang="de">Bau deinen eigenen Charakter</string>
@@ -23,7 +23,7 @@
 		<string lang="kr">나만의 캐릭터를 구축하세요</string>
 		<string lang="pt-br">Construa seu próprio personagem</string>
 		<string lang="zh-tw">定制屬於自己的角色</string>
-		<string lang="uk">Створіть власного персонажа</string>
+		<string lang="uk">Створи власного персонажа</string>
 </set>
 <set id="description-campstructure-laboratory">
 		<string lang="de">Färbt die Jacks eines Moduls zwischen Camp-Besuchen zu universell um.</string>
@@ -98,7 +98,7 @@
 		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
 		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
-		<string lang="uk">Отримайте додатковий модуль як варіант здобичі</string>
+		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
 </set>
 <set id="description-campstructure-watchtower">
 		<string lang="de">Der erste Loot-Reroll ist gratis</string>
@@ -123,7 +123,7 @@
 		<string lang="kr">모험 사이에 모듈을 보관합니다</string>
 		<string lang="pt-br">Armazene um módulo entre as corridas</string>
 		<string lang="zh-tw">儲存一個模組，供下次遊戲使用</string>
-		<string lang="uk">Зберігає модуль між забігами</string>
+		<string lang="uk">Зберігає модуль між походами</string>
 </set>
 <set id="description-campstructure-vendingmachine">
 		<string lang="de">Kaufe für $1plasma$ Verbrauchsmodule mit $cracked$</string>
@@ -136,7 +136,7 @@
 		<string lang="kr">$plasma$로$br$$cracked$ 상태의 모듈을 구매</string>
 		<string lang="pt-br">Compre módulos de consumo com $cracked$ com $plasma$</string>
 		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組</string>
-		<string lang="uk">Продає $cracked$ модулі за $plasma$</string>
+		<string lang="uk">Продає $cracked$ модулі за $plasmaicon$$b$Плазму$/b$</string>
 </set>
 <set id="description-campstructure-workshop">
 		<string lang="de">Kaufe für $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
@@ -149,7 +149,7 @@
 		<string lang="kr">$plasma$로$br$$crownicon$$b$희귀한$/b$ 모듈을 구매</string>
 		<string lang="pt-br">Compre módulos $crownicon$$b$Raros$/b$ com $plasma$</string>
 		<string lang="zh-tw">花費$plasma$$br$購買$crownicon$$b$稀有$/b$模組</string>
-		<string lang="uk">Продає $crownicon$$b$Рідкісні$/b$ модулі за $plasma$</string>
+		<string lang="uk">Продає $crownicon$$b$Рідкісні$/b$ модулі за $plasmaicon$$b$Плазму$/b$</string>
 </set>
 <set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
@@ -323,7 +323,7 @@
 		<string lang="kr">우리는 슬로퍼 할아버지가 시작한 것을 함께 끝낼 것입니다</string>
 		<string lang="pt-br">O vovô Slopper costumava mexer em seus robôs grav. aqui</string>
 		<string lang="zh-tw">“我們一起，完成斯洛普爺爺未竟的事業。”</string>
-		<string lang="uk">«Дідусь Слоппер майстрував тут своїх Грав. Роботів»</string>
+		<string lang="uk">«Тут Дідусь Слоппер майстрував своїх граві-ботів»</string>
 </set>
 <set id="quote-campstructure-laboratory">
 		<string lang="de"/>
@@ -376,7 +376,7 @@
 		<string lang="pt-br">Aqui os residentes armazenam tudo o que encontram de útil em suas incursões</string>
 		<string lang="zh-tw">倖存者們把冒險中得到的一切有用物資都存放在這裏
 </string>
-		<string lang="uk">«Тут мешканці зберігають все корисне, що вони знаходять у своїх вилазках</string>
+		<string lang="uk">«Тут мешканці зберігають все корисне, що їм трапилось у походах</string>
 </set>
 <set id="quote-campstructure-telescope">
 		<string lang="de">“Warte, sehe ich dort drüben einen Generator +1?”</string>
@@ -389,7 +389,7 @@
 		<string lang="kr">잠깐, 저기 보이는 거 발전기 +1 아닌가?</string>
 		<string lang="pt-br"/>
 		<string lang="zh-tw">“等一下，那邊是發生器+1嗎？”</string>
-		<string lang="uk">«Зачекайте, це там що, Генератор +1?»</string>
+		<string lang="uk">«Чейка-но, це що там, Генератор +1?»</string>
 </set>
 <set id="quote-campstructure-timevault">
 		<string lang="de">“Oh, das packen wir also morgen rein.”</string>
@@ -402,7 +402,7 @@
 		<string lang="kr">오, 여기에 있는 이건 내일 넣자</string>
 		<string lang="pt-br"/>
 		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”</string>
-		<string lang="uk">«О, цей ми спакуємо завтра.»</string>
+		<string lang="uk">«О, цей ми запакуємо завтра.»</string>
 </set>
 <set id="quote-campstructure-vendingmachine">
 		<string lang="de">“Es ist stecken geblieben! Ich will mein Plasma zurück!”</string>
@@ -416,7 +416,7 @@
 		<string lang="pt-br"/>
 		<string lang="zh-tw">“它卡住了！把我的等離子體還給我！”
 </string>
-		<string lang="uk">«Він застряг! Поверніть мені мою плазму!»</string>
+		<string lang="uk">«Воно зламалось! Поверніть мені мою плазму!»</string>
 </set>
 <set id="quote-campstructure-workshop">
 		<string lang="de">“Ich habe noch Plasma übrig,$br$was soll ich mir holen?”</string>
@@ -429,7 +429,7 @@
 		<string lang="kr">플라즈마가 아직 좀 남았는데, 뭘 사야 하지?</string>
 		<string lang="pt-br"/>
 		<string lang="zh-tw">“等離子體還剩一些，需要拿來做什麼？”</string>
-		<string lang="uk">«У мене ще залишилася плазма,$br$що б іще узяти?»</string>
+		<string lang="uk">«У мене ще залишилося трохи плазми,$br$що б іще взяти?»</string>
 </set>
 <set id="quote-campstructure-watchtower">
 		<string lang="de"/>
@@ -456,7 +456,7 @@
 		<string lang="pt-br">Será desenvolvido durante o Acesso Antecipado</string>
 		<string lang="zh-tw">將於搶先體驗期間開發完成
 </string>
-		<string lang="uk">Буде розроблено під час раннього доступу</string>
+		<string lang="uk">Стане доступним під час раннього доступу</string>
 </set>
 <set id="ui-campstructure-clicktopen">
 		<string lang="de">Klicken zum Öffnen</string>
@@ -469,7 +469,7 @@
 		<string lang="kr">열기 위해 클릭</string>
 		<string lang="pt-br">Clique para abrir</string>
 		<string lang="zh-tw">點擊打開</string>
-		<string lang="uk">Натисніть, щоб відкрити</string>
+		<string lang="uk">Натисни, щоб відкрити</string>
 </set>
 <set id="unlock-allowsdownpayment">
 		<string lang="de">Diesen Besuch $1plasma$$br$Anzahlung leisten</string>
@@ -497,7 +497,7 @@
 		<string lang="pt-br">Entrada paga com sucesso nesta visita</string>
 		<string lang="zh-tw">&lt;color=#67FF73&gt;成功支付首付款&lt;/color&gt;
 </string>
-		<string lang="uk">Авансовий внесок успішно зроблений у цей візит</string>
+		<string lang="uk">Авансовий внесок цього візиту зроблено</string>
 </set>
 <set id="unlock-notenoughplasma">
 		<string lang="de">Nicht genug $plasma$ für Anzahlung</string>
@@ -511,7 +511,7 @@
 		<string lang="pt-br">Não há plasma suficiente para a entrada</string>
 		<string lang="zh-tw">所持$plasma$不足以支付首付款
 </string>
-		<string lang="uk">Недостатньо $plasma$ для авансового внеску</string>
+		<string lang="uk">Недостатньо $plasmaicon$$b$Плазми$/b$ для авансового внеску</string>
 </set>
 <set id="unlock-requirement">
 		<string lang="de">Benötigt: $REQUIREMENT$</string>

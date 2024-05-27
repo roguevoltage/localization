@@ -11,7 +11,7 @@
 		<string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$</string>
 		<string lang="zh-tw">最多可容納&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$
 </string>
-		<string lang="uk">Вміщує до $b$ $MAXCHARGE$ $/b$ $energy$</string>
+		<string lang="uk">Вміщує до $b$ $MAXCHARGE$ $/b$ одиниць $energyicon$$b$Енергії$/b$</string>
 </set>
 <set id="discharge-endofbattle">
 		<string lang="de">Verliert Ladung am Ende des Kampfes</string>
@@ -25,7 +25,7 @@
 		<string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$até o final da batalha</string>
 		<string lang="zh-tw">戰鬥結束後失去所有$energy$
 </string>
-		<string lang="uk">Втрачає всю $energy$ в кінці бою</string>
+		<string lang="uk">Втрачає всю $energyicon$$b$Енергію$/b$ в кінці бою</string>
 </set>
 <set id="discharge-storesenergy">
 		<string lang="de">Speichert $energy$ über Züge$br$und Kämpfe hinweg</string>
@@ -39,7 +39,7 @@
 		<string lang="pt-br">Armazena $energy$ ao longo dos turnos e batalhas</string>
 		<string lang="zh-tw">儲存$energy$$br$回合及戰鬥結束後不會消失
 </string>
-		<string lang="uk">Зберігає $energy$ протягом ходів та між битвами</string>
+		<string lang="uk">Зберігає $energyicon$$b$Енергію$/b$ між ходами та битвами</string>
 </set>
 <set id="discharge-storesenergy-capped">
 		<string lang="de">Speichert bis zu &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$über Züge und Kämpfe hinweg</string>
@@ -53,7 +53,7 @@
 		<string lang="pt-br">Armazena até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$ ao longo dos turnos e batalhas</string>
 		<string lang="zh-tw">最多可儲存&lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt;$energy$$br$回合及戰鬥結束後不會消失
 </string>
-		<string lang="uk">Зберігає до $b$ $MAXCHARGE$ $/b$ $energy$ $br$протягом ходів та між битвами</string>
+		<string lang="uk">Зберігає до $b$ $MAXCHARGE$ $/b$ одиниць $energyicon$$b$Енергії$/b$ між ходами та битвами</string>
 </set>
 <set id="exchangeable">
 		<string lang="de">Wird bei Aktivierung nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
@@ -67,7 +67,7 @@
 		<string lang="pt-br">Não será bloqueado após a ativação e pode ser trocado livremente entre os personagens</string>
 		<string lang="zh-tw">啟動後不會被鎖定，可在角色間自由交換
 </string>
-		<string lang="uk">Не буде заблоковано після активації,  можна вільно обмінюватися між персонажами</string>
+		<string lang="uk">Не заблокується після активації, можна вільно переміщати між персонажами</string>
 </set>
 <set id="exchangeable-charge">
 		<string lang="de">Wird beim Aufladen nicht gesperrt und kann frei zwischen Charakteren ausgetauscht werden</string>
@@ -81,7 +81,7 @@
 		<string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
 		<string lang="zh-tw">充能後不會被鎖定，可在角色間自由交換
 </string>
-		<string lang="uk">Не буде заблоковано після заряджання, можна вільно обмінювати між персонажами</string>
+		<string lang="uk">Не буде заблокується після заряджання, можна вільно переміщати між персонажами</string>
 </set>
 <set id="exhaustion">
 		<string lang="de">Erschöpfung $EXHAUSTION$</string>
@@ -123,7 +123,7 @@
 		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
 		<string lang="zh-tw">啟動後角色下一回合延後$EXHAUSTION$步
 </string>
-		<string lang="uk">Активація відкладає наступний хід на $EXHAUSTION$</string>
+		<string lang="uk">Активація відтерміновує наступний хід на $EXHAUSTION$</string>
 </set>
 <set id="factory-proportion">
 		<string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
@@ -137,7 +137,7 @@
 		<string lang="pt-br">Mais $energy$ leva a um módulo melhor construído</string>
 		<string lang="zh-tw">輸入$energy$越大，製造的模組越好
 </string>
-		<string lang="uk">Вища $energy$ веде до поліпшення модулю</string>
+		<string lang="uk">Вища $energy$ веде до кращого створеного модулю</string>
 </set>
 <set id="module-level-0">
 		<string lang="de">Level 0</string>
@@ -263,7 +263,7 @@
 		<string lang="pt-br">Atualmente não há inimigos no mesmo passo de tempo que o proprietário</string>
 		<string lang="zh-tw">目前沒有與擁有者處在同一時間步的敵人
 </string>
-		<string lang="uk">На даний момент немає ворога на тому ж часовому кроці, що й власник</string>
+		<string lang="uk">На даний момент немає ворога на одному часовому кроці з власником</string>
 </set>
 <set id="module-properties-collector-in-backpack">
 		<string lang="de">Löst nicht aus dem Rucksack heraus aus</string>
@@ -277,7 +277,7 @@
 		<string lang="pt-br">Não é acionado quando armazenado na mochila</string>
 		<string lang="zh-tw">背包內無法觸發
 </string>
-		<string lang="uk">Не спрацьовує з рюкзака</string>
+		<string lang="uk">Не працює з рюкзака</string>
 </set>
 <set id="module-properties-description-amplification">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
@@ -291,7 +291,7 @@
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$ $energy$ ao atual</string>
 		<string lang="zh-tw">為輸入能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$
 </string>
-		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до вхідного струму</string>
+		<string lang="uk">Збільшує $energyicon$$b$Енергію$/b$ вхідного струму на $b$ $MODIFICATIONVALUE$ $/b$</string>
 </set>
 <set id="module-properties-description-reduction">
 		<string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
@@ -305,7 +305,7 @@
 		<string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$ $/b$$energy$ da corrente</string>
 		<string lang="zh-tw">從輸入能量流減去$b$$MODIFICATIONVALUE$$/b$$energy$
 </string>
-		<string lang="uk">Віднімає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ від вхідного струму</string>
+		<string lang="uk">Зменшує $energyicon$$b$Енергію$/b$ вхідного струму на $b$ $MODIFICATIONVALUE$ $/b$</string>
 </set>
 <set id="module-properties-discharge-endofturn">
 		<string lang="de">Sensoren verlieren alle $energy$$br$am Ende des Zuges des Charakters</string>
@@ -319,7 +319,7 @@
 		<string lang="pt-br">Sensores perdem toda a $energy$$br$no final do turno do proprietário</string>
 		<string lang="zh-tw">擁有者回合結束後，$br$感測器失去所有$energy$
 </string>
-		<string lang="uk">Сенсори втрачають усю $energy$ $br$наприкінці ходу власника</string>
+		<string lang="uk">Сенсори втрачають усю $energyicon$$b$Енергію$/b$ наприкінці ходу власника</string>
 </set>
 <set id="module-properties-discharge-endofturn-impending">
 		<string lang="de">Verliert $energy$ am Ende des Zuges</string>
@@ -333,7 +333,7 @@
 		<string lang="pt-br">Perderá $energy$ no final do turno</string>
 		<string lang="zh-tw">回合結束後失去所有$energy$
 </string>
-		<string lang="uk">Втратить $energy$ наприкінці ходу</string>
+		<string lang="uk">Втратить $energyicon$$b$Енергію$/b$ наприкінці ходу</string>
 </set>
 <set id="module-properties-modifier-not-wired-behind-sensor">
 		<string lang="de">Ist nicht direkt an ein $sensor$-Modul verkabelt</string>
@@ -431,7 +431,7 @@
 		<string lang="pt-br">Equipamento do Personagem</string>
 		<string lang="zh-tw">角色自帶
 </string>
-		<string lang="uk">Спорядження Персонажа</string>
+		<string lang="uk">Спорядження персонажа</string>
 </set>
 <set id="module-type-factory">
 		<string lang="de">Fabrik</string>
@@ -515,7 +515,7 @@
 		<string lang="pt-br">Melhorador de Módulo</string>
 		<string lang="zh-tw">模組增強器
 </string>
-		<string lang="uk">Модуль Поліпшувач</string>
+		<string lang="uk">Поліпшувач модуля</string>
 </set>
 <set id="module-type-output">
 		<string lang="de">Effektormodul</string>
@@ -529,7 +529,7 @@
 		<string lang="pt-br">Módulo de Efeito</string>
 		<string lang="zh-tw">效果模組
 </string>
-		<string lang="uk">Модуль Eфектора</string>
+		<string lang="uk">Модуль впливу</string>
 </set>
 <set id="module-type-passive">
 		<string lang="de">Passivmodul</string>
@@ -543,7 +543,7 @@
 		<string lang="pt-br">Módulo Passivo</string>
 		<string lang="zh-tw">被動模組
 </string>
-		<string lang="uk">Пасивний Модуль</string>
+		<string lang="uk">Пасивний модуль</string>
 </set>
 <set id="module-type-passthrough">
 		<string lang="de">Durchsatzmodul</string>
@@ -557,7 +557,7 @@
 		<string lang="pt-br">Módulo de Atravessar</string>
 		<string lang="zh-tw">中繼模組
 </string>
-		<string lang="uk">Пропускний Модуль</string>
+		<string lang="uk">Пропускний модуль</string>
 </set>
 <set id="module-type-sensor">
 		<string lang="de">Sensor</string>
@@ -585,7 +585,7 @@
 		<string lang="pt-br">Fonte de Energia</string>
 		<string lang="zh-tw">能量源
 </string>
-		<string lang="uk">Джерело Живлення</string>
+		<string lang="uk">Джерело живлення</string>
 </set>
 <set id="module-type-storage">
 		<string lang="de">Speichermodul</string>
@@ -599,7 +599,7 @@
 		<string lang="pt-br">Módulo de Armazenamento</string>
 		<string lang="zh-tw">儲存模組
 </string>
-		<string lang="uk">Модуль Зберігання</string>
+		<string lang="uk">Модуль зберігання</string>
 </set>
 <set id="module-type-threat">
 		<string lang="de">Bedrohung</string>
@@ -627,7 +627,7 @@
 		<string lang="pt-br">Módulo de Interruptor</string>
 		<string lang="zh-tw">模組已打開
 </string>
-		<string lang="uk">Модуль Перемикач</string>
+		<string lang="uk">Модуль з перемикачем</string>
 </set>
 <set id="module-type-vault">
 		<string lang="de">Depot</string>
@@ -669,7 +669,7 @@
 		<string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
 		<string lang="zh-tw">切換至模組運行期間啟動
 </string>
-		<string lang="uk">Запускається при подачі живлення шляхом перемикання</string>
+		<string lang="uk">Увімкни перемикач щоб активувати модуль під час роботи стійки</string>
 </set>
 <set id="toggled-module-on">
 		<string lang="de">Wird während der Spannungssequenz aktiviert</string>
@@ -683,6 +683,6 @@
 		<string lang="pt-br">Será ativado durante a sequência de disparo</string>
 		<string lang="zh-tw">即將在模組運行期間啟動
 </string>
-		<string lang="uk">Запускається при подачі живлення</string>
+		<string lang="uk">Буде активовано під час роботи стійки</string>
 </set>
 </localization>
