@@ -1,10 +1,12 @@
 <localization>
     <set id="name-status-modulegravpulse">
 		<string lang="en">Grav. Pulse</string>
-    </set>
+    		<string lang="uk">Грав. Пульс</string>
+</set>
     <set id="description-status-modulegravpulse">
         <string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-    </set>
+    		<string lang="uk">Активуйте цей хід, щоб видалити, інакше буде діяти $grav+2$ власнику після своєї черги</string>
+</set>
     <set id="name-status-modulestormrepeller">
             <string lang="de">Sturmabwehr</string>
             <string lang="en">Storm Repeller</string>
@@ -15,11 +17,13 @@
             <string lang="es">Repelente de Tormentas</string>
             <string lang="kr">폭풍 방어기</string>
             <string lang="pt-br">Repelente de Tempestades</string>
-    </set>
+    		<string lang="uk">Відлякувач Бурі</string>
+</set>
     <set id="description-status-modulestormrepeller">
         <string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
         <string lang="en">Activation pushes back the $storm$$br$by $4$ time steps</string>
-    </set>
+    		<string lang="uk">Активація відсуває $storm$ $br$на $4$ часові кроки</string>
+</set>
     <set id="name-status-taunt">
         <string lang="de">Spott</string>
         <string lang="en">Taunt</string>
@@ -30,5 +34,6 @@
         <string lang="es">Provocación</string>
         <string lang="kr">도발</string>
         <string lang="pt-br">Provocação</string>
-    </set>
+    		<string lang="uk">Кепкування</string>
+</set>
 </localization>

@@ -1,28 +1,20 @@
 <localization>
-<set id="description-campstructure-refinery">
-		<string lang="de">n/a</string>
-		<string lang="en">n/a</string>
-		<string lang="fr">n/a</string>
-		<string lang="zh">n/a</string>
-		<string lang="jp">n/a</string>
-		<string lang="ru">n/a</string>
-		<string lang="es">n/a</string>
-		<string lang="kr">n/a</string>
-		<string lang="pt-br">n/a</string>
-</set>
-<set id="name-campstructure-refinery">
-		<string lang="de">Raffinerie</string>
-		<string lang="en">Refinery</string>
-		<string lang="fr">Raffinerie</string>
-		<string lang="zh">精炼厂</string>
-		<string lang="jp">リファインリー</string>
-		<string lang="ru">Очистительный завод</string>
-		<string lang="es">Refinería</string>
-		<string lang="kr">정제소</string>
-		<string lang="pt-br">Refinaria</string>
+<set id="name-campstructure-gradarbeacon">
+		<string lang="de">Gradar Leuchtfeuer</string>
+		<string lang="en">Gradar Beacon</string>
+		<string lang="fr">Phare Gradar</string>
+		<string lang="zh">格拉达灯塔</string>
+		<string lang="jp">信号塔</string>
+		<string lang="ru">Грэдар-маяк</string>
+		<string lang="es">Baliza Gradar</string>
+		<string lang="kr">중력파 송신소</string>
+		<string lang="pt-br">Baliza Gradar</string>
+		<string lang="zh-tw">格拉達燈塔</string>
+		<string lang="uk">Градар Маяк</string>
 </set>
 <set id="description-campstructure-gradarbeacon">
 	<string lang="en">Get an additional module as an option for loot</string>
+		<string lang="uk">Дає додатковий модуль як опцію для здобичі</string>
 </set>
 <set id="quote-campstructure-gradarbeacon">
 	<string lang="de">Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
@@ -34,6 +26,7 @@
 	<string lang="es">Nuestro único medio para contactar con otros supervivientes</string>
 	<string lang="kr">다른 생존자들과 접촉할 유일한 수단</string>
 	<string lang="pt-br">Nosso único meio de entrar em contato com outros sobreviventes</string>
+		<string lang="uk">«Наш єдиний спосіб зв’язку з іншими вцілілими»</string>
 </set>
 <set id="name-campstructure-silo">
 		<string lang="de">Silo</string>
@@ -45,9 +38,6 @@
 		<string lang="es">Silo</string>
 		<string lang="kr">사일로</string>
 		<string lang="pt-br">Silo</string>
-</set>
-<set id="description-campstructure-laboratory">
-    <string lang="de">Der erste Reroll ist gratis</string>
-	<string lang="en">First Reroll is free</string>
+		<string lang="uk">Силос</string>
 </set>
 </localization>
