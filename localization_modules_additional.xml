@@ -51,8 +51,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se rompe un $crust$.</string>
 		<string lang="kr">$crust$가 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é quebrado.</string>
-		<string lang="zh-tw">每當有$crust$破損，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">每當有$crust$破損，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли руйнується $crust$.</string>
 </set>
 <set id="description-module-collectorgravneg">
@@ -65,9 +64,20 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $grav-$.</string>
 		<string lang="kr">플레이어 캐릭터에게 $grav-$가 부여될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
-		<string lang="zh-tw">每當己方角色被施加$grav-$，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">每當己方角色被施加$grav-$，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $grav-$ застосовується до гравця.</string>
+</set>
+<set id="description-module-collectormalfunction">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module receives $outoforder$ or $cooldown$.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
+        <string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль $outoforder$ или $cooldown$.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo está $outoforder$ o en $cooldown$.</string>
+        <string lang="kr">모듈이 $outoforder$ 또는 $cooldown$일 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo está $outoforder$ ou em $cooldown$.</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли модуль $outoforder$ або $cooldown$.</string>
 </set>
 <set id="description-module-collectormight">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
@@ -79,8 +89,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el $might$ de un combatiente se eleva.</string>
 		<string lang="kr">전투원이 지닌 $might$이 상승할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que o $might$ de um combatente é aumentado.</string>
-		<string lang="zh-tw">每當參戰單位的$might$得到提升，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">每當參戰單位的$might$得到提升，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли на учаснику бою підвищується $might$.</string>
 </set>
 <set id="description-module-collectorshield">
@@ -93,8 +102,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el $damage$ es reducido por un $shield$.</string>
 		<string lang="kr">$shield$에 의해 $damage$가 줄어들 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $damage$ é reduzido por $shield$.</string>
-		<string lang="zh-tw">每當$damage$被$shield$抵擋，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">每當$damage$被$shield$抵擋，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $shield$ зменшує $damage$.</string>
 </set>
 <set id="description-module-effectoracceleratorprecision">
@@ -457,8 +465,7 @@
 		<string lang="es">Los módulos con $cracked$ en este bastidor tienen una $b$50% de probabilidad$/b$ de no ser destruidos al activarse.</string>
 		<string lang="kr">$malfunctioning$나 $overload$ 상태인 이 랙의 모듈은 $b$50%의 확률$/b$로 활성화 시 망가지지 않습니다.</string>
 		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$50% de chance$/b$ de não serem destruídos quando ativados.</string>
-		<string lang="zh-tw">此模架上的$malfunctioning$與$overload$模組有$b$50%幾率$/b$啟動後不會失效。
-</string>
+		<string lang="zh-tw">此模架上的$malfunctioning$與$overload$模組有$b$50%幾率$/b$啟動後不會失效。</string>
 		<string lang="uk">Модулі з $malfunctioning$ або $overload$ на цій стійці мають $b$шанс 50%$/b$ не вимкнутись після активації.</string>
 </set>
 <set id="description-module-passivegravdissipator">
@@ -471,30 +478,33 @@
 		<string lang="es">Al comienzo del turno del propietario, elimina $grav+1$ de todos los personajes jugadores.</string>
 		<string lang="kr">소유자의 턴이 시작될 때, 모든 플레이어 캐릭터에게서 $grav+1$를 제거합니다.</string>
 		<string lang="pt-br">No início do turno do dono, remove $grav+1$ de todos os personagens jogadores.</string>
-		<string lang="zh-tw">擁有者回合開始時，移除所有己方角色的$grav+1$。
-</string>
+		<string lang="zh-tw">擁有者回合開始時，移除所有己方角色的$grav+1$。</string>
 		<string lang="uk">На початку ходу власника прибирає $grav+1$ з усіх гравців.</string>
 </set>
 <set id="description-module-passiveshockabsorber">
-		<string lang="de">Wenn ein Modul auf diesem Rack $outoforder$ erhalten sollte, wird stattdessen dieses Modul $outoforder$ erhalten.</string>
-		<string lang="en">If a module on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
-		<string lang="fr">Si un autre module sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
+		<string lang="de">Wenn ein Modul anderen Typs auf diesem Rack $outoforder$ erhalten sollte, erhält stattdessen dieses Modul $outoforder$.</string>
+		<string lang="en">Whenever a module of a different type on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
+		<string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
 		<string lang="zh">此模架上的其他模块$outoforder$时，改为由该模块代替其发生$outoforder$。</string>
 		<string lang="jp">このラックの別モジュールに$outoforder$付与されるなら、$br$代わりにこのモジュールに$outoforder$付与。</string>
 		<string lang="ru">Если другой модуль на этой стойке должен получить $outoforder$, этот модуль получает $outoforder$ вместо него.</string>
-		<string lang="es">Si otro módulo en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
+		<string lang="es">Si un módulo de un tipo diferente en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
 		<string lang="kr">이 랙의 다른 모듈에게 $outoforder$ 상태가 부여될 경우, 이 모듈이 대신 $outoforder$ 상태가 됩니다.</string>
-		<string lang="zh-tw">此模架上的其他模組$outoforder$時，改為由該模組代替其發生$outoforder$。
-</string>
+        <string lang="pt-br">Sempre que um módulo de um tipo diferente neste rack deveria receber $outoforder$, este módulo recebe $outoforder$ em vez disso.</string>
+		<string lang="zh-tw">此模架上的其他模組$outoforder$時，改為由該模組代替其發生$outoforder$。</string>
 		<string lang="uk">Якщо модуль на цій стійці має отримати $outoforder$, цей модуль отримує $outoforder$ замість нього.</string>
 </set>
 <set id="description-module-passiveshockredirector">
-		<string lang="en">If a module on this rack should receive $cooldown$, another target module on this rack receives $cooldown$ instead.</string>
-		<string lang="zh">此模架上的模块$cooldown$时，改为由另一目标模块代替其进入$cooldown$。</string>
+        <string lang="de">Wenn ein Modul unterschiedlichen Typs auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem Modul unterschiedlichen Typs deiner Wahl auf diesem Rack.</string>
+		<string lang="en">Whenever a module of a different type on this rack should receive $cooldown$, change the target to another module of a different type on this rack instead.</string>
+        <string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module d'un type différent sur ce rack à la place.</string>
+        <string lang="zh">此模架上的模块$cooldown$时，改为由另一目标模块代替其进入$cooldown$。</string>
 		<string lang="jp">このラックのモジュールに$cooldown$付与されるなら、$br$代わりに別の対象モジュールに$cooldown$付与。</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль другого типа на этой стойке вместо него.</string>
+        <string lang="es">Si un módulo de un tipo diferente en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo de un tipo diferente en este bastidor en su lugar.</string>
 		<string lang="kr">이 랙의 모듈에게 $cooldown$ 상태가 부여될 경우, 이 랙의 다른 대상 모듈이 대신 $cooldown$ 상태가 됩니다.</string>
-		<string lang="zh-tw">此模架上的模組$cooldown$時，改為由另一目標模組代替其進入$cooldown$。
-</string>
+        <string lang="pt-br">Sempre que um módulo de um tipo diferente neste rack deveria receber $cooldown$, mude o alvo para outro módulo de um tipo diferente neste rack em vez disso.</string>
+		<string lang="zh-tw">此模架上的模組$cooldown$時，改為由另一目標模組代替其進入$cooldown$。</string>
 		<string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, інший вказаний модуль на цій стійці отримує $cooldown$ замість нього.</string>
 </set>
 <set id="description-module-passivestorageinductor">
@@ -507,8 +517,7 @@
 		<string lang="es">Al comienzo del turno del propietario, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
 		<string lang="kr">턴 시작 시, 해당 랙의 무작위 $storagemodule$에 $1energy$가 충전됩니다.</string>
 		<string lang="pt-br">No início do turno do dono, carrega um $storagemodule$ aleatório sem $cracked$ neste rack com $1energy$.</string>
-		<string lang="zh-tw">回合開始時，隨機為此模架上一非$cracked$模組充能$1energy$。
-</string>
+		<string lang="zh-tw">回合開始時，隨機為此模架上一非$cracked$模組充能$1energy$。</string>
 		<string lang="uk">На початку ходу власника заряджає випадковий не-$cracked$ $storagemodule$ на цій стійці на $1energy$.</string>
 </set>
 <set id="description-module-passivestormlantern">
@@ -521,8 +530,7 @@
 		<string lang="es">La $storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae la $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
 		<string lang="kr">$storm$은 적에게도 몰아칠 것입니다.$p$소유자의 턴 시작 시, $storm$을 최대 $3$ 시간 단계까지 유도합니다(최소 $b$+1$/b$의 거리까지).</string>
 		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno do dono, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
-		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。
-</string>
+		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
 		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника наближає $storm$ на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
 </set>
 <set id="description-module-plasmadischarger">
@@ -535,8 +543,7 @@
 		<string lang="es">Usa todo el $plasma$ para generar esa cantidad de $energy$.</string>
 		<string lang="kr">모든 $plasma$를 소모해 그와 동일한 $energy$를 생산합니다.</string>
 		<string lang="pt-br">Usa todo o $plasma$ para gerar essa quantidade de $energy$.</string>
-		<string lang="zh-tw">耗盡所有$plasma$，產出等量的$energy$。
-</string>
+		<string lang="zh-tw">耗盡所有$plasma$，產出等量的$energy$。</string>
 		<string lang="uk">Витрачає всю $plasmaicon$$b$Плазму$/b$ для генерації такої самої кількості $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-storagecellausterity">
@@ -829,8 +836,7 @@
 		<string lang="es">Bobina $MODIFICATIONVALUE$</string>
 		<string lang="kr">코일 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Bobina $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">線圈$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">線圈$MODIFICATIONVALUE$</string>
 		<string lang="uk">Котушка $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorcollector">
@@ -843,8 +849,7 @@
 		<string lang="es">Sensor de Sensores</string>
 		<string lang="kr">감지기 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor Sensor</string>
-		<string lang="zh-tw">傳感感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">傳感感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор сенсорів</string>
 </set>
 <set id="name-module-collectorcrust">
@@ -857,8 +862,7 @@
 		<string lang="es">Sensor de Corteza $MODIFICATIONVALUE$</string>
 		<string lang="kr">크러스트 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Crosta $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">晶殼感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">晶殼感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор кристалізації $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorgravneg">
@@ -871,9 +875,20 @@
 		<string lang="es">Sensor Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
 		<string lang="kr">중력 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">引力感測器$grav-icon$ $MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">引力感測器$grav-icon$ $MODIFICATIONVALUE$</string>
 		<string lang="uk">Гравіенсор $grav-icon$ $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectormalfunction">
+        <string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
+        <string lang="en">Malfunction Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Capteur de Panne $MODIFICATIONVALUE$</string>
+        <string lang="zh">故障感应器 $MODIFICATIONVALUE$</string>
+        <string lang="jp">故障センサー $MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Поломки $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Malfunción $MODIFICATIONVALUE$</string>
+        <string lang="kr">고장 센서 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Malfuncionamento $MODIFICATIONVALUE$</string>
+        <string lang="uk">Датчик Несправності $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectormight">
 		<string lang="de">Macht-Sensor $MODIFICATIONVALUE$</string>
