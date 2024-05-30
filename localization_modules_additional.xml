@@ -494,7 +494,7 @@
 		<string lang="zh-tw">此模架上的其他模組$outoforder$時，改為由該模組代替其發生$outoforder$。</string>
 		<string lang="uk">Якщо модуль на цій стійці має отримати $outoforder$, цей модуль отримує $outoforder$ замість нього.</string>
 </set>
-<set id="description-module-passiveshockredirector">
+<set id="description-module-passivecooldownredirector">
         <string lang="de">Wenn ein Modul unterschiedlichen Typs auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem Modul unterschiedlichen Typs deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Whenever a module of a different type on this rack should receive $cooldown$, change the target to another module of a different type on this rack instead.</string>
         <string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module d'un type différent sur ce rack à la place.</string>
@@ -1292,8 +1292,7 @@
 		<string lang="es">Disipador Grav.</string>
 		<string lang="kr">중력 소멸기</string>
 		<string lang="pt-br">Dissipador Grav.</string>
-		<string lang="zh-tw">引力耗散器
-</string>
+		<string lang="zh-tw">引力耗散器</string>
 		<string lang="uk">Гравірозсіювач</string>
 </set>
 <set id="name-module-passiveshockabsorber">
@@ -1306,15 +1305,17 @@
 		<string lang="es">Amortiguador de Choque</string>
 		<string lang="kr">충격 흡수기</string>
 		<string lang="pt-br">Absorvedor de Choque</string>
-		<string lang="zh-tw">衝擊吸收器
-</string>
+		<string lang="zh-tw">衝擊吸收器</string>
 		<string lang="uk">Амортизатор</string>
 </set>
-<set id="name-module-passiveshockredirector">
-		<string lang="de">Schock-Umlenker</string>
-		<string lang="en">Shock Redirector</string>
+<set id="name-module-passivecooldownredirector">
+		<string lang="de">Cooldown-Umlenker</string>
+		<string lang="en">Cooldown Redirector</string>
+        <string lang="fr">Redirection de Refroidissement</string>
 		<string lang="zh">冲击转向器</string>
 		<string lang="jp">転衝器</string>
+        <string lang="ru">Перенаправник охлаждения</string>
+        <string lang="es">Redireccionador de Enfriamiento</string>
 		<string lang="kr">충격 재지향기</string>
 		<string lang="zh-tw">衝擊轉向器</string>
 		<string lang="uk">Перенаправник удару</string>
@@ -1329,8 +1330,7 @@
 		<string lang="es">Inductor de Almacenamiento</string>
 		<string lang="kr">축전 유도기</string>
 		<string lang="pt-br">Indutor de Armazenamento</string>
-		<string lang="zh-tw">儲存扼流器
-</string>
+		<string lang="zh-tw">儲存扼流器</string>
 		<string lang="uk">Індуктор зберігання</string>
 </set>
 <set id="name-module-passivestormlantern">
