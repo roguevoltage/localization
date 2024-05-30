@@ -379,23 +379,21 @@
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。
-</string>
+		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。</string>
 		<string lang="uk">Створює універсальне $b$Цілюще Зілля$/b$ з $cracked$.</string>
 </set>
 <set id="description-module-factorystoragecell">
-		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ her.</string>
-		<string lang="en">Constructs a universal $b$Storage Cell$/b$ with $cracked$.</string>
-		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$储存单元$/b$。</string>
-		<string lang="jp">$cracked$付与された汎用端子の$br$$b$充電池$/b$製造。</string>
-		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$.</string>
-		<string lang="es">Construye una $b$Celda de Almacenamiento$/b$ universal$br$con $cracked$.</string>
-		<string lang="kr">$cracked$ 상태의 범용 $b$축전지$/b$를 조립합니다.</string>
-		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$。
-</string>
-		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$.</string>
+		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Storage Cell$/b$ with $cracked$ and $cooldown$.</string>
+		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$ et $cooldown$.</string>
+		<string lang="zh">制造一个$cracked$破损的通用$b$储存单元$/b$，并带有$cooldown$。</string>
+        <string lang="jp">$cracked$と$cooldown$が付与された汎用$br$$b$貯蔵セル$/b$製造。</string>
+		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$ и $cooldown$.</string>
+		<string lang="es">Construye una $b$Celda de Almacenamiento$/b$ universal$br$con $cracked$ y $cooldown$.</string>
+		<string lang="kr">$cracked$ 상태와 $cooldown$가 있는 범용 $b$저장 셀$/b$을 조립합니다.</string>
+		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$ e $cooldown$.</string>
+		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$，並帶有$cooldown$。</string>
+		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$ та $cooldown$.</string>
 </set>
 <set id="description-module-generator">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
