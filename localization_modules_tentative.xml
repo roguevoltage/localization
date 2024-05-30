@@ -149,6 +149,21 @@
 		<string lang="pt-br">Batata Quente</string>
 		<string lang="uk">Гаряча Картопля</string>
 </set>
+<set id="name-module-passivetoyhammer">
+		<string lang="en">Toy Hammer</string>
+</set>
+<set id="name-module-passivewindupgorf">
+		<string lang="en">Wind-Up Gorf</string>
+</set>
+<set id="name-module-passivewindupdino">
+		<string lang="en">Wind-Up Dino</string>
+</set>
+<set id="name-module-passivewindupmech">
+		<string lang="en">Wind-Up Mech</string>
+</set>
+<set id="name-module-passivewindupshroom">
+		<string lang="en">Wind-Up Shroom</string>
+</set>
 <set id="description-module-hotpotato">
 		<string lang="en">At the beginning of the owner's turn, inflict them with $grav+2$.$p$At the end of the owner's turn deals $1damage$ to them.</string>
 		<string lang="uk">На початку ходу власника завдайте $grav+2$.$p$В кінці ходу власника роздає $1damage$.</string>
@@ -296,5 +311,20 @@
         <string lang="kr">현재 값에서 $b$$MODIFICATIONVALUE$$/b$ $energy$를 뺍니다.</string>
         <string lang="pt-br">Subtrai $b$$MODIFICATIONVALUE$$/b$ $energy$ de um atual.</string>
 		<string lang="uk">Віднімає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ від струму.</string>
+</set>
+<set id="description-module-passivetoyhammer">
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
+</set>
+<set id="description-module-passivewindupgorf">
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $1healing$ to the owner.</string>
+</set>
+<set id="description-module-passivewindupdino">
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav-1$ to the other character.</string>
+</set>
+<set id="description-module-passivewindupmech">
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to create $1plasma$.</string>
+</set>
+<set id="description-module-passivewindupshroom">
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
 </set>
 </localization>
