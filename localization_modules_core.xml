@@ -9,8 +9,7 @@
 		<string lang="es">Puede ser cargado o descargado.</string>
 		<string lang="kr">충전하거나 방전시킬 수 있습니다.</string>
 		<string lang="pt-br">Pode ser carregado ou descarregado.</string>
-		<string lang="zh-tw">可充放能量。
-</string>
+		<string lang="zh-tw">可充放能量。</string>
 		<string lang="uk">Можна заряджати або розряджати.</string>
 </set>
 <set id="description-module-amplifier">
@@ -23,8 +22,7 @@
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
 		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
 <set id="description-module-collectoraccumulation">
@@ -37,8 +35,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
 		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
-		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли заряджається $storagemodule$.</string>
 </set>
 <set id="description-module-collectorchrono">
@@ -51,8 +48,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el orden de turno es cambiado.</string>
 		<string lang="kr">턴 순서가 변경될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que a ordem de turno é alterada.</string>
-		<string lang="zh-tw">輪次發生改變時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">輪次發生改變時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли змінюється порядок ходів.</string>
 </set>
 <set id="description-module-collectorfracture">
@@ -65,8 +61,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que otro módulo es destruido.</string>
 		<string lang="kr">다른 모듈이 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro módulo é destruído.</string>
-		<string lang="zh-tw">任意模組被銷毀時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">任意模組被銷毀時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли знищується інший модуль.</string>
 </set>
 <set id="description-module-collectorgravpos">
@@ -79,8 +74,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $grav+$ es aplicado a un personaje jugador.</string>
 		<string lang="kr">플레이어 캐릭터에게 $grav+$가 적용될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav+$ é aplicado a um personagem jogador.</string>
-		<string lang="zh-tw">有角色受到$grav+$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">有角色受到$grav+$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $grav+$ застосовується до персонажу гравця.</string>
 </set>
 <set id="description-module-collectorhealing">
@@ -93,8 +87,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
 		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
-		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли персонаж гравця отримує $healing$.</string>
 </set>
 <set id="description-module-collectorkill">
@@ -107,8 +100,7 @@
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un combatiente muere.</string>
 		<string lang="kr">전투원이 죽을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um combatente morre.</string>
-		<string lang="zh-tw">有參戰單位死亡時，$br$產出$b$$SENSORVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">有參戰單位死亡時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли хтось гине.</string>
 </set>
 <set id="description-module-collectormodulecreation">
@@ -387,23 +379,21 @@
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。
-</string>
+		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。</string>
 		<string lang="uk">Створює універсальне $b$Цілюще Зілля$/b$ з $cracked$.</string>
 </set>
 <set id="description-module-factorystoragecell">
-		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ her.</string>
-		<string lang="en">Constructs a universal $b$Storage Cell$/b$ with $cracked$.</string>
-		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$储存单元$/b$。</string>
-		<string lang="jp">$cracked$付与された汎用端子の$br$$b$充電池$/b$製造。</string>
-		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$.</string>
-		<string lang="es">Construye una $b$Celda de Almacenamiento$/b$ universal$br$con $cracked$.</string>
-		<string lang="kr">$cracked$ 상태의 범용 $b$축전지$/b$를 조립합니다.</string>
-		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$。
-</string>
-		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$.</string>
+		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Storage Cell$/b$ with $cracked$ and $cooldown$.</string>
+		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$ et $cooldown$.</string>
+		<string lang="zh">制造一个$cracked$破损的通用$b$储存单元$/b$，并带有$cooldown$。</string>
+        <string lang="jp">$cracked$と$cooldown$が付与された汎用$br$$b$貯蔵セル$/b$製造。</string>
+		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$ и $cooldown$.</string>
+		<string lang="es">Construye una $b$Celda de Almacenamiento$/b$ universal$br$con $cracked$ y $cooldown$.</string>
+		<string lang="kr">$cracked$ 상태와 $cooldown$가 있는 범용 $b$저장 셀$/b$을 조립합니다.</string>
+		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$ e $cooldown$.</string>
+		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$，並帶有$cooldown$。</string>
+		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$ та $cooldown$.</string>
 </set>
 <set id="description-module-generator">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -819,8 +809,7 @@
 		<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자가 $damage$를 입을 때마다, 저장된 $energy$를 $1$ 제거해 피해량을 $1$ 감소시킵니다.</string>
 		<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
-		<string lang="zh-tw">可充能。$p$擁有者受到$damage$時，消耗$1$儲存$energy$，減少擁有者$1$所受傷害。
-</string>
+		<string lang="zh-tw">可充能。$p$擁有者受到$damage$時，消耗$1$儲存$energy$，減少擁有者$1$所受傷害。</string>
 		<string lang="uk">Можна заряджати.$p$Коли власник отримує $damage$, витрачає $1$ збережену $energyicon$$b$Енергію$/b$ і зменшує це пошкодження на $1$.</string>
 </set>
 <set id="name-module-accumulator">
@@ -833,8 +822,7 @@
 		<string lang="es">Acumulador</string>
 		<string lang="kr">축압기</string>
 		<string lang="pt-br">Acumulador</string>
-		<string lang="zh-tw">蓄電池
-</string>
+		<string lang="zh-tw">蓄電池</string>
 		<string lang="uk">Акумулятор</string>
 </set>
 <set id="name-module-amplifier">
@@ -847,23 +835,21 @@
 		<string lang="es">Amplificador $MODIFICATIONVALUE$</string>
 		<string lang="kr">증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">增幅器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">增幅器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectoraccumulation">
-		<string lang="de">Akku-Sensor $MODIFICATIONVALUE$</string>
-		<string lang="en">Accumulation Sensor $MODIFICATIONVALUE$</string>
-		<string lang="fr">Capteur Accumulation $MODIFICATIONVALUE$</string>
+		<string lang="de">Speicher-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Storage Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur de Stockage $MODIFICATIONVALUE$</string>
 		<string lang="zh">储能传感器$MODIFICATIONVALUE$</string>
 		<string lang="jp">蓄電センサー$MODIFICATIONVALUE$</string>
 		<string lang="ru">Датчик Накопления $MODIFICATIONVALUE$</string>
-		<string lang="es">Sensor de Acumulación $MODIFICATIONVALUE$</string>
+		<string lang="es">Sensor de Almacenamiento $MODIFICATIONVALUE$</string>
 		<string lang="kr">누적 감지기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Sensor de Acumulação $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">儲能感測器$MODIFICATIONVALUE$
-</string>
-		<string lang="uk">Сенсор накопичення $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Sensor de Armazenamento $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">儲能感測器$MODIFICATIONVALUE$</string>
+		<string lang="uk">Сенсор Накопичення $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorchrono">
 		<string lang="de">Chrono-Sensor $MODIFICATIONVALUE$</string>
@@ -889,8 +875,7 @@
 		<string lang="es">Sensor de Fractura $MODIFICATIONVALUE$</string>
 		<string lang="kr">균열 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Fratura $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">銷毀感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">銷毀感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор руйнування $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorgravpos">
@@ -903,8 +888,7 @@
 		<string lang="es">Sensor Grav. $grav+icon$ $MODIFICATIONVALUE$</string>
 		<string lang="kr">중력 감지기 $grav+icon$ $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor Grav. $grav+icon$ $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">引力感測器$grav+icon$ $MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">引力感測器$grav+icon$ $MODIFICATIONVALUE$</string>
 		<string lang="uk">Гравісенсор $grav+icon$ $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorhealing">
@@ -917,8 +901,7 @@
 		<string lang="es">Sensor de Curación $MODIFICATIONVALUE$</string>
 		<string lang="kr">치유 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Cura $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">治療感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">治療感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор лікування $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorkill">
@@ -931,8 +914,7 @@
 		<string lang="es">Sensor de Almas $MODIFICATIONVALUE$</string>
 		<string lang="kr">영혼 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Almas $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">靈魂感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">靈魂感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор душі $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectormodulecreation">
@@ -945,8 +927,7 @@
 		<string lang="es">Sensor de Fábrica $MODIFICATIONVALUE$</string>
 		<string lang="kr">공장 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Fábrica $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">製造感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">製造感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор створення $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorplasma">
@@ -959,8 +940,7 @@
 		<string lang="es">Sensor de Plasma $MODIFICATIONVALUE$</string>
 		<string lang="kr">플라즈마 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Plasma $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">等離子感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">等離子感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор плазми $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectortrauma">
@@ -973,8 +953,7 @@
 		<string lang="es">Sensor de Trauma $MODIFICATIONVALUE$</string>
 		<string lang="kr">트라우마 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Trauma $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">創傷感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">創傷感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор травми $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-condensator">
@@ -987,8 +966,7 @@
 		<string lang="es">Condensador $MODIFICATIONVALUE$</string>
 		<string lang="kr">응축기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Condensador $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">冷凝器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">冷凝器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Конденсатор $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-defibrillator">
@@ -1001,8 +979,7 @@
 		<string lang="es">Desfibrilador</string>
 		<string lang="kr">제세동기</string>
 		<string lang="pt-br">Desfibrilador</string>
-		<string lang="zh-tw">起搏器
-</string>
+		<string lang="zh-tw">起搏器</string>
 		<string lang="uk">Дефібрилятор</string>
 </set>
 <set id="name-module-distributor">
@@ -1015,8 +992,7 @@
 		<string lang="es">Distribuidor $MODIFICATIONVALUE$</string>
 		<string lang="kr">배전기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Distribuidor $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">分配器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">分配器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Розподілювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectoraccelerator">
@@ -1029,8 +1005,7 @@
 		<string lang="es">Acelerador $MODIFICATIONVALUE$</string>
 		<string lang="kr">가속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Acelerador $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">加速器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">加速器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Прискорювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorblade">
@@ -1043,8 +1018,7 @@
 		<string lang="es">Módulo de Cuchilla $MODIFICATIONVALUE$</string>
 		<string lang="kr">칼날 모듈 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Módulo de Lâmina $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">長劍模組$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">長劍模組$MODIFICATIONVALUE$</string>
 		<string lang="uk">Модуль-лезо $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorblaster">
@@ -1057,8 +1031,7 @@
 		<string lang="es">Blaster $MODIFICATIONVALUE$</string>
 		<string lang="kr">블래스터 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Blaster $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">爆能槍$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">爆能槍$MODIFICATIONVALUE$</string>
 		<string lang="uk">Бластер $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordecelerator">
@@ -1071,8 +1044,7 @@
 		<string lang="es">Decelerador $MODIFICATIONVALUE$</string>
 		<string lang="kr">감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">減速器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">減速器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сповільнювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratorgatling">
@@ -1085,8 +1057,7 @@
 		<string lang="es">Decelerador Gatling $MODIFICATIONVALUE$</string>
 		<string lang="kr">개틀링 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador Gatling $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">加特林減速器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">加特林減速器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сповільнювач Гатлінга $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectordeceleratormelee">
@@ -1099,8 +1070,7 @@
 		<string lang="es">Decelerador de Melé $MODIFICATIONVALUE$</string>
 		<string lang="kr">근접 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador Corpo a Corpo $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">群體減速器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">群體減速器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сповільнювач ближнього бою $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorgatlinggun">

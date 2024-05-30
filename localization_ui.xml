@@ -1604,8 +1604,7 @@
 		<string lang="es">Kit de prensa y creadores</string>
 		<string lang="kr">컨텐츠 제작자 및 프레스킷</string>
 		<string lang="pt-br">Kit de Imprensa e Criadores</string>
-		<string lang="zh-tw">內容創作者和Presskit
-</string>
+		<string lang="zh-tw">內容創作者和Presskit</string>
 		<string lang="uk">Контент для творців та прес-кит</string>
 </set>
 <set id="ui-progress">
@@ -1621,14 +1620,39 @@
 		<string lang="zh-tw">進度：</string>
 		<string lang="uk">Прогрес:</string>
 </set>
+<set id="ui-query-shockabsorber">
+        <string lang="de">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; wird $outoforder$ erhalten.$p$$b$Stoßdämpfer$/b$ aktivieren?</string>
+		<string lang="en">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; is about to receive $outoforder$.$p$Activate $b$Shock Absorber$/b$?</string>
+        <string lang="fr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; est sur le point de recevoir $outoforder$.$p$Activer $b$Absorbeur de Choc$/b$?</string>
+        <string lang="zh">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即将受到 $outoforder$.$p$激活 $b$减震器$/b$？</string>
+        <string lang="jp">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; は $outoforder$ を受ける予定です。$p$ $b$ショックアブソーバー$/b$ を起動しますか？</string>
+        <string lang="ru">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; собирается получить $outoforder$.$p$Активировать $b$Амортизатор удара$/b$?</string>
+        <string lang="es">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está a punto de recibir $outoforder$.$p$¿Activar $b$Absorbedor de Choque$/b$?</string>
+        <string lang="kr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;이 $outoforder$를 받게 됩니다.$p$ $b$충격 흡수기$/b$를 활성화하시겠습니까?</string>
+        <string lang="pt-br">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está prestes a receber $outoforder$.$p$Ativar $b$Absorvedor de Choque$/b$?</string>
+        <string lang="zh-tw">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即將受到 $outoforder$.$p$激活 $b$減震器$/b$？</string>
+        <string lang="uk">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; збирається отримати $outoforder$.$p$Активувати $b$Амортизатор удару$/b$?</string>
+</set>
+<set id="ui-query-cooldownredirector">
+        <string lang="de">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; wird $cooldown$ erhalten.$p$$b$Schock-Umlenker$/b$ aktivieren?</string>
+		<string lang="en">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; is about to receive $cooldown$.$p$Activate $b$Shock Redirector$/b$?</string>
+        <string lang="fr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; est sur le point de recevoir $cooldown$.$p$Activer $b$Redirection de Choc$/b$?</string>
+        <string lang="zh">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即将受到 $cooldown$.$p$激活 $b$冲击重定向器$/b$？</string>
+        <string lang="jp">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; は $cooldown$ を受ける予定です。$p$ $b$ショックリダイレクター$/b$ を起動しますか？</string>
+        <string lang="ru">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; собирается получить $cooldown$.$p$Активировать $b$Перенаправитель удара$/b$?</string>
+        <string lang="es">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está a punto de recibir $cooldown$.$p$¿Activar $b$Redireccionador de Choque$/b$?</string>
+        <string lang="kr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;이 $cooldown$를 받게 됩니다.$p$ $b$충격 리디렉터$/b$를 활성화하시겠습니까?</string>
+        <string lang="pt-br">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está prestes a receber $cooldown$.$p$Ativar $b$Redirecionador de Choque$/b$?</string>
+        <string lang="zh-tw">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即將受到 $cooldown$.$p$激活 $b$衝擊重定向器$/b$？</string>
+        <string lang="uk">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; збирається отримати $cooldown$.$p$Активувати $b$Перенаправник удару$/b$?</string>
+</set>
 <set id="ui-query-activate-module">
 		<string lang="de">Modul Aktivieren?</string>
 		<string lang="en">Activate Module?</string>
 		<string lang="zh">激活模块吗？</string>
 		<string lang="jp">モジュール起動？</string>
 		<string lang="kr">모듈을 발동할까요?</string>
-		<string lang="zh-tw">啟動模組嗎？
-</string>
+		<string lang="zh-tw">啟動模組嗎？</string>
 		<string lang="uk">Активувати Модуль?</string>
 </set>
 <set id="ui-quit">
@@ -1641,8 +1665,7 @@
 		<string lang="es">Salir</string>
 		<string lang="kr">나가기</string>
 		<string lang="pt-br">Sair</string>
-		<string lang="zh-tw">退出
-</string>
+		<string lang="zh-tw">退出</string>
 		<string lang="uk">Вийти</string>
 </set>
 <set id="ui-rack">
@@ -2159,4 +2182,16 @@
 </string>
 		<string lang="uk">Розблокувати Прогрес</string>
 </set>
+
+  <set id="color-picker">
+    <string lang="de">Wähle eine Farbe</string>
+    <string lang="en">Pick a Color</string>
+    <string lang="fr">Choisissez une couleur</string>
+    <string lang="zh">选择颜色</string>
+    <string lang="jp">色を選択</string>
+    <string lang="ru">Выберите цвет</string>
+    <string lang="es">Elige un color</string>
+    <string lang="kr">색상 선택</string>
+    <string lang="pt-br">Escolha uma cor</string>
+  </set>
 </localization>
