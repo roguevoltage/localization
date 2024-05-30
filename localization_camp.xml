@@ -35,6 +35,7 @@
         <string lang="es">Recolorea conectores de un módulo a universal entre visitas al campamento.</string>
 		<string lang="kr">야영지 방문당 한 번씩 잭의 모듈 중 하나를 범용으로 다시 칠합니다</string>
 		<string lang="zh-tw">每拜訪一次營地，隨機令一個模組的介面改為通用介面</string>
+        <string lang="pt-br">Recolore os conectores de um módulo para universal entre visitas ao acampamento.</string>
 		<string lang="uk">Перефарбовує роз'єми одного модуля в універсальні між відвідинами табору.</string>
 </set>
 <set id="description-campstructure-powerplant">
@@ -47,6 +48,7 @@
         <string lang="es">Carga un $storagemodule$ entre visitas al campamento.</string>
 		<string lang="kr">야영지 방문 사이에 $storagemodule$을 충전합니다</string>
 		<string lang="zh-tw">切換營地時為任一$storagemodule$充能。</string>
+        <string lang="pt-br">Carrega um $storagemodule$ entre visitas ao acampamento.</string>
 		<string lang="uk">Заряджає $storagemodule$ між відвідинами табору.</string>
 </set>
 <set id="description-campstructure-refinery">
@@ -58,7 +60,8 @@
         <string lang="ru">Дает $upgrade$ $passthroughmodule$ между посещениями лагеря.</string>
         <string lang="es">Da una $upgrade$ a un $passthroughmodule$ entre visitas al campamento.</string>
 		<string lang="kr">야영지 방문 사이에 $passthroughmodule$ $upgrade$을 제공합니다.</string>
-		<string lang="zh-tw">切換營地時任一$passthroughmodule$獲得$upgrade$。</string>
+		<string lang="pt-br">Dá um $upgrade$ a um $passthroughmodule$ entre visitas ao acampamento.</string>
+        <string lang="zh-tw">切換營地時任一$passthroughmodule$獲得$upgrade$。</string>        
 		<string lang="uk">Дає $passthroughmodule$ $upgrade$ між відвідинами табору.</string>
 </set>
 <set id="description-campstructure-refinery-2">
@@ -71,7 +74,7 @@
 		<string lang="es">Solo admite una $upgrade$.</string>
 		<string lang="kr">$passthroughmodule$은 한번만 $upgrade$될 수 있습니다.</string>
 		<string lang="pt-br">$passthroughmodule$s só podem ter um $upgrade$.</string>
-		<string lang="zh-tw">每個$passthroughmodule$僅可擁有一個$br$$upgrade$。</string>
+        <string lang="zh-tw">每個$passthroughmodule$僅可擁有一個$br$$upgrade$。</string>        
 		<string lang="uk">$passthrough$ модулі можуть мати лише один $upgrade$.</string>
 </set>
 <set id="description-campstructure-scrapyard">
@@ -109,7 +112,8 @@
         <string lang="ru">Ваш первый повторный лут безкоштовний</string>
         <string lang="es">Tu primer reroll de botín es gratis</string>
 		<string lang="kr">첫 번째 새로고침이 무료입니다</string>
-		<string lang="zh-tw">首次重骰不耗費點數</string>
+		<string lang="pt-br">Seu primeiro reroll de saque é gratuito</string>
+        <string lang="zh-tw">首次重骰不耗費點數</string>        
 		<string lang="uk">Перше оновлення здобичі безкоштовне</string>
 </set>
 <set id="description-campstructure-timevault">
