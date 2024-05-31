@@ -51,6 +51,19 @@
         <string lang="pt-br">Carrega um $storagemodule$ entre visitas ao acampamento.</string>
 		<string lang="uk">Заряджає $storagemodule$ між відвідинами табору.</string>
 </set>
+<set id="description-campstructure-powerplant-2">
+        <string lang="de">Lass ein $storagemodule$ hier und es wird bei deinem nächsten Camp-Besuch um $2energy$ aufgeladen.</string>
+		<string lang="en">Leave a $storagemodule$ here and it will be charged by $2energy$$br$at your next camp visit.</string>
+        <string lang="fr">Laissez un $storagemodule$ ici pour le charger de $2energy$ à votre prochaine visite de camp</string>
+		<string lang="zh">切换营地时为任一$storagemodule$充能。</string>
+		<string lang="jp">野営地訪問中に$br$$storagemodule$充電</string>
+        <string lang="ru">Заряжает $storagemodule$ между посещениями лагеря.</string>
+        <string lang="es">Carga un $storagemodule$ entre visitas al campamento.</string>
+		<string lang="kr">야영지 방문 사이에 $storagemodule$을 충전합니다</string>
+		<string lang="zh-tw">切換營地時為任一$storagemodule$充能。</string>
+        <string lang="pt-br">Carrega um $storagemodule$ entre visitas ao acampamento.</string>
+		<string lang="uk">Заряджає $storagemodule$ між відвідинами табору.</string>
+</set>
 <set id="description-campstructure-refinery">
         <string lang="de">Verleiht einem $passthroughmodule$ $upgrade$ zwischen Camp-Besuchen.</string>
 		<string lang="en">Gives a $passthroughmodule$ $upgrade$ between camp visits.</string>
@@ -65,6 +78,19 @@
 		<string lang="uk">Дає $passthroughmodule$ $upgrade$ між відвідинами табору.</string>
 </set>
 <set id="description-campstructure-refinery-2">
+        <string lang="de">Lass ein $passthroughmodule$ hier und es erhält bei deinem nächsten Camp-Besuch $upgrade$.</string>
+		<string lang="en">Leave a $passthroughmodule$ here and it will receive $upgrade$$br$at your next camp visit.</string>
+        <string lang="fr">Donne un $upgrade$ à un $passthroughmodule$ entre les visites de camp.</string>
+		<string lang="zh">切换营地时任一$passthroughmodule$获得$upgrade$。</string>
+		<string lang="jp">野営地訪問中に$br$$passthroughmodule$へ$upgrade$付与</string>
+        <string lang="ru">Дает $upgrade$ $passthroughmodule$ между посещениями лагеря.</string>
+        <string lang="es">Da una $upgrade$ a un $passthroughmodule$ entre visitas al campamento.</string>
+		<string lang="kr">야영지 방문 사이에 $passthroughmodule$ $upgrade$을 제공합니다.</string>
+		<string lang="pt-br">Dá um $upgrade$ a um $passthroughmodule$ entre visitas ao acampamento.</string>
+        <string lang="zh-tw">切換營地時任一$passthroughmodule$獲得$upgrade$。</string>        
+		<string lang="uk">Дає $passthroughmodule$ $upgrade$ між відвідинами табору.</string>
+</set>
+<set id="description-campstructure-refinery-3">
 		<string lang="de">$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
 		<string lang="en">$passthrough$ modules can only have one $upgrade$.</string>
 		<string lang="fr">Modules $passthrough$ ne peuvent avoir qu'une seule $upgrade$.</string>
