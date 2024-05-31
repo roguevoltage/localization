@@ -23,8 +23,7 @@
 		<string lang="es">No puede ser tomado del bastidor$br$mientras contiene $energy$</string>
 		<string lang="kr">$energy$를 보유한 동안 랙에 고정됨</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto segurando $energy$</string>
-		<string lang="zh-tw">存有$energy$時無法取下
-</string>
+		<string lang="zh-tw">存有$energy$時無法取下</string>
 		<string lang="uk">Заблоковано на стійці під час утримання $energy$</string>
 </set>
 <set id="description-status-modulelock-wiredtoviral">
@@ -37,9 +36,21 @@
 		<string lang="es">No puede ser tomado del bastidor$br$mientras está conectado a un módulo de amenaza</string>
 		<string lang="kr">위협 모듈과 연결되어 있는 동안에는 랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto conectado a um módulo de ameaça</string>
-		<string lang="zh-tw">與威脅模組相連時$br$無法取下
-</string>
+		<string lang="zh-tw">與威脅模組相連時$br$無法取下</string>
 		<string lang="uk">Не можна взяти зі стійки$br$під час підключення до модуля загрози</string>
+</set>
+<set id="description-status-modulelock-fire">
+		<string lang="de">Ans Rack geschlossen, während es $fire$ hat</string>
+		<string lang="en">Locked to rack while on $fire$</string>
+		<string lang="fr">Verrouillé au rack en étant en $fire$</string>
+		<string lang="zh">在$fire$状态下无法取下</string>
+        <string lang="jp">$fire$中はラック固定</string>
+        <string lang="ru">Закрыт на стойке$br$пока горит $fire$</string>
+        <string lang="es">Bloqueado en el bastidor$br$mientras está en $fire$</string>
+        <string lang="kr">$fire$ 상태일 때 랙에 고정됨</string>
+        <string lang="pt-br">Travado no rack enquanto em $fire$</string>
+        <string lang="zh-tw">在$fire$狀態下無法取下</string>
+        <string lang="uk">Заблоковано на стійці під час $fire$</string>
 </set>
 <set id="description-status-modulereplicating">
 		<string lang="de">Bei Aktivierung stellt dieses Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
@@ -51,8 +62,7 @@
 		<string lang="es">Al activarse, este módulo construirá una copia de sí mismo. La copia está en $cooldown$ y pierde $replicating$.</string>
 		<string lang="kr">활성화 시, 이 모듈은 자신의 복사본을 조립합니다. 복사본은 $cooldown$ 상태가 되며, $replicating$ 상태를 잃습니다.</string>
 		<string lang="pt-br">Na ativação, este módulo construirá uma cópia de si mesmo. A cópia está em $cooldown$ e perde $replicating$.</string>
-		<string lang="zh-tw">啟動時製造自身的複製品。複製品處於$cooldown$中，並失去$replicating$屬性。
-</string>
+		<string lang="zh-tw">啟動時製造自身的複製品。複製品處於$cooldown$中，並失去$replicating$屬性。</string>
 		<string lang="uk">Після активації цей модуль створить свою копію. Копія має $cooldown$ і втрачає $replicating$.</string>
 </set>
 <set id="description-status-modulereplicating-infinitely">
