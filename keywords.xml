@@ -558,6 +558,20 @@
 		<string lang="uk">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав. Зарядка&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw.&lt;/b&gt;</string>
 </set>
+<set id="$gravshort$">
+		<string lang="de">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
+		<string lang="en">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
+		<string lang="fr">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
+		<string lang="zh">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;</string>
+		<string lang="jp">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;重力電荷&lt;/b&gt;</string>
+		<string lang="ru">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав.&lt;/b&gt;</string>
+		<string lang="es">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
+		<string lang="kr">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;중력 전하&lt;/b&gt;</string>
+		<string lang="pt-br">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
+		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав.&lt;/b&gt;</string>
+        <string lang="pl">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Graw.&lt;/b&gt;</string>
+</set>
 <set id="$grav-$">
 		<string lang="de">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung (-)&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="en">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. Charge (-)&lt;/color&gt;&lt;/b&gt;</string>
@@ -571,6 +585,20 @@
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (-)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw. (-)&lt;/color&gt;&lt;/b&gt;</string>
+</set>
+<set id="$grav-short$">
+		<string lang="de">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="en">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="fr">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="jp">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;重力電荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="ru">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="es">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="kr">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;중력 전하 (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="pt-br">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. (-)&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pl">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Graw. (-)&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$grav+$">
 		<string lang="de">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung (+)&lt;/color&gt;&lt;/b&gt;</string>
@@ -699,18 +727,18 @@
         <string lang="pl">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$grav+short$">
-		<string lang="de">&lt;b&gt;&lt;color=#00FFFF&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="en">&lt;b&gt;&lt;color=#00FFFF&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="fr">&lt;b&gt;&lt;color=#00FFFF&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh">&lt;b&gt;&lt;color=#00FFFF&gt;引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="jp">&lt;b&gt;&lt;color=#00FFFF&gt;重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="ru">&lt;b&gt;&lt;color=#00FFFF&gt;Грав. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="es">&lt;b&gt;&lt;color=#00FFFF&gt;Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="kr">&lt;b&gt;&lt;color=#00FFFF&gt;중력 전하 (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="pt-br">&lt;b&gt;&lt;color=#00FFFF&gt;Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh-tw">&lt;b&gt;&lt;color=#00FFFF&gt;引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;Грав. (+)&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pl">&lt;b&gt;&lt;color=#00FFFF&gt;Graw. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="de">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="en">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="fr">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="jp">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;重力電荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="ru">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Грав. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="es">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="kr">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;중력 전하 (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="pt-br">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh-tw">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Грав. (+)&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pl">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Graw. (+)&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$grav-1$">
 		<string lang="de">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;-1&lt;/color&gt;&lt;/b&gt;</string>

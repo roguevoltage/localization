@@ -252,6 +252,9 @@
 	<string lang="pt-br">Raio de Provocação $MODIFICATIONVALUE$</string>
 		<string lang="uk">Провокаційний Промінь $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-vaultacceleration-emergency">
+	<string lang="en">Emergency$br$Acceleration Capsule</string>
+</set>
 <set id="description-module-effectortaunt">
 	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
     <string lang="en">Applies $taunt$ to target allly.$p$(Duration: $energy$×3).</string>
@@ -262,7 +265,7 @@
     <string lang="es">Inflige $taunt$ en un personaje objetivo.$br$(Duración: $energy$×3)</string>
     <string lang="kr">대상 캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
     <string lang="pt-br">Inflige $taunt$ no personagem alvo.$br$(Duração: $energy$×3)</string>
-		<string lang="uk">Застосовує $taunt$ на цільового персонажа.$p$(Тривалість: $energy$×3).</string>
+	<string lang="uk">Застосовує $taunt$ на цільового персонажа.$p$(Тривалість: $energy$×3).</string>
 </set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
@@ -326,5 +329,8 @@
 </set>
 <set id="description-module-passivewindupshroom">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
+</set>
+<set id="description-module-vaultacceleration-emergency">
+		<string lang="en">Can be charged.$p$Whenever the owner has $grav+4$ or more, remove all $gravshort$,$br$then remove all stored $energy$ to apply that much $grav-short$ to them.</string>
 </set>
 </localization>
