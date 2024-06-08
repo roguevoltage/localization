@@ -178,7 +178,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;에너지&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;能量&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Енергії&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FFFFFF&gt;2 одиниці &lt;sprite name="energy" tint=1&gt;Енергії&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$3$">
@@ -346,7 +346,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;대기&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Reutilização&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;冷卻&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Перезарядка&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Охолодження&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#809798&gt;&lt;sprite name="cooldown" tint=1&gt;&lt;/color&gt;Odnowa&lt;/b&gt;</string>
 </set>
 <set id="$cooldownicon$">
@@ -486,7 +486,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;발화&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Fogo&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;火&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Вогонь&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Пожежа&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFA075&gt;&lt;sprite name="fire" tint=1&gt;Ogień&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$fireicon$">
@@ -513,7 +513,7 @@
 		<string lang="kr">&lt;b&gt;&lt;sprite name="fox"&gt;여우&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;sprite name="fox"&gt;Raposa&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="fox"&gt;狐狸&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;sprite name="fox"&gt;Лисиця&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;sprite name="fox"&gt;Лис&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;sprite name="fox"&gt;Lis&lt;/b&gt;</string>
 </set>
 <set id="$generator$">
@@ -555,7 +555,7 @@
 		<string lang="kr">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;중력 전하&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав. Зарядка&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Гравізаряд&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw.&lt;/b&gt;</string>
 </set>
 <set id="$gravshort$">
@@ -611,7 +611,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;중력 전하 (+)&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (+)&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (+)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (+)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Гравізаряд (+)&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw. (+)&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$grav+1$">
@@ -835,7 +835,7 @@
 		<string lang="kr">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;중력 평형&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;Equilíbrio Grav.&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;引力均衡&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;Грав. Рівновага&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;Гравірівновага&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;sprite name="gravequilibrium"&gt;Wyrównanie Graw.&lt;/b&gt;</string>
 </set>
 <set id="$grav-icon$">
@@ -863,7 +863,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;중력 면역&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;Imunidade Grav.&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;引力免疫&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;Грав. Імунітет&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;Гравіімунітет&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="gravimmunity" tint=1&gt;Odporność na Grav.&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$gravmanipulationicon$">
@@ -891,7 +891,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;중력 반동&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Recuo Grav.&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;引力反沖&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Грав. Віддача&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Гравівіддача&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#00FFFF&gt;&lt;sprite name="gravrecoil" tint=1&gt;Odrzut Graw.&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$gravrecoilicon$">
@@ -1591,7 +1591,7 @@
 		<string lang="kr">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;휘발성&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="pt-br">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Volátil&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;激蕩&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Непостійний&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Нестійкий&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="cloud" tint=1&gt;Lotny&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$vulnerable$">

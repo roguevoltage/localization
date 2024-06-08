@@ -25,7 +25,7 @@
 		<string lang="pt-br">Não pode receber $grav$</string>
 		<string lang="zh-tw">無法受到$grav$。
 </string>
-		<string lang="uk">Не можу отримати $grav$</string>
+		<string lang="uk">Невразливий до $grav$</string>
 </set>
 <set id="description-status-jackcolormutation">
 		<string lang="de">Farbe mutiert am Ende des Zuges des Charakters</string>
@@ -39,7 +39,7 @@
 		<string lang="pt-br">Muda a cor no final do turno do dono se colocado no rack</string>
 		<string lang="zh-tw">擁有者回合結束後改變顏色。
 </string>
-		<string lang="uk">Змінює колір в кінці кроку власника</string>
+		<string lang="uk">Змінює колір наприкінці кроку власника</string>
 </set>
 <set id="description-status-moduleboost">
 		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1$ $energy$ hinzu</string>
@@ -53,7 +53,7 @@
 		<string lang="pt-br">Adiciona $1$ $energy$ à corrente até o final do turno</string>
 		<string lang="zh-tw">為輸入能量流增加$1$$energy$直到回合結束。
 </string>
-		<string lang="uk">Додає $1$ $energy$ до вхідного струму до кінця кроку</string>
+		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до вхідного струму до кінця кроку</string>
 </set>
 <set id="description-status-moduleconstructed">
 		<string lang="de">Kann nicht verkauft werden</string>
@@ -81,7 +81,7 @@
 		<string lang="pt-br">Não pode ser ativado neste turno</string>
 		<string lang="zh-tw">本回合無法被啟動
 </string>
-		<string lang="uk">Неможливо активувати у цьому кроці</string>
+		<string lang="uk">Неможливо активувати в цей хід</string>
 </set>
 <set id="description-status-modulecracked">
 		<string lang="de">Wird nach Aktivierung zerstört</string>
@@ -95,7 +95,7 @@
 		<string lang="pt-br">Destruído após a ativação</string>
 		<string lang="zh-tw">啟動後銷毀
 </string>
-		<string lang="uk">Буде знищено після активації</string>
+		<string lang="uk">Знищиться після активації</string>
 </set>
 <set id="description-status-modulecracked-discharge">
 		<string lang="de">Wird nach Entladung zerstört</string>
@@ -109,7 +109,7 @@
 		<string lang="pt-br">Destruído após a descarga</string>
 		<string lang="zh-tw">釋能後銷毀
 </string>
-		<string lang="uk">Буде знищено після розрядки</string>
+		<string lang="uk">Знищиться після розрядки</string>
 </set>
 <set id="description-status-modulecracked-eob">
 		<string lang="de">Wird nach zusätzlicher Aktivierung zerstört</string>
@@ -123,7 +123,7 @@
 		<string lang="pt-br">Destruído após a ativação adicional</string>
 		<string lang="zh-tw">額外啟動後銷毀
 </string>
-		<string lang="uk">Знищється після додаткової активації</string>
+		<string lang="uk">Знищиться після додаткової активації</string>
 </set>
 <set id="description-status-modulecracked-eob-discharge">
 		<string lang="de">Wird nach zusätzlicher Entladung zerstört</string>
@@ -137,7 +137,7 @@
 		<string lang="pt-br">Destruído após a descarga adicional</string>
 		<string lang="zh-tw">額外釋能後銷毀
 </string>
-		<string lang="uk">Знищється після додаткового розряду</string>
+		<string lang="uk">Знищиться після додаткового розряду</string>
 </set>
 <set id="description-status-modulecracked-eot">
 		<string lang="de">Aktivierung diese Runde zerstört das Modul</string>
@@ -151,7 +151,7 @@
 		<string lang="pt-br">A ativação deste turno destruirá o módulo</string>
 		<string lang="zh-tw">本回合啟動模組將銷毀
 </string>
-		<string lang="uk">Активація у цьому кроці призведе до знищення модуля</string>
+		<string lang="uk">Активація в цей хід призведе до знищення модуля</string>
 </set>
 <set id="description-status-modulecracked-eot-discharge">
 		<string lang="de">Entladung diese Runde zerstört das Modul</string>
@@ -165,7 +165,7 @@
 		<string lang="pt-br">A descarga deste turno destruirá o módulo</string>
 		<string lang="zh-tw">本回合釋能模組將銷毀
 </string>
-		<string lang="uk">Розрядка у цьому кроці знищить модуль</string>
+		<string lang="uk">Розрядка в цей хід призведе до знищення модуля</string>
 </set>
 <set id="description-status-modulecrust">
 		<string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ bricht die Kruste dauerhaft.</string>
@@ -179,7 +179,7 @@
 		<string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta</string>
 		<string lang="zh-tw">阻止模組啟動。首次傳入的$energy$將永久性破壞晶殼。
 </string>
-		<string lang="uk">Запобігає активації модуля. Перший вхід $energy$ назавжди зруйнує кристал.</string>
+		<string lang="uk">Запобігає активації модуля. Перше надходження $energyicon$$b$Енергії$/b$ назавжди зруйнує кірку.</string>
 </set>
 <set id="description-status-modulecrust-discharge">
 		<string lang="de">Verhindert Entladung des Modules.$br$Die erste Auslösung bricht die Kruste</string>
@@ -193,7 +193,7 @@
 		<string lang="pt-br">Impede a descarga do módulo.$br$O primeiro gatilho quebrará a crosta</string>
 		<string lang="zh-tw">阻止模組釋能。$br$首次觸發可以破壞晶殼。
 </string>
-		<string lang="uk">Запобігає розрядженню модуля.$br$Перше спрацьовування розірве кристал</string>
+		<string lang="uk">Запобігає розрядженню модуля.$br$Перше спрацьовування зруйнує кірку</string>
 </set>
 <set id="description-status-modulefire">
 		<string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
@@ -207,7 +207,7 @@
 		<string lang="pt-br">Ative o módulo para extinguir, caso contrário, ele causará $1damage$ ao dono após o turno dele</string>
 		<string lang="zh-tw">本回合啟動可熄滅，否則將在回合後對所有擁有者造成$1damage$。
 </string>
-		<string lang="uk">Активуйте у цьому кроці, щоб загасити полум'я, або він завдасть $1damage$ власнику в кінці кроку</string>
+		<string lang="uk">Активація в цей хід загасить полум'я, інакше воно завдасть $1damage$ власнику наприкінці кроку</string>
 </set>
 <set id="description-status-modulegravrecoil">
 		<string lang="de">Aktivierung fügt dem Charakter $grav+2$ zu</string>
@@ -221,7 +221,7 @@
 		<string lang="pt-br">A ativação inflige ao dono com $grav+2$</string>
 		<string lang="zh-tw">啟動後對擁有者施放$grav+2$
 </string>
-		<string lang="uk">Активація наносить власнику $grav+2$</string>
+		<string lang="uk">Активація накладе на власника $grav+2$</string>
 </set>
 <set id="description-status-modulegravrecoil-eot">
 		<string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
@@ -235,7 +235,7 @@
 		<string lang="pt-br">A ativação deste turno inflige ao dono com $grav+2$</string>
 		<string lang="zh-tw">本回合啟動後對擁有者$br$施放$grav+2$
 </string>
-		<string lang="uk">Активація у цьому кроці накладається на власника$br$ $grav+2$</string>
+		<string lang="uk">Активація в цей хід накладе на власника $grav+2$</string>
 </set>
 <set id="description-status-modulegravvacuum">
 		<string lang="de">Aktivierung fügt dem Charakter $grav-1$ zu</string>
@@ -249,7 +249,7 @@
 		<string lang="pt-br">A ativação aplica $grav-1$ ao dono</string>
 		<string lang="zh-tw">啟動後對擁有者施加$grav-1$
 </string>
-		<string lang="uk">Активація надасть власнику $grav-1$</string>
+		<string lang="uk">Активація накладе на власника $grav-1$</string>
 </set>
 <set id="description-status-modulelock">
 		<string lang="de">Kann nicht vom Rack genommen werden</string>
@@ -263,7 +263,7 @@
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 		<string lang="zh-tw">無法取下
 </string>
-		<string lang="uk">Не можна взяти зі стійки</string>
+		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulelock-eob">
 		<string lang="de">Kann nur außerhalb des Kampfes bewegt werden</string>
@@ -319,7 +319,7 @@
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 		<string lang="zh-tw">無法取下
 </string>
-		<string lang="uk">Не можна взяти зі стійки</string>
+		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulemalfunctioning">
 		<string lang="de">Erhält nach Aktivierung $outoforder$$br$bis zum Ende des Kampfes.</string>
@@ -361,7 +361,7 @@
 		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
 		<string lang="zh-tw">釋能後有$CHANCETOBREAK$幾率變為$outoforder$，直到戰鬥結束。
 </string>
-		<string lang="uk">$CHANCETOBREAK$% шансів отримати $outoforder$ до кінця бою після розряду.</string>
+		<string lang="uk">Шанс $CHANCETOBREAK$% при розрядці отримати $outoforder$ до кінця бою.</string>
 </set>
 <set id="description-status-modulemalfunctioning-safeguarded">
 		<string lang="de">$CHANCETOBREAK$% Chance, bei Aktivierung $outoforder$ bis zum Ende des Kampfes zu erhalten.</string>
@@ -375,7 +375,7 @@
 		<string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
 		<string lang="zh-tw">啟動後有$CHANCETOBREAK$幾率獲得$outoforder$，直到戰鬥結束。
 </string>
-		<string lang="uk">$CHANCETOBREAK$% шансів отримати $outoforder$ до кінця бою, якщо активовано.</string>
+		<string lang="uk">Шанс $CHANCETOBREAK$% при активації отримати $outoforder$ до кінця бою.</string>
 </set>
 <set id="description-status-modulemodificationmutation">
 		<string lang="de">Ändert seine Eigenschaften am Ende des Zuges des Charakters</string>
@@ -389,7 +389,7 @@
 		<string lang="pt-br">Muda a taxa de transferência no final do turno do dono se colocado no rack</string>
 		<string lang="zh-tw">擁有者輪次結束後產能值發生改變
 </string>
-		<string lang="uk">Пропускна здатність змінюється в кінці ходу власника</string>
+		<string lang="uk">Пропускна здатність змінюється наприкінці ходу власника</string>
 </set>
 <set id="description-status-moduleoutoforder">
 		<string lang="de">Kann in diesem Kampf nicht mehr$br$aktiviert werden</string>
@@ -445,7 +445,7 @@
 		<string lang="pt-br">A ativação deste turno levará a $cooldown$</string>
 		<string lang="zh-tw">本回合啟動會進入$cooldown$
 </string>
-		<string lang="uk">Активація у цьому кроці призведе до $cooldown$</string>
+		<string lang="uk">Активація в цей хід призведе до $cooldown$</string>
 </set>
 <set id="description-status-moduleoverload-eot-discharge">
 		<string lang="de">Entladung diese Runde führt zu $cooldown$</string>
@@ -459,7 +459,7 @@
 		<string lang="pt-br">A descarga deste turno levará a $cooldown$</string>
 		<string lang="zh-tw">本回合釋能會進入$cooldown$
 </string>
-		<string lang="uk">Розрядка у цьому кроці призведе до $cooldown$</string>
+		<string lang="uk">Розрядка в цей хід призведе до $cooldown$</string>
 </set>
 <set id="description-status-moduleplasmacombustion">
 		<string lang="de">Aktivierung verbraucht $1plasma$</string>
@@ -473,7 +473,7 @@
 		<string lang="pt-br">A ativação usa $1plasma$</string>
 		<string lang="zh-tw">啟動會消耗$1plasma$
 </string>
-		<string lang="uk">Активація витрачає $1plasma$</string>
+		<string lang="uk">Активація коштує $b$1 одиницю$/b$ $plasmaicon$$b$Плазми$/b$</string>
 </set>
 <set id="description-status-moduleplasmacombustion-eot">
 		<string lang="de">Aktivierung diese Runde verbraucht $1plasma$</string>
@@ -487,7 +487,7 @@
 		<string lang="pt-br">A ativação deste turno usa $1plasma$</string>
 		<string lang="zh-tw">本回合啟動會消耗$1plasma$
 </string>
-		<string lang="uk">Активація у цьому кроці дає $1plasma$</string>
+		<string lang="uk">Активація в цей хід коштує $b$1 одиницю$/b$ $plasmaicon$$b$Плазми$/b$</string>
 </set>
 <set id="description-status-modulepollution">
 		<string lang="de">Aktivierung fügt dem Charakter$br$$1damage$ zu</string>
@@ -501,7 +501,7 @@
 		<string lang="pt-br">Ativação causa $1damage$ ao dono</string>
 		<string lang="zh-tw">啟動會對擁有者造成$1damage$$br$
 </string>
-		<string lang="uk">Активація завдає власнику $1damage$</string>
+		<string lang="uk">Активація нанесе власнику $1damage$</string>
 </set>
 <set id="description-status-modulepollution-eot">
 		<string lang="de">Aktivierung diese Runde fügt dem Charakter$br$$1damage$ zu</string>
@@ -515,7 +515,7 @@
 		<string lang="pt-br">Ativação neste turno causa $1damage$ ao dono</string>
 		<string lang="zh-tw">本回合啟動會對擁有者造成$1damage$$br$
 </string>
-		<string lang="uk">Активація у цьому кроці завдає $1damage$ $br$ власнику</string>
+		<string lang="uk">Активація в цей хід завдає $1damage$ $br$ власнику</string>
 </set>
 <set id="description-status-modulesalvaged">
 		<string lang="de">Aus einem vorherigen Run geborgen.$br$Kann nicht dupliziert werden.</string>
@@ -557,7 +557,7 @@
 		<string lang="pt-br">A ativação deste turno levará a $crust$</string>
 		<string lang="zh-tw">本回合啟動會導致$crust$
 </string>
-		<string lang="uk">Активація у цьому кроці призведе до $crust$</string>
+		<string lang="uk">Активація в цей хід призведе до $crust$</string>
 </set>
 <set id="description-status-moduleturbo">
 		<string lang="de">Fügt dem Strom $1$ $energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
@@ -571,7 +571,7 @@
 		<string lang="pt-br">Adiciona $1$ $energy$ à corrente.$br$Dura até o final do combate</string>
 		<string lang="zh-tw">為輸入能量流增加$1$$energy$。$br$直至戰鬥結束。
 </string>
-		<string lang="uk">Додає $1$ $energy$ до струму.$br$Триває до кінця бою</string>
+		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму.$br$Триває до кінця бою</string>
 </set>
 <set id="description-status-moduleunstable">
 		<string lang="de">Wird nach dem Kampf zerstört</string>
@@ -599,7 +599,7 @@
 		<string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
 		<string lang="zh-tw">為輸入能量流增加$1$$energy$
 </string>
-		<string lang="uk">Додає $1$ $energy$ до струму</string>
+		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
 </set>
 <set id="description-status-shield">
 		<string lang="de">Eingehender $damage$ wird um $1$ reduziert</string>
@@ -613,7 +613,7 @@
 		<string lang="pt-br">O dano recebido de $damage$$br$é reduzido por $1$</string>
 		<string lang="zh-tw">即將承受的$damage$減少$1$
 </string>
-		<string lang="uk">Вхідний $damage$ зменшується на $1$</string>
+		<string lang="uk">$damage$ зменшуються на $1$</string>
 </set>
 <set id="description-status-shield2">
 		<string lang="de">Eingehender $damage$ wird um $2$ reduziert</string>
@@ -627,7 +627,7 @@
 		<string lang="pt-br">O dano recebido de $damage$$br$é reduzido por $2$</string>
 		<string lang="zh-tw">即將承受的$damage$減少$2$
 </string>
-		<string lang="uk">Вхідний $damage$ зменшується на $2$</string>
+		<string lang="uk">$damage$ зменшуються на $2$</string>
 </set>
 <set id="description-status-transformation-dmgtograv">
 		<string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt</string>
@@ -641,7 +641,7 @@
 		<string lang="pt-br">O dano recebido de $damage$ é transformado em $grav+$</string>
 		<string lang="zh-tw">即將承受的$damage$將轉換為$grav+$
 </string>
-		<string lang="uk">Вхідний $damage$ перетворюється на $grav+$</string>
+		<string lang="uk">$damage$ перетворяться на $grav+$</string>
 </set>
 <set id="description-status-transformation-gravtodmg">
 		<string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt</string>
@@ -655,7 +655,7 @@
 		<string lang="pt-br">O dano recebido de $grav+$ é transformado em $damage$</string>
 		<string lang="zh-tw">被施加的$grav+$將轉換為$damage$
 </string>
-		<string lang="uk">Вхідний $grav+$ перетворюється на $damage$</string>
+		<string lang="uk">$grav+$ перетвориться на $damage$</string>
 </set>
 <set id="description-status-transformation-gravtomight">
 		<string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt</string>
@@ -669,7 +669,7 @@
 		<string lang="pt-br">O dano recebido de $grav+$ é transformado em $might$</string>
 		<string lang="zh-tw">被施加的$grav+$將轉換為$might$
 </string>
-		<string lang="uk">Вхідний $grav+$ перетворюється на $might$</string>
+		<string lang="uk">$grav+$ перетвориться на $mighticon$$b$Силу$</string>
 </set>
 <set id="description-status-vulnerable">
 		<string lang="de">Eingehender $damage$ wird um $1$ verstärkt</string>
@@ -683,7 +683,7 @@
 		<string lang="pt-br">O $damage$ recebido é amplificado em $1$</string>
 		<string lang="zh-tw">即將承受的$damage$增加$1$
 </string>
-		<string lang="uk">Вхідний $damage$ посилюється на $1$</string>
+		<string lang="uk">$damage$ будуть посилені на $1$</string>
 </set>
 <set id="name-status-gravamplification">
 		<string lang="de">Grav.-Verstärkung</string>
@@ -697,7 +697,7 @@
 		<string lang="pt-br">Amplificação Grav.</string>
 		<string lang="zh-tw">引力放大
 </string>
-		<string lang="uk">Грав. Посилення</string>
+		<string lang="uk">Гравіпосилення</string>
 </set>
 <set id="name-status-gravimmunity">
 		<string lang="de">Grav.-Immunität</string>
@@ -711,7 +711,7 @@
 		<string lang="pt-br">Imunidade Grav.</string>
 		<string lang="zh-tw">引力免疫
 </string>
-		<string lang="uk">Грав. Імунітет</string>
+		<string lang="uk">Гравіімунітет</string>
 </set>
 <set id="name-status-jackcolormutation">
 		<string lang="de">Farb-Mutation</string>
@@ -725,7 +725,7 @@
 		<string lang="pt-br">Mutação de Cor</string>
 		<string lang="zh-tw">顏色變異
 </string>
-		<string lang="uk">Мутація Кольору</string>
+		<string lang="uk">Мутація кольору</string>
 </set>
 <set id="name-status-moduleboost">
 		<string lang="de">Boost +1</string>
@@ -781,7 +781,7 @@
 		<string lang="pt-br">Rachado</string>
 		<string lang="zh-tw">破損
 </string>
-		<string lang="uk">Крихкий</string>
+		<string lang="uk">Тріснутий</string>
 </set>
 <set id="name-status-modulecrust">
 		<string lang="de">Kruste</string>
@@ -809,7 +809,7 @@
 		<string lang="pt-br">Fogo</string>
 		<string lang="zh-tw">點燃
 </string>
-		<string lang="uk">Вогонь</string>
+		<string lang="uk">Пожежа</string>
 </set>
 <set id="name-status-modulegravrecoil">
 		<string lang="de">Grav.-Rückstoß</string>
@@ -823,7 +823,7 @@
 		<string lang="pt-br">Rebote Grav.</string>
 		<string lang="zh-tw">引力反沖
 </string>
-		<string lang="uk">Грав. Віддача</string>
+		<string lang="uk">Гравівіддача</string>
 </set>
 <set id="name-status-modulegravvacuum">
 		<string lang="de">Grav.-Vakuum</string>
@@ -837,7 +837,7 @@
 		<string lang="pt-br">Vácuo Grav.</string>
 		<string lang="zh-tw">引力真空
 </string>
-		<string lang="uk">Грав. Вакуум</string>
+		<string lang="uk">Гравівакуум</string>
 </set>
 <set id="name-status-modulelock">
 		<string lang="de">Gesperrt</string>
@@ -851,7 +851,7 @@
 		<string lang="pt-br">Bloqueado</string>
 		<string lang="zh-tw">已鎖定
 </string>
-		<string lang="uk">Заблокований</string>
+		<string lang="uk">Заблоковано</string>
 </set>
 <set id="name-status-modulelock-startingmodule">
 		<string lang="de">Charakterausrüstung</string>
@@ -865,7 +865,7 @@
 		<string lang="pt-br">Equipamento do Personagem</string>
 		<string lang="zh-tw">角色自帶
 </string>
-		<string lang="uk">Спорядження Персонажа</string>
+		<string lang="uk">Спорядження персонажа</string>
 </set>
 <set id="name-status-modulemalfunctioning">
 		<string lang="de">Fehlfunktion</string>
@@ -935,7 +935,7 @@
 		<string lang="pt-br">Combustão de Plasma</string>
 		<string lang="zh-tw">等離子燃燒機
 </string>
-		<string lang="uk">Плазмове Горіння</string>
+		<string lang="uk">Згоряння плазми</string>
 </set>
 <set id="name-status-modulepollution">
 		<string lang="de">Verschmutzung</string>
@@ -1019,7 +1019,7 @@
 		<string lang="pt-br">Melhoria +1</string>
 		<string lang="zh-tw">升級 +1
 </string>
-		<string lang="uk">Поліпшення +1</string>
+		<string lang="uk">Покращення +1</string>
 </set>
 <set id="name-status-shield">
 		<string lang="de">Schild</string>
@@ -1061,7 +1061,7 @@
 		<string lang="pt-br">$damage$ para $grav+short$</string>
 		<string lang="zh-tw">$damage$轉化為$grav+short$
 </string>
-		<string lang="uk">$damage$ в $grav+short$</string>
+		<string lang="uk">$damage$ на $grav+short$</string>
 </set>
 <set id="name-status-transformation-gravtodmg">
 		<string lang="de">$grav+short$ zu $damage$</string>
@@ -1075,7 +1075,7 @@
 		<string lang="pt-br">$grav+short$ para $damage$</string>
 		<string lang="zh-tw">$grav+short$轉化為$damage$
 </string>
-		<string lang="uk">$grav+short$ в $damage$</string>
+		<string lang="uk">$grav+short$ на $damage$</string>
 </set>
 <set id="name-status-transformation-gravtomight">
 		<string lang="de">$grav+$ zu $might$</string>
@@ -1089,7 +1089,7 @@
 		<string lang="pt-br">$grav+$ para $might$</string>
 		<string lang="zh-tw">$grav+$轉化為$might$
 </string>
-		<string lang="uk">$grav+$ в $might$</string>
+		<string lang="uk">$grav+$ на $mighticon$$b$Силу$</string>
 </set>
 <set id="name-status-vulnerable">
 		<string lang="de">Verwundbar</string>
@@ -1117,7 +1117,7 @@
 		<string lang="pt-br">Grav. Amp.</string>
 		<string lang="zh-tw">引力增強
 </string>
-		<string lang="uk">Грав. Підсил.</string>
+		<string lang="uk">Гравіпідсил.</string>
 </set>
 <set id="shortname-status-graveresistance">
 		<string lang="de">Grav. Res.</string>
@@ -1131,7 +1131,7 @@
 		<string lang="pt-br">Res. Grav.</string>
 		<string lang="zh-tw">引力抗性
 </string>
-		<string lang="uk">Грав. Опір.</string>
+		<string lang="uk">Гравіопір</string>
 </set>
 <set id="shortname-status-gravimmunity">
 		<string lang="de">Grav.-Immu.</string>
@@ -1145,7 +1145,7 @@
 		<string lang="pt-br">Grav. Immu.</string>
 		<string lang="zh-tw">引力免疫
 </string>
-		<string lang="uk">Грав. Імун.</string>
+		<string lang="uk">Гравіімун.</string>
 </set>
 <set id="shortname-status-modulecracked-eot">
 		<string lang="de">Brüchig</string>
@@ -1159,7 +1159,7 @@
 		<string lang="pt-br">Rachado</string>
 		<string lang="zh-tw">破損
 </string>
-		<string lang="uk">Крихкий</string>
+		<string lang="uk">Тріснутий</string>
 </set>
 <set id="shortname-status-modulecrust">
 		<string lang="de">Kruste</string>
@@ -1187,7 +1187,7 @@
 		<string lang="pt-br">Rebote Grav.</string>
 		<string lang="zh-tw">引力反沖
 </string>
-		<string lang="uk">Грав. Віддача</string>
+		<string lang="uk">Гравівіддача</string>
 </set>
 <set id="shortname-status-modulegravrecoil-eot">
 		<string lang="de">Grav.-Rückstoß</string>
@@ -1201,7 +1201,7 @@
 		<string lang="pt-br">Rebote Grav.</string>
 		<string lang="zh-tw">引力反沖
 </string>
-		<string lang="uk">Грав. Віддача</string>
+		<string lang="uk">Гравівіддача</string>
 </set>
 <set id="shortname-status-modulegravvacuum">
 		<string lang="de">Grav.-Vakuum</string>
@@ -1215,7 +1215,7 @@
 		<string lang="pt-br">Vácuo Grav.</string>
 		<string lang="zh-tw">引力真空
 </string>
-		<string lang="uk">Грав. Вакуум</string>
+		<string lang="uk">Гравівакуум</string>
 </set>
 <set id="shortname-status-moduleoverload">
 		<string lang="de">Überlastet</string>
@@ -1257,7 +1257,7 @@
 		<string lang="pt-br">Crepitação de Plasma</string>
 		<string lang="zh-tw">等離子燃燒機
 </string>
-		<string lang="uk">Плазмове Горіння</string>
+		<string lang="uk">Спалення плазми</string>
 </set>
 <set id="shortname-status-moduleplasmacombustion-eot">
 		<string lang="de">Plasma-Verbrennung</string>
@@ -1271,7 +1271,7 @@
 		<string lang="pt-br">Crepitação de Plasma</string>
 		<string lang="zh-tw">等離子燃燒機
 </string>
-		<string lang="uk">Плазмове Горіння</string>
+		<string lang="uk">Спалення плазми</string>
 </set>
 <set id="shortname-status-modulepollution">
 		<string lang="de">Verschmutzung</string>
@@ -1341,7 +1341,7 @@
 		<string lang="pt-br">DMG para Grav+</string>
 		<string lang="zh-tw">傷害轉化為正引力荷
 </string>
-		<string lang="uk">Шкода в Грав+</string>
+		<string lang="uk">DMG на Грав+</string>
 </set>
 <set id="shortname-status-transformation-gravtodmg">
 		<string lang="de">$grav+short$ zu DMG</string>
@@ -1355,7 +1355,7 @@
 		<string lang="pt-br">$grav+short$ para DMG</string>
 		<string lang="zh-tw">$grav+short$轉化為傷害
 </string>
-		<string lang="uk">$grav+short$ в Шкода</string>
+		<string lang="uk">$grav+short$ на DMG</string>
 </set>
 <set id="shortname-status-vulnerable">
 		<string lang="de">Verwundbar</string>

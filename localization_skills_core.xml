@@ -11,7 +11,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$。
 </string>
-		<string lang="uk">Завдає $1damage$ ворогу.</string>
+		<string lang="uk">Наносить $1damage$ ворогу.</string>
 </set>
 <set id="description-skill-claw">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.</string>
@@ -25,7 +25,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$。
 </string>
-		<string lang="uk">Завдає $1damage$ ворогу.</string>
+		<string lang="uk">Наносить $1damage$ ворогу.</string>
 </set>
 <set id="description-skill-croak">
 		<string lang="de">Entfernt alle $might$.$p$Viersieht alle Module auf dem Rack eines Gegners mit $gravrecoil$.</string>
@@ -39,7 +39,7 @@
 		<string lang="pt-br">Remove todos os $might$ para aplicar $gravrecoil$ a todos os módulos no rack de um inimigo.</string>
 		<string lang="zh-tw">移除全部$might$來為敵方所有模組施加$gravrecoil$。
 </string>
-		<string lang="uk">Видаляє усю $might$.$p$Застосовує $gravrecoil$ до всіх модулів на ворожій стійці.</string>
+		<string lang="uk">Видаляє усю $mighticon$$b$Силу$.$p$На всі модулі на ворожій стійці накладається $gravrecoil$.</string>
 </set>
 <set id="description-skill-damageinheightofpower">
 		<string lang="de">Fügt $damage$ in Höhe der $might$ zu</string>
@@ -53,7 +53,7 @@
 		<string lang="pt-br">Inflige $damage$ em altura de $might$</string>
 		<string lang="zh-tw">造成與$might$等值的$damage$。
 </string>
-		<string lang="uk">Завдає $damage$ у розмірі $might$</string>
+		<string lang="uk">Наносить $damage$ у розмірі показника $mighticon$$b$Сили$</string>
 </set>
 <set id="description-skill-encrustmodule">
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
@@ -67,7 +67,7 @@
 		<string lang="pt-br">Inflige $1damage$ e inflige um módulo com $crust$.</string>
 		<string lang="zh-tw">造成$1damage$並對一個模組施放$crust$。
 </string>
-		<string lang="uk">Завдає $1damage$ і накладає на модуль $crust$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає на модуль $crust$.</string>
 </set>
 <set id="description-skill-enemyspawn-gravpolyp">
 		<string lang="de">Ruft bis zu zwei $b$Grav.-Polypen$/b$ herbei.</string>
@@ -81,7 +81,7 @@
 		<string lang="pt-br">Invoca até dois $b$Pólipos Grav.$/b$</string>
 		<string lang="zh-tw">召喚兩個$b$引力水螅$/b$。
 </string>
-		<string lang="uk">Викликає до двох $b$Грав. Поліпів$/b$</string>
+		<string lang="uk">Створює до двох $b$Гравіполіпів$/b$</string>
 </set>
 <set id="description-skill-enemyspawn-protozoon">
 		<string lang="de">Wenn seine HP gerade sind, teilt er sich in zwei.</string>
@@ -95,7 +95,7 @@
 		<string lang="pt-br">Se os HP forem pares, ele se divide em dois.</string>
 		<string lang="zh-tw">如果生命值為偶數，則一分為二。
 </string>
-		<string lang="uk">Якщо HP парна, то ділить на дві частини.</string>
+		<string lang="uk">Якщо кількість здоровʼя парна, ділиться на дві частини.</string>
 </set>
 <set id="description-skill-enemyspawn-slime">
 		<string lang="de">Entfernt alle $might$.$p$Verdoppelt sich selbst.</string>
@@ -109,7 +109,7 @@
 		<string lang="pt-br">Se $might$ estiver cheio, ele remove todos os $might$ para duplicar.</string>
 		<string lang="zh-tw">如果$might$已滿，則消耗全部$might$進行複製。
 </string>
-		<string lang="uk">Якщо $might$ повна, видаляє всю $might$ для дублювання.</string>
+		<string lang="uk">Якщо $might$ повна, витрачає всю $mighticon$$b$Силу$ на дублювання.</string>
 </set>
 <set id="description-skill-gravbite">
 		<string lang="de">Fügt $1damage$ zu und versieht ihn mit $gravamplification$.</string>
@@ -123,7 +123,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo e aplica $gravamplification$.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$並施加$gravamplification$。
 </string>
-		<string lang="uk">Завдає $1damage$ і накладає $gravamplification$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає $gravamplification$.</string>
 </set>
 <set id="description-skill-gravimplode">
 		<string lang="de">Entfernt alle $grav+$ auf dem Ziel, um ebensoviel $damage$ zuzufügen.</string>
@@ -137,7 +137,7 @@
 		<string lang="pt-br">Remove todos os $grav+$ de um alvo para infligir tanto $damage$.</string>
 		<string lang="zh-tw">移除目標全部$grav+$，造成等量$damage$。
 </string>
-		<string lang="uk">Видаляє весь $grav+$ від цілі, щоб мати стільки $damage$.</string>
+		<string lang="uk">Прибирає весь $grav+$ з цілі і наносить стільки ж $damage$.</string>
 </set>
 <set id="description-skill-gravimplode-bossshroom">
 		<string lang="de">Entfernt alle $grav+$ auf dem Ziel, um ebensoviel $damage$ zuzufügen.</string>
@@ -150,7 +150,7 @@
 		<string lang="kr">대상의 모든 $grav+$를 제거해 그와 동일한 $damage$를 줍니다.</string>
 		<string lang="zh-tw">移除目標全部$grav+$，造成等量$damage$。
 </string>
-		<string lang="uk">Видаляє весь $grav+$ з цілі, щоб нанести стільки ж $damage$.</string>
+		<string lang="uk">Прибирає весь $grav+$ з цілі і наносить стільки ж $damage$.</string>
 </set>
 <set id="description-skill-gravimplode-one">
 		<string lang="de">Entfernt $grav+1$ auf einem Gegner, um $1damage$ zuzufügen.</string>
@@ -164,7 +164,7 @@
 		<string lang="pt-br">Remove $grav+1$ em um inimigo para infligir $1damage$.</string>
 		<string lang="zh-tw">移除敵人所受的$grav+1$，$br$並造成$1damage$。
 </string>
-		<string lang="uk">Видаляє $grav+1$ з ворога і завдає $1damage$.</string>
+		<string lang="uk">Прибирає $grav+1$ з ворога і наносить $1damage$.</string>
 </set>
 <set id="description-skill-gravimpulse">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $grav+4$ zu.</string>
@@ -178,7 +178,7 @@
 		<string lang="pt-br">Inflige a todos os combatentes no mesmo passo de tempo com $grav+4$.</string>
 		<string lang="zh-tw">所有處於同一時間軸點的參戰單位都要受到$grav+4$。
 </string>
-		<string lang="uk">Розміщує всіх бійців на одному часовому кроці та завдає $grav+4$.</string>
+		<string lang="uk">Накладає $grav+4$ на всіх учасників бою, що знаходяться на тому самому часовому кроці.</string>
 </set>
 <set id="description-skill-gravpull">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
@@ -192,7 +192,7 @@
 		<string lang="pt-br">Inflige a outro combatente $grav-1$</string>
 		<string lang="zh-tw">對另一參戰單位施放$grav-1$。
 </string>
-		<string lang="uk">Завдає іншому бійцю $grav-1$</string>
+		<string lang="uk">Накладає $grav-1$ на іншого учасника бою</string>
 </set>
 <set id="description-skill-gravpush-1">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+1$ zu</string>
@@ -206,7 +206,7 @@
 		<string lang="pt-br">Inflige a outro combatente $grav+1$</string>
 		<string lang="zh-tw">對另一參戰單位施放$grav+1$。
 </string>
-		<string lang="uk">Завдає $grav+1$ іншому бійцю.</string>
+		<string lang="uk">Накладає $grav+1$ на іншого учасника бою.</string>
 </set>
 <set id="description-skill-gravpush-2">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$ zu</string>
@@ -220,7 +220,7 @@
 		<string lang="pt-br">Inflige a outro combatente $grav+2$</string>
 		<string lang="zh-tw">對另一參戰單位施放$grav+2$。
 </string>
-		<string lang="uk">Завдає $grav+2$ іншому бійцю.</string>
+		<string lang="uk">Накладає $grav+2$ на іншого учасника бою.</string>
 </set>
 <set id="description-skill-gravpush-3">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+3$ zu</string>
@@ -234,7 +234,7 @@
 		<string lang="pt-br">Inflige a outro combatente $grav+3$</string>
 		<string lang="zh-tw">對另一參戰單位施放$grav+3$。
 </string>
-		<string lang="uk">Завдає $grav+3$ іншому бійцю</string>
+		<string lang="uk">Накладає $grav+3$ на іншого учасника бою</string>
 </set>
 <set id="description-skill-gravspore-positive">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+1$ zu</string>
@@ -248,7 +248,7 @@
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+1$</string>
 		<string lang="zh-tw">對所有其他參戰單位施放$grav+1$。
 </string>
-		<string lang="uk">Завдає $grav+1$ для всіх інших учасників бою</string>
+		<string lang="uk">Накладає $grav+1$ на всіх інших учасників бою</string>
 </set>
 <set id="description-skill-gravspore-positive-2">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ zu</string>
@@ -262,7 +262,7 @@
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$</string>
 		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$。
 </string>
-		<string lang="uk">Завдає $grav+2$ для всіх інших учасників бою</string>
+		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-1$ zu</string>
@@ -276,7 +276,7 @@
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-1$</string>
 		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$，並對自己施放$grav-1$。
 </string>
-		<string lang="uk">Завдає $grav+2$ для всіх інших учасників бою і для себе $grav-1$</string>
+		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою, а на себе $grav-1$</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-stage2">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-2$ zu</string>
@@ -289,7 +289,7 @@
 		<string lang="kr">다른 모든 전투원에게 $grav+2$를 부여하고 스스로에게 $grav-2$를 부여합니다.</string>
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-2$</string>
 		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$，並對自己施放$grav-2$。</string>
-		<string lang="uk">Завдає $grav+2$ для всіх інших учасників бою і для себе $grav-2$</string>
+		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою, а на себе $grav-2$</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-tutorial">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-3$ zu</string>
@@ -303,7 +303,7 @@
 		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-3$</string>
 		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$，並對自己施放$grav-3$。
 </string>
-		<string lang="uk">Завдає $grav+2$ для всіх інших учасників бою і для себе $grav-3$</string>
+		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою, а на себе $grav-3$</string>
 </set>
 <set id="description-skill-gravsting">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu.</string>
@@ -317,7 +317,7 @@
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e $grav+1$</string>
 		<string lang="zh-tw">造成$1damage$$br$並施放$grav+1$。
 </string>
-		<string lang="uk">Завдає $1damage$ $br$і $grav+1$</string>
+		<string lang="uk">Наносить $1damage$ $br$і накладає $grav+1$</string>
 </set>
 <set id="description-skill-gravsting-2">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
@@ -331,7 +331,7 @@
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e $grav+2$</string>
 		<string lang="zh-tw">造成$1damage$$br$並施放$grav+2$。
 </string>
-		<string lang="uk">Завдає $1damage$ $br$і $grav+2$</string>
+		<string lang="uk">Наносить $1damage$ $br$і накладає $grav+2$</string>
 </set>
 <set id="description-skill-gravtransfer">
 		<string lang="de">Entfernt $grav+1$ von einem Ziel und fügt sie einem anderen Ziel zu.</string>
@@ -345,7 +345,7 @@
 		<string lang="pt-br">Remove $grav+1$ de um alvo e o coloca em outro alvo.</string>
 		<string lang="zh-tw">將目標所受$grav+1$效果轉移到另一目標上。
 </string>
-		<string lang="uk">Видаляє $grav+1$ з цілі і переноси на іншого бійця.</string>
+		<string lang="uk">Прибирає $grav+1$ з цілі і переносить його на іншого учасника бою.</string>
 </set>
 <set id="description-skill-leftclaw">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
@@ -353,14 +353,14 @@
 		<string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
 		<string lang="zh">造成$1damage$$br$并施放$grav+2$。</string>
 		<string lang="jp">$1damage$。$br$$grav+2$付与。</string>
-		<string lang="ru">Наносит $1damage$ 
+		<string lang="ru">Наносит $1damage$
 и применяет $grav+2$</string>
 		<string lang="es">Inflige a un enemigo $1damage$ y $grav+2$</string>
 		<string lang="kr">$1damage$를 주고$br$$grav+2$를 부여합니다.</string>
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e $grav+2$</string>
 		<string lang="zh-tw">造成$1damage$$br$並施放$grav+2$。
 </string>
-		<string lang="uk">Завдає $1damage$ $br$і $grav+2$</string>
+		<string lang="uk">Наносить $1damage$ $br$і накладає $grav+2$</string>
 </set>
 <set id="description-skill-lightningstrike">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
@@ -374,7 +374,7 @@
 		<string lang="pt-br">Inflige a todos os combatentes no mesmo passo de tempo $b$$VALUE$$/b$ $damage$</string>
 		<string lang="zh-tw">對處在同一時間步的所有參戰單位造成$b$$VALUE$$/b$$damage$。
 </string>
-		<string lang="uk">Завдає $b$ $VALUE$ $/b$ $damage$ усім бійцям на одному часовому кроці.</string>
+		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ усім учасникам бою, що знаходяться на тому ж часовому кроці.</string>
 </set>
 <set id="description-skill-modularrackfire">
 		<string lang="de">Aktiviert Module auf dem Rack.</string>
@@ -402,7 +402,7 @@
 		<string lang="pt-br">Inflige a todos os inimigos $1damage$ e lhes aplica um módulo com $gravrecoil$</string>
 		<string lang="zh-tw">對所有敵人造成$1damage$，並且每有一個敵人，就對一個模組施放$gravrecoil$。
 </string>
-		<string lang="uk">Завдає $1damage$ усім ворогам і накладає на кожен модуль $gravrecoil$.</string>
+		<string lang="uk">Наносить $1damage$ усім ворогам, а на кожен модуль накладається $gravrecoil$.</string>
 </set>
 <set id="description-skill-modulegravrecoil-slime">
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $gravrecoil$.</string>
@@ -416,7 +416,7 @@
 		<string lang="pt-br">Inflige a um inimigo $1damage$ e lhe aplica um módulo com $gravrecoil$</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$，並對一個模組施放$gravrecoil$。
 </string>
-		<string lang="uk">Завдає $1damage$ і накладає на модуль $gravrecoil$.</string>
+		<string lang="uk">Наносить $1damage$, а на модуль накладається $gravrecoil$.</string>
 </set>
 <set id="description-skill-moduleplasmacombustion">
 		<string lang="de">Fügt $d1amage$ zu und versieht ein Modul mit $plasmacombustion$.</string>
@@ -429,7 +429,7 @@
 		<string lang="kr">$1damage$를 주고 모듈에게 $plasmacombustion$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ e lhe aplica um módulo com $plasmacombustion$</string>
 		<string lang="zh-tw">造成$1damage$並對一個模組施放$plasmacombustion$。</string>
-		<string lang="uk">Завдає $1damage$ і накладає на модуль $plasmacombustion$.</string>
+		<string lang="uk">Наносить $1damage$, а на модуль накладається $plasmacombustion$.</string>
 </set>
 <set id="description-skill-modulepollution-reactor">
 		<string lang="de">Fügt allen Charakteren $1damage$ und $grav+2$ zu und versieht je ein Modul mit $pollution$.</string>
@@ -442,7 +442,7 @@
 		<string lang="kr">모든 캐릭터에게 $1damage$를 주고 $grav+2$를 부여하고, 모듈 하나에게 $pollution$ 상태를 부여합니다</string>
 		<string lang="pt-br">Inflige a todos os personagens $1damage$ e $grav+2$ e lhes aplica um módulo com $pollution$</string>
 		<string lang="zh-tw">對所有角色造成$1damage$並施加$grav+2$，並各$pollution$他們所裝備的一個模組。</string>
-		<string lang="uk">Завдає $1damage$ і $grav+2$ до всіх персонажів і накладає на кожен модуль $pollution$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає $grav+2$ на всіх персонажів, а на кожен модуль накладається $pollution$.</string>
 </set>
 <set id="description-skill-moduleselfencrusting-aoe">
 		<string lang="de">Versieht zwei Module mit$br$$selfencrusting$</string>
@@ -470,7 +470,7 @@
 		<string lang="pt-br">Coloca um módulo $b$Bomba de Tempo$/b$ em um dos seus racks.</string>
 		<string lang="zh-tw">選擇一個模架放置$b$定時炸彈$/b$。
 </string>
-		<string lang="uk">Розміщує $b$Бомба Уповільненої Дії$/b$ на модуль в одній із ваших стійок.</string>
+		<string lang="uk">Розміщує $b$Бомбу уповільненої дії$/b$ на модуль в одній із ваших стійок.</string>
 </set>
 <set id="description-skill-ondeath-gravspill">
 		<string lang="de">Verteilt seine aktuelle $grav+$ auf alle Gegner.</string>
@@ -484,7 +484,7 @@
 		<string lang="pt-br">Espalha seu atual $grav+$ sobre todos os inimigos</string>
 		<string lang="zh-tw">將當前所受$grav+$傳播給所有敵人。
 </string>
-		<string lang="uk">Поширює поточний $grav+$ на всіх ворогів.</string>
+		<string lang="uk">Поширює свій $grav+$ на всіх ворогів.</string>
 </set>
 <set id="description-skill-ondeath-hurtcrabbody">
 		<string lang="de">Fügt dem Körper $2damage$ zu.</string>
@@ -498,7 +498,7 @@
 		<string lang="pt-br">Inflige ao corpo $2damage$</string>
 		<string lang="zh-tw">對軀幹造成$2damage$。
 </string>
-		<string lang="uk">Завдає $2damage$ до тіла.</string>
+		<string lang="uk">Наносить $2damage$ тілу.</string>
 </set>
 <set id="description-skill-ondeath-removeshieldfromreactor">
 		<string lang="de">Entfernt einmal $shield2$ vom Reaktor.</string>
@@ -512,7 +512,7 @@
 		<string lang="pt-br">Remove uma instância de $shield2$ do reator.</string>
 		<string lang="zh-tw">從反應堆中移除一次$shield2$。
 </string>
-		<string lang="uk">Видаляє один екземпляр $shield2$ з реактора.</string>
+		<string lang="uk">Знімає один $shield2$ з реактора.</string>
 </set>
 <set id="description-skill-ondeath-vulnerability">
 		<string lang="de">Fügt einem Gegner $vulnerable$ zu. Er hält $4$ Zeitschritte an.</string>
@@ -526,7 +526,7 @@
 		<string lang="pt-br">Aplica $vulnerable$ a um inimigo. Dura $4$ turnos</string>
 		<string lang="zh-tw">對一名敵人施加$vulnerable$，持續$4$時間步長。
 </string>
-		<string lang="uk">Застосовується $vulnerable$ ворогу. Це триває протягом $4$ часові кроки.</string>
+		<string lang="uk">Накладає $vulnerable$ на ворога. Це триває протягом $4$ часових кроків.</string>
 </set>
 <set id="description-skill-passive-powerraiseifcrustbroken">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
@@ -540,7 +540,7 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que uma $crust$ é quebrada.</string>
 		<string lang="zh-tw">$crust$破損時，提升$1$$might$。
 </string>
-		<string lang="uk">Піднімає $might$ за $1$ кожного разу, коли a $crust$ руйнується.</string>
+		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли руйнується $crust$.</string>
 </set>
 <set id="description-skill-passive-powerraiseifdamaged">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn er $damage$ nimmt.</string>
@@ -554,7 +554,7 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que recebe $damage$</string>
 		<string lang="zh-tw">受到$damage$時，提升$1$$might$。
 </string>
-		<string lang="uk">Піднімає $might$ за $1$ коли отримує $damage$.</string>
+		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ коли отримує $damage$.</string>
 </set>
 <set id="description-skill-passive-powerraiseifdamaged-full">
 		<string lang="de">Füllt $might$, immer wenn er $damage$ nimmt.</string>
@@ -568,7 +568,7 @@
 		<string lang="pt-br">Enche $might$ sempre que recebe $damage$</string>
 		<string lang="zh-tw">受到$damage$時，獲得最大$might$。
 </string>
-		<string lang="uk">Наповнює $might$ коли отримує $damage$.</string>
+		<string lang="uk">Набирає $mighticon$$b$Силу$ коли отримує $damage$.</string>
 </set>
 <set id="description-skill-passive-powerraiseifgravinflicted">
 		<string lang="de">Erhöht $might$ aus eingehender $grav+$.</string>
@@ -582,7 +582,7 @@
 		<string lang="pt-br">Aumenta $might$ de infligir $grav+$ em si mesmo.</string>
 		<string lang="zh-tw">根據自身所受$grav+$提升$might$。
 </string>
-		<string lang="uk">Піднімає $might$ від нанесеного $grav+$ на себе.</string>
+		<string lang="uk">Збільшує $mighticon$$b$Силу$ коли на нього накладають $grav+$.</string>
 </set>
 <set id="description-skill-passive-powerraiseifplasmagenerated">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn $plasma$ erzeugt wird.</string>
@@ -596,7 +596,7 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que $plasma$ é criado.</string>
 		<string lang="zh-tw">產生$plasma$時，提升$1$$might$。
 </string>
-		<string lang="uk">Піднімає $might$ на $1$ кожного разу, коли створюється $plasma$.</string>
+		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли створюється $plasma$.</string>
 </set>
 <set id="description-skill-passive-powerraiseifturnorderchanged">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -610,7 +610,7 @@
 		<string lang="pt-br">Aumenta $might$ em $1$ sempre que a ordem dos turnos é alterada.</string>
 		<string lang="zh-tw">輪次發生改變時，提升$1$$might$。
 </string>
-		<string lang="uk">Піднімає $might$ на $1$ кожного разу, коли змінюється порядок ходу.</string>
+		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли змінюється порядок ходу.</string>
 </set>
 <set id="description-skill-passive-powerraiseifturnorderchanged-full">
 		<string lang="de">Füllt $might$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -624,7 +624,7 @@
 		<string lang="pt-br">Enche $might$ sempre que a ordem dos turnos é alterada.</string>
 		<string lang="zh-tw">輪次發生改變時，獲得最大$might$。
 </string>
-		<string lang="uk">Наповнює $might$ кожного разу, коли змінюється порядок ходу.</string>
+		<string lang="uk">Набирає $mighticon$$b$Силу$ щоразу, коли змінюється порядок ходу.</string>
 </set>
 <set id="description-skill-paw">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.</string>
@@ -638,7 +638,7 @@
 		<string lang="pt-br">Inflige a um inimigo $1damage$</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$。
 </string>
-		<string lang="uk">Завдає $1damage$ ворогу.</string>
+		<string lang="uk">Наносить $1damage$ ворогу.</string>
 </set>
 <set id="description-skill-paw-2">
 		<string lang="de">Fügt einem Gegner $2damage$ zu.</string>
@@ -652,7 +652,7 @@
 		<string lang="pt-br">Inflige a um inimigo $2damage$</string>
 		<string lang="zh-tw">對一名敵人造成$2damage$。
 </string>
-		<string lang="uk">Завдає $2damage$ ворогу.</string>
+		<string lang="uk">Наносить $2damage$ ворогу.</string>
 </set>
 <set id="description-skill-powertodamage">
 		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $damage$ zuzufügen.</string>
@@ -666,7 +666,7 @@
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
 		<string lang="zh-tw">移除全部$might$，對一名敵人造成等量$damage$。
 </string>
-		<string lang="uk">Видаляє всю $might$ для нанесення тієї ж кількості $damage$ ворогу.</string>
+		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ та наносить $damage$ такої ж сили ворогу.</string>
 </set>
 <set id="description-skill-powertodamage-gravpolyp">
 		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $damage$ zuzufügen.</string>
@@ -680,7 +680,7 @@
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
 		<string lang="zh-tw">移除全部$might$，對一名敵人造成等量$damage$。
 </string>
-		<string lang="uk">Видаляє все $might$ для нанесення тієї ж кількості $damage$ ворогу.</string>
+		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ та наносить $damage$ такої ж сили ворогу.</string>
 </set>
 <set id="description-skill-rightclaw">
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
@@ -694,7 +694,7 @@
 		<string lang="pt-br">Inflige $1damage$ e inflige um módulo com $crust$.</string>
 		<string lang="zh-tw">造成$1damage$並對一個模組施放$crust$。
 </string>
-		<string lang="uk">Завдає $1damage$ і накладає на модуль $crust$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає на модуль $crust$.</string>
 </set>
 <set id="description-skill-shleck-frog">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
@@ -708,7 +708,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.$p$Pode remover $grav+1$ do alvo para aumentar $might$ em $1$.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$。$p$有概率移除目標$grav+1$以提升$1$$might$。
 </string>
-		<string lang="uk">Завдає $1damage$.$p$Може видалити $grav+1$ з цілі, щоб підняти $might$ на $1$.</string>
+		<string lang="uk">Наносить $1damage$.$p$Може прибрати $grav+1$ з цілі, щоб підняти $mighticon$$b$Силу$ на $1$.</string>
 </set>
 <set id="description-skill-shleck-protozoon">
 		<string lang="de">Fügt $1damage$ zu.$p$Kann $grav+1$ vom Ziel entfernen, um sich selbst um $1$ zu heilen.</string>
@@ -722,7 +722,7 @@
 		<string lang="pt-br">Inflige $1damage$ a um inimigo.$p$Pode remover $grav+1$ do alvo para se curar em $1$.</string>
 		<string lang="zh-tw">對一名敵人造成$1damage$。$br$有概率移除目標$grav+1$以治療自身$1$。
 </string>
-		<string lang="uk">Завдає $1damage$.$p$Може видалити $grav+1$ з цілі, щоб зцілити себе $1$.</string>
+		<string lang="uk">Наносить $1damage$.$p$Може прибрати $grav+1$ з цілі, щоб зцілити себе $1$.</string>
 </set>
 <set id="description-skill-stormstrike">
 		<string lang="de">Fügt allen Charakteren auf diesem Zeitschritt $b$$VALUE$$/b$ $damage$ zu.</string>
@@ -736,7 +736,7 @@
 		<string lang="pt-br">Inflige a todos os personagens jogadores no mesmo passo de tempo $b$$VALUE$$/b$ $damage$</string>
 		<string lang="zh-tw">對當前時間步上的所有己方角色造成$b$$VALUE$$/b$$damage$。
 </string>
-		<string lang="uk">Завдає $b$ $VALUE$ $/b$ $damage$ для всіх гравців на цьому часовому кроці.</string>
+		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
@@ -778,7 +778,7 @@
 		<string lang="pt-br">Grasnado Ensordecedor $mighticon$</string>
 		<string lang="zh-tw">尖叫$mighticon$
 </string>
-		<string lang="uk">Оглушливий Каркіт $mighticon$</string>
+		<string lang="uk">Оглушливий крекіт $mighticon$</string>
 </set>
 <set id="name-skill-damageinheightofpower">
 		<string lang="de">Mächtiger Stromschlag</string>
@@ -792,7 +792,7 @@
 		<string lang="pt-br">Choque Poderoso</string>
 		<string lang="zh-tw">沉重打擊
 </string>
-		<string lang="uk">Могутній Розряд</string>
+		<string lang="uk">Могутній розряд</string>
 </set>
 <set id="name-skill-encrustmodule">
 		<string lang="de">Harz $crusticon$</string>
@@ -820,7 +820,7 @@
 		<string lang="pt-br">Ecologia Grav.</string>
 		<string lang="zh-tw">引力生態
 </string>
-		<string lang="uk">Грав. Екологія</string>
+		<string lang="uk">Гравіекологія</string>
 </set>
 <set id="name-skill-enemyspawn-protozoon">
 		<string lang="de">Teilen</string>
@@ -834,7 +834,7 @@
 		<string lang="pt-br">Dividir</string>
 		<string lang="zh-tw">分裂
 </string>
-		<string lang="uk">Розділитися</string>
+		<string lang="uk">Розділення</string>
 </set>
 <set id="name-skill-enemyspawn-slime">
 		<string lang="de">Verdoppeln</string>
@@ -848,7 +848,7 @@
 		<string lang="pt-br">Duplicar</string>
 		<string lang="zh-tw">複製
 </string>
-		<string lang="uk">Дублювати</string>
+		<string lang="uk">Дублювання</string>
 </set>
 <set id="name-skill-equilibriumdissipation">
 		<string lang="de">Equilibrium</string>
@@ -876,7 +876,7 @@
 		<string lang="pt-br">Mordida Grav.</string>
 		<string lang="zh-tw">引力啃咬
 </string>
-		<string lang="uk">Грав. Укус</string>
+		<string lang="uk">Гравіукус</string>
 </set>
 <set id="name-skill-gravimplode">
 		<string lang="de">Grav.-Implosion</string>
@@ -890,7 +890,7 @@
 		<string lang="pt-br">Implosão Grav.</string>
 		<string lang="zh-tw">引力內爆
 </string>
-		<string lang="uk">Грав. Колапс</string>
+		<string lang="uk">Гравіколапс</string>
 </set>
 <set id="name-skill-gravimplode-bossshroom">
 		<string lang="de">Totale Grav.-Implosion</string>
@@ -904,7 +904,7 @@
 		<string lang="pt-br">Implosão Grav. Total</string>
 		<string lang="zh-tw">引力內爆總數
 </string>
-		<string lang="uk">Повний Грав. Колапс</string>
+		<string lang="uk">Повний гравіколапс</string>
 </set>
 <set id="name-skill-gravimplode-one">
 		<string lang="de">Grav.-Implosion 1</string>
@@ -918,7 +918,7 @@
 		<string lang="pt-br">Implosão Grav. 1</string>
 		<string lang="zh-tw">引力內爆 1
 </string>
-		<string lang="uk">Грав. Колапс 1</string>
+		<string lang="uk">Гравіколапс 1</string>
 </set>
 <set id="name-skill-gravimpulse">
 		<string lang="de">Grav.-Impuls</string>
@@ -932,7 +932,7 @@
 		<string lang="pt-br">Impulso Grav.</string>
 		<string lang="zh-tw">引力脈衝
 </string>
-		<string lang="uk">Грав. Імпульс</string>
+		<string lang="uk">Гравіімпульс</string>
 </set>
 <set id="name-skill-gravpull">
 		<string lang="de">Grav.-Ziehen $grav-1$</string>
@@ -946,7 +946,7 @@
 		<string lang="pt-br">Puxão Grav. $grav-1$</string>
 		<string lang="zh-tw">引力吸引$grav-1$
 </string>
-		<string lang="uk">Грав. Тяга $grav-1$</string>
+		<string lang="uk">Гравіпритягнення $grav-1$</string>
 </set>
 <set id="name-skill-gravpush-1">
 		<string lang="de">Grav.-Stoß $grav+1$</string>
@@ -960,7 +960,7 @@
 		<string lang="pt-br">Empurrão Grav. $grav+1$</string>
 		<string lang="zh-tw">引力排斥$grav+1$
 </string>
-		<string lang="uk">Грав. Поштовх $grav+1$</string>
+		<string lang="uk">Гравіпоштовх $grav+1$</string>
 </set>
 <set id="name-skill-gravpush-2">
 		<string lang="de">Grav.-Stoß $grav+2$</string>
@@ -974,7 +974,7 @@
 		<string lang="pt-br">Empurrão Grav. $grav+2$</string>
 		<string lang="zh-tw">引力排斥$grav+2$
 </string>
-		<string lang="uk">Грав. Поштовх $grav+2$</string>
+		<string lang="uk">Гравіпоштовх $grav+2$</string>
 </set>
 <set id="name-skill-gravpush-3">
 		<string lang="de">Grav.-Stoß $grav+3$</string>
@@ -988,7 +988,7 @@
 		<string lang="pt-br">Empurrão Grav. $grav+3$</string>
 		<string lang="zh-tw">引力排斥$grav+3$
 </string>
-		<string lang="uk">Грав. Поштовх $grav+3$</string>
+		<string lang="uk">Гравіпоштовх $grav+3$</string>
 </set>
 <set id="name-skill-gravspore-positive">
 		<string lang="de">Grav.-Sporen $grav+1$</string>
@@ -1002,7 +1002,7 @@
 		<string lang="pt-br">Esporos Grav. $grav+1$</string>
 		<string lang="zh-tw">引力孢子$grav+1$
 </string>
-		<string lang="uk">Грав. Спора $grav+1$</string>
+		<string lang="uk">Гравіспора $grav+1$</string>
 </set>
 <set id="name-skill-gravspore-positive-2">
 		<string lang="de">Grav.-Sporen $grav+2$</string>
@@ -1016,7 +1016,7 @@
 		<string lang="pt-br">Esporos Grav. $grav+2$</string>
 		<string lang="zh-tw">引力孢子$grav+2$
 </string>
-		<string lang="uk">Грав. Спора $grav+2$</string>
+		<string lang="uk">Гравіспора $grav+2$</string>
 </set>
 <set id="name-skill-gravspore-positive-bossshroom">
 		<string lang="de">Boss-Sporen $grav+2$$grav-1$</string>
@@ -1030,7 +1030,7 @@
 		<string lang="pt-br">Esporos Boss $grav+2$$grav-1$</string>
 		<string lang="zh-tw">首領孢子$grav+2$
 </string>
-		<string lang="uk">Спори Боса $grav+2$ $grav-1$</string>
+		<string lang="uk">Спори боса $grav+2$ $grav-1$</string>
 </set>
 <set id="name-skill-gravspore-positive-bossshroom-stage2">
 		<string lang="de">Boss-Sporen $grav+2$$grav-2$</string>
@@ -1043,7 +1043,7 @@
 		<string lang="kr">우두머리 포자 $grav+2$$grav-2$</string>
 		<string lang="pt-br">Esporos Boss $grav+2$$grav-2$</string>
 		<string lang="zh-tw">首領孢子$grav+2$$grav-2$</string>
-		<string lang="uk">Спори Боса $grav+2$ $grav-2$</string>
+		<string lang="uk">Спори боса $grav+2$ $grav-2$</string>
 </set>
 <set id="name-skill-gravspore-positive-bossshroom-tutorial">
 		<string lang="de">Boss-Sporen $grav+2$$grav-3$</string>
@@ -1057,7 +1057,7 @@
 		<string lang="pt-br">Esporos Boss $grav+2$$grav-3$</string>
 		<string lang="zh-tw">首領孢子$grav+2$
 </string>
-		<string lang="uk">Спори Боса $grav+2$ $grav-3$</string>
+		<string lang="uk">Спори боса $grav+2$ $grav-3$</string>
 </set>
 <set id="name-skill-gravsting">
 		<string lang="de">Grav.-Stachel $grav+1$</string>
@@ -1071,7 +1071,7 @@
 		<string lang="pt-br">Agulha Grav. $grav+1$</string>
 		<string lang="zh-tw">引力叮咬$grav+1$
 </string>
-		<string lang="uk">Грав. Жало $grav+1$</string>
+		<string lang="uk">Гравіжало $grav+1$</string>
 </set>
 <set id="name-skill-gravsting-2">
 		<string lang="de">Grav.-Stachel $grav+2$</string>
@@ -1085,7 +1085,7 @@
 		<string lang="pt-br">Agulha Grav. $grav+2$</string>
 		<string lang="zh-tw">引力叮咬$grav+2$
 </string>
-		<string lang="uk">Грав. Жало $grav+2$</string>
+		<string lang="uk">Гравіжало $grav+2$</string>
 </set>
 <set id="name-skill-gravtransfer">
 		<string lang="de">Grav.-Transfer</string>
@@ -1099,7 +1099,7 @@
 		<string lang="pt-br">Transferência Grav.</string>
 		<string lang="zh-tw">引力轉移
 </string>
-		<string lang="uk">Грав. Трансфер</string>
+		<string lang="uk">Гравітрансфер</string>
 </set>
 <set id="name-skill-leftclaw">
 		<string lang="de">Linke Schere $grav+2$</string>
@@ -1113,7 +1113,7 @@
 		<string lang="pt-br">Garra Esquerda $grav+2$</string>
 		<string lang="zh-tw">左鉗打擊$grav+2$
 </string>
-		<string lang="uk">Лівий Клішня $grav+2$</string>
+		<string lang="uk">Ліва клішня $grav+2$</string>
 </set>
 <set id="name-skill-lightningstrike">
 		<string lang="de">Blitzschlag $VALUE$</string>
@@ -1127,7 +1127,7 @@
 		<string lang="pt-br">Choque de Raio $VALUE$</string>
 		<string lang="zh-tw">閃電打擊$VALUE$
 </string>
-		<string lang="uk">Удар Блискавки $VALUE$</string>
+		<string lang="uk">Удар блискавки $VALUE$</string>
 </set>
 <set id="name-skill-modularrackfire">
 		<string lang="de">Spannung</string>
@@ -1155,7 +1155,7 @@
 		<string lang="pt-br">Força Bruta $gravrecoilicon$</string>
 		<string lang="zh-tw">蠻力衝撞$gravrecoilicon$
 </string>
-		<string lang="uk">Груба Сила $gravrecoilicon$</string>
+		<string lang="uk">Груба сила $gravrecoilicon$</string>
 </set>
 <set id="name-skill-modulegravrecoil-slime">
 		<string lang="de">Verschleimen $gravrecoilicon$</string>
@@ -1183,7 +1183,7 @@
 		<string lang="pt-br">Creptação de Plasma</string>
 		<string lang="zh-tw">等離子燃燒機
 </string>
-		<string lang="uk">Плазмове горіння</string>
+		<string lang="uk">Згоряння плазми</string>
 </set>
 <set id="name-skill-modulepollution-reactor">
 		<string lang="de">Weltuntergangswelle</string>
@@ -1197,7 +1197,7 @@
 		<string lang="pt-br">Onda do Juízo Final</string>
 		<string lang="zh-tw">末日電湧
 </string>
-		<string lang="uk">Сплеск Судного Дня</string>
+		<string lang="uk">Сплеск судного дня</string>
 </set>
 <set id="name-skill-moduleselfencrusting-aoe">
 		<string lang="de">Kristall-Resonanz $crusticon$</string>
@@ -1211,7 +1211,7 @@
 		<string lang="pt-br">Ressonância Cristalina $crusticon$</string>
 		<string lang="zh-tw">水晶共振$crusticon$
 </string>
-		<string lang="uk">Кристалічний Резонанс $crusticon$</string>
+		<string lang="uk">Кристалічний резонанс $crusticon$</string>
 </set>
 <set id="name-skill-modulespawn-timebomb">
 		<string lang="de">Zeitbombe</string>
@@ -1225,7 +1225,7 @@
 		<string lang="pt-br">Bomba Relógio</string>
 		<string lang="zh-tw">定時炸彈
 </string>
-		<string lang="uk">Бомба Уповільненої Дії</string>
+		<string lang="uk">Бомба уповільненої дії</string>
 </set>
 <set id="name-skill-ondeath-gravspill">
 		<string lang="de">Grav.-Austritt $grav+icon$</string>
@@ -1239,7 +1239,7 @@
 		<string lang="pt-br">Derrame Grav. $grav+icon$</string>
 		<string lang="zh-tw">引力噴湧$grav+icon$
 </string>
-		<string lang="uk">Грав. Розлив $grav+icon$</string>
+		<string lang="uk">Гравірозлив $grav+icon$</string>
 </set>
 <set id="name-skill-ondeath-hurtcrabbody">
 		<string lang="de">Körperteil</string>
@@ -1253,7 +1253,7 @@
 		<string lang="pt-br">Parte do Corpo</string>
 		<string lang="zh-tw">十指連心
 </string>
-		<string lang="uk">Частина Тіла</string>
+		<string lang="uk">Частина тіла</string>
 </set>
 <set id="name-skill-ondeath-removeshieldfromreactor">
 		<string lang="de">Schild-Deaktivierung</string>
@@ -1267,7 +1267,7 @@
 		<string lang="pt-br">Escudos Desativados</string>
 		<string lang="zh-tw">護盾解除
 </string>
-		<string lang="uk">Скидання Щитів</string>
+		<string lang="uk">Скидання щитів</string>
 </set>
 <set id="name-skill-ondeath-vulnerability">
 		<string lang="de">Durchdringender Schrei</string>
@@ -1281,7 +1281,7 @@
 		<string lang="pt-br">Grito Perfurante</string>
 		<string lang="zh-tw">刺耳尖叫
 </string>
-		<string lang="uk">Пронизливий Крик</string>
+		<string lang="uk">Пронизливий крик</string>
 </set>
 <set id="name-skill-passive-powerraiseifcrustbroken">
 		<string lang="de">Krusten-Detektion $mighticon$</string>
@@ -1295,7 +1295,7 @@
 		<string lang="pt-br">Detecção de Crosta $mighticon$</string>
 		<string lang="zh-tw">晶殼偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Кристалізації $mighticon$</string>
+		<string lang="uk">Детекція кристалізації $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifdamaged">
 		<string lang="de">Trauma-Detektion $mighticon$</string>
@@ -1309,7 +1309,7 @@
 		<string lang="pt-br">Detecção de Trauma $mighticon$</string>
 		<string lang="zh-tw">創傷偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Травми $mighticon$</string>
+		<string lang="uk">Детекція травми $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifdamaged-full">
 		<string lang="de">Trauma-Detektion $mighticon$</string>
@@ -1323,7 +1323,7 @@
 		<string lang="pt-br">Detecção de Trauma $mighticon$</string>
 		<string lang="zh-tw">創傷偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Травми $mighticon$</string>
+		<string lang="uk">Детекція травми $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifplasmagenerated">
 		<string lang="de">Plasma-Detektion $mighticon$</string>
@@ -1337,7 +1337,7 @@
 		<string lang="pt-br">Detecção de Plasma $mighticon$</string>
 		<string lang="zh-tw">等離子偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Плазми $mighticon$</string>
+		<string lang="uk">Детекція плазми $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifturnorderchanged">
 		<string lang="de">Chrono-Detektion $mighticon$</string>
@@ -1351,7 +1351,7 @@
 		<string lang="pt-br">Detecção de Crono $mighticon$</string>
 		<string lang="zh-tw">時序偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Хроно $mighticon$</string>
+		<string lang="uk">Хроно-детекція $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifturnorderchanged-full">
 		<string lang="de">Chrono-Detektion $mighticon$</string>
@@ -1365,7 +1365,7 @@
 		<string lang="pt-br">Detecção de Crono $mighticon$</string>
 		<string lang="zh-tw">時序偵測$mighticon$
 </string>
-		<string lang="uk">Виявлення Хроно $mighticon$</string>
+		<string lang="uk">Хроно-детекція $mighticon$</string>
 </set>
 <set id="name-skill-paw">
 		<string lang="de">Pranke</string>
@@ -1379,7 +1379,7 @@
 		<string lang="pt-br">Pata</string>
 		<string lang="zh-tw">爪擊
 </string>
-		<string lang="uk">Лапа</string>
+		<string lang="uk">Удар лапою</string>
 </set>
 <set id="name-skill-paw-2">
 		<string lang="de">Pranke 2</string>
@@ -1393,7 +1393,7 @@
 		<string lang="pt-br">Pata 2</string>
 		<string lang="zh-tw">爪擊 2
 </string>
-		<string lang="uk">Лапа 2</string>
+		<string lang="uk">Удар лапою 2</string>
 </set>
 <set id="name-skill-powertodamage">
 		<string lang="de">Zap $mighticon$</string>
@@ -1435,7 +1435,7 @@
 		<string lang="pt-br">Garra Direita $crusticon$</string>
 		<string lang="zh-tw">右鉗打擊$crusticon$
 </string>
-		<string lang="uk">Права Клішня $crusticon$</string>
+		<string lang="uk">Права клішня $crusticon$</string>
 </set>
 <set id="name-skill-shleck-frog">
 		<string lang="de">Schleck</string>
@@ -1477,7 +1477,7 @@
 		<string lang="pt-br">Choque de Raio $VALUE$</string>
 		<string lang="zh-tw">閃電打擊$VALUE$
 </string>
-		<string lang="uk">Удар Блискавки $VALUE$</string>
+		<string lang="uk">Удар блискавки $VALUE$</string>
 </set>
 <set id="skill-attack">
 		<string lang="de">Angriff</string>
@@ -1561,7 +1561,7 @@
 		<string lang="pt-br">Manipulação Grav.</string>
 		<string lang="zh-tw">引力操縱
 </string>
-		<string lang="uk">Грав. Маніпуляція</string>
+		<string lang="uk">Гравіманіпуляція</string>
 </set>
 <set id="skill-might">
 		<string lang="de">Macht</string>
@@ -1603,7 +1603,7 @@
 		<string lang="pt-br">Ao ser derrotado</string>
 		<string lang="zh-tw">失敗
 </string>
-		<string lang="uk">Про Поразку</string>
+		<string lang="uk">При поразці</string>
 </set>
 <set id="skill-passive">
 		<string lang="de">Passiv</string>

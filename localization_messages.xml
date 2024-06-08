@@ -609,7 +609,7 @@
 		<string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$목표를 지정하세요</string>
 		<string lang="pt-br">Selecione o alvo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
 		<string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇目標</string>
-		<string lang="uk">Виберіть ціль для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
+		<string lang="uk">Обери ціль для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-prompt-selecttargettimestepformodule">
 		<string lang="de">Wähle einen Zeitschritt für$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
@@ -622,7 +622,7 @@
         <string lang="kr">&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;의$br$시간 단계를 선택하세요</string>
         <string lang="pt-br">Selecione um passo de tempo para$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;</string>
         <string lang="zh-tw">為$br$&lt;size=16&gt;$MODULEICON$$NAME$&lt;/size&gt;$br$選擇時間步長</string>
-        <string lang="uk">Виберіть часовий крок для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
+        <string lang="uk">Обери часовий крок для$br$&lt;size=16&gt;$MODULEICON$ $NAME$&lt;/size&gt;</string>
 </set>
 <set id="message-rackconnect">
 		<string lang="de">Verbinde the Module, die du aktivieren willst, mit Kabeln.</string>
@@ -734,7 +734,7 @@
 		<string lang="pt-br">Você pode ressuscitá-los em uma loja ou de volta ao acampamento!</string>
 		<string lang="zh-tw">可以在商店、營地或戰利品介面用等離子體復活角色$plasma$！
 </string>
-		<string lang="uk">Привести до тями можна у магазині, в таборі$br$або на екрані здобичі за наявності достатньої кількості $plasma$!</string>
+		<string lang="uk">Привести до тями можна у магазині, в таборі$br$або на екрані здобичі за наявності достатньої кількості $plasmaicon$$b$Плазми$/b$!</string>
 </set>
 <set id="worldmessage-addedstatuseffect">
 		<string lang="de">$b$+ $STATUS$$/b$</string>
@@ -776,7 +776,7 @@
 		<string lang="pt-br">Não pode ser alternado a partir daqui</string>
 		<string lang="zh-tw">無法在此處改變開關狀態
 </string>
-		<string lang="uk">З цього місця перемкнути не вдасться</string>
+		<string lang="uk">З цього місця перемикати не можна</string>
 </set>
 <set id="worldmessage-collectorlosesenergy">
 		<string lang="de">$energy$$br$verfliegt</string>

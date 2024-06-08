@@ -36,7 +36,7 @@
 		<string lang="kr">다른 $sensor$가 발동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $sensor$ de um tipo diferente é carregado.</string>
 		<string lang="zh-tw">每有一個不同類別的$sensor$被觸發時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $sensor$ іншого типу заряджається.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $sensor$ іншого типу заряджається.</string>
 </set>
 <set id="description-module-collectorcrust">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
@@ -49,7 +49,7 @@
 		<string lang="kr">$crust$가 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é quebrado.</string>
 		<string lang="zh-tw">每當有$crust$破損，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли руйнується $crust$.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли руйнується $crust$.</string>
 </set>
 <set id="description-module-collectorgravneg">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav-$ erhält.</string>
@@ -62,7 +62,7 @@
 		<string lang="kr">플레이어 캐릭터에게 $grav-$가 부여될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $grav-$ é aplicado a um personagem jogador.</string>
 		<string lang="zh-tw">每當己方角色被施加$grav-$，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $grav-$ застосовується до гравця.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $grav-$ застосовується до гравця.</string>
 </set>
 <set id="description-module-collectormalfunction">
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
@@ -87,7 +87,7 @@
 		<string lang="kr">전투원이 지닌 $might$이 상승할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que o $might$ de um combatente é aumentado.</string>
 		<string lang="zh-tw">每當參戰單位的$might$得到提升，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли на учаснику бою підвищується $might$.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли на учаснику бою підвищується $might$.</string>
 </set>
 <set id="description-module-collectorshield">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $damage$ durch $shield$ reduziert wird.</string>
@@ -100,7 +100,7 @@
 		<string lang="kr">$shield$에 의해 $damage$가 줄어들 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $damage$ é reduzido por $shield$.</string>
 		<string lang="zh-tw">每當$damage$被$shield$抵擋，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного разу, коли $shield$ зменшує $damage$.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $shield$ зменшує $damage$.</string>
 </set>
 <set id="description-module-effectoracceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
@@ -165,7 +165,7 @@
 		<string lang="kr">$lightning$ 하나를 소환해 대상 시간 단계에 위치한 모든 전투원에게 $damage$를 줍니다.</string>
 		<string lang="pt-br">Invoca um único $lightning$ em um passo de tempo alvo que inflige $damage$ a todos os combatentes nele.</string>
 		<string lang="zh-tw">於目標時間步召喚一道$lightning$，對處於此時間步的所有參戰單位造成$damage$。</string>
-		<string lang="uk">Викликає $lightning$ удар на цільовий часовий крок, який завдає $damage$ усім учасникам бою на ньому.</string>
+		<string lang="uk">На вказаному часовому кроку зʼявляється $lightning$, що нанесе $damage$ усім учасникам бою на ньому.</string>
 </set>
 <set id="description-module-effectormine">
 		<string lang="de">Fügt dem Charakter $damage$ zu.</string>
@@ -178,7 +178,7 @@
 		<string lang="kr">소유자에게 $damage$를 줍니다.</string>
 		<string lang="pt-br">Inflige $damage$ ao dono.</string>
 		<string lang="zh-tw">對擁有者造成$damage$。</string>
-		<string lang="uk">Завдає $damage$ власнику.</string>
+		<string lang="uk">Наносить $damage$ власнику.</string>
 </set>
 <set id="description-module-effectorrevitalizer">
 		<string lang="de">Wendet $healing$ auf einen Charakter deiner Wahl an.</string>
@@ -204,7 +204,7 @@
 		<string lang="kr">$cracked$ 상태의 범용 $b$블래스터$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Blaster$/b$ universal$br$com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$的$br$通用$b$爆能槍$/b$。</string>
-		<string lang="uk">Створює універсальний$br$ $b$Бластер$/b$ з $cracked$.</string>
+		<string lang="uk">Створює універсальний $cracked$ $b$Бластер$/b$.</string>
 </set>
 <set id="description-module-factorydecelerator">
 		<string lang="de">Stellt einen universellen $b$Verlangsamer$/b$$br$mit $cracked$ her.</string>
@@ -217,7 +217,7 @@
 		<string lang="kr">$cracked$ 상태의 범용 $b$감속기$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Decelerator$/b$ universal$br$com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$的通用$b$減速器$/b$。</string>
-		<string lang="uk">Створює універсальний $b$Сповільнювач$/b$ з $cracked$.</string>
+		<string lang="uk">Створює універсальний $cracked$ $b$Сповільнювач$/b$.</string>
 </set>
 <set id="description-module-factorygenerator">
 		<string lang="de">Stellt einen universellen $b$Generator$/b$ mit $unstable$ her.</string>
@@ -230,7 +230,7 @@
 		<string lang="kr">$cracked$ 상태의 범용 $b$발전기$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Gerador$/b$ universal$br$com $unstable$.</string>
 		<string lang="zh-tw">製造一個$unstable$的$br$通用$b$發生器$/b$。</string>
-		<string lang="uk">Створює універсальний $b$Генератор$/b$ з $unstable$.</string>
+		<string lang="uk">Створює універсальний $unstable$ $b$Генератор$/b$.</string>
 </set>
 <set id="description-module-factorylightningrod">
 		<string lang="de">Stellt einen universellen $b$Blitzableiter$/b$ her.</string>
@@ -256,7 +256,7 @@
 		<string lang="kr">$cracked$ 상태의 $crust$를 지닌 범용 $b$병합기$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Merger$/b$ universal$br$com $cracked$ e $crust$.</string>
 		<string lang="zh-tw">製造一個$cracked$且$crust$的$br$通用$b$合流器$/b$。</string>
-		<string lang="uk">Створює універсальний $b$Поєднувач$/b$ з $cracked$ і $crust$.</string>
+		<string lang="uk">Створює універсальний $cracked$ $b$Поєднувач$/b$ з $crust$.</string>
 </set>
 <set id="description-module-factorymodifier">
 		<string lang="de">Stellt einen universellen $b$Verstärker$/b$$br$mit $cracked$ her.</string>
@@ -269,7 +269,7 @@
 		<string lang="kr">$cracked$ 상태의 범용 $b$증폭기$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Modificador$/b$ universal com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$的通用$b$增幅器$/b$。</string>
-		<string lang="uk">Створює універсальний$br$ $b$Підсилювач$/b$ з $cracked$.</string>
+		<string lang="uk">Створює універсальний$br$ $cracked$ $b$Підсилювач$/b$.</string>
 </set>
 <set id="description-module-factoryrevitalizingscreen">
 		<string lang="de">Stellt einen universellen $b$Heilenden Schirm$/b$$br$mit $cracked$ her.</string>
@@ -282,7 +282,7 @@
 		<string lang="kr">$cracked$ 상태의 범용 $b$회복 차단막$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Tela Revitalizante$/b$ universal$br$com $cracked$.</string>
 		<string lang="zh-tw">製造一個$cracked$的通用$b$煥活屏障$/b$。</string>
-		<string lang="uk">Створює універсальний $b$Відновлюючий екран$/b$ з $cracked$.</string>
+		<string lang="uk">Створює універсальний $cracked$ $b$Відновлюючий екран$/b$.</string>
 </set>
 <set id="description-module-factoryturbulence">
 		<string lang="de">Stellt eine $b$Turbulenz$/b$ mit $volatile$ auf dem Rack des anderen Charakters her.</string>
@@ -295,7 +295,7 @@
 		<string lang="kr">다른 캐릭터의 랙에 $volatile$ $b$난류$/b$를 조립합니다.</string>
 		<string lang="pt-br">Constrói um $b$Turbulence$/b$ com $volatile$ no rack do outro personagem.</string>
 		<string lang="zh-tw">在另一角色的模架上製造一個$volatile$的$b$紊流器$/b$。</string>
-		<string lang="uk">Створює $b$Турбулентність$/b$ з $volatile$ на стійці іншого персонажа.</string>
+		<string lang="uk">Створює $volatile$ модуль $b$Турбулентність$/b$ на стійці іншого персонажа.</string>
 </set>
 <set id="description-module-generatorfire">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht alle anderen Module auf dem Rack mit $fire$.</string>
@@ -503,7 +503,7 @@
 		<string lang="kr">$storm$은 적에게도 몰아칠 것입니다.$p$소유자의 턴 시작 시, $storm$을 최대 $3$ 시간 단계까지 유도합니다(최소 $b$+1$/b$의 거리까지).</string>
 		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno do dono, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
 		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
-		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника наближає $storm$ на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
+		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника $storm$ наближається на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
 </set>
 <set id="description-module-plasmadischarger">
 		<string lang="de">Verbraucht alles $plasma$ um ebensoviel $energy$ zu erzeugen.</string>
@@ -558,7 +558,7 @@
 		<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após um turno de $lightning$ ou $storm$.</string>
 		<string lang="zh-tw">$lightning$或$storm$回合後，獲得$b$$SENSORVALUE$$/b$$energy$。
 </string>
-		<string lang="uk">Заряджається $b$ $SENSORVALUE$ $/b$ $energy$ після ходу $lightning$ або $stormicon$$b$Грози$/b$.</string>
+		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу $lightning$ або $stormicon$$b$Грози$/b$.</string>
 </set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
@@ -586,7 +586,7 @@
 		<string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo não $cracked$ neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個非$cracked$的模組，製造一個該模組的永久性複製品。
 </string>
-		<string lang="uk">Створює постійну копію іншого цільового не-$crackedicon$$b$Тріснутого$/b$ модуля на цій стійці.</string>
+		<string lang="uk">Копіює інший вказаний не-$cracked$ модуль на цій стійці.</string>
 </set>
 <set id="description-module-toggledduplicator-eob">
 		<string lang="de">Stellt eine Kopie eines Moduls ohne $cracked$ deiner Wahl auf diesem Rack her.$p$Die Kopie erhält $cracked$ und $unstable$.</string>
@@ -600,7 +600,7 @@
 		<string lang="pt-br">Constrói uma cópia de outro módulo alvo não $cracked$ neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
 		<string lang="zh-tw">在此模架上選擇一個非$cracked$的模組，製造一個該模組的複製品。$p$複製品$cracked$且$unstable$。
 </string>
-		<string lang="uk">Створює копію іншого цільового не-$crackedicon$$b$Тріснутого$/b$ модуля на цій стійці.$p$Новий модуль буде $cracked$ і $unstable$.</string>
+		<string lang="uk">Копіює інший вказаний не-$cracked$ модуль на цій стійці.$p$Новий модуль буде $cracked$ і $unstable$.</string>
 </set>
 <set id="description-module-toggledechochamber">
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
@@ -614,7 +614,7 @@
 		<string lang="pt-br">Aplica $replicating$ e $unstable$ a outro módulo alvo neste rack com $cracked$.</string>
 		<string lang="zh-tw">選擇同模架上另一$cracked$模組，賦予其$replicating$及$unstable$狀態。
 </string>
-		<string lang="uk">Застосовує $replicating$ і $unstable$ до іншого вказаного $crackedicon$$b$Тріснутого$/b$ модуля на цій стійці.</string>
+		<string lang="uk">Інший вказаний $cracked$ модуль на цій стійці отримає $replicating$ і $unstable$.</string>
 </set>
 <set id="description-module-toggledgravinverter">
 		<string lang="de">Kehrt die aktuelle $grav$ aller Kampfteilnehmer um.</string>
@@ -628,7 +628,7 @@
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 		<string lang="zh-tw">扭轉所有參戰單位的$grav$狀態。
 </string>
-		<string lang="uk">Інвертує поточну $grav$ у всіх учасників бою.</string>
+		<string lang="uk">Інвертує поточний $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgravvacuum">
 		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
@@ -670,7 +670,7 @@
 		<string lang="pt-br">Inverte o $grav$ atual de todos os combatentes.</string>
 		<string lang="zh-tw">扭轉所有參戰單位的$grav$狀態。
 </string>
-		<string lang="uk">Інвертує поточну $grav$ у всіх учасників бою.</string>
+		<string lang="uk">Інвертує поточний $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgrenademightnullifier">
 		<string lang="de">Entfernt alle $might$ von allen Kampfteilnehmern.</string>
@@ -1042,7 +1042,7 @@
 		<string lang="pt-br">Fábrica de Para-raios $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">避雷針工廠$MODIFICATIONVALUE$
 </string>
-		<string lang="uk">Фабрика громовідводів $MODIFICATIONVALUE$</string>
+		<string lang="uk">Фабрика блискавичників $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorymerger">
 		<string lang="de">Verbinder-Fabrik $MODIFICATIONVALUE$</string>
