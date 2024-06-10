@@ -146,18 +146,17 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли персонаж гравця отримує $damage$.</string>
 </set>
 <set id="description-module-condensator">
-		<string lang="de">Kann ge- oder entladen werden.$p$Eingehende $energy$$br$wird um $b$$MODIFICATIONVALUE$$/b$ verstärkt.</string>
-		<string lang="en">Can be charged or discharged.$p$Incoming $energy$ is$br$amplified by $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="fr">Peut être chargé ou déchargé.$p$$energy$ entrante est amplifié par $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="zh">可充放能量。$p$传入的$energy$放大$b$$MODIFICATIONVALUE$$/b$。</string>
-		<string lang="jp">充電または放電可能。$p$入力$energy$を$b$$MODIFICATIONVALUE$$/b$増強。</string>
-		<string lang="ru">Может быть заряжен или разряжен.$p$Входящая $energy$ усиливается на $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="es">Puede ser cargado o descargado.$p$La $energy$ entrante es amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="kr">충전하거나 방전시킬 수 있습니다.$p$획득하는 $energy$가 $b$$MODIFICATIONVALUE$$/b$만큼 증폭됩니다.</string>
-		<string lang="pt-br">Pode ser carregado ou descarregado.$p$A $energy$ de entrada é amplificada por $b$$MODIFICATIONVALUE$$/b$.</string>
-		<string lang="zh-tw">可充放能量。$p$傳入的$energy$放大$b$$MODIFICATIONVALUE$$/b$。
-</string>
-		<string lang="uk">Можна заряджати або розряджати.$p$Вхідна $energy$ збільшується на $b$ $MODIFICATIONVALUE$ $/b$.</string>
+		<string lang="de">Kann ge- oder entladen werden.</string>
+		<string lang="en">Can be charged or discharged.</string>
+		<string lang="fr">Peut être chargé ou déchargé.</string>
+		<string lang="zh">可充放能量。</string>
+		<string lang="jp">充電または放電可能。</string>
+		<string lang="ru">Может быть заряжен или разряжен.</string>
+		<string lang="es">Puede ser cargado o descargado.</string>
+		<string lang="kr">충전하거나 방전시킬 수 있습니다.</string>
+		<string lang="pt-br">Pode ser carregado ou descarregado.</string>
+		<string lang="zh-tw">可充放能量。</string>
+		<string lang="uk">Можна заряджати або розряджати.</string>
 </set>
 <set id="description-module-defibrillator" remarks="$healing$ is a keyword now">
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
@@ -786,18 +785,17 @@
 		<string lang="uk">Знищує інший вказаний модуль на цій стійці для створення $2$ одиниць $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-vaultregeneration">
-		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um $1healing$ auf alle Charaktere anzuwenden.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to all player characters.</string>
-		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ à tous les personnages joueurs.</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，治疗所有角色$1$ $healing$。</string>
-		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$プレイヤーキャラ全体$1$$healing$。</string>
-		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ ко всем игрокам.</string>
-		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ a todos los personajes jugadores.</string>
-		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 모든 플레이어 캐릭터에게 $1$ $healing$를 부여합니다.</string>
-		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1healing$ a todos os personagens jogadores.</string>
-		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$儲存$energy$，治療所有角色$1$ $healing$。
-</string>
-		<string lang="uk">Можна заряджати.$p$На початку ходу власника витрачає $1$ збережену $energyicon$$b$Енергію$/b$ на застосування $1healing$ до всіх персонажів гравця.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne$br$$1$ gespeicherte $energy$, um$br$$1healing$ auf den Charakter mit den geringsten HP anzuwenden.$p$&lt;size=11&gt;(Heilt bei Gleichstand den Besitzer.)&lt;/size&gt;</string>
+		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
+		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
+		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，$br$对生命值最低的角色施加$1$点$healing$。$p$&lt;size=11&gt;(平局时治疗拥有者。)&lt;/size&gt;</string>
+		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、HP最低のキャラに$1$$healing$。$p$&lt;size=11&gt;(引き分け時、所有者に回復。)&lt;/size&gt;</string>
+		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ к персонажу с наименьшим HP.$p$&lt;size=11&gt;(Лечит владельца при ничьей.)&lt;/size&gt;</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ al personaje con menos HP.$p$&lt;size=11&gt;(Cura al propietario en caso de empate.)&lt;/size&gt;</string>
+		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 소비하여 HP가 가장 낮은 캐릭터에게 $1$ $healing$을 적용합니다.$p$&lt;size=11&gt;(무승부일 경우 소유자를 치료합니다.)&lt;/size&gt;</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1healing$ ao personagem com menos HP.$p$&lt;size=11&gt;(Cura o dono em caso de empate.)&lt;/size&gt;</string>
+		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$儲存$energy$， $br$對生命值最低的角色施加$1$點$healing$。$p$&lt;size=11&gt;(平局時治療擁有者。)&lt;/size&gt;</string>
+		<string lang="uk">Можна заряджати.$p$На початку ходу власника витрачає $1$ збережену $energyicon$$b$Енергію$/b$ щоб застосовувати $1healing$ до персонажа з найменшим HP.$p$&lt;size=11&gt;(Лікує власника при нічиїй.)&lt;/size&gt;</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
@@ -1601,8 +1599,7 @@
 		<string lang="es">Célula de Regeneración $MODIFICATIONVALUE$</string>
 		<string lang="kr">재생 전지 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Regeneração $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">再生單元$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">再生單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка регенерації $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-vaultshield">
