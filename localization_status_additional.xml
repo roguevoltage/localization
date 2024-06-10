@@ -11,7 +11,7 @@
 		<string lang="pt-br">Não pode ser retirado do rack</string>
 		<string lang="zh-tw">無法取下
 </string>
-		<string lang="uk">Не можна взяти зі стійки</string>
+		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulelock-whilecharged">
 		<string lang="de">Ans Rack geschlossen, während es $energy$ hält</string>
@@ -24,7 +24,7 @@
 		<string lang="kr">$energy$를 보유한 동안 랙에 고정됨</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto segurando $energy$</string>
 		<string lang="zh-tw">存有$energy$時無法取下</string>
-		<string lang="uk">Заблоковано на стійці під час утримання $energy$</string>
+		<string lang="uk">Заблоковано на стійці поки всередині $energy$</string>
 </set>
 <set id="description-status-modulelock-wiredtoviral">
 		<string lang="de">Kann nicht vom Rack genommen werden$br$während es an ein virales Modul angeschlossen ist</string>
@@ -37,7 +37,7 @@
 		<string lang="kr">위협 모듈과 연결되어 있는 동안에는 랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack$br$enquanto conectado a um módulo de ameaça</string>
 		<string lang="zh-tw">與威脅模組相連時$br$無法取下</string>
-		<string lang="uk">Не можна взяти зі стійки$br$під час підключення до модуля загрози</string>
+		<string lang="uk">Не можна зняти зі стійки$br$поки підключено до модуля загрози</string>
 </set>
 <set id="description-status-modulelock-fire">
 		<string lang="de">Ans Rack geschlossen, während es $fire$ hat</string>
@@ -50,7 +50,7 @@
         <string lang="kr">$fire$ 상태일 때 랙에 고정됨</string>
         <string lang="pt-br">Travado no rack enquanto em $fire$</string>
         <string lang="zh-tw">在$fire$狀態下無法取下</string>
-        <string lang="uk">Заблоковано на стійці під час $fire$</string>
+        <string lang="uk">Заблоковано на стійці під час $fireicon$$b$Пожежі$/b$</string>
 </set>
 <set id="description-status-modulereplicating">
 		<string lang="de">Bei Aktivierung stellt dieses Modul eine Kopie von sich selbst her. Die Kopie hat $cooldown$ und verliert $replicating$.</string>
@@ -105,7 +105,7 @@
 		<string lang="pt-br">Será destruído após o turno do dono</string>
 		<string lang="zh-tw">擁有者的回合結束後自毀
 </string>
-		<string lang="uk">Буде знищено після ходу власника</string>
+		<string lang="uk">Знищиться після ходу власника</string>
 </set>
 <set id="description-status-modulevulnerability">
 		<string lang="de">Aktivierung fügt dem Charakter für $b$5$/b$ Zeitschritte $vulnerable$ zu</string>
@@ -119,7 +119,7 @@
 		<string lang="pt-br">A ativação inflige ao dono com $vulnerable$ por $b$5$/b$ passos de tempo</string>
 		<string lang="zh-tw">啟動後對擁有者施加$vulnerable$，持續$b$5$/b$個時間步
 </string>
-		<string lang="uk">Активація наносить власнику $vulnerable$ но $b$5$/b$ часові кроки</string>
+		<string lang="uk">Активація накладе на власника $vulnerable$ на $b$5$/b$ часових кроків</string>
 </set>
 <set id="description-status-stasis">
 		<string lang="de">Die Zeit steht für diesen Kampfteilnehmer still.</string>
@@ -133,7 +133,7 @@
 		<string lang="pt-br">O tempo para este combatente.</string>
 		<string lang="zh-tw">本場戰鬥中時間靜止。
 </string>
-		<string lang="uk">Для цього бійця час зупинився.</string>
+		<string lang="uk">Для цього учасника бою час зупинився.</string>
 </set>
 <set id="description-status-transformation-volcanodamagetograv">
 		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $grav+$ umgewandelt.</string>
@@ -147,7 +147,7 @@
 		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $grav+$.</string>
 		<string lang="zh-tw">火山對自身造成的$damage$轉換為$grav+$。
 </string>
-		<string lang="uk">Вхідний $damage$ від вулкану перетворюється на $grav+$.</string>
+		<string lang="uk">Перетворює $damage$ від вулкану на $grav+$.</string>
 </set>
 <set id="description-status-transformation-volcanodamagetomight">
 		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $might$ umgewandelt.</string>
@@ -161,7 +161,7 @@
 		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
 		<string lang="zh-tw">火山對自身造成的$damage$轉換為$might$。
 </string>
-		<string lang="uk">Вхідний $damage$ від вулкану перетворюється на $might$.</string>
+		<string lang="uk">Перетворює $damage$ від вулкану на $mighticon$$b$Силу$/b$.</string>
 </set>
 <set id="name-status-modulelock-startingmodule-hardlock">
 		<string lang="de">Charakterausrüstung</string>
@@ -175,7 +175,7 @@
 		<string lang="pt-br">Equipamento do Personagem</string>
 		<string lang="zh-tw">角色自帶
 </string>
-		<string lang="uk">Завантаження Персонажа</string>
+		<string lang="uk">Спорядження персонажа</string>
 </set>
 <set id="name-status-modulereplicating">
 		<string lang="de">Reproduktion 1</string>
@@ -203,7 +203,7 @@
 		<string lang="pt-br">Replicação Infinita</string>
 		<string lang="zh-tw">無限複製
 </string>
-		<string lang="uk">Нескінченна Реплікація</string>
+		<string lang="uk">Безкінечна реплікація</string>
 </set>
 <set id="name-status-modulestormattractor">
 		<string lang="de">Sturmanziehung</string>
@@ -217,7 +217,7 @@
 		<string lang="pt-br">Atração de Tempestade</string>
 		<string lang="zh-tw">風暴感召
 </string>
-		<string lang="uk">Штормовий Атракціон</string>
+		<string lang="uk">Притягнення бурі</string>
 </set>
 <set id="name-status-modulevolatile">
 		<string lang="de">Flüchtig</string>
@@ -231,7 +231,7 @@
 		<string lang="pt-br">Volátil</string>
 		<string lang="zh-tw">激蕩
 </string>
-		<string lang="uk">Летючий</string>
+		<string lang="uk">Нестійкий</string>
 </set>
 <set id="name-status-modulevulnerability">
 		<string lang="de">Gefährlich</string>
@@ -259,7 +259,7 @@
 		<string lang="pt-br">Estase</string>
 		<string lang="zh-tw">靜滯
 </string>
-		<string lang="uk">Стаз</string>
+		<string lang="uk">Стазис</string>
 </set>
 <set id="name-status-transformation-volcanodamagetograv">
 		<string lang="de">Vulkan-$damage$ zu $grav+$</string>
@@ -273,7 +273,7 @@
 		<string lang="pt-br">Vulcão $damage$ para $grav+$</string>
 		<string lang="zh-tw">火山$damage$轉化（$grav+$）
 </string>
-		<string lang="uk">Вулкан $damage$ в $grav+$</string>
+		<string lang="uk">Вулкан $damage$ на $grav+$</string>
 </set>
 <set id="name-status-transformation-volcanodamagetomight">
 		<string lang="de">Vulkan-$damage$ zu $might$</string>
@@ -287,7 +287,7 @@
 		<string lang="pt-br">Vulcão $damage$ para $might$</string>
 		<string lang="zh-tw">火山$damage$轉化（$might$）
 </string>
-		<string lang="uk">Вулкан $damage$ в $might$</string>
+		<string lang="uk">Перетворює $damage$ від вулкану на $mighticon$$b$Силу$</string>
 </set>
 <set id="shortname-status-stasis">
 		<string lang="de">Stasis</string>
@@ -301,6 +301,6 @@
 		<string lang="pt-br">Estase</string>
 		<string lang="zh-tw">靜滯
 </string>
-		<string lang="uk">Стаз</string>
+		<string lang="uk">Стазис</string>
 </set>
 </localization>

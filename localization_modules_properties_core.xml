@@ -23,7 +23,7 @@
 		<string lang="kr">전투 종료 시 모든 $energy$를 잃습니다</string>
 		<string lang="pt-br">Mantém até &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$$br$até o final da batalha</string>
 		<string lang="zh-tw">戰鬥結束後失去所有$energy$</string>
-		<string lang="uk">Втрачає всю $energyicon$$b$Енергію$/b$ в кінці бою</string>
+		<string lang="uk">Втрачає всю $energyicon$$b$Енергію$/b$ наприкінці бою</string>
 </set>
 <set id="discharge-storesenergy">
 		<string lang="de">Speichert $energy$ über Züge$br$und Kämpfe hinweg</string>
@@ -75,7 +75,7 @@
 		<string lang="kr">충전 이후에 고정 상태가 되지 않으며, 캐릭터 간에 자유롭게 교환할 수 있습니다</string>
 		<string lang="pt-br">Não será bloqueado após o carregamento e pode ser trocado livremente entre os personagens</string>
 		<string lang="zh-tw">充能後不會被鎖定，可在角色間自由交換</string>
-		<string lang="uk">Не буде заблокується після заряджання, можна вільно переміщати між персонажами</string>
+		<string lang="uk">Не заблокується після заряджання, можна вільно переміщати між персонажами</string>
 </set>
 <set id="exhaustion">
 		<string lang="de">Erschöpfung $EXHAUSTION$</string>
@@ -127,7 +127,7 @@
 		<string lang="kr">$energy$가 높을수록 더 좋은 모듈을 조립할 수 있습니다</string>
 		<string lang="pt-br">Mais $energy$ leva a um módulo melhor construído</string>
 		<string lang="zh-tw">輸入$energy$越大，製造的模組越好</string>
-		<string lang="uk">Вища $energy$ веде до кращого створеного модулю</string>
+		<string lang="uk">Вища $energy$ створить кращий модуль</string>
 </set>
 <set id="module-level-0">
 		<string lang="de">Level 0</string>
@@ -322,7 +322,7 @@
 		<string lang="kr">$sensor$ 모듈 뒤에 연결되지 않았습니다</string>
 		<string lang="pt-br">Não está conectado atrás de um módulo $sensor$</string>
 		<string lang="zh-tw">未直接連接到$sensor$模組</string>
-		<string lang="uk">Не підключається безпосередньо до модуля типу $sensor$</string>
+		<string lang="uk">Не підключений безпосередньо до модуля типу $sensor$</string>
 </set>
 <set id="module-properties-name-amplification">
 		<string lang="de">Verstärkung $MODIFICATIONVALUE$</string>
@@ -491,7 +491,7 @@
 		<string lang="kr">효과 모듈</string>
 		<string lang="pt-br">Módulo de Efeito</string>
 		<string lang="zh-tw">效果模組</string>
-		<string lang="uk">Модуль впливу</string>
+		<string lang="uk">Модуль ефектів</string>
 </set>
 <set id="module-type-passive">
 		<string lang="de">Passivmodul</string>
@@ -608,6 +608,7 @@
 	<string lang="kr">바람맞이 장난감</string>
 	<string lang="pt-br">Brinquedo de Corda</string>
 	<string lang="zh-tw">發條玩具</string>
+	<string lang="uk">Заводна іграшка</string>
 </set>
 <set id="timeline-targeting-minimumdistance-3">
 		<string lang="de">Mindestabstand $b$+3$/b$</string>

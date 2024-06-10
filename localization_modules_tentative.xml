@@ -18,7 +18,7 @@
 		<string lang="zh">引力排放口</string>
 		<string lang="jp">重力アウトレット</string>
 		<string lang="kr">Grav. Outlet</string>
-		<string lang="uk">Грав. Розетка</string>
+		<string lang="uk">Гравірозетка</string>
 </set>
 <set id="name-module-modifiervulnerability">
 		<string lang="de">Gefährlicher Verstärker $MODIFICATIONVALUE$</string>
@@ -30,7 +30,7 @@
 		<string lang="es">Amplificador Peligroso $MODIFICATIONVALUE$</string>
 		<string lang="kr">위험한 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador Perigoso $MODIFICATIONVALUE$</string>
-		<string lang="uk">Небезпечний Підсилювач $MODIFICATIONVALUE$</string>
+		<string lang="uk">Небезпечний підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-modifiervulnerability">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
@@ -90,7 +90,7 @@
         <string lang="es">Escombros Fundidos</string>
         <string lang="kr">녹아내린 잔해</string>
         <string lang="pt-br">Detritos Derretidos</string>
-		<string lang="uk">Розплавлені Уламки</string>
+		<string lang="uk">Розплавлені уламки</string>
 </set>
 <set id="description-module-modifiermolten">
 		<string lang="de">Verändert die Farbe eines Stroms.</string>
@@ -123,7 +123,7 @@
 		<string lang="zh">风暴手雷</string>
 		<string lang="jp">ストームヌルファイアー</string>
 		<string lang="kr">Storm Grenade</string>
-		<string lang="uk">Штормова Граната</string>
+		<string lang="uk">Штормова граната</string>
 </set>
 <set id="description-module-toggledgrenadestorm">
 		<string lang="de">Drängt den $storm$$br$$b$10$/b$ Zeitschritte zurück.</string>
@@ -135,7 +135,7 @@
         <string lang="es">Empuja la $storm$ hacia atrás$br$por $b$10$/b$ pasos de tiempo.</string>
         <string lang="kr">$storm$를 $b$10$/b$ 시간 단계로 밀어냅니다.</string>
         <string lang="pt-br">Empurra $storm$$br$por $b$10$/b$ passos de tempo.</string>
-		<string lang="uk">Відштовхує назад $storm$ $br$на $b$10$/b$ часові кроки.</string>
+		<string lang="uk">Відштовхує назад $storm$ $br$на $b$10$/b$ часовиї кроків.</string>
 </set>
 <set id="name-module-hotpotato">
 		<string lang="de">Heiße Kartoffel</string>
@@ -147,26 +147,31 @@
 		<string lang="es">Patata Caliente</string>
 		<string lang="kr">뜨거운 감자</string>
 		<string lang="pt-br">Batata Quente</string>
-		<string lang="uk">Гаряча Картопля</string>
+		<string lang="uk">Гаряча картопля</string>
 </set>
 <set id="name-module-passivetoyhammer">
 		<string lang="en">Toy Hammer</string>
+		<string lang="uk">Іграшковий молоток</string>
 </set>
 <set id="name-module-passivewindupgorf">
 		<string lang="en">Wind-Up Gorf</string>
+		<string lang="uk">Заводний Горф</string>
 </set>
 <set id="name-module-passivewindupdino">
 		<string lang="en">Wind-Up Dino</string>
+		<string lang="uk">Заводний динозаврик</string>
 </set>
 <set id="name-module-passivewindupmech">
 		<string lang="en">Wind-Up Mech</string>
+		<string lang="uk">Заводний Mech</string>
 </set>
 <set id="name-module-passivewindupshroom">
 		<string lang="en">Wind-Up Shroom</string>
+		<string lang="uk">Заводний грибок</string>
 </set>
 <set id="description-module-hotpotato">
 		<string lang="en">At the beginning of the owner's turn, inflict them with $grav+2$.$p$At the end of the owner's turn deals $1damage$ to them.</string>
-		<string lang="uk">На початку ходу власника завдайте $grav+2$.$p$В кінці ходу власника роздає $1damage$.</string>
+		<string lang="uk">На початку ходу власника накладає на нього $grav+2$.$p$Наприкінці ходу власника наносить йому $1damage$.</string>
 </set>
 <set id="name-module-effectorgravamplification">
         <string lang="de">Grav.-Verstärkungs-Strahler $MODIFICATIONVALUE$</string>
@@ -178,7 +183,7 @@
         <string lang="es">Rayo de Amplificación Grav. $MODIFICATIONVALUE$</string>
         <string lang="kr">Grav. Amplification Ray $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Raio de Amplificação Grav. $MODIFICATIONVALUE$</string>
-		<string lang="uk">Грав. Підсилювальний Промінь $MODIFICATIONVALUE$</string>
+		<string lang="uk">Гравіпідсилювальний промінь $MODIFICATIONVALUE$</string>
 </set>
 <set id="description-module-effectorgravamplification">
         <string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
@@ -190,7 +195,7 @@
         <string lang="es">Inflige $gravamplification$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
         <string lang="kr">대상 전투원에게 $gravamplification$ 부여합니다.$br$(지속시간: $energy$×3).</string>
         <string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
-		<string lang="uk">Завдає цілі $gravamplification$.$p$(Тривалість: $energy$×3).</string>
+		<string lang="uk">Накладає на ціль $gravamplification$.$p$(Тривалість: $energy$×3).</string>
 </set>
 <set id="name-module-generatorbomb">
         <string lang="de">Explosiver Generator</string>
@@ -202,7 +207,7 @@
         <string lang="es">Generador Explosivo</string>
         <string lang="kr">폭발 발전기</string>
         <string lang="pt-br">Gerador Explosivo</string>
-        <string lang="uk">Вибуховий Генератор</string>
+        <string lang="uk">Вибуховий генератор</string>
 </set>
 <set id="description-module-generatorbomb">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ und erzeugt ein $b$Zeitbomben-Modul$/b$</string>
@@ -214,7 +219,7 @@
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación y crea un módulo $b$Bomba de Tiempo$/b$</string>
         <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 $b$시한폭탄 모듈$/b$을 생성합니다</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
-		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації та створює a $b$Модуль Бомби Уповільненої Дії$/b$</string>
+		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації та створює $b$Бомбу уповільненої дії$/b$</string>
 </set>
 <set id="name-module-storagecellselfcharging-proximity">
 	<string lang="de">Näherungszelle</string>
@@ -226,7 +231,7 @@
     <string lang="es">Celda de Proximidad</string>
     <string lang="kr">근접 셀</string>
     <string lang="pt-br">Célula de Proximidade</string>
-		<string lang="uk">Сусідня Клітинка</string>
+		<string lang="uk">Комірка сусідства</string>
 </set>
 <set id="description-module-storagecellselfcharging-proximity">
 	<string lang="de">Wird am am anfang des Zuges um $1$ $energy$ geladen wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt ist.</string>
@@ -238,7 +243,7 @@
 	<string lang="es">Se carga con $1$ $energy$ al comienzo del turno si otro combatiente está en el mismo paso de tiempo.</string>
 	<string lang="kr">또 다른 전투원이 동일한 시간 단계에 있으면 $1$ $energy$로 충전됩니다.</string>
 	<string lang="pt-br">Carrega $1$ $energy$ no início do turno se outro combatente estiver na mesma etapa de tempo.</string>
-		<string lang="uk">На початку ходу заряджається на $1energy$ якщо є інший боєць на тому ж часовому кроці, що й власник.</string>
+		<string lang="uk">На початку ходу заряджається на $b$1 одиницю$/b$$energyicon$$b$Енергії$/b$, якщо на тому ж часовому кроці, що й власник, є інший учасник бою.</string>
 </set>
 <set id="name-module-effectortaunt">
 	<string lang="de">Spott-Strahler $MODIFICATIONVALUE$</string>
@@ -254,6 +259,7 @@
 </set>
 <set id="name-module-vaultacceleration-emergency">
 	<string lang="en">Emergency$br$Acceleration Capsule</string>
+	<string lang="uk">Аварійна$br$прискорювальна капсула</string>
 </set>
 <set id="description-module-effectortaunt">
 	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
@@ -265,7 +271,7 @@
     <string lang="es">Inflige $taunt$ en un personaje objetivo.$br$(Duración: $energy$×3)</string>
     <string lang="kr">대상 캐릭터에게 $taunt$를 부여합니다.$br$(지속시간: $energy$×3)</string>
     <string lang="pt-br">Inflige $taunt$ no personagem alvo.$br$(Duração: $energy$×3)</string>
-	<string lang="uk">Застосовує $taunt$ на цільового персонажа.$p$(Тривалість: $energy$×3).</string>
+	<string lang="uk">Накладає $taunt$ на цільового персонажа.$p$(Тривалість: $energy$×3).</string>
 </set>
 <set id="name-module-pulsar">
 		<string lang="de">Pulsar</string>
@@ -317,20 +323,26 @@
 </set>
 <set id="description-module-passivetoyhammer">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і наносить $1damage$ випадковому ворогу.</string>
 </set>
 <set id="description-module-passivewindupgorf">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $1healing$ to the owner.</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає на нього $1healing$.</string>
 </set>
 <set id="description-module-passivewindupdino">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav-1$ to the other character.</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $grav-1$ на іншого гравця.</string>
 </set>
 <set id="description-module-passivewindupmech">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to create $1plasma$.</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і створює $b$1 одиникю$/b$ $plasmaicon$$b$Плазми$/b$.</string>
 </set>
 <set id="description-module-passivewindupshroom">
 		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $grav+1$ на всіх ворогів.</string>
 </set>
 <set id="description-module-vaultacceleration-emergency">
 		<string lang="en">Can be charged.$p$Whenever the owner has $grav+4$ or more, remove all $gravshort$,$br$then remove all stored $energy$ to apply that much $grav-short$ to them.</string>
+		<string lang="en">CМожна заряджати.$p$Коли на власнику $grav+4$ і більше, прибирає увесь $gravshort$,$br$а потім витрачає усю збережену $energyicon$$b$Енергію$/b$ і накладає на нього $grav-short$ такої ж сили.</string>
 </set>
 </localization>
