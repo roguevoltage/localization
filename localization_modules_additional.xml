@@ -505,6 +505,71 @@
 		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
 		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника $storm$ наближається на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
 </set>
+<set id="description-module-passivetoyhammer">
+        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um einem zufälligen Gegner $1damage$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
+        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour infliger $1damage$ à un ennemi aléatoire.</string>
+        <string lang="zh">拥有者回合开始和结束时，移除拥有者的$grav+1$，对一个随机敌人造成$1damage$。</string>
+        <string lang="jp">所有者のターン開始と終了時、$grav+1$を除去し、ランダムな敵に$1damage$。</string>
+        <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы нанести $1damage$ случайному врагу.</string>
+        <string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ del propietario para infligir $1damage$ a un enemigo aleatorio.</string>
+        <string lang="kr">소유자의 턴이 시작하고 끝날 때, 소유자에게서 $grav+1$을 제거해 무작위 적에게 $1damage$를 줍니다.</string>
+        <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para causar $1damage$ a um inimigo aleatório.</string>
+        <string lang="zh-tw">擁有者回合開始和結束時，移除擁有者的$grav+1$，對一個隨機敵人造成$1damage$。</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і наносить $1damage$ випадковому ворогу.</string>
+</set>
+<set id="description-module-passivewindupgorf">
+        <string lang="de">Zu Beginn des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
+		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from the owner to apply $1healing$ to them.</string>
+        <string lang="fr">Au début du tour du propriétaire, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
+        <string lang="zh">拥有者回合开始时，移除拥有者的$grav+1$，为其施加$1healing$。</string>
+        <string lang="jp">所有者のターン開始時、$grav+1$を除去し、$1healing$を適用。</string>
+        <string lang="ru">В начале хода владельца, удаляет $grav+1$ у владельца, чтобы применить $1healing$ к нему.</string>
+        <string lang="es">Al comienzo del turno del propietario, elimina $grav+1$ del propietario para aplicarle $1healing$.</string>
+        <string lang="kr">소유자의 턴이 시작할 때, 소유자에게서 $grav+1$을 제거해 $1healing$을 적용합니다.</string>
+        <string lang="pt-br">No início do turno do dono, remove $grav+1$ do dono para aplicar $1healing$ a ele.</string>
+        <string lang="zh-tw">擁有者回合開始時，移除擁有者的$grav+1$，為其施加$1healing$。</string>
+		<string lang="uk">На початку ходу власника прибирає з нього $grav+1$ і накладає $1healing$ на нього.</string>
+</set>
+<set id="description-module-passivewindupdino">
+        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um dem verbündeten Charakter $grav-1$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav-1$ to the allied character.</string>
+        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour appliquer $grav-1$ à le personnage allié.</string>
+        <string lang="zh">拥有者回合开始和结束时，移除拥有者的$grav+1$，为盟友施加$grav-1$。</string>
+        <string lang="jp">所有者のターン開始と終了時、$grav+1$を除去し、味方キャラに$grav-1$を適用。</string>
+        <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить $grav-1$ к союзнику.</string>
+        <string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ del propietario para aplicar $grav-1$ al personaje aliado.</string>
+        <string lang="kr">소유자의 턴이 시작하고 끝날 때, 소유자에게서 $grav+1$을 제거해 동맹 캐릭터에게 $grav-1$을 적용합니다.</string>
+        <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $grav-1$ ao personagem aliado.</string>
+        <string lang="zh-tw">擁有者回合開始和結束時，移除擁有者的$grav+1$，為盟友施加$grav-1$。</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $grav-1$ на іншого гравця.</string>
+</set>
+<set id="description-module-passivewindupmech">
+        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1plasma$ zu erzeugen.</string>
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to create$br$$1plasma$.</string>
+        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour créer $1plasma$.</string>
+        <string lang="zh">拥有者回合开始和结束时，移除拥有者的$grav+1$，制造$1plasma$。</string>
+        <string lang="jp">所有者のターン開始と終了時、$grav+1$を除去し、$1plasma$生成。</string>
+        <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца для создания $1plasma$.</string>
+        <string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ del propietario para crear $1plasma$.</string>
+        <string lang="kr">소유자의 턴이 시작하고 끝날 때, 소유자에게서 $grav+1$을 제거해 $1plasma$를 생성합니다.</string>
+        <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para criar $1plasma$.</string>
+        <string lang="zh-tw">擁有者回合開始和結束時，移除擁有者的$grav+1$，製造$1plasma$。</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і створює $b$1 одиникю$/b$ $plasmaicon$$b$Плазми$/b$.</string>
+</set>
+<set id="description-module-passivewindupshroom">
+        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um allen Gegnern $grav+1$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
+        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour appliquer $grav+1$ à tous les ennemis.</string>
+        <string lang="zh">拥有者回合开始和结束时，移除拥有者的$grav+1$，对所有敌人施加$grav+1$。</string>
+        <string lang="jp">所有者のターン開始と終了時、$grav+1$を除去し、全ての敵に$grav+1$適用。</string>
+        <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить $grav+1$ ко всем врагам.</string>
+        <string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ del propietario para aplicar $grav+1$ a todos los enemigos.</string>
+        <string lang="kr">소유자의 턴이 시작하고 끝날 때, 소유자에게서 $grav+1$을 제거해 모든 적에게 $grav+1$을 적용합니다.</string>
+        <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $grav+1$ a todos os inimigos.</string>
+        <string lang="zh-tw">擁有者回合開始和結束時，移除擁有者的$grav+1$，對所有敵人施加$grav+1$。</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $grav+1$ на всіх ворогів.</string>
+</set>
 <set id="description-module-plasmadischarger">
 		<string lang="de">Verbraucht alles $plasma$ um ebensoviel $energy$ zu erzeugen.</string>
 		<string lang="en">Uses up all $plasma$ to generate that much $energy$.</string>
@@ -631,18 +696,17 @@
 		<string lang="uk">Інвертує поточний $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgravvacuum">
-		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$$passthrough$-Module können nur einmal $gravvacuum$ haben.</string>
-		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$$passthroughmodule$s can only have one instance of $gravvacuum$.</string>
-		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.</string>
-		<string lang="zh">在此模架上选择一个$passthroughmodule$，为其施加永久$gravvacuum$。$p$每个$passthroughmodule$仅可拥有一个$gravvacuum$。</string>
-		<string lang="jp">このラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。$p$$passthroughmodule$に付与可能な$gravvacuum$はひとつのみ。</string>
-		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.$p$$passthroughmodule$ могут иметь только один экземпляр $gravvacuum$.</string>
-		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.$p$$passthroughmodule$s solo pueden tener una instancia de $gravvacuum$.</string>
-		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적으로 $gravvacuum$을 부여합니다.$p$$passthroughmodule$은 하나의 $gravvacuum$만을 보유할 수 있습니다.</string>
-		<string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.$p$$passthroughmodule$s só podem ter uma instância de $gravvacuum$.</string>
-		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，為其施加永久$gravvacuum$。$p$每個$passthroughmodule$僅可擁有一個$gravvacuum$。
-</string>
-		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці назавжди отримує $gravvacuum$.$p$ $passthroughmodule$ може мати лише один екземпляр $gravvacuum$.</string>
+		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$&lt;size=11&gt;$passthrough$-Module können nur einmal $gravvacuum$ haben.&lt;/size&gt;</string>
+		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$&lt;size=11&gt;$passthroughmodule$s can only have one instance of $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$&lt;size=11&gt;$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="zh">在此模架上选择一个$passthroughmodule$，为其施加永久$gravvacuum$。$p$&lt;size=11&gt;每个$passthroughmodule$仅可拥有一个$gravvacuum$。&lt;/size&gt;</string>
+		<string lang="jp">このラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。$p$&lt;size=11&gt;$passthroughmodule$に付与可能な$gravvacuum$はひとつのみ。&lt;/size&gt;</string>
+		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.$p$&lt;size=11&gt;$passthroughmodule$ могут иметь только один экземпляр $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.$p$&lt;size=11&gt;$passthroughmodule$s solo pueden tener una instancia de $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적으로 $gravvacuum$을 부여합니다.$p$&lt;size=11&gt;$passthroughmodule$은 하나의 $gravvacuum$만을 보유할 수 있습니다.&lt;/size&gt;</string>
+		<string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.$p$&lt;size=11&gt;$passthroughmodule$s só podem ter uma instância de $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，為其施加永久$gravvacuum$。$p$&lt;size=11&gt;每個$passthroughmodule$僅可擁有一個$gravvacuum$。&lt;/size&gt;</string>
+		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці назавжди отримує $gravvacuum$.$p$&lt;size=11&gt;$passthroughmodule$ може мати лише один екземпляр $gravvacuum$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-toggledgrenadegravimmunity">
 		<string lang="de">Versieht alle Kampfteilnehmer mit $gravimmunity$.$br$(Dauer: 6)</string>
@@ -780,8 +844,7 @@
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del personaje, elimina $1$ $energy$ almacenada para aplicarle $grav-1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 소유자에게 $grav-1$를 부여합니다.</string>
 		<string lang="pt-br">Pode ser carregado.$p$No início do turno do personagem, remova $1$ $energy$ armazenada para aplicar $grav-1$ a ele.</string>
-		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對其施加$grav-1$。
-</string>
+		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對其施加$grav-1$。</string>
 		<string lang="uk">Можна заряджати.$p$На початку ходу персонажа витрачає $1$ збережену одинцю $energyicon$$b$Енергії$/b$ для накладання на нього $grav-1$</string>
 </set>
 <set id="name-module-burningdebris">
@@ -1283,7 +1346,7 @@
 <set id="name-module-passivecooldownredirector">
 		<string lang="de">Cooldown-Umlenker</string>
 		<string lang="en">Cooldown Redirector</string>
-        <string lang="fr">Redirection de Refroidissement</string>
+        <string lang="fr">Redirecteur de Recharge</string>
 		<string lang="zh">冲击转向器</string>
 		<string lang="jp">転衝器</string>
         <string lang="ru">Перенаправник охлаждения</string>
@@ -1315,9 +1378,73 @@
 		<string lang="es">Farol para Tormentas</string>
 		<string lang="kr">폭풍 랜턴</string>
 		<string lang="pt-br">Lanterna de Tempestade</string>
-		<string lang="zh-tw">防風燈
-</string>
+		<string lang="zh-tw">防風燈</string>
 		<string lang="uk">Штормовий ліхтар</string>
+</set>
+<set id="name-module-passivetoyhammer">
+        <string lang="de">Spielzeughammer</string>
+		<string lang="en">Toy Hammer</string>
+        <string lang="fr">Marteau Jouet</string>
+        <string lang="zh">玩具锤</string>
+        <string lang="jp">おもちゃのハンマー</string>
+        <string lang="ru">Игрушечный Молоток</string>
+        <string lang="es">Martillo de Juguete</string>
+        <string lang="kr">장난감 망치</string>
+        <string lang="pt-br">Martelo de Brinquedo</string>
+        <string lang="zh-tw">玩具錘</string>
+		<string lang="uk">Іграшковий молоток</string>
+</set>
+<set id="name-module-passivewindupgorf">
+        <string lang="de">Aufzieh-Gorf</string>
+		<string lang="en">Wind-Up Gorf</string>
+        <string lang="fr">Gorf à Remonter</string>
+        <string lang="zh">发条青蛙</string>
+        <string lang="jp">ゼンマイ仕掛けのカエル</string>
+        <string lang="ru">Заводной Горф</string>
+        <string lang="es">Gorf de Cuerda</string>
+        <string lang="kr">태엽 장난감 개구리</string>
+        <string lang="pt-br">Gorf de Corda</string>
+        <string lang="zh-tw">發條青蛙</string>
+		<string lang="uk">Заводний Горф</string>
+</set>
+<set id="name-module-passivewindupdino">
+        <string lang="de">Aufzieh-Dino</string>
+		<string lang="en">Wind-Up Dino</string>
+        <string lang="fr">Dino à Remonter</string>
+        <string lang="zh">发条恐龙</string>
+        <string lang="jp">ゼンマイ仕掛けの恐竜</string>
+        <string lang="ru">Заводной Динозавр</string>
+        <string lang="es">Dino de Cuerda</string>
+        <string lang="kr">태엽 장난감 공룡</string>
+        <string lang="pt-br">Dino de Corda</string>
+        <string lang="zh-tw">發條恐龍</string>
+		<string lang="uk">Заводний динозаврик</string>
+</set>
+<set id="name-module-passivewindupmech">
+        <string lang="de">Aufzieh-Mech</string>
+		<string lang="en">Wind-Up Mech</string>
+        <string lang="fr">Mech à Remonter</string>
+        <string lang="zh">发条机器人</string>
+        <string lang="jp">ゼンマイおもちゃメカ</string>
+        <string lang="ru">Заводной Мех</string>
+        <string lang="es">Mech de Cuerda</string>
+        <string lang="kr">태엽 장난감 메카</string>
+        <string lang="pt-br">Mech de Corda</string>
+        <string lang="zh-tw">發條機器人</string>
+		<string lang="uk">Заводний Mech</string>
+</set>
+<set id="name-module-passivewindupshroom">
+        <string lang="de">Aufzieh-Pilz</string>
+		<string lang="en">Wind-Up Shroom</string>
+        <string lang="fr">Champignon à Remonter</string>
+        <string lang="zh">发条蘑菇</string>
+        <string lang="jp">ゼンマイ仕掛けのキノコ</string>
+        <string lang="ru">Заводной Грибок</string>
+        <string lang="es">Seta de Cuerda</string>
+        <string lang="kr">태엽 장난감 버섯</string>
+        <string lang="pt-br">Cogumelo de Corda</string>
+        <string lang="zh-tw">發條蘑菇</string>
+		<string lang="uk">Заводний грибок</string>
 </set>
 <set id="name-module-plasmadischarger">
 		<string lang="de">Plasma-Entlader</string>
