@@ -42,17 +42,16 @@
 		<string lang="uk">Змінює колір наприкінці кроку власника</string>
 </set>
 <set id="description-status-moduleboost">
-		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1$ $energy$ hinzu</string>
-		<string lang="en">Adds $1$ $energy$ to the incoming current until the end of turn</string>
-		<string lang="fr">Ajoute $1$ $energy$ au courant jusqu'à la fin du tour</string>
-		<string lang="zh">为输入能量流增加$1$$energy$直到回合结束。</string>
-		<string lang="jp">ターン終了時まで、$br$入力電流に$1$$energy$加算</string>
-		<string lang="ru">Добавляет $1$ $energy$ в ток до конца хода</string>
-		<string lang="es">Añade $1$ $energy$ a la corriente entrante hasta el final del turno</string>
+		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1energy$ hinzu</string>
+		<string lang="en">Adds $1energy$ to the incoming current until the end of turn</string>
+		<string lang="fr">Ajoute $1energy$ au courant jusqu'à la fin du tour</string>
+		<string lang="zh">为输入能量流增加$1energy$直到回合结束。</string>
+		<string lang="jp">ターン終了時まで、$br$入力電流に$1energy$加算</string>
+		<string lang="ru">Добавляет $1energy$ в ток до конца хода</string>
+		<string lang="es">Añade $1energy$ a la corriente entrante hasta el final del turno</string>
 		<string lang="kr">다음 턴 종료 전까지 획득하는 전류에 $1$ $energy$를 추가합니다</string>
-		<string lang="pt-br">Adiciona $1$ $energy$ à corrente até o final do turno</string>
-		<string lang="zh-tw">為輸入能量流增加$1$$energy$直到回合結束。
-</string>
+		<string lang="pt-br">Adiciona $1energy$ à corrente até o final do turno</string>
+		<string lang="zh-tw">為輸入能量流增加$1energy$直到回合結束。</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до вхідного струму до кінця кроку</string>
 </set>
 <set id="description-status-moduleconstructed">
@@ -560,17 +559,16 @@
 		<string lang="uk">Активація в цей хід призведе до $crust$</string>
 </set>
 <set id="description-status-moduleturbo">
-		<string lang="de">Fügt dem Strom $1$ $energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
-		<string lang="en">Adds $1$ $energy$ to the incoming current.$br$Lasts until the end of combat</string>
-		<string lang="fr">Ajoute $1$ $energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
+		<string lang="de">Fügt dem Strom $1energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
+		<string lang="en">Adds $1energy$ to the incoming current.$br$Lasts until the end of combat</string>
+		<string lang="fr">Ajoute $1energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
 		<string lang="zh">为输入能量流增加$1$$energy$。$br$直至战斗结束。</string>
 		<string lang="jp">戦闘終了時まで入力電流に$1$$energy$加算</string>
-		<string lang="ru">Добавляет $1$ $energy$ в ток до конца боя</string>
-		<string lang="es">Añade $1$ $energy$ a la corriente entrante.$br$Dura hasta el final del combate</string>
-		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다.$br$전투 종료 시까지 유지됩니다</string>
-		<string lang="pt-br">Adiciona $1$ $energy$ à corrente.$br$Dura até o final do combate</string>
-		<string lang="zh-tw">為輸入能量流增加$1$$energy$。$br$直至戰鬥結束。
-</string>
+		<string lang="ru">Добавляет $1energy$ в ток до конца боя</string>
+		<string lang="es">Añade $1energy$ a la corriente entrante.$br$Dura hasta el final del combate</string>
+		<string lang="kr">획득하는 전류에 $1energy$를 추가합니다.$br$전투 종료 시까지 유지됩니다</string>
+		<string lang="pt-br">Adiciona $1energy$ à corrente.$br$Dura até o final do combate</string>
+		<string lang="zh-tw">為輸入能量流增加$1energy$。$br$直至戰鬥結束。</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму.$br$Триває до кінця бою</string>
 </set>
 <set id="description-status-moduleunstable">

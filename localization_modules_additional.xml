@@ -584,7 +584,7 @@
 		<string lang="uk">Витрачає всю $plasmaicon$$b$Плазму$/b$ для генерації такої самої кількості $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-storagecellausterity">
-		<string lang="de">Wird nach der Runde um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in dieser Runde auf diesem Rack kein $generator$ aktiviert wurde.</string>
+		<string lang="de">Wird nach dem Zug um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn in diesem Zug auf diesem Rack kein $generator$ aktiviert wurde.</string>
 		<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after the turn, if no $generator$ has been activated on this rack this turn.</string>
 		<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après le tour, si aucun $generator$ n'a été activé sur ce rack ce tour.</string>
 		<string lang="zh">若本回合模架上没有$generator$被激活，回合结束后获得$b$$SENSORVALUE$$/b$$energy$。</string>
