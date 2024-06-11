@@ -12,6 +12,19 @@
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
 		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
 </set>
+<set id="description-campstructure-gradarbeacon">
+        <string lang="de">Der erste Kampf wird durch einen gratis Loot-Drop ersetzt.</string>
+	    <string lang="en">The first fight is replaced with a free loot drop.</string>
+        <string lang="fr">Le premier combat est remplacé par un butin gratuit.</string>
+        <string lang="zh">首次战斗将被免费战利品替代。</string>
+        <string lang="jp">初戦は無料の戦利品に置き換えられます。</string>
+        <string lang="ru">Первый бой заменяется бесплатной добычей.</string>
+        <string lang="es">La primera batalla se reemplaza con un botín gratuito.</string>
+        <string lang="kr">첫 전투가 무료 전리품으로 대체됩니다.</string>
+        <string lang="pt-br">A primeira luta é substituída por um saque gratuito.</string>
+        <string lang="zh-tw">首次戰鬥將被免費戰利品替代。</string>
+        <string lang="uk">Перший бій замінюється безкоштовною здобиччю.</string>
+</set>
 <set id="description-campstructure-hangar">
 		<string lang="de">Bau deinen eigenen Charakter</string>
 		<string lang="en">Build your own character</string>
@@ -53,16 +66,16 @@
 </set>
 <set id="description-campstructure-powerplant-2">
         <string lang="de">Lass ein $storagemodule$ hier und es wird bei deinem nächsten Camp-Besuch um $2energy$ aufgeladen.</string>
-		<string lang="en">Leave a $storagemodule$ here and it will be charged by $2energy$$br$at your next camp visit.</string>
+		<string lang="en">Leave a $storagemodule$ here and it will be charged with $2energy$$br$at your next camp visit.</string>
         <string lang="fr">Laissez un $storagemodule$ ici pour le charger de $2energy$ à votre prochaine visite de camp</string>
-		<string lang="zh">切换营地时为任一$storagemodule$充能。</string>
-		<string lang="jp">野営地訪問中に$br$$storagemodule$充電</string>
-        <string lang="ru">Заряжает $storagemodule$ между посещениями лагеря.</string>
-        <string lang="es">Carga un $storagemodule$ entre visitas al campamento.</string>
-		<string lang="kr">야영지 방문 사이에 $storagemodule$을 충전합니다</string>
-		<string lang="zh-tw">切換營地時為任一$storagemodule$充能。</string>
-        <string lang="pt-br">Carrega um $storagemodule$ entre visitas ao acampamento.</string>
-		<string lang="uk">Заряджає $storagemodule$ між відвідинами табору.</string>
+		<string lang="zh">切换营地时任一$storagemodule$获得$2energy$。</string>
+        <string lang="jp">野営地訪問中に$br$$storagemodule$へ$2energy$充電</string>
+        <string lang="ru">Оставьте $storagemodule$ здесь, и оно будет заряжено на $2energy$ при вашем следующем посещении лагеря.</string>
+        <string lang="es">Deja un $storagemodule$ aquí y se cargará con $2energy$ en tu próxima visita al campamento.</string>
+        <string lang="kr">여기에 $storagemodule$을 두고 다음 야영지 방문 시 $2energy$로 충전됩니다.</string>
+        <string lang="pt-br">Deixe um $storagemodule$ aqui e ele será carregado com $2energy$ em sua próxima visita ao acampamento.</string>
+        <string lang="zh-tw">切換營地時任一$storagemodule$獲得$2energy$。</string>
+        <string lang="uk">Залиште $storagemodule$ тут, і воно буде заряджено на $2energy$ під час вашого наступного відвідування табору.</string>
 </set>
 <set id="description-campstructure-refinery">
         <string lang="de">Verleiht einem $passthroughmodule$ $upgrade$ zwischen Camp-Besuchen.</string>
@@ -80,15 +93,15 @@
 <set id="description-campstructure-refinery-2">
         <string lang="de">Lass ein $passthroughmodule$ hier und es erhält bei deinem nächsten Camp-Besuch $upgrade$.</string>
 		<string lang="en">Leave a $passthroughmodule$ here and it will receive $upgrade$$br$at your next camp visit.</string>
-        <string lang="fr">Donne un $upgrade$ à un $passthroughmodule$ entre les visites de camp.</string>
-		<string lang="zh">切换营地时任一$passthroughmodule$获得$upgrade$。</string>
-		<string lang="jp">野営地訪問中に$br$$passthroughmodule$へ$upgrade$付与</string>
-        <string lang="ru">Дает $upgrade$ $passthroughmodule$ между посещениями лагеря.</string>
-        <string lang="es">Da una $upgrade$ a un $passthroughmodule$ entre visitas al campamento.</string>
-		<string lang="kr">야영지 방문 사이에 $passthroughmodule$ $upgrade$을 제공합니다.</string>
-		<string lang="pt-br">Dá um $upgrade$ a um $passthroughmodule$ entre visitas ao acampamento.</string>
+        <string lang="fr">Laissez un $passthroughmodule$ ici pour recevoir un $upgrade$ à votre prochaine visite de camp</string>
+        <string lang="zh">切换营地时任一$passthroughmodule$获得$upgrade$。</string>
+        <string lang="jp">野営地訪問中に$br$$passthroughmodule$へ$upgrade$付与</string>
+        <string lang="ru">Оставьте $passthroughmodule$ здесь, и оно получит $upgrade$ при вашем следующем посещении лагеря.</string>
+        <string lang="es">Deja un $passthroughmodule$ aquí y recibirá $upgrade$ en tu próxima visita al campamento.</string>
+        <string lang="kr">여기에 $passthroughmodule$을 두고 다음 야영지 방문 시 $upgrade$을 받습니다.</string>
+        <string lang="pt-br">Deixe um $passthroughmodule$ aqui e ele receberá $upgrade$ em sua próxima visita ao acampamento.</string>
         <string lang="zh-tw">切換營地時任一$passthroughmodule$獲得$upgrade$。</string>
-		<string lang="uk">$passthroughmodule$ отримає $upgrade$ між відвідинами табору.</string>
+        <string lang="uk">Залиште $passthroughmodule$ тут, і воно отримає $upgrade$ під час вашого наступного відвідування табору.</string>
 </set>
 <set id="description-campstructure-refinery-3">
 		<string lang="de">$passthrough$-Module können nur ein $upgrade$ erhalten.</string>
@@ -191,9 +204,21 @@
 		<string lang="es">Fogata</string>
 		<string lang="kr">캠프파이어</string>
 		<string lang="pt-br">Fogueira</string>
-		<string lang="zh-tw">營地
-</string>
+		<string lang="zh-tw">營地</string>
 		<string lang="uk">Табір</string>
+</set>
+<set id="name-campstructure-gradarbeacon">
+		<string lang="de">Gradar Leuchtfeuer</string>
+		<string lang="en">Gradar Beacon</string>
+		<string lang="fr">Phare Gradar</string>
+		<string lang="zh">格拉达灯塔</string>
+		<string lang="jp">信号塔</string>
+		<string lang="ru">Грэдар-маяк</string>
+		<string lang="es">Baliza Gradar</string>
+		<string lang="kr">중력파 송신소</string>
+		<string lang="pt-br">Baliza Gradar</string>
+		<string lang="zh-tw">格拉達燈塔</string>
+		<string lang="uk">Градар Маяк</string>
 </set>
 <set id="name-campstructure-hangar">
 		<string lang="de">Mech-Hangar</string>
@@ -338,9 +363,20 @@
 		<string lang="es">“La base de todo campamento"</string>
 		<string lang="kr">모든 야영지의 기초</string>
 		<string lang="pt-br">A fundação de todo acampamento</string>
-		<string lang="zh-tw">每個營地的基礎
-</string>
+		<string lang="zh-tw">每個營地的基礎</string>
 		<string lang="uk">«Основа кожного табору»</string>
+</set>
+<set id="quote-campstructure-gradarbeacon">
+	    <string lang="de">Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
+	    <string lang="en">“Our only means to contact other survivors”</string>
+	    <string lang="fr">Notre seul moyen de contacter d'autres survivants</string>
+	    <string lang="zh">我们联系其他幸存者的唯一途径</string>
+	    <string lang="jp">他の生存者との唯一の連絡手段</string>
+	    <string lang="ru">Наш единственный способ связаться с другими выжившими</string>
+	    <string lang="es">Nuestro único medio para contactar con otros supervivientes</string>
+	    <string lang="kr">다른 생존자들과 접촉할 유일한 수단</string>
+	    <string lang="pt-br">Nosso único meio de entrar em contato com outros sobreviventes</string>
+		<string lang="uk">«Наш єдиний спосіб зв’язку з іншими вцілілими»</string>
 </set>
 <set id="quote-campstructure-hangar">
 		<string lang="de">“Gemeinsam setzen wir das Werk von Opa Slopper fort”</string>
