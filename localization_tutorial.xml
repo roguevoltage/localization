@@ -289,7 +289,7 @@
 		<string lang="kr">$regenerationcell$이 $slopperjohnson$에게 $1healing$을 적용한 것을 보셨나요?$p$이로 인해 $curesensor$가 두 번 발동되었습니다.$p$이제 $1energy$를 보유하고 있습니다.</string>
 		<string lang="pt-br">Você viu como a $regenerationcell$ curou $slopperjohnson$ com $1healing$?$p$Isso ativou o $curesensor$.$p$Agora ele tem $1energy$.</string>
 		<string lang="zh-tw">你看到了$regenerationcell$如何對$slopperjohnson$施加了$1healing$嗎？$p$這觸發了$curesensor$。$p$它現在持有$1energy$。</string>
-		<string lang="uk">Ви бачили, як $regenerationcell$ застосувала $1healing$ до $slopperjohnson$?$p$Це викликало $curesensor$.$p$Тепер він має $1energy$.</string>
+		<string lang="uk">Бачив, як $regenerationcell$ застосувала $1healing$ до $slopperjohnson$?$p$Від цього спрацював $curesensor$.$p$Тепер він має $1energy$.</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator1-title">
 		<string lang="de">Die Regenerationszelle</string>
@@ -315,7 +315,7 @@
 		<string lang="kr">$sensor$ 모듈은 턴이 끝날 때 방전시키지 않을 시 모든 $energy$를 잃습니다.$p$$energy$를 저장할 수 있도록 $storageicon$$b$응축기$/b$에 연결하세요.$amplificationicon$&lt;color=#afcf74&gt;$b$증폭$/b$&lt;/color&gt;되어 $b$저장$/b$됩니다.</string>
 		<string lang="pt-br">Sensores perderão toda a $energy$ se não forem descarregados até o final do turno.$p$Encaminhe-a para o $storageicon$$b$Condensador$/b$, onde será $amplificationicon$&lt;color=#afcf74&gt;$b$amplificada$/b$&lt;/color&gt; e $b$armazenada$/b$.</string>
 		<string lang="zh-tw">如果在回合結束時沒有釋放能量，$sensor$將失去所有$energy$。$p$將其導入至$storageicon$$b$冷凝器$/b$，在那裡它將被$amplificationicon$&lt;color=#afcf74&gt;$b$放大$/b$&lt;/color&gt;並$br$存儲。</string>
-		<string lang="uk">$sensor$ модулі втрачають усю $energy$, якщо не будуть розряджені до кінця ходу.$p$Направте його в $storageicon$$b$Конденсатор$/b$ де він буде $amplificationicon$&lt;color=#afcf74&gt;$b$підсилено$/b$&lt;/color&gt; та $b$збережено$/b$.</string>
+		<string lang="uk">$sensor$ модулі втрачають усю $energy$, якщо їх не розрядити до кінця ходу.$p$Підʼєднай сенсор до $storageicon$$b$Конденсатора$/b$ де енергію буде $amplificationicon$&lt;color=#afcf74&gt;$b$підсилено$/b$&lt;/color&gt; та $b$збережено$/b$.</string>
 </set>
 <set id="tutorialwindow-chargeaccumulator2-title">
 		<string lang="de">$energy$ speichern</string>
@@ -342,7 +342,7 @@
 		<string lang="kr">이번 턴을 사용해 더 큰 연쇄 반응을 준비해보죠.$p$$regenerationcell$를 충전시키세요.$p$$slopperjohnson$의 다음 턴에는 그에게 $1healing$을 적용하고 다시 $curesensor$를 발동시킬 것입니다.</string>
 		<string lang="pt-br">Vamos usar esta rodada para preparar uma reação em cadeia ainda maior.$p$Carregue sua $regenerationcell$.$p$No próximo turno de $slopperjohnson$, ela aplicará $1healing$ nele e acionará o $curesensor$ novamente.</string>
 		<string lang="zh-tw">這一回合讓我們準備一次更強力的連鎖反應。$p$為你的$regenerationcell$充能。$p$在$slopperjohnson$的下一回合，$br$她將對他施放$1healing$，並再次觸發$curesensor$。</string>
-		<string lang="uk">Давайте підготуємо вашу наступну ланцюгову реакцію:$p$Використовуйте цей хід, щоб зарядити свій модудь $regenerationcell$.$p$На початку ходу $slopperjohnson$ вона застосує до нього $1healing$ і знову активує $curesensor$.</string>
+		<string lang="uk">Давай підготуємо ще одну ланцюгову реакцію:$p$Використовуйте цей хід, щоб зарядити свій модуль $regenerationcell$.$p$На початку ходу $slopperjohnson$ вона застосує до нього $1healing$ і знову активує $curesensor$.</string>
 </set>
 <set id="tutorialwindow-chargeregenerationcell-header">
 		<string lang="de">Lade die Regenerationszelle</string>
@@ -451,7 +451,7 @@
 		<string lang="kr">콘덴서 방전하기</string>
 		<string lang="pt-br">Descarregar o Condensador</string>
 		<string lang="zh-tw">釋放綠色</string>
-		<string lang="uk">Розрядка Конденсатора</string>
+		<string lang="uk">Розряди Конденсатор</string>
 </set>
 <set id="tutorialwindow-energy-description">
 		<string lang="de">Module laufen mit $energy$-Punkten.$br$Manche erzeugen sie, manche verstärken oder speichern sie und andere verbrauchen sie für Effekte.</string>
@@ -573,7 +573,7 @@
 		<string lang="kr">&lt;color=green&gt;$b$초록색$/b&lt;/color&gt; 입력이 있는 $b$응축기$/b$군요!$p$이것은 $energy$를 $b$저장$/b$할 뿐만 아니라 $amplificationicon$$b$증폭$/b$합니다!</string>
 		<string lang="pt-br">Um $b$Condensador$/b$$br$com uma entrada &lt;color=green&gt;$b$verde$/b$&lt;/color&gt; !$p$Não só pode $b$armazenar$/b$ $energy$, mas também $amplificationicon$$b$amplifica$/b$ ela!</string>
 		<string lang="zh-tw">一塊帶有&lt;color=green&gt;$b$綠色$/b$&lt;/color&gt;輸入的$br$$b$冷凝器$/b$！$p$它不僅可以$br$存儲$energy$，還可以$amplificationicon$$b$放大$/b$它！</string>
-		<string lang="uk">$b$Конденсатор$/b$ $br$з $b$зеленим$/b$ входом!$p$Він не тільки може $b$зберігати$/b$ $energy$, але й $amplificationicon$$b$підсилює$/b$ її!</string>
+		<string lang="uk">$b$Конденсатор$/b$ $br$з $b$зеленим$/b$ входом!$p$Він не тільки може $b$зберігати$/b$ $energyicon$$b$Енергію$/b$, але й $amplificationicon$$b$підсилює$/b$ її!</string>
 </set>
 <set id="tutorialwindow-lootamplifier-description">
 		<string lang="de">Ein $b$Verstärker +1$/b$!$p$Er fügt dem Strom $b$+1$/b$ $energy$ hinzu. Dieser wandelt von &lt;color=green&gt;$b$grün$/b$&lt;/color&gt; in &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt; um!$p$Er ist jedoch $cracked$, wird also nach Gebrauch $b$zerstört$/b$.</string>
