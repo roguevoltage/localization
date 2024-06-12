@@ -260,9 +260,9 @@
 		<string lang="uk">Не працює з рюкзака</string>
 </set>
 <set id="module-properties-description-amplification">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$ hinzu</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$ $/b$$energy$ to the incoming current</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
+		<string lang="de">Fügt eingehender $energy$ $b$$MODIFICATIONVALUE$$/b$ hinzu</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ to the incoming $energy$</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ à l'$energy$ entrant</string>
 		<string lang="zh">为输入能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$</string>
 		<string lang="jp">入力電流に$b$$MODIFICATIONVALUE$$/b$$energy$加算</string>
 		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$ $/b$$energy$ к текущему</string>
