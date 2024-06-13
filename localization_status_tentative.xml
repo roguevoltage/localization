@@ -1,30 +1,36 @@
 <localization>
-    <set id="name-status-modulegravpulse">
+<set id="name-status-modulegravpulse">
 		<string lang="en">Grav. Pulse</string>
-    		<string lang="uk">Гравіімпульс</string>
+    	<string lang="uk">Гравіімпульс</string>
 </set>
-    <set id="description-status-modulegravpulse">
+<set id="description-status-modulegravpulse">
         <string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
-    		<string lang="uk">Активуй, щоб видалити, або він нанесе $grav+2$ власнику наприкінці ходу</string>
+    	<string lang="uk">Активуй, щоб видалити, або він нанесе $grav+2$ власнику наприкінці ходу</string>
 </set>
-    <set id="name-status-modulestormrepeller">
-            <string lang="de">Sturmabwehr</string>
-            <string lang="en">Storm Repeller</string>
-            <string lang="fr">Répulsif de Tempête</string>
-            <string lang="zh">风暴驱逐器</string>
-            <string lang="jp">嵐の撃退者</string>
-            <string lang="ru">Отталкиватель Шторма</string>
-            <string lang="es">Repelente de Tormentas</string>
-            <string lang="kr">폭풍 방어기</string>
-            <string lang="pt-br">Repelente de Tempestades</string>
-    		<string lang="uk">Відлякувач бурі</string>
+<set id="name-status-moduleimplodingstorage">
+        <string lang="en">Imploding Storage</string>
 </set>
-    <set id="description-status-modulestormrepeller">
+<set id="description-status-moduleimplodingstorage">
+        <string lang="en">Stores up to &lt;color=#FFFFFF&gt;$b$$MAXCHARGE$$/b$&lt;/color&gt; $energy$.$br$Will be destroyed if stored $energy$ is $0$.</string>
+</set>
+<set id="name-status-modulestormrepeller">
+        <string lang="de">Sturmabwehr</string>
+        <string lang="en">Storm Repeller</string>
+        <string lang="fr">Répulsif de Tempête</string>
+        <string lang="zh">风暴驱逐器</string>
+        <string lang="jp">嵐の撃退者</string>
+        <string lang="ru">Отталкиватель Шторма</string>
+        <string lang="es">Repelente de Tormentas</string>
+        <string lang="kr">폭풍 방어기</string>
+        <string lang="pt-br">Repelente de Tempestades</string>
+    	<string lang="uk">Відлякувач бурі</string>
+</set>
+<set id="description-status-modulestormrepeller">
         <string lang="de">Aktivierung drängt den $storm$$br$um $4$ Zeitschritte zurück</string>
         <string lang="en">Activation pushes back the $storm$$br$by $4$ time steps</string>
-    		<string lang="uk">Активація відсуває $storm$ $br$на $4$ часових кроки</string>
+    	<string lang="uk">Активація відсуває $storm$ $br$на $4$ часових кроки</string>
 </set>
-    <set id="name-status-taunt">
+<set id="name-status-taunt">
         <string lang="de">Spott</string>
         <string lang="en">Taunt</string>
         <string lang="fr">Provocation</string>
@@ -34,6 +40,6 @@
         <string lang="es">Provocación</string>
         <string lang="kr">도발</string>
         <string lang="pt-br">Provocação</string>
-    		<string lang="uk">Провокація</string>
+    	<string lang="uk">Провокація</string>
 </set>
 </localization>
