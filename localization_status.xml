@@ -250,6 +250,20 @@
 </string>
 		<string lang="uk">Активація накладе на власника $grav-1$</string>
 </set>
+<set id="description-status-moduleindestructible">
+		<string lang="de">Kann nicht zerstört werden</string>
+		<string lang="en">Cannot be destroyed</string>
+        <string lang="fr">Ne peut pas être détruit</string>
+        <string lang="zh">无法被摧毁</string>
+        <string lang="jp">破壊不可</string>
+        <string lang="ru">Не может быть уничтожен</string>
+        <string lang="es">No puede ser destruido</string>
+        <string lang="kr">파괴될 수 없습니다</string>
+        <string lang="pt-br">Não pode ser destruído</string>
+        <string lang="zh-tw">無法被摧毀
+</string>
+        <string lang="uk">Не може бути знищений</string>
+</set>
 <set id="description-status-modulelock">
 		<string lang="de">Kann nicht vom Rack genommen werden</string>
 		<string lang="en">Cannot be taken from rack</string>
@@ -836,6 +850,20 @@
 		<string lang="zh-tw">引力真空
 </string>
 		<string lang="uk">Гравівакуум</string>
+</set>
+<set id="name-status-moduleindestructible">
+		<string lang="de">Unzerstörbar</string>
+		<string lang="en">Indestructible</string>
+        <string lang="fr">Indestructible</string>
+        <string lang="zh">不可摧毁</string>
+        <string lang="jp">破壊不可</string>
+        <string lang="ru">Неразрушимый</string>
+        <string lang="es">Indestructible</string>
+        <string lang="kr">파괴 불가</string>
+        <string lang="pt-br">Indestrutível</string>
+        <string lang="zh-tw">不可摧毀
+</string>
+        <string lang="uk">Незнищенний</string>
 </set>
 <set id="name-status-modulelock">
 		<string lang="de">Gesperrt</string>
