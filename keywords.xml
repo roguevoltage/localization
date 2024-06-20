@@ -321,6 +321,19 @@
 		<string lang="uk">&lt;br&gt;</string>
         <string lang="pl">&lt;br&gt;</string>
 </set>
+<set id="$bronze$">
+		<string lang="de">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronze&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronze&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronze&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;青铜&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;ブロンズ&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="ru">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Бронза&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="es">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronce&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;청동&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="pt-br">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Bronze&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="zh-tw">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;青銅&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="uk">&lt;color=#C8581A&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Бронза&lt;/b&gt;&lt;/color&gt;</string>
+</set>
 <set id="$chronocat$">
 		<string lang="de">&lt;b&gt;&lt;sprite name="chronocat"&gt;Chronokatze&lt;/b&gt;</string>
 		<string lang="en">&lt;b&gt;&lt;sprite name="chronocat"&gt;Chronocat&lt;/b&gt;</string>
@@ -529,6 +542,19 @@
 		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="engine" tint=1&gt;發生器&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="uk">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="engine" tint=1&gt;Генератор&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="engine" tint=1&gt;Generator&lt;/color&gt;&lt;/b&gt;</string>
+</set>
+<set id="$special$">
+		<string lang="de">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Spezial&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Special&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Spécial&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;特殊&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;特別&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="ru">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Специальный&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="es">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Especial&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;특별&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="pt-br">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Especial&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="zh-tw">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;特殊&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="uk">&lt;color=#FFFFB2&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Спеціальний&lt;/b&gt;&lt;/color&gt;</string>
 </set>
 <set id="$gold$">
 		<string lang="de">&lt;color=#FFF500&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Gold&lt;/b&gt;&lt;/color&gt;</string>
@@ -1427,18 +1453,18 @@
         <string lang="pl">&lt;b&gt;&lt;color=#86C780&gt;&lt;sprite name="shield" tint=1&gt;Tarcza 2&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$silver$">
-		<string lang="de">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="en">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="fr">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;银&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銀&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="ru">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Серебро&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="es">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Plata&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;은&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="pt-br">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銀&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="uk">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Срібло&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="pl">&lt;color=#FF6008&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Srebrny&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="de">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;银&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銀&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Серебро&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Plata&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;은&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Silver&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="zh-tw">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;銀&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="uk">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Срібло&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="pl">&lt;color=#80A6AB&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Srebrny&lt;/b&gt;&lt;/color&gt;</string>
 </set>
 <set id="$slopperjackson$">
 		<string lang="de">&lt;b&gt;&lt;sprite name="slopperjackson"&gt;Slopper Jackson&lt;/b&gt;</string>
