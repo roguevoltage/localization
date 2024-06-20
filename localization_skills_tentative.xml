@@ -6,16 +6,14 @@
 		<string lang="zh">造成 $1damage$ 并使敌人获得易伤状态。</string>
 		<string lang="jp">敵に $1damage$ と $vulnerable$ を付与する。</string>
 		<string lang="kr">Deals $1damage$ and inflicts $vulnerable$.</string>
-		<string lang="uk">Завдає $1damage$ і $vulnerable$.</string>
 </set>
-<set id="description-skill-enemyspawn-bees">
+<set id="description-skill-monsterspawn-bees">
 		<string lang="de">n/a</string>
 		<string lang="en">Summons two bees.</string>
 		<string lang="fr">n/a</string>
 		<string lang="zh">Summons two bees.</string>
 		<string lang="jp">Summons two bees.</string>
 		<string lang="kr">Summons two bees.</string>
-		<string lang="uk">Викликає двох бджіл.</string>
 </set>
 <set id="description-skill-sacrificebee">
 		<string lang="de">Opfert eine Biene, um allen Gegnern $1damage$ zuzufügen.</string>
@@ -24,7 +22,6 @@
 		<string lang="zh">Sacrifices a bee to deal $1damage$ to all enemies.</string>
 		<string lang="jp">Sacrifices a bee to deal $1damage$ to all enemies.</string>
 		<string lang="kr">Sacrifices a bee to deal $1damage$ to all enemies.</string>
-		<string lang="uk">Жертвує бджолою заради $1damage$ всім ворогам.</string>
 </set>
 <set id="name-skill-beesting">
 		<string lang="de">Stachel</string>
@@ -33,16 +30,14 @@
 		<string lang="zh">蜂刺</string>
 		<string lang="jp">蜂刺</string>
 		<string lang="kr">Sting</string>
-		<string lang="uk">Жало</string>
 </set>
-<set id="name-skill-enemyspawn-bees">
+<set id="name-skill-monsterspawn-bees">
 		<string lang="de">Larven Erzeugen</string>
 		<string lang="en">Spawn Larvae</string>
 		<string lang="fr">Larves</string>
 		<string lang="zh">Spawn Larvae</string>
 		<string lang="jp">Spawn Larvae</string>
 		<string lang="kr">Spawn Larvae</string>
-		<string lang="uk">Відродження Личинок</string>
 </set>
 <set id="name-skill-sacrificebee">
 		<string lang="de">Für den Schwarm</string>
@@ -51,53 +46,36 @@
 		<string lang="zh">For the Swarm</string>
 		<string lang="jp">For the Swarm</string>
 		<string lang="kr">For the Swarm</string>
-		<string lang="uk">Для Рою</string>
 </set>
-<set id="name-skill-vulnerabilityglobal">
-		<string lang="de">Verwundbarkeit</string>
-		<string lang="en">Vulnerability</string>
-		<string lang="fr">Vulnerabilité</string>
-		<string lang="zh">易伤</string>
-		<string lang="jp">脆弱</string>
-		<string lang="ru">Уязвимость</string>
-		<string lang="es">Vulnerabilidad</string>
-		<string lang="kr">취약점</string>
-		<string lang="pt-br">Vulnerabilidade</string>
-		<string lang="uk">Вразливість</string>
-</set>
-<set id="description-skill-enemyspawn-goblinbomb">
+<set id="description-skill-monsterspawn-goblinbomb">
 		<string lang="de">Ruft einen $b$Bomben-Goblin$/b$ herbei.</string>
 		<string lang="en">Summons a $b$Bomb Goblin$/b$.</string>
 		<string lang="fr">Invoque un $b$Gobelin Bombe$/b$.</string>
 		<string lang="zh">Summons a $b$Bomb Goblin$/b$.</string>
 		<string lang="jp">Summons a $b$Bomb Goblin$/b$.</string>
 		<string lang="kr">Summons a $b$Bomb Goblin$/b$.</string>
-		<string lang="uk">Виклик $b$Бомба Гобліна$/b$.</string>
 </set>
-<set id="description-skill-enemyspawn-livingbomb">
+<set id="description-skill-monsterspawn-livingbomb">
 		<string lang="de">Stellt zwei $b$Explosive Apparate$/b$ her.</string>
 		<string lang="en">Creates two $b$Explosive Contraptions$/b$.</string>
 		<string lang="fr">Crée deux $b$Appareils Explosifs$/b$.</string>
 		<string lang="zh">Creates two $b$Explosive Contraptions$/b$.</string>
 		<string lang="jp">Creates two $b$Explosive Contraptions$/b$.</string>
 		<string lang="kr">Creates two $b$Explosive Contraptions$/b$.</string>
-		<string lang="uk">Створює два $b$Вибухові Пристрої$/b$.</string>
 </set>
-<set id="description-skill-enemyspawn-owl">
+<set id="description-skill-monsterspawn-owl">
 		<string lang="de">Ruft eine Eule herbei.</string>
 		<string lang="en">Summons an Owl</string>
 		<string lang="fr">Invoque un hibou.</string>
 		<string lang="zh">Summons an Owl</string>
 		<string lang="jp">Summons an Owl</string>
 		<string lang="kr">Summons an Owl</string>
-		<string lang="uk">Викликає Сову</string>
 </set>
 <set id="description-skill-globalplasmadissipation">
 		<string lang="en">Removes up to $2$ $plasma$.</string>
 		<string lang="zh">Removes up to $2$ $plasma$.</string>
 		<string lang="jp">Removes up to $2$ $plasma$.</string>
 		<string lang="kr">Removes up to $2$ $plasma$.</string>
-		<string lang="uk">Видаляє до $2$ $plasma$.</string>
 </set>
 <set id="description-skill-gravabsorb">
 		<string lang="de">Absorbiert $grav+$ als Heilung.</string>
@@ -106,7 +84,6 @@
 		<string lang="zh">Absorbs $grav+$ as healing.</string>
 		<string lang="jp">Absorbs $grav+$ as healing.</string>
 		<string lang="kr">Absorbs $grav+$ as healing.</string>
-		<string lang="uk">Вбирає $grav+$ як лікування.</string>
 </set>
 <set id="description-skill-gravpush-2-gravadillo">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Charakter ist, versieht ein Modul mit $selfencrusting$.</string>
@@ -118,12 +95,10 @@
         <string lang="es">Inflige a otro combatiente con $grav+2$. Si es un personaje jugador, inflige un módulo con $selfencrusting$.</string>
         <string lang="kr">다른 전투자에게 $grav+2$를 입힙니다. 플레이어 캐릭터인 경우 모듈에 $selfencrusting$을 부여합니다.</string>
         <string lang="pt-br">Inflige outro combatente com $grav+2$. Se for um personagem jogador, inflige um módulo com $selfencrusting$.</string>
-		<string lang="uk">Завдає іншому бійцю $grav+2$. Якщо це гравець, накладає на модуль $selfencrusting$.</string>
 </set>
 <set id="description-skill-gravshield-gravadillo">
 		<string lang="de">Entfernt alle $grav+$ und fügt sich selbst den $damage$ to $grav+short$ Status zu.</string>
 		<string lang="en">Removes all $grav+$ and applies the "$damage$ to $grav+short$" status to itself.</string>
-		<string lang="uk">Видаляє весь $grav+$ і застосовує статус "$damage$ до $grav+short$" до себе.</string>
 </set>
 <set id="description-skill-heal">
 		<string lang="de">Heilt einen Verbündeten</string>
@@ -132,7 +107,6 @@
 		<string lang="zh">Heals an ally</string>
 		<string lang="jp">Heals an ally</string>
 		<string lang="kr">Heals an ally</string>
-		<string lang="uk">Лікує союзника</string>
 </set>
 <set id="description-skill-healingrain">
 		<string lang="de">Heilt alle Kampfteilnehmer auf dem gleichen Zeitschritt um $2$.</string>
@@ -141,7 +115,6 @@
 		<string lang="zh">Heals all combatants on the same time step by $2$.</string>
 		<string lang="jp">Heals all combatants on the same time step by $2$.</string>
 		<string lang="kr">Heals all combatants on the same time step by $2$.</string>
-		<string lang="uk">Лікує всіх бійців одночасно $2$.</string>
 </set>
 <set id="description-skill-moduleseal">
 		<string lang="de">Schwächt ein Modul.</string>
@@ -150,35 +123,30 @@
 		<string lang="zh">Weakens a module.</string>
 		<string lang="jp">Weakens a module.</string>
 		<string lang="kr">Weakens a module.</string>
-		<string lang="uk">Послаблює модуль.</string>
 </set>
 <set id="description-skill-modulespawn-effectorplasmaconverter">
 		<string lang="en">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="zh">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="jp">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="kr">Constructs a $b$Plasma Converter Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="uk">Створює $b$Модуль Плазмового Конвертера$/b$ і ставить його на одну з ваших стійок.</string>
 </set>
 <set id="description-skill-modulespawn-mine">
 		<string lang="en">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="zh">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="jp">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="kr">Constructs a $b$Mine Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="uk">Створює $b$Модуль Шахти$/b$ і ставить його на одну з ваших стійок.</string>
 </set>
 <set id="description-skill-modulespawn-modifierviral">
         <string lang="de">Konstruiert ein $b$Viral Modifier$/b$-Modul und zwingt es in eins deiner Racks.</string>
 		<string lang="en">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
 		<string lang="fr">Construit un module $b$Disruption$/b$ et le force sur l'un de vos racks.</string>
         <string lang="zh">Constructs a $b$Disruption Module$/b$ and forces it onto one of your racks.</string>
-		<string lang="uk">Створює $b$Модуль Зриву$/b$ і ставить його на одну з ваших стійок.</string>
 </set>
 <set id="description-skill-modulespawn-pulsar">
 		<string lang="en">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
 		<string lang="zh">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
 		<string lang="jp">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
 		<string lang="kr">Constructs a $b$Pulsar$/b$ module and forces it onto one of your racks.</string>
-		<string lang="uk">Створює $b$Пульсар$/b$ модуль і примусово встановлює його на одну з ваших стійок.</string>
 </set>
 <set id="description-skill-nettle">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.</string>
@@ -187,7 +155,6 @@
 		<string lang="zh">Deals $1damage$ to an enemy</string>
 		<string lang="jp">Deals $1damage$ to an enemy</string>
 		<string lang="kr">Deals $1damage$ to an enemy</string>
-		<string lang="uk">Завдає $1damage$ ворогу</string>
 </set>
 <set id="description-skill-nettle-aoe">
 		<string lang="de">Fügt allen Gegnern $1damage$ zu.</string>
@@ -196,7 +163,6 @@
 		<string lang="zh">Deals $1damage$ to all enemies.</string>
 		<string lang="jp">Deals $1damage$ to all enemies.</string>
 		<string lang="kr">Deals $1damage$ to all enemies.</string>
-		<string lang="uk">Завдає $1damage$ всім ворогам.</string>
 </set>
 <set id="description-skill-ondeath-gravaoe-minus">
 		<string lang="de">Fügt allen anderen Verbündeten $grav-1$ zu.</string>
@@ -205,19 +171,16 @@
 		<string lang="zh">Inflicts all other allies with $grav-1$.</string>
 		<string lang="jp">Inflicts all other allies with $grav-1$.</string>
 		<string lang="kr">Inflicts all other allies with $grav-1$.</string>
-		<string lang="uk">Завдає всім союзникам с $grav-1$.</string>
 </set>
 <set id="description-skill-naturaldisasterspawn-lightning-stormboss">
         <string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
 		<string lang="en">Places a $b$Grav.-Impulse$/b$ on time step $b$+2$/b$ and two $b$Lightning Strike$/b$ on time steps $b$+4$/b$ and $b$+6$/b$ on the timeline.</string>
         <string lang="fr">Place un $b$Grav.-Impulse$/b$ sur l'étape de temps $b$+2$/b$ et deux $b$Coup de Foudre$/b$ sur les étapes de temps $b$+4$/b$ et $b$+6$/b$ sur la chronologie.</string>
-		<string lang="uk">Розміщує $b$Грав.-Імпульс$/b$ на часовий крок $b$+2$/b$ і два $b$Удар Блискавки$/b$ за часовими кроками $b$+4$/b$ і $b$+6$/b$ на шкалі часу.</string>
 </set>
 <set id="description-skill-naturaldisasterspawn-lightning">
 		<string lang="de">Platziert einen $b$Blitzschlag$/b$ auf einem Zeitschritt auf der Zeitleiste.</string>
 		<string lang="en">Places a $b$Lightning Strike$/b$ on a time step on the timeline.</string>
 		<string lang="fr">Place un $b$Coup de Foudre$/b$ sur une étape de temps sur la chronologie.</string>
-		<string lang="uk">Розміщує $b$Удар Блискавки$/b$ на часовому кроці на шкалі часу.</string>
 </set>
 <set id="description-skill-passive-advancestormonbeginningofturn">
 		<string lang="de">Zu Beginn des eigenen Zuges, rückt $storm$ vor.</string>
@@ -225,12 +188,10 @@
 		<string lang="zh">On the beginning of its turn, advances $storm$.</string>
 		<string lang="jp">On the beginning of its turn, advances $storm$.</string>
 		<string lang="kr">On the beginning of its turn, advances $storm$.</string>
-		<string lang="uk">На початку свого ходу просувається $storm$.</string>
 </set>
 <set id="description-skill-selfdestruct-goblinbomb">
 		<string lang="de">Zerstört sich selbst und fügt allen Gegnern auf dem gleichen Zeitschritt $damage$ in Höhe seiner aktuellen HP zu.</string>
 		<string lang="en">Destroys itself to deal $damage$ in height of its current HP to all enemies on the same time step.</string>
-		<string lang="uk">Знищує себе, щоб мати $damage$ з поточного HP для всіх ворогів на одному часовому кроці.</string>
 </set>
 <set id="description-skill-selfdestruct-livingbomb">
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört er sich selbst, um allen Gegnern $2damage$ zuzufügen.</string>
@@ -239,7 +200,6 @@
 		<string lang="zh">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
 		<string lang="jp">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
 		<string lang="kr">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
-		<string lang="uk">Якщо $might$ повна, він руйнує себе, щоб завдати $2damage$ всім ворогам.</string>
 </set>
 
 <set id="description-skill-shield">
@@ -249,7 +209,6 @@
 		<string lang="zh">Applies $shield$ to an ally.</string>
 		<string lang="jp">Applies $shield$ to an ally.</string>
 		<string lang="kr">Applies $shield$ to an ally.</string>
-		<string lang="uk">Застосовується $shield$ до союзника.</string>
 </set>
 <set id="description-skill-shield-global">
 		<string lang="de">Schützt alle Kampfteilnehmer auf dem gleichen Zeitschritt mit $shield$.</string>
@@ -258,7 +217,6 @@
 		<string lang="zh">Applies $shield$ to all combatants on the same time step.</string>
 		<string lang="jp">Applies $shield$ to all combatants on the same time step.</string>
 		<string lang="kr">Applies $shield$ to all combatants on the same time step.</string>
-		<string lang="uk">Застосовується $shield$ усім бійцям на одному часовому кроці.</string>
 </set>
 <set id="description-skill-shield-gravtank">
 		<string lang="de">n/a</string>
@@ -267,7 +225,6 @@
 		<string lang="zh">n/a</string>
 		<string lang="jp">n/a</string>
 		<string lang="kr">n/a</string>
-		<string lang="uk">n/a</string>
 </set>
 <set id="description-skill-shield-self">
 		<string lang="de">n/a</string>
@@ -276,7 +233,6 @@
 		<string lang="zh">n/a</string>
 		<string lang="jp">n/a</string>
 		<string lang="kr">n/a</string>
-		<string lang="uk">n/a</string>
 </set>
 <set id="description-skill-sneaky">
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ihn mit $vulnerable$</string>
@@ -285,41 +241,36 @@
 		<string lang="zh">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
 		<string lang="jp">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
 		<string lang="kr">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
-		<string lang="uk">Завдає $1damage$ ворогу і накладає $vulnerable$.</string>
 </set>
-<set id="name-skill-enemyspawn-goblinbomb">
+<set id="name-skill-monsterspawn-goblinbomb">
 		<string lang="de">Bombengoblin</string>
 		<string lang="en">Bomb Goblin</string>
 		<string lang="fr">Gobelin Bombe</string>
 		<string lang="zh">Bomb Goblin</string>
 		<string lang="jp">Bomb Goblin</string>
 		<string lang="kr">Bomb Goblin</string>
-		<string lang="uk">Бомба Гобліна</string>
 </set>
-<set id="name-skill-enemyspawn-livingbomb">
+<set id="name-skill-monsterspawn-livingbomb">
 		<string lang="de">Explosive Apparate</string>
 		<string lang="en">Explosive Contraptions</string>
 		<string lang="fr">Appareils Explosifs</string>
 		<string lang="zh">Explosive Contraptions</string>
 		<string lang="jp">Explosive Contraptions</string>
 		<string lang="kr">Explosive Contraptions</string>
-		<string lang="uk">Вибухові Пристрої</string>
 </set>
-<set id="name-skill-enemyspawn-owl">
+<set id="name-skill-monsterspawn-owl">
 		<string lang="de">Eule</string>
 		<string lang="en">Owl Companion</string>
 		<string lang="fr">Hibou</string>
 		<string lang="zh">Owl Companion</string>
 		<string lang="jp">Owl Companion</string>
 		<string lang="kr">Owl Companion</string>
-		<string lang="uk">Сова Компаньйон</string>
 </set>
 <set id="name-skill-globalplasmadissipation">
 		<string lang="en">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="zh">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="jp">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="kr">Antiplasma $-2$ $plasmaicon$</string>
-		<string lang="uk">Антиплазма $-2$ $plasmaicon$</string>
 </set>
 <set id="name-skill-selfdestruct">
 		<string lang="de">Selbstzerstörung</string>
@@ -328,7 +279,6 @@
 		<string lang="zh">Self-Destruct</string>
 		<string lang="jp">Self-Destruct</string>
 		<string lang="kr">Self-Destruct</string>
-		<string lang="uk">Самознищення</string>
 </set>
 <set id="name-skill-selfdestruct-goblinbomb">
 		<string lang="de">Ein erfülltes Leben</string>
@@ -337,7 +287,6 @@
 		<string lang="zh">A Life Fulfilled</string>
 		<string lang="jp">A Life Fulfilled</string>
 		<string lang="kr">A Life Fulfilled</string>
-		<string lang="uk">Здійснене Життя</string>
 </set>
 <set id="name-skill-selfdestruct-livingbomb">
 		<string lang="de">Selbstzerstörung</string>
@@ -346,7 +295,6 @@
 		<string lang="zh">Self-Destruct</string>
 		<string lang="jp">Self-Destruct</string>
 		<string lang="kr">Self-Destruct</string>
-		<string lang="uk">Самознищення</string>
 </set>
 <set id="name-skill-shield">
 		<string lang="de">Schild</string>
@@ -355,7 +303,6 @@
 		<string lang="zh">护盾</string>
 		<string lang="jp">シールド</string>
 		<string lang="kr">Shield</string>
-		<string lang="uk">Щит</string>
 </set>
 <set id="name-skill-shield-global">
 		<string lang="de">Schützender Regen</string>
@@ -364,7 +311,6 @@
 		<string lang="zh">护盾雨</string>
 		<string lang="jp">シールド雨</string>
 		<string lang="kr">Shielding Rain</string>
-		<string lang="uk">Захисний Дощ</string>
 </set>
 <set id="name-skill-shield-gravtank">
 		<string lang="de">Schild</string>
@@ -373,7 +319,6 @@
 		<string lang="zh">护盾</string>
 		<string lang="jp">シールド</string>
 		<string lang="kr">Shield</string>
-		<string lang="uk">Щит</string>
 </set>
 <set id="name-skill-shield-self">
 		<string lang="de">Schild</string>
@@ -382,7 +327,6 @@
 		<string lang="zh">护盾</string>
 		<string lang="jp">シールド</string>
 		<string lang="kr">Shield</string>
-		<string lang="uk">Щит</string>
 </set>
 <set id="description-skill-plasmaexplode">
         <string lang="de">Entfernt bis zu $2$ $plasma$ und fügt ebensoviel $damage$ zu.</string>
@@ -394,22 +338,18 @@
         <string lang="es">Elimina hasta $2$ $plasma$ y lo inflige en $damage$.</string>
         <string lang="kr">$2$개까지의 $plasma$를 제거하고 그만큼의 $damage$를 입힙니다.</string>
         <string lang="pt-br">Remove até $2$ $plasma$ e causa tanto $damage$.</string>
-		<string lang="uk">Видаляє до $2$ $plasma$ і завдає стількі ж $damage$.</string>
 </set>
 <set id="description-skill-plasmaimplode">
         <string lang="de">Wenn $plasma$ $0$ ist, fügt einem Gegner $2damage$ zu.</string>
 		<string lang="en">If $plasma$ is $0$, deal $2damage$ to target enemy.</string>
-		<string lang="uk">Якщо $plasma$ є $0$, завдає $2damage$ на ворожу ціль.</string>
 </set>
 <set id="description-skill-plasmatograv">
 		<string lang="en">Removes up to $3$ $plasma$ and inflicts another combatant with that much $grav+$</string>
-		<string lang="uk">Видаляє до $3$ $plasma$ і завдає ворогу стількі ж $grav+$</string>
 </set>
 <set id="description-skill-poisonspore">
 		<string lang="de">Fügt allen anderen Kampfteilnehmer $1damage$ zu.</string>
 		<string lang="en">Deals $1damage$ to all other combatants.</string>
 		<string lang="fr">n/a</string>
-		<string lang="uk">Завдає $1damage$ всім іншим бійцям.</string>
 </set>
 <set id="description-skill-powerraise-livingbomb">
 		<string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
@@ -421,7 +361,6 @@
         <string lang="es">Aumenta $might$ en $1$ e inflige a todos los enemigos con $grav+1$.</string>
         <string lang="kr">$might$를 $1$ 증가시키고 모든 적에게 $grav+1$을 부여합니다.</string>
         <string lang="pt-br">Aumenta $might$ em $1$ e inflige todos os inimigos com $grav+1$.</string>
-		<string lang="uk">Піднімає $might$ за $1$ і завдає всіх ворогів с $grav+1$.</string>
 </set>
 <set id="description-skill-powerraise-onallies">
 		<string lang="de">Erhöht $might$ aller Verbündeten um $1$.</string>
@@ -433,7 +372,6 @@
         <string lang="es">Aumenta $might$ de todos los aliados en $1$.</string>
         <string lang="kr">모든 동맹의 $might$를 $1$ 증가시킵니다.</string>
         <string lang="pt-br">Aumenta $might$ de todos os aliados em $1$.</string>
-		<string lang="uk">Піднімає $might$ усіх союзників на $1$.</string>
 </set>
 <set id="description-skill-rabid">
 		<string lang="de">Fügt einem Gegner $2damage$ und sich selbst $1damage$ zu.</string>
@@ -445,7 +383,6 @@
         <string lang="es">Inflige $2damage$ a un enemigo y $1damage$ a sí mismo.</string>
         <string lang="kr">적에게 $2damage$를 입히고 자신에게 $1damage$를 입힙니다.</string>
         <string lang="pt-br">Causa $2damage$ a um inimigo e $1damage$ a si mesmo.</string>
-		<string lang="uk">Завдає $2damage$ ворогу і $1damage$ собі.</string>
 </set>
 <set id="description-skill-rage">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und versieht sich selbst mit $vulnerable$.</string>
@@ -457,7 +394,6 @@
         <string lang="es">Inflige $2damage$ a un enemigo e inflige a sí mismo con $vulnerable$.</string>
         <string lang="kr">적에게 $2damage$를 입히고 자신에게 $vulnerable$을 부여합니다.</string>
         <string lang="pt-br">Causa $2damage$ a um inimigo e inflige a si mesmo com $vulnerable$.</string>
-		<string lang="uk">Завдає $2damage$ ворогу і накладає на себе $vulnerable$.</string>
 </set>
 <set id="description-skill-vulnerability">
 		<string lang="de">Versieht einen Gegner mit $vulnerable$.</string>
@@ -466,7 +402,6 @@
 		<string lang="zh">使敌人获得易伤状态。</string>
 		<string lang="jp">敵に $vulnerable$ を付与する。</string>
 		<string lang="kr">Inflicts an enemy with $vulnerable$.</string>
-		<string lang="uk">Завдає ворогу $vulnerable$.</string>
 </set>
 <set id="description-skill-vulnerabilityglobal">
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $vulnerable$.</string>
@@ -475,7 +410,6 @@
 		<string lang="zh">使所有在同一时间步的战斗者获得 $vulnerable$ 状态。</string>
 		<string lang="jp">敵に $vulnerable$ を付与する。</string>
 		<string lang="kr">Inflicts all combatants on the same time step with $vulnerable$.</string>
-		<string lang="uk">Розміщує всіх бійців на одному часовому кроці з $vulnerable$.</string>
 </set>
 <set id="name-skill-batter">
 		<string lang="de">Rammen</string>
@@ -484,29 +418,24 @@
 		<string lang="zh">冲撞</string>
 		<string lang="jp">打者</string>
 		<string lang="kr">Batter</string>
-		<string lang="uk">Тісто</string>
 </set>
 <set id="name-skill-gravamplificationglobal">
 		<string lang="de">Grav.-Verstärkung</string>
 		<string lang="en">Grav. Vulnerability</string>
 		<string lang="fr">Amplification Grav.</string>
-		<string lang="uk">Грав. Вразливість</string>
 </set>
 <set id="name-skill-heal">
 		<string lang="de">Heilung</string>
 		<string lang="en">Heal</string>
 		<string lang="fr">Soins</string>
-		<string lang="uk">Лікування</string>
 </set>
 <set id="name-skill-healingrain">
 		<string lang="de">Heilender Tropfen</string>
 		<string lang="en">Healing Drop</string>
 		<string lang="fr">Goutte de Soins</string>
-		<string lang="uk">Цілюща Крапля</string>
 </set>
 <set id="name-skill-modulespawn-effectorplasmaconverter">
 		<string lang="en">Plasma Converter</string>
-		<string lang="uk">Плазмовий Конвертер</string>
 </set>
 <set id="name-skill-modulespawn-mine">
 		<string lang="de">Mine</string>
@@ -521,7 +450,6 @@
 		<string lang="es">Furia</string>
 		<string lang="kr">격노</string>
 		<string lang="pt-br">Fúria</string>
-		<string lang="uk">Лють</string>
 </set>
 <set id="name-skill-modulespawn-modifierviral">
 		<string lang="de">Störmodul</string>
@@ -530,55 +458,45 @@
 		<string lang="zh">Disruption Module</string>
 		<string lang="jp">Disruption Module</string>
 		<string lang="kr">Disruption Module</string>
-		<string lang="uk">Модуль Зриву</string>
 </set>
 <set id="name-skill-modulespawn-pulsar">
 		<string lang="en">Pulsar</string>
 		<string lang="zh">Pulsar</string>
 		<string lang="jp">Pulsar</string>
 		<string lang="kr">Pulsar</string>
-		<string lang="uk">Пульсар</string>
 </set>
 <set id="name-skill-naturaldisasterspawn-lightning">
 		<string lang="de">Blitz</string>
 		<string lang="en">Lightning</string>
 		<string lang="fr">Coup de Foudre</string>
-		<string lang="uk">Блискавка</string>
 </set>
 <set id="name-skill-naturaldisasterspawn-lightning-stormboss">
 		<string lang="de">Blitzschlag-Feld</string>
 		<string lang="en">Lightning Array</string>
-		<string lang="uk">Масив Блискавок</string>
 </set>
 <set id="name-skill-nettle">
 		<string lang="de">Nessel</string>
 		<string lang="en">Nettle</string>
-		<string lang="uk">Кропива</string>
 </set>
 <set id="name-skill-nettle-aoe">
 		<string lang="de">Nessel AOE</string>
 		<string lang="en">Nettle AOE</string>
-		<string lang="uk">Кропива АОЕ</string>
 </set>
 <set id="name-skill-ondeath-gravaoe-minus">
 		<string lang="de">Grav.-Summen $grav-1$</string>
 		<string lang="en">Grav. Buzz $grav-1$</string>
-		<string lang="uk">Грав. Мінус $grav-1$</string>
 </set>
 <set id="name-skill-plasmaexplode">
 		<string lang="en">Plasma Explosion $plasmaicon$</string>
-		<string lang="uk">Плазмовий Вибух $plasmaicon$</string>
 </set>
 <set id="name-skill-plasmaimplode">
 		<string lang="en">Plasma Void $plasmaicon$</string>
-		<string lang="uk">Плазмова Порожнеча $plasmaicon$</string>
 </set>
 <set id="name-skill-plasmatograv">
 		<string lang="en">Plasma to Grav. $plasmaicon$$grav+icon$</string>
 		<string lang="zh">Plasma to Grav. $plasmaicon$$grav+icon$</string>
 		<string lang="jp">Plasma to Grav. $plasmaicon$$grav+icon$</string>
 		<string lang="kr">Plasma to Grav. $plasmaicon$$grav+icon$</string>
-		<string lang="uk">Плазма у Грав. $plasmaicon$ $grav+icon$</string>
 </set>
 <set id="name-skill-powerraise-livingbomb">
 		<string lang="de">Aufladen</string>
@@ -587,7 +505,6 @@
 		<string lang="zh">Charge</string>
 		<string lang="jp">Charge</string>
 		<string lang="kr">Charge</string>
-		<string lang="uk">Зарядка</string>
 </set>
 <set id="name-skill-powerraise-onallies">
 		<string lang="de">Brüten $mighticon$</string>
@@ -596,12 +513,10 @@
 		<string lang="zh">Incubate $mighticon$</string>
 		<string lang="jp">Incubate $mighticon$</string>
 		<string lang="kr">Incubate $mighticon$</string>
-		<string lang="uk">Інкубуція $mighticon$</string>
 </set>
 <set id="name-skill-passive-advancestormonbeginningofturn">
 		<string lang="de">Sturmruf $stormicon$</string>
 		<string lang="en">Storm Call $stormicon$</string>
-		<string lang="uk">Виклик грози $stormicon$</string>
 </set>
 <set id="name-skill-piledriver-gravadillo">
 		<string lang="de">Rammen $crusticon$</string>
@@ -613,7 +528,6 @@
         <string lang="es">Aplastar $crusticon$</string>
         <string lang="kr">파일 드라이버 $crusticon$</string>
         <string lang="pt-br">Pilão $crusticon$</string>
-		<string lang="uk">Удар $crusticon$</string>
 </set>
 <set id="name-skill-poisonspore">
 		<string lang="de">Gift-Sporen</string>
@@ -625,7 +539,6 @@
         <string lang="es">Espora Tóxica</string>
         <string lang="kr">독성 포자</string>
         <string lang="pt-br">Esporo Tóxico</string>
-		<string lang="uk">Токсична Спора</string>
 </set>
 <set id="name-skill-passive-ondamage-burningdebris">
 		<string lang="de">Brennende Trümmer</string>
@@ -637,7 +550,6 @@
 		<string lang="es">Escombros Ardientes</string>
 		<string lang="kr">불타는 파편</string>
 		<string lang="pt-br">Escombros Ardentes</string>
-		<string lang="uk">Палаючі Уламки</string>
 </set>
 <set id="description-skill-passive-ondamage-burningdebris">
 		<string lang="de">Immer wenn es $damage$ nimmt, konstruiert es ein $b$Brennende Trümmer$/b$ Modul und zwingt es auf eines deiner Racks.</string>
@@ -649,7 +561,6 @@
 		<string lang="es">Cada vez que recibe $damage$, construye un módulo $b$Escombros Ardientes$/b$ y lo fuerza en uno de tus racks.</string>
 		<string lang="kr">그것이 $damage$를 받을 때마다, $b$불타는 파편$/b$ 모듈을 구성하고 당신의 랙 중 하나에 강제로 놓습니다.</string>
 		<string lang="pt-br">Sempre que ele receber $damage$, constrói um módulo $b$Escombros Ardentes$/b$ e o força em um de seus racks.</string>
-		<string lang="uk">Щоразу, коли отримується $damage$, створюються $b$Палаючі Уламки$/b$ модуль і розміщюється на якійсь вашій стійці.</string>
 </set>
 <set id="name-skill-rabid">
 		<string lang="de">Zerfleischen</string>
@@ -661,6 +572,5 @@
 		<string lang="es">Desgarrar</string>
 		<string lang="kr">물어뜯기</string>
 		<string lang="pt-br">Morder</string>
-		<string lang="uk">Маул</string>
 </set>
 </localization>
