@@ -1378,6 +1378,58 @@
 </string>
 		<string lang="uk">Здобич</string>
 </set>
+<set id="ui-loot-adjustment">
+		<string lang="de">- Anpassung:</string>
+		<string lang="en">- Adjustment:</string>
+        <string lang="fr">- Ajustement:</string>
+        <string lang="zh">- 调整：</string>
+        <string lang="jp">- 調整:</string>
+        <string lang="ru">- Корректировка:</string>
+        <string lang="es">- Ajuste:</string>
+        <string lang="kr">- 조정:</string>
+        <string lang="pt-br">- Ajuste:</string>
+        <string lang="zh-tw">- 調整：</string>
+        <string lang="uk">- Коригування:</string>
+</set>
+<set id="ui-loot-adjustment-special">
+		<string lang="de">Zeit für $special$-Loot$br$um $2$ Schritte verkürzt</string>
+		<string lang="en">Time for $special$ loot$br$shortened by $2$ steps</string>
+        <string lang="fr">Temps pour le butin $special$ raccourci de $2$ étapes</string>
+        <string lang="zh">下一个$special$战利品的时间缩短了$2$步</string>
+        <string lang="jp">$special$の次の戦利品の時間が$2$ステップ短縮されました</string>
+        <string lang="ru">Время до следующей добычи $special$ уменьшено на $2$ шага</string>
+        <string lang="es">Tiempo para botín $special$ acortado en $2$ pasos</string>
+        <string lang="kr">다음 $special$ 전리품까지 시간이 $2$단계 단축되었습니다</string>
+        <string lang="pt-br">Tempo para saque $special$ encurtado em $2$ passos</string>
+        <string lang="zh-tw">下一個$special$戰利品的時間縮短了$2$步</string>
+        <string lang="uk">Час до наступної здобичі $special$ скорочено на $2$ кроки</string>
+</set>
+<set id="ui-loot-adjustment-bronze">
+		<string lang="de">Zeit für nächsten $special$-Loot um $2$ Schritte verlängert</string>
+		<string lang="en">Time for next $special$ loot prolonged by $2$ steps</string>
+        <string lang="fr">Temps pour le prochain butin $special$ prolongé de $2$ étapes</string>
+        <string lang="zh">下一个$special$战利品的时间延长了$2$步</string>
+        <string lang="jp">$special$の次の戦利品の時間が$2$ステップ延長されました</string>
+        <string lang="ru">Время до следующей добычи $special$ увеличено на $2$ шага</string>
+        <string lang="es">Tiempo para el próximo botín $special$ prolongado en $2$ pasos</string>
+        <string lang="kr">다음 $special$ 전리품까지 시간이 $2$단계 연장되었습니다</string>
+        <string lang="pt-br">Tempo para o próximo saque $special$ prolongado em $2$ passos</string>
+        <string lang="zh-tw">下一個$special$戰利品的時間延長了$2$步</string>
+        <string lang="uk">Час до наступної здобичі $special$ збільшено на $2$ кроки</string>
+</set>
+<set id="ui-loot-bronze">
+		<string lang="de">$bronze$</string>
+        <string lang="en">$bronze$</string>
+        <string lang="fr">$bronze$</string>
+        <string lang="zh">$bronze$</string>
+        <string lang="jp">$bronze$</string>
+        <string lang="ru">$bronze$</string>
+        <string lang="es">$bronze$</string>
+        <string lang="kr">$bronze$</string>
+        <string lang="pt-br">$bronze$</string>
+        <string lang="zh-tw">$bronze$</string>
+        <string lang="uk">$bronze$</string>
+</set>
 <set id="ui-loot-continue">
 		<string lang="de">Weiter</string>
 		<string lang="en">Continue</string>
@@ -1406,6 +1458,19 @@
 </string>
 		<string lang="uk">Продовжити ($TIMER$)</string>
 </set>
+<set id="ui-loot-gold">
+		<string lang="de">$gold$</string>
+        <string lang="en">$gold$</string>
+        <string lang="fr">$gold$</string>
+        <string lang="zh">$gold$</string>
+        <string lang="jp">$gold$</string>
+        <string lang="ru">$gold$</string>
+        <string lang="es">$gold$</string>
+        <string lang="kr">$gold$</string>
+        <string lang="pt-br">$gold$</string>
+        <string lang="zh-tw">$gold$</string>
+        <string lang="uk">$gold$</string>
+</set>
 <set id="ui-loot-hint-multiple">
 		<string lang="de">Wähle ein Modul als Belohnung</string>
 		<string lang="en">Choose one module as your reward</string>
@@ -1432,6 +1497,32 @@
 		<string lang="pt-br">Pegue o módulo de saque em seu rack</string>
 		<string lang="zh-tw">選擇戰利品模組並收入模架</string>
 		<string lang="uk">Забери модуль здобичі до стійки</string>
+</set>
+<set id="ui-loot-quality">
+		<string lang="de">Modulqualität:</string>
+		<string lang="en">Module Quality:</string>
+        <string lang="fr">Qualité:</string>
+        <string lang="zh">品质：</string>
+        <string lang="jp">品質:</string>
+        <string lang="ru">Качество:</string>
+        <string lang="es">Calidad:</string>
+        <string lang="kr">품질:</string>
+        <string lang="pt-br">Qualidade:</string>
+        <string lang="zh-tw">品質：</string>
+        <string lang="uk">Якість:</string>
+</set>
+<set id="ui-loot-rating">
+		<string lang="de">Kampfwertung:</string>
+		<string lang="en">Battle Rating:</string>
+		<string lang="fr">Évaluation</string>
+		<string lang="zh">评级</string>
+        <string lang="jp">評価</string>
+        <string lang="ru">Оценка</string>
+        <string lang="es">Calificación</string>
+        <string lang="kr">평가</string>
+        <string lang="pt-br">Avaliação</string>
+        <string lang="zh-tw">評級</string>
+        <string lang="uk">Рейтинг</string>
 </set>
 <set id="ui-loot-reroll">
 		<string lang="de">Neu$br$Auswürfeln$br$(-$REROLLCOST$ $plasmaicon$)</string>
@@ -1487,6 +1578,19 @@
 </string>
 		<string lang="uk">Нагороду отримано</string>
 </set>
+<set id="ui-loot-silver">
+		<string lang="de">$silver$</string>
+        <string lang="en">$silver$</string>
+        <string lang="fr">$silver$</string>
+        <string lang="zh">$silver$</string>
+        <string lang="jp">$silver$</string>
+        <string lang="ru">$silver$</string>
+        <string lang="es">$silver$</string>
+        <string lang="kr">$silver$</string>
+        <string lang="pt-br">$silver$</string>
+        <string lang="zh-tw">$silver$</string>
+        <string lang="uk">$silver$</string>
+</set>
 <set id="ui-loot-skip">
 		<string lang="de">Über-$br$springen$br$(+$SKIPBONUS$ $plasmaicon$)</string>
 		<string lang="en">Skip$br$(+$SKIPBONUS$ $plasmaicon$)</string>
@@ -1500,6 +1604,19 @@
 		<string lang="zh-tw">跳過$br$（-$SKIPBONUS$$plasmaicon$）
 </string>
 		<string lang="uk">Пропустити$br$(+$SKIPBONUS$ $plasmaicon$)</string>
+</set>
+<set id="ui-loot-special">
+		<string lang="de">$special$</string>
+        <string lang="en">$special$</string>
+        <string lang="fr">$special$</string>
+        <string lang="zh">$special$</string>
+        <string lang="jp">$special$</string>
+        <string lang="ru">$special$</string>
+        <string lang="es">$special$</string>
+        <string lang="kr">$special$</string>
+        <string lang="pt-br">$special$</string>
+        <string lang="zh-tw">$special$</string>
+        <string lang="uk">$special$</string>
 </set>
 <set id="ui-new">
 		<string lang="de">NEU</string>
