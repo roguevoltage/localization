@@ -65,9 +65,9 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $grav-$ застосовується до гравця.</string>
 </set>
 <set id="description-module-collectormalfunction">
-        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul $outoforder$ oder $cooldown$ erhält.</string>
-        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a module receives $outoforder$ or $cooldown$.</string>
-        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un module est $outoforder$ ou $cooldown$.</string>
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul $outoforder$ oder $cooldown$ erhält.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module receives $outoforder$ or $cooldown$.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre module reçoit $outoforder$ ou $cooldown$.</string>
         <string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда модуль $outoforder$ или $cooldown$.</string>
@@ -783,7 +783,7 @@
 		<string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">选择同模架上另一模块销毁，再制造一个同等级不同种类的模块。</string>
-		<string lang="jp">このラックの別の対象モジュールを破壊し、$br$同じレベルの別モジュールを製造。</string>
+		<string lang="jp">このラックの別の対象モジュールを破壊し、同じレベルの別モジュールを製造。</string>
 		<string lang="ru">Уничтожает другой целевой модуль на этой стойке, чтобы создать другой модуль того же уровня.</string>
 		<string lang="es">Destruye otro módulo objetivo en este bastidor para construir un módulo diferente del mismo nivel.</string>
 		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 동일한 레벨의 다른 모듈을 조립합니다.</string>
@@ -797,7 +797,7 @@
 		<string lang="en">Destroys another target module on this rack to construct a different module of the same level.</string>
 		<string lang="fr">Transforme un autre module ciblé en un autre module de la même niveau.</string>
 		<string lang="zh">选择同模架上另一模块销毁，再制造一个同等级不同种类的模块。</string>
-		<string lang="jp">このラックの別の対象モジュールを破壊し、$br$同じレベルの別モジュールを製造。</string>
+		<string lang="jp">このラックの別の対象モジュールを破壊し、同じレベルの別モジュールを製造。</string>
 		<string lang="ru">Уничтожает другой целевой модуль на этой стойке, чтобы создать другой модуль того же уровня.</string>
 		<string lang="es">Destruye otro módulo objetivo en este bastidor para construir un módulo diferente del mismo nivel.</string>
 		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 동일한 레벨의 다른 모듈을 조립합니다.</string>
