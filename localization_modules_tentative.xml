@@ -213,30 +213,7 @@
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації та створює $b$Бомбу уповільненої дії$/b$</string>
 </set>
-<set id="name-module-storagecellselfcharging-proximity">
-	<string lang="de">Näherungszelle</string>
-	<string lang="en">Proximity Cell</string>
-	<string lang="fr">Cellule de Proximité</string>
-    <string lang="zh">接近电池</string>
-    <string lang="jp">近接セル</string>
-    <string lang="ru">Ближний Аккумулятор</string>
-    <string lang="es">Celda de Proximidad</string>
-    <string lang="kr">근접 셀</string>
-    <string lang="pt-br">Célula de Proximidade</string>
-		<string lang="uk">Комірка сусідства</string>
-</set>
-<set id="description-module-storagecellselfcharging-proximity">
-	<string lang="de">Wird am am anfang des Zuges um $1$ $energy$ geladen wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt ist.</string>
-	<string lang="en">At the beginning of the owner's turn is charged with $1energy$ if there is another combatant on the same time step as the owner.</string>
-	<string lang="fr">Se charge de $1$ $energy$ au début du tour si un autre combattant est sur la même étape de temps.</string>
-	<string lang="zh">如果另一个战斗者在同一时间步上，回合开始时充电$1$ $energy$。</string>
-	<string lang="jp">もう一人の戦闘者が同じ時間ステップにいる場合、ターンの最初に$1$ $energy$で充電します。</string>
-	<string lang="ru">Заряжается на $1$ $energy$ в начале хода, если другой боец находится на том же шаге времени.</string>
-	<string lang="es">Se carga con $1$ $energy$ al comienzo del turno si otro combatiente está en el mismo paso de tiempo.</string>
-	<string lang="kr">또 다른 전투원이 동일한 시간 단계에 있으면 $1$ $energy$로 충전됩니다.</string>
-	<string lang="pt-br">Carrega $1$ $energy$ no início do turno se outro combatente estiver na mesma etapa de tempo.</string>
-		<string lang="uk">На початку ходу заряджається на $b$1 одиницю$/b$$energyicon$$b$Енергії$/b$, якщо на тому ж часовому кроці, що й власник, є інший учасник бою.</string>
-</set>
+
 <set id="name-module-effectortaunt">
 	<string lang="de">Spott-Strahler $MODIFICATIONVALUE$</string>
 	<string lang="en">Taunt Ray $MODIFICATIONVALUE$</string>

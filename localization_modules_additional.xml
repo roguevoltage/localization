@@ -102,6 +102,19 @@
 		<string lang="zh-tw">每當$damage$被$shield$抵擋，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $shield$ зменшує $damage$.</string>
 </set>
+<set id="description-module-effectoraccelerator-aoe">
+	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
+	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
+	<string lang="fr">Inflige $grav-$ à tous les alliés et ennemis.</string>
+	<string lang="zh">对所有盟友和敌人施加$grav-$。</string>
+	<string lang="jp">全ての味方と敵に$grav-$。</string>
+	<string lang="ru">Наносит всем союзникам и врагам $grav-$.</string>
+	<string lang="es">Inflige a todos los aliados y enemigos con $grav-$.</string>
+	<string lang="kr">모든 아군과 적에게 $grav-$를 부여합니다.</string>
+	<string lang="pt-br">Inflige a todos os aliados e inimigos com $grav-$.</string>
+	<string lang="zh-tw">對所有盟友和敵人施加$grav-$。</string>
+	<string lang="uk">Наносить всім союзникам і ворогам $grav-$.</string>
+</set>
 <set id="description-module-effectoracceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav-1$].</string>
@@ -273,7 +286,7 @@
 </set>
 <set id="description-module-factoryrevitalizingscreen">
 		<string lang="de">Stellt einen universellen $b$Heilenden Schirm$/b$$br$mit $cracked$ her.</string>
-		<string lang="en">Constructs a universal $b$Revitalizing Screen$/b$ with $cracked$.</string>
+		<string lang="en">Constructs a universal $b$Healing Screen$/b$ with $cracked$.</string>
 		<string lang="fr">Construit un $b$Écran Revitalisant$/b$ universel$br$avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$的通用$b$焕活屏障$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$br$$b$活性被膜$/b$製造。</string>
@@ -596,6 +609,19 @@
 		<string lang="zh-tw">若本回合模架上沒有$generator$被啟動，回合結束後獲得$b$$SENSORVALUE$$/b$$energy$。
 </string>
 		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу, якщо під час нього на цій стійці не було активовано $generator$.</string>
+</set>
+<set id="description-module-storagecellproximity">
+	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
+	<string lang="en">At the beginning of the owner's turn, is charged with $b$$SENSORVALUE$$/b$ $energy$ if there is another combatant on the same time step as the owner.</string>	
+	<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ au début du tour, s'il y a un autre combattant sur la même étape de temps que le propriétaire.</string>
+	<string lang="zh">在拥有者的回合开始时，如果有另一个战斗者在与拥有者相同的时间步骤上，则充电 $b$$SENSORVALUE$$/b$ $energy$。</string>
+	<string lang="jp">オーナーのターンの開始時に、他の戦闘者が所有者と同じ時間ステップにいる場合、$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
+	<string lang="ru">В начале хода владельца заряжается на $b$$SENSORVALUE$$/b$ $energy$, если на том же временном шаге, что и владелец, находится другой боец.</string>
+	<string lang="es">Al comienzo del turno del propietario, se carga con $b$$SENSORVALUE$$/b$ $energy$ si hay otro combatiente en el mismo paso de tiempo que el propietario.</string>
+	<string lang="kr">소유자의 차례가 시작될 때, 소유자와 동일한 시간 단계에 다른 전투원이 있으면 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
+	<string lang="pt-br">No início do turno do dono, é carregado com $b$$SENSORVALUE$$/b$ $energy$ se houver outro combatente no mesmo passo de tempo que o dono.</string>
+	<string lang="zh-tw">在擁有者的回合開始時，如果有另一個戰鬥者在與擁有者相同的時間步驟上，則充電$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="uk">На початку ходу власника заряджається на $b$$SENSORVALUE$$/b$ $energy$, якщо на тому ж часовому кроці, що і власник, знаходиться інший боєць.</string>
 </set>
 <set id="description-module-storagecellemergency">
 		<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
@@ -953,6 +979,20 @@
 </string>
 		<string lang="uk">Сенсор щиту $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-effectoraccelerator-aoe">
+	<string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
+	<string lang="en">Accelerating Screen $MODIFICATIONVALUE$</string>
+	<string lang="fr">Écran Accélérateur $MODIFICATIONVALUE$</string>
+	<string lang="zh">加速屏障$MODIFICATIONVALUE$</string>
+	<string lang="jp">加速シールド$MODIFICATIONVALUE$</string>
+	<string lang="ru">Ускоряющий Экран $MODIFICATIONVALUE$</string>
+	<string lang="es">Pantalla Aceleradora $MODIFICATIONVALUE$</string>
+	<string lang="kr">가속화 스크린 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Tela Aceleradora $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">加速屏障$MODIFICATIONVALUE$
+</string>
+	<string lang="uk">Прискорюючий Екран $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-effectoracceleratorprecision">
 		<string lang="de">Präzisions-Beschleuniger $MODIFICATIONVALUE$</string>
 		<string lang="en">Precision Accelerator $MODIFICATIONVALUE$</string>
@@ -1137,7 +1177,7 @@
 </set>
 <set id="name-module-factoryrevitalizingscreen">
 		<string lang="de">Heilender Schirm-Fabrik $MODIFICATIONVALUE$</string>
-		<string lang="en">Revitalizing Screen Factory $MODIFICATIONVALUE$</string>
+		<string lang="en">Healing Screen Factory $MODIFICATIONVALUE$</string>
 		<string lang="fr">Fabrique d'Écran Revitalisant $MODIFICATIONVALUE$</string>
 		<string lang="zh">焕活屏障工厂$MODIFICATIONVALUE$</string>
 		<string lang="jp">活性皮膜製造機$MODIFICATIONVALUE$</string>
@@ -1488,6 +1528,19 @@
 		<string lang="zh-tw">應急單元
 </string>
 		<string lang="uk">Комірка екстреної допомоги</string>
+</set>
+<set id="name-module-storagecellproximity">
+	<string lang="de">Näherungszelle</string>
+	<string lang="en">Proximity Cell</string>
+	<string lang="fr">Cellule de Proximité</string>
+    <string lang="zh">接近电池</string>
+    <string lang="jp">近接セル</string>
+    <string lang="ru">Ближний Аккумулятор</string>
+    <string lang="es">Celda de Proximidad</string>
+    <string lang="kr">근접 셀</string>
+    <string lang="pt-br">Célula de Proximidade</string>
+	<string lang="zh-tw">接近電池</string>
+	<string lang="uk">Комірка сусідства</string>
 </set>
 <set id="name-module-storagecellstorm">
 		<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
