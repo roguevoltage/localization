@@ -131,6 +131,19 @@
 </string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли створюється $plasma$.</string>
 </set>
+<set id="description-module-collectorplasmacombustion">
+	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ verbraucht wird.</string>
+	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is consumed.</string>
+	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est consommé.</string>
+	<string lang="zh">消耗$plasma$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="jp">$plasma$を消費するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $plasma$ расходуется.</string>
+	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es consumido.</string>
+	<string lang="kr">$plasma$가 소모될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é consumido.</string>
+	<string lang="zh-tw">消耗$plasma$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли витрачається $plasma$.</string>
+</set>
 <set id="description-module-collectortrauma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $damage$ nimmt.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character takes $damage$.</string>
@@ -646,7 +659,7 @@
 </string>
 		<string lang="uk">Може бути розряджений на$br$ $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
 </set>
-<set id="description-module-storagecellselfcharging">
+<set id="description-module-storagecellaeolian">
 		<string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
 		<string lang="en">Is charged with $1$ $energy$ at the end of combat.</string>
 		<string lang="fr">Est chargé avec $1$ $energy$ à la fin du combat.</string>
@@ -941,6 +954,19 @@
 		<string lang="zh-tw">等離子感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор плазми $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-collectorplasmacombustion">
+	<string lang="de">Plasmaverbrennungs-Sensor $MODIFICATIONVALUE$</string>
+	<string lang="en">Plasma Combustion Sensor $MODIFICATIONVALUE$</string>
+	<string lang="fr">Capteur de Combustion Plasma $MODIFICATIONVALUE$</string>
+	<string lang="zh">等离子燃烧传感器$MODIFICATIONVALUE$</string>
+	<string lang="jp">プラズマ燃焼センサー$MODIFICATIONVALUE$</string>
+	<string lang="ru">Датчик Сгорания Плазмы $MODIFICATIONVALUE$</string>
+	<string lang="es">Sensor de Combustión de Plasma $MODIFICATIONVALUE$</string>
+	<string lang="kr">플라즈마 연소 감지기 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Sensor de Combustão de Plasma $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">等離子燃燒感測器$MODIFICATIONVALUE$</string>
+	<string lang="uk">Сенсор спалювання плазми $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-collectortrauma">
 		<string lang="de">Trauma-Sensor $MODIFICATIONVALUE$</string>
 		<string lang="en">Trauma Sensor $MODIFICATIONVALUE$</string>
@@ -1115,7 +1141,7 @@
 </set>
 <set id="name-module-effectorpotion-aoe">
 		<string lang="de">Heilender Schirm $MODIFICATIONVALUE$</string>
-		<string lang="en">Revitalizing Screen $MODIFICATIONVALUE$</string>
+		<string lang="en">Healing Screen $MODIFICATIONVALUE$</string>
 		<string lang="fr">Écran Revitalisant $MODIFICATIONVALUE$</string>
 		<string lang="zh">焕活屏障$MODIFICATIONVALUE$</string>
 		<string lang="jp">活性被膜$MODIFICATIONVALUE$</string>
@@ -1449,7 +1475,7 @@
 </string>
 		<string lang="uk">Реплікуюча комірка зберігання</string>
 </set>
-<set id="name-module-storagecellselfcharging">
+<set id="name-module-storagecellaeolian">
 		<string lang="de">Äolische Zelle</string>
 		<string lang="en">Aeolian Cell</string>
 		<string lang="fr">Pile Éolienne</string>
