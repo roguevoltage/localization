@@ -744,18 +744,18 @@
 		<string lang="uk">Видаляє всі $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgrenadevulnerability">
-		<string lang="de">Versieht alle Gegner und Charaktere mit $vulnerable$. (Dauer: 6)</string>
-		<string lang="en">Applies $vulnerable$ to all enemies and player characters. (Duration: 6)</string>
-		<string lang="fr">Applique $vulnerable$ à tous les combattants. (Durée: 6)</string>
-		<string lang="zh">为所有敌人及己方角色施加$vulnerable$。（持续时间：6）</string>
-		<string lang="jp">敵味方全体に$vulnerable$付与。$br$（効果時間：6）</string>
-		<string lang="ru">Накладывает $vulnerable$ на всех участников боя. (Длительность: 6)</string>
-		<string lang="es">Aplica $vulnerable$ a todos los combatientes. (Duración: 6)</string>
-		<string lang="kr">모든 적과 플레이어 캐릭터에게 $vulnerable$을 적용합니다.(지속시간: 6)</string>
-		<string lang="pt-br">Aplica $vulnerable$ a todos os combatentes. (Duração: 6)</string>
-		<string lang="zh-tw">為所有敵人及己方角色施加$vulnerable$。（持續時間：6）
+		<string lang="de">Versieht alle Gegner mit $vulnerable$.$p$(Dauer: 6)</string>
+		<string lang="en">Applies $vulnerable$ to all enemies.$p$(Duration: 6)</string>
+		<string lang="fr">Applique $vulnerable$ à tous les ennemis.$p$(Durée : 6)</string>
+		<string lang="zh">对所有敌人施加$vulnerable$。$p$（持续时间：6）</string>
+		<string lang="jp">全ての敵に$vulnerable$を付与。$p$（持続時間：6）</string>
+		<string lang="ru">Накладывает $vulnerable$ на всех врагов.$p$(Длительность: 6)</string>
+		<string lang="es">Aplica $vulnerable$ a todos los enemigos.$p$(Duración: 6)</string>
+		<string lang="kr">모든 적에게 $vulnerable$를 부여합니다.$p$(지속시간: 6)</string>
+		<string lang="pt-br">Aplica $vulnerable$ a todos os inimigos.$p$(Duração: 6)</string>
+		<string lang="zh-tw">對所有敵人施加$vulnerable$。$p$（持續時間：6）
 </string>
-		<string lang="uk">Застосовує $vulnerable$ на всіх учасників бою. (Тривалість: 6)</string>
+		<string lang="uk">Накладає $vulnerable$ на всіх ворогів.$p$(Тривалість: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$1healing$ auf ihn/sie an.</string>
