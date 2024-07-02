@@ -189,31 +189,6 @@
         <string lang="pt-br">Inflige $gravamplification$ no combatente alvo.$br$(Duração: $energy$×3).</string>
 		<string lang="uk">Накладає на ціль $gravamplification$.$p$(Тривалість: $energy$×3).</string>
 </set>
-<set id="name-module-generatorbomb">
-        <string lang="de">Explosiver Generator</string>
-        <string lang="en">Explosive Generator</string>
-        <string lang="fr">Générateur Explosif</string>
-        <string lang="zh">爆炸发电机</string>
-        <string lang="jp">爆発発電機</string>
-        <string lang="ru">Взрывной Генератор</string>
-        <string lang="es">Generador Explosivo</string>
-        <string lang="kr">폭발 발전기</string>
-        <string lang="pt-br">Gerador Explosivo</string>
-        <string lang="uk">Вибуховий генератор</string>
-</set>
-<set id="description-module-generatorbomb">
-        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ und erzeugt ein $b$Zeitbomben-Modul$/b$</string>
-        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation and creates a $b$Time Bomb Module$/b$</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation et crée un module $b$Bombe à retardement$/b$</string>
-        <string lang="zh">在激活时产生$b$$GENERATIONVALUE$$/b$ $energy$并生成一个$b$定时炸弹模块$/b$</string>
-        <string lang="jp">アクティベート時に$b$$GENERATIONVALUE$$/b$ $energy$を生成し、$b$タイム ボム モジュール$/b$を作成します</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации и создает модуль $b$Временная бомба$/b$</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación y crea un módulo $b$Bomba Temporizada$/b$</string>
-        <string lang="kr">활성화시 $b$$GENERATIONVALUE$$/b$ $energy$를 생성하고 $b$시한폭탄 모듈$/b$을 생성합니다</string>
-        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação e cria um módulo $b$Bomba de Tempo$/b$</string>
-		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації та створює $b$Бомбу уповільненої дії$/b$</string>
-</set>
-
 <set id="name-module-effectortaunt">
 	<string lang="de">Spott-Strahler $MODIFICATIONVALUE$</string>
 	<string lang="en">Taunt Ray $MODIFICATIONVALUE$</string>

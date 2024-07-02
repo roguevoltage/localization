@@ -310,6 +310,19 @@
 		<string lang="zh-tw">在另一角色的模架上製造一個$volatile$的$b$紊流器$/b$。</string>
 		<string lang="uk">Створює $volatile$ модуль $b$Турбулентність$/b$ на стійці іншого персонажа.</string>
 </set>
+<set id="description-module-generatorbomb">
+	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt eine $b$Zeitbombe$/b$ mit $unstable$ auf einem deiner Racks her.</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Time Bomb$/b$ with $unstable$ on one of your racks.</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit une $b$Bombe à Retardement$/b$ avec $unstable$ sur l'un de vos racks.</string>
+	<string lang="zh">激活时$b$$GENERATIONVALUE$$/b$$energy$。$br$在你的一个模架上制造一个$unstable$的$b$定时炸弹$/b$。</string>
+	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$$unstable$付与された自分のラックに$br$$b$タイムボム$/b$製造。</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает $b$Временную Бомбу$/b$ с $unstable$ на одной из ваших стоек.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye una $b$Bomba de Tiempo$/b$ con $unstable$ en uno de tus bastidores.</string>
+	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$당신의 랙 중 하나에 $unstable$ 상태의 $b$시한폭탄$/b$을 조립합니다.</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói uma $b$Bomba de Tempo$/b$ com $unstable$ em um de seus racks.</string>
+	<string lang="zh-tw">啟動時$b$$GENERATIONVALUE$$/b$$energy$。$br$在你的一個模架上製造一個$unstable$的$b$定時炸彈$/b$。</string>
+	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
+</set>
 <set id="description-module-generatorfire">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht alle anderen Module auf dem Rack mit $fire$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts all other modules on this rack with $fire$.</string>
@@ -1202,6 +1215,20 @@
 		<string lang="zh-tw">紊流器工廠$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Фабрика турбулентності $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-generatorbomb">
+		<string lang="de">Explosiver Generator</string>
+		<string lang="en">Explosive Generator</string>
+		<string lang="fr">Générateur Explosif</string>
+		<string lang="zh">爆炸发电机</string>
+		<string lang="jp">爆発発電機</string>
+		<string lang="ru">Взрывной Генератор</string>
+		<string lang="es">Generador Explosivo</string>
+		<string lang="kr">폭발 발전기</string>
+		<string lang="pt-br">Gerador Explosivo</string>
+		<string lang="zh-tw">爆炸發電機
+</string>
+		<string lang="uk">Вибуховий генератор</string>
 </set>
 <set id="name-module-generatorfire">
 		<string lang="de">Pyro-Generator</string>
