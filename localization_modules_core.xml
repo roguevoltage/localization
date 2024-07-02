@@ -421,6 +421,20 @@
 </string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
+<set id="description-module-generatorcrust">
+	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
+	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此机架上的另一个目标模块施加$crust$。</string>
+	<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$crust$を付与。</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает $crust$ на другой модуль на этом стойке.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige a otro módulo objetivo en este rack con $crust$.</string>
+	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $crust$를 부여합니다.</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige outro módulo alvo neste rack com $crust$.</string>
+	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此機架上的另一個目標模組施加$crust$。
+</string>
+	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Накладає $crust$ на інший модуль на цій стійці.</string>
+</set>
 <set id="description-module-generatordecelerating">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
@@ -1236,6 +1250,20 @@
 		<string lang="zh-tw">發生器
 </string>
 		<string lang="uk">Генератор</string>
+</set>
+<set id="name-module-generatorcrust">
+	<string lang="de">Krusten-Generator</string>
+	<string lang="en">Crust Generator</string>
+	<string lang="fr">Générateur de Croute</string>
+	<string lang="zh">晶壳发生器</string>
+	<string lang="jp">結晶発電機</string>
+	<string lang="ru">Кора-Генератор</string>
+	<string lang="es">Generador de Corteza</string>
+	<string lang="kr">크러스트 발전기</string>
+	<string lang="pt-br">Gerador de Crosta</string>
+	<string lang="zh-tw">晶殼發生器
+</string>
+	<string lang="uk">Кора-генератор</string>
 </set>
 <set id="name-module-generatordecelerating">
 		<string lang="de">Grav.-Generator</string>
