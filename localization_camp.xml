@@ -155,18 +155,18 @@
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
 		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
 </set>
-<set id="description-campstructure-watchtower">
-		<string lang="de">Der erste Loot-Reroll ist gratis</string>
-		<string lang="en">Your first loot reroll is free</string>
-        <string lang="fr">Votre premier reroll de butin est gratuit</string>
-		<string lang="zh">首次重骰不耗费点数</string>
-		<string lang="jp">初回リロール無料</string>
-        <string lang="ru">Ваш первый повторный лут безкоштовний</string>
-        <string lang="es">Tu primer reroll de botín es gratis</string>
-		<string lang="kr">첫 번째 새로고침이 무료입니다</string>
-		<string lang="pt-br">Seu primeiro reroll de saque é gratuito</string>
-        <string lang="zh-tw">首次重骰不耗費點數</string>
-		<string lang="uk">Перше оновлення здобичі безкоштовне</string>
+<set id="description-campstructure-upgradevendor">
+		<string lang="de">Kaufe Modul-Upgrades für $plasma$</string>
+		<string lang="en">Buy module upgrades with $plasma$</string>
+        <string lang="fr">Achetez des améliorations de module pour $plasma$</string>
+        <string lang="zh">花费$plasma$$br$购买模块升级</string>
+        <string lang="jp">$plasma$で$br$モジュールアップグレード購入</string>
+        <string lang="ru">Купите модульные улучшения за $plasma$</string>
+        <string lang="es">Compra mejoras de módulos por $plasma$</string>
+        <string lang="kr">$plasma$로$br$모듈 업그레이드를 구매</string>
+        <string lang="pt-br">Compre melhorias de módulos por $plasma$</string>
+        <string lang="zh-tw">花費$plasma$$br$購買模組升級</string>
+        <string lang="uk">Продає модульні покращення за $plasmaicon$$b$Плазму$/b$</string>
 </set>
 <set id="description-campstructure-timevault">
 		<string lang="de">Lagere ein Modul zwischen Runs</string>
@@ -193,6 +193,19 @@
 		<string lang="pt-br">Compre módulos de consumo com $cracked$ com $plasma$</string>
 		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組</string>
 		<string lang="uk">Продає $cracked$ модулі за $plasmaicon$$b$Плазму$/b$</string>
+</set>
+<set id="description-campstructure-watchtower">
+		<string lang="de">Der erste Loot-Reroll ist gratis</string>
+		<string lang="en">Your first loot reroll is free</string>
+        <string lang="fr">Votre premier reroll de butin est gratuit</string>
+		<string lang="zh">首次重骰不耗费点数</string>
+		<string lang="jp">初回リロール無料</string>
+        <string lang="ru">Ваш первый повторный лут безкоштовний</string>
+        <string lang="es">Tu primer reroll de botín es gratis</string>
+		<string lang="kr">첫 번째 새로고침이 무료입니다</string>
+		<string lang="pt-br">Seu primeiro reroll de saque é gratuito</string>
+        <string lang="zh-tw">首次重骰不耗費點數</string>
+		<string lang="uk">Перше оновлення здобичі безкоштовне</string>
 </set>
 <set id="description-campstructure-workshop">
 		<string lang="de">Kaufe für $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
@@ -261,17 +274,17 @@
 		<string lang="uk">Електростанція</string>
 </set>
 <set id="name-campstructure-refinery">
-		<string lang="de">Raffinerie</string>
-		<string lang="en">Refinery</string>
-		<string lang="fr">Raffinerie</string>
-		<string lang="zh">精炼厂</string>
-		<string lang="jp">精製所</string>
-		<string lang="ru">Очистительный завод</string>
-		<string lang="es">Refinería</string>
-		<string lang="kr">정제소</string>
-		<string lang="pt-br">Refinaria</string>
-		<string lang="zh-tw">精煉廠</string>
-		<string lang="uk">Очисний завод</string>
+		<string lang="de">Zeitkapsel</string>
+		<string lang="en">Time Capsule</string>
+		<string lang="fr">Capsule Temporelle</string>
+		<string lang="zh">时间胶囊</string>
+		<string lang="jp">タイムカプセル</string>
+		<string lang="ru">Временная капсула</string>
+		<string lang="es">Cápsula del tiempo</string>
+		<string lang="kr">타임 캡슐</string>
+		<string lang="pt-br">Cápsula do Tempo</string>
+		<string lang="zh-tw">時間膠囊</string>
+		<string lang="uk">Капсула часу</string>
 </set>
 <set id="name-campstructure-scrapyard">
 		<string lang="de">Schrotthalde</string>
@@ -309,8 +322,7 @@
 		<string lang="es">Telescopio</string>
 		<string lang="kr">망원경</string>
 		<string lang="pt-br">Telescópio</string>
-		<string lang="zh-tw">望遠鏡
-</string>
+		<string lang="zh-tw">望遠鏡</string>
 		<string lang="uk">Телескоп</string>
 </set>
 <set id="name-campstructure-timevault">
@@ -323,9 +335,21 @@
 		<string lang="es">Cápsula del tiempo</string>
 		<string lang="kr">타임 캡슐</string>
 		<string lang="pt-br">Cápsula do Tempo</string>
-		<string lang="zh-tw">時間膠囊
-</string>
+		<string lang="zh-tw">時間膠囊</string>
 		<string lang="uk">Капсула часу</string>
+</set>
+<set id="name-campstructure-upgradevendor">
+		<string lang="de">Raffinerie</string>
+		<string lang="en">Refinery</string>
+		<string lang="fr">Raffinerie</string>
+		<string lang="zh">精炼厂</string>
+		<string lang="jp">精製所</string>
+		<string lang="ru">Очистительный завод</string>
+		<string lang="es">Refinería</string>
+		<string lang="kr">정제소</string>
+		<string lang="pt-br">Refinaria</string>
+		<string lang="zh-tw">精煉廠</string>
+		<string lang="uk">Очисний завод</string>
 </set>
 <set id="name-campstructure-vendingmachine">
 		<string lang="de">Modulautomat</string>
@@ -354,17 +378,17 @@
         <string lang="uk">Варта</string>
 </set>
 <set id="name-campstructure-workshop">
-		<string lang="de">Modulwerkstatt</string>
-		<string lang="en">Module Workshop</string>
-		<string lang="fr">Atelier de Modules</string>
-		<string lang="zh">模块工坊</string>
-		<string lang="jp">モジュール工房</string>
-		<string lang="ru">Модульная мастерская</string>
-		<string lang="es">Taller de módulos</string>
-		<string lang="kr">모듈 작업장</string>
-		<string lang="pt-br">Oficina de módulos</string>
-		<string lang="zh-tw">模組工坊</string>
-		<string lang="uk">Майстерня Модулів</string>
+		<string lang="de">Handelsposten</string>
+		<string lang="en">Trading Post</string>
+		<string lang="fr">Comptoir de commerce</string>
+		<string lang="zh">交易站</string>
+		<string lang="jp">交易所</string>
+		<string lang="ru">Торговый Пост</string>
+		<string lang="es">Puesto comercial</string>
+		<string lang="kr">교역소</string>
+		<string lang="pt-br">Entreposto</string>
+		<string lang="zh-tw">交易站</string>
+		<string lang="uk">Торговий Пост</string>
 </set>
 <set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
@@ -431,17 +455,17 @@
 		<string lang="uk">«Надійне джерело енергії для нашого табору»</string>
 </set>
 <set id="quote-campstructure-refinery">
-		<string lang="de"/>
-		<string lang="en"/>
-		<string lang="fr"/>
-		<string lang="zh"/>
-		<string lang="jp"/>
-		<string lang="ru"/>
-		<string lang="es"/>
-		<string lang="kr"/>
-		<string lang="pt-br"/>
-		<string lang="zh-tw"/>
-		<string lang="uk"/>
+		<string lang="de">“Oh, das packen wir also morgen rein.”</string>
+		<string lang="en">“Oh, so this one we will put in tomorrow.”</string>
+		<string lang="fr">“Oh, donc on le mettra demain.”</string>
+		<string lang="zh">“哦，所以这个我们明天再放进去。”</string>
+		<string lang="jp">おっと、こいつをしまうのは明日にしよう</string>
+		<string lang="ru">“О, этот мы запакуем завтра”</string>
+		<string lang="es">“Oh, asi que este lo colocaremos mañana"</string>
+		<string lang="kr">오, 여기에 있는 이건 내일 넣자</string>
+		<string lang="pt-br">“Oh, então este vamos colocar amanhã”</string>
+		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”</string>
+		<string lang="uk">«О, цей ми запакуємо завтра.»</string>
 </set>
 <set id="quote-campstructure-scrapyard">
 		<string lang="de">Hier lagern die Bewohner alles Nützliche, auf was sie auf ihren Streifzügen stoßen</string>
@@ -469,6 +493,19 @@
 		<string lang="pt-br"/>
 		<string lang="zh-tw">“等一下，那邊是發生器+1嗎？”</string>
 		<string lang="uk">«Чейка-но, це що там, Генератор +1?»</string>
+</set>
+<set id="quote-campstructure-upgradevendor">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+		<string lang="uk"/>
 </set>
 <set id="quote-campstructure-timevault">
 		<string lang="de">“Oh, das packen wir also morgen rein.”</string>
