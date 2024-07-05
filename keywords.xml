@@ -962,6 +962,20 @@
 		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Грав. Вакуум&lt;/color&gt;&lt;/b&gt;</string>
         <string lang="pl">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="gravvacuum" tint=1&gt;Próżnia Grav.&lt;/color&gt;&lt;/b&gt;</string>
 </set>
+<set id="$hazardous$">
+		<string lang="de">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Gefährlich&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="en">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Hazardous&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="fr">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Périleux&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;危害&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="jp">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;有害&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="ru">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Опасность&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="es">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Peligroso&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="kr">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;유해성&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="pt-br">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Perigoso&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="zh-tw">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;危害&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="uk">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Небезпека&lt;/color&gt;&lt;/b&gt;</string>
+        <string lang="pl">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="vulnerable" tint=1&gt;Niebezpieczne&lt;/color&gt;&lt;/b&gt;</string>
+</set>
 <set id="$healing$">
 		<string lang="de">&lt;b&gt;&lt;color=#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Heilung&lt;/color&gt;&lt;/b&gt;</string>
 		<string lang="en">&lt;b&gt;&lt;color=#92FF83&gt;&lt;sprite name="healing" tint=1&gt;Healing&lt;/color&gt;&lt;/b&gt;</string>
@@ -1591,6 +1605,20 @@
 		<string lang="zh-tw">&lt;sprite name="storm"&gt;</string>
 		<string lang="uk">&lt;sprite name="storm"&gt;</string>
         <string lang="pl">&lt;sprite name="storm"&gt;</string>
+</set>
+<set id="$stormattraction$">
+		<string lang="de">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Sturmanziehung&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="en">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Storm Attraction&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="fr">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Attraction de Tempête&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="zh">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;风暴感召&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="jp">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;大嵐誘引&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="ru">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Притяжение Шторма&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="es">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Atracción de Tormenta&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="kr">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;폭풍 유도&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="pt-br">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Atração de Tempestade&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="zh-tw">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;風暴感召&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="uk">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Притягнення бурі&lt;/b&gt;&lt;/color&gt;</string>
+        <string lang="pl">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Przyciąganie Burzy&lt;/b&gt;&lt;/color&gt;</string>
 </set>
 <set id="$turbo$">
 		<string lang="de">&lt;b&gt;&lt;color=#93D379&gt;&lt;sprite name="boost" tint=1&gt;Turbo +1&lt;/color&gt;&lt;/b&gt;</string>
