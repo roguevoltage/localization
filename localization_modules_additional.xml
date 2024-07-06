@@ -272,17 +272,17 @@
 		<string lang="uk">Створює універсальний $cracked$ $b$Поєднувач$/b$ з $crust$.</string>
 </set>
 <set id="description-module-factorymodifier">
-		<string lang="de">Stellt einen universellen $b$Verstärker$/b$$br$mit $cracked$ her.</string>
-		<string lang="en">Constructs a universal$br$$b$Amplifier$/b$ with $cracked$.</string>
-		<string lang="fr">Construit un $b$Modificateur$/b$ universel avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$的通用$b$增幅器$/b$。</string>
-		<string lang="jp">$cracked$付与された汎用端子の$br$$b$増幅器$/b$製造。</string>
-		<string lang="ru">Создает универсальный $b$Модификатор$/b$$br$с $cracked$.</string>
-		<string lang="es">Construye un $b$Modificador$/b$ universal$br$con $cracked$.</string>
-		<string lang="kr">$cracked$ 상태의 범용 $b$증폭기$/b$를 조립합니다.</string>
-		<string lang="pt-br">Constrói um $b$Modificador$/b$ universal com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$的通用$b$增幅器$/b$。</string>
-		<string lang="uk">Створює універсальний$br$ $cracked$ $b$Підсилювач$/b$.</string>
+		<string lang="de">Stellt einen universellen $b$Verstärker$/b$$br$mit $cracked$ und $cooldown$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Amplifier$/b$ with $cracked$ and $cooldown$.</string>
+		<string lang="fr">Construit un $b$Amplificateur$/b$ universel avec $cracked$ et $cooldown$.</string>
+		<string lang="zh">制造一个$cracked$且$cooldown$的$br$通用$b$放大器$/b$。</string>
+		<string lang="jp">$cracked$と$cooldown$付与された$br$汎用端子の$b$増幅器$/b$製造。</string>
+		<string lang="ru">Создает универсальный $b$Усилитель$/b$$br$с $cracked$ и $cooldown$.</string>
+		<string lang="es">Construye un $b$Amplificador$/b$ universal$br$con $cracked$ y $cooldown$.</string>
+		<string lang="kr">$cracked$ 상태와 $cooldown$을 지닌 범용 $b$증폭기$/b$를 조립합니다.</string>
+		<string lang="pt-br">Constrói um $b$Amplificador$/b$ universal$br$com $cracked$ e $cooldown$.</string>
+		<string lang="zh-tw">製造一個$cracked$且$cooldown$的$br$通用$b$放大器$/b$。</string>
+		<string lang="uk">Створює універсальний $cracked$ $b$Підсилювач$/b$ з $cooldown$.</string>
 </set>
 <set id="description-module-factoryrevitalizingscreen">
 		<string lang="de">Stellt einen universellen $b$Heilenden Schirm$/b$$br$mit $cracked$ her.</string>
@@ -545,17 +545,17 @@
 		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і наносить $1damage$ випадковому ворогу.</string>
 </set>
 <set id="description-module-passivewindupgorf">
-        <string lang="de">Zu Beginn des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
-		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from the owner to apply $1healing$ to them.</string>
-        <string lang="fr">Au début du tour du propriétaire, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
-        <string lang="zh">拥有者回合开始时，移除拥有者的$grav+1$，为其施加$1healing$。</string>
-        <string lang="jp">所有者のターン開始時、$grav+1$を除去し、$1healing$を適用。</string>
-        <string lang="ru">В начале хода владельца, удаляет $grav+1$ у владельца, чтобы применить $1healing$ к нему.</string>
-        <string lang="es">Elimina $grav+1$ al comienzo del turno del propietario para aplicarle $1healing$.</string>
-        <string lang="kr">소유자의 턴이 시작할 때, 소유자에게서 $grav+1$을 제거해 $1healing$을 적용합니다.</string>
-        <string lang="pt-br">No início do turno do dono, remove $grav+1$ do dono para aplicar $1healing$ a ele.</string>
-        <string lang="zh-tw">擁有者回合開始時，移除擁有者的$grav+1$，為其施加$1healing$。</string>
-		<string lang="uk">На початку ходу власника прибирає з нього $grav+1$ і накладає $1healing$ на нього.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
+		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $1healing$ to them.</string>
+        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
+        <string lang="zh">拥有者回合开始和结束时，移除拥有者的$grav+1$，为其施加$1healing$。</string>
+		<string lang="jp">所有者のターン開始と終了時、$grav+1$を除去し、$1healing$を適用。</string>
+		<string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить $1healing$ к нему.</string>
+		<string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ para aplicar $1healing$ a él.</string>
+		<string lang="kr">소유자의 턴이 시작하고 끝날 때, 소유자에게서 $grav+1$을 제거해 $1healing$을 적용합니다.</string>
+		<string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $1healing$ a ele.</string>
+		<string lang="zh-tw">擁有者回合開始和結束時，移除擁有者的$grav+1$，為其施加$1healing$。</string>
+		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $1healing$ на нього.</string>
 </set>
 <set id="description-module-passivewindupdino">
         <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um dem verbündeten Charakter $grav-1$ zuzufügen.</string>
