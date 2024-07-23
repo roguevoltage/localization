@@ -272,7 +272,7 @@
 		<string lang="uk">Створює універсальний $cracked$ $b$Поєднувач$/b$ з $crust$.</string>
 </set>
 <set id="description-module-factorymodifier">
-		<string lang="de">Stellt einen universellen $b$Verstärker$/b$$br$mit $cracked$ und $cooldown$ her.</string>
+		<string lang="de">Stellt einen universellen $b$Verstärker$/b$ mit $cracked$ und $cooldown$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Amplifier$/b$ with $cracked$ and $cooldown$.</string>
 		<string lang="fr">Construit un $b$Amplificateur$/b$ universel avec $cracked$ et $cooldown$.</string>
 		<string lang="zh">制造一个$cracked$且$cooldown$的$br$通用$b$放大器$/b$。</string>
@@ -665,7 +665,7 @@
 		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу $lightning$ або $stormicon$$b$Грози$/b$.</string>
 </set>
 <set id="description-module-toggleddisassembler">
-		<string lang="de">Zerstört ein anderes Modul, um $2$ $plasma$ zu erzeugen.</string>
+		<string lang="de">Zerstört ein anderes Modul,$br$um $2$ $plasma$ zu erzeugen.</string>
 		<string lang="en">Destroys another target module to generate $2$ $plasma$.</string>
 		<string lang="fr">Détruit un autre module ciblé pour générer $2$ $plasma$.</string>
 		<string lang="zh">选择另一模块销毁，产出$2$$plasma$。</string>
@@ -878,7 +878,7 @@
 		<string lang="en">Applies $upgrade$ and $pollution$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-toggledupgradergenerator-stormattractor">
-		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $stormattractor$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
+		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $stormattraction$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
 		<string lang="en">Applies $upgrade$ and $stormattraction$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
 		<string lang="fr">Applique $upgrade$ et $stormattraction$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size></string>
 		<string lang="zh">在此模架上选择一个基础$generator$，为其施加$upgrade$和$stormattraction$。$p$&lt;size=11&gt;$generator$模块只能拥有一个$upgrade$。&lt;/size&gt;</string>
@@ -918,7 +918,7 @@
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до вхідного струму.</string>
 </set>
 <set id="description-module-vaultacceleration">
-		<string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Characters, entferne $1$ gespeicherte $energy$ um ihn mit $grav-1$ zu versehen.</string>
+		<string lang="de">Kann aufgeladen werden.$p$Am Beginn des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um ihn mit $grav-1$ zu versehen.</string>
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du personnage, retirez $1$ $energy$ stockée pour lui appliquer $grav-1$.</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$点所储存的$energy$，对其施加$grav-1$。</string>
