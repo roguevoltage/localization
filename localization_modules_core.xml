@@ -81,13 +81,13 @@
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
-		<string lang="zh">有角色得到$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">プレイヤーキャラが$br$回復されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="zh">有角色获得$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">プレイヤーキャラが$br$$healing$されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
 		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
-		<string lang="zh-tw">有角色得到$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">有角色獲得$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли персонаж гравця отримує $healing$.</string>
 </set>
 <set id="description-module-collectorkill">
@@ -135,13 +135,13 @@
 	<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ verbraucht wird.</string>
 	<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is consumed.</string>
 	<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est consommé.</string>
-	<string lang="zh">消耗$plasma$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="zh">每当花费$plasma$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
 	<string lang="jp">$plasma$を消費するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 	<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $plasma$ расходуется.</string>
 	<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es consumido.</string>
 	<string lang="kr">$plasma$가 소모될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 	<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é consumido.</string>
-	<string lang="zh-tw">消耗$plasma$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="zh-tw">每當花費$plasma$時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
 	<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли витрачається $plasma$.</string>
 </set>
 <set id="description-module-collectortrauma">
@@ -207,10 +207,9 @@
 		<string lang="jp">任意の対象に$grav-$付与。</string>
 		<string lang="ru">Применяет к цели $grav-$.</string>
 		<string lang="es">Inflige $grav-$ al objetivo.</string>
-		<string lang="kr">무작위 대상에게$br$$grav+$를 부여합니다.</string>
+		<string lang="kr">임의의 대상에게$br$$grav-$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $grav-$ ao alvo.</string>
-		<string lang="zh-tw">對任意目標施放$br$$grav-$。
-</string>
+		<string lang="zh-tw">對任意目標施放$br$$grav-$。</string>
 		<string lang="uk">Накладає на ціль $grav-$.</string>
 </set>
 <set id="description-module-effectorblade">
@@ -249,7 +248,7 @@
 		<string lang="jp">任意の対象に$grav+$付与。</string>
 		<string lang="ru">Применяет к цели$br$$grav+$.</string>
 		<string lang="es">Inflige $grav+$ al objetivo.</string>
-		<string lang="kr">무작위 대상에게$br$$grav+$를 부여합니다.</string>
+		<string lang="kr">임의의 대상에게$br$$grav+$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $grav+$ ao alvo.</string>
 		<string lang="zh-tw">對任意目標施放$br$$grav+$。
 </string>
@@ -385,26 +384,26 @@
 		<string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal $b$Healing Potion$/b$ with $cracked$.</string>
 		<string lang="fr">Construit un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$治疗药剂$/b$。</string>
+		<string lang="zh">制造一个$cracked$的通用$b$治疗药剂$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$br$$b$回復薬$/b$製造。</string>
 		<string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$治療藥劑$/b$。</string>
+		<string lang="zh-tw">製造一個$cracked$的通用$b$治療藥劑$/b$。</string>
 		<string lang="uk">Створює універсальне $b$Цілюще Зілля$/b$ з $cracked$.</string>
 </set>
 <set id="description-module-factorystoragecell">
 		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Storage Cell$/b$ with $cracked$ and $cooldown$.</string>
 		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$ et $cooldown$.</string>
-		<string lang="zh">制造一个$cracked$破损的通用$b$储存单元$/b$，并带有$cooldown$。</string>
-        <string lang="jp">$cracked$と$cooldown$が付与された汎用$br$$b$貯蔵セル$/b$製造。</string>
+		<string lang="zh">制造一个$cracked$的通用$b$储存单元$/b$，冷却时间$cooldown$。</string>
+        <string lang="jp">$cracked$と$cooldown$付与された$br$汎用端子の$b$充電池$/b$製造。</string>
 		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$ и $cooldown$.</string>
 		<string lang="es">Construye una $b$Célula de Almacenamiento$/b$ universal$br$con $cracked$ y $cooldown$.</string>
 		<string lang="kr">$cracked$ 상태와 $cooldown$가 있는 범용 $b$저장 셀$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$ e $cooldown$.</string>
-		<string lang="zh-tw">製造一個$cracked$破損的通用$b$儲存單元$/b$，並帶有$cooldown$。</string>
+		<string lang="zh-tw">製造一個$cracked$的通用$b$儲存單元$/b$，冷卻時間$cooldown$。</string>
 		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$ та $cooldown$.</string>
 </set>
 <set id="description-module-generator">
@@ -425,14 +424,13 @@
 	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
 	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
 	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
-	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此机架上的另一个目标模块施加$crust$。</string>
-	<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$crust$を付与。</string>
+	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为同模架上另一个目标模块施加$crust$.</string>
+	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$ラックの別の対象モジュールに$crust$付与。</string>
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает $crust$ на другой модуль на этом стойке.</string>
 	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige a otro módulo objetivo en este bastidor con $crust$.</string>
 	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $crust$를 부여합니다.</string>
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige outro módulo alvo neste rack com $crust$.</string>
-	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此機架上的另一個目標模組施加$crust$。
-</string>
+	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為同模架上另一個目標模組施加$crust$.</string>
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Накладає $crust$ на інший модуль на цій стійці.</string>
 </set>
 <set id="description-module-generatordecelerating">
@@ -534,7 +532,7 @@
 		<string lang="uk">Змінює колір струму.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul verkabelt.</string>
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
 		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired directly to a $sensor$ module.</string>
 		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé directement à un module $sensor$.</string>
 		<string lang="zh">改变能量流的颜色。$p$若该能量流流经$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
@@ -608,7 +606,7 @@
 		<string lang="en">$generator$ modules on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
 		<string lang="fr">Les modules $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
 		<string lang="zh">此模架上的$generator$模块有$b$33%几率$/b$额外产出$b$+1$/b$$energy$。</string>
-		<string lang="jp">ラックの$generator$モジュールは$br$$b$33%の確率$/b$で$b$＋1$/b$$energy$発電。</string>
+		<string lang="jp">ラックの$generator$モジュールは$br$$b$33%の確率$/b$で$br$$b$＋1$/b$$energy$発電。</string>
 		<string lang="ru">Модули $generator$ на этой стойке имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
 		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
 		<string lang="kr">이 랙의 $generator$ 모듈은 $b$33%의 확률$/b$로 $b$+1$/b$ $energy$를 추가로 생성합니다.</string>
@@ -734,7 +732,7 @@
 		<string lang="en">Permanently removes $overload$ from target module on this rack$p$- or -$p$permanently removes $malfunctioning$ from target module on this rack and replaces it with $overload$.</string>
 		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$p$- ou -$p$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
 		<string lang="zh">永久移除选定模块的$overload$$br$-或者-$br$将选定模块的$malfunctioning$永久替换为$overload$。</string>
-		<string lang="jp">ラックのモジュールから$overload$を恒久除去。$p$- または -$p$$malfunctioning$を恒久除去し、$overload$付与。</string>
+		<string lang="jp">ラックのモジュールから$br$$overload$を恒久除去。$br$または$br$$malfunctioning$を恒久除去し、$br$$overload$付与。</string>
 		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$p$- или -$p$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
 		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$p$- o -$p$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
 		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
@@ -761,14 +759,13 @@
 		<string lang="de">Versieht alle Gegner mit $vulnerable$.$p$(Dauer: 6)</string>
 		<string lang="en">Applies $vulnerable$ to all enemies.$p$(Duration: 6)</string>
 		<string lang="fr">Applique $vulnerable$ à tous les ennemis.$p$(Durée : 6)</string>
-		<string lang="zh">对所有敌人施加$vulnerable$。$p$（持续时间：6）</string>
-		<string lang="jp">全ての敵に$vulnerable$を付与。$p$（持続時間：6）</string>
+		<string lang="zh">为所有敌人施加$vulnerable$。$p$（持续时间：6）</string>
+		<string lang="jp">敵全体に$vulnerable$付与。$br$（効果時間：6）</string>
 		<string lang="ru">Накладывает $vulnerable$ на всех врагов.$p$(Длительность: 6)</string>
 		<string lang="es">Aplica $vulnerable$ a todos los enemigos.$p$(Duración: 6)</string>
 		<string lang="kr">모든 적에게 $vulnerable$를 부여합니다.$p$(지속시간: 6)</string>
 		<string lang="pt-br">Aplica $vulnerable$ a todos os inimigos.$p$(Duração: 6)</string>
-		<string lang="zh-tw">對所有敵人施加$vulnerable$。$p$（持續時間：6）
-</string>
+		<string lang="zh-tw">為所有敵人施加$vulnerable$。$p$（持續時間：6）</string>
 		<string lang="uk">Накладає $vulnerable$ на всіх ворогів.$p$(Тривалість: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
@@ -776,7 +773,7 @@
 		<string lang="en">Permanently increases the owner's max. HP by $1$ and applies $1healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
 		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
-		<string lang="jp">キャラの最大HPを恒久的に$1$増やし、$1$$healing$。</string>
+		<string lang="jp">キャラの最大HPを恒久的に$br$$1$増やし、$1$$healing$。</string>
 		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1healing$ к нему/ей.</string>
 		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1healing$ a él/ella.</string>
 		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ $healing$를 부여합니다.</string>
