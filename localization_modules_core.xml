@@ -784,6 +784,110 @@
 		<string lang="zh-tw">令角色最大生命值永久提升$1$，$br$並對其施加$1$點$healing$。</string>
 		<string lang="uk">Назавжди збільшує макс. HP на $1$ і застосовує $1healing$.</string>
 </set>
+<set id="name-module-toggledpaintbucket-blue">
+        <string lang="de">Farbeimer (Blau)</string>
+		<string lang="en">Paint Bucket (Blue)</string>
+        <string lang="fr">Seau de Peinture (Bleu)</string>
+        <string lang="zh">油漆桶（蓝色）</string>
+        <string lang="jp">ペイントバケツ（青）</string>
+        <string lang="ru">Ведро краски (Синий)</string>
+        <string lang="es">Cubo de Pintura (Azul)</string>
+        <string lang="kr">페인트 양동이 (파랑)</string>
+        <string lang="pt-br">Balde de Tinta (Azul)</string>
+        <string lang="zh-tw">油漆桶（藍色）</string>
+        <string lang="uk">Відро фарби (Синій)</string>
+</set>
+<set id="name-module-toggledpaintbucket-green">
+        <string lang="de">Farbeimer (Grün)</string>
+		<string lang="en">Paint Bucket (Green)</string>
+        <string lang="fr">Seau de Peinture (Vert)</string>
+        <string lang="zh">油漆桶（绿色）</string>
+        <string lang="jp">ペイントバケツ（緑）</string>
+        <string lang="ru">Ведро краски (Зеленый)</string>
+        <string lang="es">Cubo de Pintura (Verde)</string>
+        <string lang="kr">페인트 양동이 (초록)</string>
+        <string lang="pt-br">Balde de Tinta (Verde)</string>
+        <string lang="zh-tw">油漆桶（綠色）</string>
+        <string lang="uk">Відро фарби (Зелений)</string>
+</set>
+<set id="name-module-toggledpaintbucket-red">
+        <string lang="de">Farbeimer (Rot)</string>
+		<string lang="en">Paint Bucket (Red)</string>
+        <string lang="fr">Seau de Peinture (Rouge)</string>
+        <string lang="zh">油漆桶（红色）</string>
+        <string lang="jp">ペイントバケツ（赤）</string>
+        <string lang="ru">Ведро краски (Красный)</string>
+        <string lang="es">Cubo de Pintura (Rojo)</string>
+        <string lang="kr">페인트 양동이 (빨강)</string>
+        <string lang="pt-br">Balde de Tinta (Vermelho)</string>
+        <string lang="zh-tw">油漆桶（紅色）</string>
+        <string lang="uk">Відро фарби (Червоний)</string>
+</set>
+<set id="name-module-toggledpaintbucket-universal">
+        <string lang="de">Farbeimer (Universell)</string>
+		<string lang="en">Paint Bucket (Universal)</string>
+        <string lang="fr">Seau de Peinture (Universel)</string>
+        <string lang="zh">油漆桶（通用）</string>
+        <string lang="jp">ペイントバケツ（汎用）</string>
+        <string lang="ru">Ведро краски (Универсальный)</string>
+        <string lang="es">Cubo de Pintura (Universal)</string>
+        <string lang="kr">페인트 양동이 (유니버설)</string>
+        <string lang="pt-br">Balde de Tinta (Universal)</string>
+        <string lang="zh-tw">油漆桶（通用）</string>
+        <string lang="uk">Відро фарби (Універсальний)</string>
+</set>
+<set id="description-module-toggledpaintbucket-blue">
+        <string lang="de">Ändert die Farbe einer nicht-blauen Buchse deiner Wahl zu &lt;color=#7272FF&gt;$b$blau$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-blue jack to &lt;color=#7272FF&gt;$b$blue$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-bleu de votre choix en &lt;color=#7272FF&gt;$b$bleu$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非蓝色插孔的颜色更改为&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択した青以外のジャックの色を&lt;color=#7272FF&gt;$b$青$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-синего разъема на &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no azul objetivo a &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 파랑이 아닌 잭의 색상을 &lt;color=#7272FF&gt;$b$파랑$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não azul para &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非藍色插孔的顏色更改為&lt;color=#7272FF&gt;$b$藍色$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-синього роз'єму на &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-green">
+        <string lang="de">Ändert die Farbe einer nicht-grünen Buchse deiner Wahl zu &lt;color=#7fbe63&gt;$b$grün$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-green jack to &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-verte de votre choix en &lt;color=#7fbe63&gt;$b$vert$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非绿色插孔的颜色更改为&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択した緑以外のジャックの色を&lt;color=#7fbe63&gt;$b$緑$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-зеленого разъема на &lt;color=#7fbe63&gt;$b$зеленый$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no verde objetivo a &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 초록이 아닌 잭의 색상을 &lt;color=#7fbe63&gt;$b$초록$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não verde para &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非綠色插孔的顏色更改為&lt;color=#7fbe63&gt;$b$綠色$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-зеленого роз'єму на &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-red">
+        <string lang="de">Ändert die Farbe einer nicht-roten Buchse deiner Wahl zu &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-red jack to &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-rouge de votre choix en &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非红色插孔的颜色更改为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択した赤以外のジャックの色を&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-красного разъема на &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no roja objetivo a &lt;color=#FF5555&gt;$b$roja$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 빨강이 아닌 잭의 색상을 &lt;color=#FF5555&gt;$b$빨강$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não vermelha para &lt;color=#FF5555&gt;$b$vermelha$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非紅色插孔的顏色更改為&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-червоного роз'єму на &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-universal">
+        <string lang="de">Ändert die Farbe einer nicht-universellen Buchse deiner Wahl zu &lt;color=white&gt;$b$universell$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-universal jack to &lt;color=white&gt;$b$universal$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-universelle de votre choix en &lt;color=white&gt;$b$universel$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非通用插孔的颜色更改为&lt;color=white&gt;$b$通用$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択した汎用以外のジャックの色を&lt;color=white&gt;$b$汎用$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-универсального разъема на &lt;color=white&gt;$b$универсальный$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no universal objetivo a &lt;color=white&gt;$b$universal$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 유니버설이 아닌 잭의 색상을 &lt;color=white&gt;$b$유니버설$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não universal para &lt;color=white&gt;$b$universal$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非通用插孔的顏色更改為&lt;color=white&gt;$b$通用$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-універсального роз'єму на &lt;color=white&gt;$b$універсальний$/b$&lt;/color&gt;.</string>
+</set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$&lt;size=11&gt;$passthrough$-Module können nur ein $upgrade$ erhalten.&lt;/size&gt;</string>
 		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$&lt;size=11&gt;$passthrough$ modules can only have one $upgrade$.&lt;/size&gt;</string>
