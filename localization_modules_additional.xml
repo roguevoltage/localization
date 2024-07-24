@@ -843,61 +843,60 @@
 		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 $turbo$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
-		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。
-</string>
+		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。</string>
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $turbo$.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-hazardous">
-        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $hazardous$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
-		<string lang="en">Applies $upgrade$ and $hazardous$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-        <string lang="fr">Applique $upgrade$ et $hazardous$ à un $generator$ ciblé sur ce rack.$p$&lt;size=11&gt;Modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh">为目标基础$generator$施加$br$$upgrade$及$hazardous$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
-        <string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$hazardous$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$br$$upgrade$&lt;/size&gt;は1つのみ。</string>
-        <string lang="ru">Применяет $upgrade$ и $hazardous$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
-        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $hazardous$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
-        <string lang="pt-br">Aplica $upgrade$ e $hazardous$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$hazardous$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
-		<string lang="uk">Застосовує $upgrade$ і $hazardous$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
+        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $hazardous$.</string>
+		<string lang="en">Applies $upgrade$ and $hazardous$ to target basic $generator$ on this rack.</string>
+        <string lang="fr">Applique $upgrade$ et $hazardous$ à un $generator$ ciblé sur ce rack.</string>
+        <string lang="zh">为目标基础$generator$施加$br$$upgrade$及$hazardous$效果。</string>
+        <string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$hazardous$付与。</string>
+        <string lang="ru">Применяет $upgrade$ и $hazardous$ к целевому базовому $generator$ на этом стеллаже.</string>
+        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $hazardous$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ e $hazardous$ ao módulo $generator$ alvo neste rack.</string>
+        <string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$hazardous$效果。</string>
+		<string lang="uk">Застосовує $upgrade$ і $hazardous$ до цільового базового $generator$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-pollution">
-        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $pollution$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
-		<string lang="en">Applies $upgrade$ and $pollution$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-        <string lang="fr">Applique $upgrade$ et $pollution$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh">为目标基础$generator$施加$upgrade$及$pollution$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
-        <string lang="jp">ラックの対象標準$generator$に$upgrade$と$pollution$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$br$$upgrade$.&lt;/size&gt;は1つのみ。</string>
-        <string lang="ru">Применяет $upgrade$ и $pollution$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
-        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $pollution$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
-        <string lang="pt-br">Aplica $upgrade$ e $pollution$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$pollution$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
-        <string lang="uk">Застосовує $upgrade$ і $pollution$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
+        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $pollution$.</string>
+		<string lang="en">Applies $upgrade$ and $pollution$ to target basic $generator$ on this rack.</string>
+        <string lang="fr">Applique $upgrade$ et $pollution$ à un $generator$ de base ciblé sur ce rack.</string>
+        <string lang="zh">为目标基础$generator$施加$upgrade$及$pollution$效果。</string>
+        <string lang="jp">ラックの対象標準$generator$に$upgrade$と$pollution$付与。</string>
+        <string lang="ru">Применяет $upgrade$ и $pollution$ к целевому базовому $generator$ на этом стеллаже.</string>
+        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $pollution$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ e $pollution$ ao módulo $generator$ alvo neste rack.</string>
+        <string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$pollution$效果。</string>
+        <string lang="uk">Застосовує $upgrade$ і $pollution$ до цільового базового $generator$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-stormattractor">
-		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $stormattraction$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
-		<string lang="en">Applies $upgrade$ and $stormattraction$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-		<string lang="fr">Applique $upgrade$ et $stormattraction$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh">为目标基础$generator$施加$br$$upgrade$及$stormattraction$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
-		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$stormattraction$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$br$$upgrade$&lt;/size&gt;は1つのみ。</string>
-		<string lang="ru">Применяет $upgrade$ и $stormattraction$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
-		<string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $stormattraction$를 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
-		<string lang="pt-br">Aplica $upgrade$ e $stormattraction$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$stormattraction$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
-		<string lang="uk">Застосовує $upgrade$ і $stormattraction$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
+		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $stormattraction$.</string>
+		<string lang="en">Applies $upgrade$ and $stormattraction$ to target basic $generator$ on this rack.</string>
+		<string lang="fr">Applique $upgrade$ et $stormattraction$ à un $generator$ de base ciblé sur ce rack.</string>
+		<string lang="zh">为目标基础$generator$施加$br$$upgrade$及$stormattraction$效果。</string>
+		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$stormattraction$付与。</string>
+		<string lang="ru">Применяет $upgrade$ и $stormattraction$ к целевому базовому $generator$ на этом стеллаже.</string>
+		<string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo $generator$ objetivo en este bastidor.</string>
+		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $stormattraction$를 부여합니다.</string>
+		<string lang="pt-br">Aplica $upgrade$ e $stormattraction$ ao módulo $generator$ alvo neste rack.</string>
+		<string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$stormattraction$效果。</string>
+		<string lang="uk">Застосовує $upgrade$ і $stormattraction$ до цільового базового $generator$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-gravrecoil">
-		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $gravrecoil$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
-		<string lang="en">Applies $upgrade$ and $gravrecoil$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh">为目标基础$generator$施加$upgrade$及$gravrecoil$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
-		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$gravrecoil$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$br$$upgrade$&lt;/size&gt;は1つのみ。</string>
-		<string lang="ru">Применяет $upgrade$ и $gravrecoil$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
-		<string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $gravrecoil$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
-		<string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$gravrecoil$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
-		<string lang="uk">Застосовує $upgrade$ і $gravrecoil$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
+		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $gravrecoil$.</string>
+		<string lang="en">Applies $upgrade$ and $gravrecoil$ to target basic $generator$ on this rack.</string>
+		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un $generator$ de base ciblé sur ce rack.</string>
+		<string lang="zh">为目标基础$generator$施加$upgrade$及$gravrecoil$效果。</string>
+		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$gravrecoil$付与。</string>
+		<string lang="ru">Применяет $upgrade$ и $gravrecoil$ к целевому базовому $generator$ на этом стеллаже.</string>
+		<string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo $generator$ objetivo en este bastidor.</string>
+		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $gravrecoil$을 부여합니다.</string>
+		<string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ ao módulo $generator$ alvo neste rack.</string>
+		<string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$gravrecoil$效果。</string>
+		<string lang="uk">Застосовує $upgrade$ і $gravrecoil$ до цільового базового $generator$ на цій стійці.</string>
 </set>
 <set id="description-module-turbulence">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>

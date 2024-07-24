@@ -324,6 +324,19 @@
 		<string lang="zh-tw">回合結束後失去所有$energy$</string>
 		<string lang="uk">Втратить $energyicon$$b$Енергію$/b$ наприкінці ходу</string>
 </set>
+<set id="module-properties-upgrade-limit">
+        <string lang="de">Module können nur ein $upgrade$ erhalten.</string>
+        <string lang="en">Modules can only have one$br$$upgrade$.</string>
+        <string lang="fr">Les modules ne peuvent recevoir qu'une seule $upgrade$.</string>
+        <string lang="zh">模块只能获得一个$upgrade$。</string>
+        <string lang="jp">モジュールは1つの$upgrade$のみを受け取れます。</string>
+        <string lang="ru">Модули могут получить только одно $upgrade$.</string>
+        <string lang="es">Los módulos solo pueden recibir un $upgrade$.</string>
+        <string lang="kr">모듈은 $upgrade$를 하나만 받을 수 있습니다.</string>
+        <string lang="pt-br">Os módulos só podem receber um $upgrade$.</string>
+        <string lang="zh-tw">模組只能獲得一個$upgrade$。</string>
+        <string lang="uk">Модулі можуть отримати лише одне $upgrade$.</string>
+</set>
 <set id="module-properties-modifier-not-wired-behind-sensor">
 		<string lang="de">Ist nicht direkt an ein $sensor$-Modul gekabelt</string>
 		<string lang="en">Is not wired directly to a $sensor$ module</string>
@@ -336,6 +349,19 @@
 		<string lang="pt-br">Não está conectado atrás de um módulo $sensor$</string>
 		<string lang="zh-tw">未直接連接到$sensor$模組</string>
 		<string lang="uk">Не підключений безпосередньо до модуля типу $sensor$</string>
+</set>
+<set id="module-properties-modifier-not-wired-behind-passthrough">
+		<string lang="de">Ist nicht hinter ein $passthrough$-Modul gekabelt</string>
+		<string lang="en">Is not wired behind a $passthrough$ module</string>
+		<string lang="fr">N'est pas câblé derrière un module $passthrough$</string>
+		<string lang="zh">未直接连接到$passthrough$模块</string>
+		<string lang="jp">$passthrough$モジュールへ直接配線されてない</string>
+		<string lang="ru">Не подключен за $passthrough$ модулем</string>
+		<string lang="es">No está conectado tras un módulo $passthrough$</string>
+		<string lang="kr">$passthrough$ 모듈 뒤에 연결되지 않았습니다</string>
+		<string lang="pt-br">Não está conectado atrás de um módulo $passthrough$</string>
+		<string lang="zh-tw">未直接連接到$passthrough$模組</string>
+		<string lang="uk">Не підключений безпосередньо до модуля типу $passthrough$</string>
 </set>
 <set id="module-properties-name-amplification">
 		<string lang="de">Verstärkung $MODIFICATIONVALUE$</string>

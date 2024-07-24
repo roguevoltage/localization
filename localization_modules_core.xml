@@ -513,8 +513,7 @@
 		<string lang="es">Fusiona dos corrientes.</string>
 		<string lang="kr">두 전류를 병합합니다.</string>
 		<string lang="pt-br">Mescla duas correntes.</string>
-		<string lang="zh-tw">合併兩股能量流。
-</string>
+		<string lang="zh-tw">合併兩股能量流。</string>
 		<string lang="uk">Об'єднує два струми.</string>
 </set>
 <set id="description-module-modifier">
@@ -527,8 +526,7 @@
 		<string lang="es">Cambia el color de una corriente.</string>
 		<string lang="kr">전류의 색상을 변화시킵니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.</string>
-		<string lang="zh-tw">改變能量流的顏色。
-</string>
+		<string lang="zh-tw">改變能量流的顏色。</string>
 		<string lang="uk">Змінює колір струму.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
@@ -541,8 +539,7 @@
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
 		<string lang="kr">전류의 색상을 변화시킵니다.$p$$sensor$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
 </set>
 <set id="description-module-modifierconditionaldeceleration">
@@ -555,8 +552,7 @@
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$3 o más $grav+$$/b$.</string>
 		<string lang="kr">전류의 색상을 변화시킵니다.$p$소유자가 $b$$grav+$를 3 이상$/b$ 보유했다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$3 ou mais $grav+$$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者有$b$至少3點$grav+$$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者有$b$至少3點$grav+$$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має$b$3 або більше $grav+$ $/b$.</string>
 </set>
 <set id="description-module-modifierconditionaltrauma">
@@ -569,8 +565,7 @@
 		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$2 o menos HP$/b$.</string>
 		<string lang="kr">전류의 색상을 변화시킵니다.$p$소유자의 $b$체력이 2 이하라면$/b$, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者的$b$生命值小於等於2點$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者的$b$生命值小於等於2點$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має $b$2 або менше одиниці здоровʼя$/b$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
@@ -586,6 +581,19 @@
 		<string lang="zh-tw">改變能量流的顏色。$p$為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
+<set id="description-module-modifierpassthrough">
+		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
+		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired behind a $passthrough$ module.</string>
+		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $passthrough$.</string>
+        <string lang="zh">改变能量流的颜色。$p$若该能量流流经$passthrough$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="jp">電流の色を変換。$p$$passthrough$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
+        <string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Передачи$/b$.</string>
+        <string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo de Paso$/b$.</string>
+        <string lang="kr">전류의 색상을 변화시킵니다.$p$$passthrough$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se conectado após um $b$Módulo de Passagem$/b$.</string>
+        <string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$passthrough$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $passthrough$.</string>
+</set>
 <set id="description-module-modifierplasmacombustion">
 		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
@@ -596,8 +604,7 @@
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
 		<string lang="kr">$b$$MODIFICATIONVALUE$$/b$ $energy$를 추가로 획득합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
 </set>
 <set id="description-module-passivegeneratorroll">
@@ -610,8 +617,7 @@
 		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
 		<string lang="kr">이 랙의 $generator$ 모듈은 $b$33%의 확률$/b$로 $b$+1$/b$ $energy$를 추가로 생성합니다.</string>
 		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
-		<string lang="zh-tw">此模架上的$generator$模組有$b$33%幾率$/b$額外產出$b$+1$/b$$energy$。
-</string>
+		<string lang="zh-tw">此模架上的$generator$模組有$b$33%幾率$/b$額外產出$b$+1$/b$$energy$。</string>
 		<string lang="uk">$generator$ модулі на цій стійці з $b$ймовірність 33%$/b$ згенерують $b$+1$/b$ одиницю $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
@@ -624,8 +630,7 @@
 		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada batalla.</string>
 		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada batalha.</string>
-		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。
-</string>
+		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。</string>
 		<string lang="uk">На початку кожного бою застосовує $1healing$ до власника.</string>
 </set>
 <set id="description-module-splitter">
@@ -885,17 +890,30 @@
         <string lang="uk">Змінює колір обраного не-універсального роз'єму на &lt;color=white&gt;$b$універсальний$/b$&lt;/color&gt;.</string>
 </set>
 <set id="description-module-toggledupgrader">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.$p$&lt;size=11&gt;$passthrough$-Module können nur ein $upgrade$ erhalten.&lt;/size&gt;</string>
-		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.$p$&lt;size=11&gt;$passthrough$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.$p$&lt;size=11&gt;Modules $passthrough$ ne peuvent avoir qu'une seule $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。$p$&lt;size=11&gt;每个$passthroughmodule$仅可拥有一个$br$$upgrade$。&lt;/size&gt;</string>
-		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。$p$&lt;size=11&gt;$passthroughmodule$に付与できる$upgrade$は1つのみ。&lt;/size&gt;</string>
-		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.$p$&lt;size=11&gt;$passthroughmodule$может иметь только 1 $upgrade$.&lt;/size&gt;</string>
-		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.$p$&lt;size=11&gt;Solo admite una $upgrade$.&lt;/size&gt;</string>
-		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적인 $upgrade$을 적용합니다.$p$&lt;size=11&gt;$passthroughmodule$은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
-		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.$p$&lt;size=11&gt;$passthroughmodule$s só podem ter um $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh-tw">為目標$passthroughmodule$施加永久$br$$upgrade$。$p$&lt;size=11&gt;每個$passthroughmodule$僅可擁有一個$br$$upgrade$。&lt;/size&gt;</string>
-		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.$p$&lt;size=11&gt;$passthrough$ модулі можуть мати лише один $upgrade$.&lt;/size&gt;</string>
+		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
+		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.</string>
+		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
+		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。</string>
+		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。</string>
+		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.</string>
+		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
+		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적인 $upgrade$을 적용합니다.</string>
+		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
+		<string lang="zh-tw">為目標$passthroughmodule$施加永久$br$$upgrade$。</string>
+		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.</string>
+</set>
+<set id="description-module-toggledupgraderpassthrough-gravrecoil">
+		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $upgrade$ und $gravrecoil$.;</string>
+		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $passthroughmodule$ sur ce rack.</string>
+        <string lang="zh">为目标$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
+        <string lang="jp">ラックの対象$passthroughmodule$に$upgrade$と$gravrecoil$付与。</string>
+        <string lang="ru">Применяет $upgrade$ и $gravrecoil$ к модулю типа $passthroughmodule$ на этой стойке.</string>
+        <string lang="es">Aplica $upgrade$ y $gravrecoil$ a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 $passthroughmodule$에게 $upgrade$와 $gravrecoil$을 적용합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ a um módulo do tipo $passthroughmodule$ neste rack.</string>
+        <string lang="zh-tw">為目標$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
+        <string lang="uk">Застосовує $upgrade$ та $gravrecoil$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
@@ -1444,8 +1462,7 @@
 		<string lang="es">Fusionador $MODIFICATIONVALUE$</string>
 		<string lang="kr">병합기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fusor $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">合流器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">合流器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Поєднувач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifier">
@@ -1458,8 +1475,7 @@
 		<string lang="es">Convertidor</string>
 		<string lang="kr">변환기</string>
 		<string lang="pt-br">Conversor</string>
-		<string lang="zh-tw">轉換器
-</string>
+		<string lang="zh-tw">轉換器</string>
 		<string lang="uk">Перетворювач</string>
 </set>
 <set id="name-module-modifiercollector">
@@ -1472,8 +1488,7 @@
 		<string lang="es">Amplificador de Sensor $MODIFICATIONVALUE$</string>
 		<string lang="kr">감지 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Sensor $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">傳感增幅器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">傳感增幅器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Підсилювач сенсору $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierconditionaldeceleration">
@@ -1486,8 +1501,7 @@
 		<string lang="es">Amplificador Condicional $MODIFICATIONVALUE$: Deceleración</string>
 		<string lang="kr">조건부 증폭. $MODIFICATIONVALUE$: 감속</string>
 		<string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Desaceleração</string>
-		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：減速
-</string>
+		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：減速</string>
 		<string lang="uk">Умовний підсилювач $MODIFICATIONVALUE$: Уповільнення</string>
 </set>
 <set id="name-module-modifierconditionaltrauma">
@@ -1500,8 +1514,7 @@
 		<string lang="es">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
 		<string lang="kr">조건부 증폭. $MODIFICATIONVALUE$: 트라우마</string>
 		<string lang="pt-br">Amplificador Condicional $MODIFICATIONVALUE$: Trauma </string>
-		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：創傷
-</string>
+		<string lang="zh-tw">條件增幅器$MODIFICATIONVALUE$：創傷</string>
 		<string lang="uk">Умовний підсилювач $MODIFICATIONVALUE$: Травма</string>
 </set>
 <set id="name-module-modifierdecelerating">
@@ -1514,9 +1527,21 @@
 		<string lang="es">Amplificador de Rebote $MODIFICATIONVALUE$</string>
 		<string lang="kr">반동 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Rebote $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">反沖增幅器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">反沖增幅器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Підсилювач віддачі $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-modifierpassthrough">
+		<string lang="de">Durchsatz-Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Passthrough Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplificateur de Relais $MODIFICATIONVALUE$</string>
+		<string lang="zh">穿透增幅器$MODIFICATIONVALUE$</string>
+        <string lang="jp">貫通増幅器$MODIFICATIONVALUE$</string>
+        <string lang="ru">Усилитель Прохода $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador de Traspaso $MODIFICATIONVALUE$</string>
+        <string lang="kr">통과 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador de Atravessar $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">穿透增幅器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Підсилювач Проходу $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierplasmacombustion">
 		<string lang="de">Plasmaverbrennender Verstärker $MODIFICATIONVALUE$</string>
@@ -1528,8 +1553,7 @@
 		<string lang="es">Amplificador de Combustión $MODIFICATIONVALUE$</string>
 		<string lang="kr">플라즈마 연소 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador de Combustão $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">等離子燃燒增幅器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">等離子燃燒增幅器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Підсилювач плазмового згоряння $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-passivegeneratorroll">
@@ -1696,8 +1720,7 @@
 		<string lang="es">Granada de Vulnerabilidad</string>
 		<string lang="kr">취약성 수류탄</string>
 		<string lang="pt-br">Granada de Vulnerabilidade</string>
-		<string lang="zh-tw">虛弱榴彈
-</string>
+		<string lang="zh-tw">虛弱榴彈</string>
 		<string lang="uk">Граната вразливості</string>
 </set>
 <set id="name-module-toggledmaxhpenhancer">
@@ -1710,8 +1733,7 @@
 		<string lang="es">Potenciador de Salud</string>
 		<string lang="kr">체력 증강기</string>
 		<string lang="pt-br">Melhorador de Saúde</string>
-		<string lang="zh-tw">生命增強器
-</string>
+		<string lang="zh-tw">生命增強器</string>
 		<string lang="uk">Покращувач здоров'я</string>
 </set>
 <set id="name-module-toggledupgrader">
@@ -1724,9 +1746,21 @@
 		<string lang="es">Potenciador de Traspaso</string>
 		<string lang="kr">통과 개량기</string>
 		<string lang="pt-br">Melhorador de Atravessar</string>
-		<string lang="zh-tw">中繼升級器
-</string>
+		<string lang="zh-tw">中繼升級器</string>
 		<string lang="uk">Підсилювач пропускної спроможності</string>
+</set>
+<set id="name-module-toggledupgraderpassthrough-gravrecoil">
+		<string lang="de">Durchsatz-Upgrader: Grav. Rückstoß</string>
+		<string lang="en">Passthrough Upgrader: Grav. Recoil</string>
+		<string lang="fr">Améliorateur de Relais: Recul Grav.</string>
+		<string lang="zh">中继升级器:引力反冲</string>
+		<string lang="jp">中継改良器：重力</string>
+		<string lang="ru">Улучшатель Пропускной Способности: Грав. Отдача</string>
+		<string lang="es">Potenciador de Traspaso: Retroceso Grav.</string>
+		<string lang="kr">통과 개량기: 중력 반동</string>
+		<string lang="pt-br">Melhorador de Atravessar: Recuo Grav.</string>
+		<string lang="zh-tw">中繼升級器:引力反沖</string>
+		<string lang="uk">Підсилювач пропускної спроможності: Грав. Віддача</string>
 </set>
 <set id="name-module-trashcompactor">
 		<string lang="de">Schrottpresse</string>
