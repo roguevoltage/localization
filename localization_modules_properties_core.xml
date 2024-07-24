@@ -285,6 +285,19 @@
 		<string lang="zh-tw">從輸入能量流減去$b$$MODIFICATIONVALUE$$/b$$energy$</string>
 		<string lang="uk">Зменшує $energyicon$$b$Енергію$/b$ вхідного струму на $b$ $MODIFICATIONVALUE$ $/b$</string>
 </set>
+<set id="module-properties-description-jackcolormutation">
+		<string lang="de">Farben der Buchsen ändern sich zufällig am Ende des Zuges des Charakters</string>
+		<string lang="en">Jack colors change randomly at the end of the owner's turn</string>
+		<string lang="fr">Les couleurs des jacks changent aléatoirement à la fin du tour du propriétaire</string>
+        <string lang="zh">插孔颜色在拥有者回合结束时随机变化</string>
+        <string lang="jp">所有者のターン終了時にジャックの色がランダムに変化</string>
+        <string lang="ru">Цвета разъемов меняются случайным образом в конце хода владельца</string>
+        <string lang="es">Los colores de los jacks cambian aleatoriamente al final del turno del propietario</string>
+        <string lang="kr">소유자의 턴 종료 시 잭 색상이 무작위로 변경됩니다</string>
+        <string lang="pt-br">As cores dos jacks mudam aleatoriamente no final do turno do proprietário</string>
+        <string lang="zh-tw">插孔顏色在擁有者回合結束時隨機變化</string>
+        <string lang="uk">Кольори роз'ємів змінюються випадковим чином в кінці ходу власника</string>
+</set>
 <set id="module-properties-discharge-endofturn">
 		<string lang="de">Sensoren verlieren alle $energy$$br$am Ende des Zuges des Charakters</string>
 		<string lang="en">Sensors lose all $energy$ at the$br$end of the owner's turn</string>
@@ -336,6 +349,19 @@
 		<string lang="pt-br">Amplificação $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">放大$MODIFICATIONVALUE$</string>
 		<string lang="uk">Посилення $MODIFICATIONVALUE$</string>
+</set>
+<set id="module-properties-name-jackcolormutation">
+		<string lang="de">Farb-Mutation</string>
+		<string lang="en">Color Mutation</string>
+		<string lang="fr">Mutation de Couleur</string>
+		<string lang="zh">颜色变异</string>
+		<string lang="jp">色変異</string>
+		<string lang="ru">Мутация Цвета</string>
+		<string lang="es">Mutación de Color</string>
+		<string lang="kr">색상 변화</string>
+		<string lang="pt-br">Mutação de Cor</string>
+		<string lang="zh-tw">顏色變異</string>
+		<string lang="uk">Мутація кольору</string>
 </set>
 <set id="module-properties-name-reduction">
 		<string lang="de">Dämpfung $MODIFICATIONVALUE$</string>
