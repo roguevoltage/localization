@@ -85,7 +85,7 @@
 		<string lang="jp">プレイヤーキャラが$br$$healing$されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
-		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다, $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다,$br$$b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
 		<string lang="zh-tw">有角色獲得$healing$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли персонаж гравця отримує $healing$.</string>
@@ -397,13 +397,13 @@
 		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Storage Cell$/b$ with $cracked$ and $cooldown$.</string>
 		<string lang="fr">Construit une $b$Pile$/b$ universelle avec $cracked$ et $cooldown$.</string>
-		<string lang="zh">制造一个$cracked$的通用$b$储存单元$/b$，冷却时间$cooldown$。</string>
+		<string lang="zh">制造一个$cracked$的通用$b$储存单元$/b$，$br$冷却时间$cooldown$。</string>
         <string lang="jp">$cracked$と$cooldown$付与された$br$汎用端子の$b$充電池$/b$製造。</string>
 		<string lang="ru">Создает универсальную $b$Ячейку$/b$ с $cracked$ и $cooldown$.</string>
 		<string lang="es">Construye una $b$Célula de Almacenamiento$/b$ universal$br$con $cracked$ y $cooldown$.</string>
 		<string lang="kr">$cracked$ 상태와 $cooldown$가 있는 범용 $b$저장 셀$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Célula de Armazenamento$/b$ universal$br$com $cracked$ e $cooldown$.</string>
-		<string lang="zh-tw">製造一個$cracked$的通用$b$儲存單元$/b$，冷卻時間$cooldown$。</string>
+		<string lang="zh-tw">製造一個$cracked$的通用$b$儲存單元$/b$，$br$冷卻時間$cooldown$。</string>
 		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$ та $cooldown$.</string>
 </set>
 <set id="description-module-generator">
@@ -905,7 +905,7 @@
 		<string lang="jp">ラックの別モジュールを破壊し、$br$$2energy$発電。</string>
 		<string lang="ru">Уничтожает другой выбранный модуль на этой стойке, чтобы получить $2energy$.</string>
 		<string lang="es">Destruye otro módulo objetivo para generar $2energy$.</string>
-		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해 $2energy$를 생성합니다.</string>
+		<string lang="kr">이 랙의 다른 대상 모듈을 파괴해$br$$2energy$를 생성합니다.</string>
 		<string lang="pt-br">Destroi outro módulo alvo para gerar $2energy$.</string>
 		<string lang="zh-tw">銷毀模架上另一自選模組，$br$以換取$2energy$。</string>
 		<string lang="uk">Знищує інший вказаний модуль на цій стійці для створення $2$ одиниць $energyicon$$b$Енергії$/b$.</string>
