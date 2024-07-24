@@ -162,8 +162,7 @@
 		<string lang="es">La descarga destruirá el módulo este turno</string>
 		<string lang="kr">이번 턴에 방전 시 해당 모듈이 파괴됩니다</string>
 		<string lang="pt-br">A descarga deste turno destruirá o módulo</string>
-		<string lang="zh-tw">本回合釋能模組將銷毀
-</string>
+		<string lang="zh-tw">本回合釋能模組將銷毀</string>
 		<string lang="uk">Розрядка в цей хід призведе до знищення модуля</string>
 </set>
 <set id="description-status-modulecrust">
@@ -176,8 +175,7 @@
 		<string lang="es">Impide la activación del módulo.$br$La primera $energy$ entrante romperá la corteza</string>
 		<string lang="kr">모듈이 활성화될 수 없습니다. 처음 $energy$를 획득 시 크러스트가 영구적으로 파괴됩니다.</string>
 		<string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta</string>
-		<string lang="zh-tw">阻止模組啟動。首次傳入的$energy$將永久性破壞晶殼。
-</string>
+		<string lang="zh-tw">阻止模組啟動。首次傳入的$energy$將永久性破壞晶殼。</string>
 		<string lang="uk">Запобігає активації модуля. Перше надходження $energyicon$$b$Енергії$/b$ назавжди зруйнує кірку.</string>
 </set>
 <set id="description-status-modulecrust-discharge">
@@ -190,22 +188,20 @@
 		<string lang="es">Impide la descarga del módulo.$br$El primer disparo romperá la corteza</string>
 		<string lang="kr">모듈이 방전될 수 없습니다.$br$처음 발동 시 크러스트가 파괴됩니다</string>
 		<string lang="pt-br">Impede a descarga do módulo.$br$O primeiro gatilho quebrará a crosta</string>
-		<string lang="zh-tw">阻止模組釋能。$br$首次觸發可以破壞晶殼。
-</string>
+		<string lang="zh-tw">阻止模組釋能。$br$首次觸發可以破壞晶殼。</string>
 		<string lang="uk">Запобігає розрядженню модуля.$br$Перше спрацьовування зруйнує кірку</string>
 </set>
 <set id="description-status-modulefire">
 		<string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
 		<string lang="en">Activate this turn to extinguish, or it will deal$br$$1damage$ to the owner after their turn</string>
 		<string lang="fr">Activez-le pour l'éteindre ou il infligera$br$$1damage$ au propriétaire après son tour</string>
-		<string lang="zh">本回合激活可熄灭，否则将在回合后对所有拥有者造成$1damage$。</string>
-		<string lang="jp">このターン起動で消滅か$br$ターン終了時持ち主に$1damage$</string>
+		<string lang="zh">本回合激活可熄灭火焰，否则将在回合后对所有拥有者造成$1damage$。</string>
+		<string lang="jp">このターン起動で消火か$br$ターン終了時持ち主に$1damage$</string>
 		<string lang="ru">Активация модуля в этом ходу погасит его, иначе он нанесет $1damage$ владельцу в конце хода</string>
 		<string lang="es">Activa el módulo para extinguirlo, de lo contrario infligirá $1damage$ al propietario después de su turno</string>
 		<string lang="kr">이번 턴에 활성화시켜 불을 끌 수 있으며, 끄지 못하면 턴 종료 시 소유자에게 $1damage$를 줍니다.</string>
 		<string lang="pt-br">Ative o módulo para extinguir, caso contrário, ele causará $1damage$ ao dono após o turno dele</string>
-		<string lang="zh-tw">本回合啟動可熄滅，否則將在回合後對所有擁有者造成$1damage$。
-</string>
+		<string lang="zh-tw">本回合啟動可熄滅火焰，否則將在回合後對所有擁有者造成$1damage$。</string>
 		<string lang="uk">Активація в цей хід загасить полум'я, інакше воно завдасть $1damage$ власнику наприкінці кроку</string>
 </set>
 <set id="description-status-modulegravrecoil">
@@ -227,7 +223,7 @@
 		<string lang="en">Activation this turn inflicts the owner$br$with $grav+2$</string>
 		<string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">本回合激活后对拥有者$br$施放$grav+2$</string>
-		<string lang="jp">起動で所有者にこのターン$grav+2$付与</string>
+		<string lang="jp">このターン起動で所有者に$grav+2$付与</string>
 		<string lang="ru">Активация в этом ходу даст владельцу $grav+2$</string>
 		<string lang="es">La activación de este turno inflige al propietario con $grav+2$</string>
 		<string lang="kr">이번 턴에 활성화 시,$br$소유자에게 $grav+2$를 부여합니다.</string>

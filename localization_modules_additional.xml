@@ -862,44 +862,52 @@
         <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $hazardous$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
 		<string lang="en">Applies $upgrade$ and $hazardous$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
         <string lang="fr">Applique $upgrade$ et $hazardous$ à un $generator$ ciblé sur ce rack.$p$&lt;size=11&gt;Modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh">在此模架上选择一个基础$generator$，为其施加$upgrade$和$hazardous$。$p$&lt;size=11&gt;$generator$模块只能拥有一个$upgrade$。&lt;/size&gt;</string>
-        <string lang="jp">このラックの対象$generator$に$upgrade$と$hazardous$付与。$p$&lt;size=11&gt;$generator$モジュールは$upgrade$を1つしか持つことができません。&lt;/size&gt;</string>
+        <string lang="zh">为目标基础$generator$施加$upgrade$及$hazardous$效果。每个$p$&lt;size=11&gt;$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
+        <string lang="jp">ラックの対象標準$generator$に$upgrade$と$hazardous$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$upgrade$.&lt;/size&gt;は1つのみ。</string>
         <string lang="ru">Применяет $upgrade$ и $hazardous$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
         <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$와 $hazardous$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 하나의 $upgrade$만 가질 수 있습니다.&lt;/size&gt;</string>
+        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $hazardous$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
         <string lang="pt-br">Aplica $upgrade$ e $hazardous$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-        <string lang="zh-tw">在此模架上選擇一個基礎$generator$，為其施加$upgrade$和$hazardous$。$p$&lt;size=11&gt;$generator$模組只能擁有一個$upgrade$。&lt;/size&gt;
-</string>
+        <string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$hazardous$效果。每個$p$&lt;size=11&gt;$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
 		<string lang="uk">Застосовує $upgrade$ і $hazardous$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-toggledupgradergenerator-pollution">
         <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $pollution$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
 		<string lang="en">Applies $upgrade$ and $pollution$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
+        <string lang="fr">Applique $upgrade$ et $pollution$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
+        <string lang="zh">为目标基础$generator$施加$upgrade$及$pollution$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
+        <string lang="jp">ラックの対象標準$generator$に$upgrade$と$pollution$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$upgrade$.&lt;/size&gt;は1つのみ。</string>
+        <string lang="ru">Применяет $upgrade$ и $pollution$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
+        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
+        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $pollution$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
+        <string lang="pt-br">Aplica $upgrade$ e $pollution$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
+        <string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$pollution$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
+        <string lang="uk">Застосовує $upgrade$ і $pollution$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-toggledupgradergenerator-stormattractor">
 		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $stormattraction$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
 		<string lang="en">Applies $upgrade$ and $stormattraction$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-		<string lang="fr">Applique $upgrade$ et $stormattraction$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size></string>
-		<string lang="zh">在此模架上选择一个基础$generator$，为其施加$upgrade$和$stormattraction$。$p$&lt;size=11&gt;$generator$模块只能拥有一个$upgrade$。&lt;/size&gt;</string>
-		<string lang="jp">このラックの対象基本$generator$に$upgrade$と$stormattraction$付与。$p$&lt;size=11&gt;$generator$モジュールは$upgrade$を1つしか持つことができません。&lt;/size&gt;</string>
+		<string lang="fr">Applique $upgrade$ et $stormattraction$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
+		<string lang="zh">为目标基础$generator$施加$upgrade$及$stormattraction$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
+		<string lang="jp">ラックの対象標準$generator$に$stormattraction$と$pollution$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$upgrade$.&lt;/size&gt;は1つのみ。</string>
 		<string lang="ru">Применяет $upgrade$ и $stormattraction$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
 		<string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$와 $stormattraction$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 하나의 $upgrade$만 가질 수 있습니다.&lt;/size&gt;</string>
+		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $stormattraction$를 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
 		<string lang="pt-br">Aplica $upgrade$ e $stormattraction$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh-tw">在此模架上選擇一個基礎$generator$，為其施加$upgrade$和$stormattraction$。$p$&lt;size=11&gt;$generator$模組只能擁有一個$upgrade$。&lt;/size&gt;</string>
+		<string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$stormattraction$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
 		<string lang="uk">Застосовує $upgrade$ і $stormattraction$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-toggledupgradergenerator-gravrecoil">
 		<string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $gravrecoil$.$p$&lt;size=11&gt;$generator$-Module können nur ein $upgrade$ haben.&lt;/size&gt;</string>
 		<string lang="en">Applies $upgrade$ and $gravrecoil$ to target basic $generator$ on this rack.$p$&lt;size=11&gt;$generator$ modules can only have one $upgrade$.&lt;/size&gt;</string>
-		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size></string>
-		<string lang="zh">在此模架上选择一个基础$generator$，为其施加$upgrade$和$gravrecoil$。$p$&lt;size=11&gt;$generator$模块只能拥有一个$upgrade$。&lt;/size&gt;</string>
-		<string lang="jp">このラックの対象基本$generator$に$upgrade$と$gravrecoil$付与。$p$&lt;size=11&gt;$generator$モジュールは$upgrade$を1つしか持つことができません。&lt;/size&gt;</string>
+		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un $generator$ de base ciblé sur ce rack.$p$&lt;size=11&gt;Les modules $generator$ ne peuvent avoir qu'un $upgrade$.&lt;/size&gt;</string>
+		<string lang="zh">为目标基础$generator$施加$upgrade$及$gravrecoil$效果。$p$&lt;size=11&gt;每个$generator$模块仅可拥有一个$upgrade$.&lt;/size&gt;</string>
+		<string lang="jp">ラックの対象標準$generator$に$stormattraction$と$gravrecoil$付与。$p$&lt;size=11&gt;$generator$モジュールに付与できる$upgrade$.&lt;/size&gt;は1つのみ。</string>
 		<string lang="ru">Применяет $upgrade$ и $gravrecoil$ к целевому базовому $generator$ на этом стеллаже.$p$&lt;size=11&gt;Модули $generator$ могут иметь только один $upgrade$.&lt;/size&gt;</string>
 		<string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo $generator$ objetivo en este bastidor.$p$&lt;size=11&gt;Los módulos $generator$ solo pueden tener un $upgrade$.&lt;/size&gt;</string>
-		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$와 $gravrecoil$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 하나의 $upgrade$만 가질 수 있습니다.&lt;/size&gt;</string>
+		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $gravrecoil$을 부여합니다.$p$&lt;size=11&gt;$generator$ 모듈은 한번만 $upgrade$될 수 있습니다.&lt;/size&gt;</string>
 		<string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ ao módulo $generator$ alvo neste rack.$p$&lt;size=11&gt;Os módulos $generator$ só podem ter um $upgrade$.&lt;/size&gt;</string>
-		<string lang="zh-tw">在此模架上選擇一個基礎$generator$，為其施加$upgrade$和$gravrecoil$。$p$&lt;size=11&gt;$generator$模組只能擁有一個$upgrade$。&lt;/size&gt;</string>
+		<string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$gravrecoil$效果。$p$&lt;size=11&gt;每個$generator$模組僅可擁有一個$upgrade$.&lt;/size&gt;</string>
 		<string lang="uk">Застосовує $upgrade$ і $gravrecoil$ до цільового базового $generator$ на цій стійці.$p$&lt;size=11&gt;Модулі $generator$ можуть мати лише один $upgrade$.&lt;/size&gt;</string>
 </set>
 <set id="description-module-turbulence">
@@ -921,7 +929,7 @@
 		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du personnage, retirez $1$ $energy$ stockée pour lui appliquer $grav-1$.</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$点所储存的$energy$，对其施加$grav-1$。</string>
-		<string lang="jp">充電可。$p$所有者のターン開始時、充電された$energy$を$1$消費し、$br$$grav-1$付与。</string>
+		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$$grav-1$付与。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода персонажа, удалите $1$ сохраненную $energy$ чтобы применить к нему $grav-1$.</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno del personaje, elimina $1$ $energy$ almacenada para aplicarle $grav-1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 소유자에게 $grav-1$를 부여합니다.</string>
@@ -999,12 +1007,13 @@
         <string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
         <string lang="en">Malfunction Sensor $MODIFICATIONVALUE$</string>
         <string lang="fr">Capteur de Panne $MODIFICATIONVALUE$</string>
-        <string lang="zh">故障感应器 $MODIFICATIONVALUE$</string>
-        <string lang="jp">故障センサー $MODIFICATIONVALUE$</string>
+        <string lang="zh">故障传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">不調センサー$MODIFICATIONVALUE$</string>
         <string lang="ru">Сенсор Поломки $MODIFICATIONVALUE$</string>
         <string lang="es">Sensor de Malfunción $MODIFICATIONVALUE$</string>
-        <string lang="kr">고장 센서 $MODIFICATIONVALUE$</string>
+        <string lang="kr">오작동 감지기 $MODIFICATIONVALUE$</string>
         <string lang="pt-br">Sensor de Malfuncionamento $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">故障感測器$MODIFICATIONVALUE$</string>
         <string lang="uk">Датчик Несправності $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectormight">
@@ -1017,8 +1026,7 @@
 		<string lang="es">Sensor de Poderío $MODIFICATIONVALUE$</string>
 		<string lang="kr">힘 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Poder $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">力量感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">力量感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор сили $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorshield">
@@ -1031,23 +1039,21 @@
 		<string lang="es">Sensor de Escudo $MODIFICATIONVALUE$</string>
 		<string lang="kr">방어막 감지기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">護盾感測器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">護盾感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор щиту $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
-	<string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
-	<string lang="en">Accelerating Screen $MODIFICATIONVALUE$</string>
-	<string lang="fr">Écran Accélérateur $MODIFICATIONVALUE$</string>
-	<string lang="zh">加速屏障$MODIFICATIONVALUE$</string>
-	<string lang="jp">加速シールド$MODIFICATIONVALUE$</string>
-	<string lang="ru">Ускоряющий Экран $MODIFICATIONVALUE$</string>
-	<string lang="es">Pantalla Aceleradora $MODIFICATIONVALUE$</string>
-	<string lang="kr">가속화 스크린 $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Tela Aceleradora $MODIFICATIONVALUE$</string>
-	<string lang="zh-tw">加速屏障$MODIFICATIONVALUE$
-</string>
-	<string lang="uk">Прискорюючий Екран $MODIFICATIONVALUE$</string>
+        <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
+        <string lang="en">Accelerating Screen $MODIFICATIONVALUE$</string>
+        <string lang="fr">Écran Accélérateur $MODIFICATIONVALUE$</string>
+        <string lang="zh">加速屏障$MODIFICATIONVALUE$</string>
+        <string lang="jp">加速被膜$MODIFICATIONVALUE$</string>
+        <string lang="ru">Ускоряющий Экран $MODIFICATIONVALUE$</string>
+        <string lang="es">Pantalla Aceleradora $MODIFICATIONVALUE$</string>
+        <string lang="kr">가속 차단막 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Tela Aceleradora $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">加速屏障$MODIFICATIONVALUE$</string>
+	    <string lang="uk">Прискорюючий Екран $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectoracceleratorprecision">
 		<string lang="de">Präzisions-Beschleuniger $MODIFICATIONVALUE$</string>
@@ -1496,26 +1502,26 @@
         <string lang="de">Spielzeughammer</string>
 		<string lang="en">Toy Hammer</string>
         <string lang="fr">Marteau Jouet</string>
-        <string lang="zh">玩具锤</string>
-        <string lang="jp">おもちゃのハンマー</string>
+        <string lang="zh">玩具锤子</string>
+        <string lang="jp">ピコピコハンマー</string>
         <string lang="ru">Игрушечный Молоток</string>
         <string lang="es">Martillo de Juguete</string>
         <string lang="kr">장난감 망치</string>
         <string lang="pt-br">Martelo de Brinquedo</string>
-        <string lang="zh-tw">玩具錘</string>
+        <string lang="zh-tw">玩具錘子</string>
 		<string lang="uk">Іграшковий молоток</string>
 </set>
 <set id="name-module-passivewindupgorf">
         <string lang="de">Aufzieh-Gorf</string>
 		<string lang="en">Wind-Up Gorf</string>
         <string lang="fr">Gorf à Remonter</string>
-        <string lang="zh">发条青蛙</string>
-        <string lang="jp">ゼンマイ仕掛けのカエル</string>
+        <string lang="zh">发条阿五</string>
+        <string lang="jp">ねじ巻きルエカ</string>
         <string lang="ru">Заводной Горф</string>
         <string lang="es">Gorf de Cuerda</string>
-        <string lang="kr">태엽 장난감 개구리</string>
+        <string lang="kr">태엽 리구개</string>
         <string lang="pt-br">Gorf de Corda</string>
-        <string lang="zh-tw">發條青蛙</string>
+        <string lang="zh-tw">發條阿五</string>
 		<string lang="uk">Заводний Горф</string>
 </set>
 <set id="name-module-passivewindupdino">
@@ -1523,10 +1529,10 @@
 		<string lang="en">Wind-Up Dino</string>
         <string lang="fr">Dino à Remonter</string>
         <string lang="zh">发条恐龙</string>
-        <string lang="jp">ゼンマイ仕掛けの恐竜</string>
+        <string lang="jp">ねじ巻きサウルス</string>
         <string lang="ru">Заводной Динозавр</string>
         <string lang="es">Dino de Cuerda</string>
-        <string lang="kr">태엽 장난감 공룡</string>
+        <string lang="kr">태엽 공룡</string>
         <string lang="pt-br">Dino de Corda</string>
         <string lang="zh-tw">發條恐龍</string>
 		<string lang="uk">Заводний динозаврик</string>
@@ -1535,26 +1541,26 @@
         <string lang="de">Aufzieh-Mech</string>
 		<string lang="en">Wind-Up Mech</string>
         <string lang="fr">Mech à Remonter</string>
-        <string lang="zh">发条机器人</string>
-        <string lang="jp">ゼンマイおもちゃメカ</string>
+        <string lang="zh">发条机甲</string>
+        <string lang="jp">ねじ巻きメカ</string>
         <string lang="ru">Заводной Мех</string>
         <string lang="es">Mech de Cuerda</string>
-        <string lang="kr">태엽 장난감 메카</string>
+        <string lang="kr">태엽 기계</string>
         <string lang="pt-br">Mech de Corda</string>
-        <string lang="zh-tw">發條機器人</string>
+        <string lang="zh-tw">發條機甲</string>
 		<string lang="uk">Заводний Mech</string>
 </set>
 <set id="name-module-passivewindupshroom">
         <string lang="de">Aufzieh-Pilz</string>
 		<string lang="en">Wind-Up Shroom</string>
         <string lang="fr">Champignon à Remonter</string>
-        <string lang="zh">发条蘑菇</string>
-        <string lang="jp">ゼンマイ仕掛けのキノコ</string>
+        <string lang="zh">发条菇</string>
+        <string lang="jp">ねじ巻きキノコ</string>
         <string lang="ru">Заводной Грибок</string>
         <string lang="es">Seta de Cuerda</string>
-        <string lang="kr">태엽 장난감 버섯</string>
+        <string lang="kr">태엽 버섯</string>
         <string lang="pt-br">Cogumelo de Corda</string>
-        <string lang="zh-tw">發條蘑菇</string>
+        <string lang="zh-tw">發條菇</string>
 		<string lang="uk">Заводний грибок</string>
 </set>
 <set id="name-module-plasmadischarger">
@@ -1567,8 +1573,7 @@
 		<string lang="es">Descargador de Plasma</string>
 		<string lang="kr">플라즈마 방출기</string>
 		<string lang="pt-br">Descarregador de Plasma</string>
-		<string lang="zh-tw">等離子釋放器
-</string>
+		<string lang="zh-tw">等離子釋放器</string>
 		<string lang="uk">Плазмовий розрядник</string>
 </set>
 <set id="name-module-storagecellausterity">
@@ -1581,8 +1586,7 @@
 		<string lang="es">Célula de Austeridad $MODIFICATIONVALUE$</string>
 		<string lang="kr">절전 전지 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Austeridade $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">蓄能單元$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">蓄能單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка суворої економії $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-storagecellemergency">
@@ -1595,8 +1599,7 @@
 		<string lang="es">Pila de Emergencia</string>
 		<string lang="kr">비상 전지</string>
 		<string lang="pt-br">Célula de Emergência</string>
-		<string lang="zh-tw">應急單元
-</string>
+		<string lang="zh-tw">應急單元</string>
 		<string lang="uk">Комірка екстреної допомоги</string>
 </set>
 <set id="name-module-storagecellproximity">
@@ -1622,8 +1625,7 @@
 		<string lang="es">Célula de Tormenta $MODIFICATIONVALUE$</string>
 		<string lang="kr">폭풍 전지 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Tempestade $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">風暴單元$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">風暴單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка шторму $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggleddisassembler">
@@ -1688,8 +1690,7 @@
 		<string lang="es">Inversor Grav.</string>
 		<string lang="kr">중력 반전기</string>
 		<string lang="pt-br">Inversor Grav.</string>
-		<string lang="zh-tw">引力逆轉器
-</string>
+		<string lang="zh-tw">引力逆轉器</string>
 		<string lang="uk">Гравіінвертор</string>
 </set>
 <set id="name-module-toggledgravvacuum">
@@ -1702,8 +1703,7 @@
 		<string lang="es">Sellador de Traspaso</string>
 		<string lang="kr">통과 진공생성기</string>
 		<string lang="pt-br">Vácuo de Passagem</string>
-		<string lang="zh-tw">中繼引力真空器
-</string>
+		<string lang="zh-tw">中繼引力真空器</string>
 		<string lang="uk">Вакууматор-Прохідник</string>
 </set>
 <set id="name-module-toggledgrenadegravimmunity">
@@ -1716,8 +1716,7 @@
 		<string lang="es">Granada de Inmunidad Grav.</string>
 		<string lang="kr">중력 면역 수류탄</string>
 		<string lang="pt-br">Granada de Imunidade Grav.</string>
-		<string lang="zh-tw">引力免疫榴彈
-</string>
+		<string lang="zh-tw">引力免疫榴彈</string>
 		<string lang="uk">Граната Гравіімунітету </string>
 </set>
 <set id="name-module-toggledgrenadegravinverter">
@@ -1730,8 +1729,7 @@
 		<string lang="es">Granada Inversora Grav.</string>
 		<string lang="kr">중력 반전 수류탄</string>
 		<string lang="pt-br">Granada Inversora Grav.</string>
-		<string lang="zh-tw">引力逆轉榴彈
-</string>
+		<string lang="zh-tw">引力逆轉榴彈</string>
 		<string lang="uk">Граната Гравіінверсії</string>
 </set>
 <set id="name-module-toggledgrenademightnullifier">
@@ -1744,8 +1742,7 @@
 		<string lang="es">Anulador de Poderío</string>
 		<string lang="kr">힘 무화기</string>
 		<string lang="pt-br">Anulador de Poder</string>
-		<string lang="zh-tw">力量歸零器
-</string>
+		<string lang="zh-tw">力量歸零器</string>
 		<string lang="uk">Обнулювач Сили</string>
 </set>
 <set id="name-module-toggledmaxcapacityenhancer">
@@ -1758,8 +1755,7 @@
 		<string lang="es">Mejorador de Capacidad de Almacenamiento</string>
 		<string lang="kr">용량 증강기</string>
 		<string lang="pt-br">Aprimorador de Capacidade de Armazenamento</string>
-		<string lang="zh-tw">儲存模組增強器
-</string>
+		<string lang="zh-tw">儲存模組增強器</string>
 		<string lang="uk">Підсилювач ємності зберігання</string>
 </set>
 <set id="name-module-toggledrepairkit">
@@ -1772,8 +1768,7 @@
 		<string lang="es">Kit de Reparación</string>
 		<string lang="kr">수리 키트</string>
 		<string lang="pt-br">Kit de Reparo</string>
-		<string lang="zh-tw">修復工具包
-</string>
+		<string lang="zh-tw">修復工具包</string>
 		<string lang="uk">Ремонтний комплект</string>
 </set>
 <set id="name-module-toggledtransmogrifier">
@@ -1786,8 +1781,7 @@
 		<string lang="es">Transmogrificador</string>
 		<string lang="kr">변질기</string>
 		<string lang="pt-br">Transmogrificador</string>
-		<string lang="zh-tw">轉換器
-</string>
+		<string lang="zh-tw">轉換器</string>
 		<string lang="uk">Трансмогрифікатор</string>
 </set>
 <set id="name-module-toggledtransmogrifier-cracked">
@@ -1800,8 +1794,7 @@
 		<string lang="es">Transmogrificador</string>
 		<string lang="kr">변질기</string>
 		<string lang="pt-br">Transmogrificador</string>
-		<string lang="zh-tw">轉換器
-</string>
+		<string lang="zh-tw">轉換器</string>
 		<string lang="uk">Трансмогрифікатор</string>
 </set>
 <set id="name-module-toggledturbo">
@@ -1814,8 +1807,7 @@
 		<string lang="es">Turbo-Traspaso</string>
 		<string lang="kr">통과 터보</string>
 		<string lang="pt-br">Turbo de Passagem</string>
-		<string lang="zh-tw">強化中繼器
-</string>
+		<string lang="zh-tw">強化中繼器</string>
 		<string lang="uk">Турбо-Прохідник</string>
 </set>
 <set id="name-module-toggledupgradergenerator-pollution">
@@ -1831,7 +1823,6 @@
         <string lang="zh-tw">發電機升級器：污染</string>
         <string lang="uk">Покращувач Генератора: Забруднення</string>
 </set>
-
 <set id="name-module-toggledupgradergenerator-stormattractor">
         <string lang="de">Generator Upgrader: Sturm</string>
 		<string lang="en">Generator Upgrader: Storm</string>
@@ -1845,7 +1836,6 @@
         <string lang="zh-tw">發電機升級器：風暴</string>
         <string lang="uk">Покращувач Генератора: Шторм</string>
 </set>
-
 <set id="name-module-toggledupgradergenerator-gravrecoil">
         <string lang="de">Generator-Upgrader: Grav. Rückstoß</string>
 		<string lang="en">Generator Upgrader: Grav. Recoil</string>
@@ -1883,8 +1873,7 @@
 		<string lang="es">Turbulencia $MODIFICATIONVALUE$</string>
 		<string lang="kr">난류 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Turbulência $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">紊流器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">紊流器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Турбулентність $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-vaultacceleration">
@@ -1897,8 +1886,7 @@
 		<string lang="es">Célula de Aceleración $MODIFICATIONVALUE$</string>
 		<string lang="kr">가속 전지 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">加速單元$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">加速單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Прискорювальна комірка $MODIFICATIONVALUE$</string>
 </set>
 </localization>
