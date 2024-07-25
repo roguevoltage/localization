@@ -13,17 +13,17 @@
 		<string lang="uk">Можна заряджати або розряджати.</string>
 </set>
 <set id="description-module-amplifier">
-		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流に$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-		<string lang="kr">전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+		<string lang="zh-tw"></string>
+		<string lang="uk"></string>
 </set>
 <set id="description-module-collectoraccumulation">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ geladen wird.</string>
@@ -416,22 +416,21 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
 		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
-		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-generatorcrust">
-	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
-	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
-	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
-	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为同模架上另一个目标模块施加$crust$.</string>
-	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$ラックの別の対象モジュールに$crust$付与。</string>
-	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает $crust$ на другой модуль на этом стойке.</string>
-	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige a otro módulo objetivo en este bastidor con $crust$.</string>
-	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $crust$를 부여합니다.</string>
-	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige outro módulo alvo neste rack com $crust$.</string>
-	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為同模架上另一個目標模組施加$crust$.</string>
-	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Накладає $crust$ на інший модуль на цій стійці.</string>
+        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
+        <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为同模架上另一个目标模块施加$crust$.</string>
+        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$ラックの別の対象モジュールに$crust$付与。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает $crust$ на другой модуль на этом стойке.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige a otro módulo objetivo en este bastidor con $crust$.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $crust$를 부여합니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige outro módulo alvo neste rack com $crust$.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為同模架上另一個目標模組施加$crust$.</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Накладає $crust$ на інший модуль на цій стійці.</string>
 </set>
 <set id="description-module-generatordecelerating">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -443,8 +442,7 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
 		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
-		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-generatordirty">
@@ -457,8 +455,7 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
 		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
-		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-generatordual">
@@ -471,8 +468,7 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en ambos conectores de salida en la activación.</string>
 		<string lang="kr">활성화 시$br$두 출력 잭에 $b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ em ambos conectores de saída na ativação.</string>
-		<string lang="zh-tw">啟動時兩個輸出端口同時產出$b$$GENERATIONVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">啟動時兩個輸出端口同時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ на обох вихідних розʼємах під час активації.</string>
 </set>
 <set id="description-module-generatoroverload">
@@ -485,8 +481,7 @@
 		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero infligirá $cooldown$ al siguiente módulo.</string>
 		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만, 다음 모듈을 $cooldown$ 상태로 만듭니다.</string>
 		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o próximo módulo com $cooldown$.</string>
-		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$但會使下個模組進入$cooldown$.
-</string>
+		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$但會使下個模組進入$cooldown$.</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації, але викличе у підʼєднаного модуля $cooldown$.</string>
 </set>
 <set id="description-module-magnetgravpos">
@@ -499,13 +494,12 @@
 		<string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
 		<string lang="kr">$b$다른$/b$ 전투원에게서 $grav+$를 추출해 $energy$로 만듭니다.</string>
 		<string lang="pt-br">Pega $grav+$ de $b$outro$/b$ combatente como $energy$.</string>
-		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav+$並轉化為$energy$。
-</string>
+		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav+$並轉化為$energy$。</string>
 		<string lang="uk">Забирає $grav+$ у $b$іншого$/b$ учасника бою та перетворює на $energyicon$$b$Енергію$/b$.</string>
 </set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
-		<string lang="en">Merges two currents.</string>
+		<string lang="en">Combines two $energy$ currents.</string>
 		<string lang="fr">Fusionne deux courants.</string>
 		<string lang="zh">合并两股能量流。</string>
 		<string lang="jp">2つの電流を混合。</string>
@@ -517,95 +511,82 @@
 		<string lang="uk">Об'єднує два струми.</string>
 </set>
 <set id="description-module-modifier">
-		<string lang="de">Verändert die Farbe eines Stroms.</string>
-		<string lang="en">Changes the color of a current.</string>
-		<string lang="fr">Change la couleur d'un courant.</string>
-		<string lang="zh">改变能量流的颜色。</string>
-		<string lang="jp">電流の色を変換。</string>
-		<string lang="ru">Изменяет цвет тока.</string>
-		<string lang="es">Cambia el color de una corriente.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.</string>
-		<string lang="zh-tw">改變能量流的顏色。</string>
-		<string lang="uk">Змінює колір струму.</string>
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+		<string lang="zh-tw"></string>
+		<string lang="uk"></string>
+</set>
+<set id="description-module-modifierchain">
+		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
+		<string lang="en">Adds $1energy$ for every module wired before it.</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $passthrough$.</string>
+        <string lang="zh">若该能量流流经$passthrough$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="jp">$passthrough$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Передачи$/b$.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo de Paso$/b$.</string>
+        <string lang="kr">$passthrough$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se conectado após um $b$Módulo de Passagem$/b$.</string>
+        <string lang="zh-tw">若該能量流流經$passthrough$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $passthrough$.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired directly to a $sensor$ module.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé directement à un module $sensor$.</string>
-		<string lang="zh">改变能量流的颜色。$p$若该能量流流经$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流の色を変換。$p$$sensor$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
-		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
-		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.$p$$sensor$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
-</set>
-<set id="description-module-modifierconditionaldeceleration">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$3 oder mehr $grav+$$/b$ hat.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$3 or more $grav+$$/b$.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$3 ou plus $grav+$$/b$.</string>
-		<string lang="zh">改变能量流的颜色。$p$如果拥有者有$b$至少3点$grav+$$/b$，则增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流の色を変換。$p$所有者の$b$$grav+$が3以上$/b$の場合、$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
-		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$, если владелец имеет $b$3 или больше $grav+$$/b$.</string>
-		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$3 o más $grav+$$/b$.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.$p$소유자가 $b$$grav+$를 3 이상$/b$ 보유했다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$3 ou mais $grav+$$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者有$b$至少3點$grav+$$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має$b$3 або більше $grav+$ $/b$.</string>
-</set>
-<set id="description-module-modifierconditionaltrauma">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn der Charakter $b$2 oder weniger HP$/b$ hat.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ if the owner has $b$2 or less HP$/b$.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ si le propriétaire a $b$2 PV ou moins$/b$.</string>
-		<string lang="zh">改变能量流的颜色。$p$如果拥有者的$b$生命值小于等于2点$/b$，则增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流の色を変換。$p$所有者の$b$HPが2以下$/b$の場合、$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
-		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$, если владелец имеет $b$2 или меньше HP$/b$.</string>
-		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ si el dueño tiene $b$2 o menos HP$/b$.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.$p$소유자의 $b$체력이 2 이하라면$/b$, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se o dono tiver $b$2 ou menos HP$/b$.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$如果擁有者的$b$生命值小於等於2點$/b$，則增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ якщо власник має $b$2 або менше одиниці здоровʼя$/b$.</string>
+		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
+		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired directly to a $sensor$ module.</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé directement à un module $sensor$.</string>
+		<string lang="zh">若该能量流流经$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="jp">$sensor$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
+		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
+		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
+		<string lang="kr">$sensor$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
+		<string lang="zh-tw">若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">改变能量流的颜色。$p$为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">電流の色を変換。$p$$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
-		<string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-		<string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-		<string lang="kr">전류의 색상을 변화시킵니다.$p$전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-		<string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-		<string lang="zh-tw">改變能量流的顏色。$p$為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+		<string lang="zh-tw"></string>
+		<string lang="uk"></string>
 </set>
 <set id="description-module-modifierpassthrough">
-		<string lang="de">Verändert die Farbe eines Stroms.$p$Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
-		<string lang="en">Changes the color of a current.$p$Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired behind a $passthrough$ module.</string>
-		<string lang="fr">Change la couleur d'un courant.$p$Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $passthrough$.</string>
-        <string lang="zh">改变能量流的颜色。$p$若该能量流流经$passthrough$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-        <string lang="jp">電流の色を変換。$p$$passthrough$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
-        <string lang="ru">Изменяет цвет тока.$p$Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Передачи$/b$.</string>
-        <string lang="es">Cambia el color de una corriente.$p$Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo de Paso$/b$.</string>
-        <string lang="kr">전류의 색상을 변화시킵니다.$p$$passthrough$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Altera a corrente de uma corrente.$p$Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se conectado após um $b$Módulo de Passagem$/b$.</string>
-        <string lang="zh-tw">改變能量流的顏色。$p$若該能量流流經$passthrough$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-        <string lang="uk">Змінює колір струму.$p$Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $passthrough$.</string>
+		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
+		<string lang="en">Adds $energy$ to the current if wired behind a $passthrough$ module.</string>
+		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $passthrough$.</string>
+        <string lang="zh">若该能量流流经$passthrough$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="jp">$passthrough$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Передачи$/b$.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo de Paso$/b$.</string>
+        <string lang="kr">$passthrough$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se conectado após um $b$Módulo de Passagem$/b$.</string>
+        <string lang="zh-tw">若該能量流流經$passthrough$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $passthrough$.</string>
 </set>
 <set id="description-module-modifierplasmacombustion">
-		<string lang="de">Fügt dem Strom$br$$b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$$br$au courant.</string>
-		<string lang="zh">为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="jp">$b$$MODIFICATIONVALUE$$/b$$energy$を電流に加算。</string>
-		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току.</string>
-		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$$br$a la corriente.</string>
-		<string lang="kr">$b$$MODIFICATIONVALUE$$/b$ $energy$를 추가로 획득합니다.</string>
-		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$$br$à corrente.</string>
-		<string lang="zh-tw">為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму.</string>
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+		<string lang="zh-tw"></string>
+		<string lang="uk"></string>
 </set>
 <set id="description-module-passivegeneratorroll">
 		<string lang="de">$generator$-Module auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
@@ -1477,6 +1458,19 @@
 		<string lang="pt-br">Conversor</string>
 		<string lang="zh-tw">轉換器</string>
 		<string lang="uk">Перетворювач</string>
+</set>
+<set id="name-module-modifierchain">
+		<string lang="de">Ketten-Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Chain Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplificateur en Chaîne $MODIFICATIONVALUE$</string>
+        <string lang="zh">链式增幅器$MODIFICATIONVALUE$</string>
+        <string lang="jp">チェーン増幅器$MODIFICATIONVALUE$</string>
+        <string lang="ru">Цепной Усилитель $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador en Cadena $MODIFICATIONVALUE$</string>
+        <string lang="kr">체인 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador em Cadeia $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">鏈式增幅器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Ланцюжковий підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifiercollector">
 		<string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>

@@ -43,7 +43,7 @@
 </set>
 <set id="description-status-moduleboost">
 		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1energy$ hinzu</string>
-		<string lang="en">Adds $1energy$ to the incoming current until the end of turn</string>
+		<string lang="en">Adds $1$ to the incoming $energy$ until the end of turn</string>
 		<string lang="fr">Ajoute $1energy$ au courant jusqu'à la fin du tour</string>
 		<string lang="zh">为输入能量流增加$1energy$直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、$br$入力電流に$1energy$加算</string>
@@ -190,6 +190,19 @@
 		<string lang="zh-tw">阻止模組釋能。$br$首次觸發可以破壞晶殼。</string>
 		<string lang="uk">Запобігає розрядженню модуля.$br$Перше спрацьовування зруйнує кірку</string>
 </set>
+<set id="description-status-moduledampen">
+		<string lang="de">Entzieht dem Strom $1energy$</string>
+		<string lang="en">Subtracts $1$ from the incoming $energy$</string>
+		<string lang="fr">Soustrait $1$ $/b$$energy$ au courant</string>
+		<string lang="zh">从输入能量流减去$1energy$</string>
+		<string lang="jp">入力電流から$1energy$減算</string>
+		<string lang="ru">Вычитает $1energy$ из текущего</string>
+		<string lang="es">Resta $1energy$ de la corriente</string>
+		<string lang="kr">획득하는 전류에 $1energy$를 차감합니다</string>
+		<string lang="pt-br">Subtrai $1energy$ da corrente</string>
+		<string lang="zh-tw">從輸入能量流減去$1energy$</string>
+		<string lang="uk">Зменшує $energyicon$$b$Енергію$/b$ вхідного струму на $1$</string>
+</set>
 <set id="description-status-modulefire">
 		<string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
 		<string lang="en">Activate this turn to extinguish, or it will deal$br$$1damage$ to the owner after their turn</string>
@@ -213,8 +226,7 @@
 		<string lang="es">La activación inflige al propietario con $grav+2$</string>
 		<string lang="kr">활성화 시 소유자에게 $grav+2$를 부여합니다</string>
 		<string lang="pt-br">A ativação inflige ao dono com $grav+2$</string>
-		<string lang="zh-tw">啟動後對擁有者施放$grav+2$
-</string>
+		<string lang="zh-tw">啟動後對擁有者施放$grav+2$</string>
 		<string lang="uk">Активація накладе на власника $grav+2$</string>
 </set>
 <set id="description-status-modulegravrecoil-eot">
@@ -227,8 +239,7 @@
 		<string lang="es">La activación de este turno inflige al propietario con $grav+2$</string>
 		<string lang="kr">이번 턴에 활성화 시,$br$소유자에게 $grav+2$를 부여합니다.</string>
 		<string lang="pt-br">A ativação deste turno inflige ao dono com $grav+2$</string>
-		<string lang="zh-tw">本回合啟動後對擁有者$br$施放$grav+2$
-</string>
+		<string lang="zh-tw">本回合啟動後對擁有者$br$施放$grav+2$</string>
 		<string lang="uk">Активація в цей хід накладе на власника $grav+2$</string>
 </set>
 <set id="description-status-modulegravvacuum">
@@ -241,8 +252,7 @@
 		<string lang="es">La activación aplica $grav-1$ al propietario</string>
 		<string lang="kr">활성화 시 소유자에게 $grav-1$를 적용합니다</string>
 		<string lang="pt-br">A ativação aplica $grav-1$ ao dono</string>
-		<string lang="zh-tw">啟動後對擁有者施加$grav-1$
-</string>
+		<string lang="zh-tw">啟動後對擁有者施加$grav-1$</string>
 		<string lang="uk">Активація накладе на власника $grav-1$</string>
 </set>
 <set id="description-status-moduleindestructible">
@@ -255,8 +265,7 @@
         <string lang="es">No puede ser destruido</string>
         <string lang="kr">파괴될 수 없습니다</string>
         <string lang="pt-br">Não pode ser destruído</string>
-        <string lang="zh-tw">無法被摧毀
-</string>
+        <string lang="zh-tw">無法被摧毀</string>
         <string lang="uk">Не може бути знищений</string>
 </set>
 <set id="description-status-modulenotsalvageable">
@@ -269,8 +278,7 @@
         <string lang="es">No puede ser recuperado</string>
         <string lang="kr">회수할 수 없습니다</string>
         <string lang="pt-br">Não pode ser recuperado</string>
-        <string lang="zh-tw">無法回收
-</string>
+        <string lang="zh-tw">無法回收</string>
         <string lang="uk">Не може бути врятований</string>
 </set>
 <set id="description-status-modulelock">
@@ -283,8 +291,7 @@
 		<string lang="es">No puede ser tomado del bastidor</string>
 		<string lang="kr">랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
-		<string lang="zh-tw">無法取下
-</string>
+		<string lang="zh-tw">無法取下</string>
 		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulelock-eob">
@@ -297,8 +304,7 @@
 		<string lang="es">Solo puede ser movido fuera de combate</string>
 		<string lang="kr">전투 중이 아닐 때만 이동시킬 수 있습니다</string>
 		<string lang="pt-br">Só pode ser movido fora do combate</string>
-		<string lang="zh-tw">僅非戰鬥時間可移動
-</string>
+		<string lang="zh-tw">僅非戰鬥時間可移動</string>
 		<string lang="uk">Можна переміщувати лише поза боєм</string>
 </set>
 <set id="description-status-modulelock-eot">
@@ -311,8 +317,7 @@
 		<string lang="es">Bloqueado en el bastidor hasta el final del turno</string>
 		<string lang="kr">턴 종료 시까지 랙에 고정됨</string>
 		<string lang="pt-br">Trancado no rack até o final do turno</string>
-		<string lang="zh-tw">本回合無法移動
-</string>
+		<string lang="zh-tw">本回合無法移動</string>
 		<string lang="uk">Заблоковано на стійці до кінця ходу</string>
 </set>
 <set id="description-status-modulelock-nextturn">
@@ -325,8 +330,7 @@
 		<string lang="es">Bloqueado en el bastidor hasta el siguiente turno</string>
 		<string lang="kr">다음 턴까지 랙에 고정됨</string>
 		<string lang="pt-br">Trancado no rack até o próximo turno</string>
-		<string lang="zh-tw">下回合前無法移動
-</string>
+		<string lang="zh-tw">下回合前無法移動</string>
 		<string lang="uk">Заблоковано на стійці до наступного ходу</string>
 </set>
 <set id="description-status-modulelock-startingmodule">
@@ -339,8 +343,7 @@
 		<string lang="es">No se puede sacar del bastidor</string>
 		<string lang="kr">랙에서 제거할 수 없습니다</string>
 		<string lang="pt-br">Não pode ser retirado do rack</string>
-		<string lang="zh-tw">無法取下
-</string>
+		<string lang="zh-tw">無法取下</string>
 		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulemalfunctioning">
@@ -353,8 +356,7 @@
 		<string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">활성화 시, 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
 		<string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
-		<string lang="zh-tw">啟動後變為$outoforder$，直到戰鬥結束。
-</string>
+		<string lang="zh-tw">啟動後變為$outoforder$，直到戰鬥結束。</string>
 		<string lang="uk">При активації отримує $outoforder$ $br$до кінця бою.</string>
 </set>
 <set id="description-status-modulemalfunctioning-discharge">
@@ -367,8 +369,7 @@
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">방전 시, 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
 		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
-		<string lang="zh-tw">釋能後變為$outoforder$，直到戰鬥結束。
-</string>
+		<string lang="zh-tw">釋能後變為$outoforder$，直到戰鬥結束。</string>
 		<string lang="uk">При розрядці отримує $outoforder$ $br$до кінця бою.</string>
 </set>
 <set id="description-status-modulemalfunctioning-discharge-safeguarded">
@@ -381,8 +382,7 @@
 		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">$CHANCETOBREAK$%의 확률로, 방전 시 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
 		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
-		<string lang="zh-tw">釋能後有$CHANCETOBREAK$幾率變為$outoforder$，直到戰鬥結束。
-</string>
+		<string lang="zh-tw">釋能後有$CHANCETOBREAK$幾率變為$outoforder$，直到戰鬥結束。</string>
 		<string lang="uk">Шанс $CHANCETOBREAK$% при розрядці отримати $outoforder$ до кінця бою.</string>
 </set>
 <set id="description-status-modulemalfunctioning-safeguarded">
@@ -395,8 +395,7 @@
 		<string lang="es">Cuando se activa, recibe $outoforder$ hasta el final de la batalla.</string>
 		<string lang="kr">$CHANCETOBREAK$%의 확률로, 활성화 시 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
 		<string lang="pt-br">Quando ativado, recebe $outoforder$ até o final da batalha.</string>
-		<string lang="zh-tw">啟動後有$CHANCETOBREAK$幾率獲得$outoforder$，直到戰鬥結束。
-</string>
+		<string lang="zh-tw">啟動後有$CHANCETOBREAK$幾率獲得$outoforder$，直到戰鬥結束。</string>
 		<string lang="uk">Шанс $CHANCETOBREAK$% при активації отримати $outoforder$ до кінця бою.</string>
 </set>
 <set id="description-status-modulemodificationmutation">
@@ -409,8 +408,7 @@
 		<string lang="es">Cambia el rendimiento al final del turno del propietario si se coloca en el bastidor</string>
 		<string lang="kr">소유자의 턴 종료 시 처리량이 변화합니다</string>
 		<string lang="pt-br">Muda a taxa de transferência no final do turno do dono se colocado no rack</string>
-		<string lang="zh-tw">擁有者輪次結束後產能值發生改變
-</string>
+		<string lang="zh-tw">擁有者輪次結束後產能值發生改變</string>
 		<string lang="uk">Пропускна здатність змінюється наприкінці ходу власника</string>
 </set>
 <set id="description-status-moduleoutoforder">
@@ -501,8 +499,7 @@
 		<string lang="es">La activación este turno consume $1plasma$</string>
 		<string lang="kr">이번 턴에 활성화 시 $1plasma$를 소모합니다</string>
 		<string lang="pt-br">A ativação deste turno consome $1plasma$</string>
-		<string lang="zh-tw">本回合啟動會消耗$1plasma$
-</string>
+		<string lang="zh-tw">本回合啟動會消耗$1plasma$</string>
 		<string lang="uk">Активація в цей хід коштує $b$1 одиницю$/b$ $plasmaicon$$b$Плазми$/b$</string>
 </set>
 <set id="description-status-modulepollution">
@@ -515,8 +512,7 @@
 		<string lang="es">Activación inflige $1damage$ al propietario</string>
 		<string lang="kr">활성화 시$br$소유자에게 $1damage$를 줍니다</string>
 		<string lang="pt-br">Ativação causa $1damage$ ao dono</string>
-		<string lang="zh-tw">啟動會對擁有者造成$1damage$$br$
-</string>
+		<string lang="zh-tw">啟動會對擁有者造成$1damage$$br$</string>
 		<string lang="uk">Активація нанесе власнику $1damage$</string>
 </set>
 <set id="description-status-modulepollution-eot">
@@ -529,8 +525,7 @@
 		<string lang="es">Activación este turno inflige $1damage$ al propietario</string>
 		<string lang="kr">이번 턴에 활성화 시$br$소유자에게 $1damage$를 줍니다</string>
 		<string lang="pt-br">Ativação neste turno causa $1damage$ ao dono</string>
-		<string lang="zh-tw">本回合啟動會對擁有者造成$1damage$$br$
-</string>
+		<string lang="zh-tw">本回合啟動會對擁有者造成$1damage$$br$</string>
 		<string lang="uk">Активація в цей хід завдає $1damage$ $br$ власнику</string>
 </set>
 <set id="description-status-modulesalvaged">
@@ -543,8 +538,7 @@
 		<string lang="es">Rescatado de una misión anterior.$br$No se puede duplicar.</string>
 		<string lang="kr">이전 모험에서 회수한 모듈입니다.$br$복제할 수 없습니다.</string>
 		<string lang="pt-br">Resgatado de uma missão anterior.$br$Não pode ser duplicado.</string>
-		<string lang="zh-tw">繼承自上次遊戲。$br$無法複製。
-</string>
+		<string lang="zh-tw">繼承自上次遊戲。$br$無法複製。</string>
 		<string lang="uk">Врятовано з попереднього походу.$br$Не можна дублювати.</string>
 </set>
 <set id="description-status-moduleselfencrusting">
@@ -557,8 +551,7 @@
 		<string lang="es">Recibirá $crust$ después de la activación</string>
 		<string lang="kr">활성화 이후 $crust$가 부여됩니다</string>
 		<string lang="pt-br">Receberá $crust$ após a ativação</string>
-		<string lang="zh-tw">啟動後獲得$crust$
-</string>
+		<string lang="zh-tw">啟動後獲得$crust$</string>
 		<string lang="uk">Отримає $crust$ після активації</string>
 </set>
 <set id="description-status-moduleselfencrusting-eot">
@@ -571,13 +564,12 @@
 		<string lang="es">La activación de este turno causará $crust$</string>
 		<string lang="kr">이번 턴에 활성화 시 $crust$가 부여됩니다</string>
 		<string lang="pt-br">A ativação deste turno levará a $crust$</string>
-		<string lang="zh-tw">本回合啟動會導致$crust$
-</string>
+		<string lang="zh-tw">本回合啟動會導致$crust$</string>
 		<string lang="uk">Активація в цей хід призведе до $crust$</string>
 </set>
 <set id="description-status-moduleturbo">
 		<string lang="de">Fügt dem Strom $1energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
-		<string lang="en">Adds $1energy$ to the incoming current.$br$Lasts until the end of combat</string>
+		<string lang="en">Adds $1$ to the incoming $energy$.$br$Lasts until the end of combat</string>
 		<string lang="fr">Ajoute $1energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
 		<string lang="zh">为输入能量流增加$1$$energy$。$br$直至战斗结束。</string>
 		<string lang="jp">戦闘終了時まで入力電流に$1$$energy$加算</string>
@@ -598,8 +590,7 @@
 		<string lang="es">Será destruido después de la batalla</string>
 		<string lang="kr">전투 이후에 파괴됩니다</string>
 		<string lang="pt-br">Será destruído após a batalha</string>
-		<string lang="zh-tw">戰鬥結束後銷毀
-</string>
+		<string lang="zh-tw">戰鬥結束後銷毀</string>
 		<string lang="uk">Буде знищено після бою</string>
 </set>
 <set id="description-status-moduleupgrade">
@@ -612,8 +603,7 @@
 		<string lang="es">Añade $1$ $energy$ a la corriente entrante</string>
 		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다</string>
 		<string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
-		<string lang="zh-tw">為輸入能量流增加$1$$energy$
-</string>
+		<string lang="zh-tw">為輸入能量流增加$1$$energy$</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
 </set>
 <set id="description-status-shield">
@@ -626,8 +616,7 @@
 		<string lang="es">El $damage$ entrante es reducido por $1$</string>
 		<string lang="kr">다음 $damage$가 $1$ 감소합니다</string>
 		<string lang="pt-br">O dano recebido de $damage$$br$é reduzido por $1$</string>
-		<string lang="zh-tw">即將承受的$damage$減少$1$
-</string>
+		<string lang="zh-tw">即將承受的$damage$減少$1$</string>
 		<string lang="uk">$damage$ зменшуються на $1$</string>
 </set>
 <set id="description-status-shield2">
@@ -811,6 +800,19 @@
 		<string lang="zh-tw">晶殼
 </string>
 		<string lang="uk">Кристалізація</string>
+</set>
+<set id="name-status-moduledampen">
+		<string lang="de">Dämpfung 1</string>
+		<string lang="en">Dampening 1</string>
+		<string lang="fr">Amortissement 1</string>
+		<string lang="zh">减弱1</string>
+		<string lang="jp">減衰1</string>
+		<string lang="ru">Затухание 1</string>
+		<string lang="es">Amortiguación 1</string>
+		<string lang="kr">억제 1</string>
+		<string lang="pt-br">Amortecimento 1</string>
+		<string lang="zh-tw">減弱1</string>
+		<string lang="uk">Згасання 1</string>
 </set>
 <set id="name-status-modulefire">
 		<string lang="de">Feuer</string>

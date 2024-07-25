@@ -272,9 +272,35 @@
 		<string lang="zh-tw">為輸入能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$</string>
 		<string lang="uk">Збільшує $energyicon$$b$Енергію$/b$ вхідного струму на $b$ $MODIFICATIONVALUE$ $/b$</string>
 </set>
+<set id="module-properties-description-passthrough">
+		<string lang="de">Leitet $energy$ weiter.</string>
+		<string lang="en">Transmits $energy$.</string>
+        <string lang="fr">Transmet $energy$.</string>
+        <string lang="zh">传递$energy$。</string>
+        <string lang="jp">$energy$を伝達。</string>
+        <string lang="ru">Передает $energy$.</string>
+        <string lang="es">Transmite $energy$.</string>
+        <string lang="kr">$energy$를 전달합니다.</string>
+        <string lang="pt-br">Transmite $energy$.</string>
+        <string lang="zh-tw">傳遞$energy$。</string>
+        <string lang="uk">Передає $energyicon$$b$Енергію$/b$.</string>
+</set>
+<set id="module-properties-description-passthrough-mismatchedcolors">
+		<string lang="de">Verändert die Farbe eines Stroms.</string>
+		<string lang="en">Changes the color of a current.</string>
+		<string lang="fr">Change la couleur d'un courant.</string>
+		<string lang="zh">改变能量流的颜色。</string>
+		<string lang="jp">電流の色を変換。</string>
+		<string lang="ru">Изменяет цвет тока.</string>
+		<string lang="es">Cambia el color de una corriente.</string>
+		<string lang="kr">전류의 색상을 변화시킵니다.</string>
+		<string lang="pt-br">Altera a corrente de uma corrente.</string>
+		<string lang="zh-tw">改變能量流的顏色。</string>
+		<string lang="uk">Змінює колір струму.</string>
+</set>
 <set id="module-properties-description-reduction">
 		<string lang="de">Entzieht dem Strom $b$$MODIFICATIONVALUE$ $/b$$energy$</string>
-		<string lang="en">Subtracts $b$$MODIFICATIONVALUE$ $/b$$energy$ from the incoming current</string>
+		<string lang="en">Subtracts $b$$MODIFICATIONVALUE$$/b$ from the incoming $energy$</string>
 		<string lang="fr">Soustrait $b$$MODIFICATIONVALUE$ $/b$$energy$ au courant</string>
 		<string lang="zh">从输入能量流减去$b$$MODIFICATIONVALUE$$/b$$energy$</string>
 		<string lang="jp">入力電流から$b$$MODIFICATIONVALUE$$/b$$energy$減算</string>
@@ -287,7 +313,7 @@
 </set>
 <set id="module-properties-description-jackcolormutation">
 		<string lang="de">Farben der Buchsen ändern sich zufällig am Ende des Zuges des Charakters</string>
-		<string lang="en">Jack colors change randomly at the end of the owner's turn</string>
+		<string lang="en">Jack colors change randomly$br$at the end of the owner's turn</string>
 		<string lang="fr">Les couleurs des jacks changent aléatoirement à la fin du tour du propriétaire</string>
         <string lang="zh">插孔颜色在拥有者回合结束时随机变化</string>
         <string lang="jp">所有者のターン終了時にジャックの色がランダムに変化</string>
