@@ -729,7 +729,7 @@
 </set>
 <set id="description-module-toggledgravvacuum">
 		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.$p$&lt;size=11&gt;$passthrough$-Module können nur einmal $gravvacuum$ haben.&lt;/size&gt;</string>
-		<string lang="en">Permanently applies $gravvacuum$ to target $passthroughmodule$ on this rack.$p$&lt;size=11&gt;$passthroughmodule$s can only have one instance of $gravvacuum$.&lt;/size&gt;</string>
+		<string lang="en">Permanently applies$br$$gravvacuum$ to target $passthroughmodule$$br$on this rack.$p$&lt;size=11&gt;$passthroughmodule$s can only have one instance of $gravvacuum$.&lt;/size&gt;</string>
 		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.$p$&lt;size=11&gt;$passthroughmodule$s ne peuvent avoir qu'une seule instance de $gravvacuum$.&lt;/size&gt;</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$为其施加永久$gravvacuum$。$p$&lt;size=11&gt;每个$passthroughmodule$仅可拥有一个$br$$gravvacuum$。&lt;/size&gt;</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。$p$&lt;size=11&gt;$passthroughmodule$に付与可能な$gravvacuum$は1つのみ。&lt;/size&gt;</string>
@@ -835,7 +835,7 @@
 </set>
 <set id="description-module-toggledturbo">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $turbo$.</string>
-		<string lang="en">Applies $turbo$ to target $passthroughmodule$ on this rack.</string>
+		<string lang="en">Applies $turbo$ to target $passthroughmodule$$br$on this rack.</string>
 		<string lang="fr">Applique $turbo$ à un $passthroughmodule$ ciblé sur ce rack.</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，赋予其$turbo$状态。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$turbo$付与。</string>
