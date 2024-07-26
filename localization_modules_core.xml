@@ -694,6 +694,32 @@
 		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
 		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
 		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
+		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
+		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
+</set>
+<set id="description-module-toggledgrenadepassthroughboost">
+		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+		<string lang="en">Applies $boost$ to all $passthroughmodule$s on this rack until the end of turn.</string>
+		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
+		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
+		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
+		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
+		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
+		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
+		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
+		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
+		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
+</set>
+<set id="description-module-toggledpassthroughbooster">
+		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+		<string lang="en">Applies $boost$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
+		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
+		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
+		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
+		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
+		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
+		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
 		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。
 </string>
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
@@ -872,7 +898,7 @@
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
-		<string lang="en">Applies a permanent $upgrade$ to target $passthroughmodule$ on this rack.</string>
+		<string lang="en">Permanently applies$br$$upgrade$ to target $passthroughmodule$$br$on this rack.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。</string>
@@ -1630,8 +1656,7 @@
 		<string lang="es">Pila Eólica</string>
 		<string lang="kr">풍력 전지</string>
 		<string lang="pt-br">Célula Eólica</string>
-		<string lang="zh-tw">風蝕單元
-</string>
+		<string lang="zh-tw">風蝕單元</string>
 		<string lang="uk">Еолійська клітина</string>
 </set>
 <set id="name-module-timebomb">
@@ -1644,8 +1669,7 @@
 		<string lang="es">Bomba Temporizada</string>
 		<string lang="kr">시한폭탄</string>
 		<string lang="pt-br">Bomba Relógio</string>
-		<string lang="zh-tw">定時炸彈
-</string>
+		<string lang="zh-tw">定時炸彈</string>
 		<string lang="uk">Часова бомба</string>
 </set>
 <set id="name-module-toggledbooster-eot">
@@ -1658,8 +1682,33 @@
 		<string lang="es">Impulsor de Traspaso</string>
 		<string lang="kr">통과 승압기</string>
 		<string lang="pt-br">Amplificador de Atravessar</string>
-		<string lang="zh-tw">中繼增強器
-</string>
+		<string lang="zh-tw">中繼增強器</string>
+		<string lang="uk">Пропускний підсилювач</string>
+</set>
+<set id="name-module-toggledgrenadepassthroughboost">
+		<string lang="de">Durchsatz-Booster-Granate</string>
+		<string lang="en">Passthrough Booster Grenade</string>
+		<string lang="fr">Grenade Booster de Relais</string>
+		<string lang="zh">中继增强器榴弹</string>
+		<string lang="jp">中継ブースターグレネード</string>
+		<string lang="ru">Граната Ускоритель Пропускной Способности</string>
+		<string lang="es">Granada Impulsor de Traspaso</string>
+		<string lang="kr">통과 승압기 수류탄</string>
+		<string lang="pt-br">Granada Amplificador de Atravessar</string>
+		<string lang="zh-tw">中繼增強器榴彈</string>
+		<string lang="uk">Граната Пропускний підсилювач</string>
+</set>
+<set id="name-module-toggledpassthroughbooster">
+		<string lang="de">Durchsatz-Booster</string>
+		<string lang="en">Passthrough Booster</string>
+		<string lang="fr">Booster de Relais</string>
+		<string lang="zh">中继增强器</string>
+		<string lang="jp">中継ブースター</string>
+		<string lang="ru">Ускоритель Пропускной Способности</string>
+		<string lang="es">Impulsor de Traspaso</string>
+		<string lang="kr">통과 승압기</string>
+		<string lang="pt-br">Amplificador de Atravessar</string>
+		<string lang="zh-tw">中繼增強器</string>
 		<string lang="uk">Пропускний підсилювач</string>
 </set>
 <set id="name-module-toggledcrustremover">
@@ -1672,8 +1721,7 @@
 		<string lang="es">Kit de Decrustación</string>
 		<string lang="kr">크러스트 제거 키트</string>
 		<string lang="pt-br">Kit de Decrustação</string>
-		<string lang="zh-tw">脫殼組件
-</string>
+		<string lang="zh-tw">脫殼組件</string>
 		<string lang="uk">Набір очищення</string>
 </set>
 <set id="name-module-toggleddurabilityenhancer">
