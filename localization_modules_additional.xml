@@ -117,7 +117,7 @@
 </set>
 <set id="description-module-effectoracceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant with $grav-1$].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant$br$with $grav-1$].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un combattant ciblé].</string>
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav-1$付与。</string>
@@ -314,7 +314,7 @@
 	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt eine $b$Zeitbombe$/b$ mit $unstable$ auf einem deiner Racks her.</string>
 	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Time Bomb$/b$ with $unstable$ on one of your racks.</string>
 	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit une $b$Bombe à Retardement$/b$ avec $unstable$ sur l'un de vos racks.</string>
-	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在随机角色的模架上，产生一个$unstable$的$b$定时炸弹$/b$。</string>
+	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在随机角色的模架上，$br$产生一个$unstable$的$b$定时炸弹$/b$。</string>
 	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$どちらかのラックに$unstable$付与された$b$時限爆弾$/b$生成。</string>
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает $b$Временную Бомбу$/b$ с $unstable$ на одной из ваших стоек.</string>
 	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye una $b$Bomba Temporizada$/b$ con $unstable$ en uno de tus bastidores.</string>
@@ -483,7 +483,7 @@
 		<string lang="de">Wenn ein Modul anderen Typs auf diesem Rack $outoforder$ erhalten sollte, erhält stattdessen dieses Modul $outoforder$.</string>
 		<string lang="en">Whenever a module of a different type on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
 		<string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
-		<string lang="zh">此模架上的其他模块$outoforder$时，改为由该模块代替其发生$outoforder$。</string>
+		<string lang="zh">此模架上的其他模块$outoforder$时，$br$改为由该模块代替其发生$outoforder$。</string>
 		<string lang="jp">ラックの別モジュールに$outoforder$付与されるなら、$br$代わりにこのモジュールに$outoforder$付与。</string>
 		<string lang="ru">Если другой модуль на этой стойке должен получить $outoforder$, этот модуль получает $outoforder$ вместо него.</string>
 		<string lang="es">Si un módulo de un tipo diferente en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
@@ -705,7 +705,7 @@
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
 		<string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
 		<string lang="fr">Applique $replicating$ et $unstable$ à un autre module cible sur ce rack avec $cracked$.</string>
-		<string lang="zh">选择同模架上另一$cracked$模块，赋予其$replicating$及$unstable$状态。</string>
+		<string lang="zh">选择同模架上另一$cracked$模块，$br$赋予其$replicating$及$unstable$状态。</string>
 		<string lang="jp">ラックの別の$cracked$付与された対象モジュールに、$replicating$と$unstable$付与。</string>
 		<string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этом стеллаже с $cracked$.</string>
 		<string lang="es">Aplica $replicating$ y $unstable$ a otro módulo objetivo en este bastidor con $cracked$.</string>
@@ -785,7 +785,7 @@
 		<string lang="de">Erhöht die max. Kapazität eines $storagemodule$s ohne $cracked$ deiner Wahl um $1$ und lädt es um $1energy$.</string>
 		<string lang="en">Increases the max. capacity of target non-$cracked$ $storagemodule$ by $1$ and charges it with $1energy$.</string>
 		<string lang="fr">Augmente la capacité max. d'un $storagemodule$ sans $cracked$ ciblé par $1$ et le charge avec $1energy$.</string>
-		<string lang="zh">令选中的一个非$cracked$$storagemodule$的最大储量提升$1$，并为其输入$1$能量。</string>
+		<string lang="zh">令选中的一个非$cracked$$storagemodule$$br$的最大储量提升$1$，$br$并为其输入$1$能量。</string>
 		<string lang="jp">$cracked$付与されていない$br$対象の$storagemodule$の$br$最大容量を$1$増やし、$1$充電。</string>
 		<string lang="ru">Увеличивает максимальную емкость целевого $storagemodule$ без $cracked$ на $1$ и заряжает его на $1energy$.</string>
 		<string lang="es">Aumenta la capacidad máx. de un $storagemodule$ sin $cracked$ objetivo en $1$ y lo carga con $1energy$.</string>
@@ -837,7 +837,7 @@
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $turbo$.</string>
 		<string lang="en">Applies $turbo$ to target $passthroughmodule$$br$on this rack.</string>
 		<string lang="fr">Applique $turbo$ à un $passthroughmodule$ ciblé sur ce rack.</string>
-		<string lang="zh">在此模架上选择一个$passthroughmodule$，赋予其$turbo$状态。</string>
+		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$赋予其$turbo$状态。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$turbo$付与。</string>
 		<string lang="ru">Применяет $turbo$ к целевому $passthroughmodule$ на этой стойке.</string>
 		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo en este bastidor.</string>

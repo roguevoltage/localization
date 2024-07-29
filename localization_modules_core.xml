@@ -488,7 +488,7 @@
 		<string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
 		<string lang="en">Picks up $grav+$ from $b$another$/b$ combatant as $energy$.</string>
 		<string lang="fr">Prend $grav+$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-		<string lang="zh">吸取$b$另一$/b$参战单位的$grav+$并转化为$energy$。</string>
+		<string lang="zh">吸取$b$另一$/b$参战单位的$grav+$$br$并转化为$energy$。</string>
 		<string lang="jp">$b$別$/b$の敵味方から$grav+$を$energy$として吸収。</string>
 		<string lang="ru">Забирает $grav+$ у $b$другого$/b$ бойца в качестве $energy$.</string>
 		<string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
@@ -592,7 +592,7 @@
 		<string lang="de">$generator$-Module auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
 		<string lang="en">$generator$ modules on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
 		<string lang="fr">Les modules $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
-		<string lang="zh">此模架上的$generator$模块有$b$33%几率$/b$额外产出$b$+1$/b$$energy$。</string>
+		<string lang="zh">此模架上的$generator$模块有$br$$b$33%几率$/b$额外产出$b$+1$/b$$energy$。</string>
 		<string lang="jp">ラックの$generator$モジュールは$br$$b$33%の確率$/b$で$br$$b$＋1$/b$$energy$発電。</string>
 		<string lang="ru">Модули $generator$ на этой стойке имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
 		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
@@ -720,8 +720,7 @@
 		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
 		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
 		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
-		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。
-</string>
+		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledcrustremover">
@@ -734,22 +733,20 @@
 		<string lang="es">Elimina $crust$ de todos los módulos en este bastidor.</string>
 		<string lang="kr">이 랙의 모든 모듈에게서 $crust$를 제거합니다.</string>
 		<string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
-		<string lang="zh-tw">移除模架上所有模組的$crust$。
-</string>
+		<string lang="zh-tw">移除模架上所有模組的$crust$。</string>
 		<string lang="uk">Видаляє $crust$ з усіх модулів на цій стійці.</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
 		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
 		<string lang="en">Permanently removes $overload$ from target module on this rack$p$- or -$p$permanently removes $malfunctioning$ from target module on this rack and replaces it with $overload$.</string>
 		<string lang="fr">Retire définitivement $overload$ d'un module sur ce rack$p$- ou -$p$retire définitivement $malfunctioning$ d'un module sur ce rack et le remplace par $overload$.</string>
-		<string lang="zh">永久移除选定模块的$overload$$br$-或者-$br$将选定模块的$malfunctioning$永久替换为$overload$。</string>
+		<string lang="zh">永久移除选定模块的$overload$$br$-或者-$br$将选定模块的$malfunctioning$$br$永久替换为$overload$。</string>
 		<string lang="jp">ラックのモジュールから$br$$overload$を恒久除去。$br$または$br$$malfunctioning$を恒久除去し、$br$$overload$付与。</string>
 		<string lang="ru">Постоянно удаляет $overload$ с модуля на этой стойке$p$- или -$p$постоянно удаляет $malfunctioning$ с модуля на этой стойке и заменяет его на $overload$.</string>
 		<string lang="es">Remueve permanentemente $overload$ de un módulo en este bastidor$p$- o -$p$remueve permanentemente $malfunctioning$ de un módulo en este bastidor y lo reemplaza con $overload$.</string>
 		<string lang="kr">이 랙의 모듈에서 $overload$ 상태를 영구적으로 제거합니다$br$- 또는 -$br$이 랙의 모듈에서 $malfunctioning$ 상태를 영구적으로 제거하고 $overload$로 대체합니다.</string>
 		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$p$- ou -$p$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
-		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。
-</string>
+		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。</string>
 		<string lang="uk">Назавжди видаляє $overload$ з модуля на цій стійці$p$- або -$p$назавжди видаляє $malfunctioning$ з модуля на цій стійці та замінює його на $overload$.</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
@@ -762,8 +759,7 @@
 		<string lang="es">Elimina todo $grav$ de todos los combatientes.</string>
 		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.</string>
 		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.</string>
-		<string lang="zh-tw">移除所有參戰單位的$grav$。
-</string>
+		<string lang="zh-tw">移除所有參戰單位的$grav$。</string>
 		<string lang="uk">Видаляє всі $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgrenadevulnerability">
@@ -848,7 +844,7 @@
         <string lang="de">Ändert die Farbe einer nicht-blauen Buchse deiner Wahl zu &lt;color=#7272FF&gt;$b$blau$/b$&lt;/color&gt;.</string>
 		<string lang="en">Changes the color of target non-blue jack to &lt;color=#7272FF&gt;$b$blue$/b$&lt;/color&gt;.</string>
         <string lang="fr">Change la couleur d'une prise non-bleu de votre choix en &lt;color=#7272FF&gt;$b$bleu$/b$&lt;/color&gt;.</string>
-        <string lang="zh">将目标非蓝色插孔的颜色更改为&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;。</string>
+        <string lang="zh">将目标非蓝色插孔的颜色更改为$br$&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;。</string>
         <string lang="jp">選択した青以外のジャックの色を&lt;color=#7272FF&gt;$b$青$/b$&lt;/color&gt;に変更。</string>
         <string lang="ru">Изменяет цвет выбранного не-синего разъема на &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt;.</string>
         <string lang="es">Cambia el color de la toma no azul objetivo a &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt;.</string>
@@ -861,7 +857,7 @@
         <string lang="de">Ändert die Farbe einer nicht-grünen Buchse deiner Wahl zu &lt;color=#7fbe63&gt;$b$grün$/b$&lt;/color&gt;.</string>
 		<string lang="en">Changes the color of target non-green jack to &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt;.</string>
         <string lang="fr">Change la couleur d'une prise non-verte de votre choix en &lt;color=#7fbe63&gt;$b$vert$/b$&lt;/color&gt;.</string>
-        <string lang="zh">将目标非绿色插孔的颜色更改为&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;。</string>
+        <string lang="zh">将目标非绿色插孔的颜色更改为$br$&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;。</string>
         <string lang="jp">選択した緑以外のジャックの色を&lt;color=#7fbe63&gt;$b$緑$/b$&lt;/color&gt;に変更。</string>
         <string lang="ru">Изменяет цвет выбранного не-зеленого разъема на &lt;color=#7fbe63&gt;$b$зеленый$/b$&lt;/color&gt;.</string>
         <string lang="es">Cambia el color de la toma no verde objetivo a &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt;.</string>
@@ -874,7 +870,7 @@
         <string lang="de">Ändert die Farbe einer nicht-roten Buchse deiner Wahl zu &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;.</string>
 		<string lang="en">Changes the color of target non-red jack to &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;.</string>
         <string lang="fr">Change la couleur d'une prise non-rouge de votre choix en &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;.</string>
-        <string lang="zh">将目标非红色插孔的颜色更改为&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;。</string>
+        <string lang="zh">将目标非红色插孔的颜色更改为$br$&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;。</string>
         <string lang="jp">選択した赤以外のジャックの色を&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;に変更。</string>
         <string lang="ru">Изменяет цвет выбранного не-красного разъема на &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;.</string>
         <string lang="es">Cambia el color de la toma no roja objetivo a &lt;color=#FF5555&gt;$b$roja$/b$&lt;/color&gt;.</string>
@@ -887,7 +883,7 @@
         <string lang="de">Ändert die Farbe einer nicht-universellen Buchse deiner Wahl zu &lt;color=white&gt;$b$universell$/b$&lt;/color&gt;.</string>
 		<string lang="en">Changes the color of target non-universal jack to &lt;color=white&gt;$b$universal$/b$&lt;/color&gt;.</string>
         <string lang="fr">Change la couleur d'une prise non-universelle de votre choix en &lt;color=white&gt;$b$universel$/b$&lt;/color&gt;.</string>
-        <string lang="zh">将目标非通用插孔的颜色更改为&lt;color=white&gt;$b$通用$/b$&lt;/color&gt;。</string>
+        <string lang="zh">将目标非通用插孔的颜色更改为$br$&lt;color=white&gt;$b$通用$/b$&lt;/color&gt;。</string>
         <string lang="jp">選択した汎用以外のジャックの色を&lt;color=white&gt;$b$汎用$/b$&lt;/color&gt;に変更。</string>
         <string lang="ru">Изменяет цвет выбранного не-универсального разъема на &lt;color=white&gt;$b$универсальный$/b$&lt;/color&gt;.</string>
         <string lang="es">Cambia el color de la toma no universal objetivo a &lt;color=white&gt;$b$universal$/b$&lt;/color&gt;.</string>
