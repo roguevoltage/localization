@@ -43,7 +43,7 @@
 </set>
 <set id="description-status-moduleboost">
 		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1energy$ hinzu</string>
-		<string lang="en">Adds $1$ to the incoming $energy$ until the end of turn</string>
+		<string lang="en">Adds $1$ to the incoming $energy$$br$until the end of turn</string>
 		<string lang="fr">Ajoute $1energy$ au courant jusqu'à la fin du tour</string>
 		<string lang="zh">为输入能量流增加$1energy$直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、$br$入力電流に$1energy$加算</string>
@@ -606,6 +606,19 @@
 		<string lang="zh-tw">為輸入能量流增加$1$$energy$</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
 </set>
+<set id="description-status-moduleupgradegenerator-berserk">
+		<string lang="de">Fügt eingehender $energy$ $b$1$/b$ hinzu</string>
+		<string lang="en">Generates $b$+1$/b$ $energy$,$br$if the owner has $2$ or less HP</string>
+		<string lang="fr">Ajoute $1$ à l'$energy$ entrant</string>
+		<string lang="zh">为输入能量流增加$1$$energy$</string>
+		<string lang="jp">入力電流に$1$$energy$加算</string>
+		<string lang="ru">Добавляет $1$ $energy$ в ток</string>
+		<string lang="es">Añade $1$ $energy$ a la corriente entrante</string>
+		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다</string>
+		<string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
+		<string lang="zh-tw">為輸入能量流增加$1$$energy$</string>
+		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
+</set>
 <set id="description-status-shield">
 		<string lang="de">Eingehender $damage$ wird um $1$ reduziert</string>
 		<string lang="en">Incoming $damage$ is reduced by $1$</string>
@@ -964,8 +977,7 @@
 		<string lang="es">Combustión de Plasma</string>
 		<string lang="kr">플라즈마 연소</string>
 		<string lang="pt-br">Combustão de Plasma</string>
-		<string lang="zh-tw">等離子燃燒機
-</string>
+		<string lang="zh-tw">等離子燃燒機</string>
 		<string lang="uk">Згоряння плазми</string>
 </set>
 <set id="name-status-modulepollution">
@@ -978,8 +990,7 @@
 		<string lang="es">Contaminación</string>
 		<string lang="kr">오염</string>
 		<string lang="pt-br">Poluição</string>
-		<string lang="zh-tw">污染
-</string>
+		<string lang="zh-tw">污染</string>
 		<string lang="uk">Забруднення</string>
 </set>
 <set id="name-status-modulesalvaged">
@@ -992,8 +1003,7 @@
 		<string lang="es">Rescatado</string>
 		<string lang="kr">회수됨</string>
 		<string lang="pt-br">Resgatado</string>
-		<string lang="zh-tw">已保留
-</string>
+		<string lang="zh-tw">已保留</string>
 		<string lang="uk">Врятований</string>
 </set>
 <set id="name-status-moduleselfencrusting">
@@ -1006,8 +1016,7 @@
 		<string lang="es">Cristalización</string>
 		<string lang="kr">자가 크러스트화</string>
 		<string lang="pt-br">Auto-encrustação</string>
-		<string lang="zh-tw">自我結晶
-</string>
+		<string lang="zh-tw">自我結晶</string>
 		<string lang="uk">Самокристалізація</string>
 </set>
 <set id="name-status-moduleturbo">
@@ -1020,8 +1029,7 @@
 		<string lang="es">Turbo +1</string>
 		<string lang="kr">터보 +1</string>
 		<string lang="pt-br">Turbo +1</string>
-		<string lang="zh-tw">渦輪增壓 +1
-</string>
+		<string lang="zh-tw">渦輪增壓 +1</string>
 		<string lang="uk">Турбо +1</string>
 </set>
 <set id="name-status-moduleunstable">
@@ -1034,23 +1042,34 @@
 		<string lang="es">Inestable</string>
 		<string lang="kr">불안정함</string>
 		<string lang="pt-br">Instável</string>
-		<string lang="zh-tw">不穩定的
-</string>
+		<string lang="zh-tw">不穩定的</string>
 		<string lang="uk">Нестабільний</string>
 </set>
 <set id="name-status-moduleupgrade">
-		<string lang="de">Upgrade +1</string>
-		<string lang="en">Upgrade +1</string>
-		<string lang="fr">Amélioration +1</string>
-		<string lang="zh">升级 +1</string>
-		<string lang="jp">改良＋1</string>
-		<string lang="ru">улучшение +1</string>
-		<string lang="es">Mejora +1</string>
-		<string lang="kr">개량 +1</string>
-		<string lang="pt-br">Melhoria +1</string>
-		<string lang="zh-tw">升級 +1
-</string>
-		<string lang="uk">Покращення +1</string>
+		<string lang="de">Upgrade</string>
+		<string lang="en">Upgrade</string>
+		<string lang="fr">Amélioration</string>
+		<string lang="zh">升级</string>
+		<string lang="jp">改良</string>
+		<string lang="ru">улучшение</string>
+		<string lang="es">Mejora</string>
+		<string lang="kr">개량</string>
+		<string lang="pt-br">Melhoria</string>
+		<string lang="zh-tw">升級</string>
+		<string lang="uk">Покращення</string>
+</set>
+<set id="name-status-moduleupgradegenerator-berserk">
+		<string lang="de">Upgrade: Berserk</string>
+		<string lang="en">Upgrade: Berserk</string>
+		<string lang="fr">Amélioration: Berserk</string>
+        <string lang="zh">升级：狂暴</string>
+        <string lang="jp">改良：バーサーク</string>
+        <string lang="ru">улучшение: Берсерк</string>
+        <string lang="es">Mejora: Berserk</string>
+        <string lang="kr">개량: 광폭</string>
+        <string lang="pt-br">Melhoria: Berserk</string>
+        <string lang="zh-tw">升級：狂暴</string>
+        <string lang="uk">Покращення: Берсерк</string>
 </set>
 <set id="name-status-shield">
 		<string lang="de">Schild</string>
