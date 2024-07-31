@@ -69,7 +69,7 @@
 </string>
 		<string lang="uk">Наносить $1damage$ і накладає на модуль $crust$.</string>
 </set>
-<set id="description-skill-enemyspawn-gravpolyp">
+<set id="description-skill-monsterspawn-gravpolyp">
 		<string lang="de">Ruft bis zu zwei $b$Grav.-Polypen$/b$ herbei.</string>
 		<string lang="en">Summons up to two $b$Grav. Polyps$/b$</string>
 		<string lang="fr">Invoque jusqu'à deux $b$Polypes Grav.$/b$</string>
@@ -83,7 +83,7 @@
 </string>
 		<string lang="uk">Створює до двох $b$Гравіполіпів$/b$</string>
 </set>
-<set id="description-skill-enemyspawn-protozoon">
+<set id="description-skill-monsterspawn-protozoon">
 		<string lang="de">Wenn seine HP gerade sind, teilt er sich in zwei.</string>
 		<string lang="en">If HP is even, it splits into two.</string>
 		<string lang="fr">Si les PV sont pairs, il se divise en deux.</string>
@@ -97,7 +97,7 @@
 </string>
 		<string lang="uk">Якщо кількість здоровʼя парна, ділиться на дві частини.</string>
 </set>
-<set id="description-skill-enemyspawn-slime">
+<set id="description-skill-monsterspawn-slime">
 		<string lang="de">Entfernt alle $might$.$p$Verdoppelt sich selbst.</string>
 		<string lang="en">If $might$ is full, it removes all $might$ to duplicate.</string>
 		<string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
@@ -808,7 +808,7 @@
 </string>
 		<string lang="uk">Смола $crusticon$</string>
 </set>
-<set id="name-skill-enemyspawn-gravpolyp">
+<set id="name-skill-monsterspawn-gravpolyp">
 		<string lang="de">Grav. Ökologie</string>
 		<string lang="en">Grav. Ecology</string>
 		<string lang="fr">Ecologie Grav.</string>
@@ -822,7 +822,7 @@
 </string>
 		<string lang="uk">Гравіекологія</string>
 </set>
-<set id="name-skill-enemyspawn-protozoon">
+<set id="name-skill-monsterspawn-protozoon">
 		<string lang="de">Teilen</string>
 		<string lang="en">Divide</string>
 		<string lang="fr">Diviser</string>
@@ -836,7 +836,7 @@
 </string>
 		<string lang="uk">Розділення</string>
 </set>
-<set id="name-skill-enemyspawn-slime">
+<set id="name-skill-monsterspawn-slime">
 		<string lang="de">Verdoppeln</string>
 		<string lang="en">Duplicate</string>
 		<string lang="fr">Dupliquer</string>

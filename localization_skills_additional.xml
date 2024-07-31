@@ -25,7 +25,7 @@
 		<string lang="zh-tw">對一名敵人造成$1$$damage$，並令1個模組$fire$。</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на один модуль $fire$.</string>
 </set>
-<set id="description-skill-enemyspawn-egg-dynosaurmom-bossminion">
+<set id="description-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft ein $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
 		<string lang="en">Summons a $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
 		<string lang="fr">Invoque un $b$Oeuf de Graviraptor$/b$$br$- ou -$br$accorde à un œuf existant $1$ $might$.</string>
@@ -345,7 +345,7 @@
 </string>
 		<string lang="uk">Наносить $1$ $damage$ всім ворогам і встановлює кожному з них на стійку модуль $b$Палаючі Уламки$/b$</string>
 </set>
-<set id="description-skill-ondeath-enemyspawn-egg-phoenix">
+<set id="description-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
 		<string lang="en">Leaves a $b$Phoenix Egg$/b$.</string>
 		<string lang="fr">Laisse un $b$Oeuf Phoenix$/b$.</string>
@@ -681,7 +681,7 @@
 </string>
 		<string lang="uk">Клішня$fireicon$</string>
 </set>
-<set id="name-skill-enemyspawn-egg-dynosaurmom-bossminion">
+<set id="name-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
 		<string lang="en">Tend Nest</string>
 		<string lang="fr">Soigner le nid</string>
@@ -1031,7 +1031,7 @@
 </string>
 		<string lang="uk">Палаючі уламки</string>
 </set>
-<set id="name-skill-ondeath-enemyspawn-egg-phoenix">
+<set id="name-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Phönix-Ei</string>
 		<string lang="en">Phoenix Egg</string>
 		<string lang="fr">Oeuf de Phénix</string>
