@@ -614,7 +614,7 @@
 		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。</string>
 		<string lang="uk">На початку кожного бою застосовує $1healing$ до власника.</string>
 </set>
-<set id="description-module-splitter">
+<set id="description-module-modifierenergyduplicator">
 		<string lang="de">Verdoppelt einen Strom.</string>
 		<string lang="en">Duplicates a current.</string>
 		<string lang="fr">Duplique un courant.</string>
@@ -624,8 +624,7 @@
 		<string lang="es">Duplica una corriente.</string>
 		<string lang="kr">전류를 복제합니다.</string>
 		<string lang="pt-br">Duplica uma corrente.</string>
-		<string lang="zh-tw">複製一股能量流。
-</string>
+		<string lang="zh-tw">複製一股能量流。</string>
 		<string lang="uk">Дублює струм.</string>
 </set>
 <set id="description-module-storagecell">
@@ -684,9 +683,9 @@
 </string>
 		<string lang="uk">Вибухне за $b$ $TIMETOTURN$ $/b$ часові кроки.$p$Нанесе $b$ $INVERSECHARGEVALUE$ $/b$ $damage$ обом героям.$p$Зменшити ефект можна за допомогою $energyicon$$b$Енергії$/b$.</string>
 </set>
-<set id="description-module-toggledbooster-eot">
+<set id="description-module-module-toggledpassthroughbooster">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-		<string lang="en">Applies $boost$ to all $passthroughmodule$s on this rack until the end of turn.</string>
+		<string lang="en">Applies $boost$ to all $passthroughmodule$s$br$on this rack.</string>
 		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
 		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
@@ -698,9 +697,9 @@
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledgrenadepassthroughboost">
-		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-		<string lang="en">Applies $boost$ to all $passthroughmodule$s on this rack until the end of turn.</string>
-		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
+		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$.</string>
+		<string lang="en">Applies $boost$ to all $passthroughmodule$s$br$on this rack.</string>
+		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
 		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
@@ -1582,8 +1581,7 @@
 		<string lang="es">Compresor</string>
 		<string lang="kr">압축기</string>
 		<string lang="pt-br">Compressor</string>
-		<string lang="zh-tw">壓縮器
-</string>
+		<string lang="zh-tw">壓縮器</string>
 		<string lang="uk">Компресор</string>
 </set>
 <set id="name-module-passivemedikit">
@@ -1596,11 +1594,10 @@
 		<string lang="es">Kit Médico</string>
 		<string lang="kr">의료 키트</string>
 		<string lang="pt-br">Kit Médico</string>
-		<string lang="zh-tw">急救包
-</string>
+		<string lang="zh-tw">急救包</string>
 		<string lang="uk">Аптечка</string>
 </set>
-<set id="name-module-splitter">
+<set id="name-module-modifiersplitter">
 		<string lang="de">Abzweiger $MODIFICATIONVALUE$</string>
 		<string lang="en">Splitter $MODIFICATIONVALUE$</string>
 		<string lang="fr">Séparateur $MODIFICATIONVALUE$</string>
@@ -1610,8 +1607,7 @@
 		<string lang="es">Separador $MODIFICATIONVALUE$</string>
 		<string lang="kr">분할기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Divisor $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">分割器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">分割器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Розділювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-storagecell">
@@ -1624,8 +1620,7 @@
 		<string lang="es">Pila</string>
 		<string lang="kr">축전지</string>
 		<string lang="pt-br">Célula de Armazenamento</string>
-		<string lang="zh-tw">儲存單元
-</string>
+		<string lang="zh-tw">儲存單元</string>
 		<string lang="uk">Комірка зберігання</string>
 </set>
 <set id="name-module-storagecellreplicating">
@@ -1668,7 +1663,7 @@
 		<string lang="zh-tw">定時炸彈</string>
 		<string lang="uk">Часова бомба</string>
 </set>
-<set id="name-module-toggledbooster-eot">
+<set id="name-module-module-toggledpassthroughbooster">
 		<string lang="de">Durchsatz-Booster</string>
 		<string lang="en">Passthrough Booster</string>
 		<string lang="fr">Booster de Relais</string>

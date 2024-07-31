@@ -414,6 +414,19 @@
 		<string lang="zh-tw">吸取一名參戰單位的$might$並轉化為$energy$。</string>
 		<string lang="uk">Перетворює $might$ з учасника бою на $energyicon$$b$Енергію$/b$.</string>
 </set>
+<set id="description-module-modifiersplitter">
+		<string lang="de">Leitet $1energy$ zur rechten Output-Buchse.$p$Leitet die verbleibende $energy$ zur linken Output-Buchse.</string>
+		<string lang="en">Transmits $1energy$ to the right output jack.$p$Transmits the remaining $energy$ to the left output jack.</string>
+		<string lang="fr">Transmet $1energy$ à la prise de sortie droite.$p$Transmet l'$energy$ restante à la prise de sortie gauche.</string>
+		<string lang="zh">将$1energy$传输到右输出插孔。$p$将剩余的$energy$传输到左输出插孔。</string>
+		<string lang="jp">右出力ジャックに$1energy$送信。$p$残りの$energy$を左出力ジャックに送信。</string>
+		<string lang="ru">Передает $1energy$ в правый выход.$p$Передает оставшуюся $energy$ в левый выход.</string>
+		<string lang="es">Transmite $1energy$ al conector de salida derecho.$p$Transmite la $energy$ restante al conector de salida izquierdo.</string>
+		<string lang="kr">$1energy$를 오른쪽 출력 잭으로 전송합니다.$p$남은 $energy$를 왼쪽 출력 잭으로 전송합니다.</string>
+		<string lang="pt-br">Transmite $1energy$ para a saída direita.$p$Transmite a $energy$ restante para a saída esquerda.</string>
+		<string lang="zh-tw">將$1energy$傳輸到右側輸出插孔。$p$將剩餘的$energy$傳輸到左側輸出插孔。</string>
+		<string lang="uk">Передає $1energy$ в правий вихід.$p$Передає залишену $energy$ в лівий вихід.</string>
+</set>
 <set id="description-module-modifiermutating">
 		<string lang="de"></string>
 		<string lang="en"></string>
@@ -833,7 +846,7 @@
 		<string lang="zh-tw">選擇同模架上另一模組銷毀，再製造一個同等級不同種類的模組。</string>
 		<string lang="uk">Знищує інший цільовий модуль на цій стійці і створює інший модуль того ж рівня.</string>
 </set>
-<set id="description-module-toggledturbo">
+<set id="description-module-toggledpassthroughturbo">
 		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $turbo$.</string>
 		<string lang="en">Applies $turbo$ to target $passthroughmodule$$br$on this rack.</string>
 		<string lang="fr">Applique $turbo$ à un $passthroughmodule$ ciblé sur ce rack.</string>
@@ -845,6 +858,19 @@
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。</string>
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $turbo$.</string>
+</set>
+<set id="description-module-toggledupgradergenerator-berserk">
+        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade-berserk$.</string>
+		<string lang="en">Applies $upgrade-berserk$ to target basic $generator$ on this rack.</string>
+        <string lang="fr">Applique $upgrade-berserk$ à un $generator$ de base ciblé sur ce rack.</string>
+        <string lang="zh">为目标基础$generator$施加$upgrade-berserk$效果。</string>
+        <string lang="jp">ラックの対象標準$generator$に$upgrade-berserk$付与。</string>
+        <string lang="ru">Применяет $upgrade-berserk$ к целевому базовому $generator$ на этом стеллаже.</string>
+        <string lang="es">Aplica $upgrade-berserk$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade-berserk$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $upgrade-berserk$ ao módulo $generator$ alvo neste rack.</string>
+        <string lang="zh-tw">為目標基礎$generator$施加$upgrade-berserk$效果。</string>
+        <string lang="uk">Застосовує $upgrade-berserk$ до цільового базового $generator$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-hazardous">
         <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$ und $hazardous$.</string>
@@ -1347,8 +1373,7 @@
 		<string lang="es">Imán Grav. $grav-icon$</string>
 		<string lang="kr">중력 자석 $grav-icon$</string>
 		<string lang="pt-br">Imã Grav. $grav-icon$</string>
-		<string lang="zh-tw">引力磁鐵$grav-icon$
-</string>
+		<string lang="zh-tw">引力磁鐵$grav-icon$</string>
 		<string lang="uk">Гравімагніт $grav-icon$</string>
 </set>
 <set id="name-module-magnetmight">
@@ -1361,8 +1386,7 @@
 		<string lang="es">Imán de Poderío</string>
 		<string lang="kr">힘 자석</string>
 		<string lang="pt-br">Imã de Poder</string>
-		<string lang="zh-tw">力量磁鐵
-</string>
+		<string lang="zh-tw">力量磁鐵</string>
 		<string lang="uk">Магніт сили</string>
 </set>
 <set id="name-module-modifiermutating">
@@ -1784,7 +1808,7 @@
 		<string lang="zh-tw">轉換器</string>
 		<string lang="uk">Трансмогрифікатор</string>
 </set>
-<set id="name-module-toggledturbo">
+<set id="name-module-toggledpassthroughturbo">
 		<string lang="de">Durchsatz-Turbo</string>
 		<string lang="en">Passthrough-Turbo</string>
 		<string lang="fr">Turbo de Passage</string>
@@ -1796,6 +1820,19 @@
 		<string lang="pt-br">Turbo de Passagem</string>
 		<string lang="zh-tw">強化中繼器</string>
 		<string lang="uk">Турбо-Прохідник</string>
+</set>
+<set id="name-module-toggledupgradergenerator-berserk">
+        <string lang="de">Generator-Upgrader: Berserk</string>
+		<string lang="en">Generator Upgrader: Berserk</string>
+        <string lang="fr">Améliorateur de Générateur: Berserk</string>
+        <string lang="zh">发生器升级器:狂暴</string>
+        <string lang="jp">発電機改良器：狂暴</string>
+        <string lang="ru">Улучшитель Генератора: Берсерк</string>
+        <string lang="es">Mejorador de Generador: Berserk</string>
+        <string lang="kr">발전기 개량기: 광폭</string>
+        <string lang="pt-br">Aprimorador de Gerador: Berserk</string>
+        <string lang="zh-tw">發生器升級器:狂暴</string>
+        <string lang="uk">Покращувач Генератора: Берсерк</string>
 </set>
 <set id="name-module-toggledupgradergenerator-pollution">
         <string lang="de">Generator-Upgrader: Verschmutzung</string>
