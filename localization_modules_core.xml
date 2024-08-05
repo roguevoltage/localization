@@ -524,17 +524,17 @@
 		<string lang="uk"></string>
 </set>
 <set id="description-module-modifierchain">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
+		<string lang="de">Fügt $1energy$ für jedes vorgeschaltete Modul hinzu.</string>
 		<string lang="en">Adds $1energy$ for every module wired before it.</string>
-		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé derrière un module $passthrough$.</string>
-        <string lang="zh">若该能量流流经$passthrough$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-        <string lang="jp">$passthrough$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
-        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Передачи$/b$.</string>
-        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo de Paso$/b$.</string>
-        <string lang="kr">$passthrough$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
-        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ se conectado após um $b$Módulo de Passagem$/b$.</string>
-        <string lang="zh-tw">若該能量流流經$passthrough$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
-        <string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $passthrough$.</string>
+		<string lang="fr">Ajoute $1energy$ pour chaque module câblé avant lui.</string>
+        <string lang="zh">为每个在其前面连接的模块添加$1energy$。</string>
+        <string lang="jp">このモジュールの前に配線された各モジュールに$1energy$を追加。</string>
+        <string lang="ru">Добавляет $1energy$ за каждый модуль, проведенный до этого.</string>
+        <string lang="es">Añade $1energy$ por cada módulo conectado antes de él.</string>
+        <string lang="kr">이전에 연결된 각 모듈에 $1energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $1energy$ para cada módulo conectado antes dele.</string>
+        <string lang="zh-tw">為每個在其前面連接的模組添加$1energy$。</string>
+        <string lang="uk">Додає $1energy$ за кожен модуль, підключений до нього.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
