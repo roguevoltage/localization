@@ -607,17 +607,17 @@
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
 </set>
 <set id="description-status-moduleupgradegenerator-berserk">
-		<string lang="de">Fügt eingehender $energy$ $b$1$/b$ hinzu</string>
+		<string lang="de">Erzeugt $b$1$/b$ $energy$,$br$wenn der Besitzer $2$ oder weniger HP hat</string>
 		<string lang="en">Generates $b$+1$/b$ $energy$,$br$if the owner has $2$ or less HP</string>
-		<string lang="fr">Ajoute $1$ à l'$energy$ entrant</string>
-		<string lang="zh">为输入能量流增加$1$$energy$</string>
-		<string lang="jp">入力電流に$1$$energy$加算</string>
-		<string lang="ru">Добавляет $1$ $energy$ в ток</string>
-		<string lang="es">Añade $1$ $energy$ a la corriente entrante</string>
-		<string lang="kr">획득하는 전류에 $1$ $energy$를 추가합니다</string>
-		<string lang="pt-br">Adiciona $1$ $energy$ à corrente</string>
-		<string lang="zh-tw">為輸入能量流增加$1$$energy$</string>
-		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму</string>
+		<string lang="fr">Génère $b$+1$/b$ $energy$,$br$si le propriétaire a $2$ HP ou moins</string>
+        <string lang="zh">如果拥有者生命值为$2$或更少，$br$则产生$b$+1$/b$ $energy$</string>
+        <string lang="jp">所有者のHPが$2$以下の場合$br$+1$ $energy$生成</string>
+        <string lang="ru">Генерирует $b$+1$/b$ $energy$,$br$если у владельца $2$ или меньше HP</string>
+        <string lang="es">Genera $b$+1$/b$ $energy$,$br$si el propietario tiene $2$ o menos HP</string>
+        <string lang="kr">소유자의 HP가 $2$ 이하인 경우$br$+1$ $energy$를 생성합니다</string>
+        <string lang="pt-br">Gera $b$+1$/b$ $energy$,$br$se o dono tiver $2$ ou menos HP</string>
+        <string lang="zh-tw">如果擁有者生命值為$2$或更少，$br$則產生$b$+1$/b$ $energy$</string>
+        <string lang="uk">Генерує $b$+1$/b$ $energy$,$br$якщо у власника $2$ або менше HP</string>
 </set>
 <set id="description-status-shield">
 		<string lang="de">Eingehender $damage$ wird um $1$ reduziert</string>
