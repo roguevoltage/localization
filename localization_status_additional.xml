@@ -1,4 +1,18 @@
 <localization>
+
+<set id="description-status-moduledelayed">
+        <string lang="de">Beginnt jeden Kampf mit $cooldown$</string>
+	    <string lang="en">Starts each battle on $cooldown$</string>
+        <string lang="fr">Commence chaque combat avec $cooldown$</string>
+        <string lang="zh">每场战斗开始时都会进入$cooldown$状态</string>
+        <string lang="jp">戦闘ごとに$cooldown$で開始</string>
+        <string lang="ru">Начинает каждый бой с $cooldown$</string>
+        <string lang="es">Comienza cada batalla con $cooldown$</string>
+        <string lang="kr">각 전투를 $cooldown$로 시작</string>
+        <string lang="pt-br">Começa cada batalha com $cooldown$</string>
+        <string lang="zh-tw">每場戰鬥開始時都會進入$cooldown$狀態</string>
+        <string lang="uk">Починає кожен бій з $cooldown$</string>
+</set>
 <set id="description-status-modulelock-startingmodule-hardlock">
 		<string lang="de">Kann nicht vom Rack genommen werden</string>
 		<string lang="en">Cannot be taken from rack</string>
@@ -197,9 +211,21 @@
 		<string lang="es">El daño entrante de $damage$ por el volcán es transformado en $might$.</string>
 		<string lang="kr">화산에 의한 다음 $damage$는 $might$으로 변환됩니다.</string>
 		<string lang="pt-br">O dano recebido de $damage$ pelo vulcão é transformado em $might$.</string>
-		<string lang="zh-tw">火山對自身造成的$damage$轉換為$might$。
-</string>
+		<string lang="zh-tw">火山對自身造成的$damage$轉換為$might$。</string>
 		<string lang="uk">Перетворює $damage$ від вулкану на $mighticon$$b$Силу$/b$.</string>
+</set>
+<set id="name-status-moduledelayed">
+        <string lang="de">Verzögert</string>
+	    <string lang="en">Delayed</string>
+        <string lang="fr">Retardé</string>
+        <string lang="zh">延迟</string>
+        <string lang="jp">遅延</string>
+        <string lang="ru">Задержка</string>
+        <string lang="es">Retrasado</string>
+        <string lang="kr">지연</string>
+        <string lang="pt-br">Atrasado</string>
+        <string lang="zh-tw">延遲</string>
+        <string lang="uk">Затримка</string>
 </set>
 <set id="name-status-modulelock-startingmodule-hardlock">
 		<string lang="de">Charakterausrüstung</string>
@@ -211,8 +237,7 @@
 		<string lang="es">Equipo de Personaje</string>
 		<string lang="kr">캐릭터 소지품</string>
 		<string lang="pt-br">Equipamento do Personagem</string>
-		<string lang="zh-tw">角色自帶
-</string>
+		<string lang="zh-tw">角色自帶</string>
 		<string lang="uk">Спорядження персонажа</string>
 </set>
 <set id="name-status-modulereplicating">
