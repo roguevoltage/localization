@@ -510,7 +510,7 @@
 </set>
 <set id="tutorialwindow-gravcharge-description-1">
 		<string lang="de">Züge können in der Zeit vor- oder zurückbewegt werden, indem $grav+$ oder $grav-$ auf einen Charakter angewendet wird.</string>
-		<string lang="en">Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
+		<string lang="en">Turns can be moved backward or forward in time by applying $grav+$$br$or $grav-$ to a combatant.</string>
 		<string lang="fr">Les tours peuvent être déplacés en arrière ou en avant dans le temps en appliquant $grav+$ ou $grav-$ à un combattant.</string>
 		<string lang="zh">通过对参战单位施放$grav+$或$grav-$来提前或延后单位的回合。</string>
 		<string lang="jp">$grav+$か$grav-$を敵味方1体に付与すれば、タイムライン上のターンを前後に動かせる。</string>
@@ -563,7 +563,7 @@
 </set>
 <set id="tutorialwindow-lootaccumulator-description">
 		<string lang="de">Ein $b$Kondensator +1$/b$$br$mit einem &lt;color=#7fbe63&gt;$b$grünen$/b$&lt;/color&gt; Input!$p$Nicht nur kann er $energy$ $b$speichern$/b$, sondern $amplificationicon$$b$verstärkt$/b$ sie auch!</string>
-		<string lang="en">A $b$Condensator +1$/b$$br$with a &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt; input!$p$Not only can it $b$store$/b$ $energy$, but it also $amplificationicon$$b$amplifies$/b$ it!</string>
+		<string lang="en">A $b$Condensator +1$/b$$br$with a &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt; input!$p$Not only can it $b$store$/b$ $energy$,$br$but it also $amplificationicon$$b$amplifies$/b$ it!</string>
 		<string lang="fr">Un $b$Condensateur$/b$$br$avec une entrée &lt;color=#7fbe63&gt;$b$verte$/b$&lt;/color&gt;!$p$Non seulement il peut $b$stocker$/b$ de l'$energy$, mais il $amplificationicon$$b$l'amplifie$/b$ aussi!</string>
 		<string lang="zh">获得&lt;color=7fbe63&gt;$b$绿色$/b$&lt;/color&gt;输入的$br$$b$冷凝器+1$/b$！$p$不仅能$b$储存$/b$$energy$，还可以$amplificationicon$$b$放大$/b$能量！</string>
 		<string lang="jp">$b$蓄電器＋1$/b$！$br$&lt;color=#7fbe63&gt;$b$緑$/b$&lt;/color&gt;入力付き。$p$$energy$保存だけじゃなく、$amplificationicon$$b$増幅$/b$も！</string>
@@ -682,7 +682,7 @@
 </set>
 <set id="tutorialwindow-sensors2-description">
 		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ aktivierst, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der$br$$1energy$ erzeugt.$p$Leite sie durch den $amplifier$ für einen starken Angriff mit$br$$2damage$.</string>
-		<string lang="en">If you activate the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate $1energy$.$p$Route it through the $amplifier$ for a strong$br$$2damage$ blast.</string>
+		<string lang="en">If you activate the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate$br$$1energy$.$p$Route it through the $amplifier$ for a strong$br$$2damage$ blast.</string>
 		<string lang="fr">Activez la $healingpotion$ avec le $generator$.$p$Cela déclenche le $curesensor$, qui générera $1energy$.$p$Dirigez-le à travers l'$amplifier$ pour une attaque puissante.</string>
 		<string lang="zh">用$generator$激活$healingpotion$，让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，产出$1$$energy$。$p$将产生的能量导入$amplifier$，$br$打出$2damage$的强力一击吧。</string>
 		<string lang="jp">$healingpotion$を$generator$で起動すると、$slopperjohnson$は$1$$healing$。$p$すると$curesensor$が発動し、$1$$energy$発電。$p$$amplifier$に繋ぐと強力な$2damage$の爆破が起きる。</string>
@@ -723,7 +723,7 @@
 </set>
 <set id="tutorialwindow-timeline-description-2">
 		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
-		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps? That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
+		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps?$br$That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
 		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？$br$那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
 		<string lang="jp">7タイムステップ後にハイライトされてる&lt;sprite name="timestep" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、8タイムステップ後に$fox$のターンだ。</string>
