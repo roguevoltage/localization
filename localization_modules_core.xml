@@ -679,22 +679,8 @@
 		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
 		<string lang="kr">$b$$TIMETOTURN$$/b$ 시간 단계 후에 폭발하며, 두 주인공에게 $b$$INVERSECHARGEVALUE$$/b$ $damage$를 줍니다.$br$($energy$로 효과 감소).</string>
 		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
-		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。
-</string>
+		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。</string>
 		<string lang="uk">Вибухне за $b$ $TIMETOTURN$ $/b$ часові кроки.$p$Нанесе $b$ $INVERSECHARGEVALUE$ $/b$ $damage$ обом героям.$p$Зменшити ефект можна за допомогою $energyicon$$b$Енергії$/b$.</string>
-</set>
-<set id="description-module-module-toggledpassthroughbooster">
-		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
-		<string lang="en">Applies $boost$ to all $passthroughmodule$s$br$on this rack.</string>
-		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
-		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
-		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
-		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
-		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
-		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
-		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
-		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
-		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledgrenadepassthroughboost">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$.</string>
@@ -710,17 +696,17 @@
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledpassthroughbooster">
-		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$ bis zum Ende des Zuges.</string>
+		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $boost$.</string>
 		<string lang="en">Applies $boost$ to target $passthroughmodule$$br$on this rack.</string>
-		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack jusqu'à la fin du tour.</string>
-		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
-		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
-		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
-		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
-		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
-		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
-		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
-		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
+		<string lang="fr">Applique $boost$ à un $passthroughmodule$ ciblé sur ce rack.</string>
+		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$赋予其$boost$状态。</string>
+		<string lang="jp">ラックの対象$passthroughmodule$に$br$$boost$付与。</string>
+		<string lang="ru">Применяет $boost$ к целевому $passthroughmodule$ на этой стойке.</string>
+		<string lang="es">Aplica $boost$ al módulo $passthroughmodule$ objetivo en este bastidor.</string>
+		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 $boost$를 부여합니다.</string>
+		<string lang="pt-br">Aplica $boost$ ao módulo $passthroughmodule$ alvo neste rack.</string>
+		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$boost$狀態。</string>
+		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $boost$.</string>
 </set>
 <set id="description-module-toggledcrustremover">
 		<string lang="de">Entfernt $crust$ von allen Modulen auf diesem Rack.</string>
