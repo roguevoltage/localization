@@ -376,17 +376,17 @@
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-lightningrod">
-		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $volatile$.</string>
-		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $volatile$.</string>
-		<string lang="fr">Chaque fois que le propriétaire est touché par $storm$ ou $lightning$, empêchez $1damage$, le Paratonnerre génère $b$$SENSORVALUE$$/b$ $energy$ et reçoit $volatile$.</string>
-		<string lang="zh">每当拥有者$br$遭到$storm$或$lightning$袭击，$br$为其免除$1damage$，$br$同时避雷针产出$br$$b$$SENSORVALUE$$/b$$energy$，并变为$volatile$。</string>
-		<string lang="jp">所有者が$storm$か$lightning$を受けたるたび、$1damage$軽減し、$br$$b$$SENSORVALUE$$/b$$energy$発電し、$volatile$付与。</string>
-		<string lang="ru">Всегда, когда владелец подвергается удару $storm$ или $lightning$, предотвращайте $1damage$, Молниеотвод генерирует $b$$SENSORVALUE$$/b$ $energy$ и получает $volatile$.</string>
-		<string lang="es">Siempre que el propietario es golpeado por $storm$ o $lightning$, previene $1damage$, el Pararrayos genera $b$$SENSORVALUE$$/b$ $energy$ y recibe $volatile$.</string>
-		<string lang="kr">소유자가 $storm$이나 $lightning$에 적중할 때마다 $1damage$를 막고, 피뢰침이 $b$$SENSORVALUE$$/b$ $energy$를 생산하고 $volatile$ 상태가 됩니다.</string>
-		<string lang="pt-br">Sempre que o dono é atingido por $storm$ ou $lightning$, previne $1damage$, o Para-raios gera $b$$SENSORVALUE$$/b$ $energy$ e recebe $volatile$.</string>
-		<string lang="zh-tw">每當擁有者$br$遭到$storm$或$lightning$襲擊，$br$為其免除$1damage$，$br$同時避雷針產出$br$$b$$SENSORVALUE$$/b$$energy$，並變為$volatile$。</string>
-		<string lang="uk">Коли власника бʼє $storm$ або $lightning$, Блискавичник відвертає $1damage$, генерує $b$ $SENSORVALUE$ $/b$ $energy$ і стає $volatile$.</string>
+		<string lang="de">Immer wenn der Charakter von $storm$ oder $lightning$ getroffen wird, verhindere $1damage$, der Blitzableiter erzeugt $b$$SENSORVALUE$$/b$ $energy$ und erhält $cracked$ und $volatile$.</string>
+		<string lang="en">Whenever the owner is$br$hit by $storm$ or $lightning$,$br$prevent $1damage$,$br$the Lightning Rod generates$br$$b$$SENSORVALUE$$/b$ $energy$ and receives $cracked$ and $volatile$.</string>
+		<string lang="fr">Chaque fois que le propriétaire est touché par $storm$ ou $lightning$, empêchez $1damage$, le Paratonnerre génère $b$$SENSORVALUE$$/b$ $energy$ et reçoit $cracked$ et $volatile$.</string>
+		<string lang="zh">每当拥有者$br$遭到$storm$或$lightning$袭击，$br$为其免除$1damage$，$br$同时避雷针产出$br$$b$$SENSORVALUE$$/b$$energy$，并获得$cracked$和$volatile$。</string>
+		<string lang="jp">所有者が$storm$か$lightning$を受けたるたび、$1damage$軽減し、$br$$b$$SENSORVALUE$$/b$$energy$発電し、$cracked$と$volatile$を受ける。</string>
+		<string lang="ru">Всегда, когда владелец подвергается удару $storm$ или $lightning$, предотвращайте $1damage$, Молниеотвод генерирует $b$$SENSORVALUE$$/b$ $energy$ и получает $cracked$ и $volatile$.</string>
+		<string lang="es">Siempre que el propietario es golpeado por $storm$ o $lightning$, previene $1damage$, el Pararrayos genera $b$$SENSORVALUE$$/b$ $energy$ y recibe $cracked$ y $volatile$.</string>
+		<string lang="kr">소유자가 $storm$이나 $lightning$에 적중할 때마다 $1damage$를 막고, 피뢰침이 $b$$SENSORVALUE$$/b$ $energy$를 생성하며 $cracked$와 $volatile$를 받습니다.</string>
+		<string lang="pt-br">Sempre que o dono é atingido por $storm$ ou $lightning$, previne $1damage$, o Para-raios gera $b$$SENSORVALUE$$/b$ $energy$ e recebe $cracked$ e $volatile$.</string>
+		<string lang="zh-tw">每當擁有者$br$遭到$storm$或$lightning$襲擊，$br$為其免除$1damage$，$br$同時避雷針產出$br$$b$$SENSORVALUE$$/b$$energy$，並獲得$cracked$和$volatile$。</string>
+		<string lang="uk">Коли власника бʼє $storm$ або $lightning$, Блискавичник відвертає $1damage$, генерує $b$ $SENSORVALUE$ $/b$ $energy$ і стає $cracked$ та $volatile$.</string>
 </set>
 <set id="description-module-magnetgravneg">
 		<string lang="de">Nimmt $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
