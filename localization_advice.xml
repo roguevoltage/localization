@@ -28,7 +28,7 @@
 		<string lang="uk">Не накопичуй крихкі $cracked$ модулі, використовуй їхній потужний ефект, щоб отримати гарний рейтинг або завершити бій, що виходить з-під контролю.</string>
 </set>
 <set id="advice-deceleration">
-		<string lang="de">Unterschätze nicht die Wirksamkeit, einen Gegner einfach zu verlangsamen.</string>
+		<string lang="de">Unterschätze nicht die Wirksamkeit,$br$einen Gegner einfach zu verlangsamen.</string>
 		<string lang="en">Dont underestimate the effectiveness of simply slowing down an enemy.</string>
 		<string lang="fr">Ne sous-estimez pas l'efficacité de simplement ralentir un ennemi.</string>
 		<string lang="zh">不要小看单纯减速敌人的作用。</string>
@@ -98,7 +98,7 @@
 		<string lang="uk">Кожна одиниця згенерованої тобою $energy$ має значення.</string>
 </set>
 <set id="advice-energy-2">
-		<string lang="de">Versuche, $energy$ auf $sensor$-Modulen nicht verpuffen zu lassen.</string>
+		<string lang="de">Versuche, $energy$ auf $sensor$-Modulen$br$nicht verpuffen zu lassen.</string>
 		<string lang="en">Try to not let $energy$ on $sensor$ modules dissipate.</string>
 		<string lang="fr">Essayez de ne pas laisser l'$energy$ sur les modules $sensor$ se dissiper.</string>
 		<string lang="zh">尽量不要浪费传感型模块产出的$energy$。</string>
