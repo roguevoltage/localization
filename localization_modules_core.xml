@@ -459,7 +459,7 @@
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-generatordual">
-		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden Output-Buchsen.</string>
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$ auf beiden$br$Output-Buchsen.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on both output jacks on activation.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$$br$sur les deux jacks output.</string>
 		<string lang="zh">激活时两个输出端口同时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
@@ -891,7 +891,7 @@
 		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgraderpassthrough-gravrecoil">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $upgrade$ und $gravrecoil$.;</string>
+		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $upgrade$$br$und $gravrecoil$.</string>
 		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthroughmodule$$br$on this rack.</string>
 		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">为目标$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
