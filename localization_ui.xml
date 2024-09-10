@@ -842,8 +842,7 @@
 		<string lang="es">Daño recibido</string>
 		<string lang="kr">받은 피해</string>
 		<string lang="pt-br">Dano recebido</string>
-		<string lang="zh-tw">已受到的傷害
-</string>
+		<string lang="zh-tw">已受到的傷害</string>
 		<string lang="uk">Отримано пошкоджень</string>
 </set>
 <set id="stat-enemies-killed">
@@ -856,8 +855,7 @@
 		<string lang="es">Enemigos derrotados</string>
 		<string lang="kr">처치한 적</string>
 		<string lang="pt-br">Inimigos derrotados</string>
-		<string lang="zh-tw">已擊敗的敵人
-</string>
+		<string lang="zh-tw">已擊敗的敵人</string>
 		<string lang="uk">Вбито ворогів</string>
 </set>
 <set id="stat-energy-generated">
@@ -870,12 +868,11 @@
 		<string lang="es">Energía generada</string>
 		<string lang="kr">생성한 에너지</string>
 		<string lang="pt-br">Energia gerada</string>
-		<string lang="zh-tw">已產出的能量
-</string>
+		<string lang="zh-tw">已產出的能量</string>
 		<string lang="uk">Вироблено енергії</string>
 </set>
 <set id="stat-levels-completed">
-		<string lang="de">Abgeschlossene Level</string>
+		<string lang="de">Level Abgeschlossen</string>
 		<string lang="en">Levels Completed</string>
 		<string lang="fr">Niveaux terminés</string>
 		<string lang="zh">完成的关卡</string>
@@ -884,8 +881,7 @@
 		<string lang="es">Niveles completados</string>
 		<string lang="kr">완료된 레벨</string>
 		<string lang="pt-br">Níveis completados</string>
-		<string lang="zh-tw">完成的關卡
-</string>
+		<string lang="zh-tw">完成的關卡</string>
 		<string lang="uk">Пройдено рівнів</string>
 </set>
 <set id="stat-modules-constructed">
@@ -898,8 +894,7 @@
 		<string lang="es">Módulos construidos</string>
 		<string lang="kr">조립한 모듈</string>
 		<string lang="pt-br">Módulos construídos</string>
-		<string lang="zh-tw">已建造的模組
-</string>
+		<string lang="zh-tw">已建造的模組</string>
 		<string lang="uk">Сконструйовано модулів</string>
 </set>
 <set id="stat-modules-destroyed">
@@ -912,12 +907,11 @@
 		<string lang="es">Módulos destruidos</string>
 		<string lang="kr">파괴한 모듈</string>
 		<string lang="pt-br">Módulos destruídos</string>
-		<string lang="zh-tw">已銷毀的模組
-</string>
+		<string lang="zh-tw">已銷毀的模組</string>
 		<string lang="uk">Знищено модулів</string>
 </set>
 <set id="stat-plasma-collected">
-		<string lang="de">Gesammeltes Plasma</string>
+		<string lang="de">Plasma Gesammelt</string>
 		<string lang="en">Plasma Collected</string>
 		<string lang="fr">Plasma collecté</string>
 		<string lang="zh">已收集的等离子体</string>
@@ -926,8 +920,7 @@
 		<string lang="es">Plasma recogido</string>
 		<string lang="kr">수집한 플라즈마</string>
 		<string lang="pt-br">Plasma coletado</string>
-		<string lang="zh-tw">已收集的等離子體
-</string>
+		<string lang="zh-tw">已收集的等離子體</string>
 		<string lang="uk">Зібрано плазми</string>
 </set>
 <set id="stat-points-healed">
@@ -940,9 +933,34 @@
 		<string lang="es">Puntos curados</string>
 		<string lang="kr">치유한 체력</string>
 		<string lang="pt-br">Pontos curados</string>
-		<string lang="zh-tw">已治療的生命值
-</string>
+		<string lang="zh-tw">已治療的生命值</string>
 		<string lang="uk">Відновлено здоров'я</string>
+</set>
+<set id="stat-timesteps-passed">
+		<string lang="de">Zeitschritte Vergangen</string>
+		<string lang="en">Time Steps Passed</string>
+		<string lang="fr">Pas de temps écoulés</string>
+        <string lang="zh">已经过的时间步</string>
+        <string lang="jp">経過した時間ステップ</string>
+        <string lang="ru">Прошло временных шагов</string>
+        <string lang="es">Pasos de tiempo transcurridos</string>
+        <string lang="kr">지난 시간 단계</string>
+        <string lang="pt-br">Passos de tempo decorridos</string>
+        <string lang="zh-tw">已經過的時間步</string>
+        <string lang="uk">Пройшло часових кроків</string>
+</set>
+<set id="stat-final-score">
+        <string lang="de">Punktzahl</string>
+        <string lang="en">Final Score</string>
+        <string lang="fr">Score final</string>
+        <string lang="zh">最终得分</string>
+        <string lang="jp">最終スコア</string>
+        <string lang="ru">Итоговый счёт</string>
+        <string lang="es">Puntuación final</string>
+        <string lang="kr">최종 점수</string>
+        <string lang="pt-br">Pontuação final</string>
+        <string lang="zh-tw">最終得分</string>
+        <string lang="uk">Кінцевий рахунок</string>
 </set>
 <set id="tooltip-removewires">
 		<string lang="de">Alle Kabel entfernen</string>
@@ -1125,6 +1143,20 @@
 		<string lang="zh-tw">出品方
 </string>
 		<string lang="uk">Гра від</string>
+</set>
+<set id="ui-dailyrun">
+		<string lang="de">Täglicher Run</string>
+		<string lang="en">Daily Run</string>
+		<string lang="fr">Run quotidien</string>
+        <string lang="zh">每日挑战</string>
+        <string lang="jp">デイリーラン</string>
+        <string lang="ru">Ежедневный забег</string>
+        <string lang="es">Run diario</string>
+        <string lang="kr">데일리 런</string>
+        <string lang="pt-br">Run diário</string>
+        <string lang="zh-tw">每日挑戰
+</string>
+        <string lang="uk">Щоденний похід</string>
 </set>
 <set id="ui-development-pipeline">
 		<string lang="de">Entwicklungs-Pipeline</string>
@@ -1628,8 +1660,7 @@
 		<string lang="es">NUEVO</string>
 		<string lang="kr">신규</string>
 		<string lang="pt-br">NOVO</string>
-		<string lang="zh-tw">新
-</string>
+		<string lang="zh-tw">新</string>
 		<string lang="uk">НОВИЙ</string>
 </set>
 <set id="ui-newgame">
@@ -1642,8 +1673,7 @@
 		<string lang="es">Nueva partida</string>
 		<string lang="kr">새로운 모험</string>
 		<string lang="pt-br">Nova partida</string>
-		<string lang="zh-tw">新遊戲
-</string>
+		<string lang="zh-tw">新遊戲</string>
 		<string lang="uk">Новий похід</string>
 </set>
 <set id="ui-newmodules">
@@ -1662,11 +1692,14 @@
 <set id="ui-no">
 		<string lang="de">Nein</string>
 		<string lang="en">No</string>
+        <string lang="fr">Non</string>
 		<string lang="zh">否</string>
 		<string lang="jp">いいえ</string>
+        <string lang="ru">Нет</string>
+        <string lang="es">No</string>
 		<string lang="kr">아니요</string>
-		<string lang="zh-tw">否
-</string>
+        <string lang="pt-br">Não</string>
+		<string lang="zh-tw">否</string>
 		<string lang="uk">Ні</string>
 </set>
 <set id="ui-now">
@@ -2214,8 +2247,7 @@
 		<string lang="es">Módulos Desbloqueados:</string>
 		<string lang="kr">해금된 모듈:</string>
 		<string lang="pt-br">Módulos Desbloqueados:</string>
-		<string lang="zh-tw">解鎖模組：
-</string>
+		<string lang="zh-tw">解鎖模組：</string>
 		<string lang="uk">Розблоковані модулі:</string>
 </set>
 <set id="ui-unlockprogression">
@@ -2228,8 +2260,7 @@
 		<string lang="es">Progresión</string>
 		<string lang="kr">해금 진행도</string>
 		<string lang="pt-br">Progressão</string>
-		<string lang="zh-tw">解鎖進度
-</string>
+		<string lang="zh-tw">解鎖進度</string>
 		<string lang="uk">Прогрес розблокування</string>
 </set>
 <set id="ui-viral">
@@ -2242,18 +2273,33 @@
 		<string lang="es">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
 		<string lang="kr">&lt;color=#FF00FF&gt;바이러스&lt;/color&gt;</string>
 		<string lang="pt-br">&lt;color=#FF00FF&gt;Viral&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#FF00FF&gt;病毒&lt;/color&gt;
-</string>
+		<string lang="zh-tw">&lt;color=#FF00FF&gt;病毒&lt;/color&gt;</string>
 		<string lang="uk">Популярний</string>
+</set>
+<set id="ui-you">
+		<string lang="de">Du</string>
+        <string lang="en">You</string>
+        <string lang="fr">Vous</string>
+        <string lang="zh">你</string>
+        <string lang="jp">あなた</string>
+        <string lang="ru">Вы</string>
+        <string lang="es">Tú</string>
+        <string lang="kr">당신</string>
+        <string lang="pt-br">Você</string>
+        <string lang="zh-tw">你</string>
+        <string lang="uk">Ти</string>
 </set>
 <set id="ui-yes">
 		<string lang="de">Ja</string>
 		<string lang="en">Yes</string>
+        <string lang="fr">Oui</string>
 		<string lang="zh">是</string>
 		<string lang="jp">はい</string>
+        <string lang="ru">Да</string>
+        <string lang="es">Sí</string>
 		<string lang="kr">예</string>
-		<string lang="zh-tw">是
-</string>
+        <string lang="pt-br">Sim</string>
+		<string lang="zh-tw">是</string>
 		<string lang="uk">Так</string>
 </set>
 <set id="undefined">
@@ -2266,8 +2312,7 @@
 		<string lang="es">Error de localización</string>
 		<string lang="kr">현지화 오류</string>
 		<string lang="pt-br">Erro de localização</string>
-		<string lang="zh-tw">本地化錯誤
-</string>
+		<string lang="zh-tw">本地化錯誤</string>
 		<string lang="uk">Помилка локалізації</string>
 </set>
 <set id="unique">
@@ -2280,8 +2325,7 @@
 		<string lang="es">Único</string>
 		<string lang="kr">유니크</string>
 		<string lang="pt-br">Único</string>
-		<string lang="zh-tw">特殊
-</string>
+		<string lang="zh-tw">特殊</string>
 		<string lang="uk">Унікальний</string>
 </set>
 <set id="unlockscreen-newlyunlockedmodules">
@@ -2294,8 +2338,7 @@
 		<string lang="es">Módulos recién desbloqueados</string>
 		<string lang="kr">새로 해금된 모듈</string>
 		<string lang="pt-br">Módulos recém-desbloqueados</string>
-		<string lang="zh-tw">最新解鎖模組
-</string>
+		<string lang="zh-tw">最新解鎖模組</string>
 		<string lang="uk">Щойно розблоковані модулі</string>
 </set>
 <set id="unlockscreen-title">
@@ -2308,11 +2351,9 @@
 		<string lang="es">Progresión</string>
 		<string lang="kr">해금 진행도</string>
 		<string lang="pt-br">Progressão</string>
-		<string lang="zh-tw">解鎖進度
-</string>
+		<string lang="zh-tw">解鎖進度</string>
 		<string lang="uk">Прогрес розблокування</string>
 </set>
-
   <set id="color-picker">
     <string lang="de">Wähle eine Farbe</string>
     <string lang="en">Pick a Color</string>
