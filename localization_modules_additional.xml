@@ -66,7 +66,7 @@
 </set>
 <set id="description-module-collectormalfunction">
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderes Modul $outoforder$ oder $cooldown$ erhält.</string>
-        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module receives $outoforder$ or $cooldown$.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another module receives$br$$outoforder$ or $cooldown$.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un autre module reçoit $outoforder$ ou $cooldown$.</string>
         <string lang="zh">每当一个模块 $outoforder$ 或 $cooldown$ 时，生成 $b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">モジュールが$outoforder$または$cooldown$されるたびに、$b$$SENSORVALUE$$/b$ $energy$を生成します。</string>
@@ -1653,30 +1653,30 @@
 		<string lang="uk">Демонтажник</string>
 </set>
 <set id="name-module-toggledduplicator">
-		<string lang="de">Duplikator</string>
-		<string lang="en">Duplicator</string>
-		<string lang="fr">Duplicateur</string>
-		<string lang="zh">复制器</string>
-		<string lang="jp">複製機</string>
-		<string lang="ru">Дубликатор</string>
-		<string lang="es">Duplicador</string>
-		<string lang="kr">복제기</string>
-		<string lang="pt-br">Duplicador</string>
-		<string lang="zh-tw">複製器</string>
-		<string lang="uk">Дублікатор</string>
+		<string lang="de">Modul-Duplicator</string>
+		<string lang="en">Module Duplicator</string>
+		<string lang="fr">Duplicateur de Module</string>
+		<string lang="zh">模块复制器</string>
+		<string lang="jp">モジュール複製機</string>
+		<string lang="ru">Модульный Дубликатор</string>
+		<string lang="es">Duplicador de Módulos</string>
+		<string lang="kr">모듈 복제기</string>
+		<string lang="pt-br">Duplicador de Módulos</string>
+		<string lang="zh-tw">模組複製器</string>
+		<string lang="uk">Модульний дублікатор</string>
 </set>
 <set id="name-module-toggledduplicator-eob">
-		<string lang="de">Instabiler Duplikator</string>
-		<string lang="en">Unstable Duplicator</string>
-		<string lang="fr">Duplicateur Instable</string>
-		<string lang="zh">不稳定复制器</string>
-		<string lang="jp">不安定複製機</string>
-		<string lang="ru">Нестабильный Дубликатор</string>
-		<string lang="es">Duplicador Inestable</string>
-		<string lang="kr">불안정한 복제기</string>
-		<string lang="pt-br">Duplicador Instável</string>
-		<string lang="zh-tw">不穩定複製器</string>
-		<string lang="uk">Нестабільний дублікатор</string>
+		<string lang="de">Instabiler Modul-Duplikator</string>
+		<string lang="en">Unstable Module Duplicator</string>
+		<string lang="fr">Duplicateur de Module Instable</string>
+		<string lang="zh">不稳定模块复制器</string>
+		<string lang="jp">不安定モジュール複製機</string>
+		<string lang="ru">Нестабильный Модульный Дубликатор</string>
+		<string lang="es">Duplicador de Módulos Inestable</string>
+		<string lang="kr">불안정 모듈 복제기</string>
+		<string lang="pt-br">Duplicador de Módulos Instável</string>
+		<string lang="zh-tw">不穩定模組複製器</string>
+		<string lang="uk">Нестабільний модульний дублікатор</string>
 </set>
 <set id="name-module-toggledechochamber">
 		<string lang="de">Echo-Kammer</string>
