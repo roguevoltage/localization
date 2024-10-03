@@ -306,8 +306,7 @@
 		<string lang="es">Convierte $energy$ en$br$valioso $plasma$.</string>
 		<string lang="kr">$energy$를$br$귀중한 $plasma$로 변환합니다.</string>
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
-		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。
-</string>
+		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。</string>
 		<string lang="uk">Перетворює $energyicon$$b$Енергію$/b$ на цінну $plasmaicon$$b$Плазму$/b$.</string>
 </set>
 <set id="description-module-effectorpotion" remarks="$healing$ is a keyword now">
@@ -320,8 +319,20 @@
 		<string lang="es">Aplica $healing$ al dueño.</string>
 		<string lang="kr">소유자에게 $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $healing$ ao dono.</string>
-		<string lang="zh-tw">對擁有者施加$healing$。
-</string>
+		<string lang="zh-tw">對擁有者施加$healing$。</string>
+		<string lang="uk">Застосовує $healing$ до власника.</string>
+</set>
+<set id="description-module-effectorpotion-replicating">
+		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
+		<string lang="en">Applies $healing$ to the owner.</string>
+		<string lang="fr">Applique $healing$ au propriétaire.</string>
+		<string lang="zh">对拥有者施加$healing$。</string>
+		<string lang="jp">所有者を$healing$。</string>
+		<string lang="ru">Применяет $healing$ к владельцу.</string>
+		<string lang="es">Aplica $healing$ al dueño.</string>
+		<string lang="kr">소유자에게 $healing$를 부여합니다.</string>
+		<string lang="pt-br">Aplica $healing$ ao dono.</string>
+		<string lang="zh-tw">對擁有者施加$healing$。</string>
 		<string lang="uk">Застосовує $healing$ до власника.</string>
 </set>
 <set id="description-module-effectorpotion-aoe" remarks="$healing$ is a keyword now">
@@ -1240,8 +1251,7 @@
 		<string lang="es">Convertidor de Plasma</string>
 		<string lang="kr">플라즈마 변환기</string>
 		<string lang="pt-br">Conversor de Plasma</string>
-		<string lang="zh-tw">等離子轉換器
-</string>
+		<string lang="zh-tw">等離子轉換器</string>
 		<string lang="uk">Плазмовий перетворювач</string>
 </set>
 <set id="name-module-effectorpotion">
@@ -1254,9 +1264,21 @@
 		<string lang="es">Poción Curativa $MODIFICATIONVALUE$</string>
 		<string lang="kr">치유 물약 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Poção de Cura $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">治療藥劑$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">治療藥劑$MODIFICATIONVALUE$</string>
 		<string lang="uk">Цілюще Зілля $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectorpotion-replicating">
+	<string lang="de">Reproduzierender Heiltrank $MODIFICATIONVALUE$</string>
+	<string lang="en">Replicating Healing Potion $MODIFICATIONVALUE$</string>
+	<string lang="fr">Potion de Soin Replicant $MODIFICATIONVALUE$</string>
+	<string lang="zh">复制治疗药剂$MODIFICATIONVALUE$</string>
+	<string lang="jp">複製回復薬$MODIFICATIONVALUE$</string>
+	<string lang="ru">Реплицирующее Лечебное Зелье $MODIFICATIONVALUE$</string>
+	<string lang="es">Poción Curativa Replicante $MODIFICATIONVALUE$</string>
+	<string lang="kr">복제 치유 물약 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Poção de Cura Replicante $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">複製治療藥劑$MODIFICATIONVALUE$</string>
+	<string lang="uk">Реплікуюче Цілюще Зілля $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorpotion-aoe">
 		<string lang="de">Heilender Schirm $MODIFICATIONVALUE$</string>
@@ -1268,8 +1290,7 @@
 		<string lang="es">Pantalla Revitalizante $MODIFICATIONVALUE$</string>
 		<string lang="kr">회복 차단막 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Tela Revitalizante $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">煥活屏障$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">煥活屏障$MODIFICATIONVALUE$</string>
 		<string lang="uk">Відновлюючий екран $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorshield">
@@ -1632,8 +1653,7 @@
 		<string lang="es">Pila Replicante</string>
 		<string lang="kr">복제 축전지</string>
 		<string lang="pt-br">Célula de Armazenamento Replicante</string>
-		<string lang="zh-tw">複製儲存單元
-</string>
+		<string lang="zh-tw">複製儲存單元</string>
 		<string lang="uk">Реплікуюча комірка зберігання</string>
 </set>
 <set id="name-module-storagecellaeolian">
