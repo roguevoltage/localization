@@ -212,6 +212,19 @@
 		<string lang="zh-tw">對任意目標施放$br$$grav-$。</string>
 		<string lang="uk">Накладає на ціль $grav-$.</string>
 </set>
+<set id="description-module-effectorpotion-acceleration">
+		<string lang="de">Fügt dem Character $grav-$ zu.</string>
+		<string lang="en">Inflicts the owner with$br$$grav-$.</string>
+		<string lang="fr">Inflige $grav-$ sur le propriétaire.</string>
+		<string lang="zh">对拥有者施放$grav-$。</string>
+		<string lang="jp">所有者に$grav-$。</string>
+		<string lang="ru">Наносит владельцу $grav-$.</string>
+		<string lang="es">Inflige $grav-$ al dueño.</string>
+		<string lang="kr">소유자에게 $grav-$를 줍니다.</string>
+		<string lang="pt-br">Inflige $grav-$ ao dono.</string>
+		<string lang="zh-tw">對擁有者施放$grav-$。</string>
+		<string lang="uk">Наносить власнику $grav-$.</string>
+</set>
 <set id="description-module-effectorblade">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $damage$ zu.</string>
 		<string lang="en">Deals $damage$ to all enemies on the same time step as the owner.</string>
@@ -1161,6 +1174,19 @@
 		<string lang="pt-br">Acelerador $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加速器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Прискорювач $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectorpotion-acceleration">
+		<string lang="de">Beschleunigungs-Trank $MODIFICATIONVALUE$</string>
+		<string lang="en">Acceleration Potion $MODIFICATIONVALUE$</string>
+		<string lang="fr">Potion d'Accélération $MODIFICATIONVALUE$</string>
+		<string lang="zh">加速药水$MODIFICATIONVALUE$</string>
+		<string lang="jp">加速ポーション$MODIFICATIONVALUE$</string>
+		<string lang="ru">Ускоряющее Зелье $MODIFICATIONVALUE$</string>
+		<string lang="es">Poción de Aceleración $MODIFICATIONVALUE$</string>
+		<string lang="kr">가속 물약 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Poção de Aceleração $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">加速藥水$MODIFICATIONVALUE$</string>
+		<string lang="uk">Заспокійливе Зілля $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorblade">
 		<string lang="de">Klingenmodul $MODIFICATIONVALUE$</string>
