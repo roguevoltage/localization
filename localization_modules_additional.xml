@@ -414,6 +414,19 @@
 		<string lang="zh-tw">吸取一名參戰單位的$might$並轉化為$energy$。</string>
 		<string lang="uk">Перетворює $might$ з учасника бою на $energyicon$$b$Енергію$/b$.</string>
 </set>
+<set id="description-module-modifierrepeater">
+	<string lang="de">Überträgt $energy$ in Stößen von $1energy$.$p$&lt;size=11&gt;Dies löst Effekte der $amplificationicon$Verstärkung auf dem nächsten Modul mehrfach aus.</string>
+	<string lang="en">Transmits $energy$$br$in pulses of $1energy$.$p$&lt;size=11&gt;This triggers effects of $amplificationicon$amplification$br$on the next module multiple times.</string>
+	<string lang="fr">Transmet $energy$ en impulsions de $1energy$.$p$&lt;size=11&gt;Cela déclenche des effets d'amplification sur le module suivant plusieurs fois.</string>
+	<string lang="zh">以$1energy$的脉冲传输$energy$$p$&lt;size=11&gt;这会在下一个模块上多次触发$amplificationicon$放大效果。</string>
+	<string lang="jp">$1energy$のパルスで$energy$を送信し。$p$&lt;size=11&gt;これにより次のモジュールで複数回増幅効果が発生します。</string>
+	<string lang="ru">Передает $energy$ порциями по $1energy$. $p$&lt;size=11&gt;Это многократно активирует эффекты $amplificationicon$усиления на следующем модуле.</string>
+	<string lang="es">Transmite $energy$ en pulsos de $1energy$. $p$&lt;size=11&gt;Esto activa efectos de $amplificationicon$amplificación en el siguiente módulo varias veces.</string>
+	<string lang="kr">$1energy$의 펄스로 $energy$를 전송합니다.$p$&lt;size=11&gt;이로 인해 다음 모듈에서 여러 번 $amplificationicon$증폭 효과가 발생합니다.</string>
+	<string lang="pt-br">Transmite $energy$ em pulsos de $1energy$. $p$&lt;size=11&gt;Isso aciona efeitos de $amplificationicon$amplificação no próximo módulo várias vezes.</string>
+	<string lang="zh-tw">以$1energy$的脈衝傳輸$energy$.$p$&lt;size=11&gt;這會在下一個模組上多次觸發$amplificationicon$放大效果。</string>
+	<string lang="uk">Передає $energy$ порціями по $1energy$.$p$&lt;size=11&gt;Це багаторазово активує ефекти $amplificationicon$підсилення на наступному модулі.</string>
+</set>
 <set id="description-module-modifiersplitter">
 		<string lang="de">Leitet $1energy$ zur rechten Output-Buchse.$p$Leitet die verbleibende $energy$ zur linken Output-Buchse.</string>
 		<string lang="en">Transmits $1energy$ to the right output jack.$p$Transmits the remaining $energy$ to the left output jack.</string>
@@ -1402,6 +1415,19 @@
 		<string lang="zh-tw">有機調節器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Органічний підсилювач $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-modifierrepeater">
+	<string lang="de">Repeater $MODIFICATIONVALUE$</string>
+	<string lang="en">Repeater $MODIFICATIONVALUE$</string>
+	<string lang="fr">Répéteur $MODIFICATIONVALUE$</string>
+	<string lang="zh">中继器$MODIFICATIONVALUE$</string>
+	<string lang="jp">リピーター$MODIFICATIONVALUE$</string>
+	<string lang="ru">Репитер $MODIFICATIONVALUE$</string>
+	<string lang="es">Repetidor $MODIFICATIONVALUE$</string>
+	<string lang="kr">리피터 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Repetidor $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">中繼器$MODIFICATIONVALUE$</string>
+	<string lang="uk">Репітер $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-modifierselfencrusting">
 		<string lang="de">Selbstverkrustender Verstärker $MODIFICATIONVALUE$</string>
 		<string lang="en">Self-Encrusting Amplifier $MODIFICATIONVALUE$</string>
@@ -1412,8 +1438,7 @@
 		<string lang="es">Amplificador Auto-Incrustante $MODIFICATIONVALUE$</string>
 		<string lang="kr">자가 크러스트화 증폭기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Amplificador Auto-Incrustante $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">自我結晶增幅器$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">自我結晶增幅器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Самокристалізуючий підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierviral">
