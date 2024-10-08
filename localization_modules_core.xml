@@ -675,23 +675,21 @@
 		<string lang="es">Puede ser descargado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 		<string lang="kr">$b$$CHARGEVALUE$$/b$ $energy$를$br$방전시킬 수 있습니다.</string>
 		<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
-		<string lang="zh-tw">可釋放$br$$b$$CHARGEVALUE$$/b$$energy$。
-</string>
+		<string lang="zh-tw">可釋放$br$$b$$CHARGEVALUE$$/b$$energy$。</string>
 		<string lang="uk">Може бути розряджений на$br$ $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellaeolian">
-		<string lang="de">Wird am Ende des Kampfes um $1$ $energy$ geladen.</string>
-		<string lang="en">Is charged with $1$ $energy$ at the end of combat.</string>
-		<string lang="fr">Est chargé avec $1$ $energy$ à la fin du combat.</string>
-		<string lang="zh">在战斗结束后获得$1$$energy$充能。</string>
-		<string lang="jp">戦闘終了時、$1$$energy$充電。</string>
-		<string lang="ru">Заряжается на $1$ $energy$ в конце боя.</string>
-		<string lang="es">Se carga con $1$ $energy$ al final del combate.</string>
-		<string lang="kr">전투 종료 시 $1$ $energy$가 충전됩니다.</string>
-		<string lang="pt-br">É carregado com $1$ $energy$ no final do combate.</string>
-		<string lang="zh-tw">在戰鬥結束後獲得$1$$energy$充能。
-</string>
-		<string lang="uk">Заряджається на $1$ $energy$ наприкінці бою.</string>
+		<string lang="de">Wird zu Beginn jedes 2. Zuges des Charakters$br$um $1energy$ geladen.</string>
+		<string lang="en">Is charged with $1energy$ at the beginning of every 2&lt;sup&gt;nd&lt;/sup&gt; turn of the owner.</string>
+        <string lang="fr">Est chargé de $1energy$ au début de chaque 2ème tour du propriétaire.</string>
+        <string lang="zh">每个拥有者的第2个回合开始时，$br$为其充电$1energy$。</string>
+        <string lang="jp">所有者の2回目のターンの開始時に、$br$$1energy$で充電。</string>
+        <string lang="ru">Заряжается на $1energy$ в начале каждого 2-го хода владельца.</string>
+        <string lang="es">Se carga con $1energy$ al comienzo de cado 2.º turno del dueño.</string>
+        <string lang="kr">소유자의 매 2번째 턴 시작 시, $br$ $1energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $1energy$ no início de cada 2.º turno do dono.</string>
+        <string lang="zh-tw">每個擁有者的第2個回合開始時，$br$為其充電$1energy$。</string>
+        <string lang="uk">Заряджається на $1energy$ на початку кожного 2-го ходу власника.</string>
 </set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
