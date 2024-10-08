@@ -44,13 +44,13 @@
 <set id="description-status-moduleboost">
 		<string lang="de">Fügt dem Strom bis zum Ende des Zuges$br$$1energy$ hinzu</string>
 		<string lang="en">Adds $1$ to the incoming $energy$$br$until the end of turn</string>
-		<string lang="fr">Ajoute $1energy$ au courant jusqu'à la fin du tour</string>
+		<string lang="fr">Ajoute $1energy$ au courant$br$jusqu'à la fin du tour</string>
 		<string lang="zh">为输入能量流增加$1energy$直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、$br$入力電流に$1energy$加算</string>
 		<string lang="ru">Добавляет $1energy$ в ток до конца хода</string>
 		<string lang="es">Añade $1energy$ a la corriente entrante hasta el final del turno</string>
 		<string lang="kr">다음 턴 종료 전까지 획득하는 전류에 $1$ $energy$를 추가합니다</string>
-		<string lang="pt-br">Adiciona $1energy$ à corrente até o final do turno</string>
+		<string lang="pt-br">Adiciona $1energy$ à corrente$br$até o final do turno</string>
 		<string lang="zh-tw">為輸入能量流增加$1energy$直到回合結束。</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до вхідного струму до кінця кроку</string>
 </set>
@@ -180,7 +180,7 @@
 <set id="description-status-modulecounter">
         <string lang="de">Dieses Modul hat einen oder mehr Zähler</string>
 		<string lang="en">This module has one or more counters</string>
-        <string lang="fr">Ce module a un ou plusieurs compeurs</string>
+        <string lang="fr">Ce module a un ou plusieurs compteurs</string>
         <string lang="zh">此模块有一个或多个计数器</string>
         <string lang="jp">このモジュールには1つ以上のカウンターがあります</string>
         <string lang="ru">У этого модуля есть один или несколько счетчиков</string>
@@ -836,7 +836,7 @@
         <string lang="ru">Счетчик</string>
         <string lang="es">Contador</string>
         <string lang="kr">카운터</string>
-        <string lang="pt-br">Marcador</string>
+        <string lang="pt-br">Contador</string>
         <string lang="zh-tw">計數器</string>
         <string lang="uk">Лічильник</string>
 </set>

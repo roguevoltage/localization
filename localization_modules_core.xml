@@ -615,14 +615,14 @@
 <set id="description-module-passivegeneratorroll">
 		<string lang="de">Bei jeder 4. Aktivierung eines $generator$ wird diesem $generator$ ein $boost$ hinzugefügt.</string>
 		<string lang="en">Every 4&lt;sup&gt;th&lt;/sup&gt; activation$br$of a $generator$,$br$apply $boost$ to that $generator$.</string>
-        <string lang="fr">À chaque 4ème activation d'un $generator$, ajoutez $boost$ à ce $generator$.</string>
-        <string lang="zh">每激活4次$generator$，为该$generator$添加$boost$。</string>
-        <string lang="jp">$generator$の4回目の起動時に、その$generator$に$boost$を適用。</string>
+        <string lang="fr">À chaque 4ème activation$br$d'un $generator$,$br$ajoute $boost$$br$à ce $generator$.</string>
+        <string lang="zh">每激活4次$generator$，$br$为该$generator$添加$boost$。</string>
+        <string lang="jp">$generator$の4回目の起動時に、$br$その$generator$に$boost$を適用。</string>
         <string lang="ru">При каждом 4-м включении $generator$ применяется $boost$ к этому $generator$.</string>
         <string lang="es">Cada 4.ª activación de un $generator$,$br$aplica $boost$ a ese $generator$.</string>
-        <string lang="kr">$generator$의 매 4번째 활성화 시, 해당 $generator$에 $boost$를 적용합니다.</string>
-        <string lang="pt-br">A cada 4.ª ativação de um $generator$,$br$aplique $boost$ a esse $generator$.</string>
-        <string lang="zh-tw">每激活4次$generator$，為該$generator$添加$boost$。</string>
+        <string lang="kr">$generator$의 매 4번째 활성화 시, $br$해당 $generator$에 $boost$를 적용합니다.</string>
+        <string lang="pt-br">A cada 4.ª ativação$br$de um $generator$,$br$aplique $boost$$br$a esse $generator$.</string>
+        <string lang="zh-tw">每激活4次$generator$，$br$為該$generator$添加$boost$。</string>
         <string lang="uk">При кожному 4-му включенні $generator$ застосовується $boost$ до цього $generator$.</string>
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
@@ -713,9 +713,9 @@
 		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
 		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
-		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor hasta el final del turno.</string>
+		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor.</string>
 		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
-		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack até o final do turno.</string>
+		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack.</string>
 		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
