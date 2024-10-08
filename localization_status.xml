@@ -177,6 +177,19 @@
 		<string lang="zh-tw">阻止模組啟動。首次傳入的$energy$將永久性破壞晶殼。</string>
 		<string lang="uk">Запобігає активації модуля. Перше надходження $energyicon$$b$Енергії$/b$ назавжди зруйнує кірку.</string>
 </set>
+<set id="description-status-modulecounter">
+        <string lang="de">Dieses Modul hat einen oder mehr Zähler</string>
+		<string lang="en">This module has one or more counters</string>
+        <string lang="fr">Ce module a un ou plusieurs compeurs</string>
+        <string lang="zh">此模块有一个或多个计数器</string>
+        <string lang="jp">このモジュールには1つ以上のカウンターがあります</string>
+        <string lang="ru">У этого модуля есть один или несколько счетчиков</string>
+        <string lang="es">Este módulo tiene uno o más contadores</string>
+        <string lang="kr">이 모듈은 하나 이상의 카운터를 가지고 있습니다</string>
+        <string lang="pt-br">Este módulo tem um ou mais contadores</string>
+        <string lang="zh-tw">此模組有一個或多個計數器</string>
+        <string lang="uk">Цей модуль має один або кілька лічильників</string>
+</set>
 <set id="description-status-modulecrust-discharge">
 		<string lang="de">Verhindert Entladung des Modules.$br$Die erste Auslösung bricht die Kruste</string>
 		<string lang="en">Prevents module discharge.$br$First triggering will break the crust</string>
@@ -813,6 +826,19 @@
 		<string lang="zh-tw">晶殼
 </string>
 		<string lang="uk">Кристалізація</string>
+</set>
+<set id="name-status-modulecounter">
+        <string lang="de">Zähler</string>
+		<string lang="en">Counter</string>
+        <string lang="fr">Compteur</string>
+        <string lang="zh">计数器</string>
+        <string lang="jp">カウンター</string>
+        <string lang="ru">Счетчик</string>
+        <string lang="es">Contador</string>
+        <string lang="kr">카운터</string>
+        <string lang="pt-br">Marcador</string>
+        <string lang="zh-tw">計數器</string>
+        <string lang="uk">Лічильник</string>
 </set>
 <set id="name-status-moduledampen">
 		<string lang="de">Dämpfung 1</string>
