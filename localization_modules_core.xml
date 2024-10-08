@@ -613,17 +613,17 @@
 		<string lang="uk"></string>
 </set>
 <set id="description-module-passivegeneratorroll">
-		<string lang="de">$generator$-Module auf diesem Rack haben eine $b$33%ige Chance$/b$ $b$+1$/b$ $energy$ zu erzeugen.</string>
-		<string lang="en">$generator$ modules on this rack have a $b$33% chance$/b$ of generating $b$+1$/b$ $energy$.</string>
-		<string lang="fr">Les modules $generator$ sur ce rack ont une $b$33% chance$/b$ de générer $b$+1$/b$ $energy$.</string>
-		<string lang="zh">此模架上的$generator$模块有$br$$b$33%几率$/b$额外产出$b$+1$/b$$energy$。</string>
-		<string lang="jp">ラックの$generator$モジュールは$br$$b$33%の確率$/b$で$br$$b$＋1$/b$$energy$発電。</string>
-		<string lang="ru">Модули $generator$ на этой стойке имеют $b$33% шанс$/b$ сгенерировать $b$+1$/b$ $energy$.</string>
-		<string lang="es">Los módulos $generator$ en este bastidor tienen una $b$33% de probabilidad$/b$ de generar $b$+1$/b$ $energy$.</string>
-		<string lang="kr">이 랙의 $generator$ 모듈은 $b$33%의 확률$/b$로 $b$+1$/b$ $energy$를 추가로 생성합니다.</string>
-		<string lang="pt-br">Módulos $generator$ neste rack têm $b$33% de chance$/b$ de gerar $b$+1$/b$ $energy$.</string>
-		<string lang="zh-tw">此模架上的$generator$模組有$b$33%幾率$/b$額外產出$b$+1$/b$$energy$。</string>
-		<string lang="uk">$generator$ модулі на цій стійці з $b$ймовірність 33%$/b$ згенерують $b$+1$/b$ одиницю $energyicon$$b$Енергії$/b$.</string>
+		<string lang="de">Bei jeder 4. Aktivierung eines $generator$ wird diesem $generator$ ein $boost$ hinzugefügt.</string>
+		<string lang="en">Every 4&lt;sup&gt;th&lt;/sup&gt; activation$br$of a $generator$,$br$apply $boost$ to that $generator$.</string>
+        <string lang="fr">À chaque 4ème activation d'un $generator$, ajoutez $boost$ à ce $generator$.</string>
+        <string lang="zh">每激活4次$generator$，为该$generator$添加$boost$。</string>
+        <string lang="jp">$generator$の4回目の起動時に、その$generator$に$boost$を適用。</string>
+        <string lang="ru">При каждом 4-м включении $generator$ применяется $boost$ к этому $generator$.</string>
+        <string lang="es">Cada 4.ª activación de un $generator$,$br$aplica $boost$ a ese $generator$.</string>
+        <string lang="kr">$generator$의 매 4번째 활성화 시, 해당 $generator$에 $boost$를 적용합니다.</string>
+        <string lang="pt-br">A cada 4.ª ativação de um $generator$,$br$aplique $boost$ a esse $generator$.</string>
+        <string lang="zh-tw">每激活4次$generator$，為該$generator$添加$boost$。</string>
+        <string lang="uk">При кожному 4-му включенні $generator$ застосовується $boost$ до цього $generator$.</string>
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
