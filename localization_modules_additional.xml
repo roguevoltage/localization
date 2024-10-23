@@ -310,6 +310,20 @@
 		<string lang="zh-tw">在另一角色的模架上製造一個$volatile$的$b$紊流器$/b$。</string>
 		<string lang="uk">Створює $volatile$ модуль $b$Турбулентність$/b$ на стійці іншого персонажа.</string>
 </set>
+<set id="description-module-factoryvaultdamage">
+    <string lang="de">Stellt ein $b$Auto-Geschütz$/b$$br$mit $imploding$ her.</string>
+	<string lang="en">Constructs an $b$Auto Turret$/b$$br$with $imploding$.</string>
+    <string lang="fr">Construit une $b$Tourelle Automatique$/b$ avec $imploding$.</string>
+    <string lang="zh">制造一个$imploding$的$b$自动炮塔$/b$。</string>   
+    <string lang="jp">$imploding$付与された$br$$b$オートタレット$/b$製造。</string>
+    <string lang="ru">Создает $b$Автотурель$/b$$br$с $imploding$.</string>
+    <string lang="es">Construye una $b$Torreta Automática$/b$ con $imploding$.</string>
+    <string lang="kr">$imploding$ 상태의 $b$자동포탑$/b$을 조립합니다.</string>
+    <string lang="pt-br">Constrói uma $b$Torre Automática$/b$ com $imploding$.</string>
+    <string lang="zh-tw">製造一個$imploding$的$b$自動炮塔$/b$。</string>
+    <string lang="uk">Створює $b$Автовежуваль$/b$$br$з $imploding$.</string>
+
+</set>
 <set id="description-module-generatorbomb">
 	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt eine $b$Zeitbombe$/b$ mit $unstable$ auf einem deiner Racks her.</string>
 	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Time Bomb$/b$ with $unstable$ on one of your racks.</string>
@@ -1317,6 +1331,19 @@
 		<string lang="zh-tw">紊流器工廠$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Фабрика турбулентності $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factoryvaultdamage">
+    <string lang="de">Auto-Geschütz-Fabrik $MODIFICATIONVALUE$</string>
+	<string lang="en">Auto Turret Factory $MODIFICATIONVALUE$</string>
+    <string lang="fr">Fabrique de Tourelles Automatiques $MODIFICATIONVALUE$</string>
+	<string lang="zh">自动炮塔工厂$MODIFICATIONVALUE$</string>
+	<string lang="jp">オートタレット製造機$MODIFICATIONVALUE$</string>
+	<string lang="ru">Фабрика Автотурелей $MODIFICATIONVALUE$</string>
+	<string lang="es">Fábrica de Torretas Automáticas $MODIFICATIONVALUE$</string>
+	<string lang="kr">자동포 공장 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Fábrica de Torre Automática $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">自動砲塔工廠$MODIFICATIONVALUE$</string>
+	<string lang="uk">Фабрика Автотурелей $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-generatorbomb">
 		<string lang="de">Explosiver Generator</string>
