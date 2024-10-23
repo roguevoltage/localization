@@ -687,6 +687,19 @@
 		<string lang="zh-tw">$lightning$或$storm$回合後，獲得$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу $lightning$ або $stormicon$$b$Грози$/b$.</string>
 </set>
+<set id="description-module-toggledstoragecharger">
+		<string lang="de">Lädt ein $storagemodule$ deiner Wahl auf diesem Rack um $1energy$.</string>
+		<string lang="en">Charges target $storagemodule$ on this rack with $1energy$.</string>
+        <string lang="fr">Charge $storagemodule$ ciblé sur ce rack avec $1energy$.</string>
+        <string lang="zh">在此模架上为目标$storagemodule$充能$1energy$。</string>
+        <string lang="jp">このラック上の対象$storagemodule$を$1energy$で充電。</string>
+        <string lang="ru">Заряжает целевой $storagemodule$ на этом стеллаже на $1energy$.</string>
+        <string lang="es">Carga el $storagemodule$ objetivo en este bastidor con $1energy$.</string>
+        <string lang="kr">이 랙의 대상 $storagemodule$에 $1energy$를 충전합니다.</string>
+        <string lang="pt-br">Carrega o $storagemodule$ alvo neste rack com $1energy$.</string>
+        <string lang="zh-tw">在此模架上為目標$storagemodule$充能$1energy$。</string>
+        <string lang="uk">Заряджає вказаний $storagemodule$ на цій стійці на $1energy$.</string>
+</set>
 <set id="description-module-toggleddisassembler">
 		<string lang="de">Zerstört ein anderes Modul,$br$um $2$ $plasma$ zu erzeugen.</string>
 		<string lang="en">Destroys another target module to generate $2$ $plasma$.</string>
@@ -1663,6 +1676,18 @@
 		<string lang="pt-br">Célula de Tempestade $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">風暴單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка шторму $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-toggledstoragecharger">
+        <string lang="de">Speicher-Ladegerät</string>
+		<string lang="en">Storage Charger</string>
+        <string lang="fr">Chargeur de Stockage</string>
+        <string lang="zh">储能充电器</string>
+        <string lang="jp">貯蔵充電器</string>
+        <string lang="ru">Зарядник Хранения</string>
+        <string lang="es">Cargador de Almacenamiento</string>
+        <string lang="kr">축전 충전기</string>
+        <string lang="pt-br">Carregador de Armazenamento</string>
+        <string lang="zh-tw">儲能充電器</string>
 </set>
 <set id="name-module-toggleddisassembler">
 		<string lang="de">Demontierer</string>
