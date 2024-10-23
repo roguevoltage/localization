@@ -977,6 +977,19 @@
 		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對其施加$grav-1$。</string>
 		<string lang="uk">Можна заряджати.$p$На початку ходу персонажа витрачає $1$ збережену одинцю $energyicon$$b$Енергії$/b$ для накладання на нього $grav-1$</string>
 </set>
+<set id="description-module-vaultdamage">
+        <string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne $1$ gespeicherte $energy$ um einem Gegner deiner Wahl $1damage$ zu verursachen.</string>
+	    <string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to deal $1damage$ to target enemy.</string>
+        <string lang="fr">Peut être chargé.$p$Au début du tour du personnage, retirez $1$ $energy$ stockée pour infliger $1damage$ à un ennemi ciblé.</string>
+        <string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$点所储存的$energy$，对目标敌人造成$1damage$。</string>
+        <string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、対象敵に$1damage$。</string>
+        <string lang="ru">Может быть заряжен.$p$В начале хода персонажа, удалите $1$ сохраненную $energy$ чтобы нанести $1damage$ целевому врагу.</string>
+        <string lang="es">Puede cargarse.$p$Al comienzo del turno del personaje, elimina $1$ $energy$ almacenada para infligir $1damage$ a un enemigo objetivo.</string>
+        <string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 대상 적에게 $1damage$를 입힙니다.</string>
+        <string lang="pt-br">Pode ser carregado.$p$No início do turno do personagem, remova $1$ $energy$ armazenada para causar $1damage$ a um inimigo alvo.</string>
+        <string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對目標敵人造成$1damage$。</string>
+        <string lang="uk">Можна заряджати.$p$На початку ходу персонажа витрачає $1$ збережену одиницю $energyicon$$b$Енергії$/b$ для нанесення $1damage$ цільовому ворогові.</string>
+</set>
 <set id="name-module-burningdebris">
 		<string lang="de">Brennende Trümmer</string>
 		<string lang="en">Burning Debris</string>
@@ -1961,5 +1974,18 @@
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加速單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Прискорювальна комірка $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-vaultdamage">
+    <string lang="de">Auto-Geschütz $MODIFICATIONVALUE$</string>
+	<string lang="en">Auto Turret $MODIFICATIONVALUE$</string>
+	<string lang="fr">Tourelle Automatique $MODIFICATIONVALUE$</string>
+	<string lang="zh">自动炮塔$MODIFICATIONVALUE$</string>
+	<string lang="jp">オートタレット$MODIFICATIONVALUE$</string>
+	<string lang="ru">Автотурель $MODIFICATIONVALUE$</string>
+	<string lang="es">Torreta Automática $MODIFICATIONVALUE$</string>
+	<string lang="kr">자동포탑 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Torre Automática $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">自動砲塔$MODIFICATIONVALUE$</string>
+	<string lang="uk">Автотурель $MODIFICATIONVALUE$</string>
 </set>
 </localization>
