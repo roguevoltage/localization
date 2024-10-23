@@ -7,11 +7,29 @@
         <string lang="en">Activate this turn to remove, or it will deal $grav+2$ to the owner after their turn </string>
     	<string lang="uk">Активуй, щоб видалити, або він нанесе $grav+2$ власнику наприкінці ходу</string>
 </set>
-<set id="name-status-moduleimplodingstorage">
+<set id="name-status-moduleimploding">
+        <string lang="de">Implosion</string>
         <string lang="en">Imploding</string>
+        <string lang="fr">Implosion</string>
+        <string lang="zh">内爆</string>
+        <string lang="jp">内爆</string>
+        <string lang="ru">Имплозия</string>
+        <string lang="es">Implosión</string>
+        <string lang="kr">내부 폭발</string>
+        <string lang="pt-br">Implosão</string>
+    	<string lang="uk">Імплозія</string>
 </set>
-<set id="description-status-moduleimplodingstorage">
+<set id="description-status-moduleimploding">
+        <string lang="de">Wird am Ende des Zuges des Charakters zerstört, wenn die gespeicherte $energy$ $0$ beträgt.</string>
         <string lang="en">Will be destroyed on end of the owner's turn, if the stored $energy$ is $0$.</string>
+        <string lang="fr">Sera détruit à la fin du tour du propriétaire, si l'$energy$ stockée est de $0$.</string>
+        <string lang="zh">如果存储的$energy$为$0$，则在拥有者的回合结束时被摧毁。</string>
+        <string lang="jp">所有者のターンの終わりに、格納された$energy$が$0$の場合、破壊されます。</string>
+        <string lang="ru">Будет уничтожен в конце хода владельца, если запасенная $energy$ равна $0$.</string>
+        <string lang="es">Será destruido al final del turno del propietario, si la $energy$ almacenada es $0$.</string>
+        <string lang="kr">소유자의 턴이 끝날 때, 저장된 $energy$가 $0$이면 파괴됩니다.</string>
+        <string lang="pt-br">Será destruído no final do turno do dono, se a $energy$ armazenada for $0$.</string>
+    	<string lang="uk">Буде знищений наприкінці ходу власника, якщо запасена $energy$ дорівнює $0$.</string>
 </set>
 <set id="name-status-modulestormrepeller">
         <string lang="de">Sturmabwehr</string>
