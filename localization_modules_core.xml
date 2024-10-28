@@ -613,16 +613,16 @@
 		<string lang="uk"></string>
 </set>
 <set id="description-module-passivegeneratorroll">
-		<string lang="de">Jedes 4. Mal, wenn ein $generator$ aktiviert wird, wird $boost$ auf ihn angewendet.</string>
-		<string lang="en">Every 4&lt;sup&gt;th&lt;/sup&gt; time a $generator$ is activated, apply $boost$ to it.</string>
-        <string lang="fr">Chaque 4&lt;sup&gt;ème&lt;/sup&gt; activation d'un $generator$, applique $boost$ à celui-ci.</string>
-        <string lang="zh">每激活4次$generator$，为其施加$boost$。</string>
-        <string lang="jp">$generator$が起動されるたびに4回目に$boost$を適用。</string>
-        <string lang="ru">Каждый 4-й раз, когда активируется $generator$, применяется $boost$ к нему.</string>
-        <string lang="es">Cada 4.ª activación de un $generator$,$br$aplica $boost$ a él.</string>
-        <string lang="kr">$generator$가 활성화될 때마다 4번째마다 $boost$를 적용합니다.</string>
-        <string lang="pt-br">Cada 4.ª vez que um $generator$ é ativado, aplique $boost$ a ele.</string>
-        <string lang="zh-tw">每激活4次$generator$，為其施加$boost$。</string>
+		<string lang="de">Jedes 4. Mal, wenn ein $generator$ auf diesem Rack aktiviert wird, wird $boost$ auf ihn angewendet.</string>
+		<string lang="en">Every 4&lt;sup&gt;th&lt;/sup&gt; time a $generator$ is activated on this rack, apply $boost$ to it.</string>
+        <string lang="fr">Chaque 4&lt;sup&gt;ème&lt;/sup&gt; activation d'un $generator$ sur ce rack, applique $boost$ sur lui.</string>
+        <string lang="zh">每4次在此机架上激活一个$generator$，将$boost$应用于它。</string>
+        <string lang="jp">このラックで$generator$がアクティブ化されるたびに、それに$boost$を適用します。</string>
+        <string lang="ru">Каждый 4-й раз, когда $generator$ активируется на этой стойке, к нему применяется $boost$.</string>
+        <string lang="es">Cada 4.ª activación de un $generator$ en este bastidor, aplícale $boost$.</string>
+        <string lang="kr">이 랙에서 $generator$가 활성화될 때마다 4번째마다 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Cada 4.ª vez que um $generator$ é ativado neste rack, aplique $boost$ a ele.</string>
+        <string lang="zh-tw">每4次在此機架上啟動一個$generator$，將$boost$應用於它。</string>
         <string lang="uk">Кожен 4-й раз, коли активується $generator$, до нього застосовується $boost$.</string>
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
