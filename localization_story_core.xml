@@ -150,7 +150,7 @@
 		<string lang="uk">Розділ III:</string>
 </set>
 <set id="cycle3-story">
-		<string lang="de">$playercharacter-alice-icon$“Die ersten Jahre der Gravitonikforschung waren schrecklich ereignislos. Wir verbrachten Jahre damit, zu berechnen, wie sich mit Zeitdilatation das menschliche Leben verlängern lässt.$br$Die Theorie war solide, aber es bestand die Gefahr einer katastrophalen Zeitschwemme.”$p$$playercharacter-slopperjackson-icon$“Was ist dann passiert?”$p$$playercharacter-alice-icon$“Das Projekt wurde plötzlich eingestellt und alle wurden rausgeschmissen”</string>
+		<string lang="de">$playercharacter-alice-icon$“Die ersten Jahre der Gravitonikforschung waren schrecklich ereignislos. Wir verbrachten Jahre damit, zu berechnen, wie sich das menschliche Leben mittels Zeitdilatation verlängern lässt.$br$Die Theorie war solide, aber es bestand die Gefahr eines katastrophalen Zeitlecks.”$p$$playercharacter-slopperjackson-icon$“Was ist dann passiert?”$p$$playercharacter-alice-icon$“Das Projekt wurde plötzlich eingestellt und alle wurden rausgeschmissen”</string>
 		<string lang="en">$playercharacter-alice-icon$“The first years of gravitonics research were terribly uneventful. We spent years calculating the potential of time dilation to prolong human life. The theory was sound, but there was a risk of catastrophic time spillage onto the environment.”$p$$playercharacter-slopperjackson-icon$“What happened then?”$p$$playercharacter-alice-icon$“The project went dark and everybody got kicked off.”</string>
 		<string lang="fr">$playercharacter-alice-icon$“Les premières années de la recherche en gravitonique étaient terriblement ennuyeuses. Nous avons passé des années à calculer le potentiel de la dilatation du temps pour prolonger la vie humaine.$br$La théorie était solide, mais il y avait un risque de déversement temporel catastrophique dans l'environnement.”$p$$playercharacter-slopperjackson-icon$“Qu'est-il arrivé ensuite?”$p$$playercharacter-alice-icon$“Le projet a été arrêté brusquement et tout le monde a été viré.”</string>
 		<string lang="zh">$playercharacter-alice-icon$“引力研究之初一切风平浪静。我们花了数年时间计算通过时间膨胀来延长人类寿命的可能性。理论上是可行的，但伴随的风险，时间溢出对环境的影响，也是灾难性的。”$p$$playercharacter-slopperjackson-icon$“后来呢？”$p$$playercharacter-alice-icon$“项目中断，所有人被踢了出来。”</string>
@@ -201,8 +201,7 @@
 		<string lang="es">$playercharacter-plasmamech-icon$“Si estás escuchando este mensaje, significa que las cosas han salido terriblemente mal.”$p$$playercharacter-slopperjackson-icon$“¡Es la voz del abuelo Slopper!”$p$$playercharacter-plasmamech-icon$“Están construyendo una ciudad flotante, alrededor de la cual están construyendo un dique para detener el flujo del tiempo. La llamaron Edén. No fueron muy creativos.”</string>
 		<string lang="kr">$playercharacter-plasmamech-icon$“만약 이 메시지를 듣고 있다면, 상황이 굉장히 좋지 않게 돌아가고 있다는 뜻이겠구만.”$p$$playercharacter-slopperjackson-icon$“슬로퍼 할아버지 목소리야!”$p$$playercharacter-plasmamech-icon$“그 자들이 공중 도시를 건설하고, 시간의 흐름을 막기 위해 댐을 만들었어. 에덴이라고 부르더군. 창의력하고는.”</string>
 		<string lang="pt-br">$playercharacter-plasmamech-icon$“Se você está ouvindo esta mensagem, significa que as coisas deram terrivelmente errado.”$p$$playercharacter-slopperjackson-icon$“É a voz do vovô Slopper!”$p$$playercharacter-plasmamech-icon$“Eles estão construindo uma cidade flutuante, em torno da qual estão construindo uma barragem para interromper o fluxo do tempo. Eles a chamaram de Éden. Eles não foram muito criativos.”</string>
-		<string lang="zh-tw">$playercharacter-plasmamech-icon$“如果你收到這條消息，就意味著形勢已經相當危急了。”$p$$playercharacter-slopperjackson-icon$“是斯洛普爺爺的聲音！”$p$$playercharacter-plasmamech-icon$“它們正在建造一座浮空的城市，並在其周圍修建了一圈大壩來阻止時間的流動。他們稱之為伊甸園。很沒有新意的名字。”
-</string>
+		<string lang="zh-tw">$playercharacter-plasmamech-icon$“如果你收到這條消息，就意味著形勢已經相當危急了。”$p$$playercharacter-slopperjackson-icon$“是斯洛普爺爺的聲音！”$p$$playercharacter-plasmamech-icon$“它們正在建造一座浮空的城市，並在其周圍修建了一圈大壩來阻止時間的流動。他們稱之為伊甸園。很沒有新意的名字。”</string>
 		<string lang="uk">$playercharacter-plasmamech-icon$«Якщо ви чуєте це повідомлення, це означає, що все пішло не так.»$p$ $playercharacter-slopperjackson-icon$«Це голос Дідуся Слоппера!»$p$ $playercharacter-plasmamech-icon$«Вони будують плавуче місто, навколо якого будують дамбу, що має зупинити плин часу. Вони назвали це Едемом. Не надто оригінально.»</string>
 </set>
 <set id="cycle4-title">
@@ -215,8 +214,7 @@
 		<string lang="es">Una Ciudad en los Cielos</string>
 		<string lang="kr">하늘 위의 도시</string>
 		<string lang="pt-br">Uma Cidade nos Céus</string>
-		<string lang="zh-tw">浮空之城
-</string>
+		<string lang="zh-tw">浮空之城</string>
 		<string lang="uk">Місто в небі</string>
 </set>
 <set id="cycle5-description">
@@ -276,7 +274,7 @@
 		<string lang="uk">Розділ VI:</string>
 </set>
 <set id="cycle6-story">
-		<string lang="de">$playercharacter-slopperjohnson-icon$“Entschuldigung, dass wir deinen Holo-Stream unterbrechen, Jessy, aber wir glauben, dass der Schlüssel zur Rettung der Welt irgendwo in deinem Kopf gespeichert sein könnte.”$p$$playercharacter-runner-icon$“Ähh … nö.”$p$$playercharacter-slopperjackson-icon$“Jess! Was hat Opa dir als Letztes gesagt, bevor er verschwunden ist?”$p$$playercharacter-runner-icon$“Keine Ahnung … irgendwas mit Rosen und Veilchen und dass die zeitliche Masse umgekehrt proportional zur gravitonischen Energie zum Quadrat ist.”</string>
+		<string lang="de">$playercharacter-slopperjohnson-icon$“Entschuldigung, dass wir deinen Holo-Stream unterbrechen, Jessy, aber wir glauben, dass der Schlüssel zur Rettung der Welt irgendwo in deinem Kopf gespeichert sein könnte.”$p$$playercharacter-runner-icon$“Ähh … nö?”$p$$playercharacter-slopperjackson-icon$“Jess! Was hat Opa dir als Letztes gesagt, bevor er verschwunden ist?”$p$$playercharacter-runner-icon$“Keine Ahnung … irgendwas mit Rosen und Veilchen und dass die zeitliche Masse umgekehrt proportional zur gravitonischen Energie zum Quadrat ist.”</string>
 		<string lang="en">$playercharacter-slopperjohnson-icon$“Sorry to interrupt your holo-stream, Jessy, but we believe the key to saving the world might be stored somewhere in your mind.”$p$$playercharacter-runner-icon$“Yeah … no.”$p$$playercharacter-slopperjackson-icon$“Jess! What’s the last thing Grandpa said to you?”$p$$playercharacter-runner-icon$“Dunno … something about roses and violets and the temporal mass being inversely proportional to the gravitonic energy squared.”</string>
 		<string lang="fr">$playercharacter-slopperjohnson-icon$“Désolé d'interrompre ton holo-streaming, Jessy, mais nous croyons que la clé pour sauver le monde pourrait être stockée quelque part dans ta tête.”$p$$playercharacter-runner-icon$“Euh … non.”$p$$playercharacter-slopperjackson-icon$“Jess! Quelle a été la dernière chose que Papi t'a dit?”$p$$playercharacter-runner-icon$“Je sais pas … quelque chose à propos de roses et de violettes et que la masse temporelle est inversement proportionnelle à l'énergie gravitonique au carré.”</string>
 		<string lang="zh">$playercharacter-slopperjohnson-icon$“抱歉打扰了你的全息直播，杰西，但我们有理由相信拯救世界的关键，就藏在你脑海中的某处。”$p$$playercharacter-runner-icon$“呃……并没有。”$p$$playercharacter-slopperjackson-icon$“杰西！想想爷爷最后跟你说了什么？”$p$$playercharacter-runner-icon$“我不确……什么玫瑰和紫罗兰，还有时间质量和引力能量的平方成反比什么的。”</string>
@@ -317,7 +315,7 @@
 		<string lang="uk">Розділ VII:</string>
 </set>
 <set id="cycle7-story">
-		<string lang="de">$playercharacter-nomad-icon$“Das Wesen einer Falte besteht in einem Knick und einer Verdoppelung.”$p$$playercharacter-slopperjohnson-icon$“Sind wir uns schon einmal begegnet?”$p$$playercharacter-nomad-icon$“Es gibt nicht so etwas wie ‚schon‘. Noch gibt es so etwas wie ‚einmal‘. Wir begegnen uns jetzt. Wir werden uns immer jetzt begegnen. Und ich werde dir immer sagen, dass du dich von diesem Ort fernhalten sollst. Das ist der Knick. Und morgen wirst du auf dem Weg sein.”</string>
+		<string lang="de">$playercharacter-nomad-icon$“Das Wesen einer Falte besteht in einem Knick und einer Verdoppelung.”$p$$playercharacter-slopperjohnson-icon$“Sind wir uns schon einmal begegnet?”$p$$playercharacter-nomad-icon$“Es gibt nicht so etwas wie ‚schon‘. Noch gibt es so etwas wie ‚einmal‘. Wir begegnen uns jetzt. Wir werden uns immer jetzt begegnen. Und ich werde dir immer sagen, dass du dich von diesem Ort fernhalten sollst. Das ist der Knick. Und morgen machst du dich auf den Weg.”</string>
 		<string lang="en">$playercharacter-nomad-icon$“The nature of a fold is that of a doubling and a crease.”$p$$playercharacter-slopperjohnson-icon$“Have we met before?”$p$$playercharacter-nomad-icon$“There is no such thing as before. Nor after. We are meeting now. We will always be meeting now. And I will always be telling you to stay away from that place. This is the crease. And tomorrow you will be on your way.”</string>
 		<string lang="fr">$playercharacter-nomad-icon$“La nature d'un pli est celle d'un doublement et d'une arête.”$p$$playercharacter-slopperjohnson-icon$“Nous nous sommes déjà rencontrés?”$p$$playercharacter-nomad-icon$“Il n'y a pas de tel chose que ‚déjà‘. Nous nous rencontrons maintenant. Nous nous toujours rencontrerons maintenant. Et je te dirai toujours de rester loin de cet endroit. C'est l'arête. Et demain vous serez en route.”</string>
 		<string lang="zh">$playercharacter-nomad-icon$“折叠的本质，是重合加折痕。”$p$$playercharacter-slopperjohnson-icon$“我们以前见过吗？”$p$$playercharacter-nomad-icon$“不存在所谓的‘以前’。同理没有以后。我们只在此刻相遇。我们永远会在此刻相遇。每一次我都会告诉你不要去那个地方。这就是折痕。而明天你会再次踏上你的征途。”</string>
@@ -356,7 +354,7 @@
 		<string lang="uk">Розділ VIII:</string>
 </set>
 <set id="cycle8-story">
-		<string lang="de">$playercharacter-sol-icon$“Sie wissen genau, welchen Schaden sie anrichten. Aber in ihrer Gier wollen sie in einem unendlichen Tag schwelgen.$br$Der Zeitdamm wird von einer einzigen Energiequelle angetrieben: dem Grav-Reaktor.”$p$$playercharacter-slopperjackson-icon$“Wie weißt du das alles?”$p$$playercharacter-sol-icon$“Weil ich von dort komme.”</string>
+		<string lang="de">$playercharacter-sol-icon$“Sie wissen genau, welchen Schaden sie anrichten. Aber in ihrer Gier wollen sie in einem unendlichen Tag schwelgen.$br$Der Zeitdamm wird von einer einzigen Energiequelle angetrieben: dem Grav-Reaktor.”$p$$playercharacter-slopperjackson-icon$“Woher weißt du das alles?”$p$$playercharacter-sol-icon$“Weil ich von dort komme.”</string>
 		<string lang="en">$playercharacter-sol-icon$“They know exactly about the damage they are causing. But in their greed, they want to revel in an infinite day.$br$ The time dam is powered by a single source of power: the grav reactor.”$p$$playercharacter-slopperjackson-icon$“How do you know all this?”$p$$playercharacter-sol-icon$“Because I am from there.”</string>
 		<string lang="fr">$playercharacter-sol-icon$“Ils savent exactement les dégâts qu'ils causent. Mais dans leur avidité, ils veulent se délecter d'un jour infini.$br$Le barrage temporel est alimenté par une seule source d'énergie: le réacteur gravitationnel.”$p$$playercharacter-slopperjackson-icon$“Comment sais-tu tout ça?”$p$$playercharacter-sol-icon$“Parce que je viens de là-bas.”</string>
 		<string lang="zh">$playercharacter-sol-icon$“他们对自己造成的破坏一清二楚。但因为贪婪，他们仍然想纵情享受无限的一天。$br$时间大坝的能量来源只有一个：引力反应堆。”$p$$playercharacter-slopperjackson-icon$“你怎么知道的？”$p$$playercharacter-sol-icon$“因为我就来自那里。”</string>
@@ -395,19 +393,32 @@
 		<string lang="uk">Розділ IX:</string>
 </set>
 <set id="cycle9-story">
-        <string lang="de">$playercharacter-runner-icon$“Ich dachte, die Zeitschleife sei vielleicht cool, aber es wird langweilig. Die Geschichte zu wiederholen ist bescheuert.”$p$$playercharacter-kimmy-icon$“Wir müssen einen Ausweg aus diesem Schlamassel finden. Lasst uns erst einmal das Camp weiter aufbauen.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Das ist das Ende der Geschichte für jetzt.$br$Bleibe am Ball, während wir neue Inhalte entwickeln.$br$Vielen Dank, dass du Rogue Voltage im Early Access spielst.</string>
-		<string lang="en">$playercharacter-runner-icon$“I thought the time loop might be cool but it's getting boring. Repeating history is stupid.”$p$$playercharacter-kimmy-icon$“We will have to find a way out of this mess. For now let's continue restoring the camp.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;This is the end of the story for now.$br$Stay tuned as we develop new content.$br$Thank you for playing Rogue Voltage in Early Access.</string>
-        <string lang="fr">$playercharacter-runner-icon$“Je pensais que la boucle temporelle était cool, mais ça devient ennuyeux. Répéter l'histoire est stupide.”$p$$playercharacter-kimmy-icon$“Nous devrons trouver un moyen de sortir de ce pétrin, mais pour l'instant continuons à restaurer le camp.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;- C'est la fin de l'histoire pour l'instant. Merci d'avoir joué à Rogue Voltage. -</string>
-        <string lang="zh">$playercharacter-runner-icon$“我以为时间循环很酷，但现在有点无聊。重复历史很蠢。”$p$$playercharacter-kimmy-icon$“我们必须找到摆脱困境的方法，但现在让我们继续修复营地。”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;- 这是目前故事的结局。感谢您玩《末日电涌》。 -</string>
-        <string lang="jp">$playercharacter-runner-icon$「タイムループは面白いと思ってたけど、もう飽きてきた。歴史を繰り返すのは馬鹿げてる」$p$$playercharacter-kimmy-icon$「この窮地から抜け出す方法を見つけないといけないけど、今はキャンプの再建を続けましょう」$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;- これで物語は一旦終わりです。Rogue Voltageをプレイしていただきありがとうございます。 -</string>
-        <string lang="ru">$playercharacter-runner-icon$“Я думал, что временная петля крута, но это становится скучно. Повторять историю глупо.”$p$$playercharacter-kimmy-icon$“Нам нужно найти выход из этой передряги, но пока давай продолжим восстанавливать лагерь.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Это конец истории на данный момент.$br$Спасибо, что играли в Rogue Voltage.</string>
-        <string lang="kr">$playercharacter-runner-icon$“시간 루프는 멋있을 줄 알았는데, 이젠 지루해. 역사를 반복하는 건 바보 같아.”$p$$playercharacter-kimmy-icon$“우리는 이 난국에서 탈출 방법을 찾아야 하지만, 일단은 캠프를 계속 복구하자.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;이것이 현재 이야기의 끝입니다.$br$로그 볼티지를 플레이해주셔서 감사합니다.</string>
-        <string lang="es">$playercharacter-runner-icon$“Pensé que el bucle temporal era genial, pero se está volviendo aburrido. Repetir la historia es estúpido.”$p$$playercharacter-kimmy-icon$“Tendremos que encontrar una salida de este lío, pero por ahora sigamos restaurando el campamento.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Este es el final de la historia por ahora.$br$Gracias por jugar a Rogue Voltage.</string>
-        <string lang="pt-br">$playercharacter-runner-icon$“Eu achei que o loop temporal era legal, mas está ficando chato. Repetir a história é estúpido.”$p$$playercharacter-kimmy-icon$“Teremos que encontrar uma saída desse problema, mas por enquanto vamos continuar restaurando o acampamento.”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Este é o fim da história por enquanto.$br$Obrigado por jogar Rogue Voltage.</string>
-        <string lang="zh-tw">$playercharacter-runner-icon$“我以為時間循環很酷，但現在有點無聊。重複歷史很蠢。”$p$$playercharacter-kimmy-icon$“我們必須找到擺脫困境的方法，但現在讓我們繼續修復營地。”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;- 這是目前故事的結局。感謝您玩《末日電湧》。 -</string>
-        <string lang="uk">$playercharacter-runner-icon$«Я думав, що часова петля крута, але вже набридло. Повторювати історію — це дурість.»$p$$playercharacter-kimmy-icon$«Нам потрібно знайти вихід з цієї передриги, але поки що давай продовжимо відновлення табору.»$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;- Це кінець історії наразі. Дякуємо за гру в Rogue Voltage. -</string>
+        <string lang="de">$playercharacter-runner-icon$“Zuerst dachte ich, die Zeitschleife sei cool, aber es wird langweilig. Die Geschichte zu wiederholen ist bescheuert.”$p$$playercharacter-kimmy-icon$“Wir müssen einen Ausweg aus diesem Schlamassel finden. Gibt es eine Möglichkeit, diesen Zeitstrang hinter uns zu lassen?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Schalte den Mech-Hangar im Lager frei.</string> 
+		<string lang="en">$playercharacter-runner-icon$“I thought the time loop might be cool but it's getting boring. Repeating history is stupid.”$p$$playercharacter-kimmy-icon$“We will have to find a way out of this mess.$br$Is there a way to leave this timeline completely?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Unlock the Mech Hangar in the camp.</string>
+        <string lang="fr">$playercharacter-runner-icon$“Je pensais que la boucle temporelle était cool, mais ça devient ennuyeux. Répéter l'histoire est stupide.”$p$$playercharacter-kimmy-icon$“Nous devrons trouver un moyen de sortir de ce pétrin. Y a-t-il un moyen de quitter complètement cette ligne temporelle?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Débloquez le hangar de méchas dans le camp.</string>
+        <string lang="zh">$playercharacter-runner-icon$“我以为时间循环很酷，但现在有点无聊。重复历史很蠢。”$p$$playercharacter-kimmy-icon$“我们必须找到摆脱困境的方法。有没有办法完全离开这个时间线？”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;在营地解锁机甲库。</string>
+        <string lang="jp">$playercharacter-runner-icon$「タイムループは面白いと思ってたけど、もう飽きてきた。歴史を繰り返すのは馬鹿げてる」$p$$playercharacter-kimmy-icon$「この窮地から抜け出す方法を見つけないといけないけど。 この時間軸を完全に離れる方法はあるのかな？」$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;キャンプのメックハンガーを解放してください。</string>
+        <string lang="ru">$playercharacter-runner-icon$“Я думал, что временная петля крута, но это становится скучно. Повторять историю глупо.”$p$$playercharacter-kimmy-icon$“Нам нужно найти выход из этой передряги. Есть ли сп способ пол ностью покинуть эту временную линию?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Разблокируйте ангар мехов в лагере.</string>
+        <string lang="kr">$playercharacter-runner-icon$“시간 루프는 멋있을 줄 알았는데, 이젠 지루해. 역사를 반복하는 건 바보 같아.”$p$$playercharacter-kimmy-icon$“우리는 이 난국에서 탈출 방법을 찾아야 하지만. 이 시간선을 완전히 떠날 방법이 있을까요?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;캠프의 메카 행거를 해제하세요.</string>
+        <string lang="es">$playercharacter-runner-icon$“Pensé que el bucle temporal era genial, pero se está volviendo aburrido. Repetir la historia es estúpido.”$p$$playercharacter-kimmy-icon$“Tendremos que encontrar una salida de este lío. ¿Hay alguna manera de dejar completamente esta línea de tiempo?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Desbloquea el hangar de mecas en el campamento.</string>
+        <string lang="pt-br">$playercharacter-runner-icon$“Eu achei que o loop temporal era legal, mas está ficando chato. Repetir a história é estúpido.”$p$$playercharacter-kimmy-icon$“Teremos que encontrar uma saída desse problema. Existe uma maneira de deixar completamente essa linha do tempo?”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Desbloqueie o Hangar de Mechas no acampamento.</string>
+        <string lang="zh-tw">$playercharacter-runner-icon$“我以為時間循環很酷，但現在有點無聊。重複歷史很蠢。”$p$$playercharacter-kimmy-icon$“我們必須找到擺脫困境的方法。有沒有辦法完全離開這個時間線？”$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;在營地解鎖機甲庫。</string>
+        <string lang="uk">$playercharacter-runner-icon$«Я думав, що часова петля крута, але вже набридло. Повторювати історію — це дурість.»$p$$playercharacter-kimmy-icon$«Нам потрібно знайти вихід з цієї передриги. Чи є спосі б повністю покинути цю часову лінію?»$p$&lt;size=8&gt;&lt;color=#FFFF80&gt;Розблокуйте ангар мехів в таборі.</string>
 </set>
 <set id="cycle9-title">
+		<string lang="de">Tiefer in die Faltung</string>
+		<string lang="en">Deeper into the Fold</string>
+		<string lang="fr">Plus Profondément dans le Pli</string>
+        <string lang="zh">深入折叠</string>
+        <string lang="jp">折り畳みの奥へ</string>
+        <string lang="ru">Глубже в Складку</string>
+        <string lang="es">Más Profundo en el Pliegue</string>
+        <string lang="kr">접힌 곳으로</string>
+        <string lang="pt-br">Mais Profundo na Dobra</string>
+        <string lang="zh-tw">深入折疊</string>
+        <string lang="uk">Глибше в Складку</string>
+</set>
+<set id="cycle10-title">
 		<string lang="de">Tiefer in die Faltung</string>
 		<string lang="en">Deeper into the Fold</string>
 		<string lang="fr">Plus Profondément dans le Pli</string>
@@ -432,6 +443,19 @@
 		<string lang="pt-br">Capítulo X:</string>
 		<string lang="zh-tw">第十章：</string>
 		<string lang="uk">Розділ X:</string>
+</set>
+<set id="cycle10-story">
+        <string lang="de"></string> 
+		<string lang="en"></string>
+        <string lang="fr"></string>
+        <string lang="zh"></string>
+        <string lang="jp"></string>
+        <string lang="ru"></string>
+        <string lang="kr"></string>
+        <string lang="es"></string>
+        <string lang="pt-br"></string>
+        <string lang="zh-tw"></string>
+        <string lang="uk"></string>
 </set>
 <set id="cyclefinal-description">
 		<string lang="de">Letztes Kapitel:</string>
