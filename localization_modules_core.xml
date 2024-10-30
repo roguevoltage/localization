@@ -32,7 +32,7 @@
 		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">$storagemodule$を充電するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un módulo de tipo $storagemodule$ es cargado.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$es cargado.</string>
 		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
 		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -705,16 +705,16 @@
         <string lang="uk">Заряджається на $1energy$ на початку кожного 2-го ходу власника.</string>
 </set>
 <set id="description-module-timebomb">
-		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$br$(Reduziere Wirkung$br$mit $energy$).</string>
+		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$p$Reduziere Wirkung$br$mit $energy$.</string>
 		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
-		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$br$(Réduire l'effet avec $energy$).</string>
-		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低伤害）。</string>
-		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方2人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$で威力相殺）</string>
-		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$br$(Уменьшить урон можно с помощью с помощью $energy$).</string>
-		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$br$(Reducir efecto con $energy$).</string>
-		<string lang="kr">$b$$TIMETOTURN$$/b$ 시간 단계 후에 폭발하며, 두 주인공에게 $b$$INVERSECHARGEVALUE$$/b$ $damage$를 줍니다.$br$($energy$로 효과 감소).</string>
-		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$br$(Reduza o efeito com $energy$).</string>
-		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$br$（$energy$可降低傷害）。</string>
+		<string lang="fr">Explose dans $b$$TIMETOTURN$$/b$ étapes de temps et inflige $b$$INVERSECHARGEVALUE$$/b$ $damage$ aux deux héros.$p$Réduire l'effet avec $energy$.</string>
+		<string lang="zh">在$b$$TIMETOTURN$$/b$个时间步长后爆炸，对两名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$p$$energy$可降低伤害。</string>
+		<string lang="jp">$b$$TIMETOTURN$$/b$タイムステップ後に爆発し、味方2人に$b$$INVERSECHARGEVALUE$$/b$$damage$。$p$$energy$で威力相殺。</string>
+		<string lang="ru">Взорвется через $b$$TIMETOTURN$$/b$ временных шагов и нанесет $b$$INVERSECHARGEVALUE$$/b$ $damage$ обоим героям.$p$Уменьшить урон можно с помощью с помощью $energy$.</string>
+		<string lang="es">Explotará en $b$$TIMETOTURN$$/b$ pasos de tiempo e infligirá $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos héroes.$p$Reducir efecto con $energy$.</string>
+		<string lang="kr">$b$$TIMETOTURN$$/b$ 시간 단계 후에 폭발하며, 두 주인공에게 $b$$INVERSECHARGEVALUE$$/b$ $damage$를 줍니다.$p$$energy$로 효과 감소.</string>
+		<string lang="pt-br">Explodirá em $b$$TIMETOTURN$$/b$ passos de tempo e causará $b$$INVERSECHARGEVALUE$$/b$ $damage$ a ambos os heróis.$p$Reduza o efeito com $energy$.</string>
+		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$p$$energy$可降低傷害。</string>
 		<string lang="uk">Вибухне за $b$ $TIMETOTURN$ $/b$ часові кроки.$p$Нанесе $b$ $INVERSECHARGEVALUE$ $/b$ $damage$ обом героям.$p$Зменшити ефект можна за допомогою $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-toggledgrenadepassthroughboost">
@@ -919,7 +919,7 @@
 		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。</string>
 		<string lang="ru">Применяет постоянное $upgrade$ к модулю типа $passthroughmodule$ на этой стойке.</string>
-		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
+		<string lang="es">Aplica $upgrade$ permanentemente a un módulo de tipo $passthroughmodule$$br$en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적인 $upgrade$을 적용합니다.</string>
 		<string lang="pt-br">Aplica um $upgrade$ permanente a um módulo do tipo $passthroughmodule$ neste rack.</string>
 		<string lang="zh-tw">為目標$passthroughmodule$施加永久$br$$upgrade$。</string>
@@ -932,7 +932,7 @@
         <string lang="zh">为目标$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
         <string lang="jp">ラックの対象$passthroughmodule$に$upgrade$と$gravrecoil$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $gravrecoil$ к модулю типа $passthroughmodule$ на этой стойке.</string>
-        <string lang="es">Aplica $upgrade$ y $gravrecoil$ a un módulo de tipo $passthroughmodule$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y$br$$gravrecoil$ a un módulo de tipo $passthroughmodule$$br$en este bastidor.</string>
         <string lang="kr">이 랙의 대상 $passthroughmodule$에게 $upgrade$와 $gravrecoil$을 적용합니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ a um módulo do tipo $passthroughmodule$ neste rack.</string>
         <string lang="zh-tw">為目標$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
