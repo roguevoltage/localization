@@ -333,7 +333,7 @@
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает $b$Временную Бомбу$/b$ с $unstable$ на одной из ваших стоек.</string>
 	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye una $b$Bomba Temporizada$/b$ con $unstable$ en uno de tus bastidores.</string>
 	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$당신의 랙 중 하나에 $unstable$ 상태의 $b$시한폭탄$/b$을 조립합니다.</string>
-	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói uma $b$Bomba de Tempo$/b$ com $unstable$ em um de seus racks.</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói uma $b$Bomba Temporizada$/b$ com $unstable$ em um de seus racks.</string>
 	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在隨機角色的模架上，產生一個$unstable$的$b$定時炸彈$/b$。</string>
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
 </set>
@@ -893,7 +893,7 @@
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$赋予其$turbo$状态。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$turbo$付与。</string>
 		<string lang="ru">Применяет $turbo$ к целевому $passthroughmodule$ на этой стойке.</string>
-		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo en este bastidor.</string>
+		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo$br$en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 $turbo$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。</string>
@@ -906,7 +906,7 @@
         <string lang="zh">为目标基础$generator$施加$upgrade-berserk$效果。</string>
         <string lang="jp">ラックの対象標準$generator$に$upgrade-berserk$付与。</string>
         <string lang="ru">Применяет $upgrade-berserk$ к целевому базовому $generator$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade-berserk$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="es">Aplica $upgrade-berserk$ al módulo $generator$ objetivo$br$en este bastidor.</string>
         <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade-berserk$을 부여합니다.</string>
         <string lang="pt-br">Aplica $upgrade-berserk$ ao módulo $generator$ alvo neste rack.</string>
         <string lang="zh-tw">為目標基礎$generator$施加$upgrade-berserk$效果。</string>
@@ -919,7 +919,7 @@
         <string lang="zh">为目标基础$generator$施加$br$$upgrade$及$hazardous$效果。</string>
         <string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$hazardous$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $hazardous$ к целевому базовому $generator$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo $generator$ objetivo$br$en este bastidor.</string>
         <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $hazardous$을 부여합니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $hazardous$ ao módulo $generator$ alvo neste rack.</string>
         <string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$hazardous$效果。</string>
@@ -932,7 +932,7 @@
         <string lang="zh">为目标基础$generator$施加$upgrade$及$pollution$效果。</string>
         <string lang="jp">ラックの対象標準$generator$に$upgrade$と$pollution$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $pollution$ к целевому базовому $generator$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo $generator$ objetivo$br$en este bastidor.</string>
         <string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $pollution$을 부여합니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $pollution$ ao módulo $generator$ alvo neste rack.</string>
         <string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$pollution$效果。</string>
@@ -945,7 +945,7 @@
 		<string lang="zh">为目标基础$generator$施加$br$$upgrade$及$stormattraction$效果。</string>
 		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$stormattraction$付与。</string>
 		<string lang="ru">Применяет $upgrade$ и $stormattraction$ к целевому базовому $generator$ на этом стеллаже.</string>
-		<string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo $generator$ objetivo en este bastidor.</string>
+		<string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo $generator$ objetivo$br$en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $stormattraction$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $upgrade$ e $stormattraction$ ao módulo $generator$ alvo neste rack.</string>
 		<string lang="zh-tw">為目標基礎$generator$施加$br$$upgrade$及$stormattraction$效果。</string>
@@ -958,7 +958,7 @@
 		<string lang="zh">为目标基础$generator$施加$upgrade$及$gravrecoil$效果。</string>
 		<string lang="jp">ラックの対象標準$generator$に$br$$upgrade$と$gravrecoil$付与。</string>
 		<string lang="ru">Применяет $upgrade$ и $gravrecoil$ к целевому базовому $generator$ на этом стеллаже.</string>
-		<string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo $generator$ objetivo en este bastidor.</string>
+		<string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo $generator$ objetivo$br$en este bastidor.</string>
 		<string lang="kr">이 랙의 대상 기본 $generator$에게 $upgrade$과 $gravrecoil$을 부여합니다.</string>
 		<string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ ao módulo $generator$ alvo neste rack.</string>
 		<string lang="zh-tw">為目標基礎$generator$施加$upgrade$及$gravrecoil$效果。</string>
