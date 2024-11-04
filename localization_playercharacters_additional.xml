@@ -13,7 +13,7 @@
 		<string lang="uk">Наносить потужні удари, які розбивають кристальну корку.</string>
 </set>
 <set id="description-playercharacter-ninja">
-		<string lang="de">Schlitzt Monster in einer Reihe mit dem Klingenmodul.</string>
+		<string lang="de">Schlitzt aufgereihte Monster mit dem Klingenmodul.</string>
 		<string lang="en">Slices aligned monsters with the blade module.</string>
 		<string lang="fr">Incise les monstres alignés avec le module de lame.</string>
 		<string lang="zh">利用刀锋模块对排列整齐的敌人造成伤害。</string>
@@ -26,17 +26,17 @@
 		<string lang="uk">Ріже шеренги монстрів модулум-клинком</string>
 </set>
 <set id="description-playercharacter-nomad">
-		<string lang="de">Lässt den Sturm auch die Monster treffen.</string>
-		<string lang="en">Makes the storm strike the monsters as well.</string>
-		<string lang="fr">Cause la tempête à frapper les monstres également.</string>
-		<string lang="zh">使风暴同样攻击怪物。</string>
-		<string lang="jp">敵にも暴風をお見舞い。</string>
-		<string lang="ru">Заставляет бурю поражать также монстров.</string>
-		<string lang="es">Hace que la tormenta también golpee a los monstruos.</string>
-		<string lang="kr">폭풍이 몬스터도 습격하게 합니다.</string>
-		<string lang="pt-br">Faz com que a tempestade atinja os monstros também.</string>
-		<string lang="zh-tw">使風暴同樣攻擊怪物。</string>
-		<string lang="uk">Робить так, що буря вражає також і монстрів.</string>
+		<string lang="de">Platziert Blitzschläge in der Zeitleiste.</string>
+		<string lang="en">Places lightning strikes in the timeline.</string>
+		<string lang="fr">Place des éclairs dans la chronologie.</string>
+		<string lang="zh">在时间轴上放置闪电攻击。</string>
+		<string lang="jp">タイムラインに落雷。</string>
+		<string lang="ru">Размещает молнии во временной шкале.</string>
+		<string lang="es">Coloca rayos en la línea de tiempo.</string>
+		<string lang="kr">타임라인 위에 번개가 내려치게 합니다.</string>
+		<string lang="pt-br">Coloca raios na linha do tempo.</string>
+		<string lang="zh-tw">在時間軸上放置閃電攻擊。</string>
+		<string lang="uk">Розставляє удари блискавки на шкалі часу.</string>
 </set>
 <set id="description-playercharacter-plasmamech">
 		<string lang="de">Verbraucht Plasma für Angriffe und Heilung.</string>
@@ -77,17 +77,30 @@
 		<string lang="uk">Може стати неймовірно швидкою, інвертуючи гравізаряд.</string>
 </set>
 <set id="description-playercharacter-sol">
-		<string lang="de">Platziert Blitzschläge in der Zeitleiste.</string>
-		<string lang="en">Places lightning strikes in the timeline.</string>
-		<string lang="fr">Place des éclairs dans la chronologie.</string>
-		<string lang="zh">在时间轴上放置闪电攻击。</string>
-		<string lang="jp">タイムラインに落雷。</string>
-		<string lang="ru">Размещает молнии во временной шкале.</string>
-		<string lang="es">Coloca rayos en la línea de tiempo.</string>
-		<string lang="kr">타임라인 위에 번개가 내려치게 합니다.</string>
-		<string lang="pt-br">Coloca raios na linha do tempo.</string>
-		<string lang="zh-tw">在時間軸上放置閃電攻擊。</string>
-		<string lang="uk">Розставляє удари блискавки на шкалі часу.</string>
+		<string lang="de">Lädt Auto-Geschütze auf, um Schaden zu verursachen.</string>
+        <string lang="en">Charges auto-turrets to deal damage.</string>
+        <string lang="fr">Charge des tourelles automatiques pour infliger des dégâts.</string>
+        <string lang="zh">充能自动炮塔以造成伤害。</string>
+        <string lang="jp">オートタレットを充電してダメージ。</string>
+        <string lang="ru">Заряжает авто-пушки для нанесения урона.</string>
+        <string lang="es">Carga torretas automáticas para infligir daño.</string>
+        <string lang="kr">자동포탑을 충전해 피해를 입힙니다.</string>
+        <string lang="pt-br">Carrega torres automáticas para causar dano.</string>
+        <string lang="zh-tw">充能自動炮塔以造成傷害。</string>
+        <string lang="uk">Заряджає авто-пушки для нанесення ушкоджень.</string>
+</set>
+<set id="description-playercharacter-timetravelmech">
+        <string lang="de">Bau deinen eigenen Mecha mit dem Hangar im Camp.</string>
+		<string lang="en">Build your own mech with the hangar in camp.</string>
+        <string lang="fr">Construisez votre propre mecha avec le hangar dans le camp.</string>
+        <string lang="zh">在营地的机库中建造自己的机甲。</string>
+        <string lang="jp">キャンプの格納庫で自分だけのメカを組み立てよう。</string>
+        <string lang="ru">Построй свой собственный мех в ангаре в лагере.</string>
+        <string lang="es">Construye tu propio meca con el hangar en el campamento.</string>
+        <string lang="kr">캠프 내의 행거에서 자신만의 메카를 만들어보세요.</string>
+        <string lang="pt-br">Construa seu próprio meca com o hangar no acampamento.</string>
+        <string lang="zh-tw">在營地的機庫中建造自己的機甲。</string>
+        <string lang="uk">Побудуй свій власний мех в ангарі в таборі.</string>
 </set>
 <set id="flavor-playercharacter-alice">
 		<string lang="de">Eine Grav.-Krustologin, die nicht davor zurückschreckt, sich die Hände schmutzig zu machen.</string>
@@ -179,6 +192,19 @@
 		<string lang="pt-br">Uma ex-residente do Jardim Murado, ela deixou sua vida de privilégios para restaurar o fluxo do tempo.</string>
 		<string lang="zh-tw">曾居住於圍牆內的伊甸園。$br$為了將時間流撥亂反正，$br$毅然將優渥的生活拋在腦後。</string>
 		<string lang="uk">Колишня мешканка Огородженого саду, залишила своє привілейоване життя, щоб відновити плин часу.</string>
+</set>
+<set id="flavor-playercharacter-timetravelmech">
+        <string lang="de">Unsere letzte Hoffnung, unsere Freunde aus diesem kollabierenden Zeitstrang zu evakuieren.</string>
+		<string lang="en">Our last hope to evacuate our friends from this collapsing timeline.</string>
+        <string lang="fr">Notre dernier espoir d'évacuer nos amis de cette chronologie en effondrement.</string>
+        <string lang="zh">我们最后的希望，是从这个崩溃的时间线中撤离我们的朋友。</string>
+        <string lang="jp">この崩壊する時間軸から友達を避難させるための最後の希望。</string>
+        <string lang="ru">Наша последняя надежда на эвакуацию наших друзей из этой коллапсирующей временной линии.</string>
+        <string lang="es">Nuestra última esperanza para evacuar a nuestros amigos de esta línea temporal colapsante.</string>
+        <string lang="kr">이 붕괴하는 시간축에서 우리의 친구들을 대피시키기 위한 마지막 희망입니다.</string>
+        <string lang="pt-br">Nossa última esperança de evacuar nossos amigos desta linha do tempo em colapso.</string>
+        <string lang="zh-tw">我們最後的希望，是從這個崩潰的時間線中疏散我們的朋友。</string>
+        <string lang="uk">Наша остання надія на евакуацію наших друзів з цієї колапсуючої часової лінії.</string>
 </set>
 <set id="name-playercharacter-alice">
 		<string lang="de">Alice</string>
@@ -362,6 +388,32 @@
 		<string lang="zh-tw">梭爾</string>
 		<string lang="uk">Сол</string>
 </set>
+<set id="name-playercharacter-timetravelmech">
+		<string lang="de">Zeitreise-Mech</string>
+		<string lang="en">Time Travel Mech</string>
+        <string lang="fr">Mecha de Voyage Temporel</string>
+        <string lang="zh">时空穿梭机甲</string>
+        <string lang="jp">タイムトラベルメカ</string>
+        <string lang="ru">Мех путешествие во времени</string>
+        <string lang="es">Mecha de Viaje Temporal</string>
+        <string lang="kr">시간여행 메카</string>
+        <string lang="pt-br">Mecha de Viagem Temporal</string>
+        <string lang="zh-tw">時空穿梭機甲</string>
+        <string lang="uk">Мех подорожей у часі</string>
+</set>
+<set id="name-playercharacter-timetravelmech-twolines">
+		<string lang="de">Zeitreise-Mech</string>
+		<string lang="en">Time Travel Mech</string>
+        <string lang="fr">Mecha de$br$Voyage Temporel</string>
+        <string lang="zh">时空穿梭机甲</string>
+        <string lang="jp">タイムトラベルメカ</string>
+        <string lang="ru">Мех путешествие во времени</string>
+        <string lang="es">Mecha de Viaje Temporal</string>
+        <string lang="kr">시간여행$br$메카</string>
+        <string lang="pt-br">Mecha de Viagem Temporal</string>
+        <string lang="zh-tw">時空穿梭機甲</string>
+        <string lang="uk">Мех подорожей у часі</string>
+</set>
 <set id="quote-playercharacter-alice">
 		<string lang="de">“Welch interessante Oszillation in dieser Allotropie!”</string>
 		<string lang="en">“What an interesting oscillation in this allotropy!”</string>
@@ -402,7 +454,7 @@
 		<string lang="uk">«Я дізнаюся, що трапилося, і хтось за це заплатить!»</string>
 </set>
 <set id="quote-playercharacter-nomad">
-		<string lang="de">“Psst! Folge mir.”</string>
+		<string lang="de">Still jetzt! Folge mir.”</string>
 		<string lang="en">“Hush now! Follow me.”</string>
 		<string lang="fr">“Chut ! Suis-moi.”</string>
 		<string lang="zh">“嘘！跟着我走。”</string>
@@ -465,6 +517,19 @@
 		<string lang="pt-br">“Temos que acabar com essa injustiça temporal.”</string>
 		<string lang="zh-tw">“這世間的不仁不義，就由我們來親手終結。”</string>
 		<string lang="uk">«Ми повинні покласти край цій темпоральній несправедливості.»</string>
+</set>
+<set id="quote-playercharacter-timetravelmech">
+        <string lang="de">“10173 parallele Zeitstränge gefunden. Chance für Evakuierung: 1%”</string>
+		<string lang="en">“10173 parallel timelines found. Chance of evacuation: 1%”</string>
+        <string lang="fr">“10173 chronologies parallèles trouvées. Chance d'évacuation : 1%”</string>
+        <string lang="zh">“找到10173个平行时间线。撤离机会：1%”</string>
+        <string lang="jp">10173本の平行時間軸を発見。避難確率：1%</string>
+        <string lang="ru">“Найдено 10173 параллельных временных линий. Шанс эвакуации: 1%”</string>
+        <string lang="es">“Líneas temporales paralelas: 10173. Probabilidad de evacuación: 1%”</string>
+        <string lang="kr">10173개의 평행 시간축 발견. 대피 확률: 1%</string>
+        <string lang="pt-br">“10173 linhas do tempo paralelas encontradas. Chance de evacuação: 1%”</string>
+        <string lang="zh-tw">“找到10173個平行時間線。撤離機會：1%”</string>
+        <string lang="uk">«Знайдено 10173 паралельних часових ліній. Шанс евакуації: 1%»</string>
 </set>
 <set id="shortname-playercharacter-alice" remarks="Feel free to give her a localized name">
 		<string lang="de">Alice</string>
@@ -543,5 +608,18 @@
 		<string lang="pt-br">Sol</string>
 		<string lang="zh-tw">梭爾</string>
 		<string lang="uk">Сол</string>
+</set>
+<set id="shortname-playercharacter-timetravelmech">
+		<string lang="de">Mech</string>
+		<string lang="en">Mech</string>
+		<string lang="fr">Mecha</string>
+		<string lang="zh">机甲</string>
+		<string lang="jp">メカ</string>
+		<string lang="ru">Мех</string>
+		<string lang="es">Mecha</string>
+		<string lang="kr">기계</string>
+		<string lang="pt-br">Mecha</string>
+		<string lang="zh-tw">機甲</string>
+		<string lang="uk">Мех</string>
 </set>
 </localization>
