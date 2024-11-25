@@ -363,6 +363,19 @@
 		<string lang="zh-tw">啟動時$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
+<set id="description-module-generatorsingularity">
+	<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht alle anderen $generator$-Module auf diesem Rack mit $cooldown$.</string>
+	<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $cooldown$ to all other $generator$ modules on this rack.</string>
+	<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $cooldown$ à tous les autres modules $generator$ sur ce rack.</string>
+	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上所有其他$generator$模块施加$cooldown$。</string>
+	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他の$generator$モジュール全てに$cooldown$付与。</string>
+	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$br$Применяет $cooldown$ ко всем другим модулям $generator$ на этой стойке.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $cooldown$ a todos los demás módulos $generator$ en este bastidor.</string>
+	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 모든 $generator$ 모듈에 $cooldown$을 부여합니다.</string>
+	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $cooldown$ a todos os outros módulos $generator$ neste rack.</string>
+	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上所有其他$generator$模組施加$cooldown$。</string>
+	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $cooldown$ до всіх інших модулів $generator$ на цій стійці.</string>
+</set>
 <set id="description-module-generatorstorm">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
@@ -1409,9 +1422,21 @@
 		<string lang="es">Generador Peligroso</string>
 		<string lang="kr">유해성 발전기</string>
 		<string lang="pt-br">Gerador Perigoso</string>
-		<string lang="zh-tw">危害發生器
-</string>
+		<string lang="zh-tw">危害發生器</string>
 		<string lang="uk">Небезпечний генератор</string>
+</set>
+<set id="name-module-generatorsingularity">
+	<string lang="de">Singularitäts-Generator</string>
+	<string lang="en">Singularity Generator</string>
+	<string lang="fr">Générateur de Singularité</string>
+	<string lang="zh">奇点发生器</string>
+	<string lang="jp">特異点発電機</string>
+	<string lang="ru">Генератор Сингулярности</string>
+	<string lang="es">Generador de Singularidad</string>
+	<string lang="kr">특이점 발전기</string>
+	<string lang="pt-br">Gerador de Singularidade</string>
+	<string lang="zh-tw">奇點發生器</string>
+	<string lang="uk">Генератор сингулярності</string>
 </set>
 <set id="name-module-lightningrod">
 		<string lang="de">Blitzableiter $MODIFICATIONVALUE$</string>
