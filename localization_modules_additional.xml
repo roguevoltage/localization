@@ -352,8 +352,8 @@
 </set>
 <set id="description-module-generatorplasma">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
-		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.</string>
 		<string lang="zh">激活时$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
@@ -378,8 +378,8 @@
 </set>
 <set id="description-module-generatorstorm">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
-		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.</string>
 		<string lang="zh">激活时$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
@@ -391,8 +391,8 @@
 </set>
 <set id="description-module-generatorvulnerability">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.</string>
-		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.</string>
 		<string lang="zh">激活时$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
 		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
@@ -1357,18 +1357,17 @@
 	<string lang="uk">Фабрика Автотурелей $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-generatorbomb">
-		<string lang="de">Explosiver Generator</string>
-		<string lang="en">Explosive Generator</string>
-		<string lang="fr">Générateur Explosif</string>
-		<string lang="zh">爆炸发电机</string>
-		<string lang="jp">爆発発電機</string>
-		<string lang="ru">Взрывной Генератор</string>
-		<string lang="es">Generador Explosivo</string>
-		<string lang="kr">폭발 발전기</string>
-		<string lang="pt-br">Gerador Explosivo</string>
-		<string lang="zh-tw">爆炸發電機
-</string>
-		<string lang="uk">Вибуховий генератор</string>
+	<string lang="de">Explosiver Generator</string>
+	<string lang="en">Explosive Generator</string>
+	<string lang="fr">Générateur Explosif</string>
+	<string lang="zh">爆炸发电机</string>
+	<string lang="jp">爆発発電機</string>
+	<string lang="ru">Взрывной Генератор</string>
+	<string lang="es">Generador Explosivo</string>
+	<string lang="kr">폭발 발전기</string>
+	<string lang="pt-br">Gerador Explosivo</string>
+	<string lang="zh-tw">爆炸發電機</string>
+	<string lang="uk">Вибуховий генератор</string>
 </set>
 <set id="name-module-generatorfire">
 		<string lang="de">Pyro-Generator</string>
@@ -1380,8 +1379,7 @@
 		<string lang="es">Generador Pyro</string>
 		<string lang="kr">화염 발전기</string>
 		<string lang="pt-br">Gerador Pyro</string>
-		<string lang="zh-tw">火焰發生器
-</string>
+		<string lang="zh-tw">火焰發生器</string>
 		<string lang="uk">Пірогенератор</string>
 </set>
 <set id="name-module-generatorplasma">
@@ -1394,8 +1392,7 @@
 		<string lang="es">Generador de Combustión de Plasma</string>
 		<string lang="kr">플라즈마 연소 발전기</string>
 		<string lang="pt-br">Gerador de Combustão de Plasma</string>
-		<string lang="zh-tw">等離子燃燒發生器
-</string>
+		<string lang="zh-tw">等離子燃燒發生器</string>
 		<string lang="uk">Генератор плазмового згоряння</string>
 </set>
 <set id="name-module-generatorstorm">
