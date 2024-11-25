@@ -405,7 +405,7 @@
 </string>
 		<string lang="uk">З цього гнізда брати не можна</string>
 </set>
-<set id="error-socket-dropforbidden">
+<set id="error-socket-doesnotacceptmodules">
 		<string lang="de">Sockel akzeptiert keine Module</string>
 		<string lang="en">Socket does not accept modules</string>
 		<string lang="fr">Socket ne prend pas de modules</string>
@@ -419,19 +419,18 @@
 </string>
 		<string lang="uk">Гніздо не приймає модулі</string>
 </set>
-<set id="error-socket-wrongmoduletype">
-		<string lang="de">Sockel akzeptiert keine Module von diesem Typ.</string>
-		<string lang="en">Socket does not accept modules of this type.</string>
-		<string lang="fr">Socket ne prend pas de module de ce type.</string>
-		<string lang="zh">插槽与此类型模块不兼容</string>
-		<string lang="jp">このタイプのモジュールにソケットが合わない</string>
-		<string lang="ru">Сокет не принимает модули этого типа.</string>
-		<string lang="es">El socket no acepta módulos de este tipo.</string>
-		<string lang="kr">이 유형의 모듈에 맞지 않는 소켓입니다.</string>
-		<string lang="pt-br">O socket não aceita módulos deste tipo.</string>
-		<string lang="zh-tw">插槽與此類型模組不相容
-</string>
-		<string lang="uk">Гніздо не приймає модулі цього типу.</string>
+<set id="error-socket-doesnotacceptthismodule">
+	<string lang="de">Sockel akzeptiert dieses Modul nicht</string>
+	<string lang="en">Socket does not accept this module</string>
+	<string lang="fr">Socket ne prend pas ce module</string>
+	<string lang="zh">插槽不接受此模块</string>
+	<string lang="jp">このモジュールはソケットに合わない</string>
+	<string lang="ru">Сокет не принимает этот модуль</string>
+	<string lang="es">El socket no acepta este módulo</string>
+	<string lang="kr">이 모듈은 소켓에 맞지 않습니다.</string>
+	<string lang="pt-br">O socket não aceita este módulo</string>
+	<string lang="zh-tw">插槽不接受此模組</string>
+	<string lang="uk">Гніздо не приймає цей модуль</string>
 </set>
 <set id="error-wiringliverack">
 		<string lang="de">Während Feuersequenz kann nicht verkabelt werden</string>
