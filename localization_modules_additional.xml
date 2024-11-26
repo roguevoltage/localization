@@ -780,7 +780,7 @@
 </string>
 		<string lang="uk">Копіює інший вказаний не-$cracked$ модуль на цій стійці.$p$Новий модуль буде $cracked$ і $unstable$.</string>
 </set>
-<set id="description-module-toggledechochamber">
+<set id="description-module-toggledreplicator">
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
 		<string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
 		<string lang="fr">Applique $replicating$ et $unstable$ à un autre module ciblé sur ce rack avec $cracked$.</string>
@@ -1802,19 +1802,6 @@
 		<string lang="uk">Модульний дублікатор</string>
 </set>
 <set id="name-module-toggledduplicator-eob">
-		<string lang="de">Instabiler Modul-Duplikator</string>
-		<string lang="en">Unstable Module Duplicator</string>
-		<string lang="fr">Duplicateur de Module Instable</string>
-		<string lang="zh">不稳定模块复制器</string>
-		<string lang="jp">不安定モジュール複製機</string>
-		<string lang="ru">Нестабильный Модульный Дубликатор</string>
-		<string lang="es">Duplicador de Módulos Inestable</string>
-		<string lang="kr">불안정 모듈 복제기</string>
-		<string lang="pt-br">Duplicador de Módulos Instável</string>
-		<string lang="zh-tw">不穩定模組複製器</string>
-		<string lang="uk">Нестабільний модульний дублікатор</string>
-</set>
-<set id="name-module-toggledechochamber">
 		<string lang="de">Echo-Kammer</string>
 		<string lang="en">Echo Chamber</string>
 		<string lang="fr">Chambre d'Écho</string>
@@ -1826,6 +1813,19 @@
 		<string lang="pt-br">Câmara de Eco</string>
 		<string lang="zh-tw">迴響室</string>
 		<string lang="uk">Ехо-Камера</string>
+</set>
+<set id="name-module-toggledreplicator">
+		<string lang="de">Replicateur</string>
+		<string lang="en">Replicator</string>
+        <string lang="fr">Réplicateur</string>
+        <string lang="zh">复制器</string>
+        <string lang="jp">複製機</string>
+        <string lang="ru">Репликатор</string>
+        <string lang="es">Replicador</string>
+        <string lang="kr">복제기</string>
+        <string lang="pt-br">Replicador</string>
+        <string lang="zh-tw">複製器</string>
+        <string lang="uk">Реплікатор</string>
 </set>
 <set id="name-module-toggledgravinverter">
 		<string lang="de">Grav.-Inverter</string>
