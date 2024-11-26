@@ -350,6 +350,19 @@
 		<string lang="zh-tw">啟動時$b$$GENERATIONVALUE$$/b$$energy$。$br$為同模架上所有其他模組施加$fire$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Накладає на всі інші модулі на цій стійці $fire$.</string>
 </set>
+<set id="description-module-generatoroutoforder">
+        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.$p$Applies $outoforder$ to another target module on this rack.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $outoforder$ à un autre module ciblé sur ce rack.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$outoforder$。</string>
+        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$outoforder$付与。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $outoforder$ к другому целевому модулю на этой стойке.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $outoforder$ a otro módulo objetivo en este bastidor.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $outoforder$를 적용합니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $outoforder$ a outro módulo alvo neste rack.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$outoforder$。</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
+</set>
 <set id="description-module-generatorplasma">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
@@ -1381,6 +1394,19 @@
 		<string lang="pt-br">Gerador Pyro</string>
 		<string lang="zh-tw">火焰發生器</string>
 		<string lang="uk">Пірогенератор</string>
+</set>
+<set id="name-module-generatoroutoforder">
+		<string lang="de">Fehlfunktions-Generator</string>
+		<string lang="en">Malfunction Generator</string>
+		<string lang="fr">Générateur de Défaillance</string>
+        <string lang="zh">故障发生器</string>
+        <string lang="jp">不調発電機</string>
+        <string lang="ru">Генератор Поломки</string>
+        <string lang="es">Generador de Malfunción</string>
+        <string lang="kr">오작동 발전기</string>
+        <string lang="pt-br">Gerador de Malfuncionamento</string>
+        <string lang="zh-tw">故障發生器</string>
+        <string lang="uk">Генератор Несправності</string>
 </set>
 <set id="name-module-generatorplasma">
 		<string lang="de">Plasmaverbrennender Generator</string>
