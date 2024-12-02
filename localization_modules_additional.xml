@@ -559,17 +559,17 @@
 		<string lang="uk">Якщо модуль на цій стійці має отримати $outoforder$, цей модуль отримує $outoforder$ замість нього.</string>
 </set>
 <set id="description-module-passivecooldownredirector">
-        <string lang="de">Wenn ein Modul unterschiedlichen Typs auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem Modul unterschiedlichen Typs deiner Wahl auf diesem Rack.</string>
-		<string lang="en">Whenever a module of a different type on this rack should receive $cooldown$, change the target to another module of a different type on this rack instead.</string>
-        <string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module d'un type différent sur ce rack à la place.</string>
-        <string lang="zh">此模架上的模块$cooldown$时，改为由另一目标模块代替其进入$cooldown$。</string>
-		<string lang="jp">ラックのモジュールに$cooldown$付与されるなら、$br$代わりに別の対象モジュールに$cooldown$付与。</string>
-        <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль другого типа на этой стойке вместо него.</string>
-        <string lang="es">Si un módulo de un tipo diferente en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo de un tipo diferente en este bastidor en su lugar.</string>
-		<string lang="kr">이 랙의 모듈에게 $cooldown$ 상태가 부여될 경우, 이 랙의 다른 대상 모듈이 대신 $cooldown$ 상태가 됩니다.</string>
-        <string lang="pt-br">Sempre que um módulo de um tipo diferente neste rack deveria receber $cooldown$, mude o alvo para outro módulo de um tipo diferente neste rack em vez disso.</string>
-		<string lang="zh-tw">此模架上的模組$cooldown$時，改為由另一目標模組代替其進入$cooldown$。</string>
-		<string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, інший вказаний модуль на цій стійці отримує $cooldown$ замість нього.</string>
+        <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
+		<string lang="en">Whenever a module on this rack should receive $cooldown$, change the target to another module on this rack instead.</string>
+        <string lang="fr">Si un module d'un type sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.</string>
+        <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。</string>
+        <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $cooldown$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $cooldown$ 상태가 됩니다.</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $cooldown$, mude o alvo para outro módulo neste rack em vez disso.</string>
+        <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.</string>
 </set>
 <set id="description-module-passivestorageinductor">
 		<string lang="de">Lädt zu Beginn des Zuges des Charakters ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
