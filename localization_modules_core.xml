@@ -496,17 +496,17 @@
 		<string lang="uk">Генерує $b$$GENERATIONVALUE$$/b$ $energy$ на обох вихідних розʼємах під час активації.</string>
 </set>
 <set id="description-module-generatoroverload">
-		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$, aber versieht das nächste Modul mit $cooldown$.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation but will inflict the next module with $cooldown$.</string>
-		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ mais inflige $cooldown$ au prochain module.</string>
-		<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$但会使下个模块进入$cooldown$.</string>
-		<string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電し、次のモジュールに$cooldown$付与。</string>
-		<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации, но вызовет у следующего модуля $cooldown$.</string>
-		<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación, pero infligirá $cooldown$ al siguiente módulo.</string>
-		<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성하지만, 다음 모듈을 $cooldown$ 상태로 만듭니다.</string>
-		<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação, mas irá infligir o próximo módulo com $cooldown$.</string>
-		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$但會使下個模組進入$cooldown$.</string>
-		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації, але викличе у підʼєднаного модуля $cooldown$.</string>
+		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht das angeschlossene Modul mit $overload$ bis zum Ende des Zuges.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.$p$Inflicts the module wired to it with $overload$ until end of turn.</string>
+		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige le module câblé avec $overload$ jusqu'à la fin du tour.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为连接的模块施加$overload$直到回合结束。</string>
+        <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。$p$接続されたモジュールに$overload$を付与し、ターン終了まで。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает на модуль, проведенный к нему, $overload$ до конца хода.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige al módulo conectado con $overload$ hasta el final del turno.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$연결된 모듈에 $overload$를 부여하여 턴 종료까지 지속됩니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige o módulo conectado com $overload$ até o final do turno.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為連接的模組施加$overload$直到回合結束。</string>
+        <string lang="uk">Генерує $b$$GENERATIONVALUE$$/b$ $energy$ під час активації.$p$Накладає на модуль, підключений до нього, $overload$ до кінця ходу.</string>
 </set>
 <set id="description-module-magnetgravpos">
 		<string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
