@@ -861,17 +861,17 @@
 		<string lang="uk">Видаляє всю $might$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledmaxcapacityenhancer">
-		<string lang="de">Erhöht die max. Kapazität eines $storagemodule$s ohne $cracked$ deiner Wahl um $1$ und lädt es um $1energy$.</string>
-		<string lang="en">Increases the max. capacity of target non-$cracked$ $storagemodule$ by $1$ and charges it with $1energy$.</string>
-		<string lang="fr">Augmente la capacité max. d'un $storagemodule$ sans $cracked$ ciblé par $1$ et le charge avec $1energy$.</string>
-		<string lang="zh">令选中的一个非$cracked$$storagemodule$$br$的最大储量提升$1$，$br$并为其输入$1$能量。</string>
-		<string lang="jp">$cracked$付与されていない$br$対象の$storagemodule$の$br$最大容量を$1$増やし、$1$充電。</string>
-		<string lang="ru">Увеличивает максимальную емкость целевого $storagemodule$ без $cracked$ на $1$ и заряжает его на $1energy$.</string>
-		<string lang="es">Aumenta la capacidad máx. de un $storagemodule$ sin $cracked$ objetivo en $1$ y lo carga con $1energy$.</string>
-		<string lang="kr">$storagemodule$ 하나의 최대 용량을 $1$ 증가시키고, $1$ 충전합니다.</string>
-		<string lang="pt-br">Aumenta a capacidade máx. de um $storagemodule$ sem $cracked$ alvo em $1$ e o carrega com $1energy$.</string>
-		<string lang="zh-tw">令選中的一個非$cracked$$storagemodule$的最大儲量提升$1$，並為其輸入$1$能量。</string>
-		<string lang="uk">Вказаний не-$cracked$ $storagemodule$ збільшує свою максимальну ємність на $1$ і заряджається на $1$ одиницю $b$Енергії$/b$.</string>
+		<string lang="de">Erhöht die max. Kapazität eines $storagemodule$s deiner Wahl um $1$ und lädt es um $1energy$.</string>
+		<string lang="en">Increases the max. capacity of target $storagemodule$ on this rack by $1$ and charges it with$br$$1energy$.</string>
+		<string lang="fr">Augmente la capacité max. d'un $storagemodule$ ciblé par $1$ et le charge avec $1energy$.</string>
+		<string lang="zh">增加此模架上目标$storagemodule$的最大容量$1$，并为其充电$1energy$。</string>
+        <string lang="jp">このラックの対象$storagemodule$の最大容量を$1$増やし、$1energy$で充電。</string>
+        <string lang="ru">Увеличивает максимальную емкость целевого $storagemodule$ на этой стойке на $1$ и заряжает его на $1energy$.</string>
+		<string lang="es">Aumenta la capacidad máx. de un $storagemodule$ objetivo en $1$ y lo carga con $1energy$.</string>
+		<string lang="pt-br">Aumenta a capacidade máx. de um $storagemodule$ alvo em $1$ e o carrega com $1energy$.</string>
+        <string lang="kr">이 랙의 대상 $storagemodule$의 최대 용량을 $1$ 증가시키고 $1energy$로 충전합니다.</string>
+        <string lang="zh-tw">增加此模架上目標$storagemodule$的最大容量$1$，並為其充電$1energy$。</string>
+        <string lang="uk">Збільшує максимальну ємність вказаного $storagemodule$ на цій стійці на $1$ і заряджає його на $1energy$.</string>
 </set>
 <set id="description-module-toggledrepairkit">
 		<string lang="de">Entfernt $outoforder$ von einem Modul deiner Wahl auf diesem Rack.</string>
