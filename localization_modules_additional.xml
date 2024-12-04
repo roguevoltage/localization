@@ -26,17 +26,17 @@
 		<string lang="uk">Отримує $turbo$ $br$щоразу, коли отримує $energyicon$$b$Енергію$/b$.</string>
 </set>
 <set id="description-module-collectorcollector">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $sensor$ anderen Typs geladen wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $sensor$ of a different type is charged.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $sensor$ d'un type différent est chargé.</string>
-		<string lang="zh">每有一个不同类别的$sensor$被触发时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">異なるタイプの$br$$sensor$が起動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $sensor$ другого типа заряжается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se carga un $sensor$ de un tipo diferente.</string>
-		<string lang="kr">다른 $sensor$가 발동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $sensor$ de um tipo diferente é carregado.</string>
-		<string lang="zh-tw">每有一個不同類別的$sensor$被觸發時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $sensor$ іншого типу заряджається.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $sensor$ anderen Typs das erste Mal in einem Zug ausgelöst wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $sensor$ of a different type is triggered for the first time each turn.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $sensor$ d'un type différent est déclenché pour la première fois à chaque tour.</string>
+        <string lang="zh">每当一个不同类型的$sensor$在一个回合中首次触发时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">別の$sensor$が発動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $sensor$ другого типа активируется впервые в ход.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un $sensor$ de un tipo diferente es activado por primera vez en un turno.</string>
+        <string lang="kr">다른 유형의 $sensor$가 한 턴에 처음으로 작동될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $sensor$ de um tipo diferente é ativado pela primeira vez em um turno.</string>
+        <string lang="zh-tw">每當一個不同類型的$sensor$在一個回合中首次觸發時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $sensor$ іншого типу активується вперше в хід.</string>
 </set>
 <set id="description-module-collectorcrust">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
