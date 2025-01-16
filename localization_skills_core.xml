@@ -236,7 +236,7 @@
 </string>
 		<string lang="uk">Накладає $grav+3$ на іншого учасника бою</string>
 </set>
-<set id="description-skill-gravspore-positive">
+<set id="description-skill-gravcloud-positive">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+1$ zu</string>
 		<string lang="en">Inflicts all other combatants$br$with $grav+1$</string>
 		<string lang="fr">Inflige $grav+1$ à tous les autres combattants.</string>
@@ -250,46 +250,61 @@
 </string>
 		<string lang="uk">Накладає $grav+1$ на всіх інших учасників бою</string>
 </set>
-<set id="description-skill-gravspore-positive-2">
-		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav+2$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les autres combattants.</string>
-		<string lang="zh">对所有其他参战单位施放$grav+2$。</string>
-		<string lang="jp">他の敵味方全体に$grav+2$付与。</string>
-		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам</string>
-		<string lang="es">Inflige a todos los otros combatientes con $grav+2$</string>
-		<string lang="kr">다른 모든 전투원에게 $grav+2$를 부여합니다.</string>
-		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$</string>
-		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$。
+<set id="description-skill-gravspore-positive">
+		<string lang="de">Fügt allen Gegnern $grav+1$ zu</string>
+		<string lang="en">Inflicts all enemies with $grav+1$</string>
+		<string lang="fr">Inflige $grav+1$ à tous les ennemis.</string>
+        <string lang="zh">对所有敌人施放$grav+1$。</string>
+        <string lang="jp">敵全体に$grav+1$付与。</string>
+        <string lang="ru">Применяет $grav+1$ ко всем врагам</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+1$</string>
+        <string lang="kr">모든 적에게 $grav+1$를 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+1$</string>
+        <string lang="zh-tw">對所有敵人施放$grav+1$。
 </string>
-		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою</string>
+        <string lang="uk">Накладає $grav+1$ на всіх ворогів</string>
+</set>
+<set id="description-skill-gravspore-positive-2">
+		<string lang="de">Fügt allen Gegnern $grav+2$ zu</string>
+		<string lang="en">Inflicts all enemies with $grav+2$</string>
+		<string lang="fr">Inflige $grav+2$ à tous les ennemis.</string>
+        <string lang="zh">对所有敌人施放$grav+2$。</string>
+        <string lang="jp">敵全体に$grav+2$付与。</string>
+        <string lang="ru">Применяет $grav+2$ ко всем врагам</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+2$</string>
+        <string lang="kr">모든 적에게 $grav+2$를 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+2$</string>
+        <string lang="zh-tw">對所有敵人施放$grav+2$。
+</string>
+        <string lang="uk">Накладає $grav+2$ на всіх ворогів</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom">
-		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-1$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav+2$ and itself with $grav-1$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-1$ à soi-même.</string>
-		<string lang="zh">对所有其他参战单位施放$grav+2$，并对自己施放$grav-1$。</string>
-		<string lang="jp">他の敵味方全体に$grav+2$、$br$自身に$grav-1$付与。</string>
-		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам и $grav-1$ на себя</string>
-		<string lang="es">Inflige a todos los otros combatientes con $grav+2$ y a sí mismo con $grav-1$</string>
-		<string lang="kr">다른 모든 전투원에게 $grav+2$를 부여하고 스스로에게 $grav-1$를 부여합니다.</string>
-		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-1$</string>
-		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$，並對自己施放$grav-1$。
+		<string lang="de">Fügt allen Gegnern $grav+2$ und sich selbst $grav-1$ zu</string>
+		<string lang="en">Inflicts all enemies with $grav+2$ and itself with $grav-1$</string>
+		<string lang="fr">Inflige $grav+2$ à tous les ennemis et $grav-1$ à soi-même.</string>
+		<string lang="zh">对所有敌人施放$grav+2$，并对自己施放$grav-1$。</string>
+        <string lang="jp">敵全体に$grav+2$、自身に$grav-1$付与。</string>
+        <string lang="ru">Применяет $grav+2$ ко всем врагам и $grav-1$ на себя</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+2$ y a sí mismo con $grav-1$</string>
+        <string lang="kr">모든 적에게 $grav+2$를 부여하고 스스로에게 $grav-1$를 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+2$ e a si mesmo com $grav-1$</string>
+        <string lang="zh-tw">對所有敵人施放$grav+2$，並對自己施放$grav-1$。
 </string>
-		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою, а на себе $grav-1$</string>
+        <string lang="uk">Накладає $grav+2$ на всіх ворогів і $grav-1$ на себе</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-stage2">
-		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-2$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav+2$ and itself with $grav-2$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-2$ à soi-même.</string>
-		<string lang="zh">对所有其他参战单位施放$grav+2$，并对自己施放$grav-2$。</string>
-		<string lang="jp">他の敵味方全体に$grav+2$、自身に$grav-2$付与。</string>
-		<string lang="ru">Применяет $grav+2$ ко всем остальным бойцам и $grav-2$ на себя</string>
-		<string lang="es">Inflige a todos los otros combatientes con $grav+2$ y a sí mismo con $grav-2$</string>
-		<string lang="kr">다른 모든 전투원에게 $grav+2$를 부여하고 스스로에게 $grav-2$를 부여합니다.</string>
-		<string lang="pt-br">Inflige a todos os outros combatentes com $grav+2$ e a si mesmo com $grav-2$</string>
-		<string lang="zh-tw">對所有其他參戰單位施放$grav+2$，並對自己施放$grav-2$。</string>
-		<string lang="uk">Накладає $grav+2$ на всіх інших учасників бою, а на себе $grav-2$</string>
+		<string lang="de">Fügt allen Gegnern $grav+2$ und sich selbst $grav-2$ zu</string>
+		<string lang="en">Inflicts all enemies with $grav+2$ and itself with $grav-2$</string>
+		<string lang="fr">Inflige $grav+2$ à tous les ennemis et $grav-2$ à soi-même.</string>
+		<string lang="zh">对所有敌人施放$grav+2$，并对自己施放$grav-2$。</string>
+        <string lang="jp">敵全体に$grav+2$、自身に$grav-2$付与。</string>
+        <string lang="ru">Применяет $grav+2$ ко всем врагам и $grav-2$ на себя</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+2$ y a sí mismo con $grav-2$</string>
+        <string lang="kr">모든 적에게 $grav+2$를 부여하고 스스로에게 $grav-2$를 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+2$ e a si mesmo com $grav-2$</string>
+        <string lang="zh-tw">對所有敵人施放$grav+2$，並對自己施放$grav-2$。
+</string>
+        <string lang="uk">Накладає $grav+2$ на всіх ворогів і $grav-2$ на себе</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-tutorial">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-3$ zu</string>
@@ -989,6 +1004,20 @@
 		<string lang="zh-tw">引力排斥$grav+3$
 </string>
 		<string lang="uk">Гравіпоштовх $grav+3$</string>
+</set>
+<set id="name-skill-gravcloud-positive">
+		<string lang="de">Grav.-Wolke $grav+1$</string>
+		<string lang="en">Grav. Cloud $grav+1$</string>
+		<string lang="fr">Nuage Grav. $grav+1$</string>
+        <string lang="zh">引力云$grav+1$</string>
+        <string lang="jp">重力雲$grav+1$</string>
+        <string lang="ru">Грав. Облако $grav+1$</string>
+        <string lang="es">Nube Grav. $grav+1$</string>
+        <string lang="kr">중력 구름 $grav+1$</string>
+        <string lang="pt-br">Nuvem Grav. $grav+1$</string>
+        <string lang="zh-tw">引力雲$grav+1$
+</string>
+        <string lang="uk">Гравіхмара $grav+1$</string>
 </set>
 <set id="name-skill-gravspore-positive">
 		<string lang="de">Grav.-Sporen $grav+1$</string>
