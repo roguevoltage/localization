@@ -102,6 +102,19 @@
 		<string lang="zh-tw">每當$damage$被$shield$抵擋，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $shield$ зменшує $damage$.</string>
 </set>
+<set id="description-module-collectorstorageovercharge">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ über seine Kapazität hinaus geladen wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged beyond its capacity.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé au-delà de sa capacité.</string>
+		<string lang="zh">每当$storagemodule$超载，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">$storagemodule$が容量を超えて充電されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается сверх своей емкости.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un $storagemodule$ es cargado más allá de su capacidad.</string>
+        <string lang="kr">$storagemodule$이 용량을 초과하여 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $storagemodule$ é carregado além de sua capacidade.</string>
+        <string lang="zh-tw">每當$storagemodule$超載，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $storagemodule$ заряджається понад його ємність.</string>
+</set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
 	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
@@ -1134,6 +1147,19 @@
 		<string lang="pt-br">Sensor de Escudo $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">護盾感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор щиту $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectorstorageovercharge">
+		<string lang="de">Überladungs-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Overcharge Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur de Surcharge $MODIFICATIONVALUE$</string>
+        <string lang="zh">过载传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">過充電センサー$MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Перегрузки $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Sobrecarga $MODIFICATIONVALUE$</string>
+        <string lang="kr">과충전 감지기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Sobrecarga $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">過載感測器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Сенсор Перевантаження $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
         <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
