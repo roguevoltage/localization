@@ -728,17 +728,17 @@
 	<string lang="uk">На початку ходу власника заряджається на $b$$SENSORVALUE$$/b$ $energy$, якщо на тому ж часовому кроці, що і власник, знаходиться інший боєць.</string>
 </set>
 <set id="description-module-storagecellsensordissipation">
-	<string lang="de">Wird um $1energy$ geladen, jedes Mal wenn $energy$ von einem $sensor$-Modul verfliegt.</string>
-	<string lang="en">Is charged with $1energy$ whenever $energy$ dissipates from a $sensor$ module.</string>
-	<string lang="fr">Est chargé de $1energy$ chaque fois que $energy$ se dissipe d'un module $sensor$.</string>
-	<string lang="zh">每次$energy$从$sensor$模块消散时，$br$为其充电$1energy$。</string>
-	<string lang="jp">$sensor$モジュールから$energy$が消散するたびに、$br$$1energy$で充電。</string>
-	<string lang="ru">Заряжается на $1energy$ каждый раз, когда $energy$ исчезает из модуля $sensor$.</string>
-	<string lang="es">Se carga con $1energy$ cada vez que $energy$ se disipa de un módulo $sensor$.</string>
-	<string lang="kr">$sensor$ 모듈에서 $energy$가 사라질 때마다 $br$ $1energy$로 충전됩니다.</string>
-	<string lang="pt-br">É carregado com $1energy$ sempre que $energy$ se dissipa de um módulo $sensor$.</string>
-	<string lang="zh-tw">每次$energy$從$sensor$模組消散時，$br$為其充電$1energy$。</string>
-	<string lang="uk">Заряджається на $1energy$ кожен раз, коли $energy$ зникає з модуля $sensor$.</string>
+	<string lang="de">Wird um $b$$SENSORVALUE$$/b$ $energy$ geladen, jedes Mal wenn $energy$ von einem $sensor$-Modul verfliegt.</string>
+	<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ dissipates from a $sensor$ module.</string>
+	<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ chaque fois que $energy$ se dissipe d'un module $sensor$.</string>
+	<string lang="zh">每次$energy$从$sensor$模块消散时，$br$为其充电$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="jp">$sensor$モジュールから$energy$が消散するたびに、$br$$b$$SENSORVALUE$$/b$$energy$で充電。</string>
+	<string lang="ru">Заряжается на $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $energy$ исчезает из модуля $sensor$.</string>
+	<string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ cada vez que $energy$ se disipa de un módulo $sensor$.</string>
+	<string lang="kr">$sensor$ 모듈에서 $energy$가 사라질 때마다 $br$ $b$$SENSORVALUE$$/b$$energy$로 충전됩니다.</string>
+	<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ sempre que $energy$ se dissipa de um módulo $sensor$.</string>
+	<string lang="zh-tw">每次$energy$從$sensor$模組消散時，$br$為其充電$b$$SENSORVALUE$$/b$$energy$。</string>
+	<string lang="uk">Заряджається на $b$$SENSORVALUE$$/b$ $energy$ кожен раз, коли $energy$ зникає з модуля $sensor$.</string>
 </set>
 <set id="description-module-storagecellstorm">
 		<string lang="de">Wird nach einem Zug von $lightning$ oder $storm$ um $b$$SENSORVALUE$$/b$ $energy$ geladen.</string>
@@ -1786,17 +1786,17 @@
 	<string lang="uk">Комірка сусідства</string>
 </set>
 <set id="name-module-storagecellsensordissipation">
-	<string lang="de">Verflüchtigungszelle</string>
-	<string lang="en">Dissipation Cell</string>
-	<string lang="fr">Pile de Dissipation</string>
-	<string lang="zh">耗散单元</string>
-	<string lang="jp">消散電池</string>
-	<string lang="ru">Диссипационная Ячейка</string>
-	<string lang="es">Pila de Disipación</string>
-	<string lang="kr">소멸 전지</string>
-	<string lang="pt-br">Célula de Dissipação</string>
-	<string lang="zh-tw">耗散單元</string>
-	<string lang="uk">Дисипаційна клітина</string>
+	<string lang="de">Verflüchtigungszelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Dissipation Cell $MODIFICATIONVALUE$</string>
+	<string lang="fr">Pile de Dissipation $MODIFICATIONVALUE$</string>
+	<string lang="zh">耗散单元 $MODIFICATIONVALUE$</string>
+	<string lang="jp">消散電池 $MODIFICATIONVALUE$</string>
+	<string lang="ru">Диссипационная Ячейка $MODIFICATIONVALUE$</string>
+	<string lang="es">Pila de Disipación $MODIFICATIONVALUE$</string>
+	<string lang="kr">소멸 전지 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Célula de Dissipação $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">耗散單元 $MODIFICATIONVALUE$</string>
+	<string lang="uk">Дисипаційна клітина $MODIFICATIONVALUE$   </string>
 </set>
 <set id="name-module-storagecellstorm">
 		<string lang="de">Sturmzelle $MODIFICATIONVALUE$</string>
