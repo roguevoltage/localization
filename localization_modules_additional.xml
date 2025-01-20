@@ -25,6 +25,19 @@
 		<string lang="zh-tw">有$energy$輸入時，$br$獲得$turbo$。</string>
 		<string lang="uk">Отримує $turbo$ $br$щоразу, коли отримує $energyicon$$b$Енергію$/b$.</string>
 </set>
+<set id="description-module-collectoramplification">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $energy$ is amplified on a module by $amplification$ wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ on a module is amplified by $amplification$, $upgrade$, $turbo$ or $boost$.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
+		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">$storagemodule$を充電するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$es cargado.</string>
+		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
+		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$.</string>
+</set>
 <set id="description-module-collectorcollector">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $sensor$ anderen Typs das erste Mal in einem Zug ausgelöst wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $sensor$ of a different type is triggered for the first time each turn.</string>
@@ -1069,6 +1082,19 @@
 		<string lang="pt-br">Bobina $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">線圈$MODIFICATIONVALUE$</string>
 		<string lang="uk">Котушка $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectoramplification">
+		<string lang="de">Verstärkungs-Sensor</string>
+		<string lang="en">Amplification Sensor</string>
+		<string lang="fr">Capteur Amplification</string>
+		<string lang="zh">放大传感器</string>
+        <string lang="jp">増幅センサー</string>
+        <string lang="ru">Сенсор Усиления</string>
+        <string lang="es">Sensor de Amplificación</string>
+        <string lang="kr">증폭기 감지기</string>
+        <string lang="pt-br">Sensor de Amplificação</string>
+        <string lang="zh-tw">放大感測器</string>
+        <string lang="uk">Сенсор Підсилення</string>
 </set>
 <set id="name-module-collectorcollector">
 		<string lang="de">Sensor-Sensor</string>
