@@ -430,6 +430,19 @@
 		<string lang="zh-tw">製造一個$cracked$的通用$b$儲存單元$/b$，$br$冷卻時間$cooldown$。</string>
 		<string lang="uk">Створює універсальну $b$Комірку зберігання$/b$ з $cracked$ та $cooldown$.</string>
 </set>
+<set id="description-module-factorystoragecellemergency">
+		<string lang="de">Stellt eine universelle $b$Notfallzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Emergency Cell$/b$ with $cracked$ and $cooldown$.</string>
+		<string lang="fr">Construit une $b$Pile d'Urgence$/b$ universelle avec $cracked$ et $cooldown$.</string>
+		<string lang="zh">制造一个$cracked$的通用$b$紧急单元$/b$，$br$冷却时间$cooldown$。</string>
+        <string lang="jp">$cracked$と$cooldown$付与された$br$汎用端子の$b$緊急電池$/b$製造。</string>
+        <string lang="ru">Создает универсальную $b$Аварийную Ячейку$/b$ с $cracked$ и $cooldown$.</string>
+        <string lang="es">Construye una $b$Pila de Emergencia$/b$ universal$br$con $cracked$ y $cooldown$.</string>
+        <string lang="kr">$cracked$ 상태와 $cooldown$가 있는 범용 $b$비상 셀$/b$을 조립합니다.</string>
+        <string lang="pt-br">Constrói uma $b$Célula de Emergência$/b$ universal$br$com $cracked$ e $cooldown$.</string>
+        <string lang="zh-tw">製造一個$cracked$的通用$b$緊急單元$/b$，$br$冷卻時間$cooldown$。</string>
+        <string lang="uk">Створює універсальну $b$Аварійну Комірку$/b$ з $cracked$ та $cooldown$.</string>
+</set>
 <set id="description-module-generator">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
@@ -1431,13 +1444,25 @@
 		<string lang="fr">Fabrique des Piles $MODIFICATIONVALUE$</string>
 		<string lang="zh">储存单元工厂$MODIFICATIONVALUE$</string>
 		<string lang="jp">充電池製造機$MODIFICATIONVALUE$</string>
-		<string lang="ru">Фабрика Аккумуляторов $MODIFICATIONVALUE$</string>
-		<string lang="es">Fábrica de Celdas de Almacenamiento $MODIFICATIONVALUE$</string>
+		<string lang="ru">Фабрика Ячеек Хранения $MODIFICATIONVALUE$</string>
+		<string lang="es">Fábrica de Pilas de Almacenamiento $MODIFICATIONVALUE$</string>
 		<string lang="kr">축전지 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Células de Armazenamento $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">儲存單元工廠$MODIFICATIONVALUE$
-</string>
-		<string lang="uk">Фабрика акумуляторів $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">儲存單元工廠$MODIFICATIONVALUE$</string>
+		<string lang="uk">Фабрика Комірок Зберігання $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factorystoragecellemergency" remarks="use string from name-module-storagecellemergency">
+		<string lang="de">Notfallzelle-Fabrik $MODIFICATIONVALUE$</string>
+		<string lang="en">Emergency Cell Factory $MODIFICATIONVALUE$</string>
+		<string lang="fr">Fabrique des Piles d'Urgence $MODIFICATIONVALUE$</string>
+		<string lang="zh">紧急电池工厂$MODIFICATIONVALUE$</string>
+        <string lang="jp">緊急電池製造機$MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Экстренных Ячейкок $MODIFICATIONVALUE$</string>
+        <string lang="es">Fábrica de Pilas de Emergencia $MODIFICATIONVALUE$</string>
+        <string lang="kr">비상 전지 공장 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Fábrica de Células de Emergência $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">緊急電池工廠$MODIFICATIONVALUE$</string>
+        <string lang="uk">Фабрика Надзвичайних Комірок $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-generator">
 		<string lang="de">Generator</string>
@@ -1764,12 +1789,12 @@
 	<string lang="fr">Pile d'Urgence</string>
 	<string lang="zh">应急单元</string>
 	<string lang="jp">緊急電池</string>
-	<string lang="ru">Экстренная Ячейка</string>
+	<string lang="ru">Аварийная Ячейка</string>
 	<string lang="es">Pila de Emergencia</string>
 	<string lang="kr">비상 전지</string>
 	<string lang="pt-br">Célula de Emergência</string>
 	<string lang="zh-tw">應急單元</string>
-	<string lang="uk">Комірка екстреної допомоги</string>
+	<string lang="uk">Аварійна комірка</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
