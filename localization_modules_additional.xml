@@ -389,6 +389,19 @@
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$outoforder$。</string>
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
 </set>
+<set id="description-module-pollutingaggregate">
+        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $pollution$ bis zum Ende des Kampfes.</string>                     
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $pollution$ to another target module on this rack until end of combat.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $pollution$ à un autre module ciblé sur ce rack jusqu'à la fin du combat.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$pollution$直到战斗结束。</string>
+        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに戦闘終了まで$outoforder$付与。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $pollution$ к другому целевому модулю на этой стойке до конца боя.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $pollution$ a otro módulo objetivo en este bastidor hasta el final del combate.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 전투 종료까지 $pollution$를 적용합니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $pollution$ a outro módulo alvo neste rack até o final do combate.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$pollution$直到戰鬥結束。</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $pollution$ до іншого цільового модуля на цій стійці до кінця бою.</string>
+</set>
 <set id="description-module-generatorplasma">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
@@ -1455,6 +1468,19 @@
         <string lang="pt-br">Agregado de Emergência</string>
         <string lang="zh-tw">應急聚合體</string>
         <string lang="uk">Агрегат Надзвичайної Ситуації</string>
+</set>
+<set id="name-module-pollutingaggregate">
+		<string lang="de">Verschmutzendes Aggregat</string>
+		<string lang="en">Polluting Aggregate</string>
+		<string lang="fr">Agrégat Polluant</string>
+        <string lang="zh">污染聚合体</string>
+        <string lang="jp">汚染集合体</string>
+        <string lang="ru">Загрязняющий Агрегат</string>
+        <string lang="es">Agregado Contaminante</string>
+        <string lang="kr">오염 집합체</string>
+        <string lang="pt-br">Agregado Poluente</string>
+        <string lang="zh-tw">污染聚合體</string>
+        <string lang="uk">Забруднюючий Агрегат</string>
 </set>
 <set id="name-module-generatorplasma">
 		<string lang="de">Plasmaverbrennender Generator</string>
