@@ -141,6 +141,19 @@
         <string lang="zh-tw">每當$storagemodule$超載，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $storagemodule$ заряджається понад його ємність.</string>
 </set>
+<set id="description-module-curse-noreroll">
+		<string lang="de">Loot kann nicht neu ausgewürfelt werden.</string>
+		<string lang="en">Loot cannot be rerolled.</string>
+        <string lang="fr">Le butin ne peut pas être relancé.</string>
+        <string lang="zh">战利品无法重投。</string>
+        <string lang="jp">戦利品をリロールできません。</string>
+        <string lang="ru">Добычу нельзя перекидывать.</string>
+        <string lang="es">El botín no puede ser re-lanzado.</string>
+        <string lang="kr">전리품을 재굴릴 수 없습니다.</string>
+        <string lang="pt-br">O saque não pode ser relançado.</string>
+        <string lang="zh-tw">戰利品無法重投。</string>
+        <string lang="uk">Добичу не можна перекидати.</string>
+</set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
 	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
@@ -1225,6 +1238,19 @@
         <string lang="pt-br">Sensor de Sobrecarga $MODIFICATIONVALUE$</string>
         <string lang="zh-tw">過載感測器$MODIFICATIONVALUE$</string>
         <string lang="uk">Сенсор Перевантаження $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-curse-noreroll">
+		<string lang="de">Zerbrochener Würfel</string>
+		<string lang="en">Broken Die</string>
+        <string lang="fr">Dé Cassé</string>
+        <string lang="zh">破碎骰子</string>
+        <string lang="jp">壊れたダイス</string>
+        <string lang="ru">Сломанный Кубик</string>
+        <string lang="es">Dado Roto</string>
+        <string lang="kr">부서진 주사위</string>
+        <string lang="pt-br">Dado Quebrado</string>
+        <string lang="zh-tw">破碎骰子</string>
+        <string lang="uk">Пошкоджений Кубик</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
         <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
