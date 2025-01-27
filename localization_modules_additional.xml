@@ -154,6 +154,19 @@
         <string lang="zh-tw">戰利品無法重投。</string>
         <string lang="uk">Добичу не можна перекидати.</string>
 </set>
+<set id="description-module-curse-accelenemy">
+        <string lang="de">Fügt zu Beginn des Kampfes allen Gegnern $grav-1$ zu.</string>
+		<string lang="en">At the beginning of combat,$br$apply $grav-1$ to all enemies.</string>
+        <string lang="fr">Au début du combat, inflige $grav-1$ à tous les ennemis.</string>
+        <string lang="zh">战斗开始时，对所有敌人施加$grav-1$。</string>
+        <string lang="jp">戦闘開始時、全ての敵味方に$grav-1$。</string>
+        <string lang="ru">В начале боя наносит всем врагам $grav-1$.</string>
+        <string lang="es">Al comienzo del combate, inflige $grav-1$ a todos los enemigos.</string>
+        <string lang="kr">전투 시작 시 모든 적에게 $grav-1$을 부여합니다.</string>
+        <string lang="pt-br">No início do combate, aplique $grav-1$ a todos os inimigos.</string>
+        <string lang="zh-tw">戰鬥開始時，對所有敵人施加$grav-1$。</string>
+        <string lang="uk">На початку бою наносить всім ворогам $grav-1$.</string>
+</set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
 	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
@@ -1251,6 +1264,19 @@
         <string lang="pt-br">Dado Quebrado</string>
         <string lang="zh-tw">破碎骰子</string>
         <string lang="uk">Пошкоджений Кубик</string>
+</set>
+<set id="name-module-curse-accelenemy" remarks="translate as Raptor Claw">
+        <string lang="de">Raptorkralle</string>
+		<string lang="en">Raptor Claw</string>
+        <string lang="fr">Griffe de Raptor</string>
+        <string lang="zh">迅猛龙之爪</string>
+        <string lang="jp">ラプターの爪</string>
+        <string lang="ru">Коготь Раптора</string>
+        <string lang="es">Garra de Raptor</string>
+        <string lang="kr">랩터 발톱</string>
+        <string lang="pt-br">Garra de Raptor</string>
+        <string lang="zh-tw">迅猛龍之爪</string>
+        <string lang="uk">Кіготь Раптора</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
         <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
