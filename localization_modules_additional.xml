@@ -167,6 +167,19 @@
         <string lang="zh-tw">戰鬥開始時，對所有敵人施加$grav-1$。</string>
         <string lang="uk">На початку бою наносить всім ворогам $grav-1$.</string>
 </set>
+<set id="description-module-curse-decelplayer">
+        <string lang="de">Fügt zu Beginn des Kampfes allen Spielercharakteren $grav+1$ zu.</string>
+        <string lang="en">At the beginning of combat,$br$apply $grav+1$ to all player characters.</string>
+        <string lang="fr">Au début du combat, inflige $grav+1$ à tous les personnages joueurs.</string>
+        <string lang="zh">战斗开始时，对所有玩家角色施加$grav+1$。</string>
+        <string lang="jp">戦闘開始時、全ての敵味方に$grav+1$。</string>
+        <string lang="ru">В начале боя наносит всем игрокам $grav+1$.</string>
+        <string lang="es">Al comienzo del combate, inflige $grav+1$ a todos los personajes jugadores.</string>
+        <string lang="kr">전투 시작 시 모든 플레이어 캐릭터에게 $grav+1$을 부여합니다.</string>
+        <string lang="pt-br">No início do combate, aplique $grav+1$ a todos os personagens jogadores.</string>
+        <string lang="zh-tw">戰鬥開始時，對所有玩家角色施加$grav+1$。</string>
+        <string lang="uk">На початку бою наносить всім гравцям $grav+1$.</string>
+</set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
 	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
@@ -1277,6 +1290,19 @@
         <string lang="pt-br">Garra de Raptor</string>
         <string lang="zh-tw">迅猛龍之爪</string>
         <string lang="uk">Кіготь Раптора</string>
+</set>
+<set id="name-module-curse-decelplayer" remarks="translate as Inflatable Mushroom">
+        <string lang="de">Aufblas-Pilz</string>
+		<string lang="en">Inflatable Shroom</string>
+        <string lang="fr">Champi Gonflable</string>
+        <string lang="zh">充气蘑菇</string>
+        <string lang="jp">インフレータブルマッシュルーム</string>
+        <string lang="ru">Надувной Гриб</string>
+        <string lang="es">Seta Inflable</string>
+        <string lang="kr">인플레이트 머쉬룸</string>
+        <string lang="pt-br">Cogumelo Inflável</string>
+        <string lang="zh-tw">充氣蘑菇</string>
+        <string lang="uk">Надувний Гриб</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
         <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
