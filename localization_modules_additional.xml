@@ -193,6 +193,19 @@
         <string lang="zh-tw">戰鬥開始時，對所有玩家角色施加$grav+1$。</string>
         <string lang="uk">На початку бою наносить всім гравцям $grav+1$.</string>
 </set>
+<set id="description-module-curse-vulnerabilityplayer">
+		<string lang="de">Fügt zu Beginn des Kampfes allen Spielercharakteren $vulnerable$ zu.</string>
+		<string lang="en">At the beginning of combat,$br$apply $vulnerable$ to all player characters.</string>
+        <string lang="fr">Au début du combat, inflige $vulnerable$ à tous les personnages joueurs.</string>
+        <string lang="zh">战斗开始时，对所有玩家角色施加$vulnerable$。</string>
+        <string lang="jp">戦闘開始時、全ての敵味方に$vulnerable$。</string>
+        <string lang="ru">В начале боя наносит всем игрокам $vulnerable$.</string>
+        <string lang="es">Al comienzo del combate, inflige $vulnerable$ a todos los personajes jugadores.</string>
+        <string lang="kr">전투 시작 시 모든 플레이어 캐릭터에게 $vulnerable$을 부여합니다.</string>
+        <string lang="pt-br">No início do combate, aplique $vulnerable$ a todos os personagens jogadores.</string>
+        <string lang="zh-tw">戰鬥開始時，對所有玩家角色施加$vulnerable$。</string>
+        <string lang="uk">На початку бою наносить всім гравцям $vulnerable$.</string>
+</set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
 	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
@@ -1342,6 +1355,19 @@
         <string lang="pt-br">Cogumelo Inflável</string>
         <string lang="zh-tw">充氣蘑菇</string>
         <string lang="uk">Надувний Гриб</string>
+</set>
+<set id="name-module-curse-vulnerabilityplayer" remarks="translate as 'Razor Blade'">
+		<string lang="de">Rasierklinge</string>
+		<string lang="en">Razor Blade</string>
+        <string lang="fr">Lame de Rasoir</string>
+        <string lang="zh">剃刀片</string>
+        <string lang="jp">カミソリ</string>
+        <string lang="ru">Бритва</string>
+        <string lang="es">Hoja de Afeitar</string>
+        <string lang="kr">면도날</string>
+        <string lang="pt-br">Lâmina de Barbear</string>
+        <string lang="zh-tw">剃刀片</string>
+        <string lang="uk">Бритва</string>
 </set>
 <set id="name-module-effectoraccelerator-aoe">
         <string lang="de">Beschleunigender Schirm $MODIFICATIONVALUE$</string>
