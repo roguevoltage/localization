@@ -25,6 +25,19 @@
         <string lang="zh-tw">你獲得額外的免費戰利品重投</string>
         <string lang="uk">Ви отримуєте додатковий безкоштовний перекид добичі</string>
 </set>
+<set id="description-module-blessing-piggybank">
+		<string lang="de">Jedes Mal, wenn du $plasma$ erzeugst, erzeuge $1$ zusätzliches $plasma$.</string>
+		<string lang="en">Whenever you generate $plasma$, generate $1$ additional $plasma$.</string>
+        <string lang="fr">Chaque fois que vous générez $plasma$, générez $1$ $plasma$ supplémentaire.</string>
+        <string lang="zh">每当你产生$plasma$，产生额外的$1$个$plasma$。</string>
+        <string lang="jp">$plasma$を生成するたび、追加で$1$の$plasma$を生成します。</string>
+        <string lang="ru">Каждый раз, когда вы генерируете $plasma$, генерируйте дополнительно $1$ $plasma$.</string>
+        <string lang="es">Cada vez que generes $plasma$, genera $1$ $plasma$ adicional.</string>
+        <string lang="kr">$plasma$를 생성할 때마다 추가로 $1$ $plasma$를 생성합니다.</string>
+        <string lang="pt-br">Sempre que você gerar $plasma$, gere $1$ $plasma$ adicional.</string>
+        <string lang="zh-tw">每當你產生$plasma$，產生額外的$1$個$plasma$。</string>
+        <string lang="uk">Кожен раз, коли ви генеруєте $plasma$, генеруйте додатково $1$ $plasma$.</string>
+</set>
 <set id="description-module-coil">
 		<string lang="de">Erhält $turbo$,$br$immer wenn sie $energy$ erhält.</string>
 		<string lang="en">Receives $turbo$$br$whenever it receives $energy$.</string>
@@ -1147,6 +1160,19 @@
         <string lang="pt-br">Dado de Pelúcia</string>
         <string lang="zh-tw">毛絨骰子</string>
         <string lang="uk">Плюшевий Кубик</string>
+</set>
+<set id="name-module-blessing-piggybank">
+        <string lang="de">Sparschwein</string>
+		<string lang="en">Piggy Bank</string>
+        <string lang="fr">Cochon Tirelire</string>
+        <string lang="zh">存钱罐</string>
+        <string lang="jp">貯金箱</string>
+        <string lang="ru">Копилка</string>
+        <string lang="es">Hucha</string>
+        <string lang="kr">저금통</string>
+        <string lang="pt-br">Porquinho</string>
+        <string lang="zh-tw">存錢罐</string>
+        <string lang="uk">Копилка</string>
 </set>
 <set id="name-module-coil">
 		<string lang="de">Spule $MODIFICATIONVALUE$</string>
