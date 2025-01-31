@@ -38,6 +38,19 @@
         <string lang="zh-tw">每當你產生$plasma$，產生額外的$1$個$plasma$。</string>
         <string lang="uk">Кожен раз, коли ви генеруєте $plasma$, генеруйте додатково $1$ $plasma$.</string>
 </set>
+<set id="description-module-blessing-universaljacks">
+        <string lang="de">Am Anfang des ersten Kampfes, ändere die Farbe von Buchsen auf allen $loadout$-Modulen zu $b$universal$/b$.</string>
+		<string lang="en">On the beginning of the first battle, change the color of jacks on all $loadout$ modules to $b$universal$/b$.</string>
+        <string lang="fr">Au début du premier combat, changez la couleur des prises sur tous les modules $loadout$ en $b$universal$/b$.</string>
+        <string lang="zh">在第一场战斗开始时，将所有$loadout$模块上的插孔颜色更改为$b$universal$/b$。</string>
+        <string lang="jp">最初の戦闘開始時、全ての$loadout$モジュールのジャックの色を$b$universal$/b$に変更します。</string>
+        <string lang="ru">В начале первого боя, измените цвет разъемов на всех модулях $loadout$ на $b$universal$/b$.</string>
+        <string lang="es">Al comienzo de la primera batalla, cambia el color de los jacks en todos los módulos $loadout$ a $b$universal$/b$.</string>
+        <string lang="kr">첫 번째 전투 시작 시, 모든 $loadout$ 모듈의 잭 색상을 $b$universal$/b$로 변경합니다.</string>
+        <string lang="pt-br">No início da primeira batalha, mude a cor dos jacks em todos os módulos $loadout$ para $b$universal$/b$.</string>
+        <string lang="zh-tw">在第一場戰鬥開始時，將所有$loadout$模組上的插孔顏色更改為$b$universal$/b$。</string>
+        <string lang="uk">На початку першого бою, змініть колір роз'ємів на всіх модулях $loadout$ на $b$universal$/b$.</string>
+</set>
 <set id="description-module-coil">
 		<string lang="de">Erhält $turbo$,$br$immer wenn sie $energy$ erhält.</string>
 		<string lang="en">Receives $turbo$$br$whenever it receives $energy$.</string>
@@ -1212,6 +1225,19 @@
         <string lang="pt-br">Porquinho</string>
         <string lang="zh-tw">存錢罐</string>
         <string lang="uk">Копилка</string>
+</set>
+<set id="name-module-blessing-universaljacks" remarks="translate as Paint Roller">
+        <string lang="de">Farbroller</string>
+		<string lang="en">Paint Roller</string>
+        <string lang="fr">Rouleau à Peinture</string>
+        <string lang="zh">油漆滚筒</string>
+        <string lang="jp">ペイントローラー</string>
+        <string lang="ru">Валик</string>
+        <string lang="es">Rodillo de Pintura</string>
+        <string lang="kr">페인트 롤러</string>
+        <string lang="pt-br">Rolo de Pintura</string>
+        <string lang="zh-tw">油漆滾筒</string>
+        <string lang="uk">Валик</string>
 </set>
 <set id="name-module-coil">
 		<string lang="de">Spule $MODIFICATIONVALUE$</string>
