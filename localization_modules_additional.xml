@@ -51,6 +51,19 @@
         <string lang="zh-tw">在第一場戰鬥開始時，將所有$loadout$模組上的插孔顏色更改為$b$universal$/b$。</string>
         <string lang="uk">На початку першого бою, змініть колір роз'ємів на всіх модулях $loadout$ на $b$universal$/b$.</string>
 </set>
+<set id="description-module-blessing-plasmarecycler">
+        <string lang="de">Erzeugt $1plasma$ immer wenn ein Modul zerstört wird.</string>
+		<string lang="en">Whenever a module gets destroyed, create $1plasma$.</string>
+        <string lang="fr">Chaque fois qu'un module est détruit, créez $1plasma$.</string>
+        <string lang="zh">每当一个模块被摧毁，产生$1plasma$。</string>
+        <string lang="jp">モジュールが破壊されるたび、$1plasma$を生成します。</string>
+        <string lang="ru">Каждый раз, когда модуль разрушается, создается $1plasma$.</string>
+        <string lang="es">Cada vez que un módulo es destruido, crea $1plasma$.</string>
+        <string lang="kr">모듈이 파괴될 때마다 $1plasma$를 생성합니다.</string>
+        <string lang="pt-br">Sempre que um módulo é destruído, crie $1plasma$.</string>
+        <string lang="zh-tw">每當一個模組被摧毀，產生$1plasma$。</string>
+        <string lang="uk">Кожен раз, коли модуль руйнується, створюється $1plasma$.</string>
+</set>
 <set id="description-module-coil">
 		<string lang="de">Erhält $turbo$,$br$immer wenn sie $energy$ erhält.</string>
 		<string lang="en">Receives $turbo$$br$whenever it receives $energy$.</string>
@@ -1238,6 +1251,19 @@
         <string lang="pt-br">Rolo de Pintura</string>
         <string lang="zh-tw">油漆滾筒</string>
         <string lang="uk">Валик</string>
+</set>
+<set id="name-module-blessing-plasmarecycler" remarks="translate as Plasma Crucible">
+        <string lang="de">Plasma-Tiegel</string>
+		<string lang="en">Plasma Crucible</string>
+        <string lang="fr">Creuset de Plasma</string>
+        <string lang="zh">等离子坩埚</string>
+        <string lang="jp">プラズマクルーシブル</string>
+        <string lang="ru">Плазменный Горшок</string>
+        <string lang="es">Crisol de Plasma</string>
+        <string lang="kr">플라즈마 용광로</string>
+        <string lang="pt-br">Cadinho de Plasma</string>
+        <string lang="zh-tw">等離子坩埚</string>
+        <string lang="uk">Плазмовий Горщик</string>
 </set>
 <set id="name-module-coil">
 		<string lang="de">Spule $MODIFICATIONVALUE$</string>
