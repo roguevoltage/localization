@@ -26,17 +26,17 @@
         <string lang="uk">На початку бою наносить всім гравцям $grav-1$.</string>
 </set>
 <set id="description-module-blessing-decelenemies">
-        <string lang="de">Fügt zu Beginn des Kampfes allen Spielercharakteren $grav+1$ zu.</string>
-		<string lang="en">At the beginning of combat,$br$apply $grav-1$ to all player characters.</string>
-        <string lang="fr">Au début du combat, inflige $grav-1$ à tous les personnages joueurs.</string>
-        <string lang="zh">战斗开始时，对所有玩家角色施加$grav-1$。</string>
-        <string lang="jp">戦闘開始時、全ての敵味方に$grav-1$。</string>
-        <string lang="ru">В начале боя наносит всем игрокам $grav-1$.</string>
-        <string lang="es">Al comienzo del combate, inflige $grav-1$ a todos los personajes jugadores.</string>
-        <string lang="kr">전투 시작 시 모든 플레이어 캐릭터에게 $grav-1$을 부여합니다.</string>
-        <string lang="pt-br">No início do combate, aplique $grav-1$ a todos os personagens jogadores.</string>
-        <string lang="zh-tw">戰鬥開始時，對所有玩家角色施加$grav-1$。</string>
-        <string lang="uk">На початку бою наносить всім гравцям $grav-1$.</string>
+        <string lang="de">Fügt zu Beginn des Kampfes allen Gegnern $grav+1$ zu.</string>
+		<string lang="en">At the beginning of combat,$br$apply $grav+1$ to all enemies.</string>
+        <string lang="fr">Au début du combat, inflige $grav+1$ à tous les ennemis.</string>
+        <string lang="zh">战斗开始时，对所有敌人施加$grav+1$。</string>
+        <string lang="jp">戦闘開始時、全ての敵味方に$grav+1$。</string>
+        <string lang="ru">В начале боя наносит всем врагам $grav+1$.</string>
+        <string lang="es">Al comienzo del combate, inflige $grav+1$ a todos los enemigos.</string>
+        <string lang="kr">전투 시작 시 모든 적에게 $grav+1$을 부여합니다.</string>
+        <string lang="pt-br">No início do combate, aplique $grav+1$ a todos os inimigos.</string>
+        <string lang="zh-tw">戰鬥開始時，對所有敵人施加$grav+1$。</string>
+        <string lang="uk">На початку бою наносить всім ворогам $grav+1$.</string>
 </set>
 <set id="description-module-blessing-extrareroll">
 		<string lang="de">Du erhältst einen weiteren gratis Loot-Reroll</string>
@@ -233,17 +233,17 @@
         <string lang="uk">На початку бою наносить всім ворогам $grav-1$.</string>
 </set>
 <set id="description-module-curse-damageplayer">
-        <string lang="de">Fügt zu Beginn des Kampfes allen Spielercharakteren $1damage$ zu.</string>
-        <string lang="en">At the beginning of combat,$br$deal $1damage$ to all player characters.</string>
-        <string lang="fr">Au début du combat, inflige $1damage$ à tous les personnages joueurs.</string>
-        <string lang="zh">战斗开始时，对所有玩家角色造成$1damage$。</string>
-        <string lang="jp">戦闘開始時、全ての敵味方に$1damage$。</string>
-        <string lang="ru">В начале боя наносит всем игрокам $1damage$.</string>
-        <string lang="es">Al comienzo del combate, inflige $1damage$ a todos los personajes jugadores.</string>
-        <string lang="kr">전투 시작 시 모든 플레이어 캐릭터에게 $1damage$을 부여합니다.</string>
-        <string lang="pt-br">No início do combate, aplique $1damage$ a todos os personagens jogadores.</string>
-        <string lang="zh-tw">戰鬥開始時，對所有玩家角色造成$1damage$。</string>
-        <string lang="uk">На початку бою наносить всім гравцям $1damage$.</string>
+        <string lang="de">Fügt zu Beginn des Kampfes einem zufälligen Spielercharakter $1damage$ zu.</string>
+        <string lang="en">At the beginning of combat,$br$deal $1damage$ to a random player character.</string>
+        <string lang="fr">Au début du combat, inflige $1damage$ à un personnage joueur aléatoire.</string>
+        <string lang="zh">战斗开始时，对一个随机玩家角色造成$1damage$。</string>
+        <string lang="jp">戦闘開始時、ランダムなプレイヤーキャラクターに$1damage$。</string>
+        <string lang="ru">В начале боя наносит случайному игроку $1damage$.</string>
+        <string lang="es">Al comienzo del combate, inflige $1damage$ a un personaje jugador aleatorio.</string>
+        <string lang="kr">전투 시작 시 무작위 플레이어 캐릭터에게 $1damage$을 부여합니다.</string>
+        <string lang="pt-br">No início do combate, cause $1damage$ a um personagem jogador aleatório.</string>
+        <string lang="zh-tw">戰鬥開始時，對一個隨機玩家角色造成$1damage$。</string>
+        <string lang="uk">На початку бою наносить випадковому гравцю $1damage$.</string>
 </set>
 <set id="description-module-curse-decelplayers">
         <string lang="de">Fügt zu Beginn des Kampfes allen Spielercharakteren $grav+1$ zu.</string>
