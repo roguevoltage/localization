@@ -429,6 +429,19 @@
 </string>
 		<string lang="uk">Накладає на модуль $fire$ при отриманні $damage$.</string>
 </set>
+<set id="description-skill-passive-ondamage-modulegravrecoil">
+		<string lang="de">Versieht ein Modul mit $gravrecoil$, immer wenn er $damage$ nimmt.</string>
+		<string lang="en">Inflicts a module with $gravrecoil$ whenever it takes $damage$.</string>
+		<string lang="fr">Inflige un module avec $gravrecoil$, à chaque fois qu'il reçoit $damage$.</string>
+		<string lang="zh">每当受到$damage$，$br$令一个模块$gravrecoil$。</string>
+		<string lang="jp">$damage$を受けるたび、$br$モジュール1つに$gravrecoil$付与。</string>
+		<string lang="ru">Накладывает на модуль $gravrecoil$, каждый раз, когда он получает $damage$.</string>
+		<string lang="es">Siempre que recibe $damage$, inflige un módulo con $gravrecoil$.</string>
+		<string lang="kr">대상이 $damage$를 입을 때마다 모듈에게 $gravrecoil$ 상태를 부여합니다.</string>
+		<string lang="pt-br">Sempre que recebe $damage$, inflige um módulo com $gravrecoil$.</string>
+		<string lang="zh-tw">每當受到$damage$，$br$令一個模組$gravrecoil$。</string>
+		<string lang="uk">Накладає на модуль $gravrecoil$ при отриманні $damage$.</string>
+</set>
 <set id="description-skill-passive-powerraiseifmodulecreated">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever a module is created.</string>
@@ -1128,6 +1141,20 @@
 		<string lang="zh-tw">熔融皮膚$fireicon$
 </string>
 		<string lang="uk">Розплавлена поверхня $fireicon$</string>
+</set>
+<set id="name-skill-passive-ondamage-modulegravrecoil">
+		<string lang="de">Gravioaktive Oberfläche $gravrecoilicon$</string>
+		<string lang="en">Gravioactive Exterior $gravrecoilicon$</string>
+        <string lang="fr">Extérieur Gravioactif $gravrecoilicon$</string>
+        <string lang="zh">引力反冲外壳$gravrecoilicon$</string>
+        <string lang="jp">重力反動外装$gravrecoilicon$</string>
+        <string lang="ru">Гравиоактивная Поверхность $gravrecoilicon$</string>
+        <string lang="es">Exterior Gravioactivo $gravrecoilicon$</string>
+        <string lang="kr">중력 반동 외부 $gravrecoilicon$</string>
+        <string lang="pt-br">Exterior Gravioativo $gravrecoilicon$</string>
+        <string lang="zh-tw">引力反沖外殼$gravrecoilicon$
+</string>
+        <string lang="uk">Гравіоактивна поверхня $gravrecoilicon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifgravinflicted">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
