@@ -28,18 +28,17 @@
 		<string lang="uk">Наносить $1damage$ ворогу.</string>
 </set>
 <set id="description-skill-croak">
-		<string lang="de">Entfernt alle $might$.$p$Viersieht alle Module auf dem Rack eines Gegners mit $gravrecoil$.</string>
-		<string lang="en">Remove all $might$.$p$Applies $gravrecoil$ to all modules on an enemy rack.</string>
-		<string lang="fr">Retire $might$.$p$Applique $gravrecoil$ à tous les modules d'un rack ennemi.</string>
-		<string lang="zh">移除全部$might$来为敌方所有模块施加$gravrecoil$。</string>
-		<string lang="jp">$might$全て消費し、$br$敵1体のラックにあるモジュール全てに$br$$gravrecoil$付与。</string>
-		<string lang="ru">Удаляет $might$ для применения $gravrecoil$ ко всем модулям на вражеской стойке.</string>
-		<string lang="es">Retira $might$ para aplicar $gravrecoil$ a todos los módulos en el bastidor de un enemigo.</string>
-		<string lang="kr">모든 $might$을 제거해 적의 랙에 있는 모든 모듈에게 $gravrecoil$을 적용합니다.</string>
-		<string lang="pt-br">Remove todos os $might$ para aplicar $gravrecoil$ a todos os módulos no rack de um inimigo.</string>
-		<string lang="zh-tw">移除全部$might$來為敵方所有模組施加$gravrecoil$。
-</string>
-		<string lang="uk">Видаляє усю $mighticon$$b$Силу$.$p$На всі модулі на ворожій стійці накладається $gravrecoil$.</string>
+		<string lang="de">Entfernt alle $might$.$p$Fügt allen Gegnern $1damage$ zu.</string>
+		<string lang="en">Remove all $might$.$p$Deals $1damage$ to all enemies.</string>
+        <string lang="fr">Retire $might$.$p$Inflige $1damage$ à tous les ennemis.</string>
+        <string lang="zh">移除全有$might$。$p$对所有敌人造成$1damage$。</string>
+        <string lang="jp">$might$を全て除去。$p$全体に$1damage$。</string>
+        <string lang="ru">Удаляет всю $might$.$p$Наносит всем врагам $1damage$.</string>
+        <string lang="es">Retira $might$.$p$Inflige $1damage$ a todos los enemigos.</string>
+        <string lang="kr">$might$를 모두 제거합니다.$p$모든 적에게 $1damage$를 줍니다.</string>
+        <string lang="pt-br">Remove todos os $might$.$p$Inflige $1damage$ a todos os inimigos.</string>
+        <string lang="zh-tw">移除所有$might$。$p$對所有敵人造成$1damage$。</string>
+        <string lang="uk">Видаляє всю $might$.$p$Наносить всім ворогам $1damage$.</string>
 </set>
 <set id="description-skill-damageinheightofpower">
 		<string lang="de">Fügt $damage$ in Höhe der $might$ zu</string>
