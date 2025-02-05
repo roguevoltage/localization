@@ -667,6 +667,20 @@
 </string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на модуль $selfencrusting$.</string>
 </set>
+<set id="description-skill-snail-shlorp">
+		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Entfernt $1energy$ von einem $storagemodule$.</string>
+		<string lang="en">Deals $1damage$ to an enemy.$p$Removes $1energy$ from a $storagemodule$.</string>
+        <string lang="fr">Inflige $1damage$ à un ennemi.$p$Retire $1energy$ d'un $storagemodule$.</string>
+        <string lang="zh">对一名敌人造成$1damage$。$p$从一个$storagemodule$移除$1energy$。</string>
+        <string lang="jp">敵1体に$1damage$。$p$$storagemodule$から$1energy$除去。</string>
+        <string lang="ru">Наносит врагу $1damage$. $p$Удаляет $1energy$ из $storagemodule$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo.$p$Elimina $1energy$ de un $storagemodule$.</string>  
+        <string lang="kr">적에게 $1damage$를 줍니다.$p$$storagemodule$에서 $1energy$를 제거합니다.</string>
+        <string lang="pt-br">Causa $1damage$ a um inimigo.$p$Remove $1energy$ de um $storagemodule$.</string>
+        <string lang="zh-tw">對一名敵人造成$1damage$。$p$從一個$storagemodule$移除$1energy$。
+</string>
+        <string lang="uk">Наносить $1damage$ ворогу.$p$Видаляє $1energy$ з $storagemodule$.</string>
+</set>
 <set id="name-skill-claw-phoenix">
 		<string lang="de">Kralle$fireicon$</string>
 		<string lang="en">Claw$fireicon$</string>
@@ -1366,6 +1380,20 @@
 		<string lang="zh-tw">黏液$crusticon$
 </string>
 		<string lang="uk">Шлак $crusticon$</string>
+</set>
+<set id="name-skill-snail-shlorp" remarks="Onomatopoeia for a snail's slurping">
+		<string lang="de">Schlorp $storageicon$</string>
+		<string lang="en">Shlorp $storageicon$</string>
+        <string lang="fr">Gloup $storageicon$</string>
+        <string lang="zh">吸吮$storageicon$</string>
+        <string lang="jp">すする$storageicon$</string>
+        <string lang="ru">Щлорп $storageicon$</string>
+        <string lang="es">Chupar $storageicon$</string>
+        <string lang="kr">슬롭 $storageicon$</string>
+        <string lang="pt-br">Chupar $storageicon$</string>
+        <string lang="zh-tw">吸吮$storageicon$
+</string>
+        <string lang="uk">Щлорп $storageicon$</string>
 </set>
 <set id="name-skill-vulnerability">
 		<string lang="de">Verwundbarkeit</string>
