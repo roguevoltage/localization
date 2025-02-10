@@ -26,8 +26,8 @@
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на один модуль $fire$.</string>
 </set>
 <set id="description-skill-monsterspawn-egg-dynosaurmom-bossminion">
-		<string lang="de">Ruft bis zu zwei $b$Graviraptor-Ei$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
-		<string lang="en">Summons up to two $b$Graviraptor Egg$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
+		<string lang="de">Ruft bis zu zwei $b$Graviraptor-Eier$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
+		<string lang="en">Summons up to two$br$$b$Graviraptor Eggs$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
 		<string lang="fr">Invoque jusqu'à deux $b$Oeuf de Graviraptor$/b$$br$- ou -$br$octroie à un œuf existant $1$ $might$.</string>
 		<string lang="zh">召唤最多两个$b$重力迅猛龙蛋$/b$$br$- 或 -$br$赋予现有蛋$1$ $might$。</string>
         <string lang="jp">最大2体の$b$グラビラプトルの卵$/b$を召喚$br$- または -$br$既存の卵に$1$ $might$。</string>
@@ -1141,19 +1141,19 @@
 </string>
 		<string lang="uk">Розплавлена поверхня $fireicon$</string>
 </set>
-<set id="name-skill-passive-ondamage-modulegravrecoil">
-		<string lang="de">Gravioaktive Oberfläche $gravrecoilicon$</string>
-		<string lang="en">Gravioactive Exterior $gravrecoilicon$</string>
-        <string lang="fr">Extérieur Gravioactif $gravrecoilicon$</string>
-        <string lang="zh">引力反冲外壳$gravrecoilicon$</string>
-        <string lang="jp">重力反動外装$gravrecoilicon$</string>
-        <string lang="ru">Гравиоактивная Поверхность $gravrecoilicon$</string>
-        <string lang="es">Exterior Gravioactivo $gravrecoilicon$</string>
-        <string lang="kr">중력 반동 외부 $gravrecoilicon$</string>
-        <string lang="pt-br">Exterior Gravioativo $gravrecoilicon$</string>
-        <string lang="zh-tw">引力反沖外殼$gravrecoilicon$
+<set id="name-skill-passive-ondamage-modulegravrecoil" remarks="Translate as Gravioactive, wordplay on radioactive">
+		<string lang="de">Gravioaktiv  $gravrecoilicon$</string>
+		<string lang="en">Gravioactive $gravrecoilicon$</string>
+        <string lang="fr">Gravioactif $gravrecoilicon$</string>
+        <string lang="zh">引力活性$gravrecoilicon$</string>
+        <string lang="jp">重力活性$gravrecoilicon$</string>
+        <string lang="ru">Гравиоактивный $gravrecoilicon$</string>
+        <string lang="es">Gravioactivo $gravrecoilicon$</string>
+        <string lang="kr">중력 활성 $gravrecoilicon$</string>
+        <string lang="pt-br">Gravioativo $gravrecoilicon$</string>
+        <string lang="zh-tw">引力活性$gravrecoilicon$
 </string>
-        <string lang="uk">Гравіоактивна поверхня $gravrecoilicon$</string>
+        <string lang="uk">Гравіоактивний $gravrecoilicon$</string>
 </set>
 <set id="name-skill-passive-powerraiseifgravinflicted">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
