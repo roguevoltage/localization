@@ -569,18 +569,17 @@
 		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ і накладає на ворога $grav+$ такої ж сили.</string>
 </set>
 <set id="description-skill-pterodactyl-riseup">
-		<string lang="de">Steigt auf der Zeitleiste über die Charaktere auf.</string>
-		<string lang="en">Rises above the player characters on the timeline.</string>
-		<string lang="fr">Monte au-dessus des personnages joueurs sur la timeline.</string>
-		<string lang="zh">时间轴优先级提升至玩家角色之上。</string>
-		<string lang="jp">タイムライン上で、$br$プレイヤーキャラよりも上昇。</string>
-		<string lang="ru">Поднимается выше игроков на временной шкале.</string>
-		<string lang="es">Se eleva por encima de los personajes del jugador en la línea temporal.</string>
-		<string lang="kr">플레이어 캐릭터의 타임라인 위로 날아오릅니다.</string>
-		<string lang="pt-br">Sobe acima dos personagens do jogador na linha do tempo.</string>
-		<string lang="zh-tw">時間軸優先順序提升至玩家角色之上。
-</string>
-		<string lang="uk">Переміщується вище гравців на часовій шкалі.</string>
+		<string lang="de">Steigt auf der Zeitleiste über die Charaktere auf.$p$Fügt allen Gegnern $grav+1$ zu.</string>
+		<string lang="en">Rises above the player characters on the timeline.$p$Inflicts all enemies with $grav+1$.</string>
+		<string lang="fr">Monte au-dessus des personnages joueurs sur la timeline.$p$Inflige $grav+1$ à tous les ennemis.</string>
+		<string lang="zh">时间轴优先级提升至玩家角色之上。$p$对所有敌人施放$grav+1$。</string>
+		<string lang="jp">タイムライン上で、$br$プレイヤーキャラよりも上昇。$p$敵全体に$grav+1$付与。</string>
+		<string lang="ru">Поднимается выше игроков на временной шкале.$p$Применяет $grav+1$ ко всем врагам.</string>
+		<string lang="es">Se eleva por encima de los personajes del jugador en la línea temporal.$p$Inflige a todos los enemigos con $grav+1$.</string>
+		<string lang="kr">플레이어 캐릭터의 타임라인 위로 날아오릅니다.$p$모든 적에게 $grav+1$를 부여합니다.</string>
+		<string lang="pt-br">Sobe acima dos personagens do jogador na linha do tempo.$p$Inflige a todos os inimigos com $grav+1$.</string>
+		<string lang="zh-tw">時間軸優先順序提升至玩家角色之上。$p$對所有敵人施放$grav+1$。</string>
+		<string lang="uk">Переміщується вище гравців на часовій шкалі.$p$Накладає $grav+1$ на всіх ворогів.</string>
 </set>
 <set id="description-skill-pterodactyl-swoopdown">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.$br$Sinkt auf der Zeitleiste unter die Charaktere. Versieht sich selbst mit $grav+2$.</string>
