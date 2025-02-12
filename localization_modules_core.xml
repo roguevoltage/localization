@@ -173,7 +173,7 @@
 </set>
 <set id="description-module-defibrillator" remarks="$healing$ is a keyword now">
 		<string lang="de">Kann aufgeladen werden.$p$Wenn ein Charakter ohnmächtig wird, wird er wiederbelebt und erhält $healing$ in Höhe der gespeicherten $energy$.</string>
-		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived and receive $healing$ in height of its stored $energy$.</string>
+		<string lang="en">Can be charged.$p$If a character becomes unconscious, they are revived and receive $healing$ equal to its stored $energy$.</string>
 		<string lang="fr">Peut être chargé.$p$Si un personnage tombe inconscient, il est réanimé et reçoit $healing$ à hauteur de son $energy$ stocké.</string>
 		<string lang="zh">可充能。$p$如果有角色昏迷，则该角色复活时获得与储存$energy$等值的$healing$。</string>
 		<string lang="jp">充電可能。$p$キャラが気絶するなら蘇生し、$br$貯まっている$energy$分だけ$br$$healing$。</string>
