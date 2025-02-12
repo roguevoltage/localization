@@ -171,6 +171,19 @@
 </string>
 		<string lang="uk">Знищиться після ходу власника</string>
 </set>
+<set id="description-status-modulegrease">
+		<string lang="de">Verhindert, dass das Modul mit $crust$, $pollution$, $cooldown$ und $outoforder$ versehen wird.</string>
+		<string lang="en">Prevents the module from becoming inflicted with $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
+        <string lang="fr">Empêche le module d'être affecté par $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
+        <string lang="zh">防止模块受到$crust$、$pollution$、$cooldown$和$outoforder$的影响。</string>
+        <string lang="jp">$crust$、$pollution$、$cooldown$、$outoforder$を受けない</string>
+        <string lang="ru">Предотвращает наложение $crust$, $pollution$, $cooldown$ и $outoforder$ на модуль.</string>
+        <string lang="es">Evita que el módulo sea afectado por $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
+        <string lang="kr">$crust$, $pollution$, $cooldown$ 및 $outoforder$에 영향을 받지 않도록 합니다.</string>
+        <string lang="pt-br">Impede que o módulo seja afetado por $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
+        <string lang="zh-tw">防止模組受到$crust$、$pollution$、$cooldown$和$outoforder$的影響。</string>
+        <string lang="uk">Запобігає накладанню $crust$, $pollution$, $cooldown$ та $outoforder$ на модуль.</string>
+</set>
 <set id="description-status-modulehazardous">
 		<string lang="de">Aktivierung fügt dem Charakter für $b$5$/b$ Zeitschritte $vulnerable$ zu</string>
 		<string lang="en">Activation inflicts the owner with $vulnerable$ for $b$5$/b$ time steps</string>
@@ -319,6 +332,19 @@
 		<string lang="zh-tw">激蕩
 </string>
 		<string lang="uk">Нестійкий</string>
+</set>
+<set id="name-status-modulegrease">
+		<string lang="de">Geschmiert</string>
+		<string lang="en">Grease</string>
+		<string lang="fr">Graisse</string>
+        <string lang="zh">润滑</string>
+        <string lang="jp">グリース</string>
+        <string lang="ru">Смазка</string>
+        <string lang="es">Grasa</string>
+        <string lang="kr">윤활유</string>
+        <string lang="pt-br">Graxa</string>
+        <string lang="zh-tw">潤滑</string>
+        <string lang="uk">Змащений</string>
 </set>
 <set id="name-status-modulehazardous">
 		<string lang="de">Gefährlich</string>
