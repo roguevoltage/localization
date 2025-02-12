@@ -717,18 +717,18 @@
         <string lang="zh-tw">每場戰鬥開始時，$1energy$。</string>
         <string lang="uk">Заряджається на $1energy$ на початку бою.</string>
 </set>
-<set id="description-module-storagecellclockwork">
-		<string lang="de">Wird zu Beginn des Zuges des Charakters um $1energy$ geladen.</string>
-		<string lang="en">Is charged with $1energy$ at the beginning of the owner's turn.</string>
-		<string lang="fr">Est chargé de $1energy$ au début du tour du propriétaire.</string>
-		<string lang="zh">每个角色回合开始时，$1energy$。</string>
-		<string lang="jp">キャラクターのターン開始時に、$1energy$。</string>
-		<string lang="ru">Заряжается на $1energy$ в начале хода персонажа.</string>
-		<string lang="es">Se carga con $1energy$ al comienzo del turno del dueño.</string>
-		<string lang="kr">주인의 차례 시작 시 $1energy$로 충전됩니다.</string>
-		<string lang="pt-br">É carregado com $1energy$ no início do turno do dono.</string>
-		<string lang="zh-tw">每個角色回合開始時，$1energy$。</string>
-		<string lang="uk">Заряджається на $1energy$ на початку ходу власника.</string>
+<set id="description-module-storagecellclockwork" remarks="translate as: Is charged with $1energy$ at the beginning of every second turn of the owner.">
+		<string lang="de">Wird zu Beginn jedes 2. Zuges des Charakters um $1energy$ geladen.</string>
+		<string lang="en">Is charged with $1energy$ at the beginning of every 2&lt;sup&gt;nd&lt;/sup&gt; turn of the owner.</string>
+        <string lang="fr">Est chargé de $1energy$ au début de chaque 2&lt;sup&gt;ème&lt;/sup&gt; tour du propriétaire.</string>
+        <string lang="zh">每第二轮开始时，$1energy$。</string>
+        <string lang="jp">キャラクターの第 2 ターンの開始時に $1energy$。</string>
+        <string lang="ru">Заряжается на $1energy$ в начале каждого 2-го хода персонажа.</string>
+        <string lang="es">Se carga con $1energy$ al comienzo de cada 2.º turno del dueño.</string>
+        <string lang="kr">주인의 2번째 차례 시작 시 $1energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $1energy$ no início de cada 2.º turno do dono.</string>
+        <string lang="zh-tw">每第二輪開始時，$1energy$。</string>
+        <string lang="uk">Заряджається на $1energy$ на початку кожного 2-го ходу власника.</string>
 </set>
 <set id="description-module-storagecellemergency">
 	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
@@ -742,6 +742,19 @@
 	<string lang="pt-br">Pode ser descarregado por$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
 	<string lang="zh-tw">可釋放$b$$CHARGEVALUE$$/b$$energy$。</string>
 	<string lang="uk">Може бути розряджений для отримання $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
+</set>
+<set id="description-module-storagecellinduction">
+		<string lang="de">Wird zu Beginn des Zuges des Charakters um $1energy$ geladen.</string>
+		<string lang="en">Is charged with $1energy$ at the beginning of the owner's turn.</string>
+		<string lang="fr">Est chargé de $1energy$ au début du tour du propriétaire.</string>
+		<string lang="zh">每个角色回合开始时，$1energy$。</string>
+		<string lang="jp">キャラクターのターン開始時に、$1energy$。</string>
+		<string lang="ru">Заряжается на $1energy$ в начале хода персонажа.</string>
+		<string lang="es">Se carga con $1energy$ al comienzo del turno del dueño.</string>
+		<string lang="kr">주인의 차례 시작 시 $1energy$로 충전됩니다.</string>
+		<string lang="pt-br">É carregado com $1energy$ no início do turno do dono.</string>
+		<string lang="zh-tw">每個角色回合開始時，$1energy$。</string>
+		<string lang="uk">Заряджається на $1energy$ на початку ходу власника.</string>
 </set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$p$Reduziere Wirkung$br$mit $energy$.</string>
@@ -1795,6 +1808,19 @@
 	<string lang="pt-br">Célula de Emergência</string>
 	<string lang="zh-tw">應急單元</string>
 	<string lang="uk">Аварійна комірка</string>
+</set>
+<set id="name-module-storagecellinduction">
+		<string lang="de">Induktions-Zelle</string>
+        <string lang="en">Induction Cell</string>
+        <string lang="fr">Pile d'Induction</string>
+        <string lang="zh">感应单元</string>
+        <string lang="jp">誘導電池</string>
+        <string lang="ru">Индукционная Ячейка</string>
+        <string lang="es">Pila de Inducción</string>
+        <string lang="kr">유도 전지</string>
+        <string lang="pt-br">Célula de Indução</string>
+        <string lang="zh-tw">感應單元</string>
+        <string lang="uk">Індукційна комірка</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
