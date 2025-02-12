@@ -77,6 +77,19 @@
         <string lang="zh-tw">在第一場戰鬥開始時，將所有$loadout$模組上的插孔顏色更改為$b$universal$/b$。</string>
         <string lang="uk">На початку першого бою, змініть колір роз'ємів на всіх модулях $loadout$ на $b$universal$/b$.</string>
 </set>
+<set id="description-module-blessing-startrunwithuniversalpaintbucket" remarks="translate Paint Bucket (Universal) like in the string set with id name-module-toggledpaintbucket-universal">
+        <string lang="de">Stellt zu Beginn des ersten Kampfes einen $b$Farbeimer (Universell)$/b$ her.</string>
+		<string lang="en">On the beginning of the first battle, construct a $b$Paint Bucket (Universal)$/b$.</string>
+        <string lang="fr">Au début du premier combat, construisez un $b$Seau de Peinture (Universel)$/b$.</string>
+        <string lang="zh">在第一场战斗开始时，制造一个$b$油漆桶（通用）$/b$。</string>
+        <string lang="jp">最初の戦闘の開始時に、$b$ペイントバケツ（ユニバーサル）$/b$を作成します。</string>
+        <string lang="ru">В начале первого боя создает $b$Ведро краски (Универсальное)$/b$.</string>
+        <string lang="es">Al comienzo del primer combate, construye un $b$Cubo de Pintura (Universal)$/b$.</string>
+        <string lang="kr">첫 전투 시작 시 $b$페인트 양동이 (유니버셜)$/b$을 제작합니다.</string>
+        <string lang="pt-br">No início da primeira batalha, construa um $b$Balde de Tinta (Universal)$/b$.</string>
+        <string lang="zh-tw">在第一場戰鬥開始時，製造一個$b$油漆桶（通用）$/b$。</string>
+        <string lang="uk">На початку першого бою створює $b$Відро фарби (Універсальне)$/b$.</string>
+</set>
 <set id="description-module-blessing-plasmarecycler">
         <string lang="de">Erzeugt $1plasma$ immer wenn ein Modul zerstört wird.</string>
 		<string lang="en">Whenever a module gets destroyed, create $1plasma$.</string>
@@ -1278,7 +1291,7 @@
         <string lang="zh-tw">存錢罐</string>
         <string lang="uk">Копилка</string>
 </set>
-<set id="name-module-blessing-universaljacks" remarks="translate as Paint Roller">
+<set id="name-module-blessing-startrunwithuniversalpaintbucket" remarks="translate as Paint Roller">
         <string lang="de">Farbroller</string>
 		<string lang="en">Paint Roller</string>
         <string lang="fr">Rouleau à Peinture</string>
