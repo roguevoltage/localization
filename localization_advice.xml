@@ -139,6 +139,20 @@
 </string>
 		<string lang="uk">Для того щоб вирівняти ходи, іноді краще взагалі не активувати генератор.</string>
 </set>
+<set id="advice-fire">
+		<string lang="de">$fire$ kann gelöscht werden, indem das Modul mit $cooldown$ oder $outoforder$ versehen wird.</string>
+		<string lang="en">$fire$ can be extinguished by inflicting the module on $cooldown$ or $outoforder$.</string>
+        <string lang="fr">$fire$ peut être éteint en infligeant le module sur $cooldown$ ou $outoforder$.</string>
+        <string lang="zh">通过让模块进入$cooldown$或$outoforder$状态，可以熄灭$fire$。</string>
+        <string lang="jp">$fire$は、$cooldown$や$outoforder$の状態にすることで消火できる。</string>
+        <string lang="ru">$fire$ можно потушить, накладывая на модуль состояние $cooldown$ или $outoforder$.</string>
+        <string lang="es">$fire$ puede ser extinguido infligiendo el módulo en $cooldown$ o $outoforder$.</string>
+        <string lang="kr">$fire$는 $cooldown$ 또는 $outoforder$ 상태의 모듈로 만들어 끌 수 있습니다.</string>
+        <string lang="pt-br">$fire$ pode ser extinto infligindo o módulo em $cooldown$ ou $outoforder$.</string>
+        <string lang="zh-tw">通過讓模組進入$cooldown$或$outoforder$狀態，可以熄滅$fire$。
+</string>
+        <string lang="uk">$fire$ можна загасити, накладаючи на модуль стан $cooldown$ або $outoforder$.</string>
+</set>
 <set id="advice-happenings">
 		<string lang="de">$b$?$/b$-Ereignisse bieten die Möglichkeit, deine Module zu duplizieren, zu transformieren oder zu verbessern.</string>
 		<string lang="en">$b$?$/b$-Levels offer options to duplicate, transform or improve your modules.</string>
@@ -166,6 +180,20 @@
 		<string lang="zh-tw">使用鍵盤滑鼠遊戲時，中鍵單擊模組可將其快速移至背包。
 </string>
 		<string lang="uk">Під час гри з клавіатурою та мишею, можна клацнути середньою кнопкою миші на модулі, щоб відправити його до рюкзаку або назад з рюкзака.</string>
+</set>
+<set id="advice-negativeplasma">
+        <string lang="de">Du kannst einen bewusstlosen Charakter vom Loot-Bildschirm aus wiederbeleben, anstatt ein Loot-Modul auszuwählen. Dein $plasma$ kann dabei ins Negative gehen.</string>
+		<string lang="en">You can revive an unconscious character from the loot screen instead of picking a loot module. Your $plasma$ can go into the negative like this.</string>
+        <string lang="fr">Vous pouvez réanimer un personnage inconscient à partir de l'écran de butin au lieu de choisir un module de butin. Votre $plasma$ peut devenir négatif de cette manière.</string>
+        <string lang="zh">你可以从战利品界面复活一个昏迷的角色，而不是选择一个战利品模块。这样你的$plasma$可能会变成负数。</string>
+        <string lang="jp">戦利品画面から戦利品モジュールを選ぶ代わりに、$br$意識不明のキャラクターを蘇生することができます。$br$このようにして$plasma$がマイナスになることがあります。</string>
+        <string lang="ru">Вы можете оживить без сознания персонажа с экрана добычи вместо выбора модуля добычи. Ваш $plasma$ может стать отрицательным.</string>
+        <string lang="es">Puedes revivir a un personaje inconsciente desde la pantalla de botín en lugar de elegir un módulo de botín. Tu $plasma$ puede volverse negativo de esta manera.</string>
+        <string lang="kr">전리품 화면에서 전리품 모듈을 선택하는 대신, 의식을 잃은 캐릭터를 부활시킬 수 있습니다. 이렇게 하면 $plasma$가 마이너스가 될 수 있습니다.</string>
+        <string lang="pt-br">Você pode reviver um personagem inconsciente na tela de saque em vez de escolher um módulo de saque. Seu $plasma$ pode ficar negativo dessa forma.</string>
+        <string lang="zh-tw">你可以從戰利品畫面復活一個昏迷的角色，而不是選擇一個戰利品模組。這樣你的$plasma$可能會變成負數。
+</string>
+        <string lang="uk">Ви можете оживити без свідомості персонажа з екрану добутку замість вибору модуля добутку. Ваш $plasma$ може стати від'ємним.</string>
 </set>
 <set id="advice-rating">
 		<string lang="de">Wenn du eine $special$-Bewertung erhältst wird die Dauer für $special$ im nächsten Kampf um 2 reduziert.</string>
