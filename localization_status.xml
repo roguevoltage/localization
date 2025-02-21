@@ -216,6 +216,19 @@
 		<string lang="zh-tw">從輸入能量流減去$1energy$</string>
 		<string lang="uk">Зменшує $energyicon$$b$Енергію$/b$ вхідного струму на $1$</string>
 </set>
+<set id="description-status-moduleexhaustion">
+		<string lang="de">Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
+		<string lang="en">Activation sets back next turn by $b$$EXHAUSTION$</string>
+		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
+		<string lang="zh">激活后角色下一回合延后$b$$EXHAUSTION$$/b$步</string>
+		<string lang="jp">起動で次のターンを$b$$EXHAUSTION$$/b$遅らせる</string>
+		<string lang="ru">Активация откладывает$br$следующий ход на $b$$EXHAUSTION$$/b$</string>
+		<string lang="es">La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
+		<string lang="kr">활성화 시 다음 턴이 $b$$EXHAUSTION$$/b$만큼 늦춰집니다</string>
+		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
+		<string lang="zh-tw">啟動後角色下一回合延後$b$$EXHAUSTION$$/b$步</string>
+		<string lang="uk">Активація відтерміновує наступний хід на $b$$EXHAUSTION$$/b$</string>
+</set>
 <set id="description-status-modulefire">
 		<string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
 		<string lang="en">Activate this turn to extinguish, or it will deal$br$$1damage$ to the owner after their turn</string>
@@ -865,6 +878,19 @@
 		<string lang="pt-br">Amortecimento 1</string>
 		<string lang="zh-tw">減弱1</string>
 		<string lang="uk">Згасання 1</string>
+</set>
+<set id="name-status-moduleexhaustion">
+		<string lang="de">Erschöpfung $EXHAUSTION$</string>
+		<string lang="en">Exhaustion $EXHAUSTION$</string>
+		<string lang="fr">Fatigue $EXHAUSTION$</string>
+		<string lang="zh">疲劳$EXHAUSTION$</string>
+		<string lang="jp">消耗$EXHAUSTION$</string>
+		<string lang="ru">Изнурение $EXHAUSTION$</string>
+		<string lang="es">Agotamiento $EXHAUSTION$</string>
+		<string lang="kr">고갈 $EXHAUSTION$</string>
+		<string lang="pt-br">Exaustão $EXHAUSTION$</string>
+		<string lang="zh-tw">疲勞$EXHAUSTION$</string>
+		<string lang="uk">Виснаження $EXHAUSTION$</string>
 </set>
 <set id="name-status-modulefire">
 		<string lang="de">Feuer</string>
