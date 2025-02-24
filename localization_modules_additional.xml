@@ -1133,6 +1133,19 @@
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。</string>
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $turbo$.</string>
 </set>
+<set id="description-module-toggledpassthroughturbo-tapper">
+        <string lang="de">Fügt einem Modul deiner Wahl auf diesem Rack $outoforder$ zu.$p$Verleiht einem anderen $passthroughmodule$ auf diesem Rack $turbo$.</string>
+		<string lang="en">Applies $outoforder$ to target module on this rack.$p$Applies $turbo$ to another target $passthroughmodule$ on this rack.</string>
+        <string lang="fr">Applique $outoforder$ à un module ciblé sur ce rack.$p$Applique $turbo$ à un autre $passthroughmodule$ ciblé sur ce rack.</string>
+        <string lang="zh">在此模架上选择一个模块，施加$outoforder$。$p$为另一个$passthroughmodule$施加$turbo$。</string>
+        <string lang="jp">ラックの別の対象モジュールに$br$$outoforder$付与。$p$ラックの別の$passthroughmodule$に$br$$turbo$付与。</string>
+        <string lang="ru">Применяет $outoforder$ к целевому модулю на этой стойке.$p$Применяет $turbo$ к другому целевому $passthroughmodule$ на этой стойке.</string>
+        <string lang="es">Aplica $outoforder$ al módulo objetivo en este bastidor.$p$Aplica $turbo$ a otro módulo $passthroughmodule$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 모듈에게 $outoforder$을 부여합니다.$p$이 랙의 다른 대상 $passthroughmodule$에게 $turbo$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $outoforder$ ao módulo alvo neste rack.$p$Aplica $turbo$ a outro módulo $passthroughmodule$ alvo neste rack.</string>
+        <string lang="zh-tw">在此模架上選擇一個模組，施加$outoforder$。$p$為另一個$passthroughmodule$施加$turbo$。</string>
+        <string lang="uk">Застосовує $outoforder$ до цільового модуля на цій стійці.$p$Застосовує $turbo$ до іншого цільового $passthroughmodule$ на цій стійці.</string>
+</set>
 <set id="description-module-toggledupgradergenerator-berserk">
         <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade-berserk$.</string>
 		<string lang="en">Applies $upgrade-berserk$ to target basic $generator$ on this rack.</string>
@@ -2355,6 +2368,18 @@
 		<string lang="pt-br">Turbo de Passagem</string>
 		<string lang="zh-tw">強化中繼器</string>
 		<string lang="uk">Турбо-Прохідник</string>
+</set>
+<set id="name-module-toggledpassthroughturbo-tapper">
+		<string lang="de">Ausbeutungs-Turbolader</string>
+		<string lang="en">Exploiting Turbocharger</string>
+        <string lang="fr">Turbocompressuer d'Exploitation</string>
+        <string lang="zh">剥削性涡轮增压器</string>
+        <string lang="jp">利用ターボチャージャ</string>
+        <string lang="ru">Эксплуатационный Турбонагнетатель</string>
+        <string lang="es">Turbo Cargador de Explotación</string>
+        <string lang="kr">이용 터보차저</string>
+        <string lang="pt-br">Turbocompressor de Exploração</string>
+        <string lang="zh-tw">剝削性渦輪增壓器</string>
 </set>
 <set id="name-module-toggledupgradergenerator-berserk">
         <string lang="de">Generator-Upgrader: Berserk</string>
