@@ -795,18 +795,18 @@
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$boost$狀態。</string>
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $boost$.</string>
 </set>
-<set id="description-module-toggledcrustremover">
-		<string lang="de">Entfernt $crust$ von allen Modulen auf diesem Rack.</string>
-		<string lang="en">Removes $crust$ from all modules on this rack.</string>
-		<string lang="fr">Supprime $crust$ de tous les modules de ce rack.</string>
-		<string lang="zh">移除模架上所有模块的$crust$。</string>
-		<string lang="jp">ラックの全モジュールから$br$$crust$除去。</string>
-		<string lang="ru">Удаляет $crust$ у всех модулей на этой стойке.</string>
-		<string lang="es">Elimina $crust$ de todos los módulos en este bastidor.</string>
-		<string lang="kr">이 랙의 모든 모듈에게서 $crust$를 제거합니다.</string>
-		<string lang="pt-br">Remove $crust$ de todos os módulos neste rack.</string>
-		<string lang="zh-tw">移除模架上所有模組的$crust$。</string>
-		<string lang="uk">Видаляє $crust$ з усіх модулів на цій стійці.</string>
+<set id="description-module-toggledstatusremover">
+        <string lang="de">Entfernt $fire$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
+		<string lang="en">Removes $fire$, $crust$ and temporary instances of$br$$gravrecoil$ and $pollution$ from target module on this rack.</string>
+        <string lang="fr">Retire $fire$, $crust$ et effets temporaires de $gravrecoil$ et $pollution$ d'un module ciblé sur ce rack.</string>
+        <string lang="zh">从此模架上的目标模块中移除$fire$、$crust$和临时的$gravrecoil$和$pollution$。</string>
+        <string lang="jp">このラックの対象モジュールから$fire$、$crust$、$gravrecoil$、$pollution$の一時効果を除去。</string>
+        <string lang="ru">Удаляет $fire$, $crust$ и временные эффекты $gravrecoil$ и $pollution$ с целевого модуля на этой стойке.</string>
+        <string lang="es">Elimina $fire$, $crust$ y efectos temporales de $gravrecoil$ y $pollution$ de un módulo objetivo en este bastidor.</string>
+        <string lang="pt-br">Remove $fire$, $crust$ e instâncias temporárias de $gravrecoil$ e $pollution$ de um módulo alvo neste rack.</string>
+        <string lang="kr">이 랙의 대상 모듈에서 $fire$, $crust$ 및 $gravrecoil$ 및 $pollution$의 일시적인 상태를 제거합니다.</string>
+        <string lang="zh-tw">從此模架上的目標模組中移除$fire$、$crust$和臨時的$gravrecoil$和$pollution$。</string>
+        <string lang="uk">Видаляє $fire$, $crust$ та тимчасові ефекти $gravrecoil$ та $pollution$ з цільового модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
 		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>
@@ -1861,18 +1861,18 @@
 		<string lang="zh-tw">中繼增強器榴彈</string>
 		<string lang="uk">Граната Пропускний підсилювач</string>
 </set>
-<set id="name-module-toggledcrustremover">
-		<string lang="de">Entkruster-Kit</string>
-		<string lang="en">Decrusting Kit</string>
-		<string lang="fr">Kit de Décrottage</string>
-		<string lang="zh">脱壳组件</string>
-		<string lang="jp">破晶キット</string>
-		<string lang="ru">Комплект Очистки</string>
-		<string lang="es">Kit de Decrustación</string>
-		<string lang="kr">크러스트 제거 키트</string>
-		<string lang="pt-br">Kit de Decrustação</string>
-		<string lang="zh-tw">脫殼組件</string>
-		<string lang="uk">Набір очищення</string>
+<set id="name-module-toggledstatusremover" remarks="translate as Shower Head">
+		<string lang="de">Duschkopf</string>
+		<string lang="en">Shower Head</string>
+        <string lang="fr">Pommeau de Douche</string>
+        <string lang="zh">淋浴头</string>
+        <string lang="jp">シャワーヘッド</string>
+        <string lang="ru">Душевая Головка</string>
+        <string lang="es">Cabeza de Ducha</string>
+        <string lang="kr">샤워 헤드</string>
+        <string lang="pt-br">Cabeça de Chuveiro</string>
+        <string lang="zh-tw">淋浴頭</string>
+        <string lang="uk">Душова головка</string>
 </set>
 <set id="name-module-toggleddurabilityenhancer">
 		<string lang="de">Haltbarkeits-Verstärker</string>
