@@ -64,6 +64,19 @@
 		<string lang="zh-tw">任意模組被銷毀時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли знищується інший модуль.</string>
 </set>
+<set id="description-module-collectorfriendship">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn der andere Startcharakter am Zug ist.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the other starting character takes a turn.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que l'autre personnage de départ joue.</string>
+        <string lang="zh">另一起始角色行动时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">もう一方のスタートキャラが行動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой стартовый персонаж ходит.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el otro personaje inicial toma un turno.</string>
+        <string lang="kr">다른 시작 캐릭터가 턴을 가져갈 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que o outro personagem inicial toma um turno.</string>
+        <string lang="zh-tw">另一起始角色行動時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли інший стартовий персонаж ходить.</string>
+</set>
 <set id="description-module-collectorgravpos">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav+$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav+$ is applied to a player character.</string>
@@ -1121,6 +1134,19 @@
 		<string lang="zh-tw">銷毀感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор руйнування $MODIFICATIONVALUE$</string>
 </set>
+<set id="name-module-collectorfriendship">
+		<string lang="de">Freundschafts-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Friendship Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur d'Amitié $MODIFICATIONVALUE$</string>
+        <string lang="zh">友谊传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">友情センサー$MODIFICATIONVALUE$</string>
+        <string lang="ru">Датчик Дружбы $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Amistad $MODIFICATIONVALUE$</string>
+        <string lang="kr">우정 감지기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Amizade $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">友誼感測器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Сенсор Дружби $MODIFICATIONVALUE$</string>
+</set>
 <set id="name-module-collectorgravpos">
 		<string lang="de">Grav.-Sensor $grav+icon$ $MODIFICATIONVALUE$</string>
 		<string lang="en">Grav. Sensor $grav+icon$ $MODIFICATIONVALUE$</string>
@@ -1876,7 +1902,7 @@
 </set>
 <set id="name-module-toggledpassthroughbooster-multi">
 		<string lang="de">Nitro-Flaschen-Matrix</string>
-		<string lang="en">Nitrous Bottle Matrix</string>
+		<string lang="en">Nitrous Bottle Array</string>
         <string lang="fr">Matrice de Bouteilles de Nitro</string>
         <string lang="zh">笑气瓶阵列</string>
         <string lang="jp">ナイトロボトルマトリックス</string>
