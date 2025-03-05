@@ -795,6 +795,19 @@
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$boost$狀態。</string>
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $boost$.</string>
 </set>
+<set id="description-module-toggledpassthroughbooster-multi">
+		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$.</string>
+		<string lang="en">Applies $boost$ to all $passthroughmodule$s$br$on this rack.</string>
+		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack.</string>
+		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
+		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
+		<string lang="ru">Накладывает $boost$ на все модули типа $passthroughmodule$ на этой стойке до конца хода.</string>
+		<string lang="es">Aplica $boost$ a todos los módulos de tipo $passthroughmodule$ en este bastidor.</string>
+		<string lang="kr">턴 종료 전까지 이 랙의 모든 $passthroughmodule$에게 $boost$를 적용합니다.</string>
+		<string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthroughmodule$ neste rack.</string>
+		<string lang="zh-tw">為本模架上的所有$passthroughmodule$施加$boost$，直到回合結束。</string>
+		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
+</set>
 <set id="description-module-toggledstatusremover">
         <string lang="de">Entfernt $fire$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Removes $fire$, $crust$ and temporary instances of$br$$gravrecoil$ and $pollution$ from target module on this rack.</string>
@@ -820,6 +833,19 @@
 		<string lang="pt-br">Remove permanentemente $overload$ de um módulo neste rack$p$- ou -$p$remove permanentemente $malfunctioning$ de um módulo neste rack e o substitui por $overload$.</string>
 		<string lang="zh-tw">永久移除選定模組的$overload$$br$-或者-$br$將選定模組的$malfunctioning$永久替換為$overload$。</string>
 		<string lang="uk">Назавжди видаляє $overload$ з модуля на цій стійці$p$- або -$p$назавжди видаляє $malfunctioning$ з модуля на цій стійці та замінює його на $overload$.</string>
+</set>
+<set id="description-module-toggledgravnullifier">
+		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
+		<string lang="en">Removes all $grav$ from all combatants.</string>
+		<string lang="fr">Supprime toute $grav$ de tous les combattants.</string>
+		<string lang="zh">移除所有参战单位的$grav$。</string>
+		<string lang="jp">敵味方全体から全$grav$除去。</string>
+		<string lang="ru">Удаляет все $grav$ у всех участников боя.</string>
+		<string lang="es">Elimina todo $grav$ de todos los combatientes.</string>
+		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.</string>
+		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.</string>
+		<string lang="zh-tw">移除所有參戰單位的$grav$。</string>
+		<string lang="uk">Видаляє всі $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
@@ -1848,6 +1874,19 @@
         <string lang="zh-tw">笑氣瓶</string>
         <string lang="uk">Балон Нітро</string>
 </set>
+<set id="name-module-toggledpassthroughbooster-multi">
+		<string lang="de">Nitro-Flaschen-Matrix</string>
+		<string lang="en">Nitrous Bottle Matrix</string>
+        <string lang="fr">Matrice de Bouteilles de Nitro</string>
+        <string lang="zh">笑气瓶阵列</string>
+        <string lang="jp">ナイトロボトルマトリックス</string>
+        <string lang="ru">Матрица Баллонов Нитро</string>
+        <string lang="es">Matriz de Botellas de Nitro</string>
+        <string lang="kr">나이트로스 병 매트릭스</string>
+        <string lang="pt-br">Matriz de Garrafas de Nitro</string>
+        <string lang="zh-tw">笑氣瓶陣列</string>
+        <string lang="uk">Матриця Балонів Нітро</string>
+</set>
 <set id="name-module-toggledgrenadepassthroughboost">
 		<string lang="de">Durchsatz-Booster-Granate</string>
 		<string lang="en">Passthrough Booster Grenade</string>
@@ -1887,6 +1926,20 @@
 		<string lang="zh-tw">耐久增強器
 </string>
 		<string lang="uk">Покращувач міцності</string>
+</set>
+<set id="name-module-toggledgravnullifier">
+		<string lang="de">Grav.-Neutralisator</string>
+		<string lang="en">Grav. Neutralizer</string>
+		<string lang="fr">Neutralisant Grav.</string>
+		<string lang="zh">引力中和器</string>
+		<string lang="jp">重力中和器</string>
+		<string lang="ru">Грав. Нейтрализатор</string>
+		<string lang="es">Neutralizador Grav.</string>
+		<string lang="kr">중력 상쇄기</string>
+		<string lang="pt-br">Neutralizador Grav.</string>
+		<string lang="zh-tw">引力中和器
+</string>
+		<string lang="uk">Гравінейтралізатор</string>
 </set>
 <set id="name-module-toggledgrenadegravnullifier">
 		<string lang="de">Grav.-Neutralisator</string>
