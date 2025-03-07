@@ -332,18 +332,18 @@
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu und zwingt je ein $b$Brennende Trümmer$/b$-Modul in deren Rack</string>
-		<string lang="en">Deals $1$ $damage$ to all enemies and forces one $b$Burning Debris$/b$ module each into their rack</string>
-		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $b$Débris Brûlants$/b$ dans leur rack</string>
-		<string lang="zh">对所有敌人造成$1$$damage$，并在其各自的模架上强行各安插一个$b$燃烧残骸$/b$。</string>
-		<string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$b$火礫$/b$モジュール生成。</string>
-		<string lang="ru">Наносит всем врагам $1$ $damage$ и заставляет вставить в их стойку по одному модулю $b$Горящие Обломки$/b$</string>
-		<string lang="es">Inflige $1$ $damage$ a todos los enemigos y fuerza un módulo $b$Escombros Ardientes$/b$ en su rack</string>
-		<string lang="kr">모든 적에게 $1$ $damage$를 주고 각 랙에 $b$불타는 잔해$/b$ 모듈 하나를 강제로 설치합니다</string>
-		<string lang="pt-br">Causa $1$ $damage$ a todos os inimigos e força um módulo $b$Burning Debris$/b$ em seu rack</string>
-		<string lang="zh-tw">對所有敵人造成$1$$damage$，並在其各自的模架上強行各安插一個$b$燃燒殘骸$/b$。
+		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu und zwingt je ein $fireicon$$b$Brennende Trümmer$/b$-Modul in deren Rack</string>
+		<string lang="en">Deals $1$ $damage$ to all enemies and forces one $fireicon$$b$Burning Debris$/b$ module each into their rack</string>
+		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $fireicon$$b$Débris Brûlants$/b$ dans leur rack</string>
+		<string lang="zh">对所有敌人造成$1$$damage$，并在其各自的模架上强行各安插一个$fireicon$$b$燃烧残骸$/b$。</string>
+		<string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$fireicon$$b$火礫$/b$モジュール生成。</string>
+		<string lang="ru">Наносит всем врагам $1$ $damage$ и заставляет вставить в их стойку по одному модулю $fireicon$$b$Горящие Обломки$/b$</string>
+		<string lang="es">Inflige $1$ $damage$ a todos los enemigos y fuerza un módulo $fireicon$$b$Escombros Ardientes$/b$ en su rack</string>
+		<string lang="kr">모든 적에게 $1$ $damage$를 주고 각 랙에 $fireicon$$b$불타는 잔해$/b$ 모듈 하나를 강제로 설치합니다</string>
+		<string lang="pt-br">Causa $1$ $damage$ a todos os inimigos e força um módulo $fireicon$$b$Burning Debris$/b$ em seu rack</string>
+		<string lang="zh-tw">對所有敵人造成$1$$damage$，並在其各自的模架上強行各安插一個$fireicon$$b$燃燒殘骸$/b$。
 </string>
-		<string lang="uk">Наносить $1$ $damage$ всім ворогам і встановлює кожному з них на стійку модуль $b$Палаючі Уламки$/b$</string>
+		<string lang="uk">Наносить $1$ $damage$ всім ворогам і встановлює кожному з них на стійку модуль $fireicon$$b$Палаючі Уламки$/b$</string>
 </set>
 <set id="description-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
@@ -1044,18 +1044,18 @@
 		<string lang="uk">Вогнедихання $fireicon$ $fireicon$</string>
 </set>
 <set id="name-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Brennende Trümmer</string>
-		<string lang="en">Burning Debris</string>
-		<string lang="fr">Débris Brûlants</string>
-		<string lang="zh">燃烧残骸</string>
-		<string lang="jp">火礫</string>
-		<string lang="ru">Горящие Обломки</string>
-		<string lang="es">Escombros Ardientes</string>
-		<string lang="kr">불타는 잔해</string>
-		<string lang="pt-br">Detritos Ardentes</string>
-		<string lang="zh-tw">燃燒殘骸
+		<string lang="de">Brennende Trümmer $fireicon$</string>
+		<string lang="en">Burning Debris $fireicon$</string>
+		<string lang="fr">Débris Brûlants $fireicon$</string>
+		<string lang="zh">燃烧残骸 $fireicon$</string>
+		<string lang="jp">火礫 $fireicon$</string>
+		<string lang="ru">Горящие Обломки $fireicon$</string>
+		<string lang="es">Escombros Ardientes $fireicon$</string>
+		<string lang="kr">불타는 잔해 $fireicon$</string>
+		<string lang="pt-br">Detritos Ardentes $fireicon$</string>
+		<string lang="zh-tw">燃燒殘骸 $fireicon$
 </string>
-		<string lang="uk">Палаючі уламки</string>
+		<string lang="uk">Палаючі уламки $fireicon$</string>
 </set>
 <set id="name-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Phönix-Ei</string>
