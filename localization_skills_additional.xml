@@ -1,5 +1,18 @@
 <localization>
-<set id="description-skill-batter">
+<set id="description-skill-batter-bull">
+		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
+		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
+		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
+		<string lang="zh">对一名敌人造成$2damage$，并对自身施加$grav+2$。</string>
+		<string lang="jp">敵1体に$2damage$。$br$自身に$grav+2$付与。</string>
+		<string lang="ru">Наносит $2damage$ врагу и накладывает на себя $grav+2$.</string>
+		<string lang="es">Inflige $2damage$ a un enemigo y se inflige $grav+2$.</string>
+		<string lang="kr">적에게 $2damage$를 주고, 자신에게 $grav+2$를 부여합니다.</string>
+		<string lang="pt-br">Causa $2damage$ a um inimigo e se inflige $grav+2$.</string>
+		<string lang="zh-tw">對一名敵人造成$2damage$，並對自身施加$grav+2$。</string>
+		<string lang="uk">Наносить $2damage$ ворогу і накладає на себе $grav+2$.</string>
+</set>
+<set id="description-skill-batter-mammoth">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
 		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
 		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
@@ -37,6 +50,20 @@
         <string lang="pt-br">Invoca até dois $b$Ovo de Graviraptor$/b$$br$- ou -$br$concede a um ovo existente $1$ $might$.</string>
         <string lang="zh-tw">召喚最多兩個$b$重力迅猛龍蛋$/b$$br$- 或 -$br$賦予現有蛋$1$ $might$。</string>
         <string lang="uk">Викликає до двох $b$Graviraptor Egg$/b$$br$- або -$br$надає існуючому яйцю $1$ $might$.</string>
+</set>
+<set id="description-skill-monstertransformation-mammoth">
+        <string lang="de">Fügt allen Gegnern $grav+2$ zu</string>
+		<string lang="en">Transforms into $b$Mammoth$/b$.$p$Inflicts all enemies with $grav+2$</string>
+		<string lang="fr">Inflige $grav+2$ à tous les ennemis.</string>
+        <string lang="zh">对所有敌人施放$grav+2$。</string>
+        <string lang="jp">敵全体に$grav+2$付与。</string>
+        <string lang="ru">Применяет $grav+2$ ко всем врагам</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+2$</string>
+        <string lang="kr">모든 적에게 $grav+2$를 부여합니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+2$</string>
+        <string lang="zh-tw">對所有敵人施放$grav+2$。
+</string>
+        <string lang="uk">Накладає $grav+2$ на всіх ворогів</string>
 </set>
 <set id="description-skill-gravamplificationglobal">
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
@@ -720,6 +747,20 @@
 		<string lang="zh-tw">打理巢穴
 </string>
 		<string lang="uk">Догляд за гніздом</string>
+</set>
+<set id="name-skill-monstertransformation-mammoth">
+		<string lang="de">Auftauen $grav+2$</string>
+		<string lang="en">Thaw $grav+2$</string>
+        <string lang="fr">Décongeler $grav+2$</string>
+        <string lang="zh">解冻 $grav+2$</string>
+        <string lang="jp">解凍 $grav+2$</string>
+        <string lang="ru">Разморозка $grav+2$</string>
+        <string lang="es">Descongelar $grav+2$</string>
+        <string lang="kr">해동 $grav+2$</string>
+        <string lang="pt-br">Descongelar $grav+2$</string>
+        <string lang="zh-tw">解凍 $grav+2$
+</string>
+        <string lang="uk">Розморожування $grav+2$</string>
 </set>
 <set id="name-skill-gravabsorb">
 		<string lang="de">Grav.-Absorption</string>
