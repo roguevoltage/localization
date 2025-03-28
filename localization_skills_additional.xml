@@ -469,7 +469,7 @@
 		<string lang="zh-tw">每當受到$damage$，$br$令一個模組$gravrecoil$。</string>
 		<string lang="uk">Накладає на модуль $gravrecoil$ при отриманні $damage$.</string>
 </set>
-<set id="description-skill-passive-powerraiseifmodulecreated">
+<set id="description-skill-passive-onmoduleconstruction-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever a module is created.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est créé.</string>
@@ -483,7 +483,7 @@
 </string>
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли створюється модуль.</string>
 </set>
-<set id="description-skill-passive-powerraiseifmoduledestroyed">
+<set id="description-skill-passive-onmoduledestroyed-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul zerstört wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever a module is destroyed.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est détruit.</string>
@@ -1196,7 +1196,7 @@
 </string>
         <string lang="uk">Гравіоактивний $gravrecoilicon$</string>
 </set>
-<set id="name-skill-passive-powerraiseifgravinflicted">
+<set id="name-skill-passive-ongravinflict-powerraise">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
 		<string lang="en">Grav. Detection (+) $mighticon$</string>
 		<string lang="fr">Détection Grav. (+) $mighticon$</string>
@@ -1210,7 +1210,7 @@
 </string>
 		<string lang="uk">Гравідетекція (+) $mighticon$</string>
 </set>
-<set id="name-skill-passive-powerraiseifmodulecreated">
+<set id="name-skill-passive-onmoduleconstruction-powerraise">
 		<string lang="de">Fabrik- $mighticon$</string>
 		<string lang="en">Factory Detection $mighticon$</string>
 		<string lang="fr">Détection Fabrique $mighticon$</string>
@@ -1224,7 +1224,7 @@
 </string>
 		<string lang="uk">Детекція створення $mighticon$</string>
 </set>
-<set id="name-skill-passive-powerraiseifmoduledestroyed">
+<set id="name-skill-passive-onmoduledestroyed-powerraise">
 		<string lang="de">Trümmer-Detektion $mighticon$</string>
 		<string lang="en">Fracture Detection $mighticon$</string>
 		<string lang="fr">Détection Fracture $mighticon$</string>
