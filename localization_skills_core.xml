@@ -40,7 +40,21 @@
         <string lang="zh-tw">移除所有$might$。$p$對所有敵人造成$1damage$。</string>
         <string lang="uk">Видаляє всю $might$.$p$Наносить всім ворогам $1damage$.</string>
 </set>
-<set id="description-skill-damageinheightofpower">
+<set id="description-skill-damageequaltopower">
+		<string lang="de">Fügt $damage$ in Höhe der $might$ zu.</string>
+		<string lang="en">Deals $damage$ equal to its $might$.</string>
+		<string lang="fr">Inflige des dégâts équivalents à la $might$.</string>
+		<string lang="zh">造成与$might$等值的$damage$。</string>
+		<string lang="jp">$might$と同量の$damage$。</string>
+		<string lang="ru">Наносит $damage$ в размере от количества $might$.</string>
+		<string lang="es">Inflige $damage$ en altura de $might$.</string>
+		<string lang="kr">최대 $might$에 달하는 $damage$를 줍니다.</string>
+		<string lang="pt-br">Inflige $damage$ em altura de $might$.</string>
+		<string lang="zh-tw">造成與$might$等值的$damage$。
+</string>
+		<string lang="uk">Наносить $damage$ у розмірі показника $mighticon$$b$Сили$.</string>
+</set>
+<set id="description-skill-damageequaltopower-polarbear">
 		<string lang="de">Fügt $damage$ in Höhe der $might$ zu.</string>
 		<string lang="en">Deals $damage$ equal to its $might$.</string>
 		<string lang="fr">Inflige des dégâts équivalents à la $might$.</string>
@@ -752,6 +766,10 @@
 </string>
 		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
+<set id="description-skill-tusk-walrus">
+		<string lang="de">Fügt einem Gegner $grav+2$ und $1damage$ zu.</string>
+        <string lang="en">Deals $grav+2$ and $1damage$ to an enemy.</string>
+</set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
 		<string lang="en">Beak</string>
@@ -794,7 +812,7 @@
 </string>
 		<string lang="uk">Оглушливий крекіт $mighticon$</string>
 </set>
-<set id="name-skill-damageinheightofpower">
+<set id="name-skill-damageequaltopower">
 		<string lang="de">Mächtiger Stromschlag</string>
 		<string lang="en">Mighty Zap</string>
 		<string lang="fr">Coup puissant</string>
@@ -807,6 +825,18 @@
 		<string lang="zh-tw">沉重打擊
 </string>
 		<string lang="uk">Могутній розряд</string>
+</set>
+<set id="name-skill-damageequaltopower-polarbear">
+		<string lang="de">Zerfleischen</string>
+		<string lang="en">Maul</string>
+		<string lang="fr">Mutiler</string>
+		<string lang="zh">撕咬</string>
+		<string lang="jp">噛みつく</string>
+		<string lang="ru">Разорвать</string>
+		<string lang="es">Desgarrar</string>
+		<string lang="kr">물어뜯기</string>
+		<string lang="pt-br">Morder</string>
+		<string lang="uk">Розтерзати</string>
 </set>
 <set id="name-skill-encrustmodule">
 		<string lang="de">Harz $crusticon$</string>
@@ -1505,6 +1535,20 @@
 		<string lang="zh-tw">閃電打擊$VALUE$
 </string>
 		<string lang="uk">Удар блискавки $VALUE$</string>
+</set>
+<set id="name-skill-tusk-walrus">
+		<string lang="de">Stoßzahn $grav+2$</string>
+		<string lang="en">Tusk $grav+2$</string>
+        <string lang="fr">Défense de morse $grav+2$</string>
+        <string lang="zh">海象獠牙 $grav+2$</string>
+        <string lang="jp">セイウチの牙 $grav+2$</string>
+        <string lang="ru">Бивень моржа $grav+2$</string>
+        <string lang="es">Colmillo $grav+2$</string>
+        <string lang="kr">바다코끼리의 송곳니 $grav+2$</string>
+        <string lang="pt-br">Canino de Morsa $grav+2$</string>
+        <string lang="zh-tw">海象獠牙 $grav+2$
+</string>
+        <string lang="uk">Бивень моржа $grav+2$</string>
 </set>
 <set id="skill-attack">
 		<string lang="de">Angriff</string>
