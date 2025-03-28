@@ -1,7 +1,7 @@
 <localization>
 <set id="description-skill-batter-bull">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
-		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
+		<string lang="en">Deals $2damage$ to an enemy and applies $grav+2$ to itself.</string>
 		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
 		<string lang="zh">对一名敌人造成$2damage$，并对自身施加$grav+2$。</string>
 		<string lang="jp">敵1体に$2damage$。$br$自身に$grav+2$付与。</string>
@@ -12,9 +12,9 @@
 		<string lang="zh-tw">對一名敵人造成$2damage$，並對自身施加$grav+2$。</string>
 		<string lang="uk">Наносить $2damage$ ворогу і накладає на себе $grav+2$.</string>
 </set>
-<set id="description-skill-batter-mammoth">
+<set id="description-skill-trample-mammoth">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
-		<string lang="en">Deals $2damage$ to an enemy and inflicts itself with $grav+2$.</string>
+		<string lang="en">Deals $2damage$ to an enemy and applies $grav+2$ to itself.</string>
 		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
 		<string lang="zh">对一名敌人造成$2damage$，并对自身施加$grav+2$。</string>
 		<string lang="jp">敵1体に$2damage$。$br$自身に$grav+2$付与。</string>
@@ -469,6 +469,20 @@
 		<string lang="zh-tw">每當受到$damage$，$br$令一個模組$gravrecoil$。</string>
 		<string lang="uk">Накладає на модуль $gravrecoil$ при отриманні $damage$.</string>
 </set>
+<set id="description-skill-passive-onendofturn-ifdamaged-gravneg">
+        <string lang="de">Am Ende eines Zuges eines jeden Kampfteilnehmers, wenn dieses Monster in diesem Zug $damage$ erlitten hat, erhält es $grav-1$.</string>
+		<string lang="en">At the end of a turn by any combatant, if this monster has takes $damage$ this turn, it receives $grav-1$.</string>
+        <string lang="fr">À la fin d'un tour de n'importe quel combattant, si ce monstre a subi $damage$ ce tour, il reçoit $grav-1$.</string>
+        <string lang="zh">在任何参战单位的回合结束时，如果该单位在本回合内受到$damage$，$br$则施加$grav-1$。</string>
+        <string lang="jp">いずれかの戦闘者のターン終了時、$br$このモンスターが$damage$を受けていた場合、$br$$grav-1$付与。</string>
+        <string lang="ru">В конце хода любого бойца, если этот монстр получил $damage$ в этом ходу, он получает $grav-1$.</string>
+        <string lang="es">Al final de un turno de cualquier combatiente, si este monstruo ha recibido $damage$ en este turno, recibe $grav-1$.</string>
+        <string lang="kr">모든 전투자의 턴 종료 시, 이 몬스터가 이번 턴에 $damage$를 입었다면 $grav-1$을 부여합니다.</string>
+        <string lang="pt-br">No final de um turno de qualquer combatente, se este monstro sofreu $damage$ neste turno, ele recebe $grav-1$.</string>
+        <string lang="zh-tw">在任何參戰單位的回合結束時，如果該單位在本回合內受到$damage$，$br$則施加$grav-1$。
+</string>
+        <string lang="uk">В кінці ходу будь-якого бійця, якщо цей монстр отримав $damage$ в цьому ході, він отримує $grav-1$.</string>
+</set>
 <set id="description-skill-passive-onmoduleconstruction-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever a module is created.</string>
@@ -496,6 +510,20 @@
 		<string lang="zh-tw">每當有模組被銷毀，$might$提升$1$。
 </string>
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
+</set>
+<set id="description-skill-passive-onvulnerable-powerraise">
+		<string lang="de">Erhöht $might$ um $1$, immer wenn es mit $vulnerable$ versehen wird.</string>
+		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with $vulnerable$.</string>
+        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'il reçoit $vulnerable$.</string>
+        <string lang="zh">每当受到$vulnerable$，$might$提升$1$。</string>
+        <string lang="jp">$vulnerable$を受けるたび、$br$$1$$might$上昇。</string>
+        <string lang="ru">Увеличивает $might$ на $1$ каждый раз, когда он получает $vulnerable$.</string>
+        <string lang="es">Siempre que recibe $vulnerable$, aumenta $might$ en $1$.</string>
+        <string lang="kr">$vulnerable$을 받을 때마다, $might$이 $1$ 상승합니다.</string>
+        <string lang="pt-br">Sempre que recebe $vulnerable$, aumenta $might$ em $1$.</string>
+        <string lang="zh-tw">每當受到$vulnerable$，$might$提升$1$。
+</string>
+        <string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли отримує $vulnerable$.</string>
 </set>
 <set id="description-skill-passive-powerraiseonallydeath">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
@@ -666,7 +694,7 @@
 </set>
 <set id="description-skill-swiftstrike">
 		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-1$ zu.</string>
-		<string lang="en">Deals $1damage$ and inflicts itself with $grav-1$.</string>
+		<string lang="en">Deals $1damage$ and applies $grav-1$ to itself.</string>
 		<string lang="fr">Inflige $1damage$ et s'inflige $grav-1$.</string>
 		<string lang="zh">造成$1damage$，并对自身施加$grav-1$。</string>
 		<string lang="jp">$1damage$、自身に$grav-1$付与。</string>
@@ -749,18 +777,18 @@
 		<string lang="uk">Догляд за гніздом</string>
 </set>
 <set id="name-skill-monstertransformation-mammoth">
-		<string lang="de">Auftauen $grav+2$</string>
-		<string lang="en">Thaw $grav+2$</string>
-        <string lang="fr">Décongeler $grav+2$</string>
-        <string lang="zh">解冻 $grav+2$</string>
-        <string lang="jp">解凍 $grav+2$</string>
-        <string lang="ru">Разморозка $grav+2$</string>
-        <string lang="es">Descongelar $grav+2$</string>
-        <string lang="kr">해동 $grav+2$</string>
-        <string lang="pt-br">Descongelar $grav+2$</string>
-        <string lang="zh-tw">解凍 $grav+2$
+        <string lang="de">Ausbrechen $grav+2$</string>
+		<string lang="en">Break Free $grav+2$</string>
+        <string lang="fr">Se libérer $grav+2$</string>
+        <string lang="zh">挣脱$grav+2$</string>
+        <string lang="jp">脱出$grav+2$</string>
+        <string lang="ru">Выбраться $grav+2$</string>
+        <string lang="es">Liberarse $grav+2$</string>
+        <string lang="kr">탈출 $grav+2$</string>
+        <string lang="pt-br">Liberar-se $grav+2$</string>
+        <string lang="zh-tw">掙脫$grav+2$
 </string>
-        <string lang="uk">Розморожування $grav+2$</string>
+        <string lang="uk">Вибратися $grav+2$</string>
 </set>
 <set id="name-skill-gravabsorb">
 		<string lang="de">Grav.-Absorption</string>
@@ -1238,6 +1266,34 @@
 </string>
 		<string lang="uk">Детекція знищення $mighticon$</string>
 </set>
+<set id="name-skill-passive-onendofturn-ifdamaged-gravneg">
+		<string lang="de">Auftauen $grav-icon$</string>
+		<string lang="en">Thawing $grav-icon$</string>
+        <string lang="fr">Décongeler $grav-icon$</string>
+        <string lang="zh">解冻 $grav-icon$</string>
+        <string lang="jp">解凍 $grav-icon$</string>
+        <string lang="ru">Разморозка $grav-icon$</string>
+        <string lang="es">Descongelar $grav-icon$</string>
+        <string lang="kr">해동 $grav-icon$</string>
+        <string lang="pt-br">Descongelar $grav-icon$</string>
+        <string lang="zh-tw">解凍 $grav-icon$
+</string>
+        <string lang="uk">Розморожування $grav-icon$</string>
+</set>
+<set id="name-skill-passive-onvulnerable-powerraise">
+		<string lang="de">Unverwüstlichkeit $mighticon$$vulnerableicon$</string>
+		<string lang="en">Resilience $mighticon$$vulnerableicon$</string>
+		<string lang="fr">Résilience $mighticon$</string>
+        <string lang="zh">韧性$mighticon$</string>
+        <string lang="jp">レジリエンス$mighticon$</string>
+        <string lang="ru">Устойчивость $mighticon$</string>
+        <string lang="es">Resiliencia $mighticon$</string>
+        <string lang="kr">회복력 $mighticon$</string>
+        <string lang="pt-br">Resiliência $mighticon$</string>
+        <string lang="zh-tw">韌性$mighticon$
+</string>
+        <string lang="uk">Стійкість $mighticon$</string>
+</set>
 <set id="name-skill-passive-powerraiseonallydeath">
 		<string lang="de">Seelen-Detektion $mighticon$</string>
 		<string lang="en">Soul Detection $mighticon$</string>
@@ -1419,6 +1475,20 @@
 		<string lang="zh-tw">迅捷打擊
 </string>
 		<string lang="uk">Швидкий удар</string>
+</set>
+<set id="name-skill-trample-mammoth">
+		<string lang="de">Trampeln</string>
+		<string lang="en">Trample</string>
+        <string lang="fr">Piétiner</string>
+        <string lang="zh">践踏</string>
+        <string lang="jp">踏みつけ</string>
+        <string lang="ru">Топтать</string>
+        <string lang="es">Pisotear</string>
+        <string lang="kr">밟기</string>
+        <string lang="pt-br">Pisotear</string>
+        <string lang="zh-tw">踐踏
+</string>
+        <string lang="uk">Топтати</string>
 </set>
 <set id="name-skill-volcanoeruption">
 		<string lang="de">Ausbruch</string>
