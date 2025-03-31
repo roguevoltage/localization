@@ -54,19 +54,19 @@
 </string>
 		<string lang="uk">Наносить $damage$ у розмірі показника $mighticon$$b$Сили$.</string>
 </set>
-<set id="description-skill-damageequaltopower-polarbear">
-		<string lang="de">Fügt $damage$ in Höhe der $might$ zu.</string>
-		<string lang="en">Deals $damage$ equal to its $might$.</string>
-		<string lang="fr">Inflige des dégâts équivalents à la $might$.</string>
-		<string lang="zh">造成与$might$等值的$damage$。</string>
-		<string lang="jp">$might$と同量の$damage$。</string>
-		<string lang="ru">Наносит $damage$ в размере от количества $might$.</string>
-		<string lang="es">Inflige $damage$ en altura de $might$.</string>
-		<string lang="kr">최대 $might$에 달하는 $damage$를 줍니다.</string>
-		<string lang="pt-br">Inflige $damage$ em altura de $might$.</string>
-		<string lang="zh-tw">造成與$might$等值的$damage$。
+<set id="description-skill-damageequaltopower-walrus">
+    <string lang="de">Fügt einem Gegner $damage$ und $grav+$ in Höhe der $might$ zu.</string>
+    <string lang="en">Deals $damage$ to an enemy equal to its $might$ and inflicts them with that much $grav+$.</string>
+    <string lang="fr">Inflige $damage$ à un ennemi équivalent à sa $might$ et lui inflige autant de $grav+$.</string>
+    <string lang="zh">对一名敌人造成$damage$，并施加等量的$grav+$。</string>
+    <string lang="jp">敵1体に$damage$、$might$と同量の$grav+$付与。</string>
+    <string lang="ru">Наносит $damage$ врагу в размере от количества $might$ и накладывает на него столько же $grav+$.</string>
+    <string lang="es">Inflige $damage$ y $grav+$ a un enemigo igual a su $might$.</string>
+    <string lang="kr">적에게 $damage$를 주고, $might$와 같은 양의 $grav+$를 부여합니다.</string>
+    <string lang="pt-br">Inflige $damage$ e $grav+$ a um inimigo igual ao seu $might$.</string>
+    <string lang="zh-tw">對一名敵人造成$damage$，並施加等量的$grav+$。
 </string>
-		<string lang="uk">Наносить $damage$ у розмірі показника $mighticon$$b$Сили$.</string>
+    <string lang="uk">Наносить $damage$ ворогу в розмірі показника $mighticon$$b$Сили$ і накладає на нього стільки ж $grav+$.</string>
 </set>
 <set id="description-skill-encrustmodule">
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
@@ -290,6 +290,20 @@
         <string lang="zh-tw">對所有敵人施放$grav+2$。
 </string>
         <string lang="uk">Накладає $grav+2$ на всіх ворогів</string>
+</set>
+<set id="description-skill-gravspore-positive-4-icebird">
+		<string lang="de">Fügt allen Gegnern $grav+4$ zu.$p$Kann nur ein Mal pro Kampf im ersten Zug dieses Monsters eingesetzt werden.</string>
+		<string lang="en">Inflicts all enemies with $grav+4$.$p$Can only be used once per battle on this monster's first turn.</string>
+		<string lang="fr">Inflige $grav+4$ à tous les ennemis.$p$Ne peut être utilisé qu'une fois par combat au premier tour de ce monstre.</string>
+        <string lang="zh">对所有敌人施放$grav+4$。$p$只能在本怪物的第一次行动中使用一次。</string>
+        <string lang="jp">敵全体に$grav+4$付与。$p$このモンスターの初手で1回だけ使用可能。</string>
+        <string lang="ru">Применяет $grav+4$ ко всем врагам.$p$Можно использовать только один раз за бой в первый ход этого монстра.</string>
+        <string lang="es">Inflige a todos los enemigos con $grav+4$.$p$Solo se puede usar una vez por batalla en el primer turno de este monstruo.</string>
+        <string lang="kr">모든 적에게 $grav+4$를 부여합니다.$p$이 몬스터의 첫 턴에 한 번만 사용할 수 있습니다.</string>
+        <string lang="pt-br">Inflige a todos os inimigos com $grav+4$.$p$Só pode ser usado uma vez por batalha no primeiro turno deste monstro.</string>
+        <string lang="zh-tw">對所有敵人施放$grav+4$。$p$只能在本怪物的第一次行動中使用一次。
+</string>
+        <string lang="uk">Накладає $grav+4$ на всіх ворогів.$p$Можна використовувати лише один раз за бій у перший хід цього монстра.</string>
 </set>
 <set id="description-skill-gravspore-positive-bossshroom">
 		<string lang="de">Fügt allen Gegnern $grav+2$ und sich selbst $grav-1$ zu</string>
@@ -826,17 +840,19 @@
 </string>
 		<string lang="uk">Могутній розряд</string>
 </set>
-<set id="name-skill-damageequaltopower-polarbear">
-		<string lang="de">Zerfleischen</string>
-		<string lang="en">Maul</string>
-		<string lang="fr">Mutiler</string>
-		<string lang="zh">撕咬</string>
-		<string lang="jp">噛みつく</string>
-		<string lang="ru">Разорвать</string>
-		<string lang="es">Desgarrar</string>
-		<string lang="kr">물어뜯기</string>
-		<string lang="pt-br">Morder</string>
-		<string lang="uk">Розтерзати</string>
+<set id="name-skill-damageequaltopower-walrus">
+		<string lang="de">Stoßzahn $grav+2$</string>
+		<string lang="en">Tusk $grav+icon$</string>
+        <string lang="fr">Défense de morse $grav+2$</string>
+        <string lang="zh">海象獠牙 $grav+2$</string>
+        <string lang="jp">セイウチの牙 $grav+2$</string>
+        <string lang="ru">Бивень моржа $grav+2$</string>
+        <string lang="es">Colmillo $grav+2$</string>
+        <string lang="kr">바다코끼리의 송곳니 $grav+2$</string>
+        <string lang="pt-br">Canino de Morsa $grav+2$</string>
+        <string lang="zh-tw">海象獠牙 $grav+2$
+</string>
+        <string lang="uk">Бивень моржа $grav+2$</string>
 </set>
 <set id="name-skill-encrustmodule">
 		<string lang="de">Harz $crusticon$</string>
@@ -1075,6 +1091,20 @@
 		<string lang="zh-tw">引力孢子$grav+2$
 </string>
 		<string lang="uk">Гравіспора $grav+2$</string>
+</set>
+<set id="name-skill-gravspore-positive-4-icebird" remarks="translate as 'Icy Flap of a bird wing'">
+		<string lang="de">Eisiger Flügelschlag $grav+4$</string>
+		<string lang="en">Icy Flap $grav+4$</string>
+        <string lang="fr">Battement de glace $grav+4$</string>
+        <string lang="zh">冰冷的翅膀$grav+4$</string>
+        <string lang="jp">氷の羽ばたき$grav+4$</string>
+        <string lang="ru">Ледяной взмах $grav+4$</string>
+        <string lang="es">Aleteo helado $grav+4$</string>
+        <string lang="kr">얼음 날개짓 $grav+4$</string>
+        <string lang="pt-br">Bater de asas gelado $grav+4$</string>
+        <string lang="zh-tw">冰冷的翅膀$grav+4$
+</string>
+        <string lang="uk">Льодяний помах $grav+4$</string>
 </set>
 <set id="name-skill-gravspore-positive-bossshroom">
 		<string lang="de">Boss-Sporen $grav+2$$grav-1$</string>

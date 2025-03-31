@@ -38,6 +38,19 @@
 		<string lang="zh-tw">對一名敵人造成$1$$damage$，並令1個模組$fire$。</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на один модуль $fire$.</string>
 </set>
+<set id="description-skill-claw-icebird">
+		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht zwei Module mit $gravrecoil$.</string>
+		<string lang="en">Deals $1damage$ to an enemy and inflicts two modules with $gravrecoil$.</string>
+        <string lang="fr">Inflige $1damage$ à une cible et inflige deux modules avec $gravrecoil$.</string>
+        <string lang="zh">对一名敌人造成$1$$damage$，并令2个模块$gravrecoil$。</string>
+        <string lang="jp">敵1体に$1damage$。$br$モジュール2つに$gravrecoil$付与。</string>
+        <string lang="ru">Наносит $1damage$ врагу и накладывает на два модуля $gravrecoil$.</string>
+        <string lang="es">Inflige $1damage$ a un enemigo e inflige dos módulos con $gravrecoil$.</string>
+        <string lang="kr">적에게 $1damage$를 주고 모듈 2개에 $gravrecoil$을 부여합니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a um inimigo e inflige dois módulos com $gravrecoil$.</string>
+        <string lang="zh-tw">對一名敵人造成$1$$damage$，並令2個模組$gravrecoil$。</string>
+        <string lang="uk">Наносить $1damage$ ворогу і накладає на два модулі $gravrecoil$.</string>
+</set>
 <set id="description-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft bis zu zwei $b$Graviraptor-Eier$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
 		<string lang="en">Summons up to two$br$$b$Graviraptor Eggs$/b$$br$- or -$br$grants an existing egg $1$ $might$.</string>
@@ -761,6 +774,20 @@
 		<string lang="zh-tw">烈焰爪擊$fireicon$
 </string>
 		<string lang="uk">Клішня$fireicon$</string>
+</set>
+<set id="name-skill-claw-icebird">
+		<string lang="de">Kralle $gravrecoilicon$</string>
+		<string lang="en">Claw $gravrecoilicon$</string>
+		<string lang="fr">Griffe $gravrecoilicon$</string>
+		<string lang="zh">爪击 $gravrecoilicon$</string>
+		<string lang="jp">ツメ $gravrecoilicon$</string>
+		<string lang="ru">Коготь $gravrecoilicon$</string>
+		<string lang="es">Garra $gravrecoilicon$</string>
+		<string lang="kr">할퀴기 $gravrecoilicon$</string>
+		<string lang="pt-br">Garra $gravrecoilicon$</string>
+		<string lang="zh-tw">爪擊 $gravrecoilicon$
+</string>
+		<string lang="uk">Клішня $gravrecoilicon$</string>
 </set>
 <set id="name-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
