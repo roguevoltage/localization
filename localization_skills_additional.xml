@@ -372,18 +372,18 @@
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu und zwingt je ein $fireicon$$b$Brennende Trümmer$/b$-Modul in deren Rack</string>
-		<string lang="en">Deals $1$ $damage$ to all enemies and forces one $fireicon$$b$Burning Debris$/b$ module each into their rack</string>
-		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $fireicon$$b$Débris Brûlants$/b$ dans leur rack</string>
-		<string lang="zh">对所有敌人造成$1$$damage$，并在其各自的模架上强行各安插一个$fireicon$$b$燃烧残骸$/b$。</string>
-		<string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$fireicon$$b$火礫$/b$モジュール生成。</string>
-		<string lang="ru">Наносит всем врагам $1$ $damage$ и заставляет вставить в их стойку по одному модулю $fireicon$$b$Горящие Обломки$/b$</string>
-		<string lang="es">Inflige $1$ $damage$ a todos los enemigos y fuerza un módulo $fireicon$$b$Escombros Ardientes$/b$ en su rack</string>
-		<string lang="kr">모든 적에게 $1$ $damage$를 주고 각 랙에 $fireicon$$b$불타는 잔해$/b$ 모듈 하나를 강제로 설치합니다</string>
-		<string lang="pt-br">Causa $1$ $damage$ a todos os inimigos e força um módulo $fireicon$$b$Burning Debris$/b$ em seu rack</string>
-		<string lang="zh-tw">對所有敵人造成$1$$damage$，並在其各自的模架上強行各安插一個$fireicon$$b$燃燒殘骸$/b$。
+		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu und zwingt je ein $b$Trümmer$/b$-Modul mit $cracked$ in deren Rack. Sie erhalten $fire$.</string>
+		<string lang="en">Deals $1$ $damage$ to all enemies and forces one $b$Debris$/b$ module each with $cracked$ into their rack. They receive $fire$.</string>
+		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $b$Débris$/b$ avec $cracked$ dans leur rack. Ils reçoivent $fire$.</string>
+        <string lang="zh">对所有敌人造成$1$$damage$，并强制将一个$b$碎片$/b$模块（$cracked$）放入他们的机架。它们会获得$fire$。</string>
+        <string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$b$デブリ$/b$モジュール1つ（$cracked$）を強制配置。$br$それらは$fire$を受け取る。</string>
+        <string lang="ru">Наносит $1$ $damage$ всем врагам и заставляет каждый модуль $b$Обломки$/b$ с $cracked$ в их стойке. Они получают $fire$.</string>
+        <string lang="es">Inflige $1$ $damage$ a todos los enemigos y obliga a cada módulo $b$Escombros$/b$ con $cracked$ en su rack. Reciben $fire$.</string>
+        <string lang="kr">모든 적에게 $1$$damage$를 주고, 각각의 랙에 $b$파편$/b$ 모듈 1개($cracked$)를 강제로 배치합니다. 그들은 $fire$를 받습니다.</string>
+        <string lang="pt-br">Causa $1$ $damage$ a todos os inimigos e força um módulo $b$Detritos$/b$ com $cracked$ em seu rack. Eles recebem $fire$.</string>
+        <string lang="zh-tw">對所有敵人造成$1$$damage$，並強制將一個$b$碎片$/b$模組（$cracked$）放入他們的機架。它們會獲得$fire$。
 </string>
-		<string lang="uk">Наносить $1$ $damage$ всім ворогам і встановлює кожному з них на стійку модуль $fireicon$$b$Палаючі Уламки$/b$</string>
+        <string lang="uk">Наносить $1$ $damage$ всім ворогам і змушує кожен модуль $b$Обломки$/b$ з $cracked$ в їх стійці. Вони отримують $fire$.</string>
 </set>
 <set id="description-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>

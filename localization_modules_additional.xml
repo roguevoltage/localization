@@ -520,17 +520,17 @@
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
 </set>
 <set id="description-module-aggregate-fire">
-		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Konstruiert ein $Brennende Trümmer$/b$-Modul mit $fire$ und $cracked$ auf dem Rack des anderen Charakters.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Burning Debris$/b$ module with $fire$ and $cracked$ on the other character's rack.</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit un module $b$Débris Brûlants$/b$ avec $fire$ et $cracked$ sur le rack de l'autre personnage.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上，$br$产生一个$fire$和$cracked$的$b$燃烧碎片$/b$模块。</string>
-        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$別キャラのラックに$br$$fire$と$cracked$付与された$br$$b$燃える瓦礫$/b$モジュール生成。</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает модуль $b$Горящие Обломки$/b$ с $fire$ и $cracked$ на стойке другого персонажа.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye un módulo $b$Escombros Ardientes$/b$ con $fire$ y $cracked$ en el bastidor del otro personaje.</string>
-        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$다른 캐릭터의 랙에 $fire$와 $cracked$ 상태의 $b$불타는 잔해$/b$ 모듈을 조립합니다.</string>
-        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói um módulo $b$Destroços em Chamas$/b$ com $fire$ e $cracked$ no rack do outro personagem.</string>
-        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上，$br$產生一個$fire$和$cracked$的$b$燃燒碎片$/b$模組。</string>
-        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Горячі Обломки$/b$ з $fire$ та $cracked$ на стійці іншого персонажа.</string>
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Konstruiert ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters und versieht es mit $fire$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Debris$/b$ module with $cracked$ on the other character's rack and inflict it with $fire$.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit un module $b$Débris$/b$ avec $cracked$ sur le rack de l'autre personnage et lui inflige $fire$.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上制造一个$cracked$的$b$碎片$/b$模块，并施加$fire$。</string>
+        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$別キャラのラックに$cracked$付与された$b$デブリ$/b$モジュールを生成し、$fire$付与。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает модуль $b$Обломки$/b$ с $cracked$ на стойке другого персонажа и накладывает на него $fire$.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye un módulo $b$Escombros$/b$ con $cracked$ en el rack del otro personaje y le inflige $fire$.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$다른 캐릭터의 랙에 $cracked$ 상태의 $b$파편$/b$ 모듈을 조립하고 $fire$를 부여합니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói um módulo $b$Detritos$/b$ com $cracked$ no rack do outro personagem e o inflige com $fire$.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上製造一個$cracked$的$b$碎片$/b$模組，並施加$fire$。</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $fire$.</string>
 </set>
 <set id="description-module-aggregate-outoforder">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
@@ -1265,18 +1265,17 @@
         <string lang="uk">Можна заряджати.$p$На кінці ходу персонажа витрачає $1$ збережену одиницю $energyicon$$b$Енергії$/b$ для нанесення $1damage$ ворогові з найменшим HP.$p$&lt;size=11&gt;(Випадково при рівності)&lt;/size&gt;</string>
 </set>
 <set id="name-module-burningdebris">
-		<string lang="de">Brennende Trümmer</string>
-		<string lang="en">Burning Debris</string>
-		<string lang="fr">Débris Brûlants</string>
-		<string lang="zh">燃烧残骸</string>
-		<string lang="jp">火礫</string>
-		<string lang="ru">Горящие Обломки</string>
-		<string lang="es">Escombros Ardientes</string>
-		<string lang="kr">불타는 잔해</string>
-		<string lang="pt-br">Detritos Ardentes</string>
-		<string lang="zh-tw">燃燒殘骸
-</string>
-		<string lang="uk">Палаючі Уламки</string>
+		<string lang="de">Trümmer</string>
+		<string lang="en">Debris</string>
+		<string lang="fr">Débris</string>
+        <string lang="zh">碎片</string>
+        <string lang="jp">デブリ</string>
+        <string lang="ru">Обломки</string>
+		<string lang="es">Escombros</string>
+        <string lang="kr">파편</string>
+        <string lang="pt-br">Detritos</string>
+        <string lang="zh-tw">碎片</string>
+        <string lang="uk">Обломки</string>
 </set>
 <set id="name-module-blessing-accelplayers" remarks="translate as 22nd Century Sneakers">
         <string lang="de">Turnschuhe aus dem 22. Jahrhundert</string>
