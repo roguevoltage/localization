@@ -2144,40 +2144,18 @@
 		<string lang="zh-tw">進度：</string>
 		<string lang="uk">Прогрес:</string>
 </set>
-<set id="ui-query-shockabsorber">
-        <string lang="de">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; wird $outoforder$ erhalten.$p$$b$Stoßdämpfer$/b$ aktivieren?</string>
-		<string lang="en">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; is about to receive $outoforder$.$p$Activate $b$Shock Absorber$/b$?</string>
-        <string lang="fr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; est sur le point de recevoir $outoforder$.$p$Activer $b$Absorbeur de Choc$/b$?</string>
-        <string lang="zh">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;将受到$outoforder$影响。$p$激活$b$冲击吸收器$/b$吗？</string>
-        <string lang="jp">&lt;color=#FFFFFF&gt;$b$$対象$$/b$&lt;/color&gt;は$outoforder$付与されそうだ。$p$$b$Shock Absorber$/b$を起動する?</string>
-        <string lang="ru">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; собирается получить $outoforder$.$p$Активировать $b$Амортизатор удара$/b$?</string>
-        <string lang="es">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está a punto de recibir $outoforder$.$p$¿Activar $b$Absorbedor de Choque$/b$?</string>
-        <string lang="kr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;(이)가 $outoforder$가 되려고 합니다.$p$$b$충격 흡수기$/b$를 활성화할까요?</string>
-        <string lang="pt-br">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está prestes a receber $outoforder$.$p$Ativar $b$Absorvedor de Choque$/b$?</string>
-        <string lang="zh-tw">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;將受到$outoforder$影響。$p$啟動$b$衝擊吸收器$/b$嗎？</string>
-        <string lang="uk">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; зараз отримає $outoforder$.$p$Активувати $b$Амортизатор удару$/b$?</string>
-</set>
-<set id="ui-query-cooldownredirector">
-        <string lang="de">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; wird $cooldown$ erhalten.$p$$b$Cooldown-Umlenker$/b$ aktivieren?</string>
-		<string lang="en">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; is about to receive $cooldown$.$p$Activate $b$Cooldown Redirector$/b$?</string>
-        <string lang="fr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; est sur le point de recevoir $cooldown$.$p$Activer $b$Redirecteur de Recharge$/b$?</string>
-        <string lang="zh">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即将受到 $cooldown$.$p$激活 $b$冲击重定向器$/b$？</string>
-        <string lang="jp">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; は $cooldown$ を受ける予定です。$p$ $b$ショックリダイレクター$/b$ を起動しますか？</string>
-        <string lang="ru">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; собирается получить $cooldown$.$p$Активировать $b$Перенаправитель удара$/b$?</string>
-        <string lang="es">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está a punto de recibir $cooldown$.$p$¿Activar $b$Redireccionador de Enfriamiento$/b$?</string>
-        <string lang="kr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;이 $cooldown$를 받게 됩니다.$p$ $b$충격 리디렉터$/b$를 활성화하시겠습니까?</string>
-        <string lang="pt-br">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está prestes a receber $cooldown$.$p$Ativar $b$Redirecionador de Recarga$/b$?</string>
-        <string lang="zh-tw">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即將受到 $cooldown$.$p$激活 $b$衝擊重定向器$/b$？</string>
-        <string lang="uk">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; зараз отримає $cooldown$.$p$Активувати $b$Перенаправник удару$/b$?</string>
-</set>
-<set id="ui-query-activate-module">
-		<string lang="de">Modul Aktivieren?</string>
-		<string lang="en">Activate Module?</string>
-		<string lang="zh">激活模块吗？</string>
-		<string lang="jp">モジュール起動？</string>
-		<string lang="kr">모듈을 발동할까요?</string>
-		<string lang="zh-tw">啟動模組嗎？</string>
-		<string lang="uk">Активувати Модуль?</string>
+<set id="ui-query-redirection">
+        <string lang="de">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; wird $b$$STATUS$$/b$ erhalten.$p$$b$$MODULENAME$$/b$ aktivieren?</string>
+		<string lang="en">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; is about to receive $b$$STATUS$$/b$.$p$Activate $b$$MODULENAME$$/b$?</string>
+        <string lang="fr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; est sur le point de recevoir $b$$STATUS$$/b$.$p$Activer $b$$MODULENAME$$/b$?</string>
+        <string lang="zh">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即将受到 $b$$STATUS$$/b$.$p$激活 $b$$MODULENAME$$/b$？</string>
+        <string lang="jp">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; は $b$$STATUS$$/b$ を受ける予定です。$p$$b$$MODULENAME$$/b$ を起動しますか？</string>
+        <string lang="ru">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; собирается получить $b$$STATUS$$/b$.$p$Активировать $b$$MODULENAME$$/b$?</string>
+        <string lang="es">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está a punto de recibir $b$$STATUS$$/b$.$p$¿Activar $b$$MODULENAME$$/b$?</string>
+        <string lang="kr">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt;이 $b$$STATUS$$/b$를 받게 됩니다.$p$ $b$$MODULENAME$$/b$를 활성화하시겠습니까?</string>
+        <string lang="pt-br">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; está prestes a receber $b$$STATUS$$/b$.$p$Ativar $b$$MODULENAME$$/b$?</string>
+        <string lang="zh-tw">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; 即將受到 $b$$STATUS$$/b$.$p$激活 $b$$MODULENAME$$/b$？</string>
+        <string lang="uk">&lt;color=#FFFFFF&gt;$b$$TARGET$$/b$&lt;/color&gt; зараз отримає $b$$STATUS$$/b$.$p$Активувати $b$$MODULENAME$$/b$?</string>
 </set>
 <set id="ui-quit">
 		<string lang="de">Beenden</string>
