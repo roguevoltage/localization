@@ -769,7 +769,7 @@
 <set id="description-module-passivecooldownredirector">
         <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Whenever a module on this rack should receive $cooldown$, change the target to another module on this rack instead.</string>
-        <string lang="fr">Si un module d'un type sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.</string>
+        <string lang="fr">Si un module sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.</string>
         <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。</string>
         <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。</string>
         <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.</string>
@@ -778,6 +778,19 @@
         <string lang="pt-br">Sempre que um módulo neste rack deveria receber $cooldown$, mude o alvo para outro módulo neste rack em vez disso.</string>
         <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。</string>
         <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.</string>
+</set>
+<set id="description-module-passivestatusredirector">
+        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
+        <string lang="en">Whenever a module on this rack should receive $fire$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.</string>
+        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.</string>
+        <string lang="zh">此模架上的其他模块$fire$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。</string>
+        <string lang="jp">このラックの他のモジュールが$fire$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.</string>
+        <string lang="zh-tw">此模架上的其他模組$fire$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.</string>
 </set>
 <set id="description-module-passivesink">
         <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges des Besitzers entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$b$Negativen Status-Effekte$/b$ sind $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
@@ -2043,6 +2056,18 @@
         <string lang="pt-br">Redirecionador de Recarga</string>
 		<string lang="zh-tw">衝擊轉向器</string>
 		<string lang="uk">Перенаправник удару</string>
+</set>
+<set id="name-module-passivestatusredirector" remarks="translate as Metal Fan">
+        <string lang="de">Sauggebläse</string>
+		<string lang="en">Huge Metal Fan</string>
+        <string lang="fr">Ventilateur</string>
+        <string lang="zh">金属风扇</string>
+        <string lang="jp">金属ファン</string>
+        <string lang="ru">Металлический Вентилятор</string>
+        <string lang="es">Ventilador de Metal</string>
+        <string lang="kr">금속 팬</string>
+        <string lang="pt-br">Ventilador de Metal</string>
+        <string lang="zh-tw">金屬風扇</string>
 </set>
 <set id="name-module-passivesink" remarks="translate as Sink">
         <string lang="de">Spülbecken</string>
