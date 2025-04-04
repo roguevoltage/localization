@@ -714,6 +714,19 @@
 		<string lang="zh-tw"></string>
 		<string lang="uk"></string>
 </set>
+<set id="description-module-orb-ice">
+        <string lang="de">Am Ende des Zuges, füge dem Besitzer $grav+2$ zu.</string>
+		<string lang="en">At the end of turn,$br$apply $grav+2$ to the owner.</string>
+        <string lang="fr">À la fin du tour, applique $grav+2$ au propriétaire.</string>
+        <string lang="zh">回合结束时，给拥有者施加$grav+2$。</string>
+        <string lang="jp">ターン終了時、所有者に$grav+2$付与。</string>
+        <string lang="ru">В конце хода накладывает $grav+2$ на владельца.</string>
+        <string lang="es">Al final del turno, aplica $grav+2$ al propietario.</string>
+        <string lang="kr">턴 종료 시 소유자에게 $grav+2$를 부여합니다.</string>
+        <string lang="pt-br">No final do turno, aplica $grav+2$ ao dono.</string>
+        <string lang="zh-tw">回合結束時，給擁有者施加$grav+2$。</string>
+        <string lang="uk">В кінці ходу накладає $grav+2$ на власника.</string>
+</set>
 <set id="description-module-passivedurabilitysafeguarding">
 		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$50%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
 		<string lang="en">Modules with $malfunctioning$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
@@ -1964,6 +1977,19 @@
 		<string lang="zh-tw">擾動模組$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Модуль збоїв $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-orb-ice">
+		<string lang="de">Frost-Kugel</string>
+		<string lang="en">Frost Orb</string>
+        <string lang="fr">Orbe de Gel</string>
+        <string lang="zh">冰霜球</string>
+        <string lang="jp">氷の玉</string>
+        <string lang="ru">Ледяная Сфера</string>
+        <string lang="es">Orbe de Escarcha</string>
+        <string lang="kr">서리 구슬</string>
+        <string lang="pt-br">Orbe de Gelo</string>
+        <string lang="zh-tw">冰霜球</string>
+        <string lang="uk">Льодяна Сфера</string>
 </set>
 <set id="name-module-passivedurabilitysafeguarding">
 		<string lang="de">Regulator</string>

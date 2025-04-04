@@ -371,9 +371,13 @@
 </string>
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
+<set id="description-skill-modulespawn-orb-ice">
+        <string lang="de">Konstruiert ein $b$Frost-Kugel$/b$-Modul auf dem Rack jedes Spielers.</string>
+		<string lang="en">Constructs a $b$Frost Orb$/b$ module on each player character's rack.</string>
+</set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu und zwingt je ein $b$Trümmer$/b$-Modul mit $cracked$ in deren Rack. Sie erhalten $fire$.</string>
-		<string lang="en">Deals $1$ $damage$ to all enemies and forces one $b$Debris$/b$ module each with $cracked$ into their rack. They receive $fire$.</string>
+		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu.$p$Konstruiert je ein $b$Trümmer$/b$-Modul mit $cracked$ auf deren Rack. Sie erhalten $fire$.</string>
+		<string lang="en">Deals $1$ $damage$ to all enemies.$p$Constructs a $b$Debris$/b$ module with $cracked$ each on their rack. They receive $fire$.</string>
 		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $b$Débris$/b$ avec $cracked$ dans leur rack. Ils reçoivent $fire$.</string>
         <string lang="zh">对所有敌人造成$1$$damage$，并强制将一个$b$碎片$/b$模块（$cracked$）放入他们的机架。它们会获得$fire$。</string>
         <string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$b$デブリ$/b$モジュール1つ（$cracked$）を強制配置。$br$それらは$fire$を受け取る。</string>
@@ -384,6 +388,20 @@
         <string lang="zh-tw">對所有敵人造成$1$$damage$，並強制將一個$b$碎片$/b$模組（$cracked$）放入他們的機架。它們會獲得$fire$。
 </string>
         <string lang="uk">Наносить $1$ $damage$ всім ворогам і змушує кожен модуль $b$Обломки$/b$ з $cracked$ в їх стійці. Вони отримують $fire$.</string>
+</set>
+<set id="description-skill-ondeath-gravneutralize">
+		<string lang="de">Entfernt alle $grav$ auf allen Kampfteilnehmern.</string>
+		<string lang="en">Removes all $grav$ from all combatants.</string>
+		<string lang="fr">Supprime tous les $grav$ de tous les combattants.</string>
+		<string lang="zh">移除所有参战单位的$grav$。</string>
+		<string lang="jp">敵味方全体の$grav$全て除去。</string>
+		<string lang="ru">Удаляет все $grav$ у всех бойцов.</string>
+		<string lang="es">Elimina toda la $grav$ de todos los combatientes.</string>
+		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.</string>
+		<string lang="pt-br">Remove todo o $grav$ de todos os combatentes.</string>
+		<string lang="zh-tw">移除所有參戰單位的$grav$。
+</string>
+		<string lang="uk">Прибирає весь $grav$ з усіх учасників бою.</string>
 </set>
 <set id="description-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Hinterlässt ein $b$Phoenix-Ei$/b$.</string>
@@ -1152,6 +1170,33 @@
 		<string lang="zh-tw">燃燒殘骸 $fireicon$
 </string>
 		<string lang="uk">Палаючі уламки $fireicon$</string>
+</set>
+<set id="name-skill-modulespawn-orb-ice">
+		<string lang="de">Frost-Sphäre</string>
+		<string lang="en">Frost Orb</string>
+        <string lang="fr">Sphère de Gel</string>
+        <string lang="zh">冰霜球</string>
+        <string lang="jp">氷の玉</string>
+        <string lang="ru">Ледяная Сфера</string>
+        <string lang="es">Esfera de Hielo</string>
+        <string lang="kr">얼음 구체</string>
+        <string lang="pt-br">Esfera de Gelo</string>
+        <string lang="zh-tw">冰霜球</string>
+        <string lang="uk">Льодяна Сфера</string>
+</set>
+<set id="name-skill-ondeath-gravneutralize">
+		<string lang="de">Grav.-Nullifizierung</string>
+		<string lang="en">Grav. Nullify</string>
+		<string lang="fr">Neutralisation Grav.</string>
+		<string lang="zh">引力归零</string>
+		<string lang="jp">重力無効</string>
+		<string lang="ru">Грав. Нейтрализация</string>
+		<string lang="es">Neutralización Grav.</string>
+		<string lang="kr">중력 무효화</string>
+		<string lang="pt-br">Neutralização Grav.</string>
+		<string lang="zh-tw">引力歸零
+</string>
+		<string lang="uk">Гравінейтралізація</string>
 </set>
 <set id="name-skill-ondeath-monsterspawn-egg-phoenix">
 		<string lang="de">Phönix-Ei</string>
