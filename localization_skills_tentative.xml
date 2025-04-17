@@ -26,6 +26,15 @@
 		<string lang="kr">Sacrifices a bee to deal $1damage$ to all enemies.</string>
 		<string lang="uk">Жертвує бджолою заради нанесення $1damage$ всім ворогам.</string>
 </set>
+<set id="description-skill-modulegravrecoil-aoe">
+		<string lang="en">Inflicts up to two modules on a rack with $gravrecoil$.</string>
+</set>
+<set id="description-skill-passive-gravamplification">
+		<string lang="en">Other Combatants have $gravamplification$.</string>
+</set>
+<set id="description-skill-passive-ongravtodmg-dmgtograv">
+		<string lang="en">While this monster has $b$"$grav+short$ to $damage$"$/b$, it also has $b$"$damage$ to $grav+short$"$/b$.</string>
+</set>
 <set id="name-skill-beesting">
 		<string lang="de">Stachel</string>
 		<string lang="en">Sting</string>
@@ -107,6 +116,9 @@
 		<string lang="jp">Absorbs $grav+$ as healing.</string>
 		<string lang="kr">Absorbs $grav+$ as healing.</string>
 		<string lang="uk">Вбирає $grav+$ як лікування.</string>
+</set>
+<set id="description-skill-gravpush-might">
+    <string lang="en">For every point of $might$ on this monster:$br$[Inflict an enemy with $grav+1$]</string>
 </set>
 <set id="description-skill-gravpush-2-gravadillo">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Charakter ist, versieht ein Modul mit $selfencrusting$.</string>
@@ -241,7 +253,6 @@
 		<string lang="kr">If $might$ is full, it destroys itself to deal $2damage$ to all enemies.</string>
 		<string lang="uk">Якщо $might$ повна, знищується, наносячи $2damage$ всім ворогам.</string>
 </set>
-
 <set id="description-skill-shield">
 		<string lang="de">Versieht einen Verbündeten mit $shield$.</string>
 		<string lang="en">Applies $shield$ to an ally.</string>
@@ -287,6 +298,9 @@
 		<string lang="kr">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $vulnerable$.</string>
 </set>
+<set id="description-skill-muskox">
+    <string lang="en">Deals $1damage$ to an enemy, then applies $grav+1$ to them twice.</string>
+</set>
 <set id="name-skill-monsterspawn-goblinbomb">
 		<string lang="de">Bombengoblin</string>
 		<string lang="en">Bomb Goblin</string>
@@ -320,6 +334,9 @@
 		<string lang="jp">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="kr">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="uk">Антиплазма $-2$ $plasmaicon$</string>
+</set>
+<set id="name-skill-gravpush-might">
+		<string lang="en">Freezing Field $grav+icon$</string>
 </set>
 <set id="name-skill-selfdestruct">
 		<string lang="de">Selbstzerstörung</string>
@@ -383,6 +400,9 @@
 		<string lang="jp">シールド</string>
 		<string lang="kr">Shield</string>
 		<string lang="uk">Щит</string>
+</set>
+<set id="name-skill-muskox">
+    <string lang="en">Tackle $grav+icon$</string>
 </set>
 <set id="description-skill-plasmaexplode">
         <string lang="de">Entfernt bis zu $2$ $plasma$ und fügt ebensoviel $damage$ zu.</string>
@@ -627,6 +647,21 @@
         <string lang="kr">독성 포자</string>
         <string lang="pt-br">Esporo Tóxico</string>
 		<string lang="uk">Токсична спора</string>
+</set>
+<set id="name-skill-passive-onendofturn-ifdamaged-gravneg">
+		<string lang="en">Rage $grav-icon$</string>
+</set>
+<set id="name-skill-passive-onstatus-powerraise">
+		<string lang="en">Icy Growth $mighticon$</string>
+</set>
+<set id="name-skill-modulegravrecoil-aoe">
+		<string lang="en">Grav. Recoil $gravrecoilicon$</string>
+</set>
+<set id="name-skill-passive-gravamplification">
+		<string lang="en">Grav. Amplification</string>
+</set>
+<set id="name-skill-passive-ongravtodmg-dmgtograv">
+		<string lang="en">Grav. Shield</string>
 </set>
 <set id="name-skill-passive-ondamage-burningdebris">
 		<string lang="de">Brennende Trümmer</string>

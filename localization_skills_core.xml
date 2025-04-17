@@ -54,20 +54,6 @@
 </string>
 		<string lang="uk">Наносить $damage$ у розмірі показника $mighticon$$b$Сили$.</string>
 </set>
-<set id="description-skill-damageequaltopower-walrus">
-    <string lang="de">Fügt einem Gegner $damage$ und $grav+$ in Höhe der $might$ zu.</string>
-    <string lang="en">Deals $damage$ to an enemy equal to its $might$ and inflicts them with that much $grav+$.</string>
-    <string lang="fr">Inflige $damage$ à un ennemi équivalent à sa $might$ et lui inflige autant de $grav+$.</string>
-    <string lang="zh">对一名敌人造成$damage$，并施加等量的$grav+$。</string>
-    <string lang="jp">敵1体に$damage$、$might$と同量の$grav+$付与。</string>
-    <string lang="ru">Наносит $damage$ врагу в размере от количества $might$ и накладывает на него столько же $grav+$.</string>
-    <string lang="es">Inflige $damage$ y $grav+$ a un enemigo igual a su $might$.</string>
-    <string lang="kr">적에게 $damage$를 주고, $might$와 같은 양의 $grav+$를 부여합니다.</string>
-    <string lang="pt-br">Inflige $damage$ e $grav+$ a um inimigo igual ao seu $might$.</string>
-    <string lang="zh-tw">對一名敵人造成$damage$，並施加等量的$grav+$。
-</string>
-    <string lang="uk">Наносить $damage$ ворогу в розмірі показника $mighticon$$b$Сили$ і накладає на нього стільки ж $grav+$.</string>
-</set>
 <set id="description-skill-encrustmodule">
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
 		<string lang="en">Deals $1damage$ and inflicts a module with $crust$.</string>
@@ -780,9 +766,8 @@
 </string>
 		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
-<set id="description-skill-tusk-walrus">
-		<string lang="de">Fügt einem Gegner $grav+2$ und $1damage$ zu.</string>
-        <string lang="en">Deals $grav+2$ and $1damage$ to an enemy.</string>
+<set id="description-skill-walrus">
+        <string lang="en">Deals $1damage$ and $grav+1$ to all enemies. $p$Constructs one $b$Frost Orb$/b$ module with $cracked$ each on their racks.</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
@@ -839,20 +824,6 @@
 		<string lang="zh-tw">沉重打擊
 </string>
 		<string lang="uk">Могутній розряд</string>
-</set>
-<set id="name-skill-damageequaltopower-walrus">
-		<string lang="de">Stoßzahn $grav+2$</string>
-		<string lang="en">Tusk $grav+icon$</string>
-        <string lang="fr">Défense de morse $grav+2$</string>
-        <string lang="zh">海象獠牙 $grav+2$</string>
-        <string lang="jp">セイウチの牙 $grav+2$</string>
-        <string lang="ru">Бивень моржа $grav+2$</string>
-        <string lang="es">Colmillo $grav+2$</string>
-        <string lang="kr">바다코끼리의 송곳니 $grav+2$</string>
-        <string lang="pt-br">Canino de Morsa $grav+2$</string>
-        <string lang="zh-tw">海象獠牙 $grav+2$
-</string>
-        <string lang="uk">Бивень моржа $grav+2$</string>
 </set>
 <set id="name-skill-encrustmodule">
 		<string lang="de">Harz $crusticon$</string>
@@ -1566,19 +1537,8 @@
 </string>
 		<string lang="uk">Удар блискавки $VALUE$</string>
 </set>
-<set id="name-skill-tusk-walrus">
-		<string lang="de">Stoßzahn $grav+2$</string>
-		<string lang="en">Tusk $grav+2$</string>
-        <string lang="fr">Défense de morse $grav+2$</string>
-        <string lang="zh">海象獠牙 $grav+2$</string>
-        <string lang="jp">セイウチの牙 $grav+2$</string>
-        <string lang="ru">Бивень моржа $grav+2$</string>
-        <string lang="es">Colmillo $grav+2$</string>
-        <string lang="kr">바다코끼리의 송곳니 $grav+2$</string>
-        <string lang="pt-br">Canino de Morsa $grav+2$</string>
-        <string lang="zh-tw">海象獠牙 $grav+2$
-</string>
-        <string lang="uk">Бивень моржа $grav+2$</string>
+<set id="name-skill-walrus">
+		<string lang="en">Icy Tusk</string>
 </set>
 <set id="skill-attack">
 		<string lang="de">Angriff</string>

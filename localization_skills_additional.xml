@@ -12,7 +12,7 @@
 		<string lang="zh-tw">對一名敵人造成$2damage$，並對自身施加$grav+2$。</string>
 		<string lang="uk">Наносить $2damage$ ворогу і накладає на себе $grav+2$.</string>
 </set>
-<set id="description-skill-trample-mammoth">
+<set id="description-skill-mammoth">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
 		<string lang="en">Deals $2damage$ to an enemy and applies $grav+2$ to itself.</string>
 		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
@@ -39,17 +39,8 @@
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на один модуль $fire$.</string>
 </set>
 <set id="description-skill-claw-icebird">
-		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht zwei Module mit $gravrecoil$.</string>
-		<string lang="en">Deals $1damage$ to an enemy and inflicts two modules with $gravrecoil$.</string>
-        <string lang="fr">Inflige $1damage$ à une cible et inflige deux modules avec $gravrecoil$.</string>
-        <string lang="zh">对一名敌人造成$1$$damage$，并令2个模块$gravrecoil$。</string>
-        <string lang="jp">敵1体に$1damage$。$br$モジュール2つに$gravrecoil$付与。</string>
-        <string lang="ru">Наносит $1damage$ врагу и накладывает на два модуля $gravrecoil$.</string>
-        <string lang="es">Inflige $1damage$ a un enemigo e inflige dos módulos con $gravrecoil$.</string>
-        <string lang="kr">적에게 $1damage$를 주고 모듈 2개에 $gravrecoil$을 부여합니다.</string>
-        <string lang="pt-br">Inflige $1damage$ a um inimigo e inflige dois módulos com $gravrecoil$.</string>
-        <string lang="zh-tw">對一名敵人造成$1$$damage$，並令2個模組$gravrecoil$。</string>
-        <string lang="uk">Наносить $1damage$ ворогу і накладає на два модулі $gravrecoil$.</string>
+		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu und versieht ein Modul mit $gravrecoil$.</string>
+		<string lang="en">Deals $1damage$ and $grav+1$ to an enemy and inflicts one module with $gravrecoil$.</string>
 </set>
 <set id="description-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft bis zu zwei $b$Graviraptor-Eier$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
@@ -431,6 +422,23 @@
 </string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $grav-1$ на всіх союзників.</string>
 </set>
+<set id="description-skill-passive-blizzard">
+		<string lang="en">Combatants with their current turn on a Blizzard time step have $b$"$grav+short$ to $damage$"$/b$.</string>
+</set>
+<set id="description-skill-passive-gravneutralize">
+		<string lang="de">Neutralisiert zu Beginn des Zuges alle $grav$ auf allen Kampfteilnehmern.</string>
+		<string lang="en">At the beginning of its turn, neutralizes all $grav$ on all combatants.</string>
+		<string lang="fr">Neutralise au début de son tour tous les $grav$ sur tous les combattants.</string>
+		<string lang="zh">自身回合开始时，重置所有参战单位的$grav$状态。</string>
+		<string lang="jp">ターン開始時、敵味方全員の$grav$全て中和。</string>
+		<string lang="ru">В начале своего хода нейтрализует все $grav$ на всех бойцах.</string>
+		<string lang="es">Al comienzo de su turno, neutraliza toda la $grav$ de todos los combatientes.</string>
+		<string lang="kr">대상의 턴 시작 시, 모든 전투원의 모든 $grav$를 상쇄합니다.</string>
+		<string lang="pt-br">No início de seu turno, neutraliza todo o $grav$ em todos os combatentes.</string>
+		<string lang="zh-tw">自身回合開始時，重置所有參戰單位的$grav$狀態。
+</string>
+		<string lang="uk">На початку свого ходу прибирає весь $grav$ з усіх учасників бою.</string>
+</set>
 <set id="description-skill-passive-gravneutralizeaoeonbeginningofturn">
 		<string lang="de">Neutralisiert zu Beginn des Zuges alle $grav$ auf allen Kampfteilnehmern.</string>
 		<string lang="en">At the beginning of its turn, neutralizes all $grav$ on all combatants.</string>
@@ -542,19 +550,8 @@
 </string>
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
-<set id="description-skill-passive-onvulnerable-powerraise">
-		<string lang="de">Erhöht $might$ um $1$, immer wenn es mit $vulnerable$ versehen wird.</string>
-		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with $vulnerable$.</string>
-        <string lang="fr">Augmente $might$ de $1$ à chaque fois qu'il reçoit $vulnerable$.</string>
-        <string lang="zh">每当受到$vulnerable$，$might$提升$1$。</string>
-        <string lang="jp">$vulnerable$を受けるたび、$br$$1$$might$上昇。</string>
-        <string lang="ru">Увеличивает $might$ на $1$ каждый раз, когда он получает $vulnerable$.</string>
-        <string lang="es">Siempre que recibe $vulnerable$, aumenta $might$ en $1$.</string>
-        <string lang="kr">$vulnerable$을 받을 때마다, $might$이 $1$ 상승합니다.</string>
-        <string lang="pt-br">Sempre que recebe $vulnerable$, aumenta $might$ em $1$.</string>
-        <string lang="zh-tw">每當受到$vulnerable$，$might$提升$1$。
-</string>
-        <string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли отримує $vulnerable$.</string>
+<set id="description-skill-passive-onstatus-powerraise">
+		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
 </set>
 <set id="description-skill-passive-powerraiseonallydeath">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
@@ -1226,6 +1223,19 @@
 </string>
 		<string lang="uk">Атака зграєю $grav-icon$</string>
 </set>
+<set id="name-skill-passive-blizzard">
+		<string lang="de">Schneesturm</string>
+		<string lang="en">Blizzard</string>
+		<string lang="fr">Blizzard</string>
+		<string lang="zh">暴风雪</string>
+		<string lang="jp">吹雪</string>
+		<string lang="ru">Метель</string>
+		<string lang="es">Ventisca</string>
+		<string lang="kr">눈보라</string>
+		<string lang="pt-br">Nevasca</string>
+		<string lang="zh-tw">暴風雪</string>
+		<string lang="uk">Снігопад</string>
+</set>
 <set id="name-skill-passive-gravneutralizeaoeonbeginningofturn">
 		<string lang="de">Grav.-Nullifizierung</string>
 		<string lang="en">Grav. Nullify</string>
@@ -1337,34 +1347,6 @@
 		<string lang="zh-tw">銷毀偵測$mighticon$
 </string>
 		<string lang="uk">Детекція знищення $mighticon$</string>
-</set>
-<set id="name-skill-passive-onendofturn-ifdamaged-gravneg">
-		<string lang="de">Auftauen $grav-icon$</string>
-		<string lang="en">Thawing $grav-icon$</string>
-        <string lang="fr">Décongeler $grav-icon$</string>
-        <string lang="zh">解冻 $grav-icon$</string>
-        <string lang="jp">解凍 $grav-icon$</string>
-        <string lang="ru">Разморозка $grav-icon$</string>
-        <string lang="es">Descongelar $grav-icon$</string>
-        <string lang="kr">해동 $grav-icon$</string>
-        <string lang="pt-br">Descongelar $grav-icon$</string>
-        <string lang="zh-tw">解凍 $grav-icon$
-</string>
-        <string lang="uk">Розморожування $grav-icon$</string>
-</set>
-<set id="name-skill-passive-onvulnerable-powerraise">
-		<string lang="de">Unverwüstlichkeit $mighticon$$vulnerableicon$</string>
-		<string lang="en">Resilience $mighticon$$vulnerableicon$</string>
-		<string lang="fr">Résilience $mighticon$</string>
-        <string lang="zh">韧性$mighticon$</string>
-        <string lang="jp">レジリエンス$mighticon$</string>
-        <string lang="ru">Устойчивость $mighticon$</string>
-        <string lang="es">Resiliencia $mighticon$</string>
-        <string lang="kr">회복력 $mighticon$</string>
-        <string lang="pt-br">Resiliência $mighticon$</string>
-        <string lang="zh-tw">韌性$mighticon$
-</string>
-        <string lang="uk">Стійкість $mighticon$</string>
 </set>
 <set id="name-skill-passive-powerraiseonallydeath">
 		<string lang="de">Seelen-Detektion $mighticon$</string>
@@ -1548,7 +1530,7 @@
 </string>
 		<string lang="uk">Швидкий удар</string>
 </set>
-<set id="name-skill-trample-mammoth">
+<set id="name-skill-mammoth">
 		<string lang="de">Trampeln</string>
 		<string lang="en">Trample</string>
         <string lang="fr">Piétiner</string>
