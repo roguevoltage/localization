@@ -377,7 +377,7 @@
 </set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
 		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu.$p$Konstruiert je ein $b$Trümmer$/b$-Modul mit $cracked$ auf deren Rack. Sie erhalten $fire$.</string>
-		<string lang="en">Deals $1$ $damage$ to all enemies.$p$Constructs a $b$Debris$/b$ module with $cracked$ each on their rack. They receive $fire$.</string>
+		<string lang="en">Deals $1$ $damage$ to all enemies.$p$Constructs one $b$Debris$/b$ module with $cracked$ on each of their racks. They receive $fire$.</string>
 		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $b$Débris$/b$ avec $cracked$ dans leur rack. Ils reçoivent $fire$.</string>
         <string lang="zh">对所有敌人造成$1$$damage$，并强制将一个$b$碎片$/b$模块（$cracked$）放入他们的机架。它们会获得$fire$。</string>
         <string lang="jp">敵全体に$1$$damage$。$br$それぞれのラックに$b$デブリ$/b$モジュール1つ（$cracked$）を強制配置。$br$それらは$fire$を受け取る。</string>
@@ -502,7 +502,7 @@
 </set>
 <set id="description-skill-passive-onendofturn-ifdamaged-gravneg">
         <string lang="de">Am Ende eines Zuges eines jeden Kampfteilnehmers, wenn dieses Monster in diesem Zug $damage$ erlitten hat, erhält es $grav-1$.</string>
-		<string lang="en">At the end of a turn by any combatant, if this monster has takes $damage$ this turn, it receives $grav-1$.</string>
+		<string lang="en">At the end of any combatant's turn, if this monster has taken $damage$ this turn, it receives $grav-1$.</string>
         <string lang="fr">À la fin d'un tour de n'importe quel combattant, si ce monstre a subi $damage$ ce tour, il reçoit $grav-1$.</string>
         <string lang="zh">在任何参战单位的回合结束时，如果该单位在本回合内受到$damage$，$br$则施加$grav-1$。</string>
         <string lang="jp">いずれかの戦闘者のターン終了時、$br$このモンスターが$damage$を受けていた場合、$br$$grav-1$付与。</string>
