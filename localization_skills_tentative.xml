@@ -431,6 +431,9 @@
 		<string lang="fr">n/a</string>
 		<string lang="uk">Наносить $1damage$ всім іншим учасникам бою.</string>
 </set>
+<set id="description-skill-passive-onmoduleboost-powerraise">
+	<string lang="en">Whenever a module should receive $boost$ or $turbo$, prevent that buff and raise $might$ by $1$.</string>
+</set>
 <set id="description-skill-powerraise-livingbomb">
 		<string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
 		<string lang="en">Raises $might$ by $1$ and inflicts all enemies with $grav+1$.</string>
@@ -647,6 +650,9 @@
         <string lang="kr">독성 포자</string>
         <string lang="pt-br">Esporo Tóxico</string>
 		<string lang="uk">Токсична спора</string>
+</set>
+<set id="name-skill-passive-onmoduleboost-powerraise">
+	<string lang="en">Boost Detection $mighticon$</string>
 </set>
 <set id="name-skill-passive-onendofturn-ifdamaged-gravneg">
 		<string lang="en">Rage $grav-icon$</string>
