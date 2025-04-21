@@ -156,7 +156,7 @@
 	<string lang="en">Regeneration Orb</string>
 </set>
 <set id="description-module-hotpotato">
-		<string lang="en">At the beginning of the owner's turn, inflict them with $grav+2$.$p$At the end of the owner's turn deals $1damage$ to them.</string>
+		<string lang="en">At the beginning of turn, inflict them with $grav+2$.$p$At the end of turn deals $1damage$ to them.</string>
 		<string lang="uk">На початку ходу власника накладає на нього $grav+2$.$p$Наприкінці ходу власника наносить йому $1damage$.</string>
 </set>
 <set id="description-module-factorytoggledbooster">
@@ -281,7 +281,7 @@
 	<string lang="en">Constructs a $b$Regeneration Orb$/b$ with $unstable$.</string>
 </set>
 <set id="description-module-orbregeneration">
-	<string lang="en">At the beginning of the owner's turn, removes $1$ stored $energy$ to apply $1healing$ to the owner.</string>
+	<string lang="en">At the beginning of turn, removes $1$ stored $energy$ to apply $1healing$ to the owner.</string>
 </set>
 <set id="description-module-vaultacceleration-emergency">
 		<string lang="en">Can be charged.$p$Whenever the owner has $grav+4$ or more, remove all $gravshort$,$br$then remove all stored $energy$ to apply that much $grav-short$ to them.</string>

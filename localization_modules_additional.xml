@@ -741,15 +741,15 @@
 		<string lang="uk">Модулі з $malfunctioning$ або $overload$ на цій стійці мають $b$шанс 50%$/b$ не вимкнутись після активації.</string>
 </set>
 <set id="description-module-passivegravdissipator">
-		<string lang="de">Zu Beginn des Zuges des Charakters, entferne $grav+1$ von allen Charakteren.</string>
-		<string lang="en">At the beginning of the owner's turn, removes $grav+1$ from all player characters.</string>
-		<string lang="fr">Au début du tour du propriétaire, retire $grav+1$ de tous les personnages joueurs.</string>
+		<string lang="de">Zu Beginn des Zuges, entferne $grav+1$ von allen Charakteren.</string>
+		<string lang="en">At the beginning of turn, removes $grav+1$ from all player characters.</string>
+		<string lang="fr">Au début du tour, retire $grav+1$ de tous les personnages joueurs.</string>
 		<string lang="zh">拥有者回合开始时，移除所有己方角色的$grav+1$。</string>
 		<string lang="jp">所有者のターン開始時、プレイヤーキャラ全体から$grav+1$除去。</string>
 		<string lang="ru">В начале хода владельца, удаляет $grav+1$ у всех игроков.</string>
-		<string lang="es">Al comienzo del turno del propietario, elimina $grav+1$ de todos los personajes jugadores.</string>
+		<string lang="es">Al comienzo del turno, elimina $grav+1$ de todos los personajes jugadores.</string>
 		<string lang="kr">소유자의 턴이 시작될 때, 모든 플레이어 캐릭터에게서 $grav+1$를 제거합니다.</string>
-		<string lang="pt-br">No início do turno do dono, remove $grav+1$ de todos os personagens jogadores.</string>
+		<string lang="pt-br">No início do turno, remove $grav+1$ de todos os personagens jogadores.</string>
 		<string lang="zh-tw">擁有者回合開始時，移除所有己方角色的$grav+1$。</string>
 		<string lang="uk">На початку ходу власника прибирає $grav+1$ з усіх гравців.</string>
 </set>
@@ -793,104 +793,104 @@
         <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.</string>
 </set>
 <set id="description-module-passivesink">
-        <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges des Besitzers entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$b$Negativen Status-Effekte$/b$ sind $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
-		<string lang="en">Whenever this module becomes inflicted with a $b$Negative Status Effect$/b$, create $1plasma$.$p$At the end of the owner's turn, remove all $b$Negative Status Effects$/b$ from this module.$p$&lt;size=10&gt;$b$Negative Status Effects$/b$ are $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
-        <string lang="fr">Chaque fois que ce module est affecté par un $b$Effet de Statut Négatif$/b$, créez $1plasma$.$p$À la fin du tour du propriétaire, retirez tous les $b$Effets de Statut Négatifs$/b$ de ce module.$p$&lt;size=10&gt;$b$Effets de Statut Négatifs$/b$ sont $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
+        <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$b$Negativen Status-Effekte$/b$ sind $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
+		<string lang="en">Whenever this module becomes inflicted with a $b$Negative Status Effect$/b$, create $1plasma$.$p$At the end of turn, remove all $b$Negative Status Effects$/b$ from this module.$p$&lt;size=10&gt;$b$Negative Status Effects$/b$ are $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
+        <string lang="fr">Chaque fois que ce module est affecté par un $b$Effet de Statut Négatif$/b$, créez $1plasma$.$p$À la fin du tour, retirez tous les $b$Effets de Statut Négatifs$/b$ de ce module.$p$&lt;size=10&gt;$b$Effets de Statut Négatifs$/b$ sont $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
         <string lang="zh">每当此模块受到$b$负面状态效果$/b$影响时，产生$1plasma$。$p$在拥有者回合结束时，从此模块上移除所有$b$负面状态效果$/b$。$p$&lt;size=10&gt;$b$负面状态效果$/b$包括$fire$、$gravrecoil$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
         <string lang="jp">このモジュールが$b$ネガティブステータス効果$/b$を受けるたび、$1plasma$生成。$p$所有者のターン終了時、このモジュールからすべての$b$ネガティブステータス効果$/b$を除去。$p$&lt;size=10&gt;$b$ネガティブステータス効果$/b$は$fire$、$gravrecoil$、$crust$、$pollution$、$cooldown$、$outoforder$。</string>
         <string lang="ru">Когда этот модуль получает $b$Отрицательный Статусный Эффект$/b$, создает $1plasma$. $p$В конце хода владельца, удаляет все $b$Отрицательные Статусные Эффекты$/b$ с этого модуля. $p$&lt;size=10&gt;$b$Отрицательные Статусные Эффекты$/b$ - это $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
-        <string lang="es">Siempre que este módulo se vea afectado por un $b$Efecto de Estado Negativo$/b$, crea $1plasma$. $p$Al final del turno del propietario, elimina todos los $b$Efectos de Estado Negativos$/b$ de este módulo. $p$&lt;size=10&gt;$b$Efectos de Estado Negativos$/b$ son $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
+        <string lang="es">Siempre que este módulo se vea afectado por un $b$Efecto de Estado Negativo$/b$, crea $1plasma$. $p$Al final del turno, elimina todos los $b$Efectos de Estado Negativos$/b$ de este módulo. $p$&lt;size=10&gt;$b$Efectos de Estado Negativos$/b$ son $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
         <string lang="kr">이 모듈이 $b$부정적 상태 효과$/b$를 받을 때마다 $1plasma$를 생성합니다.$p$소유자의 턴이 끝날 때, 이 모듈에서 모든 $b$부정적 상태 효과$/b$를 제거합니다.$p$&lt;size=10&gt;$b$부정적 상태 효과$/b$는 $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
-        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Efeito de Estado Negativo$/b$, cria $1plasma$. $p$No final do turno do dono, remove todos os $b$Efeitos de Estado Negativos$/b$ deste módulo. $p$&lt;size=10&gt;$b$Efeitos de Estado Negativos$/b$ são $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
+        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Efeito de Estado Negativo$/b$, cria $1plasma$. $p$No final do turno, remove todos os $b$Efeitos de Estado Negativos$/b$ deste módulo. $p$&lt;size=10&gt;$b$Efeitos de Estado Negativos$/b$ são $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
         <string lang="zh-tw">每當此模組受到$b$負面狀態效果$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$負面狀態效果$/b$。$p$&lt;size=10&gt;$b$負面狀態效果$/b$包括$fire$、$gravrecoil$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
         <string lang="uk">Коли цей модуль отримує $b$Негативний Статусний Ефект$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Негативні Статусні Ефекти$/b$ з цього модуля. $p$&lt;size=10&gt;$b$Негативні Статусні Ефекти$/b$ - це $fire$, $gravrecoil$, $crust$, $pollution$, $cooldown$ і $outoforder$.</string>
 </set>
 <set id="description-module-passivestorageinductor">
-		<string lang="de">Lädt zu Beginn des Zuges des Charakters ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
-		<string lang="en">At the beginning of the owner's turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
+		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
+		<string lang="en">At the beginning of turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
 		<string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sans $cracked$ sur ce rack avec $1energy$.</string>
 		<string lang="zh">回合开始时，随机为此模架上一非$cracked$模块充能$1energy$。</string>
 		<string lang="jp">ターン開始時、このラックの$cracked$$br$付与されていない$br$ランダムな$storagemodule$に$br$$1energy$充電。</string>
 		<string lang="ru">В начале хода владельца, заряжает случайный не-$cracked$ $storagemodule$ на этой стойке на $1energy$.</string>
-		<string lang="es">Al comienzo del turno del propietario, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
+		<string lang="es">Al comienzo del turno, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
 		<string lang="kr">턴 시작 시, 해당 랙의 무작위 $storagemodule$에 $1energy$가 충전됩니다.</string>
-		<string lang="pt-br">No início do turno do dono, carrega um $storagemodule$ aleatório sem $cracked$ neste rack com $1energy$.</string>
+		<string lang="pt-br">No início do turno, carrega um $storagemodule$ aleatório sem $cracked$ neste rack com $1energy$.</string>
 		<string lang="zh-tw">回合開始時，隨機為此模架上一非$cracked$模組充能$1energy$。</string>
 		<string lang="uk">На початку ходу власника заряджає випадковий не-$cracked$ $storagemodule$ на цій стійці на $1energy$.</string>
 </set>
 <set id="description-module-passivestormlantern">
-		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges des Charakters den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
-		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of the owner's turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
-		<string lang="fr">$storm$ frappera également les ennemis.$p$Au début du tour du propriétaire, attirez le $storm$ de jusqu'à $3$ étapes de temps (distance minimale de $b$+1$/b$).</string>
+		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
+		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
+		<string lang="fr">$storm$ frappera également les ennemis.$p$Au début du tour, attirez le $storm$ de jusqu'à $3$ étapes de temps (distance minimale de $b$+1$/b$).</string>
 		<string lang="zh">$storm$也会袭击敌人。$p$拥有者回合开始时，令$storm$提前最多$3$个时间步（最少$b$+1$/b$）。</string>
 		<string lang="jp">$storm$が敵にも落ちる。$p$所有者のターン開始時、$storm$を最大$3$タイムステップ引き寄せる。（最短$b$+1$/b$）</string>
 		<string lang="ru">$storm$ также поражает врагов.$p$В начале хода владельца привлекает $storm$ на до $3$ шагов времени (минимальное расстояние $b$+1$/b$).</string>
-		<string lang="es">La $storm$ también golpeará a los enemigos.$p$Al comienzo del turno del propietario, atrae la $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
+		<string lang="es">La $storm$ también golpeará a los enemigos.$p$Al comienzo del turno, atrae la $storm$ hasta $3$ pasos de tiempo (a una distancia mínima de $b$+1$/b$).</string>
 		<string lang="kr">$storm$은 적에게도 몰아칠 것입니다.$p$소유자의 턴 시작 시, $storm$을 최대 $3$ 시간 단계까지 유도합니다(최소 $b$+1$/b$의 거리까지).</string>
-		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno do dono, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
+		<string lang="pt-br">$storm$ também atingirá inimigos.$p$No início do turno, atraia o $storm$ por até $3$ passos de tempo (para uma distância mínima de $b$+1$/b$).</string>
 		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
 		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника $storm$ наближається на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
 </set>
 <set id="description-module-passivetoyhammer">
-        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um einem zufälligen Gegner $1damage$ zuzufügen.</string>
-		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
-        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour infliger $1damage$ à un ennemi aléatoire.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um einem zufälligen Gegner $1damage$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
+        <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour infliger $1damage$ à un ennemi aléatoire.</string>
         <string lang="zh">拥有者回合开始时，移除拥有者的$grav+1$并对一名随机敌人造成$1damage$。</string>
         <string lang="jp">所有者のターン開始時、$br$所有者から$grav+1$除去し、$br$ランダムな敵に$1damage$。</string>
         <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы нанести $1damage$ случайному врагу.</string>
-        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno del propietario para infligir $1damage$ a un enemigo aleatorio.</string>
+        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno para infligir $1damage$ a un enemigo aleatorio.</string>
         <string lang="kr">소유자의 턴 시작 시, 소유자의 $grav+1$를 제거해 무작위 적에게 $1damage$를 줍니다.</string>
-        <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para causar $1damage$ a um inimigo aleatório.</string>
+        <string lang="pt-br">No início e no final do turno, remove $grav+1$ do dono para causar $1damage$ a um inimigo aleatório.</string>
         <string lang="zh-tw">擁有者回合開始時，移除擁有者的$grav+1$並對一名隨機敵人造成$1damage$。</string>
 		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і наносить $1damage$ випадковому ворогу.</string>
 </set>
 <set id="description-module-passivewindupgorf">
-        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
-		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply$br$$1healing$ to them.</string>
-        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to apply$br$$1healing$ to them.</string>
+        <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
         <string lang="zh">拥有者回合开始及结束时，$br$移除拥有者的$grav+1$并为其施加$br$$1healing$。</string>
 		<string lang="jp">所有者のターン開始時および終了時、所有者から$grav+1$除去し、$br$自身に$1healing$。</string>
 		<string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить$br$$1healing$ к нему.</string>
-		<string lang="es">Al comienzo y al final del turno del propietario, elimina $grav+1$ para aplicar $1healing$ a él.</string>
+		<string lang="es">Al comienzo y al final del turno, elimina $grav+1$ para aplicar $1healing$ a él.</string>
 		<string lang="kr">소유자의 턴 시작과 종료 시,$br$소유자의 $grav+1$를 제거하고 소유자에게 $1healing$를 부여합니다.</string>
 		<string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $1healing$ a ele.</string>
 		<string lang="zh-tw">擁有者回合開始及結束時，$br$移除擁有者的$grav+1$並為其施加$br$$1healing$。</string>
 		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $1healing$ на нього.</string>
 </set>
 <set id="description-module-passivewindupdino">
-        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um dem verbündeten Charakter $grav-1$ zuzufügen.</string>
-		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav-1$ to the allied character.</string>
-        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour appliquer $grav-1$ à le personnage allié.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um dem verbündeten Charakter $grav-1$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to apply $grav-1$ to the allied character.</string>
+        <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour appliquer $grav-1$ à le personnage allié.</string>
         <string lang="zh">拥有者回合开始及结束时，移除拥有者的$grav+1$并对其他角色施加$grav-1$。</string>
         <string lang="jp">所有者のターン開始時および終了時、$br$所有者から$grav+1$除去し、$br$他キャラに$grav-1$付与。</string>
         <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить $grav-1$ к союзнику.</string>
-        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno del propietario para aplicar $grav-1$ al personaje aliado.</string>
+        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno para aplicar $grav-1$ al personaje aliado.</string>
         <string lang="kr">소유자의 턴 시작과 종료 시,$br$소유자의 $grav+1$를 제거하고 다른 캐릭터에게 $grav-1$를 부여합니다.</string>
         <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $grav-1$ ao personagem aliado.</string>
         <string lang="zh-tw">擁有者回合開始及結束時，移除擁有者的$grav+1$並對其他角色施加$grav-1$。</string>
 		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і накладає $grav-1$ на іншого гравця.</string>
 </set>
 <set id="description-module-passivewindupmech">
-        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um $1plasma$ zu erzeugen.</string>
-		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to create$br$$1plasma$.</string>
-        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour créer $1plasma$.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um $1plasma$ zu erzeugen.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to create$br$$1plasma$.</string>
+        <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour créer $1plasma$.</string>
         <string lang="zh">拥有者回合开始及结束时，移除拥有者的$grav+1$并制造$1plasma$。</string>
         <string lang="jp">所有者のターン開始時および終了時、$br$所有者から$grav+1$除去し、$br$$1plasma$生成。</string>
         <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца для создания $1plasma$.</string>
-        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno del propietario para crear $1plasma$.</string>
+        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno para crear $1plasma$.</string>
         <string lang="kr">소유자의 턴 시작과 종료 시,$br$소유자의 $grav+1$를 제거하고 $1plasma$를 생성합니다.</string>
         <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para criar $1plasma$.</string>
         <string lang="zh-tw">擁有者回合開始及結束時，移除擁有者的$grav+1$並製造$1plasma$。</string>
 		<string lang="uk">На початку та наприкінці ходу власника прибирає з нього $grav+1$ і створює $b$1 одиникю$/b$ $plasmaicon$$b$Плазми$/b$.</string>
 </set>
 <set id="description-module-passivewindupshroom">
-        <string lang="de">Zu Beginn und am Ende des Zuges des Charakters, entferne $grav+1$ vom Charakter, um allen Gegnern $grav+1$ zuzufügen.</string>
-		<string lang="en">At the beginning and the end of the owner's turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
-        <string lang="fr">Au début et à la fin du tour du propriétaire, retirez $grav+1$ du propriétaire pour appliquer $grav+1$ à tous les ennemis.</string>
+        <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um allen Gegnern $grav+1$ zuzufügen.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to apply $grav+1$ to all enemies.</string>
+        <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour appliquer $grav+1$ à tous les ennemis.</string>
         <string lang="zh">拥有者回合开始及结束时，移除拥有者的$grav+1$并对所有敌人施加$grav+1$。</string>
         <string lang="jp">所有者のターン開始時および終了時、$br$所有者から$grav+1$除去し、$br$敵全体に$grav+1$付与。</string>
         <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы применить $grav+1$ ко всем врагам.</string>
-        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno del propietario para aplicar $grav+1$ a todos los enemigos.</string>
+        <string lang="es">Elimina $grav+1$ al comienzo y al final del turno para aplicar $grav+1$ a todos los enemigos.</string>
         <string lang="kr">소유자의 턴 시작과 종료 시,$br$소유자의 $grav+1$를 제거하고 모든 적에게 $grav+1$를 부여합니다.</string>
         <string lang="pt-br">No início e no final do turno do dono, remove $grav+1$ do dono para aplicar $grav+1$ a todos os inimigos.</string>
         <string lang="zh-tw">擁有者回合開始及結束時，移除擁有者的$grav+1$並對所有敵人施加$grav+1$。</string>
@@ -924,12 +924,12 @@
 </set>
 <set id="description-module-storagecellproximity">
 	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
-	<string lang="en">At the beginning of the owner's turn, is charged with $b$$SENSORVALUE$$/b$ $energy$ if there is another combatant on the same time step as the owner.</string>	
+	<string lang="en">At the beginning of turn, is charged with $b$$SENSORVALUE$$/b$ $energy$ if there is another combatant on the same time step as the owner.</string>	
 	<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ au début du tour, s'il y a un autre combattant sur la même étape de temps que le propriétaire.</string>
 	<string lang="zh">在拥有者的回合开始时，如果有另一个战斗者在与拥有者相同的时间步骤上，则充电 $b$$SENSORVALUE$$/b$ $energy$。</string>
 	<string lang="jp">オーナーのターンの開始時に、他の戦闘者が所有者と同じ時間ステップにいる場合、$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
 	<string lang="ru">В начале хода владельца заряжается на $b$$SENSORVALUE$$/b$ $energy$, если на том же временном шаге, что и владелец, находится другой боец.</string>
-	<string lang="es">Al comienzo del turno del propietario, se carga con $b$$SENSORVALUE$$/b$ $energy$ si hay otro combatiente en el mismo paso de tiempo que el propietario.</string>
+	<string lang="es">Al comienzo del turno, se carga con $b$$SENSORVALUE$$/b$ $energy$ si hay otro combatiente en el mismo paso de tiempo que el propietario.</string>
 	<string lang="kr">소유자의 차례가 시작될 때, 소유자와 동일한 시간 단계에 다른 전투원이 있으면 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
 	<string lang="pt-br">No início do turno do dono, é carregado com $b$$SENSORVALUE$$/b$ $energy$ se houver outro combatente no mesmo passo de tempo que o dono.</string>
 	<string lang="zh-tw">在擁有者的回合開始時，如果有另一個戰鬥者在與擁有者相同的時間步驟上，則充電$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -1266,27 +1266,27 @@
 </set>
 <set id="description-module-vaultacceleration">
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne $1$ gespeicherte $energy$ um ihn mit $grav-1$ zu versehen.</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
+		<string lang="en">Can be charged.$p$At the beginning of turn, remove $1$ stored $energy$ to apply $grav-1$ to them.</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour du personnage, retirez $1$ $energy$ stockée pour lui appliquer $grav-1$.</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$点所储存的$energy$，对其施加$grav-1$。</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$$grav-1$付与。</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода персонажа, удалите $1$ сохраненную $energy$ чтобы применить к нему $grav-1$.</string>
-		<string lang="es">Puede cargarse.$p$Al comienzo del turno del personaje, elimina $1$ $energy$ almacenada para aplicarle $grav-1$.</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno, elimina $1$ $energy$ almacenada para aplicarle $grav-1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 제거해 소유자에게 $grav-1$를 부여합니다.</string>
-		<string lang="pt-br">Pode ser carregado.$p$No início do turno do personagem, remova $1$ $energy$ armazenada para aplicar $grav-1$ a ele.</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno, remova $1$ $energy$ armazenada para aplicar $grav-1$ a ele.</string>
 		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$點所儲存的$energy$，對其施加$grav-1$。</string>
 		<string lang="uk">Можна заряджати.$p$На початку ходу персонажа витрачає $1$ збережену одинцю $energyicon$$b$Енергії$/b$ для накладання на нього $grav-1$</string>
 </set>
 <set id="description-module-vaultdamage">
-        <string lang="de">Kann aufgeladen werden.$p$Am Ende des Zuges des Charakters, entferne $1$ gespeicherte $energy$ um dem Gegner mit der niedrigsten HP $1damage$ zu verursachen.$p$&lt;size=11&gt;(Zufällig bei Gleichstand)&lt;/size&gt;</string>
-	    <string lang="en">Can be charged.$p$At the end of the owner's turn, remove $1$ stored $energy$ to deal $1damage$ to the enemy with the least HP.$p$&lt;size=11&gt;(Random if tied)&lt;/size&gt;</string>
+        <string lang="de">Kann aufgeladen werden.$p$Am Ende des Zuges, entferne $1$ gespeicherte $energy$ um dem Gegner mit der niedrigsten HP $1damage$ zu verursachen.$p$&lt;size=11&gt;(Zufällig bei Gleichstand)&lt;/size&gt;</string>
+	    <string lang="en">Can be charged.$p$At the end of turn, remove $1$ stored $energy$ to deal $1damage$ to the enemy with the least HP.$p$&lt;size=11&gt;(Random if tied)&lt;/size&gt;</string>
         <string lang="fr">Peut être chargé.$p$À la fin du tour du personnage, retirez $1$ $energy$ stockée pour infliger $1damage$ à l'ennemi avec le moins de PV.$p$&lt;size=11&gt;(Aléatoire en cas d'égalité)&lt;/size&gt;</string>
         <string lang="zh">可充能。$p$拥有者回合结束时，消耗$1$点储存的$energy$，对HP最低的敌人造成$damage$。$p$&lt;size=11&gt;（(平局时，目标随机)&lt;/size&gt;</string>
         <string lang="jp">充電可能。$p$所有者のターン終了時、貯蔵$energy$から$1$消費し、HPが最も低い敵に$1damage$を与える。$p$&lt;size=11&gt;（同点の場合ランダム）&lt;/size&gt;</string>
         <string lang="ru">Может быть заряжен.$p$В конце хода персонажа, удалите $1$ сохраненную $energy$ чтобы нанести $1damage$ врагу с наименьшим HP.$p$&lt;size=11&gt;(Случайно при равенстве)&lt;/size&gt;</string>
-        <string lang="es">Puede cargarse.$p$Al final del turno del personaje, elimina $1$ $energy$ almacenada para infligir $1damage$ al enemigo con menos PV.$p$&lt;size=11&gt;(Aleatorio en caso de empate)&lt;/size&gt;</string>
+        <string lang="es">Puede cargarse.$p$Al final del turno, elimina $1$ $energy$ almacenada para infligir $1damage$ al enemigo con menos PV.$p$&lt;size=11&gt;(Aleatorio en caso de empate)&lt;/size&gt;</string>
         <string lang="kr">충전할 수 있습니다.$p$소유자의 턴이 끝날 때, 저장된 $energy$ $1$을 제거해 HP가 가장 낮은 적에게 $1damage$를 줍니다.$p$&lt;size=11&gt;(무승부일 경우 무작위)&lt;/size&gt;</string>
-        <string lang="pt-br">Pode ser carregado.$p$No final do turno do personagem, remova $1$ $energy$ armazenada para causar $1damage$ ao inimigo com menos PV.$p$&lt;size=11&gt;(Aleatório em caso de empate)&lt;/size&gt;</string>
+        <string lang="pt-br">Pode ser carregado.$p$No final do turno, remova $1$ $energy$ armazenada para causar $1damage$ ao inimigo com menos PV.$p$&lt;size=11&gt;(Aleatório em caso de empate)&lt;/size&gt;</string>
         <string lang="zh-tw">可充能。$p$擁有者回合結束時，消耗$1$點所儲存的$energy$，對HP最低的敵人造成$1damage$。$p$&lt;size=11&gt;（平局時隨機）&lt;/size&gt;</string>
         <string lang="uk">Можна заряджати.$p$На кінці ходу персонажа витрачає $1$ збережену одиницю $energyicon$$b$Енергії$/b$ для нанесення $1damage$ ворогові з найменшим HP.$p$&lt;size=11&gt;(Випадково при рівності)&lt;/size&gt;</string>
 </set>

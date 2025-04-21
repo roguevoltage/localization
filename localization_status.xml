@@ -28,15 +28,15 @@
 		<string lang="uk">Невразливий до $grav$</string>
 </set>
 <set id="description-status-jackcolormutation">
-		<string lang="de">Farbe mutiert am Ende des Zuges des Charakters</string>
-		<string lang="en">Changes color at the end of owner's turn</string>
-		<string lang="fr">La couleur muté à la fin du tour du propriétaire</string>
+		<string lang="de">Farbe mutiert am Ende des Zuges</string>
+		<string lang="en">Changes color at the end of turn</string>
+		<string lang="fr">La couleur muté à la fin du tour</string>
 		<string lang="zh">拥有者回合结束后改变颜色。</string>
 		<string lang="jp">所有者のターン終了時に色変更</string>
 		<string lang="ru">Изменяет цвет в конце хода владельца.</string>
-		<string lang="es">Cambia de color al final del turno del propietario</string>
+		<string lang="es">Cambia de color al final del turno</string>
 		<string lang="kr">소유자의 턴 종료 시 색상이 변화합니다</string>
-		<string lang="pt-br">Muda a cor no final do turno do dono se colocado no rack</string>
+		<string lang="pt-br">Muda a cor no final do turno</string>
 		<string lang="zh-tw">擁有者回合結束後改變顏色。
 </string>
 		<string lang="uk">Змінює колір наприкінці кроку власника</string>
@@ -425,15 +425,15 @@
 		<string lang="uk">Шанс $CHANCETOBREAK$% при активації отримати $outoforder$ до кінця бою.</string>
 </set>
 <set id="description-status-modulemodificationmutation">
-		<string lang="de">Ändert seine Eigenschaften am Ende des Zuges des Charakters</string>
-		<string lang="en">Throughput changes at the end of owner's turn</string>
-		<string lang="fr">Change les traits à la fin du tour du propriétaire</string>
+		<string lang="de">Ändert seine Eigenschaften am Ende des Zuges</string>
+		<string lang="en">Throughput changes at the end of turn</string>
+		<string lang="fr">Change les traits à la fin du tour</string>
 		<string lang="zh">拥有者轮次结束后产能值发生改变</string>
 		<string lang="jp">所有者のターン終了時にスループット変更</string>
 		<string lang="ru">Изменяет пропускную способность в конце хода владельца.</string>
-		<string lang="es">Cambia el rendimiento al final del turno del propietario si se coloca en el bastidor</string>
+		<string lang="es">Cambia el rendimiento al final del turno si se coloca en el bastidor</string>
 		<string lang="kr">소유자의 턴 종료 시 처리량이 변화합니다</string>
-		<string lang="pt-br">Muda a taxa de transferência no final do turno do dono se colocado no rack</string>
+		<string lang="pt-br">Muda a taxa de transferência no final do turno se colocado no rack</string>
 		<string lang="zh-tw">擁有者輪次結束後產能值發生改變</string>
 		<string lang="uk">Пропускна здатність змінюється наприкінці ходу власника</string>
 </set>

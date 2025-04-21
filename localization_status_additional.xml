@@ -14,15 +14,15 @@
         <string lang="uk">Починає кожен бій з $cooldown$</string>
 </set>
 <set id="description-status-moduleimploding">
-        <string lang="de">Wird am Ende des Zuges des Charakters zerstört, wenn die gespeicherte $energy$ $0$ beträgt.</string>
-        <string lang="en">Will be destroyed on end of the owner's turn, if the stored $energy$ is $0$.</string>
-        <string lang="fr">Sera détruit à la fin du tour du propriétaire, si l'$energy$ stockée est de $0$.</string>
+        <string lang="de">Wird am Ende des Zuges zerstört, wenn die gespeicherte $energy$ $0$ beträgt.</string>
+        <string lang="en">Will be destroyed on end of turn, if the stored $energy$ is $0$.</string>
+        <string lang="fr">Sera détruit à la fin du tour, si l'$energy$ stockée est de $0$.</string>
         <string lang="zh">如果存储的$energy$为$0$，则在拥有者的回合结束时被摧毁。</string>
         <string lang="jp">所有者のターンの終わりに、格納された$energy$が$0$の場合、破壊されます。</string>
         <string lang="ru">Будет уничтожен в конце хода владельца, если запасенная $energy$ равна $0$.</string>
-        <string lang="es">Será destruido al final del turno del propietario, si la $energy$ almacenada es $0$.</string>
+        <string lang="es">Será destruido al final del turno, si la $energy$ almacenada es $0$.</string>
         <string lang="kr">소유자의 턴이 끝날 때, 저장된 $energy$가 $0$이면 파괴됩니다.</string>
-        <string lang="pt-br">Será destruído no final do turno do dono, se a $energy$ armazenada for $0$.</string>
+        <string lang="pt-br">Será destruído no final do turno, se a $energy$ armazenada for $0$.</string>
     	<string lang="uk">Буде знищений наприкінці ходу власника, якщо запасена $energy$ дорівнює $0$.</string>
 </set>
 <set id="description-status-modulelock-startingmodule-hardlock">
@@ -158,15 +158,15 @@
 		<string lang="uk">Активація притягує $storm$ $br$ на $3$ часові кроки</string>
 </set>
 <set id="description-status-modulevolatile">
-		<string lang="de">Wird nach dem Zug des Charakters zerstört</string>
-		<string lang="en">Will be destroyed after the owner's turn</string>
-		<string lang="fr">Sera détruit après le tour du propriétaire</string>
+		<string lang="de">Wird nach dem Zug zerstört</string>
+		<string lang="en">Will be destroyed after turn</string>
+		<string lang="fr">Sera détruit après le tour</string>
 		<string lang="zh">拥有者的回合结束后自毁</string>
 		<string lang="jp">所有者のターン終了時に破壊される</string>
 		<string lang="ru">Будет уничтожен после хода владельца</string>
-		<string lang="es">Será destruido después del turno del dueño</string>
+		<string lang="es">Será destruido después del turno</string>
 		<string lang="kr">소유자의 턴 이후에 파괴됩니다</string>
-		<string lang="pt-br">Será destruído após o turno do dono</string>
+		<string lang="pt-br">Será destruído após o turno</string>
 		<string lang="zh-tw">擁有者的回合結束後自毀
 </string>
 		<string lang="uk">Знищиться після ходу власника</string>

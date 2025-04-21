@@ -757,9 +757,9 @@
 	<string lang="uk">Може бути розряджений для отримання $b$ $CHARGEVALUE$ $/b$ $energy$.</string>
 </set>
 <set id="description-module-storagecellinduction">
-		<string lang="de">Wird zu Beginn des Zuges des Charakters um $1energy$ geladen.</string>
-		<string lang="en">Is charged with $1energy$ at the beginning of the owner's turn.</string>
-		<string lang="fr">Est chargé de $1energy$ au début du tour du propriétaire.</string>
+		<string lang="de">Wird zu Beginn des Zuges um $1energy$ geladen.</string>
+		<string lang="en">Is charged with $1energy$ at the beginning of turn.</string>
+		<string lang="fr">Est chargé de $1energy$ au début du tour.</string>
 		<string lang="zh">每个角色回合开始时，$1energy$。</string>
 		<string lang="jp">キャラクターのターン開始時に、$1energy$。</string>
 		<string lang="ru">Заряжается на $1energy$ в начале хода персонажа.</string>
@@ -1044,14 +1044,14 @@
 </set>
 <set id="description-module-vaultregeneration">
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne$br$$1$ gespeicherte $energy$, um$br$$1healing$ auf den Charakter mit den geringsten HP anzuwenden.$p$&lt;size=11&gt;(Heilt bei Gleichstand den Besitzer.)&lt;/size&gt;</string>
-		<string lang="en">Can be charged.$p$At the beginning of the owner's turn, remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
-		<string lang="fr">Peut être chargé.$p$Au début du tour du propriétaire, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
+		<string lang="en">Can be charged.$p$At the beginning of turn, remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
+		<string lang="fr">Peut être chargé.$p$Au début du tour, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，让血量最低的角色获得$1healing$。$p$&lt;size=11&gt;(被控制时治疗自身)&lt;/size&gt;</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$最もHPが低いプレイヤーキャラを$1$$healing$。$p$&lt;size=11&gt;（等しいなら所有者を回復）&lt;/size&gt;</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ к персонажу с наименьшим HP.$p$&lt;size=11&gt;(Лечит владельца при ничьей.)&lt;/size&gt;</string>
-		<string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, retira $1$ energía almacenada para aplicar $1healing$ al personaje con menos HP.$p$&lt;size=11&gt;(Cura al propietario en caso de empate.)&lt;/size&gt;</string>
+		<string lang="es">Puede cargarse.$p$Al comienzo del turno, retira $1$ energía almacenada para aplicar $1healing$ al personaje con menos HP.$p$&lt;size=11&gt;(Cura al propietario en caso de empate.)&lt;/size&gt;</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 소비하여 HP가 가장 낮은 캐릭터에게 $1$ $healing$을 적용합니다.$p$&lt;size=11&gt;(무승부일 경우 소유자를 치료합니다.)&lt;/size&gt;</string>
-		<string lang="pt-br">Pode ser carregado.$p$No início do turno do dono, remova $1$ energia armazenada para aplicar $1healing$ ao personagem com menos HP.$p$&lt;size=11&gt;(Cura o dono em caso de empate.)&lt;/size&gt;</string>
+		<string lang="pt-br">Pode ser carregado.$p$No início do turno, remova $1$ energia armazenada para aplicar $1healing$ ao personagem com menos HP.$p$&lt;size=11&gt;(Cura o dono em caso de empate.)&lt;/size&gt;</string>
 		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$儲存$energy$，讓血量最低的角色獲得$1healing$。$p$&lt;size=11&gt;(被控制時治療自身)&lt;/size&gt;</string>
 		<string lang="uk">Можна заряджати.$p$На початку ходу власника витрачає $1$ збережену одиницю $energyicon$$b$Енергії$/b$ на застосовування $1healing$ до персонажа з найменшою кількістю здоровʼя.$p$&lt;size=11&gt;(При однаковому рівні лікує власника.)&lt;/size&gt;</string>
 </set>
