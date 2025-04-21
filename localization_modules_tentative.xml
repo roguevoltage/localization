@@ -213,10 +213,6 @@
 	<string lang="pt-br">Raio de Provocação $MODIFICATIONVALUE$</string>
 		<string lang="uk">Провокаційний Промінь $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-vaultacceleration-emergency">
-	<string lang="en">Emergency$br$Acceleration Capsule</string>
-	<string lang="uk">Аварійна$br$прискорювальна капсула</string>
-</set>
 <set id="description-module-effectortaunt">
 	<string lang="de">Versieht einen Character deiner Wahl mit $taunt$.$br$(Dauer: $energy$×3)</string>
     <string lang="en">Applies $taunt$ to target allly.$p$(Duration: $energy$×3).</string>
@@ -282,9 +278,5 @@
 </set>
 <set id="description-module-orbregeneration">
 	<string lang="en">At the beginning of turn, removes $1$ stored $energy$ to apply $1healing$ to the owner.</string>
-</set>
-<set id="description-module-vaultacceleration-emergency">
-		<string lang="en">Can be charged.$p$Whenever the owner has $grav+4$ or more, remove all $gravshort$,$br$then remove all stored $energy$ to apply that much $grav-short$ to them.</string>
-		<string lang="uk">CМожна заряджати.$p$Коли на власнику $grav+4$ і більше, прибирає увесь $gravshort$,$br$а потім витрачає усю збережену $energyicon$$b$Енергію$/b$ і накладає на нього $grav-short$ такої ж сили.</string>
 </set>
 </localization>
