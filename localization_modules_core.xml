@@ -96,7 +96,7 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
 		<string lang="zh">有角色获得$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">プレイヤーキャラが$br$$healing$されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда персонаж игрока получает $healing$.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energyicon$$b$Энергию$/b$ каждый раз, когда персонаж игрока получает $healing$.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que un personaje jugador recibe $healing$.</string>
 		<string lang="kr">플레이어 캐릭터가 $healing$될 때마다,$br$$b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um personagem jogador recebe $healing$.</string>
@@ -328,12 +328,12 @@
 		<string lang="fr">Convertit $energy$ en$br$précieux $plasma$.</string>
 		<string lang="zh">将$energy$转化为$br$重要的$plasma$。</string>
 		<string lang="jp">$energy$を$plasma$へ変換。</string>
-		<string lang="ru">Преобразует $energy$ в$br$ценную $plasma$.</string>
+		<string lang="ru">Преобразует $energyicon$$b$Энергию$/b$ в$br$ценную $plasmaicon$&lt;color=#FF00FF&gt;$b$Плазму$/b$&lt;/color&gt;.</string>
 		<string lang="es">Convierte $energy$ en$br$valioso $plasma$.</string>
 		<string lang="kr">$energy$를$br$귀중한 $plasma$로 변환합니다.</string>
 		<string lang="pt-br">Converte $energy$ em$br$valioso $plasma$.</string>
 		<string lang="zh-tw">將$energy$轉化為$br$重要的$plasma$。</string>
-		<string lang="uk">Перетворює $energyicon$$b$Енергію$/b$ на цінну $plasmaicon$$b$Плазму$/b$.</string>
+		<string lang="uk">Перетворює $energyicon$$b$Енергію$/b$ на цінну $plasmaicon$&lt;color=#FF00FF&gt;$b$Плазму$/b$&lt;/color&gt;.</string>
 </set>
 <set id="description-module-effectorpotion" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet $healing$ auf den Charakter an.</string>
@@ -423,7 +423,7 @@
 		<string lang="fr">Construit un $b$Potion de Soin$/b$ universel avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$的通用$b$治疗药剂$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$br$$b$回復薬$/b$製造。</string>
-		<string lang="ru">Создает универсальный $b$Лечебный Напиток$/b$ с $cracked$.</string>
+		<string lang="ru">Создает Универсальное $b$Лечебное Зелье$/b$$br$с $cracked$.</string>
 		<string lang="es">Construye una $b$Poción Curativa$/b$ universal con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태의 범용 $b$치유 물약$/b$을 조립합니다.</string>
 		<string lang="pt-br">Constrói uma $b$Poção de Cura$/b$ universal com $cracked$.</string>
@@ -1401,7 +1401,7 @@
 		<string lang="fr">Convertisseur de Plasma</string>
 		<string lang="zh">等离子转换器</string>
 		<string lang="jp">プラズマ変換器</string>
-		<string lang="ru">Плазменный Конвертер</string>
+		<string lang="ru">Плазменный Преобразователь</string>
 		<string lang="es">Convertidor de Plasma</string>
 		<string lang="kr">플라즈마 변환기</string>
 		<string lang="pt-br">Conversor de Plasma</string>
@@ -1508,7 +1508,7 @@
 		<string lang="fr">Fabrique de Potions $MODIFICATIONVALUE$</string>
 		<string lang="zh">药剂工厂$MODIFICATIONVALUE$</string>
 		<string lang="jp">回復薬製造機$MODIFICATIONVALUE$</string>
-		<string lang="ru">Фабрика Лечебных Зелий $MODIFICATIONVALUE$</string>
+		<string lang="ru">Фабрика Зелий $MODIFICATIONVALUE$</string>
 		<string lang="es">Fábrica de Pociones $MODIFICATIONVALUE$</string>
 		<string lang="kr">물약 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Poções $MODIFICATIONVALUE$</string>

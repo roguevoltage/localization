@@ -5,12 +5,11 @@
 		<string lang="fr">Réunion fraternelle</string>
 		<string lang="zh">兄弟齐心</string>
 		<string lang="jp">兄弟の再会</string>
-		<string lang="ru">Братская встреча</string>
+		<string lang="ru">Братское воссоединение</string>
 		<string lang="es">Reunión Fraternal</string>
 		<string lang="kr">형제의 재회</string>
 		<string lang="pt-br">Reunião Fraterna</string>
-		<string lang="zh-tw">兄弟齊心
-</string>
+		<string lang="zh-tw">兄弟齊心</string>
 		<string lang="uk">Братнє возз'єднання</string>
 </set>
 <set id="happening-tutorial-slopperjacksonjoin-instructions">
@@ -23,8 +22,7 @@
 		<string lang="es">Cambia al bastidor de $slopperjackson$.</string>
 		<string lang="kr">$slopperjackson$의 랙으로 전환하세요.</string>
 		<string lang="pt-br">Mude para o rack de $slopperjackson$.</string>
-		<string lang="zh-tw">切換到$slopperjackson$的模架。
-</string>
+		<string lang="zh-tw">切換到$slopperjackson$的模架。</string>
 		<string lang="uk">Переключитись на стійку $slopperjackson$</string>
 </set>
 <set id="happening-tutorial-slopperjacksonjoin-instructions2">
@@ -33,12 +31,11 @@
 		<string lang="fr">Déplacez la $regenerationcell$$br$dans le sac à dos partagé.</string>
 		<string lang="zh">将$regenerationcell$拖至共享背包。</string>
 		<string lang="jp">$regenerationcell$を共有バックパックへ。</string>
-		<string lang="ru">Переместите $regenerationcell$$br$в общий рюкзак.</string>
+		<string lang="ru">Переместите $regenerationcellicon$$b$Ячейку Регенерации$/b$$br$в общий рюкзак.</string>
 		<string lang="es">Mueve la $regenerationcell$$br$a la mochila compartida.</string>
 		<string lang="kr">$regenerationcell$를 공유 배낭으로$br$이동시키세요.</string>
 		<string lang="pt-br">Mova a $regenerationcell$$br$para a mochila compartilhada.</string>
-		<string lang="zh-tw">將$regenerationcell$$br$拖至共用背包。
-</string>
+		<string lang="zh-tw">將$regenerationcell$$br$拖至共用背包。</string>
 		<string lang="uk">Перемісти модуль $regenerationcell$ $br$в спільний рюкзак.</string>
 </set>
 <set id="happening-tutorial-slopperjacksonjoin-instructions3">
@@ -47,12 +44,11 @@
 		<string lang="fr">Revenez à $slopperjohnson$$br$et déplacez-la dans son rack.</string>
 		<string lang="zh">切换回$slopperjohnson$，并将其移进模架。</string>
 		<string lang="jp">$slopperjohnson$にもどり、ラックへ配置。</string>
-		<string lang="ru">Переключитесь обратно на $slopperjohnson$$br$и переместите его в его рюкзак.</string>
+		<string lang="ru">Переключитесь обратно на $slopperjohnson$ и переместите его в стойку.</string>
 		<string lang="es">Vuelve a $slopperjohnson$$br$y muévela a su bastidor.</string>
 		<string lang="kr">다시 $slopperjohnson$으로 전환한 뒤$br$랙으로 이동시키세요.</string>
 		<string lang="pt-br">Volte para $slopperjohnson$$br$e mova-a para a mochila dele.</string>
-		<string lang="zh-tw">切換回$slopperjohnson$，$br$並將其移進模架。
-</string>
+		<string lang="zh-tw">切換回$slopperjohnson$，$br$並將其移進模架。</string>
 		<string lang="uk">Повернись до $slopperjohnson$ $br$та помісти модуль на його стійку.</string>
 </set>
 <set id="happening-tutorial-slopperjacksonjoin-introduction">
@@ -75,7 +71,7 @@
 		<string lang="fr">Frère! Attends! Tu as oublié ta $regenerationcell$!$br$N'est-ce pas ton module le plus important?$br$Débarrassons-nous de ces monstres ensemble!</string>
 		<string lang="zh">好兄弟！等一下！你忘记带上$regenerationcell$了！$br$这不是你最重要的模块吗？$br$现在让我们一起搞定那些怪物吧！</string>
 		<string lang="jp">待って兄さん！$regenerationcell$忘れてる！$br$一番大事なモジュールでしょ？$br$よし、一緒に怪物退治といこうよ！</string>
-		<string lang="ru">Брат! Подожди! Ты забыл свой $regenerationcell$!$br$Разве это не твой самый важный предмет экипировки?$br$Давай избавимся от этих монстров вместе!</string>
+		<string lang="ru">Брат! Подожди! Ты забыл свою $regenerationcellicon$$b$Ячейку Регенерации$/b$!$br$Разве это не твой самый важный предмет экипировки?$br$ Объединим силы и покончим с ними!</string>
 		<string lang="es">¡Hermano! ¡Espera! ¡Olvidaste tu $regenerationcell$!$br$¿No era tu pieza de equipo más importante?$br$¡Deshagámonos de esos monstruos, juntos!</string>
 		<string lang="kr">형! 잠깐! $regenerationcell$를 두고 갔잖아!$br$가장 중요한 장비 아니야?$br$같이 저 괴물들을 쓸어버리자고!</string>
 		<string lang="pt-br">Irmão! Espere! Você esqueceu sua $regenerationcell$!$br$Não é o seu equipamento mais importante?$br$Vamos nos livrar daqueles monstros juntos!</string>
@@ -89,7 +85,7 @@
 		<string lang="fr">De retour au camp, vous pouvez utiliser $plasma$ pour soigner ou ranimer vos personnages.$p$Vous pouvez également restaurer progressivement des bâtiments dans lesquels vous pouvez acheter et améliorer des modules.</string>
 		<string lang="zh">在营地你可以使用$plasma$来治疗自己。$p$也可以逐步修复建筑，以购买和升级模块。</string>
 		<string lang="jp">野営地に戻ると、$plasma$を使って回復や蘇生ができる。$p$他にも、建物を徐々に修復し、モジュールを買ったり強化したりもできる。</string>
-		<string lang="ru">Вернувшись в лагерь, вы можете использовать $plasma$ для лечения или воскрешения ваших персонажей.$p$Вы также можете постепенно восстанавливать здания, в которых можно покупать и улучшать модули.</string>
+		<string lang="ru">Вернувшись в лагерь, вы можете использовать $plasmaicon$&lt;color=#FF00FF&gt;$b$Плазму$/b$&lt;/color&gt; для лечения или воскрешения ваших персонажей.$p$Вы также можете постепенно восстанавливать здания, в которых можно покупать и улучшать модули.</string>
 		<string lang="es">De vuelta en el campamento, puedes usar $plasma$ para curar o revivir a tus personajes.$p$También puedes restaurar gradualmente edificios en los que puedes comprar y mejorar módulos.</string>
 		<string lang="kr">야영지로 돌아가 $plasma$를 사용해 자신을 치유하거나, 캐릭터를 부활시킬 수 있습니다.$p$건물을 차차 재건해나가며 모듈을 구매하거나 개량하실 수 있습니다.</string>
 		<string lang="pt-br">De volta ao acampamento, você pode usar $plasma$ para curar ou reviver seus personagens.$p$Você também pode restaurar gradualmente edifícios nos quais pode comprar e melhorar módulos.</string>
@@ -103,7 +99,7 @@
 		<string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.$br$Il égalise $grav$.</string>
 		<string lang="zh">现在是$gravequilibrium$的回合。$br$它的出现通常是为了平衡战场上的$grav$。</string>
 		<string lang="jp">さあ、$gravequilibrium$のターンだ。$br$戦場の$grav$を定期的に均等化するぞ。</string>
-		<string lang="ru">Теперь очередь $gravequilibrium$.$br$Он уравнивает $grav$.</string>
+		<string lang="ru">Теперь очередь $gravequilibriumicon$$b$Грав. Равновесия$/b$.$br$Он уравнивает $grav$.</string>
 		<string lang="es">Ahora es el turno del $gravequilibrium$.$br$Igualará la $grav$ del campo cada vez que aparece.</string>
 		<string lang="kr">$gravequilibrium$ 턴이 찾아왔네요.$br$이는 주기적으로 발생하며, 전장의 $grav$를 균일하게 만듭니다.</string>
 		<string lang="pt-br">Agora é a vez do $gravequilibrium$.$br$Iguala $grav$.</string>
@@ -173,7 +169,7 @@
 		<string lang="fr">Le $chronocat$ vient d'appliquer $grav+2$ à $slopperjohnson$, repoussant son tour derrière celui du $fox$!</string>
 		<string lang="zh">$chronocat$刚刚对$slopperjohnson$施放了$grav+2$，导致他的回合延至$fox$之后！</string>
 		<string lang="jp">$chronocat$が$grav+2$を$slopperjohnson$へ付与し、ターンを$fox$よりも後にした！</string>
-		<string lang="ru">Этот $chronocat$ только что применил $grav+2$ к $slopperjohnson$, отталкивая его ход позади хода $fox$!</string>
+		<string lang="ru">Этот $chronocat$ только что применил $grav+2$ к $slopperjohnson$,отодвинув его ход за $foxicon$$b$Лиса$/b$!</string>
 		<string lang="es">¡Ese $chronocat$ acaba de aplicar $grav+2$ a $slopperjohnson$, retrasando su turno detrás del $fox$!</string>
 		<string lang="kr">$chronocat$이가 $slopperjohnson$에게 $grav+2$를 부여해, $slopperjohnson$의 턴을 $fox$ 뒤로 밀어냈습니다!</string>
 		<string lang="pt-br">Esse $chronocat$ acabou de aplicar $grav+2$ a $slopperjohnson$, empurrando seu turno atrás do do $fox$!</string>
@@ -284,7 +280,7 @@
 		<string lang="fr">Avez-vous vu comment la $regenerationcell$ a appliqué $healing$ à $slopperjohnson$?$p$Cela a déclenché le $curesensor$.$p$Il détient maintenant $1energy$.</string>
 		<string lang="zh">留意到刚才$regenerationcell$让$slopperjohnson$获得$1healing$，$p$并且触发$curesensor$了吗？$p$现在它存有$1energy$。</string>
 		<string lang="jp">$regenerationcell$が$slopperjohnson$を$1healing$したのを見ただろう？$p$それで$curesensor$が起動した。$.$p$いまセンサーは$1energy$保持している。</string>
-		<string lang="ru">Вы видели, как $regenerationcell$ применила $1healing$ к $slopperjohnson$?$p$Это вызвало $curesensor$.$p$Теперь он держит $1energy$.</string>
+		<string lang="ru">Вы видели, как $regenerationcell$ применила $1healing$ к $slopperjohnson$?$p$Это вызвало $curesensor$.$p$Теперь он содержит $1$$energyicon$$b$Энергии$/b$.</string>
 		<string lang="es">¿Viste cómo la $regenerationcell$ aplicó $1healing$ a $slopperjohnson$?$p$Esto activó el $curesensor$.$p$Ahora tiene $1energy$.</string>
 		<string lang="kr">방금 $regenerationcell$가 두 주인공을 모두 치유하는 거 보셨나요?$p$이는 $curesensor$를 두 번 발동시킵니다.$p$이제 감지기는 $2energy$를 보유하고 있네요.</string>
 		<string lang="pt-br">Você viu como a $regenerationcell$ curou $slopperjohnson$ com $1healing$?$p$Isso ativou o $curesensor$.$p$Agora ele tem $1energy$.</string>
@@ -310,7 +306,7 @@
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Condensateur$/b$ où il sera $amplificationicon$&lt;color=#afcf74&gt;$b$amplifié$/b$&lt;/color&gt; et $b$stocké$/b$.</string>
 		<string lang="zh">如果在回合结束时没有释放能量，$sensor$将失去所有$energy$。$p$将其导入至$storageicon$$b$冷凝器$/b$，在那里能量会被$amplificationicon$&lt;color=#afcf74&gt;$b$放大$/b$&lt;/color&gt;并$b$储存$/b$起来。</string>
 		<string lang="jp">$sensor$モジュールは、ターン終了時に未使用の全$energy$を散逸する。$p$$storageicon$$b$蓄電器$/b$に配線して、$amplificationicon$&lt;color=#afcf74&gt;$b$増幅$/b$&lt;/color&gt;し、保存しよう。</string>
-		<string lang="ru">Сенсоры потеряют всю $energy$, если не будут разряжены к концу хода.$p$Маршрутизируйте его в $storageicon$$b$Конденсатор$/b$, где он будет $amplificationicon$&lt;color=#afcf74&gt;$b$усилен$/b$&lt;/color&gt; и $b$сохранен$/b$.</string>
+		<string lang="ru">Сенсоры потеряют всю $energyicon$$b$Энергию$/b$, если не будут разряжены к концу хода.$p$Маршрутизируйте его в $storageicon$$b$Конденсаторе$/b$, где он будет $amplificationicon$&lt;color=#afcf74&gt;$b$усилен$/b$&lt;/color&gt; и $b$сохранен$/b$.</string>
 		<string lang="es">Los módulos $sensor$ perderán toda la $energy$ al final del turno si no se descargan.$p$Redirígelo al $storageicon$$b$Condensador$/b$, donde será $amplificationicon$&lt;color=#afcf74&gt;$b$amplificado$/b$&lt;/color&gt; y $b$almacenado$/b$.</string>
 		<string lang="kr">$sensor$ 모듈은 턴이 끝날 때 방전시키지 않을 시 모든 $energy$를 잃습니다.$p$$energy$를 저장할 수 있도록 $storageicon$$b$축압기$/b$에 연결해보세요.</string>
 		<string lang="pt-br">Sensores perderão toda a $energy$ se não forem descarregados até o final do turno.$p$Encaminhe-a para o $storageicon$$b$Condensador$/b$, onde será $amplificationicon$&lt;color=#afcf74&gt;$b$amplificada$/b$&lt;/color&gt; e $b$armazenada$/b$.</string>
@@ -323,7 +319,7 @@
 		<string lang="fr">Stockage d'$energy$</string>
 		<string lang="zh">储存$energy$中</string>
 		<string lang="jp">$energy$保存</string>
-		<string lang="ru">Сохранение $energy$</string>
+		<string lang="ru">Сохранение $energyicon$$b$Энергии$/b$</string>
 		<string lang="es">Almacenar $energy$</string>
 		<string lang="kr">$energy$ 저장</string>
 		<string lang="pt-br">Armazenando $energy$</string>
@@ -336,7 +332,7 @@
 		<string lang="fr">Utilisons ce tour pour préparer une réaction en chaîne encore plus grande.$p$Chargez votre $regenerationcell$.$p$Au début du $b$prochain tour de $/b$$slopperjohnson$, elle appliquera $1healing$ et déclenchera à nouveau le $curesensor$.</string>
 		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$$b$的下一回合$/b$开始时，它将$br$$1healing$。$p$并且会触发$curesensor$两次。</string>
 		<string lang="jp">次の連鎖反応に備えよう。$p$このターンは$regenerationcell$充電だ。$p$$slopperjohnson$の$b$次ターン開始時$b$、$1healing$。$p$$curesensor$を再び起動できる。</string>
-		<string lang="ru">Давайте используем этот ход, чтобы подготовить еще более мощную цепную реакцию.$p$Зарядите вашу $regenerationcell$.$p$На следующем ходу $slopperjohnson$ она применит к нему $1healing$ и снова активирует $curesensor$.</string>
+		<string lang="ru">Давайте используем этот ход, чтобы подготовить еще более мощную цепную реакцию.$p$Зарядите вашу $regenerationcellicon$$b$Ячейку Регенерации$/b$.$p$В начале следующего хода $slopperjohnson$$b$а$/b$ она применит к нему $1healing$ и снова активирует $curesensor$.</string>
 		<string lang="es">Utilicemos este turno para preparar una reacción en cadena aún más grande.$p$Carga tu $regenerationcell$.$p$En el próximo turno de $slopperjohnson$, le aplicará $1healing$ y activará de nuevo el $curesensor$.</string>
 		<string lang="kr">이번 턴을 사용해 더 큰 연쇄 반응을 준비해보죠.$p$$regenerationcell$를 충전시키세요.$p$다음 $slopperjohnson$의 턴에 $regenerationcell$가 두 주인공을 모두 치료하며, $curesensor$를 두 번 발동시킬 것입니다.</string>
 		<string lang="pt-br">Vamos usar esta rodada para preparar uma reação em cadeia ainda maior.$p$Carregue sua $regenerationcell$.$p$No próximo turno de $slopperjohnson$, ela aplicará $1healing$ nele e acionará o $curesensor$ novamente.</string>
@@ -363,7 +359,7 @@
 		<string lang="fr">Votre $curesensor$ a $overload$,$br$ce qui signifie que le décharger$br$le mettra en $cooldown$.$p$Les modules en $cooldown$ ne peuvent pas être activés pendant un tour et les capteurs ne réagiront pas aux déclencheurs.</string>
 		<string lang="zh">你的$curesensor$已$overload$，$br$这意味着释能后它将进入$cooldown$。$p$$cooldown$中的模块在一回合内无法被激活，$br$传感型模块无法被触发。</string>
 		<string lang="jp">$curesensor$は$overload$を持っている。$br$つまり、放電すると、$cooldown$に入る。$p$$cooldown$中のモジュールは1ターンの間、有効化できず、センサーは発動しない。</string>
-		<string lang="ru">Ваш $curesensor$ имеет $overload$, что означает, что разрядка его поставит его на $cooldown$.$p$Модули на $cooldown$ не могут быть активированы в течение одного хода, и сенсоры не будут реагировать на триггеры.</string>
+		<string lang="ru">Ваш $curesensor$ имеет $overloadicon$$b$Перегрузку$/b$, что означает, что разрядка поставит его на $cooldownicon$$b$Перезарядку$/b$.$p$Модули на $cooldownicon$$b$Перезарядке$/b$ не могут быть активированы в течение одного хода, и сенсоры не будут реагировать на триггеры.</string>
 		<string lang="es">Tu $curesensor$ tiene $overload$,$br$lo que significa que descargarlo$br$lo pondrá en $cooldown$.$p$Los módulos en $cooldown$ no pueden ser activados por un turno y los sensores no podrán reaccionar.</string>
 		<string lang="kr">$curesensor$는 $overload$를 보유하고 있으며,$br$이는 한번 방전시킨 뒤에$br$$cooldown$ 상태에 들어가게 된다는 것을 의미합니다.$p$$cooldown$ 상태인 모듈은 한 턴 동안 활성화시킬 수 없게 되며, 감지기는 발동하지 않게 됩니다.</string>
 		<string lang="pt-br">Seu $curesensor$ tem $overload$,$br$o que significa que descarregá-lo$br$o colocará em $cooldown$.$p$Módulos em $cooldown$ não podem ser ativados por um turno e sensores não reagirão a gatilhos.</string>
@@ -391,7 +387,7 @@
 		<string lang="fr">$slopperjackson$ peut également manipuler la chronologie avec son $b$Decelerateur +1$/b$.</string>
 		<string lang="zh">$slopperjackson$同样可以利用$b$减速器+1$/b$来操纵时间轴。</string>
 		<string lang="jp">$slopperjackson$は$b$減速機＋1$/b$でタイムラインを操作できる。</string>
-		<string lang="ru">$slopperjackson$ также может управлять временной линией с помощью своего $b$Децелератора +1$/b$.</string>
+		<string lang="ru">$slopperjackson$ также может управлять временной линией с помощью своего $b$Замедлителя +1$/b$.</string>
 		<string lang="es">$slopperjackson$ también puede manipular la línea temporal con su $b$Desacelerador +1$/b$.</string>
 		<string lang="kr">$slopperjackson$도 $b$감속기 +1$/b$를 이용해 타임라인을 조작할 수 있습니다.</string>
 		<string lang="pt-br">$slopperjackson$ também pode manipular a linha do tempo com seu $b$Desacelerador +1$/b$.</string>
@@ -405,7 +401,7 @@
 		<string lang="fr">$b$Repoussez le tour du $fox$$/b$ derrière celui de $slopperjohnson$!$p$De cette façon, vous pouvez le vaincre avant même qu'il ne puisse jouer.</string>
 		<string lang="zh">$b$重新将$fox$的回合$/b$移到$slopperjohnson$之后！$p$这样就可以抢在它再次出战前直接击败它。</string>
 		<string lang="jp">$b$$fox$のターン$/b$を$slopperjohnson$の後に押しもどせ！$p$そうすればターンを回さずに倒せるぞ。</string>
-		<string lang="ru">$b$Отодвиньте ход $fox$а$/b$$br$позади хода $slopperjohnson$а!$p$Таким образом, вы можете победить его, прежде чем он вообще сможет сделать ход.</string>
+		<string lang="ru">$b$Отодвиньте ход $foxicon$$b$Лиса$/b$$/b$$br$позади хода $slopperjohnson$$b$а$/b$!$p$Таким образом, вы можете победить его, прежде чем он вообще сможет сделать ход.</string>
 		<string lang="es">$b$Empuja el turno del $fox$$/b$ detrás del de $slopperjohnson$ otra vez!$p$De esta manera, puedes derrotarlo antes de que siquiera pueda llegar su turno.</string>
 		<string lang="kr">$b$$fox$의 턴$/b$을 다시 한 번 $slopperjohnson$ 뒤로 $b$밀어주세요$/b$!$p$이를 통해 여우의 턴이 찾아오기 전에 여우를 무찌를 수 있게 됩니다.</string>
 		<string lang="pt-br">$b$Empurre o turno do $fox$$/b$ atrás do de $slopperjohnson$ novamente!$p$Dessa forma, você pode derrotá-lo antes mesmo que ele possa tomar seu turno.</string>
@@ -432,7 +428,7 @@
 		<string lang="fr">Pour obtenir la meilleure $crownicon$$b$Évaluation$/b$, terminons le combat ce tour-ci:$p$Déchargez l'$b$Condensateur$/b$ pour un tir de $2damage$.$p$N'oubliez pas de recharger la $regenerationcell$ pour obtenir de nouveaux déclencheurs de $sensor$ au prochain combat.</string>
 		<string lang="zh">为了获得最高$crownicon$$b$评分$/b$，让我们在本回合结束战斗：$p$释放$b$蓄电池$/b$的能量以造成$2damage$爆能伤害。$p$使用$generator$可为$regenerationcell$重新充能，以便在下次战斗中重新触发传感器。</string>
 		<string lang="jp">最高$crownicon$$b$評価$/b$を確保すべく、このターンで戦闘を終えよう。$p$$b$蓄電器$/b$から放電し、$2damage$のブラスターを放て。$p$$regenerationcell$に再び充電し、次の戦闘で$sensor$を発動できるようにするのを忘れるな。</string>
-		<string lang="ru">Чтобы обеспечить лучшую $crownicon$$b$Оценку$/b$, давайте закончим бой в этот ход:$p$Разрядите $b$Конденсатор$/b$ для $2damage$-выстрела.$p$С помощью $generator$ вы можете зарядить $regenerationcell$ снова, чтобы получить новые триггеры сенсоров в следующем бою.</string>
+		<string lang="ru">Чтобы обеспечить лучшую $crownicon$$b$Оценку$/b$, давайте закончим бой в этот ход:$p$Разрядите $b$Конденсатор$/b$ для $2damage$-выстрела.$p$С помощью $generatoricon$$b$Генератора$/b$ вы можете зарядить $regenerationcellicon$$b$Ячейку Регенерации$/b$ снова, чтобы получить новые триггеры сенсоров в следующем бою.</string>
 		<string lang="es">Para asegurar la mejor $crownicon$$b$Calificación$/b$, terminemos el combate este turno:$p$Descarga el $b$Condensador$/b$ para un disparo de $2damage$.$p$Con el $generator$ puedes cargar la $regenerationcell$ de nuevo para conseguir más disparados de los sensores en el próximo combate.</string>
 		<string lang="kr">최고의 $crownicon$$b$등급$/b$을 차지해야 하니, 이번 턴에 전투를 끝내봅시다:$p$$b$응축기$/b$를 방전시켜 $2damage$를 가하세요.$p$$generator$를 통해 $regenerationcell$를 다시 충전해 다음 전투에 감지기를 새로 발동시킬 수도 있습니다.</string>
 		<string lang="pt-br">Para garantir a melhor $crownicon$$b$Avaliação$/b$, vamos terminar o combate neste turno:$p$Descarregue o $b$Condensador$/b$ para um disparo de $2damage$.$p$Com o $generator$ você pode carregar a $regenerationcell$ novamente para obter novos gatilhos de sensores no próximo combate.</string>
@@ -458,7 +454,7 @@
 		<string lang="fr">Les modules fonctionnent avec de l'$energy$.$br$Certains génèrent de l'$energy$, certains l'amplifient ou la stockent et d'autres l'utilisent pour des effets.</string>
 		<string lang="zh">模块运行需要$energy$。$br$有些模块负责产出，有些负责放大或储存，有些则能将其转化为效果。</string>
 		<string lang="jp">モジュールは$energy$で動作する。$br$$energy$を生成するものもあれば、増幅したり蓄積したり、変換して効果を発揮するものもある。</string>
-		<string lang="ru">Модули работают на $energy$.$br$Некоторые генерируют $energy$, некоторые усиливают или сохраняют ее, а другие превращают ее в эффекты.</string>
+		<string lang="ru">Модули работают на $energyicon$$b$Энергии$/b$.$br$Некоторые генерируют $energyicon$$b$Энергию$/b$, некоторые усиливают или сохраняют ее, а другие превращают ее в эффекты.</string>
 		<string lang="es">Los módulos funcionan con $energy$.$br$Algunos generan $energy$, otros la amplifican o almacenan y otros la convierten en efectos.</string>
 		<string lang="kr">모듈은 $energy$ 포인트로 작동합니다. 특정 모듈은 $energy$를 생성하고, 증폭시키거나 저장하며, 다른 효과로 전환되기도 합니다.</string>
 		<string lang="pt-br">Módulos funcionam com $energy$.$br$Alguns geram $energy$, alguns a amplificam ou armazenam e outros a transformam em efeitos.</string>
@@ -567,7 +563,7 @@
 		<string lang="fr">Un $b$Condensateur$/b$$br$avec une entrée &lt;color=#7fbe63&gt;$b$verte$/b$&lt;/color&gt;!$p$Non seulement il peut $b$stocker$/b$ de l'$energy$, mais il $amplificationicon$$b$l'amplifie$/b$ aussi!</string>
 		<string lang="zh">获得&lt;color=7fbe63&gt;$b$绿色$/b$&lt;/color&gt;输入的$br$$b$冷凝器+1$/b$！$p$不仅能$b$储存$/b$$energy$，还可以$amplificationicon$$b$放大$/b$能量！</string>
 		<string lang="jp">$b$蓄電器＋1$/b$！$br$&lt;color=#7fbe63&gt;$b$緑$/b$&lt;/color&gt;入力付き。$p$$energy$保存だけじゃなく、$amplificationicon$$b$増幅$/b$も！</string>
-		<string lang="ru">$b$Конденсатор$/b$$br$с &lt;color=#7fbe63&gt;$b$зеленым$/b$&lt;/color&gt; входом!$p$Он не только может $b$хранить$/b$ $energy$, но и $amplificationicon$$b$усиливает$/b$ ее!</string>
+		<string lang="ru">$b$Конденсатор$/b$$br$с &lt;color=#7fbe63&gt;$b$зеленым$/b$&lt;/color&gt; входом!$p$Он не только может $b$хранить$/b$ $energyicon$$b$Энергию$/b$, но и $amplificationicon$$b$усиливает$/b$ ее!</string>
 		<string lang="es">¡Un $b$Condensador$/b$$br$con una entrada &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt;!$p$¡No solo puede $b$almacenar$/b$ $energy$, sino que también la $amplificationicon$$b$amplifica$/b$!</string>
 		<string lang="kr">&lt;color=#7fbe63&gt;$b$초록색$/b&lt;/color&gt; 입력이 있는 $b$축압기$/b$군요!$p$$energy$를 저장하는데에$br$아주 큰 도움이 될 겁니다!</string>
 		<string lang="pt-br">Um $b$Condensador$/b$$br$com uma entrada &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; !$p$Não só pode $b$armazenar$/b$ $energy$, mas também $amplificationicon$$b$amplifica$/b$ ela!</string>
@@ -593,7 +589,7 @@
 		<string lang="fr">Une $b$Fabrique de Potions +1$/b$!$p$Si je l'utilise pour fabriquer des potions de soin, nous pouvons générer encore plus d'$energy$ avec ton $curesensor$!</string>
 		<string lang="zh">是$b$药剂工厂+1$/b$！$p$只要用它制造治疗药剂，$curesensor$就可以产出更多的$energy$！</string>
 		<string lang="jp">$b$回復薬製造機＋1！$/b$$p$回復薬を作れば、$curesensor$でさらに$energy$を発電できるよ！</string>
-		<string lang="ru">$b$Фабрика зелий +1$/b$!$p$Если я использую ее для создания зелий лечения, мы можем генерировать еще больше $energy$ с помощью твоего $curesensor$!</string>
+		<string lang="ru">$b$Фабрика Зелий +1$/b$!$p$Если я использую ее для создания зелий лечения, мы можем генерировать еще больше $energy$ с помощью твоего $curesensor$!</string>
 		<string lang="es">¡Una $b$Fábrica de Pociones +1$/b$!$p$Si la uso para construir pociones curativas, podemos generar aún más $energy$ con tu $curesensor$!</string>
 		<string lang="kr">$b$물약 공장 +1$/b$이네요!$p$저걸 사용해 치유 물약을 조립하면, $curesensor$로 더 많은 $energy$를 생산할 수 있습니다!</string>
 		<string lang="pt-br">Uma $b$Fábrica de Poções +1$/b$!$p$Se eu a usar para construir poções de cura, podemos gerar ainda mais $energy$ com o seu $curesensor$!</string>
@@ -602,11 +598,11 @@
 </set>
 <set id="tutorialwindow-lootplasmaconverter-description">
 		<string lang="de">Ein $b$$plasma$-Konverter$/b$ mit einer $b$universellen$/b$ Input-Buchse!$p$Jackson, wir werden reich!$p$Lass ihn uns vorerst im Rucksack aufbewahren. Ich sage dir, wenn ein guter Moment kommt, ihn zu benutzen!</string>
-		<string lang="en">A $b$$plasma$ Converter$/b$ with a $b$universal$/b$ input jack!$p$Jackson, we will be rich!$p$Let's put it in the backpack for now. I will let you know when it's a good moment to use.</string>
+		<string lang="en">A $b$$Plasma$ Converter$/b$ with a $b$universal$/b$ input jack!$p$Jackson, we will be rich!$p$Let's put it in the backpack for now. I will let you know when it's a good moment to use.</string>
 		<string lang="fr">Un $b$Convertisseur de $plasma$$/b$ avec une prise d'entrée $b$universelle$/b$!$p$Jackson, nous allons être riches!$p$Mets-le dans le sac à dos pour l'instant. Je te dirai quand ce sera un bon moment pour l'utiliser.</string>
 		<string lang="zh">带有$b$通用$/b$输入端口的$b$等离子转换器$/b$！$p$杰克逊，这回我们发财了！$p$暂时把它收到背包里。等用的时候我会告诉你的。</string>
 		<string lang="jp">$b$汎用$/b$入力端子付き$b$$plasma$変換器$/b$！$p$ジャクソン、儲けたな！$p$ひとまず、バックパックに突っ込んどこう。使い時が来たら知らせるよ。</string>
-		<string lang="ru">$b$Конвертер плазмы$/b$ с $универсальным$/b$ входом!$p$Джексон, мы разбогатеем!$p$Положим его пока в рюкзак. Я скажу тебе, когда настанет хороший момент для использования.</string>
+		<string lang="ru">$b$Плазменный Преобразователь$/b$ с $b$универсальным$/b$ входом!$p$Джексон, мы разбогатеем!$p$Положим его пока в рюкзак. Я скажу тебе, когда настанет хороший момент для использования.</string>
 		<string lang="es">¡Un $b$Conversor de Plasma$/b$ con un conector de entrada $b$universal$/b$!$p$¡Seremos ricos, Jackson!$p$Pongámoslo en la mochila por ahora. Te avisaré cuando sea un buen momento para usarlo.</string>
 		<string lang="kr">$b$범용$/b$ 입력 잭이 있는 $b$플라즈마 변환기$/b$라니! 잭슨, 우린 이제 부자야!$p$일단 배낭에 넣어두자고. 쓸만한 좋은 타이밍이 오면 가르쳐줄 테니 말이야.</string>
 		<string lang="pt-br">Um $b$Conversor de Plasma$/b$ com um conector de entrada $b$universal$/b$! Que achado incrível!$p$Vamos colocá-lo na mochila por enquanto. Eu te aviso quando for um bom momento para usar.</string>
@@ -619,7 +615,7 @@
 		<string lang="fr">Cette fois, convertissons notre excès d'$energy$ en $plasma$ – la $b$monnaie$/b$ de ce monde détruit.$p$Avec $plasma$, vous pouvez acheter des modules ou ressusciter des personnages après le combat.</string>
 		<string lang="zh">这一次让我们把多余的$energy$转化为$plasma$——当前世界的$b$通用货币$/b$。$p$战斗结束后你可以使用$plasma$购买模块或复活角色。</string>
 		<string lang="jp">今回は余った$energy$を$plasma$に変換しよう。この崩びた世界の$b$通貨$/b$だ。$p$$plasma$があればモジュールを買ったり、戦闘後にキャラクターを蘇生できる。</string>
-		<string lang="ru">На этот раз давайте преобразуем наш избыток $energy$ в $plasma$ – $b$валюту$/b$ этого разрушенного мира.$p$С $plasma$ вы можете покупать модули или воскрешать персонажей после боя.</string>
+		<string lang="ru">На этот раз давайте преобразуем наш избыток $energyicon$$b$Энергии$/b$ в $plasmaicon$&lt;color=#FF00FF&gt;$b$Плазму$/b$&lt;/color&gt; – $b$валюту$/b$ этого разрушенного мира.$p$С $plasmaicon$&lt;color=#FF00FF&gt;$b$Плазмой$/b$&lt;/color&gt; вы можете покупать модули или воскрешать персонажей после боя.</string>
 		<string lang="es">Esta vez convirtamos nuestro exceso de $energy$ en $plasma$ – la $b$moneda$/b$ de este mundo destruido.$p$Con $plasma$ puedes comprar módulos o revivir personajes después de una batalla.</string>
 		<string lang="kr">이번에는 남는 $energy$를 이 황폐한 세계에서 사용되는 $b$화폐$/b$인 $plasma$로 변환시켜볼 시간입니다.$p$$plasma$를 사용해 모듈을 구매하거나 전투 이후 캐릭터를 부활시킬 수 있습니다.</string>
 		<string lang="pt-br">Desta vez, vamos converter nosso excesso de $energy$ em $plasma$ – a $b$moeda$/b$ deste mundo destruído.$p$Com $plasma$ você pode comprar módulos ou reviver personagens após a luta.</string>
@@ -673,7 +669,7 @@
 		<string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ peuvent produire beaucoup d'$energy$ et permettre de puissantes $b$réactions en chaîne$/b$.$p$Construisons ton premier.</string>
 		<string lang="zh">以你的$curesensor$为代表的$sensor$模块是再好不过的$energy$来源，可以触发强大的连锁反应。$p$下面就让我们来打造第一个这样的模块。</string>
 		<string lang="jp">$curesensor$のような$sensor$モジュールは最高の$energy$源。強力な連鎖反応を可能にしてくれる。$p$さあ、手始めに一発組んでみよう。</string>
-		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensor$ могут производить много $energy$ и позволяют мощные цепные реакции.$p$Давай построим твой первый.</string>
+		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensoricon$$b$Датчика$/b$ могут производить много $energyicon$$b$Энергии$/b$ и позволяют мощные цепные реакции.$p$Давай построим твой первый.</string>
 		<string lang="es">¿Has visto tu $curesensor$?$p$Los módulos $sensor$ pueden producir mucha $energy$ y permitir poderosas reacciones en cadena.$p$Construyamos la primera.</string>
 		<string lang="kr">$curesensor$와 같은 $sensor$ 모듈은 최고의 $energy$원이며, 강력한 연쇄 반응을 일으킬 수 있게 합니다.$p$첫 번째 기계를 만들어보죠.</string>
 		<string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ podem produzir muita $energy$ e permitir poderosas reações em cadeia.$p&gt;Vamos construir o seu primeiro.</string>
@@ -686,7 +682,7 @@
 		<string lang="fr">Si tu utilises le $healingpotion$ avec le $generator$, $slopperjohnson$ recevra $1healing$.$p$Cela déclenchera le $curesensor$, qui générera $1energy$.$p$Dirige-le à travers l'$amplifier$ pour une puissante $2damage$ attaque.</string>
 		<string lang="zh">用$generator$激活$healingpotion$，让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，产出$1$$energy$。$p$将产生的能量导入$amplifier$，$br$打出$2damage$的强力一击吧。</string>
 		<string lang="jp">$healingpotion$を$generator$で起動すると、$slopperjohnson$は$1$$healing$。$p$すると$curesensor$が発動し、$1$$energy$発電。$p$$amplifier$に繋ぐと強力な$2damage$の爆破が起きる。</string>
-		<string lang="ru">Активируйте $healingpotion$ с помощью $generator$.$p$Это вызовет $curesensor$, который сгенерирует $1$ $energy$.$p$Маршрутизируйте его через $amplifier$ для сильной атаки.</string>
+		<string lang="ru">Активируйте $healingpotion$ с помощью $generatoricon$$b$Генератора$/b$.$p$Это вызовет $curesensor$, который сгенерирует $1$ $energyicon$$b$Энергию$/b$.$p$Маршрутизируйте его через $amplifier$ для сильной атаки.</string>
 		<string lang="es">Activa la $healingpotion$ con el $generator$.$p$Esto disparará el $curesensor$, que generará $1$ $energy$.$p$Dirígelo a través del $amplifier$ para un ataque bien fuerte.</string>
 		<string lang="kr">$generator$로 $healingpotion$을 활성화할 시, $slopperjohnson$은 $1$ $healing$를 획득합니다.$p$이는 곧 $curesensor$를 활성화시키며, $1$ $energy$를 생산하게 합니다.$p$이제 $amplifier$와 연결해$br$강력한 $2damage$ 블래스트를 날려보세요.</string>
 		<string lang="pt-br">Ative a $healingpotion$ com o $generator$.$p$Isso aciona o $curesensor$, que gerará $1$ $energy$.$p$Encaminhe-o através do $amplifier$ para um ataque forte.</string>
@@ -714,7 +710,7 @@
 		<string lang="fr">La chronologie montre la succession des tours à venir.$p$$b$Maintenant$/b$, c'est au tour de $slopperjohnson$.$p$Ensuite, le temps avancera et $b$en 4 étapes$/b$ ce sera au tour du $chronocat$.$p$Deux étapes plus tard, ce sera au tour de $slopperjackson$.</string>
 		<string lang="zh">时间轴显示了角色出战的轮次。$p$$b$现在$/b$，轮到$slopperjohnson$的回合。$p$随后时间轴向前推进，并在$b$4个时间步长$/b$后轮到$chronocat$。$p$再经过2步，轮到$slopperjackson$。</string>
 		<string lang="jp">タイムラインはターン順を示す。$p$$b$いま$/b$は$slopperjohnson$のターンだ。$p$それから、時間は前に進み、$b$4タイムステップ$b$後には$chronocat$のターン。$p$さらに2タイムステップで$slopperjackson$のターン。</string>
-		<string lang="ru">Временная шкала показывает последовательность предстоящих ходов.$p$$b$Сейчас$/b$ ходит $slopperjohnson$.$p$После этого время продвинется вперед и через $b$4 шага$/b$ наступит очередь $chronocat$.$p$Через два шага наступит очередь $slopperjackson$.</string>
+		<string lang="ru">Временная шкала показывает последовательность предстоящих ходов.$p$$b$Сейчас$/b$ ходит $slopperjohnson$.$p$После этого время продвинется вперед и через$br$$b$4 шага$/b$ наступит очередь $chronocaticon$$b$Хронокота$/b$.$p$Через два шага наступит очередь$br$$slopperjackson$.</string>
 		<string lang="es">La línea temporal muestra la sucesión de los próximos turnos.$p$$b$Ahora$/b$, es el turno de $slopperjohnson$.$p$Después, el tiempo avanzará y $b$en 4 pasos$/b$ será el turno del $chronocat$.$p$Dos pasos después, será el turno de $slopperjackson$.</string>
 		<string lang="kr">타임라인에는 다가올 턴이 차례대로 표시됩니다.$p$$b$현재는$/b$, $slopperjohnson$의 턴입니다.$p$이후에는 시간이 흘러가며, $b$4번의 시간 단계가 지나면$/b$ $chronocat$의 턴이 됩니다.$p$두 단계 이후에는 $slopperjackson$의 턴입니다.</string>
 		<string lang="pt-br">A linha do tempo mostra a sucessão dos próximos turnos.$p$$b$Agora$/b$, é a vez de $slopperjohnson$.$p$Depois, o tempo avançará e $b$em 4 etapas$/b$ será a vez do $chronocat$.$p$Duas etapas depois, será a vez de $slopperjackson$.</string>
@@ -727,7 +723,7 @@
 		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
 		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？$br$那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
 		<string lang="jp">7タイムステップ後にハイライトされてる&lt;sprite name="timestep" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、8タイムステップ後に$fox$のターンだ。</string>
-		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
+		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $foxicon$$b$Лиса$/b$.</string>
 		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
 		<string lang="kr">"7단계에 강조표시된 &lt;sprite name=timestep"" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요.</string>
 		<string lang="pt-br">Veja o &lt;sprite name="timestep" tint=1&gt;$b$círculo$/b$ destacado em 7 etapas? É onde será o próximo turno de $slopperjohnson$.$p$Depois, em 8 etapas, será a vez do $fox$.</string>
