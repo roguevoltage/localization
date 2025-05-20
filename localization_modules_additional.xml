@@ -846,7 +846,7 @@
 </set>
 <set id="description-module-passivewindupgorf">
         <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
-		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to apply$br$$1healing$ to them.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to apply $1healing$ to them.</string>
         <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour lui appliquer $1healing$.</string>
         <string lang="zh">拥有者回合开始及结束时，$br$移除拥有者的$grav+1$并为其施加$br$$1healing$。</string>
 		<string lang="jp">所有者のターン開始時および終了時、所有者から$grav+1$除去し、$br$自身に$1healing$。</string>
@@ -872,7 +872,7 @@
 </set>
 <set id="description-module-passivewindupmech">
         <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um $1plasma$ zu erzeugen.</string>
-		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to create$br$$1plasma$.</string>
+		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to create $1plasma$.</string>
         <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour créer $1plasma$.</string>
         <string lang="zh">拥有者回合开始及结束时，移除拥有者的$grav+1$并制造$1plasma$。</string>
         <string lang="jp">所有者のターン開始時および終了時、$br$所有者から$grav+1$除去し、$br$$1plasma$生成。</string>
@@ -1029,8 +1029,8 @@
 </set>
 <set id="description-module-toggledreplicator">
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
-		<string lang="en">Applies $replicating$ and $unstable$ to another target module on this rack with $cracked$.</string>
-		<string lang="fr">Applique $replicating$ et $unstable$ à un autre module ciblé sur ce rack avec $cracked$.</string>
+		<string lang="en">Applies $replicating$ and $unstable$ to target module on this rack with $cracked$.</string>
+		<string lang="fr">Applique $replicating$ et $unstable$ à un module ciblé sur ce rack avec $cracked$.</string>
 		<string lang="zh">选择同模架上另一$cracked$模块，$br$赋予其$replicating$及$unstable$状态。</string>
 		<string lang="jp">ラックの別の$cracked$付与された対象モジュールに、$replicating$と$unstable$付与。</string>
 		<string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этом стеллаже с $cracked$.</string>
@@ -1266,7 +1266,7 @@
 </set>
 <set id="description-module-vaultacceleration">
 	<string lang="de">Kann aufgeladen werden.$p$Sobald der Charakter $grav+4$ oder mehr hat, dann entferne alle $grav+short$, entferne alle gespeicherte $energy$ von diesem Modul, um ihr/ihm so viel $grav-short$ zuzufügen.</string>
-	<string lang="en">Can be charged.$p$Aas soon as the owner has $grav+4$ or more, remove all $grav+short$ from them, then remove all stored $energy$ from this module to apply that much $grav-short$ to them.</string>
+	<string lang="en">Can be charged.$p$As soon as the owner has $grav+4$ or more, remove all $grav+short$ from them, then remove all stored $energy$ from this module to apply that much $grav-short$ to them.</string>
 	<string lang="fr">Peut être chargé.$p$Dès que le personnage a $grav+4$ ou plus, retirez tout $grav+short$ de lui, puis retirez toute l'$energy$ stockée de ce module pour lui appliquer autant de $grav-short$.</string>
 	<string lang="zh">可充能。$p$当拥有者的$grav+4$或更高时，移除所有$grav+short$，然后从此模块中移除所有储存的$energy$，以施加相同数量的$grav-short$。</string>
 	<string lang="jp">充電可能。$p$所有者の$grav+4$以上の場合、$grav+short$全て除去、$br$このモジュールから貯蔵された$energy$全て除去し、同じ量の$grav-short$を付与。</string>
@@ -1281,7 +1281,7 @@
         <string lang="de">Kann aufgeladen werden.$p$Am Ende des Zuges, entferne $1$ gespeicherte $energy$ um dem Gegner mit der niedrigsten HP $1damage$ zu verursachen.$p$&lt;size=11&gt;(Zufällig bei Gleichstand)&lt;/size&gt;</string>
 	    <string lang="en">Can be charged.$p$At the end of turn, remove $1$ stored $energy$ to deal $1damage$ to the enemy with the least HP.$p$&lt;size=11&gt;(Random if tied)&lt;/size&gt;</string>
         <string lang="fr">Peut être chargé.$p$À la fin du tour du personnage, retirez $1$ $energy$ stockée pour infliger $1damage$ à l'ennemi avec le moins de PV.$p$&lt;size=11&gt;(Aléatoire en cas d'égalité)&lt;/size&gt;</string>
-        <string lang="zh">可充能。$p$拥有者回合结束时，消耗$1$点储存的$energy$，对HP最低的敌人造成$damage$。$p$&lt;size=11&gt;（(平局时，目标随机)&lt;/size&gt;</string>
+        <string lang="zh">可充能。$p$拥有者回合结束时，消耗$1$点储存的$energy$，对HP最低的敌人造成$damage$。$p$&lt;size=11&gt;（平局时，目标随机）&lt;/size&gt;</string>
         <string lang="jp">充電可能。$p$所有者のターン終了時、貯蔵$energy$から$1$消費し、HPが最も低い敵に$1damage$を与える。$p$&lt;size=11&gt;（同点の場合ランダム）&lt;/size&gt;</string>
         <string lang="ru">Может быть заряжен.$p$В конце хода персонажа, удалите $1$ сохраненную $energy$ чтобы нанести $1damage$ врагу с наименьшим HP.$p$&lt;size=11&gt;(Случайно при равенстве)&lt;/size&gt;</string>
         <string lang="es">Puede cargarse.$p$Al final del turno, elimina $1$ $energy$ almacenada para infligir $1damage$ al enemigo con menos PV.$p$&lt;size=11&gt;(Aleatorio en caso de empate)&lt;/size&gt;</string>
