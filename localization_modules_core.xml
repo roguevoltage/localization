@@ -199,18 +199,17 @@
 		<string lang="uk">Можна заряджати.$p$Якщо персонаж втрачає свідомість, він приходить до тями і отримує $healing$ у розмірі збереженої $energyicon$$b$Енергії$/b$.</string>
 </set>
 <set id="description-module-distributor">
-		<string lang="de">Verteilt $energy$ abwechselnd auf beide Output-Buchsen, beginnend mit der linken.</string>
-		<string lang="en">Distributes $energy$ alternatingly over both output jacks, starting with the left one.</string>
-		<string lang="fr">Distribue $energy$ alternativement sur les deux jacks output, en commençant par le gauche.</string>
-		<string lang="zh">两个输出端口轮流产出$energy$，从左侧开始。</string>
-		<string lang="jp">両方の出力端子へ左から順に$br$$energy$分配。</string>
-		<string lang="ru">Распределяет $energy$ поочередно на оба выходных разъема, начиная с левого.</string>
-		<string lang="es">Distribuye $energy$ alternativamente sobre ambos conectores de salida, comenzando con el izquierdo.</string>
-		<string lang="kr">왼쪽 잭부터 시작해, 두 출력 잭에 교대로 $energy$를 분배합니다.</string>
-		<string lang="pt-br">Distribui $energy$ alternadamente sobre ambos conectores de saída, começando com o esquerdo.</string>
-		<string lang="zh-tw">兩個輸出端口輪流產出$energy$，從左側開始。
-</string>
-		<string lang="uk">Розподіляє $energyicon$$b$Енергію$/b$ по черзі на обидва виходи, починаючи з лівого.</string>
+        <string lang="de">Leitet die Hälfte der $energy$ an die linke Output-Buchse (aufgerundet).$p$Leitet die andere Hälfte an die rechten Output-Buchse (abgerundet).</string>
+		<string lang="en">Transmits half of the $energy$ to the left output jack (rounded up).$p$Transmits the other half to the right output jack (rounded down).</string>
+        <string lang="fr">Transmet la moitié de l'$energy$ à la prise de sortie gauche (arrondi vers le haut).$p$Transmet l'autre moitié à la prise de sortie droite (arrondi vers le bas).</string>
+        <string lang="zh">将一半的$energy$传输到左侧输出插孔（向上取整）。$p$将另一半传输到右侧输出插孔（向下取整）。</string>
+        <string lang="jp">$energy$の半分を左側の出力ジャックに送信します（切り上げ）。$p$残りの半分は右側の出力ジャックに送信します（切り捨て）。</string>
+        <string lang="ru">Передает половину $energy$ в левый выходной разъем (округлено вверх).$p$Передает другую половину в правый выходной разъем (округлено вниз).</string>
+        <string lang="es">Transmite la mitad de la $energy$ a la toma de salida izquierda (redondeado hacia arriba).$p$Transmite la otra mitad a la toma de salida derecha (redondeado hacia abajo).</string>
+        <string lang="kr">$energy$의 절반을 왼쪽 출력 잭(올림)으로 전송합니다.$p$나머지 절반은 오른쪽 출력 잭(내림)으로 전송합니다.</string>
+        <string lang="pt-br">Transmite metade da $energy$ para a tomada de saída esquerda (arredondado para cima).$p$Transmite a outra metade para a tomada de saída direita (arredondado para baixo).</string>
+        <string lang="zh-tw">將一半的$energy$傳輸到左側輸出插孔（向上取整）。$p$將另一半傳輸到右側輸出插孔（向下取整）。</string>
+        <string lang="uk">Передає половину $energyicon$$b$Енергії$/b$ в лівий вихідний роз'єм (округлено вгору).$p$Передає іншу половину в правий вихідний роз'єм (округлено вниз).</string>
 </set>
 <set id="description-module-effectoraccelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav-$ zu.</string>
