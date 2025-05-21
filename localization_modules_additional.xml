@@ -117,17 +117,17 @@
 		<string lang="uk">Отримує $turbo$ $br$щоразу, коли отримує $energyicon$$b$Енергію$/b$.</string>
 </set>
 <set id="description-module-collectoramplification">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $energy$ is amplified on a module by $amplification$ wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ on a module is amplified by $amplification$, $upgrade$, $turbo$ or $boost$.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
-		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$storagemodule$を充電するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$es cargado.</string>
-		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
-		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $energy$ durch $amplification$, $upgrade$, $turbo$ oder $boost$ auf einem Modul auf diesem Rack verstärkt wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ is amplified by $amplification$, $upgrade$, $turbo$ or $boost$ on a module on this rack.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ chaque fois que $energy$ est amplifié par $amplification$, $upgrade$, $turbo$ ou $boost$ sur un module de ce rack.</string>
+        <string lang="zh">每当$energy$在这个机架上的模块上被$amplification$、$upgrade$、$turbo$或$boost$放大时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">$energy$がこのラックのモジュールで$amplification$、$upgrade$、$turbo$、または$boost$によって増幅されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $energy$ усиливается $amplification$, $upgrade$, $turbo$ или $boost$ на модуле на этой стойке.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $energy$ es amplificado por $amplification$, $upgrade$, $turbo$ o $boost$ en un módulo de este rack.</string>
+        <string lang="kr">$energy$가 이 랙의 모듈에서 $amplification$, $upgrade$, $turbo$ 또는 $boost$에 의해 증폭될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $energy$ é amplificado por $amplification$, $upgrade$, $turbo$ ou $boost$ em um módulo neste rack.</string>
+        <string lang="zh-tw">每當$energy$在這個機架上的模組上被$amplification$、$upgrade$、$turbo$或$boost$放大時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $energy$ підсилюється $amplification$, $upgrade$, $turbo$ або $boost$ на модулі на цій стійці.</string>
 </set>
 <set id="description-module-collectorcollector">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderer $sensor$ auf diesem Rack ausgelöst wird.</string>
