@@ -429,6 +429,19 @@
 		<string lang="zh-tw">製造一個$cracked$的通用$b$治療藥劑$/b$。</string>
 		<string lang="uk">Створює універсальне $b$Цілюще Зілля$/b$ з $cracked$.</string>
 </set>
+<set id="description-module-factorypotion-acceleration">
+		<string lang="de">Stellt einen universellen $b$Beschleunigungs-Trank$/b$ mit $cracked$ her.</string>
+		<string lang="en">Constructs a universal$br$$b$Acceleration Potion$/b$$br$with $cracked$.</string>
+		<string lang="fr">Construit un $b$Potion da'Accélération$/b$ universel avec $cracked$.</string>
+        <string lang="zh">制造一个$cracked$的通用$b$加速药剂$/b$。</string>
+        <string lang="jp">$cracked$付与された汎用端子の$br$$b$加速薬$/b$製造。</string>
+        <string lang="ru">Создает универсальное $b$Зелье Ускорения$/b$$br$с $cracked$.</string>
+        <string lang="es">Construye una $b$Poción de Aceleración$/b$ universal con $cracked$.</string>
+        <string lang="kr">$cracked$ 상태의 범용 $b$가속 물약$/b$을 조립합니다.</string>
+        <string lang="pt-br">Constrói uma $b$Poção de Aceleração$/b$ universal com $cracked$.</string>
+        <string lang="zh-tw">製造一個$cracked$的通用$b$加速藥劑$/b$。</string>
+        <string lang="uk">Створює універсальне $b$Зілля Прискорення$/b$ з $cracked$.</string>
+</set>
 <set id="description-module-factorystoragecell">
 		<string lang="de">Stellt eine universelle $b$Speicherzelle$/b$ mit $cracked$ und $cooldown$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Storage Cell$/b$ with $cracked$ and $cooldown$.</string>
@@ -1524,9 +1537,21 @@
 		<string lang="es">Fábrica de Pociones $MODIFICATIONVALUE$</string>
 		<string lang="kr">물약 공장 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Fábrica de Poções $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">藥劑工廠$MODIFICATIONVALUE$
-</string>
+		<string lang="zh-tw">藥劑工廠$MODIFICATIONVALUE$</string>
 		<string lang="uk">Фабрика лікувальних зелій $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factorypotion-acceleration">
+		<string lang="de">Beschleunigungs-Trank-Fabrik $MODIFICATIONVALUE$</string>
+		<string lang="en">Acceleration Potion Factory $MODIFICATIONVALUE$</string>
+		<string lang="fr">Fabrique de Potions d'Accélération $MODIFICATIONVALUE$</string>
+		<string lang="zh">加速药水工厂$MODIFICATIONVALUE$</string>
+        <string lang="jp">加速ポーション製造機$MODIFICATIONVALUE$</string>
+        <string lang="ru">Фабрика Зелий Ускорения $MODIFICATIONVALUE$</string>
+        <string lang="es">Fábrica de Poción de Aceleración $MODIFICATIONVALUE$</string>
+        <string lang="kr">가속 물약 공장 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Fábrica de Poção de Aceleração $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">加速藥水工廠$MODIFICATIONVALUE$</string>
+        <string lang="uk">Фабрика зілля прискорення $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-factorystoragecell">
 		<string lang="de">Speicherzellen-Fabrik $MODIFICATIONVALUE$</string>
