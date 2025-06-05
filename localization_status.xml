@@ -1179,18 +1179,17 @@
 		<string lang="uk">$damage$ на $grav+short$</string>
 </set>
 <set id="name-status-transformation-gravtodmg">
-		<string lang="de">$grav+short$ zu $damage$</string>
-		<string lang="en">$grav+short$ to $damage$</string>
-		<string lang="fr">$grav+short$ vers $damage$</string>
-		<string lang="zh">$grav+short$转化为$damage$</string>
-		<string lang="jp">$grav+short$を$damage$へ</string>
-		<string lang="ru">$grav+short$ в $damage$</string>
-		<string lang="es">$grav+short$ a $damage$</string>
-		<string lang="kr">$grav+short$에서 $damage$</string>
-		<string lang="pt-br">$grav+short$ para $damage$</string>
-		<string lang="zh-tw">$grav+short$轉化為$damage$
-</string>
-		<string lang="uk">$grav+short$ на $damage$</string>
+		<string lang="de">Erfrierung $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="en">Frostbite $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="fr">Gelure $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="zh">冻伤 $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="jp">凍傷 $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="ru">Обморожение $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="es">Congelación $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="kr">동상 $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="pt-br">Congelamento $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="zh-tw">凍傷 $grav+icon$$arrowright$$damageicon$</string>
+		<string lang="uk">Обмороження $grav+icon$$arrowright$$damageicon$</string>
 </set>
 <set id="name-status-transformation-gravtomight">
 		<string lang="de">$grav+$ zu $might$</string>
@@ -1459,18 +1458,17 @@
 		<string lang="uk">DMG на Грав+</string>
 </set>
 <set id="shortname-status-transformation-gravtodmg">
-		<string lang="de">$grav+short$ zu DMG</string>
-		<string lang="en">$grav+short$ to DMG</string>
-		<string lang="fr">$grav+short$ vers DMG</string>
-		<string lang="zh">$grav+short$转化为伤害</string>
-		<string lang="jp">$grav+short$を$damage$へ</string>
-		<string lang="ru">Грав+ в Урон</string>
-		<string lang="es">$grav+short$ a Daño</string>
-		<string lang="kr">$grav+short$에서 피해</string>
-		<string lang="pt-br">$grav+short$ para DMG</string>
-		<string lang="zh-tw">$grav+short$轉化為傷害
-</string>
-		<string lang="uk">$grav+short$ на DMG</string>
+		<string lang="de">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="en">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="fr">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="zh">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="jp">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="ru">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="es">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="kr">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="pt-br">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="zh-tw">$grav+icon$$arrowright$$damageicon$</string>
+		<string lang="uk">$grav+icon$$arrowright$$damageicon$</string>
 </set>
 <set id="shortname-status-vulnerable">
 		<string lang="de">Verwundbar</string>

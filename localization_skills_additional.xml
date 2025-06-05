@@ -422,8 +422,18 @@
 </string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $grav-1$ на всіх союзників.</string>
 </set>
-<set id="description-skill-passive-blizzard">
-		<string lang="en">Combatants with their current turn on a Blizzard time step have $b$"$grav+short$ to $damage$"$/b$.</string>
+<set id="description-skill-passive-blizzard" remarks="take translation for Frostbite from localization string name-status-transformation-gravtodmg">
+        <string lang="de">Kampfteilnehmer mit ihrem aktuellen Zug auf einem Schneesturm-Feld haben $b$Erfrierung $grav+icon$$arrowright$$damageicon$$/b$.</string>
+		<string lang="en">Combatants with their current turn on a Blizzard time step have $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$.</string>
+        <string lang="fr">Les combattants avec leur tour actuel sur une étape de temps Blizzard ont $b$Gelure $grav+icon$$arrowright$$damageicon$$/b$.</string>
+        <string lang="zh">处于暴风雪时间轴点的参战单位会获得$b$冻伤 $grav+icon$$arrowright$$damageicon$$/b$。</string>
+        <string lang="jp">ブリザードタイムステップにいる敵味方は$br$$b$凍傷 $grav+icon$$arrowright$$damageicon$$/b$を受ける。</string>
+		<string lang="ru">Бойцы, находящиеся на текущем шаге времени Метели, получают $b$Обморожение $grav+icon$$arrowright$$damageicon$$/b$.</string>
+		<string lang="es">Los combatientes con su turno actual en un paso de tiempo de Ventisca tienen $b$Congelación $grav+icon$$arrowright$$damageicon$$/b$.</string>
+		<string lang="kr">눈보라 시간 단계에 있는 전투원은 $b$동상 $grav+icon$$arrowright$$damageicon$$/b$을 받습니다.</string>
+		<string lang="pt-br">Combatentes com seu turno atual em um passo de tempo de Nevasca têm $b$Congelamento $grav+icon$$arrowright$$damageicon$$/b$.</string>
+		<string lang="zh-tw">處於暴風雪時間軸點的參戰單位會獲得$b$凍傷 $grav+icon$$arrowright$$damageicon$$/b$。</string>
+		<string lang="uk">Бійці, які знаходяться на поточному кроці часу Blizzard, отримують $b$Обмороження $grav+icon$$arrowright$$damageicon$$/b$.</string>
 </set>
 <set id="description-skill-passive-gravneutralize">
 		<string lang="de">Neutralisiert zu Beginn des Zuges alle $grav$ auf allen Kampfteilnehmern.</string>
@@ -721,18 +731,18 @@
 		<string lang="uk">Накладає $stasis$ на вказаного учасникиа бою.$p$Може перевернути плин часу.</string>
 </set>
 <set id="description-skill-swiftstrike">
-		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-1$ zu.</string>
-		<string lang="en">Deals $1damage$ and applies $grav-1$ to itself.</string>
-		<string lang="fr">Inflige $1damage$ et s'inflige $grav-1$.</string>
-		<string lang="zh">造成$1damage$，并对自身施加$grav-1$。</string>
-		<string lang="jp">$1damage$、自身に$grav-1$付与。</string>
-		<string lang="ru">Наносит врагу $1damage$ и накладывает на себя $grav-1$.</string>
-		<string lang="es">Inflige $1damage$ e inflige a sí mismo con $grav-1$.</string>
-		<string lang="kr">$1damage$를 주고 자신에게 $grav-1$를 부여합니다.</string>
-		<string lang="pt-br">Causa $1damage$ e inflige a si mesmo com $grav-1$.</string>
-		<string lang="zh-tw">造成$1damage$，並對自身施加$grav-1$。
+		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-2$ zu.</string>
+		<string lang="en">Deals $1damage$ and applies $grav-2$ to itself.</string>
+		<string lang="fr">Inflige $1damage$ et s'inflige $grav-2$.</string>
+		<string lang="zh">造成$1damage$，并对自身施加$grav-2$。</string>
+		<string lang="jp">$1damage$、自身に$grav-2$付与。</string>
+		<string lang="ru">Наносит врагу $1damage$ и накладывает на себя $grav-2$.</string>
+		<string lang="es">Inflige $1damage$ e inflige a sí mismo con $grav-2$.</string>
+		<string lang="kr">$1damage$를 주고 자신에게 $grav-2$를 부여합니다.</string>
+		<string lang="pt-br">Causa $1damage$ e inflige a si mesmo com $grav-2$.</string>
+		<string lang="zh-tw">造成$1damage$，並對自身施加$grav-2$。
 </string>
-		<string lang="uk">Наносить $1damage$ і накладає на себе $grav-1$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає на себе $grav-2$.</string>
 </set>
 <set id="description-skill-volcanoeruption">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
