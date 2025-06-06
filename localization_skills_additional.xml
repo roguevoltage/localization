@@ -13,17 +13,17 @@
 		<string lang="uk">Наносить $2damage$ ворогу і накладає на себе $grav+2$.</string>
 </set>
 <set id="description-skill-mammoth">
-		<string lang="de">Fügt einem Gegner $2damage$ zu und sich selbst $grav+2$ zu.</string>
-		<string lang="en">Deals $2damage$ to an enemy and applies $grav+2$ to itself.</string>
-		<string lang="fr">Inflige à un ennemi $2damage$ et s'inflige $grav+2$.</string>
-		<string lang="zh">对一名敌人造成$2damage$，并对自身施加$grav+2$。</string>
-		<string lang="jp">敵1体に$2damage$。$br$自身に$grav+2$付与。</string>
-		<string lang="ru">Наносит $2damage$ врагу и накладывает на себя $grav+2$.</string>
-		<string lang="es">Inflige $2damage$ a un enemigo y se inflige $grav+2$.</string>
-		<string lang="kr">적에게 $2damage$를 주고, 자신에게 $grav+2$를 부여합니다.</string>
-		<string lang="pt-br">Causa $2damage$ a um inimigo e se inflige $grav+2$.</string>
-		<string lang="zh-tw">對一名敵人造成$2damage$，並對自身施加$grav+2$。</string>
-		<string lang="uk">Наносить $2damage$ ворогу і накладає на себе $grav+2$.</string>
+		<string lang="de">Fügt einem Gegner $2damage$ zu.</string>
+		<string lang="en">Deals $2damage$ to an enemy.</string>
+		<string lang="fr">Inflige $2damage$ à une cible.</string>
+		<string lang="zh">对一名敌人造成$2damage$。</string>
+		<string lang="jp">敵1体に$2damage$。</string>
+		<string lang="ru">Наносит $2damage$ врагу.</string>
+		<string lang="es">Inflige $2damage$ a un enemigo.</string>
+		<string lang="kr">적에게 $2damage$를 줍니다.</string>
+		<string lang="pt-br">Inflige a um inimigo $2damage$</string>
+		<string lang="zh-tw">對一名敵人造成$2damage$。</string>
+		<string lang="uk">Наносить $2damage$ ворогу.</string>
 </set>
 <set id="description-skill-claw-phoenix">
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht ein Modul mit $fire$.</string>
@@ -38,9 +38,8 @@
 		<string lang="zh-tw">對一名敵人造成$1$$damage$，並令1個模組$fire$。</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає на один модуль $fire$.</string>
 </set>
-<set id="description-skill-claw-icebird">
-		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu und versieht ein Modul mit $gravrecoil$.</string>
-		<string lang="en">Deals $1damage$ and $grav+1$ to an enemy and inflicts one module with $gravrecoil$.</string>
+<set id="description-skill-icebird">
+		<string lang="en">Deals $1damage$ to an enemy, then applies $grav+1$ to them twice.</string>
 </set>
 <set id="description-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Ruft bis zu zwei $b$Graviraptor-Eier$/b$ herbei$br$- oder -$br$verleiht einem bestehenden Ei $1$ $might$.</string>
@@ -561,10 +560,10 @@
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
 <set id="description-skill-passive-ongravtodmg-shield">
-		<string lang="en">While it has $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$,$br$ it also has $shield$.</string>
+		<string lang="en">While this monster it is on a $b$Blizzard$/b$ time step, it has $shield$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Whenever it loses $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
+		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
 </set>
 <set id="description-skill-passive-onstatus-powerraise">
 		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
@@ -585,7 +584,7 @@
 </set>
 <set id="description-skill-passive-volcanodamagetograv">
 		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $grav+$ umgewandelt.</string>
-		<string lang="en">Incoming $damage$ by the volcano is transformed to $grav+$ instead.</string>
+		<string lang="en">Incoming $damage$ by the volcano is transformed into $grav+$ instead.</string>
 		<string lang="fr">$damage$ entrant par le volcan est transformé en $grav+$ à la place.</string>
 		<string lang="zh">火山对自身造成的$damage$转换为$grav+$。</string>
 		<string lang="jp">噴火から$damage$を受ける代わりに、$br$$grav+$付与。</string>
@@ -806,19 +805,19 @@
 </string>
 		<string lang="uk">Клішня$fireicon$</string>
 </set>
-<set id="name-skill-claw-icebird">
-		<string lang="de">Kralle $gravrecoilicon$</string>
-		<string lang="en">Claw $gravrecoilicon$</string>
-		<string lang="fr">Griffe $gravrecoilicon$</string>
-		<string lang="zh">爪击 $gravrecoilicon$</string>
-		<string lang="jp">ツメ $gravrecoilicon$</string>
-		<string lang="ru">Коготь $gravrecoilicon$</string>
-		<string lang="es">Garra $gravrecoilicon$</string>
-		<string lang="kr">할퀴기 $gravrecoilicon$</string>
-		<string lang="pt-br">Garra $gravrecoilicon$</string>
-		<string lang="zh-tw">爪擊 $gravrecoilicon$
+<set id="name-skill-icebird">
+		<string lang="de">Kralle $grav+icon$</string>
+		<string lang="en">Claw $grav+icon$</string>
+		<string lang="fr">Griffe $grav+icon$</string>
+		<string lang="zh">爪击 $grav+icon$</string>
+		<string lang="jp">ツメ $grav+icon$</string>
+		<string lang="ru">Коготь $grav+icon$</string>
+		<string lang="es">Garra $grav+icon$</string>
+		<string lang="kr">할퀴기 $grav+icon$</string>
+		<string lang="pt-br">Garra $grav+icon$</string>
+		<string lang="zh-tw">爪擊 $grav+icon$
 </string>
-		<string lang="uk">Клішня $gravrecoilicon$</string>
+		<string lang="uk">Клішня $grav+icon$</string>
 </set>
 <set id="name-skill-monsterspawn-egg-dynosaurmom-bossminion">
 		<string lang="de">Brutpflege</string>
@@ -1240,17 +1239,17 @@
 		<string lang="uk">Атака зграєю $grav-icon$</string>
 </set>
 <set id="name-skill-passive-blizzard">
-		<string lang="de">Schneesturm</string>
-		<string lang="en">Blizzard</string>
-		<string lang="fr">Blizzard</string>
-		<string lang="zh">暴风雪</string>
-		<string lang="jp">吹雪</string>
-		<string lang="ru">Метель</string>
-		<string lang="es">Ventisca</string>
-		<string lang="kr">눈보라</string>
-		<string lang="pt-br">Nevasca</string>
-		<string lang="zh-tw">暴風雪</string>
-		<string lang="uk">Снігопад</string>
+		<string lang="de">Erfrierung</string>
+		<string lang="en">Frostbite</string>
+		<string lang="fr">Gelure</string>
+		<string lang="zh">冻伤</string>
+		<string lang="jp">凍傷</string>
+		<string lang="ru">Обморожение</string>
+		<string lang="es">Congelación</string>
+		<string lang="kr">동상</string>
+		<string lang="pt-br">Congelamento</string>
+		<string lang="zh-tw">凍傷</string>
+		<string lang="uk">Обмороження</string>
 </set>
 <set id="name-skill-passive-gravneutralizeaoeonbeginningofturn">
 		<string lang="de">Grav.-Nullifizierung</string>

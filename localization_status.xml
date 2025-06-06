@@ -687,7 +687,7 @@
 </set>
 <set id="description-status-transformation-dmgtograv">
 		<string lang="de">Eingehender $damage$ wird in $grav+$ umgewandelt</string>
-		<string lang="en">Incoming $damage$ is transformed to $grav+$ instead</string>
+		<string lang="en">Incoming $damage$ is transformed into $grav+$ instead</string>
 		<string lang="fr">$damage$ entrants sont transformées en $grav+$</string>
 		<string lang="zh">即将承受的$damage$将转换为$grav+$</string>
 		<string lang="jp">受ける$damage$を$grav+$へ変換</string>
@@ -700,9 +700,9 @@
 		<string lang="uk">$damage$ перетворяться на $grav+$</string>
 </set>
 <set id="description-status-transformation-gravtodmg">
-		<string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt</string>
-		<string lang="en">Incoming $grav+$ is transformed to $damage$ instead</string>
-		<string lang="fr">$grav+$ entrante est transformée en $damage$</string>
+		<string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.$p$&lt;size=9&gt;Der so entstehende $damage$ zählt nicht als "eingehend".&lt;/size&gt;</string>
+		<string lang="en">Incoming $grav+$ is transformed into $damage$.$p$&lt;size=9&gt;The resulting $damage$ doesn't count as "incoming".&lt;/size&gt;</string>
+		<string lang="fr">$grav+$ entrante est transformée en $damage$.$p$&lt;size=9&gt;Le $damage$ résultant ne compte pas comme "entrant".&lt;/size&gt;</string>
 		<string lang="zh">被施加的$grav+$将转换为$damage$</string>
 		<string lang="jp">受ける$grav+$を$damage$へ変換</string>
 		<string lang="ru">Входящий $grav+$ превращается в $damage$</string>
@@ -715,7 +715,7 @@
 </set>
 <set id="description-status-transformation-gravtomight">
 		<string lang="de">Eingehende $grav+$ wird in $might$ umgewandelt</string>
-		<string lang="en">Incoming $grav+$ is transformed to $might$ instead</string>
+		<string lang="en">Incoming $grav+$ is transformed into $might$ instead</string>
 		<string lang="fr">$grav+$ entrante est transformée en $might$</string>
 		<string lang="zh">被施加的$grav+$将转换为$might$</string>
 		<string lang="jp">受ける$grav+$を$might$へ変換</string>
