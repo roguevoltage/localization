@@ -562,6 +562,9 @@
 <set id="description-skill-passive-ongravtodmg-shield">
 		<string lang="en">While this monster it is on a $b$Blizzard$/b$ time step, it has $shield$.</string>
 </set>
+<set id="description-skill-passive-onstatusremoval-gravaoe">
+		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, inflict all enemies with $grav+1$.</string>
+</set>
 <set id="description-skill-passive-onstatusremoval-iceshards">
 		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
 </set>
@@ -1365,6 +1368,9 @@
 		<string lang="zh-tw">銷毀偵測$mighticon$
 </string>
 		<string lang="uk">Детекція знищення $mighticon$</string>
+</set>
+<set id="name-skill-passive-onstatusremoval-gravaoe">
+		<string lang="en">Icy Breeze$grav+icon$</string>
 </set>
 <set id="name-skill-passive-onstatusremoval-iceshards">
 		<string lang="en">Icy Burst</string>

@@ -295,8 +295,8 @@
 		<string lang="kr">Deals $1damage$ to an enemy and applies $vulnerable$.</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $vulnerable$.</string>
 </set>
-<set id="description-skill-muskox">
-    <string lang="en">Deals $1damage$ to an enemy, then applies $grav+1$ to them twice.</string>
+<set id="description-skill-yak">
+    <string lang="en">Deals $1damage$ to an enemy, then applies $grav+1$ to them equal to its $might$.</string>
 </set>
 <set id="name-skill-monsterspawn-goblinbomb">
 		<string lang="de">Bombengoblin</string>
@@ -398,8 +398,8 @@
 		<string lang="kr">Shield</string>
 		<string lang="uk">Щит</string>
 </set>
-<set id="name-skill-muskox">
-    <string lang="en">Tackle $grav+icon$</string>
+<set id="name-skill-yak">
+    <string lang="en">Tackle $mighticon$$grav+icon$</string>
 </set>
 <set id="description-skill-plasmaexplode">
         <string lang="de">Entfernt bis zu $2$ $plasma$ und fügt ebensoviel $damage$ zu.</string>
@@ -429,7 +429,7 @@
 		<string lang="uk">Наносить $1damage$ всім іншим учасникам бою.</string>
 </set>
 <set id="description-skill-passive-onmoduleboost-powerraise">
-	<string lang="en">Whenever a module should receive $boost$ or $turbo$, prevent that buff and raise $might$ by $1$.</string>
+	<string lang="en">Whenever a module receives $boost$ or $turbo$,$br$raise $might$ by $1$.</string>
 </set>
 <set id="description-skill-powerraise-livingbomb">
 		<string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
