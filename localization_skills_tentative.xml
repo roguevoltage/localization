@@ -296,7 +296,7 @@
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $vulnerable$.</string>
 </set>
 <set id="description-skill-yak">
-    <string lang="en">Deals $1damage$ to an enemy, then applies $grav+1$ to them equal to its $might$.</string>
+    <string lang="en">Deals $1damage$ to an enemy, then deal $grav+1$ to them for every point of $might$.</string>
 </set>
 <set id="name-skill-monsterspawn-goblinbomb">
 		<string lang="de">Bombengoblin</string>
