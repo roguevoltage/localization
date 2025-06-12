@@ -1277,6 +1277,32 @@
         <string lang="zh-tw">商店</string>
         <string lang="uk">Магазин</string>
 </set>
+<set id="tooltip-turn-order-change-header">
+        <string lang="de">Reihenfolge der Züge</string>
+        <string lang="en">Turn Order</string>
+        <string lang="fr">Ordre des Tours</string>
+        <string lang="zh">回合顺序</string>
+        <string lang="jp">ターン順</string>
+        <string lang="ru">Порядок ходов</string>
+        <string lang="es">Orden de Turnos</string>
+        <string lang="kr">턴 순서</string>
+        <string lang="pt-br">Ordem de Turnos</string>
+        <string lang="zh-tw">回合順序</string>
+        <string lang="uk">Порядок ходів</string>
+</set>
+<set id="tooltip-turn-order-change-description">
+        <string lang="de">Die Reihenfolge der Züge ändert sich, wenn ein Zug vor oder hinter einen anderen auf der Zeitleiste geschoben oder gezogen wird</string>
+        <string lang="en">The turn order is changed when a turn is pushed or pulled before or behind another on the timeline</string>
+        <string lang="fr">L'ordre des tours est modifié lorsqu'un tour est poussé ou tiré avant ou après un autre sur la chronologie</string>
+        <string lang="zh">当一个回合在时间轴上被推到或拉到另一个回合之前或之后时，回合顺序会发生变化</string>
+        <string lang="jp">タイムライン上でターンが他のターンの前後に押し出されたり引き戻されたりすると、ターン順が変化する</string>
+        <string lang="ru">Порядок ходов меняется, когда ход сдвигается или тянется перед или за другим на временной шкале</string>
+        <string lang="es">El orden de turnos cambia cuando un turno se empuja o se tira antes o después de otro en la línea de tiempo</string>
+        <string lang="kr">시간선에서 턴이 다른 턴 앞이나 뒤로 밀리거나 당겨지면 턴 순서가 변경됩니다</string>
+        <string lang="pt-br">A ordem dos turnos é alterada quando um turno é empurrado ou puxado antes ou depois de outro na linha do tempo</string>
+        <string lang="zh-tw">當一個回合在時間軸上被推到或拉到另一個回合之前或之後時，回合順序會發生變化</string>
+        <string lang="uk">Порядок ходів змінюється, коли хід переміщується або тягнеться перед чи за іншим на часовій шкалі</string>
+</set>
 <set id="tooltip-dailyrun-locked">
         <string lang="de">Schalte alle Charaktere und Module frei, um tägliche Runs zu aktivieren</string>
 		<string lang="en">Unlock all characters and modules to access daily runs</string>
