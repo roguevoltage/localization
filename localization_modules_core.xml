@@ -847,17 +847,17 @@
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $boost$.</string>
 </set>
 <set id="description-module-toggledpassthroughbooster-multi">
-		<string lang="de">Versieht bis zu 3 $passthrough$-Module auf diesem Rack mit $boost$.</string>
-		<string lang="en">Applies $boost$ to up to 3 $passthroughmodule$s$br$on this rack.</string>
-		<string lang="fr">Applique $boost$ à jusqu'à 3 modules de type $passthroughmodule$ sur ce rack.</string>
-        <string lang="zh">为本模架上的最多3个$passthroughmodule$施加$boost$，直到回合结束。</string>
-        <string lang="jp">ターン終了時まで、ラックの最大3つの$passthroughmodule$に$boost$付与。</string>
-        <string lang="ru">Накладывает $boost$ на максимум 3 модуля типа $passthroughmodule$ на этой стойке до конца хода.</string>
-        <string lang="es">Aplica $boost$ a hasta 3 módulos de tipo $passthroughmodule$ en este bastidor.</string>
-        <string lang="kr">턴 종료 전까지 이 랙의 최대 3개의 $passthroughmodule$에게 $boost$를 적용합니다.</string>
-        <string lang="pt-br">Aplica $boost$ a até 3 módulos do tipo $passthroughmodule$ neste rack.</string>
-        <string lang="zh-tw">為本模架上的最多3個$passthroughmodule$施加$boost$，直到回合結束。</string>
-        <string lang="uk">Накладає $boost$ на максимум 3 модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
+		<string lang="de">Verleiht allen $passthrough$-Modulen auf diesem Rack $boost$.</string>
+		<string lang="en">Applies $boost$ to all $passthrough$ modules on this rack.</string>
+		<string lang="fr">Applique $boost$ à tous les modules de type $passthrough$ sur ce rack.</string>
+        <string lang="zh">为本模架上的所有$passthrough$模块施加$boost$。</string>
+        <string lang="jp">ラックの$passthrough$モジュール全てに$boost$付与。</string>
+        <string lang="ru">Применяет $boost$ ко всем модулям типа $passthrough$ на этой стойке.</string>
+        <string lang="es">Aplica $boost$ a todos los módulos de tipo $passthrough$ en este bastidor.</string>
+        <string lang="kr">이 랙의 모든 $passthrough$ 모듈에게 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Aplica $boost$ a todos os módulos do tipo $passthrough$ neste rack.</string>
+        <string lang="zh-tw">為本模架上的所有$passthrough$模組施加$boost$。</string>
+        <string lang="uk">Накладає $boost$ на всі модулі типу $passthrough$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledstatusremover">
         <string lang="de">Entfernt $fire$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
