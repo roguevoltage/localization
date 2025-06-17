@@ -39,17 +39,17 @@
 		<string lang="uk">Створи власного персонажа</string>
 </set>
 <set id="description-campstructure-laboratory">
-        <string lang="de">$special$-Loot hat eine 12%ige Chance für ein &lt;color=#FFAA00&gt;$b$$staricon$Einzigartiges$/b$&lt;/color&gt; Modul</string>
-		<string lang="en">$special$ loot has a 12% chance to drop a &lt;color=#FFAA00&gt;$b$$staricon$Unique$/b$&lt;/color&gt; module</string> 
-        <string lang="fr">Le butin $special$ a 12% de chances de contenir un module &lt;color=#FFAA00&gt;$b$$staricon$Unique$/b$&lt;/color&gt;</string>
-        <string lang="zh">$special$战利品有12%的几率获得一个&lt;color=#FFAA00&gt;$b$$staricon$独特$/b$&lt;/color&gt;模块</string>
-        <string lang="jp">$special$戦利品に12%の確率で&lt;color=#FFAA00&gt;$b$$staricon$ユニーク$/b$&lt;/color&gt;モジュール</string>
-        <string lang="ru">$special$ добыча имеет 12% шанс получить &lt;color=#FFAA00&gt;$b$$staricon$Уникальный$/b$&lt;/color&gt; модуль</string>
-        <string lang="es">El botín $special$ tiene un 12% de probabilidad de obtener un módulo &lt;color=#FFAA00&gt;$b$$staricon$Único$/b$&lt;/color&gt;</string>
-        <string lang="kr">$special$ 전리품은 12% 확률로 &lt;color=#FFAA00&gt;$b$$staricon$고유$/b$&lt;/color&gt; 모듈을 획득합니다</string>
-        <string lang="pt-br">$special$ saque tem 12% de chance de obter um módulo &lt;color=#FFAA00&gt;$b$$staricon$Único$/b$&lt;/color&gt;</string>
-        <string lang="zh-tw">$special$戰利品有5%的機率獲得一個&lt;color=#FFAA00&gt;$b$$staricon$獨特$/b$&lt;/color&gt;模組</string>
-        <string lang="uk">$special$ здобич має 12% шанс отримати &lt;color=#FFAA00&gt;$b$$staricon$Унікальний$/b$&lt;/color&gt; модуль</string>
+        <string lang="de">$special$-Loot hat eine 12%ige Chance für ein &lt;color=#FFAA00&gt;$b$$staricon$Legendäres$/b$&lt;/color&gt; Modul</string>
+		<string lang="en">$special$ loot has a 12% chance to drop a &lt;color=#FFAA00&gt;$b$$staricon$Legendary$/b$&lt;/color&gt; module</string>
+        <string lang="fr">$special$ butin a 12% de chances de faire tomber un module &lt;color=#FFAA00&gt;$b$$staricon$Légendaire$/b$&lt;/color&gt;</string>
+        <string lang="zh">$special$战利品有12%的几率掉落一个&lt;color=#FFAA00&gt;$b$$staricon$传奇$/b$&lt;/color&gt;模块</string>
+        <string lang="jp">$special$戦利品は12%の確率で&lt;color=#FFAA00&gt;$b$$staricon$レジェンダリー$/b$&lt;/color&gt;モジュールをドロップ</string>
+        <string lang="ru">$special$ добыча имеет 12% шанс получить &lt;color=#FFAA00&gt;$b$$staricon$Легендарный$/b$&lt;/color&gt; модуль</string>
+        <string lang="es">$special$ botín tiene un 12% de probabilidad de soltar un módulo &lt;color=#FFAA00&gt;$b$$staricon$Legendario$/b$&lt;/color&gt;</string>
+        <string lang="kr">$special$ 전리품은 12% 확률로 &lt;color=#FFAA00&gt;$b$$staricon$전설$/b$&lt;/color&gt; 모듈을 드롭합니다</string>
+        <string lang="pt-br">$special$ saque tem 12% de chance de soltar um módulo &lt;color=#FFAA00&gt;$b$$staricon$Lendário$/b$&lt;/color&gt;</string>
+        <string lang="zh-tw">$special$戰利品有12%的機率掉落一個&lt;color=#FFAA00&gt;$b$$staricon$傳奇$/b$&lt;/color&gt;模組</string>
+        <string lang="uk">$special$ здобич має 12% шанс отримати &lt;color=#FFAA00&gt;$b$$staricon$Легендарний$/b$&lt;/color&gt; модуль</string>
 </set>
 <set id="description-campstructure-powerplant">
         <string lang="de">Lädt ein $storagemodule$ zwischen Camp-Besuchen auf.</string>
@@ -143,17 +143,17 @@
         <string lang="uk">Початкове снаряження персонажа може бути знищено або трансмогрифіковано.</string>
 </set>
 <set id="description-campstructure-telescope">
-		<string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
-		<string lang="en">Get an additional module as an option for loot</string>
-		<string lang="fr">Obtenez un module supplémentaire en option pour le butin</string>
-		<string lang="zh">拾取战利品时额外增加一个可供选择的模块</string>
-		<string lang="jp">戦利品選択肢に追加モジュール</string>
-		<string lang="ru">Получите дополнительный модуль в качестве варианта добычи</string>
-		<string lang="es">Obtén un módulo adicional como opción para el botín</string>
-		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
-		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
-		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
-		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
+		<string lang="de">Erhalte ein zusätzliches Modul als Option für $bronze$, $silver$ und $gold Loot</string>
+		<string lang="en">Get an additional module as an option for $bronze$, $silver$ and $gold$ loot</string>
+		<string lang="fr">Obtenez un module supplémentaire en option pour le butin $bronze$, $silver$ et $gold$</string>
+        <string lang="zh">拾取$bronze$、$silver$和$gold$战利品时额外增加一个可供选择的模块</string>
+        <string lang="jp">$bronze$、$silver$、$gold$戦利品選択肢に追加モジュール</string>
+        <string lang="ru">Получите дополнительный модуль в качестве варианта добычи для $bronze$, $silver$ и $gold$</string>
+        <string lang="es">Obtén un módulo adicional como opción para el botín $bronze$, $silver$ y $gold$</string>
+        <string lang="kr">$bronze$, $silver$ 및 $gold$ 전리품 선택지에 모듈이 추가로 등장합니다</string>
+        <string lang="pt-br">Obtenha um módulo adicional como opção para o saque $bronze$, $silver$ e $gold$</string>
+        <string lang="zh-tw">拾取$bronze$、$silver$和$gold$戰利品時額外增加一個可供選擇的模組</string>
+        <string lang="uk">Дає додатковий модуль як варіант здобичі для $bronze$, $silver$ та $gold$</string>
 </set>
 <set id="description-campstructure-upgradevendor">
 		<string lang="de">Kaufe Modul-Upgrades für $plasma$</string>
@@ -195,17 +195,17 @@
 		<string lang="uk">Продає $cracked$ модулі за $plasmaicon$$b$Плазму$/b$</string>
 </set>
 <set id="description-campstructure-watchtower">
-		<string lang="de">Der erste Loot-Reroll ist gratis</string>
-		<string lang="en">Your first loot reroll is free</string>
-        <string lang="fr">Votre premier reroll de butin est gratuit</string>
-		<string lang="zh">首次重骰不耗费点数</string>
-		<string lang="jp">初回リロール無料</string>
-        <string lang="ru">Ваш первый повторный лут безкоштовний</string>
-        <string lang="es">Tu primer reroll de botín es gratis</string>
-		<string lang="kr">첫 번째 새로고침이 무료입니다</string>
-		<string lang="pt-br">Seu primeiro reroll de saque é gratuito</string>
-        <string lang="zh-tw">首次重骰不耗費點數</string>
-		<string lang="uk">Перше оновлення здобичі безкоштовне</string>
+		<string lang="de">Der erste Reroll für $bronze$, $silver$ und $gold$ Loot ist gratis</string>
+		<string lang="en">Your first reroll for $bronze$, $silver$ and $gold$ loot is free</string>
+        <string lang="fr">Votre premier reroll pour le butin $bronze$, $silver$ et $gold$ est gratuit</string>
+		<string lang="zh">你的第一次$bronze$、$silver$和$gold$战利品重掷是免费的</string>
+        <string lang="jp">$bronze$、$silver$、$gold$戦利品の最初のリロールは無料</string>
+        <string lang="ru">Ваш первый переролл для $bronze$, $silver$ и $gold$ добычи бесплатен</string>
+        <string lang="es">Tu primer reroll para el botín $bronze$, $silver$ y $gold$ es gratis</string>
+        <string lang="kr">$bronze$, $silver$ 및 $gold$ 전리품의 첫 번째 리롤은 무료입니다</string>
+        <string lang="pt-br">Seu primeiro reroll para o saque $bronze$, $silver$ e $gold$ é gratuito</string>
+        <string lang="zh-tw">你的第一次$bronze$、$silver$和$gold$戰利品重擲是免費的</string>
+        <string lang="uk">Ваш перший переролл для $bronze$, $silver$ та $gold$ здобичі безкоштовний</string>
 </set>
 <set id="description-campstructure-workshop">
 		<string lang="de">Kaufe für $plasma$ $crownicon$$b$Seltene$/b$ Module</string>

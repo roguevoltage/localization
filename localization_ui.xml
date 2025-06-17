@@ -1277,6 +1277,19 @@
         <string lang="zh-tw">商店</string>
         <string lang="uk">Магазин</string>
 </set>
+<set id="toggled-on">
+		<string lang="de">Wird aktiviert</string>
+		<string lang="en">Will be activated</string>
+		<string lang="fr">Sera activé</string>
+        <string lang="zh">将被激活</string>
+        <string lang="jp">有効化されます</string>
+        <string lang="ru">Будет активировано</string>
+        <string lang="es">Será activado</string>
+        <string lang="kr">활성화됩니다</string>
+        <string lang="pt-br">Será ativado</string>
+        <string lang="zh-tw">將被激活</string>
+        <string lang="uk">Будь активовано</string>
+</set>
 <set id="tooltip-turn-order-change-header">
         <string lang="de">Reihenfolge der Züge</string>
         <string lang="en">Turn Order</string>
@@ -2051,6 +2064,19 @@
         <string lang="zh-tw">$special$</string>
         <string lang="uk">$special$</string>
 </set>
+<set id="ui-loot-module-legendary">
+        <string lang="de">&lt;color=#FFAA00&gt;$b$$staricon$Legendär$/b$&lt;/color&gt;</string>
+        <string lang="en">&lt;color=#FFAA00&gt;$b$$staricon$Legendary$/b$&lt;/color&gt;</string>
+        <string lang="fr">&lt;color=#FFAA00&gt;$b$$staricon$Légendaire$/b$&lt;/color&gt;</string>
+        <string lang="zh">&lt;color=#FFAA00&gt;$b$$staricon$传奇$/b$&lt;/color&gt;</string>
+        <string lang="jp">&lt;color=#FFAA00&gt;$b$$staricon$レジェンダリー$/b$&lt;/color&gt;</string>
+        <string lang="ru">&lt;color=#FFAA00&gt;$b$$staricon$Легендарный$/b$&lt;/color&gt;</string>
+        <string lang="es">&lt;color=#FFAA00&gt;$b$$staricon$Legendario$/b$&lt;/color&gt;</string>
+        <string lang="kr">&lt;color=#FFAA00&gt;$b$$staricon$전설$/b$&lt;/color&gt;</string>
+        <string lang="pt-br">&lt;color=#FFAA00&gt;$b$$staricon$Lendário$/b$&lt;/color&gt;</string>
+        <string lang="zh-tw">&lt;color=#FFAA00&gt;$b$$staricon$傳奇$/b$&lt;/color&gt;</string>
+        <string lang="uk">&lt;color=#FFAA00&gt;$b$$staricon$Легендарний$/b$&lt;/color&gt;</string>
+</set>
 <set id="ui-new">
 		<string lang="de">NEU</string>
 		<string lang="en">NEW</string>
@@ -2708,17 +2734,17 @@
 		<string lang="uk">Помилка локалізації</string>
 </set>
 <set id="unique">
-		<string lang="de">Einzigartig</string>
-		<string lang="en">Unique</string>
-		<string lang="fr">Unique</string>
-		<string lang="zh">特殊</string>
-		<string lang="jp">ユニーク</string>
-		<string lang="ru">Уникальный</string>
-		<string lang="es">Único</string>
-		<string lang="kr">유니크</string>
-		<string lang="pt-br">Único</string>
-		<string lang="zh-tw">特殊</string>
-		<string lang="uk">Унікальний</string>
+		<string lang="de">Legendär</string>
+		<string lang="en">Legendary</string>
+        <string lang="fr">Légendaire</string>
+        <string lang="zh">传奇</string>
+        <string lang="jp">レジェンダリー</string>
+        <string lang="ru">Легендарный</string>
+        <string lang="es">Legendario</string>
+        <string lang="kr">전설</string>
+        <string lang="pt-br">Lendário</string>
+        <string lang="zh-tw">傳奇</string>
+        <string lang="uk">Легендарний</string>
 </set>
 <set id="unlockscreen-newlyunlockedmodules">
 		<string lang="de">Neu freigeschaltete Module</string>
