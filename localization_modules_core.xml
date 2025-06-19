@@ -611,6 +611,19 @@
         <string lang="zh-tw">為每個不同的模組類型增加$1energy$，該模組類型在它之前被連接。</string>
         <string lang="uk">Додає $1energy$ за кожен унікальний тип модуля, підключений до нього.</string>
 </set>
+<set id="description-module-modifierbaseline">
+		<string lang="de">Führt $amplification$ nur durch, wenn es genau $1energy$ erhält.</string>
+		<string lang="en">Performs $amplification$ only if it receives exactly $1energy$.</string>
+        <string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant s'il reçoit exactement $1energy$.</string>
+        <string lang="zh">若该能量流接收正好$1energy$，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="jp">正確に$1energy$受け取ったなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
+        <string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если он получает ровно $1energy$.</string>
+        <string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si recibe exactamente $1energy$.</string>
+        <string lang="kr">정확히 $1energy$를 받으면 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
+        <string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se receber exatamente $1energy$.</string>
+        <string lang="zh-tw">若該能量流接收正好$1energy$，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+        <string lang="uk">Додає $b$$MODIFICATIONVALUE$$/b$ $energy$ до струму, якщо він отримує рівно $1energy$.</string>
+</set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
 		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired directly to a $sensor$ module.</string>
@@ -1741,6 +1754,19 @@
         <string lang="pt-br">Amplificador em Cadeia $MODIFICATIONVALUE$</string>
         <string lang="zh-tw">鏈式增幅器$MODIFICATIONVALUE$</string>
         <string lang="uk">Ланцюжковий підсилювач $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-modifierbaseline">
+		<string lang="de">Baseline-Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Baseline Amplifier $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur de Base $MODIFICATIONVALUE$</string>
+        <string lang="zh">基线增幅器$MODIFICATIONVALUE$</string>
+        <string lang="jp">ベースライン増幅器$MODIFICATIONVALUE$</string>
+        <string lang="ru">Базовый Усилитель $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador de Línea Base $MODIFICATIONVALUE$</string>
+        <string lang="kr">기준선 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador de Linha de Base $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">基線增幅器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Базовий підсилювач $MODIFICATIONVALUE</string>
 </set>
 <set id="name-module-modifiercollector">
 		<string lang="de">Sensor-Verstärker $MODIFICATIONVALUE$</string>
