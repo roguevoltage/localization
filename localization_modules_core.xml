@@ -807,6 +807,19 @@
 		<string lang="zh-tw">每個角色回合開始時，$1energy$。</string>
 		<string lang="uk">Заряджається на $1energy$ на початку ходу власника.</string>
 </set>
+<set id="description-module-storagecellinductiongravneg">
+		<string lang="de">Zu Beginn des Zuges, wenn der Charakter $grav-$ hat, wird dieses Modul um $1energy$ geladen.$p$Andernfalls wird $grav-1$ auf den Charakter angewendet.</string>
+		<string lang="en">At the beginning of turn, if the owner has $grav-$, this module is charged with $1energy$.$p$Otherwise, apply $grav-1$ to the owner.</string>
+        <string lang="fr">Au début du tour, si le propriétaire a $grav-$, ce module est chargé de $1energy$.$p$Sinon, applique $grav-1$ au propriétaire.</string>
+        <string lang="zh">在回合开始时，如果拥有者有$grav-$，则此模块充能$1energy$。$p$否则，对拥有者施加$grav-1$。</string>
+        <string lang="jp">ターン開始時に所有者が$grav-$を持っている場合、このモジュールは$1energy$充電されます。$p$そうでない場合、所有者に$grav-1$を付与します。</string>
+        <string lang="ru">В начале хода, если у владельца есть $grav-$, этот модуль заряжается на $1energy$.$p$В противном случае накладывает $grav-1$ на владельца.</string>
+        <string lang="es">Al comienzo del turno, si el dueño tiene $grav-$, este módulo se carga con $1energy$.$p$De lo contrario, aplica $grav-1$ al dueño.</string>
+        <string lang="kr">턴 시작 시, 주인이 $grav-$를 가지고 있다면 이 모듈은 $1energy$로 충전됩니다.$p$그렇지 않으면 주인에게 $grav-1$을 적용합니다.</string>
+        <string lang="pt-br">No início do turno, se o dono tiver $grav-$, este módulo é carregado com $1energy$.$p$Caso contrário, aplica $grav-1$ ao dono.</string>
+        <string lang="zh-tw">在回合開始時，如果擁有者有$grav-$，則此模組充能$1energy$。$p$否則，對擁有者施加$grav-1$。</string>
+        <string lang="uk">На початку ходу, якщо у власника є $grav-$, цей модуль заряджається на $1energy$.$p$Інакше накладає $grav-1$ на власника.</string>
+</set>
 <set id="description-module-storagecellinductionexhaustion">
 	<string lang="de">Wird zu Beginn des Zuges um $1energy$ geladen.$p$Wendet $exhaustion$ in Höhe des gespeicherten $energy$ auf den anderen Charakter an.</string>
 	<string lang="en">Is charged with $1energy$ at the beginning of turn.$p$Applies $exhaustion$ equal to its stored $energy$ to the other player character.</string>
@@ -821,17 +834,17 @@
 	<string lang="uk">Заряджається на $1energy$ на початку ходу власника.$p$Накладає $exhaustion$, рівний його накопиченій $energy$, на іншого персонажа.</string>
 </set>
 <set id="description-module-storagecellinductionplasma">
-		<string lang="de">Verbraucht zu Beginn des Zuges $1plasma$, um dieses Modul um $1energy$ zu laden und $grav-1$ auf den Charakter anzuwenden.</string>
-		<string lang="en">At the beginning of turn, consumes $1plasma$ to charge this module with $1energy$ and apply $grav-1$ to the owner.</string>
-		<string lang="fr">Au début du tour, consomme $1plasma$ pour charger ce module avec $1energy$ et appliquer $grav-1$ au propriétaire.</string>
-		<string lang="zh">在回合开始时，消耗$1plasma$为该模块充能$1energy$并对拥有者施加$grav-1$。</string>
-		<string lang="jp">ターン開始時に$1plasma$を消費してこのモジュールを$1energy$充電し、所有者に$grav-1$を付与。</string>
-		<string lang="ru">В начале хода расходует $1plasma$, чтобы зарядить этот модуль на $1energy$ и наложить $grav-1$ на владельца.</string>
-		<string lang="es">Al comienzo del turno, consume $1plasma$ para cargar este módulo con $1energy$ y aplicar $grav-1$ al dueño.</string>
-		<string lang="kr">턴 시작 시 $1plasma$를 소모하여 이 모듈을 $1energy$로 충전하고, 소유자에게 $grav-1$을 부여합니다.</string>
-		<string lang="pt-br">No início do turno, consome $1plasma$ para carregar este módulo com $1energy$ e aplicar $grav-1$ ao dono.</string>
-		<string lang="zh-tw">在回合開始時，消耗$1plasma$為該模組充能$1energy$並對擁有者施加$grav-1$。</string>
-		<string lang="uk">На початку ходу витрачає $1plasma$, щоб зарядити цей модуль на $1energy$ і накласти $grav-1$ на власника.</string>
+		<string lang="de">Zu Beginn des Zuges, verbrauche $1plasma$, um dieses Modul um $1energy$ zu laden.</string>
+		<string lang="en">At the beginning of turn, consumes $1plasma$ to charge this module with $1energy$.</string>
+		<string lang="fr">Au début du tour, consomme $1plasma$ pour charger ce module avec $1energy$.</string>
+		<string lang="zh">在回合开始时，消耗$1plasma$，以为此模块充能$1energy$。</string>
+        <string lang="jp">ターン開始時に$1plasma$を消費して、このモジュールを$1energy$充電します。</string>
+        <string lang="ru">В начале хода расходует $1plasma$ для зарядки этого модуля на $1energy$.</string>
+        <string lang="es">Al comienzo del turno, consume $1plasma$ para cargar este módulo con $1energy$.</string>
+        <string lang="kr">턴 시작 시 $1plasma$를 소모하여 이 모듈을 $1energy$로 충전합니다.</string>
+        <string lang="pt-br">No início do turno, consome $1plasma$ para carregar este módulo com $1energy$.</string>
+        <string lang="zh-tw">在回合開始時，消耗$1plasma$，以為此模組充能$1energy$。</string>
+        <string lang="uk">На початку ходу витрачає $1plasma$ для зарядки цього модуля на $1energy$.</string>
 </set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$p$Reduziere Wirkung$br$mit $energy$.</string>
@@ -1976,6 +1989,19 @@
 	<string lang="zh-tw">感應單元</string>
 	<string lang="uk">Індукційна комірка</string>
 </set>
+<set id="name-module-storagecellinductiongravneg">
+	<string lang="de">Induktions-Zelle</string>
+	<string lang="en">Induction Cell</string>
+	<string lang="fr">Pile d'Induction</string>
+	<string lang="zh">感应单元</string>
+	<string lang="jp">誘導電池</string>
+	<string lang="ru">Индукционная Ячейка</string>
+	<string lang="es">Pila de Inducción</string>
+	<string lang="kr">유도 전지</string>
+	<string lang="pt-br">Célula de Indução</string>
+	<string lang="zh-tw">感應單元</string>
+	<string lang="uk">Індукційна комірка</string>
+</set>
 <set id="name-module-storagecellinductionexhaustion" remarks="translate as Selfish Cell">
 	<string lang="de">Selbstsüchtige Zelle</string>
 	<string lang="en">Selfish Cell</string>
@@ -1990,17 +2016,17 @@
 	<string lang="uk">Егоїстична комірка</string>
 </set>
 <set id="name-module-storagecellinductionplasma">
-	<string lang="de">Plasma-Induktions-Zelle</string>
-	<string lang="en">Plasma Induction Cell</string>
-	<string lang="fr">Pile d'Induction Plasma</string>
-	<string lang="zh">等离子感应单元</string>
-	<string lang="jp">プラズマ誘導電池</string>
-	<string lang="ru">Плазменная Индукционная Ячейка</string>
-	<string lang="es">Pila de Inducción Plasma</string>
-	<string lang="kr">플라즈마 유도 전지</string>
-	<string lang="pt-br">Célula de Indução de Plasma</string>
-	<string lang="zh-tw">等離子感應單元</string>
-	<string lang="uk">Плазмова індукційна комірка</string>
+	<string lang="de">Plasma-Verbrennungs-Zelle</string>
+	<string lang="en">Plasma Combustion Cell</string>
+	<string lang="fr">Pile de Combustion Plasma</string>
+    <string lang="zh">等离子燃烧单元</string>
+    <string lang="jp">プラズマ燃焼電池</string>
+    <string lang="ru">Ячейка плазменного сгорания</string>
+    <string lang="es">Pila de Combustión de Plasma</string>
+    <string lang="kr">플라즈마 연소 전지</string>
+    <string lang="pt-br">Célula de Combustão de Plasma</string>
+    <string lang="zh-tw">等離子燃燒單元</string>
+    <string lang="uk">Плазмова комірка згоряння</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
