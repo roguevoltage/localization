@@ -130,6 +130,19 @@
 </string>
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли створюється модуль.</string>
 </set>
+<set id="description-module-collectormonster">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$ jedes 2. Mal, das ein beliebiges Monster am Zug ist.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ every 2&lt;sup&gt;nd&lt;/sup&gt; time any monster takes a turn.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque 2&lt;sup&gt;ème&lt;/sup&gt; tour d'un monstre.</string>
+        <string lang="zh">每当任意怪物行动的第2次时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">モンスターが行動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый 2-й раз, когда монстр ходит.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada 2º turno de un monstruo.</string>
+        <string lang="kr">몬스터가 행동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ a cada 2º turno de um monstro.</string>
+        <string lang="zh-tw">每當任意怪物行動的第2次時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного 2-го разу, коли монстр ходить.</string>
+</set>
 <set id="description-module-collectorplasma">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ erzeugt wird.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is created.</string>
@@ -1275,6 +1288,19 @@
 		<string lang="pt-br">Sensor de Fábrica $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">製造感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор створення $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectormonster">
+		<string lang="de">Monster-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Monster Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur des Monstres $MODIFICATIONVALUE$</string>
+        <string lang="zh">怪物传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">モンスターセンサー$MODIFICATIONVALUE$</string>
+        <string lang="ru">Датчик Монстров $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Monstruos $MODIFICATIONVALUE$</string>
+        <string lang="kr">괴물 감지기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Monstros $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">怪物感測器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Сенсор монстрів $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorplasma">
 		<string lang="de">Plasma-Sensor $MODIFICATIONVALUE$</string>
