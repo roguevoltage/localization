@@ -859,6 +859,19 @@
         <string lang="zh-tw">在回合開始時，消耗$1plasma$，以為此模組充能$1energy$。</string>
         <string lang="uk">На початку ходу витрачає $1plasma$ для зарядки цього модуля на $1energy$.</string>
 </set>
+<set id="description-module-storagecellplasmabank">
+		<string lang="de">Zu Beginn des Zuges, wenn dieses Modul vollständig geladen ist, erzeuge $1plasma$.$p$Andernfalls verbrauche $1plasma$, um dieses Modul mit $1energy$ zu laden.</string>
+		<string lang="en">At the beginning of turn, if this module is fully charged, create $1plasma$.$p$Otherwise, consume $1plasma$ to charge this module with $1energy$.</string>
+        <string lang="fr">Au début du tour, si ce module est complètement chargé, crée $1plasma$.$p$Sinon, consomme $1plasma$ pour charger ce module avec $1energy$.</string>
+        <string lang="zh">在回合开始时，如果此模块已完全充能，则生成$1plasma$。$p$否则，消耗$1plasma$，以为此模块充能$1energy$。</string>
+        <string lang="jp">ターン開始時にこのモジュールが完全に充電されている場合、$1plasma$を生成します。$p$そうでない場合、$1plasma$を消費してこのモジュールを$1energy$充電します。</string>
+        <string lang="ru">В начале хода, если этот модуль полностью заряжен, создает $1plasma$.$p$В противном случае расходует $1plasma$ для зарядки этого модуля на $1energy$.</string>
+        <string lang="es">Al comienzo del turno, si este módulo está completamente cargado, crea $1plasma$.$p$De lo contrario, consume $1plasma$ para cargar este módulo con $1energy$.</string>
+        <string lang="kr">턴 시작 시 이 모듈이 완전히 충전되어 있다면 $1plasma$를 생성합니다.$p$그렇지 않으면 $1plasma$를 소모하여 이 모듈을 $1energy$로 충전합니다.</string>
+        <string lang="pt-br">No início do turno, se este módulo estiver totalmente carregado, cria $1plasma$.$p$Caso contrário, consome $1plasma$ para carregar este módulo com $1energy$.</string>
+        <string lang="zh-tw">在回合開始時，如果此模組已完全充能，則生成$1plasma$。$p$否則，消耗$1plasma$，以為此模組充能$1energy$。</string>
+        <string lang="uk">На початку ходу, якщо цей модуль повністю заряджений, створює $1plasma$.$p$Інакше витрачає $1plasma$ для зарядки цього модуля на $1energy$.</string>
+</set>
 <set id="description-module-timebomb">
 		<string lang="de">Explodiert in $b$$TIMETOTURN$$/b$ Zeitschritten und fügt beiden Helden $b$$INVERSECHARGEVALUE$$/b$ $damage$ zu.$p$Reduziere Wirkung$br$mit $energy$.</string>
 		<string lang="en">Will explode in $b$$TIMETOTURN$$/b$ time steps.$p$Explosion deals $b$$INVERSECHARGEVALUE$$/b$ $damage$$br$to both heroes.$p$Reduce effect with $energy$.</string>
@@ -2053,6 +2066,19 @@
     <string lang="pt-br">Célula de Combustão de Plasma</string>
     <string lang="zh-tw">等離子燃燒單元</string>
     <string lang="uk">Плазмова комірка згоряння</string>
+</set>
+<set id="name-module-storagecellplasmabank">
+	<string lang="de">Plasma-Bank</string>
+	<string lang="en">Plasma Bank</string>
+	<string lang="fr">Banque de Plasma</string>
+    <string lang="zh">等离子银行</string>
+    <string lang="jp">プラズマバンク</string>
+    <string lang="ru">Плазменный Банк</string>
+    <string lang="es">Banco de Plasma</string>
+    <string lang="kr">플라즈마 은행</string>
+    <string lang="pt-br">Banco de Plasma</string>
+    <string lang="zh-tw">等離子銀行</string>
+    <string lang="uk">Плазмовий банк</string>
 </set>
 <set id="name-module-timebomb">
 		<string lang="de">Zeitbombe</string>
