@@ -638,8 +638,8 @@
         <string lang="uk">Додає $b$$MODIFICATIONVALUE$$/b$ $energy$ до струму, якщо він отримує рівно $1energy$.</string>
 </set>
 <set id="description-module-modifiercollector" remarks="$sensor$ is a keyword now">
-		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn direkt an ein $sensor$-Modul gekabelt.</string>
-		<string lang="en">Adds $b$$MODIFICATIONVALUE$$/b$ $energy$ to the current if wired directly to a $sensor$ module.</string>
+		<string lang="de">Führt $amplification$ nur durch, wenn direkt an ein $sensor$-Modul gekabelt.</string>
+		<string lang="en">Performs $amplification$ only if wired directly to a $sensor$ module.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé directement à un module $sensor$.</string>
 		<string lang="zh">若该能量流流经$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">$sensor$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
@@ -821,8 +821,8 @@
 		<string lang="uk">Заряджається на $1energy$ на початку ходу власника.</string>
 </set>
 <set id="description-module-storagecellinductiongravneg">
-		<string lang="de">Zu Beginn des Zuges, wenn der Charakter $grav-$ hat, wird dieses Modul um $1energy$ geladen.$p$Andernfalls wird $grav-1$ auf den Charakter angewendet.</string>
-		<string lang="en">At the beginning of turn, if the owner has $grav-$, this module is charged with $1energy$.$p$Otherwise, apply $grav-1$ to the owner.</string>
+		<string lang="de">Zu Beginn des Zuges, wenn der Charakter $grav-$ hat, wird dieses Modul um $1energy$ geladen.$p$Andernfalls wende $grav-1$ auf den Charakter an.</string>
+		<string lang="en">At the beginning of turn, if the owner has $grav-$,$br$this module is charged with$br$$1energy$.$p$Otherwise, apply $grav-1$$br$to the owner.</string>
         <string lang="fr">Au début du tour, si le propriétaire a $grav-$, ce module est chargé de $1energy$.$p$Sinon, applique $grav-1$ au propriétaire.</string>
         <string lang="zh">在回合开始时，如果拥有者有$grav-$，则此模块充能$1energy$。$p$否则，对拥有者施加$grav-1$。</string>
         <string lang="jp">ターン開始時に所有者が$grav-$を持っている場合、このモジュールは$1energy$充電されます。$p$そうでない場合、所有者に$grav-1$を付与します。</string>
@@ -861,7 +861,7 @@
 </set>
 <set id="description-module-storagecellplasmabank">
 		<string lang="de">Zu Beginn des Zuges, wenn dieses Modul vollständig geladen ist, erzeuge $1plasma$.$p$Andernfalls verbrauche $1plasma$, um dieses Modul mit $1energy$ zu laden.</string>
-		<string lang="en">At the beginning of turn, if this module is fully charged, create $1plasma$.$p$Otherwise, consume $1plasma$ to charge this module with $1energy$.</string>
+		<string lang="en">At the beginning of turn,$br$if this module is fully charged,$br$create $1plasma$.$p$Otherwise, consume $1plasma$ to charge this module with$br$$1energy$.</string>
         <string lang="fr">Au début du tour, si ce module est complètement chargé, crée $1plasma$.$p$Sinon, consomme $1plasma$ pour charger ce module avec $1energy$.</string>
         <string lang="zh">在回合开始时，如果此模块已完全充能，则生成$1plasma$。$p$否则，消耗$1plasma$，以为此模块充能$1energy$。</string>
         <string lang="jp">ターン開始時にこのモジュールが完全に充電されている場合、$1plasma$を生成します。$p$そうでない場合、$1plasma$を消費してこのモジュールを$1energy$充電します。</string>
@@ -887,7 +887,7 @@
 </set>
 <set id="description-module-toggledgrenadepassthroughboost">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$.</string>
-		<string lang="en">Applies $boost$ to all $passthroughmodule$s$br$on this rack.</string>
+		<string lang="en">Applies $boost$ to all $passthrough$ modules$br$on this rack.</string>
 		<string lang="fr">Applique $boost$ à tous les modules de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为本模架上的所有$passthroughmodule$施加$boost$，直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、ラックの$passthroughmodule$全てに$boost$付与。</string>
@@ -899,8 +899,8 @@
 		<string lang="uk">Накладає $boost$ на всі модулі типу $passthroughmodule$ на цій стійці до кінця ходу.</string>
 </set>
 <set id="description-module-toggledpassthroughbooster">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $boost$.</string>
-		<string lang="en">Applies $boost$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack $boost$.</string>
+		<string lang="en">Applies $boost$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $boost$ à un $passthroughmodule$ ciblé sur ce rack.</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$赋予其$boost$状态。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$boost$付与。</string>
@@ -1107,8 +1107,8 @@
         <string lang="uk">Змінює колір обраного не-універсального роз'єму на &lt;color=white&gt;$b$універсальний$/b$&lt;/color&gt;.</string>
 </set>
 <set id="description-module-toggledupgrader">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
-		<string lang="en">Permanently applies$br$$upgrade$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
+		<string lang="en">Permanently applies$br$$upgrade$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。</string>
@@ -1120,8 +1120,8 @@
 		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgraderpassthrough-gravrecoil">
-		<string lang="de">Verleiht einem $passthroughmodule$ deiner Wahl auf diesem Rack $upgrade$ und $br$$gravrecoil$.</string>
-		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack $upgrade$ und $br$$gravrecoil$.</string>
+		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">为目标$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
         <string lang="jp">ラックの対象$passthroughmodule$に$upgrade$と$gravrecoil$付与。</string>

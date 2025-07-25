@@ -12,18 +12,17 @@
 		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
 		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
 </set>
-<set id="description-campstructure-gradarbeacon">
-        <string lang="de">Der erste Kampf eines Runs wird durch einen gratis Loot-Drop ersetzt.</string>
-	    <string lang="en">The first battle of a run is replaced with a free loot drop.</string>
-        <string lang="fr">Le premier combat d'un run est remplacé par un butin gratuit.</string>
-		<string lang="zh">每次战斗开始时，你将获得一个免费的战利品。</string>
-		<string lang="jp">ラン最初の戦闘の代わりに$br$無料で戦利品獲得。</string>
-		<string lang="ru">Первый бой прогона заменяется бесплатным дропом лута.</string>
-		<string lang="es">La primera batalla de una partida se reemplaza por un botín gratuito.</string>
-		<string lang="kr">모험의 첫 번째 전투는 무료 전리품 드롭으로 대체됩니다.</string>
-		<string lang="pt-br">A primeira batalha de uma corrida é substituída por uma queda de saque gratuita.</string>
-		<string lang="zh-tw">每次戰鬥開始時，你將獲得一個免費的戰利品。</string>
-		<string lang="uk">Перший бій прогону замінюється безкоштовним дропом лута.</string>
+<set id="description-campstructure-replacebattles">
+	    <string lang="en">The first battle of a stage is replaced with a treasure chest.</string>
+</set>
+<set id="description-campstructure-replacebattles-level1">
+	    <string lang="en">Stage 1</string>
+</set>
+<set id="description-campstructure-replacebattles-level2">
+	    <string lang="en">Stage 3</string>
+</set>
+<set id="description-campstructure-replacebattles-level3">
+	    <string lang="en">Stage 2</string>
 </set>
 <set id="description-campstructure-hangar">
 		<string lang="de">Bau deinen eigenen Charakter</string>
@@ -38,18 +37,17 @@
 		<string lang="zh-tw">定制屬於自己的角色</string>
 		<string lang="uk">Створи власного персонажа</string>
 </set>
-<set id="description-campstructure-laboratory">
-        <string lang="de">$special$-Loot hat eine 12%ige Chance für ein &lt;color=#FFAA00&gt;$b$$staricon$Legendäres$/b$&lt;/color&gt; Modul</string>
-		<string lang="en">$special$ loot has a 12% chance to drop a &lt;color=#FFAA00&gt;$b$$staricon$Legendary$/b$&lt;/color&gt; module</string>
-        <string lang="fr">$special$ butin a 12% de chances de faire tomber un module &lt;color=#FFAA00&gt;$b$$staricon$Légendaire$/b$&lt;/color&gt;</string>
-        <string lang="zh">$special$战利品有12%的几率掉落一个&lt;color=#FFAA00&gt;$b$$staricon$传奇$/b$&lt;/color&gt;模块</string>
-        <string lang="jp">$special$戦利品は12%の確率で&lt;color=#FFAA00&gt;$b$$staricon$レジェンダリー$/b$&lt;/color&gt;モジュールをドロップ</string>
-        <string lang="ru">$special$ добыча имеет 12% шанс получить &lt;color=#FFAA00&gt;$b$$staricon$Легендарный$/b$&lt;/color&gt; модуль</string>
-        <string lang="es">$special$ botín tiene un 12% de probabilidad de soltar un módulo &lt;color=#FFAA00&gt;$b$$staricon$Legendario$/b$&lt;/color&gt;</string>
-        <string lang="kr">$special$ 전리품은 12% 확률로 &lt;color=#FFAA00&gt;$b$$staricon$전설$/b$&lt;/color&gt; 모듈을 드롭합니다</string>
-        <string lang="pt-br">$special$ saque tem 12% de chance de soltar um módulo &lt;color=#FFAA00&gt;$b$$staricon$Lendário$/b$&lt;/color&gt;</string>
-        <string lang="zh-tw">$special$戰利品有12%的機率掉落一個&lt;color=#FFAA00&gt;$b$$staricon$傳奇$/b$&lt;/color&gt;模組</string>
-        <string lang="uk">$special$ здобич має 12% шанс отримати &lt;color=#FFAA00&gt;$b$$staricon$Легендарний$/b$&lt;/color&gt; модуль</string>
+<set id="description-campstructure-chanceforlegendary">
+		<string lang="en">$special$ loot has a chance to drop a &lt;color=#FFAA00&gt;$b$$staricon$Legendary$/b$&lt;/color&gt; module</string>
+</set>
+<set id="description-campstructure-chanceforlegendary-level1">
+		<string lang="en">4% chance</string>
+</set>
+<set id="description-campstructure-chanceforlegendary-level2">
+		<string lang="en">8% chance</string>
+</set>
+<set id="description-campstructure-chanceforlegendary-level3">
+		<string lang="en">12% chance</string>
 </set>
 <set id="description-campstructure-powerplant">
         <string lang="de">Lädt ein $storagemodule$ zwischen Camp-Besuchen auf.</string>
@@ -91,8 +89,8 @@
         <string lang="uk">Залиште модуль тут, і він буде покращений під час вашого наступного відвідування табору.</string>
 </set>
 <set id="description-campstructure-refinery-2">
-        <string lang="de">- ein $passthroughmodule$ ohne $upgrade$ erhält $upgrade$</string>
-		<string lang="en">- a $passthroughmodule$ without $upgrade$ will receive $upgrade$</string>
+        <string lang="de">- ein $passthrough$-Modul ohne $upgrade$ erhält $upgrade$</string>
+		<string lang="en">- a $passthrough$ module without $upgrade$ will receive $upgrade$</string>
         <string lang="fr">- un $passthroughmodule$ sans $upgrade$ recevra $upgrade$</string>
         <string lang="zh">- 没有$upgrade$的$passthroughmodule$将$upgrade$</string>
         <string lang="jp">- $upgrade$付与されていない$passthroughmodule$1つに$upgrade$付与</string>
@@ -142,18 +140,17 @@
         <string lang="zh-tw">初始角色自帶可能會被摧毀或改變。</string>
         <string lang="uk">Початкове снаряження персонажа може бути знищено або трансмогрифіковано.</string>
 </set>
-<set id="description-campstructure-telescope">
-		<string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
-		<string lang="en">Get an additional module as an option for loot</string>
-		<string lang="fr">Obtenez un module supplémentaire en option pour le butin</string>
-		<string lang="zh">拾取战利品时额外增加一个可供选择的模块</string>
-		<string lang="jp">戦利品選択肢に追加モジュール</string>
-		<string lang="ru">Получите дополнительный модуль в качестве варианта добычи</string>
-		<string lang="es">Obtén un módulo adicional como opción para el botín</string>
-		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
-		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
-		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
-		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
+<set id="description-campstructure-additionalloot">
+		<string lang="en">Get additional modules as options for loot</string>
+</set>
+<set id="description-campstructure-additionalloot-level1">
+		<string lang="en">+1 option in $bronze$</string>
+</set>
+<set id="description-campstructure-additionalloot-level2">
+		<string lang="en">+1 option in $silver$</string>
+</set>
+<set id="description-campstructure-additionalloot-level3">
+		<string lang="en">+1 option in $gold$</string>
 </set>
 <set id="description-campstructure-upgradevendor">
 		<string lang="de">Kaufe Modul-Upgrades für $plasma$</string>
@@ -181,7 +178,7 @@
 		<string lang="zh-tw">儲存一個模組，供下次遊戲使用</string>
 		<string lang="uk">Зберігає модуль між походами</string>
 </set>
-<set id="description-campstructure-vendingmachine">
+<set id="description-campstructure-consumableshop">
 		<string lang="de">Kaufe für $1plasma$ Verbrauchsmodule mit $cracked$</string>
 		<string lang="en">Buy $cracked$ modules$br$for $1plasma$</string>
 		<string lang="fr">Achetez des modules de consommation avec $cracked$ pour $1plasma$</string>
@@ -194,20 +191,19 @@
 		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組</string>
 		<string lang="uk">Продає $cracked$ модулі за $plasmaicon$$b$Плазму$/b$</string>
 </set>
-<set id="description-campstructure-watchtower">
-		<string lang="de">Der erste Reroll für $bronze$, $silver$ und $gold$ Loot ist gratis</string>
-		<string lang="en">Your first reroll for $bronze$, $silver$ and $gold$ loot is free</string>
-        <string lang="fr">Votre premier reroll pour le butin $bronze$, $silver$ et $gold$ est gratuit</string>
-		<string lang="zh">你的第一次$bronze$、$silver$和$gold$战利品重掷是免费的</string>
-        <string lang="jp">$bronze$、$silver$、$gold$戦利品の最初のリロールは無料</string>
-        <string lang="ru">Ваш первый переролл для $bronze$, $silver$ и $gold$ добычи бесплатен</string>
-        <string lang="es">Tu primer reroll para el botín $bronze$, $silver$ y $gold$ es gratis</string>
-        <string lang="kr">$bronze$, $silver$ 및 $gold$ 전리품의 첫 번째 리롤은 무료입니다</string>
-        <string lang="pt-br">Seu primeiro reroll para o saque $bronze$, $silver$ e $gold$ é gratuito</string>
-        <string lang="zh-tw">你的第一次$bronze$、$silver$和$gold$戰利品重擲是免費的</string>
-        <string lang="uk">Ваш перший переролл для $bronze$, $silver$ та $gold$ здобичі безкоштовний</string>
+<set id="description-campstructure-firstrerollfree">
+		<string lang="en">Grants free loot rerolls</string>
 </set>
-<set id="description-campstructure-workshop">
+<set id="description-campstructure-firstrerollfree-level1">
+		<string lang="en">1 free reroll for $bronze$</string>
+</set>
+<set id="description-campstructure-firstrerollfree-level2">
+		<string lang="en">1 free reroll for $silver$</string>
+</set>
+<set id="description-campstructure-firstrerollfree-level3">
+		<string lang="en">1 free reroll for $gold$</string>
+</set>
+<set id="description-campstructure-shop">
 		<string lang="de">Kaufe für $plasma$ $crownicon$$b$Seltene$/b$ Module</string>
 		<string lang="en">Buy $crownicon$$b$Rare$/b$ modules$br$with $plasma$</string>
 		<string lang="fr">Achetez des modules $crownicon$$b$Rares$/b$ avec $plasma$</string>
@@ -219,6 +215,18 @@
 		<string lang="pt-br">Compre módulos $crownicon$$b$Raros$/b$ com $plasma$</string>
 		<string lang="zh-tw">花費$plasma$$br$購買$crownicon$$b$稀有$/b$模組</string>
 		<string lang="uk">Продає $crownicon$$b$Рідкісні$/b$ модулі за $plasmaicon$$b$Плазму$/b$</string>
+</set>
+<set id="description-campstructure-shop-level1">
+		<string lang="en">3 modules offered</string>
+</set>
+<set id="description-campstructure-shop-level2">
+		<string lang="en">1 module on sale</string>
+</set>
+<set id="description-campstructure-shop-level3">
+		<string lang="en">+1 module offered</string>
+</set>
+<set id="description-campstructure-shop-level4">
+		<string lang="en">+1 module on sale</string>
 </set>
 <set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
@@ -233,7 +241,7 @@
 		<string lang="zh-tw">營地</string>
 		<string lang="uk">Табір</string>
 </set>
-<set id="name-campstructure-gradarbeacon">
+<set id="name-campstructure-replacebattles">
 		<string lang="de">Gradar Leuchtfeuer</string>
 		<string lang="en">Gradar Beacon</string>
 		<string lang="fr">Phare Gradar</string>
@@ -298,7 +306,7 @@
 		<string lang="zh-tw">廢料場</string>
 		<string lang="uk">Сміттєзвалище</string>
 </set>
-<set id="name-campstructure-laboratory">
+<set id="name-campstructure-chanceforlegendary">
 		<string lang="de">Labor</string>
 		<string lang="en">Laboratory</string>
 		<string lang="fr">Laboratoire</string>
@@ -311,7 +319,7 @@
         <string lang="zh-tw">實驗室</string>
         <string lang="uk">Лабораторія</string>
 </set>
-<set id="name-campstructure-telescope">
+<set id="name-campstructure-additionalloot">
 		<string lang="de">Teleskop</string>
 		<string lang="en">Telescope</string>
 		<string lang="fr">Télescope</string>
@@ -350,7 +358,7 @@
 		<string lang="zh-tw">精煉廠</string>
 		<string lang="uk">Очисний завод</string>
 </set>
-<set id="name-campstructure-vendingmachine">
+<set id="name-campstructure-consumableshop">
 		<string lang="de">Modulautomat</string>
 		<string lang="en">Module Vending Machine</string>
 		<string lang="fr">Distributeur de modules</string>
@@ -363,7 +371,7 @@
 		<string lang="zh-tw">模組販售機</string>
 		<string lang="uk">Торговий автомат модулів</string>
 </set>
-<set id="name-campstructure-watchtower">
+<set id="name-campstructure-firstrerollfree">
 		<string lang="de">Wachturm</string>
         <string lang="en">Watchtower</string>
         <string lang="fr">Tour de Guet</string>
@@ -376,7 +384,7 @@
         <string lang="zh-tw">瞭望臺</string>
         <string lang="uk">Варта</string>
 </set>
-<set id="name-campstructure-workshop">
+<set id="name-campstructure-shop">
 		<string lang="de">Handelsposten</string>
 		<string lang="en">Trading Post</string>
 		<string lang="fr">Comptoir de commerce</string>
@@ -402,7 +410,7 @@
 		<string lang="zh-tw">每個營地的基礎</string>
 		<string lang="uk">«Основа кожного табору»</string>
 </set>
-<set id="quote-campstructure-gradarbeacon">
+<set id="quote-campstructure-replacebattles">
 	    <string lang="de">Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
 	    <string lang="en">“Our only means to contact other survivors”</string>
 	    <string lang="fr">Notre seul moyen de contacter d'autres survivants</string>
@@ -428,7 +436,7 @@
         <string lang="zh-tw">“我們一起完成斯洛珀爺爺的工作”</string>
         <string lang="uk">«Разом ми доведемо справу дідуся Слоппера до кінця»</string>
 </set>
-<set id="quote-campstructure-laboratory">
+<set id="quote-campstructure-chanceforlegendary">
 		<string lang="de"/>
 		<string lang="en"/>
 		<string lang="fr"/>
@@ -481,7 +489,7 @@
 </string>
 		<string lang="uk">«Тут мешканці зберігають все корисне, що їм трапилось у походах</string>
 </set>
-<set id="quote-campstructure-telescope">
+<set id="quote-campstructure-additionalloot">
 		<string lang="de">“Warte, sehe ich dort drüben einen Generator +1?”</string>
 		<string lang="en">“Wait, do I see a Generator +1 over there?”</string>
 		<string lang="fr"/>
@@ -520,7 +528,7 @@
 		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”</string>
 		<string lang="uk">«О, цей ми запакуємо завтра.»</string>
 </set>
-<set id="quote-campstructure-vendingmachine">
+<set id="quote-campstructure-consumableshop">
 		<string lang="de">“Es ist stecken geblieben! Ich will mein Plasma zurück!”</string>
 		<string lang="en">“It got stuck! I want my plasma back!”</string>
 		<string lang="fr"/>
@@ -534,7 +542,7 @@
 </string>
 		<string lang="uk">«Воно зламалось! Поверніть мені мою плазму!»</string>
 </set>
-<set id="quote-campstructure-workshop">
+<set id="quote-campstructure-shop">
 		<string lang="de">“Ich habe noch Plasma übrig,$br$was soll ich mir holen?”</string>
 		<string lang="en">“I still have plasma left,$br$what should I get?”</string>
 		<string lang="fr"/>
@@ -547,7 +555,7 @@
 		<string lang="zh-tw">“等離子體還剩一些，需要拿來做什麼？”</string>
 		<string lang="uk">«У мене ще залишилося трохи плазми,$br$що б іще взяти?»</string>
 </set>
-<set id="quote-campstructure-watchtower">
+<set id="quote-campstructure-firstrerollfree">
 		<string lang="de"/>
 		<string lang="en"/>
 		<string lang="fr"/>

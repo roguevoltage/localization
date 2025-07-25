@@ -1067,8 +1067,8 @@
 		<string lang="uk">Інвертує поточний $grav$ у всіх учасників бою.</string>
 </set>
 <set id="description-module-toggledgravvacuum">
-		<string lang="de">Versieht ein $passthroughmodule$ deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.</string>
-		<string lang="en">Permanently applies$br$$gravvacuum$ to target $passthroughmodule$$br$on this rack.</string>
+		<string lang="de">Versieht ein $passthrough$-Modul deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.</string>
+		<string lang="en">Permanently applies$br$$gravvacuum$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$为其施加永久$gravvacuum$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。</string>
@@ -1186,8 +1186,8 @@
 		<string lang="uk">Вказаний $passthroughmodule$ на цій стійці отримує $turbo$.</string>
 </set>
 <set id="description-module-toggledpassthroughturbo-tapper">
-        <string lang="de">Fügt einem Modul deiner Wahl auf diesem Rack $outoforder$ zu.$p$Verleiht einem anderen $passthroughmodule$ auf diesem Rack $turbo$.</string>
-		<string lang="en">Applies $outoforder$ to target module on this rack.$p$Applies $turbo$ to another target $passthroughmodule$ on this rack.</string>
+        <string lang="de">Fügt einem Modul deiner Wahl auf diesem Rack $outoforder$ zu.$p$Verleiht einem anderen $passthrough$-Modul auf diesem Rack $turbo$.</string>
+		<string lang="en">Applies $outoforder$ to target module on this rack.$p$Applies $turbo$ to another target $passthrough$ module on this rack.</string>
         <string lang="fr">Applique $outoforder$ à un module ciblé sur ce rack.$p$Applique $turbo$ à un autre $passthroughmodule$ ciblé sur ce rack.</string>
         <string lang="zh">在此模架上选择一个模块，施加$outoforder$。$p$为另一个$passthroughmodule$施加$turbo$。</string>
         <string lang="jp">ラックの別の対象モジュールに$br$$outoforder$付与。$p$ラックの別の$passthroughmodule$に$br$$turbo$付与。</string>
