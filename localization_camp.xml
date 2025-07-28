@@ -583,7 +583,10 @@
 		<string lang="uk">Стане доступним під час раннього доступу</string>
 </set>
 <set id="ui-camp-convertplasma">
-		<string lang="en">Buy</string>
+		<string lang="en">Buy $campresource-icon$</string>
+</set>
+<set id="ui-camp-conversioncost">
+		<string lang="en">$CONVERSIONCOST$</string>
 </set>
 <set id="ui-campresource">
 		<string lang="en">Camp Material</string>
@@ -592,7 +595,7 @@
 		<string lang="en">Open</string>
 </set>
 <set id="ui-campstructure-improve-cost">
-		<string lang="en">$1$$campresource-icon$</string>
+		<string lang="en">$1$ $campresource-icon$</string>
 </set>
 <set id="ui-campstructure-improve">
 		<string lang="en">Improve</string>
@@ -637,7 +640,7 @@
         <string lang="uk">Не можна відкрити, коли граєте на мехе</string>
 </set>    
 <set id="ui-campstructure-notenoughpointsforimprovement">
-        <string lang="en">Not enough $campresource$</string>
+        <string lang="en">Not enough $campresource-icon$</string>
 </set>    
 <set id="unlock-allowsdownpayment">
 		<string lang="de">Diesen Besuch $1plasma$$br$Anzahlung leisten</string>
