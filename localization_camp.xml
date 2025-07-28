@@ -1,16 +1,15 @@
 <localization>
-<set id="description-campstructure-campfire">
-		<string lang="de">Erhalte ein zusätzliches Modul als Loot-Option</string>
-		<string lang="en">Get an additional module as an option for loot</string>
-		<string lang="fr">Obtenez un module supplémentaire en option pour le butin</string>
-		<string lang="zh">拾取战利品时额外增加一个可供选择的模块</string>
-		<string lang="jp">戦利品選択肢に追加モジュール</string>
-		<string lang="ru">Получите дополнительный модуль в качестве варианта добычи</string>
-		<string lang="es">Obtén un módulo adicional como opción para el botín</string>
-		<string lang="kr">전리품 선택지에 모듈이 추가로 등장합니다</string>
-		<string lang="pt-br">Obtenha um módulo adicional como opção para o saque</string>
-		<string lang="zh-tw">拾取戰利品時額外增加一個可供選擇的模組</string>
-		<string lang="uk">Дає додатковий модуль як варіант здобичі</string>
+<set id="description-campstructure-additionallootascending">
+		<string lang="en">Get additional modules as options for loot</string>
+</set>
+<set id="description-campstructure-additionallootascending-level1">
+		<string lang="en">+1 option for $bronze$</string>
+</set>
+<set id="description-campstructure-additionallootascending-level2">
+		<string lang="en">+1 option for $silver$</string>
+</set>
+<set id="description-campstructure-additionallootascending-level3">
+		<string lang="en">+1 option for $gold$</string>
 </set>
 <set id="description-campstructure-replacebattles">
 	    <string lang="en">The first battle of a stage is replaced with a treasure chest.</string>
@@ -140,17 +139,20 @@
         <string lang="zh-tw">初始角色自帶可能會被摧毀或改變。</string>
         <string lang="uk">Початкове снаряження персонажа може бути знищено або трансмогрифіковано.</string>
 </set>
-<set id="description-campstructure-additionalloot">
+<set id="description-campstructure-additionallootdescending">
 		<string lang="en">Get additional modules as options for loot</string>
 </set>
-<set id="description-campstructure-additionalloot-level1">
-		<string lang="en">+1 option in $bronze$</string>
+<set id="description-campstructure-additionallootdescending-level1">
+		<string lang="en">+1 option for $special$</string>
 </set>
-<set id="description-campstructure-additionalloot-level2">
-		<string lang="en">+1 option in $silver$</string>
+<set id="description-campstructure-additionallootdescending-level2">
+		<string lang="en">+1 option for $gold$</string>
 </set>
-<set id="description-campstructure-additionalloot-level3">
-		<string lang="en">+1 option in $gold$</string>
+<set id="description-campstructure-additionallootdescending-level3">
+		<string lang="en">+1 option for $silver$</string>
+</set>
+<set id="description-campstructure-additionallootdescending-level4">
+		<string lang="en">+1 option for $bronze$</string>
 </set>
 <set id="description-campstructure-upgradevendor">
 		<string lang="de">Kaufe Modul-Upgrades für $plasma$</string>
@@ -179,17 +181,13 @@
 		<string lang="uk">Зберігає модуль між походами</string>
 </set>
 <set id="description-campstructure-consumableshop">
-		<string lang="de">Kaufe für $1plasma$ Verbrauchsmodule mit $cracked$</string>
-		<string lang="en">Buy $cracked$ modules$br$for $1plasma$</string>
-		<string lang="fr">Achetez des modules de consommation avec $cracked$ pour $1plasma$</string>
-		<string lang="zh">花费$plasma$$br$购买$cracked$模块</string>
-		<string lang="jp">$plasma$で$br$$cracked$モジュール購入</string>
-		<string lang="ru">Купите $cracked$ модули$br$за $plasma$</string>
-		<string lang="es">Compra módulos consumibles con $cracked$ con $plasma$</string>
-		<string lang="kr">$plasma$로$br$$cracked$ 상태의 모듈을 구매</string>
-		<string lang="pt-br">Compre módulos de consumo com $cracked$ com $plasma$</string>
-		<string lang="zh-tw">花費$plasma$$br$購買$cracked$模組</string>
-		<string lang="uk">Продає $cracked$ модулі за $plasmaicon$$b$Плазму$/b$</string>
+		<string lang="en">Buy consumable modules$br$with $plasma$</string>
+</set>
+<set id="description-campstructure-consumableshop-level1">
+		<string lang="en">2 $cracked$ modules offered for $1plasma$</string>
+</set>
+<set id="description-campstructure-consumableshop-level2">
+		<string lang="en">2 $cracked$ modules offered</string>
 </set>
 <set id="description-campstructure-firstrerollfree">
 		<string lang="en">Grants free loot rerolls</string>
@@ -228,7 +226,7 @@
 <set id="description-campstructure-shop-level4">
 		<string lang="en">+1 module on sale</string>
 </set>
-<set id="name-campstructure-campfire">
+<set id="name-campstructure-additionallootdescending">
 		<string lang="de">Lagerfeuer</string>
 		<string lang="en">Campfire</string>
 		<string lang="fr">Feu de Camp</string>
@@ -319,7 +317,7 @@
         <string lang="zh-tw">實驗室</string>
         <string lang="uk">Лабораторія</string>
 </set>
-<set id="name-campstructure-additionalloot">
+<set id="name-campstructure-additionallootascending">
 		<string lang="de">Teleskop</string>
 		<string lang="en">Telescope</string>
 		<string lang="fr">Télescope</string>
@@ -397,7 +395,7 @@
 		<string lang="zh-tw">交易站</string>
 		<string lang="uk">Торговий Пост</string>
 </set>
-<set id="quote-campstructure-campfire">
+<set id="quote-campstructure-additionallootdescending">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
 		<string lang="en">“The foundation of every camp”</string>
 		<string lang="fr">Le début de tout campement</string>
@@ -489,7 +487,7 @@
 </string>
 		<string lang="uk">«Тут мешканці зберігають все корисне, що їм трапилось у походах</string>
 </set>
-<set id="quote-campstructure-additionalloot">
+<set id="quote-campstructure-additionallootascending">
 		<string lang="de">“Warte, sehe ich dort drüben einen Generator +1?”</string>
 		<string lang="en">“Wait, do I see a Generator +1 over there?”</string>
 		<string lang="fr"/>
