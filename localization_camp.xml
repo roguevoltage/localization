@@ -167,7 +167,7 @@
         <string lang="zh-tw">花費$plasma$購買$b$模組升級$/b$</string>
         <string lang="uk">Продає модульні покращення за $plasmaicon$$b$Плазму$/b$</string>
 </set>
-<set id="description-campstructure-timevault">
+<set id="description-campstructure-vault">
 		<string lang="de">Lagere ein Modul zwischen Runs</string>
 		<string lang="en">Store a module between runs</string>
 		<string lang="fr">Stockez un module entre les runs</string>
@@ -226,7 +226,7 @@
 <set id="description-campstructure-shop-level4">
 		<string lang="en">+1 module on sale</string>
 </set>
-<set id="name-campstructure-additionallootdescending">
+<set id="name-campstructure-campfire">
 		<string lang="de">Lagerfeuer</string>
 		<string lang="en">Campfire</string>
 		<string lang="fr">Feu de Camp</string>
@@ -239,7 +239,7 @@
 		<string lang="zh-tw">營地</string>
 		<string lang="uk">Табір</string>
 </set>
-<set id="name-campstructure-replacebattles">
+<set id="name-campstructure-gradarbeacon">
 		<string lang="de">Gradar Leuchtfeuer</string>
 		<string lang="en">Gradar Beacon</string>
 		<string lang="fr">Phare Gradar</string>
@@ -317,7 +317,7 @@
         <string lang="zh-tw">瞭望臺</string>
         <string lang="uk">Варта</string>
 </set>
-<set id="name-campstructure-additionallootascending">
+<set id="name-campstructure-telescope">
 		<string lang="de">Teleskop</string>
 		<string lang="en">Telescope</string>
 		<string lang="fr">Télescope</string>
@@ -330,7 +330,7 @@
 		<string lang="zh-tw">望遠鏡</string>
 		<string lang="uk">Телескоп</string>
 </set>
-<set id="name-campstructure-timevault">
+<set id="name-campstructure-vault">
 		<string lang="de">Zeitkapsel</string>
 		<string lang="en">Time Capsule</string>
 		<string lang="fr">Capsule Temporelle</string>
@@ -395,7 +395,7 @@
 		<string lang="zh-tw">交易站</string>
 		<string lang="uk">Торговий Пост</string>
 </set>
-<set id="quote-campstructure-additionallootdescending">
+<set id="quote-campstructure-campfire">
 		<string lang="de">Die Grundlage eines jeden Camps</string>
 		<string lang="en">“The foundation of every camp”</string>
 		<string lang="fr">Le début de tout campement</string>
@@ -513,7 +513,7 @@
 		<string lang="zh-tw"/>
 		<string lang="uk"/>
 </set>
-<set id="quote-campstructure-timevault">
+<set id="quote-campstructure-vault">
 		<string lang="de">“Oh, das packen wir also morgen rein.”</string>
 		<string lang="en">“Oh, so this one we will put in tomorrow.”</string>
 		<string lang="fr"/>
@@ -566,7 +566,7 @@
 		<string lang="zh-tw"/>
 		<string lang="uk"/>
 </set>
-<set id="scope-notpartofearlyaccess">
+<set id="error-notpartofearlyaccess">
 		<string lang="de">Wird während des Early Access entwickelt</string>
 		<string lang="en">Will be developed during Early Access</string>
 		<string lang="fr">Sera développé pendant l'accès anticipé</string>
@@ -678,6 +678,26 @@
         <string lang="pt-br">Requisitos não atendidos</string>
         <string lang="zh-tw">未滿足要求</string>
         <string lang="uk">Вимоги не виконані</string>
+</set>
+<set id="ui-campstructure-locked">
+		<string lang="de">Verschlossen</string>
+		<string lang="en">Locked</string>
+		<string lang="fr">Verrouillé</string>
+		<string lang="zh">已锁定</string>
+		<string lang="jp">固定</string>
+		<string lang="ru">Заблокированный</string>
+		<string lang="es">Bloqueado</string>
+		<string lang="kr">고정됨</string>
+		<string lang="pt-br">Bloqueado</string>
+		<string lang="zh-tw">已鎖定
+</string>
+		<string lang="uk">Заблоковано</string>
+</set>
+<set id="ui-campstructure-cannotbeopened">
+		<string lang="en">Cannot be opened</string>
+</set>
+<set id="ui-campstructure-cannotbeopenedfrommenu">
+		<string lang="en">Cannot be opened from menu</string>
 </set>
 <set id="unlock-requirement">
 		<string lang="de">Benötigt:</string>
