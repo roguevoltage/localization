@@ -728,12 +728,9 @@
 		<string lang="uk">Торговий Пост</string>
 </set>
 <set id="quote-campstructure-campfire">
-		<string lang="en">“Throw some more Gorfs on the fire, will you?”</string>
-</set>
-<set id="quote-campstructure-firstrerollfree">
-        <string lang="de">“Unsere Experimente mit der Modul-Neuzusammenstellung zeigen Wirkung.”</string>
-		<string lang="en">“Our experiments in module reassembling are paying off.”</string>
-        <string lang="fr">“Nos expériences de réassemblage de modules portent leurs fruits.”</string>
+        <string lang="de">“Wir sollten das Feuer am Lodern halten.”</string>
+		<string lang="en">“We should keep the fire burning.”</string>
+        <string lang="fr">“Nous devrions garder le feu allumé.”</string>
         <string lang="zh">“我们的模块重组实验取得了成效。”</string>
         <string lang="jp">“私たちのモジュール再編成の実験は実を結んでいます。”</string>
         <string lang="ru">“Наши эксперименты по реорганизации модулей приносят плоды.”</string>
@@ -821,16 +818,29 @@
         <string lang="zh-tw">“誰還需要這些基礎發生器？”</string>
         <string lang="uk">«Кому взагалі потрібні ці базові генератори?»</string>
 </set>
+<set id="quote-campstructure-slotmachine">
+        <string lang="de">“Kinder, wir müssen über eure Glücksspielgewohnheiten sprechen.”</string>
+		<string lang="en">“Kids, we need to talk about$br$your gambling habits.”</string>
+        <string lang="fr">“Les enfants, nous devons parler de vos habitudes de jeu.”</string>
+        <string lang="zh">“孩子们，我们需要谈谈你们的赌博习惯。”</string>
+        <string lang="jp">「子供たち、あなたたちのギャンブル習慣について話し合う必要があります。」</string>
+        <string lang="ru">“Дети, нам нужно поговорить о ваших азартных привычках.”</string>
+        <string lang="es">“Niños, necesitamos hablar sobre sus hábitos de juego.”</string>
+        <string lang="kr">“아이들아, 너희의 도박 습관에 대해 이야기해야 해.”</string>
+        <string lang="pt-br">“Crianças, precisamos falar sobre seus hábitos de jogo.”</string>
+        <string lang="zh-tw">“孩子們，我們需要談談你們的賭博習慣。”</string>
+        <string lang="uk">«Діти, нам потрібно поговорити про ваші азартні звички.»</string>
+</set>
 <set id="quote-campstructure-additionallootascending">
 		<string lang="de">“Warte, sehe ich dort drüben einen Generator +1?”</string>
 		<string lang="en">“Wait, do I see a Generator +1 over there?”</string>
-		<string lang="fr"/>
+		<string lang="fr">“Attendez, est-ce que je vois un Générateur +1 là-bas ?”</string>
 		<string lang="zh">“等一下，那边是发生器+1吗？”</string>
 		<string lang="jp">待って、あれ発電機＋1じゃない？</string>
-		<string lang="ru"/>
+		<string lang="ru">“Подождите, я вижу Генератор +1 вон там?”</string>
 		<string lang="es">“Espera, eso de ahí, ¿es un Generador+1?"</string>
 		<string lang="kr">잠깐, 저기 보이는 거 발전기 +1 아닌가?</string>
-		<string lang="pt-br"/>
+		<string lang="pt-br">“Espere, isso ali é um Gerador +1?”</string>
 		<string lang="zh-tw">“等一下，那邊是發生器+1嗎？”</string>
 		<string lang="uk">«Чейка-но, це що там, Генератор +1?»</string>
 </set>
@@ -939,7 +949,8 @@
         <string lang="uk">$CONVERSIONCOST$</string>
 </set>
 <set id="ui-campresource">
-		<string lang="en">Camp Material</string>
+        <string lang="de">Material</string>
+		<string lang="en">Material</string>
 </set>
 <set id="ui-campstructure-open">
         <string lang="de">Öffnen</string>
