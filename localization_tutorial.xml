@@ -79,9 +79,44 @@
 </string>
 		<string lang="uk">Брате! Чекай! А як же $regenerationcell$?$br$Це ж твій найважливіший модуль$br$Давай здихаємося цих монстрів разом!</string>
 </set>
-<set id="tutorial-camp">
-		<string lang="de">Zurück im Lager kannst du deine Charaktere für $plasma$ heilen und wiederbeleben.$p$Du kannst auch nach und nach Gebäude wiederherstellen, in denen du Module kaufen und upgraden kannst.</string>
-		<string lang="en">Back in camp you can use $plasma$ to heal or revive your characters.$p$You can also buy $campresource$ to gradually construct buildings for a permanent bonus.$p$Buy &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ to set up a $b$Trading Post$/b$!</string>
+<set id="tutorial-camp-plasma">
+		<string lang="de">Zurück im Lager kannst du deine Charaktere für $plasma$ heilen und wiederbeleben.</string>
+		<string lang="en">Back in camp you can use $plasma$ to heal or revive your characters.</string>
+        <string lang="fr">De retour au camp, vous pouvez utiliser $plasma$ pour soigner ou ressusciter vos personnages.</string>
+        <string lang="zh">回到营地后，你可以使用$plasma$来治疗或复活你的角色。</string>
+        <string lang="jp">キャンプに戻ると、$plasma$を使ってキャラクターを回復または復活させることができます。</string>
+        <string lang="ru">Вернувшись в лагерь, вы можете использовать $plasma$, чтобы исцелить или воскресить своих персонажей.</string>
+        <string lang="es">Al regresar al campamento, puedes usar $plasma$ para curar o revivir a tus personajes.</string>
+        <string lang="kr">캠프로 돌아가면 $plasma$를 사용하여 캐릭터를 치료하거나 부활시킬 수 있습니다.</string>
+        <string lang="pt-br">Ao voltar para o acampamento, você pode usar $plasma$ para curar ou reviver seus personagens.</string>
+        <string lang="zh-tw">回到營地後，你可以使用$plasma$來治療或復活你的角色。</string>
+        <string lang="uk">Повернувшись у табір, ви можете використовувати $plasma$, щоб вилікувати або воскресити своїх персонажів.</string>
+</set>
+<set id="tutorial-camp-material">
+		<string lang="de">Du kannst auch nach und nach Gebäude wiederherstellen, in denen du Module kaufen und upgraden kannst.$p$Kaufe &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ und stelle einen $b$Handelsposten$/b$ auf!</string>
+		<string lang="en">You can also buy $campresource$ to construct and upgrade buildings.$p$Buy &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ and set up a $b$Trading Post$/b$!</string>
+        <string lang="fr">Vous pouvez également acheter des $campresource$ pour construire et améliorer des bâtiments.$p$Achetez &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ et mettez en place un $b$Poste de Traite$/b$!</string>
+        <string lang="zh">您还可以购买 $campresource$ 来建造和升级建筑物。$p$购买 &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ 并建立一个 $b$交易所$/b$！</string>
+        <string lang="jp">また、$campresource$を購入して建物を建設およびアップグレードすることもできます。$p$&lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$を購入して、$b$交易所$/b$を設置しましょう！</string>
+        <string lang="ru">Вы также можете купить $campresource$, чтобы построить и улучшить здания.$p$Купите &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ и создайте $b$Торговый пост$/b$!</string>
+        <string lang="es">También puedes comprar $campresource$ para construir y mejorar edificios.$p$Compra &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ y establece un $b$Puesto de Comercio$/b$!</string>
+        <string lang="kr">건물을 건설하고 업그레이드하기 위해 $campresource$를 구매할 수도 있습니다.$p$&lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$를 구매하고 $b$거래소$/b$를 설정하세요!</string>
+        <string lang="pt-br">Você também pode comprar $campresource$ para construir e melhorar edifícios.$p$Compre &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ e configure um $b$Posto de Comércio$/b$!</string>
+        <string lang="zh-tw">您還可以購買 $campresource$ 來建造和升級建築物。$p$購買 &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ 並建立一個 $b$交易所$/b$！</string>
+        <string lang="uk">Ви також можете купити $campresource$, щоб побудувати та покращити будівлі.$p$Купіть &lt;color=#CA754f&gt;$1$&lt;/color&gt; $campresource$ і створіть $b$Торговий пост$/b$!</string>
+</set>
+<set id="tutorial-camp-buy-module">
+		<string lang="en">You have enough $plasma$ to buy a module of your choice from the $b$Trading Post$/b$.</string>
+        <string lang="fr">Vous avez assez de $plasma$ pour acheter un module de votre choix au $b$Poste de Traite$/b$.</string>
+        <string lang="de">Du hast noch genug $plasma$, um ein Modul deiner Wahl beim $b$Handelsposten$/b$ zu kaufen.</string>
+        <string lang="zh">您有足够的 $plasma$ 从 $b$交易所$/b$ 购买您选择的模块。</string>
+        <string lang="jp">あなたは $b$交易所$/b$ で好きなモジュールを購入するのに十分な $plasma$ を持っています。</string>
+        <string lang="ru">У вас достаточно $plasma$, чтобы купить модуль на ваш выбор в $b$Торговом посту$/b$.</string>
+        <string lang="es">Tienes suficiente $plasma$ para comprar un módulo de tu elección en el $b$Puesto de Comercio$/b$.</string>
+        <string lang="kr">거래소에서 원하는 모듈을 구매할 수 있는 충분한 $plasma$가 있습니다.</string>
+        <string lang="pt-br">Você tem o suficiente $plasma$ para comprar um módulo de sua escolha no $b$Posto de Comércio$/b$.</string>
+        <string lang="zh-tw">您有足夠的 $plasma$ 從 $b$交易所$/b$ 購買您選擇的模組。</string>
+        <string lang="uk">У вас достатньо $plasma$, щоб купити модуль на ваш вибір у $b$Торговому посту$/b$.</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-description-1">
 		<string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.$br$Es taucht regelmäßig auf um $grav$ auszugleichen.</string>
@@ -93,8 +128,7 @@
 		<string lang="es">Ahora es el turno del $gravequilibrium$.$br$Igualará la $grav$ del campo cada vez que aparece.</string>
 		<string lang="kr">$gravequilibrium$ 턴이 찾아왔네요.$br$이는 주기적으로 발생하며, 전장의 $grav$를 균일하게 만듭니다.</string>
 		<string lang="pt-br">Agora é a vez do $gravequilibrium$.$br$Iguala $grav$.</string>
-		<string lang="zh-tw">現在是$gravequilibrium$的回合。$br$它的出現通常是為了平衡戰場上的$grav$。
-</string>
+		<string lang="zh-tw">現在是$gravequilibrium$的回合。$br$它的出現通常是為了平衡戰場上的$grav$。</string>
 		<string lang="uk">На черзі $gravequilibrium$.$br$Коли вона час від часу зʼявляється на полі бою, $grav$ вирівнюється.</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-description-negative">
@@ -107,8 +141,7 @@
 		<string lang="es">$grav-$ se eliminará por completo.$br$Los combatientes reciben la mitad de ello como $damage$ (redondeado hacia arriba).</string>
 		<string lang="kr">전투원에게 부여된 $grav-$는 완전히 제거되며, 절반에 달하는 $damage$를 입게 됩니다 (올림).</string>
 		<string lang="pt-br">$grav-$ é completamente removido.$br$Os combatentes recebem metade dele como $damage$ (arredondado para cima).</string>
-		<string lang="zh-tw">參戰單位所受的$grav-$效果將被完全移除，$br$但受到原數值一半的$damage$（取鄰近的最大整數）。
-</string>
+		<string lang="zh-tw">參戰單位所受的$grav-$效果將被完全移除，$br$但受到原數值一半的$damage$（取鄰近的最大整數）。</string>
 		<string lang="uk">$grav-$ повністю видаляється, а бійці отримують половину його значення як $damage$ (з округлення до більшого числа).</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-negative">
@@ -121,8 +154,7 @@
 		<string lang="es">$grav-$$br$causa un $b$Pico Grav.$/b$</string>
 		<string lang="kr">$grav-$는$br$$b$중력 폭주$/b$를 일으킵니다.</string>
 		<string lang="pt-br">$grav-$$br$resulta em um $b$Pico Grav.$/b$</string>
-		<string lang="zh-tw">$grav-$$br$造成$b$引力激增$/b$。
-</string>
+		<string lang="zh-tw">$grav-$$br$造成$b$引力激增$/b$。</string>
 		<string lang="uk">$grav-$ $br$призводить до $b$Гравішипу$/b$</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-positive">
