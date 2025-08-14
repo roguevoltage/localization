@@ -559,17 +559,17 @@
 		<string lang="uk">Табір</string>
 </set>
 <set id="name-campstructure-gradarbeacon">
-		<string lang="de">Gradar Leuchtfeuer</string>
-		<string lang="en">Gradar Beacon</string>
-		<string lang="fr">Phare Gradar</string>
-		<string lang="zh">引力信标</string>
-		<string lang="jp">重力信号塔</string>
-		<string lang="ru">Грэдар-маяк</string>
-		<string lang="es">Baliza Gradar</string>
-		<string lang="kr">중력 레이더 등대</string>
-		<string lang="pt-br">Baliza Gradar</string>
-		<string lang="zh-tw">引力信標</string>
-		<string lang="uk">Градар Маяк</string>
+        <string lang="de">Gradar-Station</string>
+        <string lang="en">Gradar Array</string>
+        <string lang="fr">Station Gradar</string>
+        <string lang="zh">引力雷达站</string>
+        <string lang="jp">グラダー基地</string>
+        <string lang="ru">Градарная станция</string>
+        <string lang="es">Estación de Gradar</string>
+        <string lang="kr">그라다르 기지</string>
+        <string lang="pt-br">Estação de Gradar</string>
+        <string lang="zh-tw">引力雷達站</string>
+        <string lang="uk">Градарна станція</string>
 </set>
 <set id="name-campstructure-hangar">
 		<string lang="de">Mech-Hangar</string>
@@ -729,7 +729,7 @@
 </set>
 <set id="quote-campstructure-campfire">
         <string lang="de">“Wir sollten das Feuer am Lodern halten.”</string>
-		<string lang="en">“We should keep the fire burning.”</string>
+	<string lang="en">“Got to keep the fire burning.”</string>
         <string lang="fr">“Nous devrions garder le feu allumé.”</string>
         <string lang="zh">“我们的模块重组实验取得了成效。”</string>
         <string lang="jp">“私たちのモジュール再編成の実験は実を結んでいます。”</string>
@@ -741,6 +741,19 @@
         <string lang="uk">“Наші експерименти з реорганізації модулів приносять плоди.”</string>
 </set>
 <set id="quote-campstructure-replacebattles">
+                <string lang="de">“Fortschrittliche Technologie, um  da draußen den sichersten Wegzu finden”</string>
+	    <string lang="en">“Advanced technology to find the safest path out there”</string>
+            <string lang="fr">“Technologie avancée pour trouver le chemin le plus sûr”</string>
+            <string lang="zh">“先进的技术可以找到外面最安全的道路”</string>
+            <string lang="jp">“外で最も安全な道を見つけるための先進技術”</string>
+            <string lang="ru">“Современные технологии для поиска самого безопасного пути”</string>
+            <string lang="es">“Tecnología avanzada para encontrar el camino más seguro”</string>
+            <string lang="kr">“가장 안전한 경로를 찾기 위한 첨단 기술”</string>
+            <string lang="pt-br">“Tecnologia avançada para encontrar o caminho mais seguro”</string>
+            <string lang="zh-tw">“先進的技術可以找到外面最安全的道路”</string>
+            <string lang="uk">“Сучасні технології для пошуку найнадійнішого шляху”</string>
+</set>
+<set id="quote-campstructure-beacon">
 	    <string lang="de">“Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
 	    <string lang="en">“Our only means to contact other survivors”</string>
 	    <string lang="fr">Notre seul moyen de contacter d'autres survivants</string>
@@ -765,6 +778,10 @@
         <string lang="pt-br">“Juntos vamos concluir o trabalho do vovô Slopper”</string>
         <string lang="zh-tw">“我們一起完成斯洛珀爺爺的工作”</string>
         <string lang="uk">«Разом ми доведемо справу дідуся Слоппера до кінця»</string>
+</set>
+<set id="quote-campstructure-firstrerollfree">
+                <string lang="de">“Unsere Experimente mit der Neuzusammensetzung von Modulen zahlen sich aus”</string>
+		<string lang="en">“Our experiments in module reassembling are paying off”</string>
 </set>
 <set id="quote-campstructure-chanceforlegendary">
         <string lang="de">“Ein Aussichtspunkt, um unsere Umgebung zu beobachten”</string>
