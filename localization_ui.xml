@@ -1213,8 +1213,8 @@
 		<string lang="uk">Знищено модулів</string>
 </set>
 <set id="stat-plasma-collected">
-		<string lang="de">Plasma Gesammelt</string>
-		<string lang="en">Plasma Collected</string>
+		<string lang="de">Plasma Gesammelt (Insgesamt)</string>
+		<string lang="en">Plasma Collected (Total)</string>
 		<string lang="fr">Plasma collecté</string>
 		<string lang="zh">已收集的等离子体</string>
 		<string lang="jp">稼いだプラズマ</string>
@@ -1250,6 +1250,19 @@
         <string lang="pt-br">Passos de tempo decorridos</string>
         <string lang="zh-tw">已經過的時間步</string>
         <string lang="uk">Пройшло часових кроків</string>
+</set>
+<set id="stat-plasma-on-end-of-run">
+		<string lang="de">Plasma am Ende des Run</string>
+		<string lang="en">Plasma at End of Run</string>
+		<string lang="fr">Plasma à la fin du run</string>
+        <string lang="zh">运行结束时的等离子体</string>
+        <string lang="jp">ランの終了時のプラズマ</string>
+        <string lang="ru">Плазма в конце раунда</string>
+        <string lang="es">Plasma al final de la run</string>
+        <string lang="kr">런 종료 시의 플라즈마</string>
+        <string lang="pt-br">Plasma no final da run</string>
+        <string lang="zh-tw">運行結束時的等離子體</string>
+        <string lang="uk">Плазма в кінці раунду</string>
 </set>
 <set id="stat-final-score">
         <string lang="de">Punktzahl</string>
