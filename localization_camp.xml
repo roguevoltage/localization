@@ -780,8 +780,17 @@
         <string lang="uk">«Разом ми доведемо справу дідуся Слоппера до кінця»</string>
 </set>
 <set id="quote-campstructure-firstrerollfree">
-                <string lang="de">“Unsere Experimente mit der Neuzusammensetzung von Modulen zahlen sich aus”</string>
-		<string lang="en">“Our experiments in module reassembling are paying off”</string>
+        <string lang="de">“Unsere Experimente mit der Neuzusammensetzung von Modulen zahlen sich aus”</string>
+	<string lang="en">“Our experiments in module reassembling are paying off”</string>
+        <string lang="fr">“Nos expériences de réassemblage de modules portent leurs fruits”</string>
+        <string lang="zh">“我们在模块重组方面的实验取得了成效”</string>
+        <string lang="jp">「モジュールの再構成に関する実験が実を結んでいます」</string>
+        <string lang="ru">“Наши эксперименты по реорганизации модулей приносят плоды”</string>
+        <string lang="es">“Nuestros experimentos en la reorganización de módulos están dando sus frutos”</string>
+        <string lang="kr">“우리의 모듈 재구성 실험이 결실을 맺고 있습니다”</string>
+        <string lang="pt-br">“Nossos experimentos na reorganização de módulos estão dando frutos”</string>
+        <string lang="zh-tw">“我們在模組重組方面的實驗取得了成效”</string>
+        <string lang="uk">«Наші експерименти з реорганізації модулів приносять плоди»</string>
 </set>
 <set id="quote-campstructure-chanceforlegendary">
         <string lang="de">“Ein Aussichtspunkt, um unsere Umgebung zu beobachten”</string>
@@ -965,9 +974,18 @@
         <string lang="zh-tw">$CONVERSIONCOST$</string>
         <string lang="uk">$CONVERSIONCOST$</string>
 </set>
-<set id="ui-campresource">
+<set id="ui-campresource" remarks="translate as 'Building Material'">
         <string lang="de">Material</string>
-		<string lang="en">Material</string>
+	<string lang="en">Material</string>
+        <string lang="fr">Matériau</string>
+        <string lang="zh">材料</string>
+        <string lang="jp">材料</string>
+        <string lang="ru">Материал</string>
+        <string lang="es">Material</string>
+        <string lang="kr">재료</string>
+        <string lang="pt-br">Material</string>
+        <string lang="zh-tw">材料</string>
+        <string lang="uk">Матеріал</string>
 </set>
 <set id="ui-campstructure-open">
         <string lang="de">Öffnen</string>

@@ -324,7 +324,7 @@
 </set>
 <set id="tutorialwindow-chargeaccumulator2-description">
 		<string lang="de">$sensor$-Module verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $storageicon$$b$Kondensator$/b$, der sie &lt;color=#afcf74&gt;$amplificationicon$$b$verstärkt$/b$&lt;/color&gt; und $b$speichert$/b$.$p$Mit deinem $b$Blaster$/b$ kannst du diesen Zug den $fox$ erledigen.</string>
-		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Condensator$/b$ where it will be &lt;color=#afcf74&gt;$amplificationicon$$b$amplified$/b$&lt;/color&gt; and $b$stored$/b$.$p$With your $b$Blaster$/b$ you can finish of that $fox$ this turn.</string>
+		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Condensator$/b$ where it will be &lt;color=#afcf74&gt;$amplificationicon$$b$amplified$/b$&lt;/color&gt; and $b$stored$/b$.$p$With your $b$Blaster$/b$ you can finish off that $fox$ this turn.</string>
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Condensateur$/b$ où il sera &lt;color=#afcf74&gt;$amplificationicon$$b$amplifié$/b$&lt;/color&gt; et $b$stocké$/b$. $p$Avec votre $b$Blaster$/b$, vous pouvez finir ce $fox$ ce tour-ci.</string>
 		<string lang="zh">如果在回合结束时没有释放能量，$sensor$将失去所有$energy$。$p$将其导入至$storageicon$$b$冷凝器$/b$，在那里能量会被&lt;color=#afcf74&gt;$amplificationicon$$b$放大$/b$&lt;/color&gt;并$b$储存$/b$起来。$p$使用你的$b$爆能枪$/b$，你可以在这个回合结束时干掉那个$fox$。</string>
 		<string lang="jp">$sensor$モジュールは、ターン終了時に未使用の全$energy$を散逸する。$p$$storageicon$$b$蓄電器$/b$に配線して、&lt;color=#afcf74&gt;$amplificationicon$$b$増幅$/b$&lt;/color&gt;し、保存しよう。$p$このターンで$b$ブラスター$/b$を使えば、$fox$を倒せる。</string>
@@ -740,17 +740,17 @@
 		<string lang="uk">Шкала часу показує послідовність ходів.$p$ $b$Зараз$/b$ черга $slopperjohnson$.$p$Потім час піде вперед і $b$за 4 часові кроки$/b$ буде ходити $chronocat$.$p$Ще через два кроки — $slopperjackson$.</string>
 </set>
 <set id="tutorialwindow-timeline-description-2">
-		<string lang="de">Siehst du den hervorgehobenen &lt;sprite name="timestep" tint=1&gt;$b$Kreis$/b$ in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
-		<string lang="en">See that highlighted &lt;sprite name="timestep" tint=1&gt;$b$Circle$/b$ in 7 steps?$br$That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
-		<string lang="fr">Vous voyez ce &lt;sprite name="timestep" tint=1&gt;$b$Cercle$/b$ dans 7 étapes? C'est là que le prochain tour de $slopperjohnson$ sera.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
-		<string lang="zh">看到7步后高亮的&lt;sprite name="timestep" tint=1&gt;$b$圆圈$/b$了吗？$br$那就是$slopperjohnson$下一个回合。$p$之后8步，轮到$fox$。</string>
-		<string lang="jp">7タイムステップ後にハイライトされてる&lt;sprite name="timestep" tint=1&gt;$b$丸$/b$が見えるか？そこが$slopperjohnson$の次ターンだ。$p$そして、8タイムステップ後に$fox$のターンだ。</string>
-		<string lang="ru">Видите выделенный &lt;sprite name="timestep" tint=1&gt;$b$Круг$/b$ через 7 шагов? Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $foxicon$$b$Лиса$/b$.</string>
-		<string lang="es">¿Ves ese &lt;sprite name="timestep" tint=1&gt;$b$Círculo$/b$ que destaca dentro de 7 pasos? Ahí será el próximo turno de $slopperjohnson$.$p$Después, en 8 pasos, será el turno del $fox$.</string>
-		<string lang="kr">"7단계에 강조표시된 &lt;sprite name=timestep"" tint=1&gt;$b$원$/b$이 보이시나요? 그때가 현재 예정된 $slopperjohnson$의 다음 턴입니다.$p$그 다음에 8단계에는 $fox$의 턴이 되겠네요.</string>
-		<string lang="pt-br">Veja o &lt;sprite name="timestep" tint=1&gt;$b$círculo$/b$ destacado em 7 etapas? É onde será o próximo turno de $slopperjohnson$.$p$Depois, em 8 etapas, será a vez do $fox$.</string>
-		<string lang="zh-tw">看到7步後高亮的&lt;sprite name="timestep" tint=1&gt;$b$圓圈$/b$了嗎？$br$那就是$slopperjohnson$下一個回合。$p$之後8步，輪到$fox$。</string>
-		<string lang="uk">Бачиш відмічену &lt;sprite name="timestep" tint=1&gt;$b$Крапку$/b$ за 7 кроків? Це буде наступний хід $slopperjohnson$.$p$Після цього, на 8-му кроці, ходитиме $fox$.</string>
+		<string lang="de">Siehst du das schwache Portrait in 7 Schritten? Dort wird $slopperjohnson$s nächster Zug sein.$p$Danach, in 8 Schritten, ist der $fox$ an der Reihe.</string>
+		<string lang="en">See that muted portrait in 7 steps?$br$That's where $slopperjohnson$'s next turn will be.$p$After that, in 8 steps, it'll be the $fox$'s turn.</string>
+        <string lang="fr">Tu vois ce portrait atténué dans 7 étapes ? C'est là que sera le prochain tour de $slopperjohnson$.$p$Après cela, dans 8 étapes, ce sera au tour du $fox$.</string>
+        <string lang="zh">你看到7步后的淡化肖像了吗？$br$那就是$slopperjohnson$的下一个回合。$p$之后8步，轮到$fox$。</string>
+        <string lang="jp">7ステップ後のミュートされたポートレートが見えるか？$br$そこが$slopperjohnson$の次のターンだ。$p$その後、8ステップ後に$fox$のターンになる。</string>
+        <string lang="ru">Видишь этот приглушенный портрет через 7 шагов?$br$Там будет следующий ход $slopperjohnson$.$p$После этого, через 8 шагов, наступит очередь $fox$.</string>
+        <string lang="es">¿Ves ese retrato atenuado en 7 pasos?$br$Ahí es donde será el próximo turno de $slopperjohnson$.$p$Después de eso, en 8 pasos, será el turno del $fox$.</string>
+        <string lang="kr">7단계 후에 흐릿한 초상화를 볼 수 있나요?$br$그곳이 $slopperjohnson$의 다음 턴이 될 것입니다.$p$그 후 8단계에서 $fox$의 턴이 될 것입니다.</string>
+        <string lang="pt-br">Você vê esse retrato atenuado em 7 etapas?$br$É aí que será o próximo turno de $slopperjohnson$.$p$Depois disso, em 8 etapas, será a vez do $fox$.</string>
+        <string lang="zh-tw">你看到7步後的淡化肖像了嗎？$br$那就是$slopperjohnson$的下一個回合。$p$之後8步，輪到$fox$。</string>
+        <string lang="uk">Бачиш цей приглушений портрет через 7 кроків?$br$Там буде наступний хід $slopperjohnson$.$p$Після цього, через 8 кроків, ходитиме $fox$.</string>
 </set>
 <set id="tutorialwindow-timeline-header">
 		<string lang="de">Die Zeitleiste</string>
