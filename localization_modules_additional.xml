@@ -948,6 +948,19 @@
 		<string lang="zh-tw">若本回合模架上沒有$generator$被啟動，回合結束後獲得$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу, якщо під час нього на цій стійці не було активовано $generator$.</string>
 </set>
+<set id="description-module-storagecellpacifist">
+        <string lang="de">Wird nach dem Zug um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn der Charakter keinen $damage$ verursacht hat.</string>
+        <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after the turn, if the owner hasn't dealt $damage$.</string>
+        <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après le tour, si le propriétaire n'a pas infligé de $damage$.</string>
+        <string lang="zh">若本回合角色沒有造成任何$damage$，則充電$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="jp">ターン終了時にキャラクターが$damage$を与えていない場合、$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
+        <string lang="ru">Заряжается на $b$$SENSORVALUE$$/b$ $energy$ после хода, если персонаж не нанес $damage$ в этом ходу.</string>
+        <string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después del turno, si no se ha infligido $damage$ por el personaje.</string>
+        <string lang="kr">턴 종료 시 캐릭터가 $damage$를 입히지 않았다면 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $damage$ foi causado pelo personagem.</string>
+        <string lang="zh-tw">若本回合角色沒有造成任何$damage$，則充電$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="uk">Заряджається на $b$$SENSORVALUE$$/b$ $energy$ після ходу, якщо персонаж не завдав $damage$ у цьому ході.</string>
+</set>
 <set id="description-module-storagecellproximity">
 	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
 	<string lang="en">At the beginning of turn, is charged with $b$$SENSORVALUE$$/b$ $energy$ if there is another combatant on the same time step as the owner.</string>	
@@ -2263,6 +2276,19 @@
 		<string lang="pt-br">Célula de Austeridade $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">蓄能單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка суворої економії $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-storagecellpacifist">
+	<string lang="de">Friedliche Zelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Pacifist Cell $MODIFICATIONVALUE$</string>
+	<string lang="fr">Cellule Pacifiste $MODIFICATIONVALUE$</string>
+	<string lang="zh">和平电池 $MODIFICATIONVALUE$</string>
+	<string lang="jp">平和セル $MODIFICATIONVALUE$</string>
+	<string lang="ru">Мирная Ячейка $MODIFICATIONVALUE$</string>
+	<string lang="es">Célula Pacifista $MODIFICATIONVALUE$</string>
+	<string lang="kr">평화 셀 $MODIFICATIONVALUE$</string>
+	<string lang="pt-br">Célula Pacifista $MODIFICATIONVALUE$</string>
+	<string lang="zh-tw">和平電池 $MODIFICATIONVALUE$</string>
+	<string lang="uk">Мирна клітина $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-storagecellproximity">
 	<string lang="de">Näherungszelle $MODIFICATIONVALUE$</string>
