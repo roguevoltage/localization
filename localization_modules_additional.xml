@@ -987,6 +987,19 @@
 		<string lang="zh-tw">$lightning$或$storm$回合後，獲得$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="uk">Заряджається на $b$ $SENSORVALUE$ $/b$ $energy$ після ходу $lightning$ або $stormicon$$b$Грози$/b$.</string>
 </set>
+<set id="description-module-storagecelltricolor">
+        <string lang="de">Wird nach dem Zug um $1energy$ geladen für jedes Mal, dass $energy$ durch einen &lt;color=#FF5555&gt;$b$rotes$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$grünes$/b$&lt;/color&gt; und &lt;color=#7272FF&gt;$b$blaues$/b$&lt;/color&gt; Kabel auf diesem Rack geflossen ist.</string>
+        <string lang="en">Is charged with $1energy$ after the turn for each time that $energy$ passed through a &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt; and &lt;color=#7272FF&gt;$b$blue$/b$&lt;/color&gt; wire on this rack.</string>
+        <string lang="fr">Est chargé de $1energy$ après le tour pour chaque fois que $energy$ a traversé un câble &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$vert$/b$&lt;/color&gt; et &lt;color=#7272FF&gt;$b$bleu$/b$&lt;/color&gt; sur ce rack.</string>
+        <string lang="zh">在此模架上，每次$energy$通过一个&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;电缆后，充电$1energy$。</string>
+        <string lang="jp">ターン後、$energy$がこのラックの&lt;color=#FF5555&gt;$b$赤色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$緑色$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$青色$/b$&lt;/color&gt;のケーブルを通過するたびに$1energy$が充電されます。</string>
+        <string lang="ru">Заряжает $1energy$ после хода за каждую передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зеленый$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; на этом стеллаже.</string>
+        <string lang="es">Se carga con $1energy$ después de un turno por cada vez que $energy$ pasa a través de un cable &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; en este estante.</string>
+        <string lang="kr">턴 종료 시, $energy$가 이 랙의 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$초록색$/b$&lt;/color&gt; 및 &lt;color=#7272FF&gt;$b$파란색$/b$&lt;/color&gt; 케이블을 통과할 때마다 $1energy$가 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $1energy$ após um turno de cada vez que $energy$ passa por um cabo &lt;color=#FF5555&gt;$b$vermelho$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; neste rack.</string>
+        <string lang="zh-tw">在此模架上，每次$energy$通過一個&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$綠色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$藍色$/b$&lt;/color&gt;電纜後，充電$1energy$。</string>
+        <string lang="uk">Заряджається на $1energy$ після ходу за кожну передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цьому стеллаже.</string>
+</set>
 <set id="description-module-toggledgreasecanister">
 		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $grease$.</string>
 		<string lang="en">Applies $grease$ to target module on this rack.</string>
@@ -2289,6 +2302,19 @@
 		<string lang="pt-br">Célula de Tempestade $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">風暴單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Комірка шторму $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-storagecelltricolor">
+	<string lang="de">Dreifarbige Zelle $MODIFICATIONVALUE$</string>
+	<string lang="en">Tricolor Cell $MODIFICATIONVALUE$</string>
+	<string lang="fr">Cellule Tricolore $MODIFICATIONVALUE$</string>
+    <string lang="zh">三色电池 $MODIFICATIONVALUE$</string>
+    <string lang="jp">三色セル $MODIFICATIONVALUE$</string>
+    <string lang="ru">Трехцветная Ячейка $MODIFICATIONVALUE$</string>
+    <string lang="es">Célula Tricolor $MODIFICATIONVALUE$</string>
+    <string lang="kr">삼색 셀 $MODIFICATIONVALUE$</string>
+    <string lang="pt-br">Célula Tricolor $MODIFICATIONVALUE$</string>
+    <string lang="zh-tw">三色電池 $MODIFICATIONVALUE$</string>
+    <string lang="uk">Трьохколірна Ячейка $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-toggledgreasecanister">
         <string lang="de">Schmieröl-Kanister</string>
