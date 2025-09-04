@@ -68,6 +68,10 @@
 </string>
         <string lang="uk">Накладає $grav+2$ на всіх ворогів</string>
 </set>
+
+<set id="description-skill-geothermaldrone-ice">
+		<string lang="en">Deals $damage$ equal to its $might$.$p$Inflicts 1 module with $fire$.</string>
+</set>
 <set id="description-skill-gravamplificationglobal">
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
 		<string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
@@ -560,13 +564,13 @@
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
 <set id="description-skill-passive-ongravtodmg-shield">
-		<string lang="en">While this monster it is on a $b$Blizzard$/b$ time step, it has $shield$.</string>
+		<string lang="en">While this monster it is on a time step with $chapter-ice-icon$ $b$Blizzard$/b$, it has $shield$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-gravaoe">
 		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, inflict all enemies with $grav+1$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
+		<string lang="en">Whenever this monster leaves the $chapter-ice-icon$ $b$Blizzard$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
 </set>
 <set id="description-skill-passive-onstatus-powerraise-icicle">
 		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
@@ -738,7 +742,7 @@
 </string>
 		<string lang="uk">Накладає $stasis$ на вказаного учасникиа бою.$p$Може перевернути плин часу.</string>
 </set>
-<set id="description-skill-swiftstrike">
+<set id="description-skill-wolf">
 		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-2$ zu.</string>
 		<string lang="en">Deals $1damage$ and applies $grav-2$ to itself.</string>
 		<string lang="fr">Inflige $1damage$ et s'inflige $grav-2$.</string>
@@ -849,6 +853,18 @@
         <string lang="zh-tw">掙脫$grav+2$
 </string>
         <string lang="uk">Вибратися $grav+2$</string>
+</set>
+<set id="name-skill-geothermaldrone-ice">
+        <string lang="de">Wärmetausch $fireicon$</string>
+		<string lang="en">Heat Exchange $fireicon$</string>
+        <string lang="fr">Échange de chaleur $fireicon$</string>
+        <string lang="zh">热交换 $fireicon$</string>
+        <string lang="jp">熱交換 $fireicon$</string>
+        <string lang="ru">Теплообмен $fireicon$</string>
+        <string lang="es">Intercambio de calor $fireicon$</string>
+        <string lang="kr">열 교환 $fireicon$</string>
+        <string lang="pt-br">Troca de Calor $fireicon$</string>
+        <string lang="zh-tw">熱交換 $fireicon$</string>
 </set>
 <set id="name-skill-gravabsorb">
 		<string lang="de">Grav.-Absorption</string>
@@ -1325,7 +1341,7 @@
         <string lang="uk">Гравіоактивний $gravrecoilicon$</string>
 </set>
 <set id="name-skill-passive-ongravtodmg-shield">
-		<string lang="en">Frozen Solid</string>
+		<string lang="en">Frozen Solid $shieldicon$</string>
 </set>
 <set id="name-skill-passive-ongravinflict-powerraise">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
@@ -1543,7 +1559,7 @@
 </string>
 		<string lang="uk">Тупіт</string>
 </set>
-<set id="name-skill-swiftstrike">
+<set id="name-skill-wolf">
 		<string lang="de">Flinker Angriff</string>
 		<string lang="en">Swift Strike</string>
 		<string lang="fr">Frappe Rapide</string>
