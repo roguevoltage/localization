@@ -138,7 +138,7 @@
         <string lang="jp">モンスターが行動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый 2-й раз, когда монстр ходит.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada 2º turno de un monstruo.</string>
-        <string lang="kr">몬스터가 행동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+        <string lang="kr">몬스터가 두 번 행동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다</string>        
         <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ a cada 2º turno de um monstro.</string>
         <string lang="zh-tw">每當任意怪物行動的第2次時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ кожного 2-го разу, коли монстр ходить.</string>
@@ -710,10 +710,10 @@
         <string lang="jp">$generator$ がこのラックで 3 回起動されるたびに、それに$boost$を適用します。</string>
         <string lang="ru">Каждый 3-й раз, когда $generator$ активируется на этой стойке, к нему применяется $boost$.</string>
         <string lang="es">Cada 3.ª activación de un $generator$ en este bastidor, aplícale $boost$.</string>
-        <string lang="kr">이 랙에서 $generator$가 활성화될 때마다 $boost$를 적용합니다.</string>
+        <string lang="kr">이 랙에서 $generator$가 세 번 활성화될 때마다 $boost$를 적용합니다.</string>
         <string lang="pt-br">Cada 3.ª vez que um $generator$ é ativado neste rack, aplique $boost$ a ele.</string>
         <string lang="zh-tw">每3次在此機架上啟動一個$generator$，將$boost$應用於它。</string>
-        <string lang="uk">Кожен 3-й раз, коли активується $generator$, до нього застосовується $boost$.</string>
+        <string lang="uk">Кожен 3-й раз, коли активується $generator$, до нього застосовується $boost$.</string>        
 </set>
 <set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
@@ -1147,7 +1147,7 @@
 </set>
 <set id="description-module-vaultregeneration">
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne$br$$1$ gespeicherte $energy$, um$br$$1healing$ auf den Charakter mit den geringsten HP anzuwenden.$p$&lt;size=11&gt;(Heilt bei Gleichstand den Besitzer.)&lt;/size&gt;</string>
-		<string lang="en">Can be charged.$p$At the beginning of turn, remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
+		<string lang="en">Can be charged.$p$At the beginning of turn,$br$remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，让血量最低的角色获得$1healing$。$p$&lt;size=11&gt;(被控制时治疗自身)&lt;/size&gt;</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$最もHPが低いプレイヤーキャラを$1$$healing$。$p$&lt;size=11&gt;（等しいなら所有者を回復）&lt;/size&gt;</string>

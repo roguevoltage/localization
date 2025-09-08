@@ -1317,6 +1317,9 @@
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до вхідного струму.</string>
 </set>
 <set id="description-module-vaultacceleration">
+	<string lang="en">Can be charged.$p$At the beginning of turn,$br$remove all stored $energy$$br$to apply that much $grav-short$ to the owner.</string>
+</set>
+<set id="description-module-vaultacceleration-emergency">
 	<string lang="de">Kann aufgeladen werden.$p$Sobald der Charakter $grav+4$ oder mehr hat, dann entferne alle $grav+short$, entferne alle gespeicherte $energy$ von diesem Modul, um ihr/ihm so viel $grav-short$ zuzufügen.</string>
 	<string lang="en">Can be charged.$p$As soon as the owner has $grav+4$ or more, remove all $grav+short$ from them, then remove all stored $energy$ from this module to apply that much $grav-short$ to them.</string>
 	<string lang="fr">Peut être chargé.$p$Dès que le personnage a $grav+4$ ou plus, retirez tout $grav+short$ de lui, puis retirez toute l'$energy$ stockée de ce module pour lui appliquer autant de $grav-short$.</string>
@@ -2665,6 +2668,19 @@
 		<string lang="pt-br">Célula de Aceleração $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">加速單元$MODIFICATIONVALUE$</string>
 		<string lang="uk">Прискорювальна комірка $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-vaultacceleration-emergency">
+		<string lang="de">Notfall-Beschleunigungskapsel $MODIFICATIONVALUE$</string>
+		<string lang="en">Emergency Acceleration Capsule $MODIFICATIONVALUE$</string>
+        <string lang="fr">Capsule d'Accélération d'Urgence $MODIFICATIONVALUE$</string>
+        <string lang="zh">紧急加速胶囊$MODIFICATIONVALUE$</string>
+        <string lang="jp">緊急加速カプセル$MODIFICATIONVALUE$</string>
+        <string lang="ru">Аварийная Ускорительная Капсула $MODIFICATIONVALUE$</string>
+        <string lang="es">Cápsula de Aceleración de Emergencia $MODIFICATIONVALUE$</string>
+        <string lang="kr">비상 가속 캡슐 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Cápsula de Aceleração de Emergência $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">緊急加速膠囊$MODIFICATIONVALUE$</string>
+        <string lang="uk">Аварійна прискорювальна капсула $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-vaultdamage">
     <string lang="de">Auto-Geschütz $MODIFICATIONVALUE$</string>

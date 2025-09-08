@@ -528,6 +528,20 @@
 </string>
 		<string lang="uk">Наносить $2damage$ тілу.</string>
 </set>
+<set id="description-skill-ondeath-hurtwalrusbody">
+		<string lang="de">Fügt dem Körper $2damage$ zu.</string>
+		<string lang="en">Deals $2damage$ to the body.</string>
+		<string lang="fr">Inflige $2damage$ au corps.</string>
+		<string lang="zh">对躯干造成$2damage$。</string>
+		<string lang="jp">胴体に$2damage$。</string>
+		<string lang="ru">Наносит $2damage$ телу.</string>
+		<string lang="es">Inflige $2damage$ al cuerpo.</string>
+		<string lang="kr">몸체에 $2damage$를 줍니다.</string>
+		<string lang="pt-br">Inflige ao corpo $2damage$</string>
+		<string lang="zh-tw">對軀幹造成$2damage$。
+</string>
+		<string lang="uk">Наносить $2damage$ тілу.</string>
+</set>
 <set id="description-skill-ondeath-removeshieldfromreactor">
 		<string lang="de">Entfernt einmal $shield2$ vom Reaktor.</string>
 		<string lang="en">Removes one instance of $shield2$ from the reactor.</string>
@@ -766,7 +780,10 @@
 		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
 <set id="description-skill-walrus">
-        <string lang="en">Deals $1damage$ and $grav+1$ to all enemies. $p$Constructs one $b$Ice Shards$/b$ module with $cracked$ each on their racks.</string>
+        <string lang="en">Deals $1damage$ and $grav+1$ to all enemies.$p$Applies $grav-1$ to an ally.</string>
+</set>
+<set id="description-skill-walrustusk">
+        <string lang="en">Constructs one $b$Ice Shards$/b$ module with $cracked$ on an enemy rack.</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
@@ -1312,6 +1329,20 @@
 </string>
 		<string lang="uk">Частина тіла</string>
 </set>
+<set id="name-skill-ondeath-hurtwalrusbody">
+		<string lang="de">Körperteil</string>
+		<string lang="en">Body Part</string>
+		<string lang="fr">Partie du Corps</string>
+		<string lang="zh">十指连心</string>
+		<string lang="jp">一胴同体</string>
+		<string lang="ru">Часть Тела</string>
+		<string lang="es">Parte del Cuerpo</string>
+		<string lang="kr">몸체</string>
+		<string lang="pt-br">Parte do Corpo</string>
+		<string lang="zh-tw">十指連心
+</string>
+		<string lang="uk">Частина тіла</string>
+</set>
 <set id="name-skill-ondeath-removeshieldfromreactor">
 		<string lang="de">Schild-Deaktivierung</string>
 		<string lang="en">Shields Down</string>
@@ -1537,6 +1568,9 @@
 		<string lang="uk">Удар блискавки $VALUE$</string>
 </set>
 <set id="name-skill-walrus">
+		<string lang="en">Blubber $grav+icon$$grav-icon$</string>
+</set>
+<set id="name-skill-walrustusk">
 		<string lang="en">Icy Tusk</string>
 </set>
 <set id="skill-attack">
