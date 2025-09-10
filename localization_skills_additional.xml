@@ -425,6 +425,9 @@
 </string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $grav-1$ на всіх союзників.</string>
 </set>
+<set id="description-skill-passive-autonomous">
+		<string lang="en">Will continue fighting, even if the body is defeated.</string>
+</set>
 <set id="description-skill-passive-blizzard" remarks="take translation for Frostbite from localization string name-status-transformation-gravtodmg">
         <string lang="de">Kampfteilnehmer mit ihrem aktuellen Zug auf einem Schneesturm-Feld haben $b$Erfrierung $grav+icon$$arrowright$$damageicon$$/b$.</string>
 		<string lang="en">Combatants with their current turn on a Blizzard time step have $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$.</string>
@@ -1256,6 +1259,10 @@
 		<string lang="zh-tw">群起而攻$grav-icon$
 </string>
 		<string lang="uk">Атака зграєю $grav-icon$</string>
+</set>
+<set id="name-skill-passive-autonomous">
+		<string lang="de">Autonom</string>
+		<string lang="en">Autonomous</string>
 </set>
 <set id="name-skill-passive-blizzard">
 		<string lang="de">Erfrierung</string>
