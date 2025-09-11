@@ -1553,6 +1553,18 @@
 </string>
 		<string lang="uk">Гра від</string>
 </set>
+<set id="ui-current-run">
+		<string lang="de">AKTUELLER RUN</string>
+		<string lang="en">CURRENT RUN</string>
+		<string lang="fr">RUN ACTUEL</string>
+        <string lang="zh">当前挑战</string>
+        <string lang="jp">現在のラン</string>
+        <string lang="ru">ТЕКУЩИЙ ЗАБЕГ</string>
+        <string lang="es">PARTIDA ACTUAL</string>
+        <string lang="kr">현재 모험</string>
+        <string lang="pt-br">PARTIDA ATUAL</string>
+        <string lang="zh-tw">當前挑戰</string>
+</set>
 <set id="ui-dailyrun">
 		<string lang="de">Täglicher Run</string>
 		<string lang="en">Daily Run</string>
@@ -1824,19 +1836,6 @@
 		<string lang="zh-tw">控制</string>
 		<string lang="uk">Керування</string>
 </set>
-<set id="ui-loading">
-        <string lang="de">Laden ...</string>
-        <string lang="en">Loading ...</string>
-        <string lang="fr">Chargement ...</string>
-        <string lang="zh">加载中……</string>
-        <string lang="jp">ロード中...</string>
-        <string lang="ru">Загрузка ...</string>
-        <string lang="es">Cargando ...</string>
-        <string lang="kr">로딩 중...</string>
-        <string lang="pt-br">Carregando ...</string>
-        <string lang="zh-tw">載入中……</string>
-        <string lang="uk">Завантаження ...</string>
-</set>
 <set id="ui-leave">
 		<string lang="de">Verlassen</string>
 		<string lang="en">Leave</string>
@@ -1849,6 +1848,19 @@
 		<string lang="pt-br">Sair</string>
 		<string lang="zh-tw">離開</string>
 		<string lang="uk">Вийти</string>
+</set>
+<set id="ui-loading">
+        <string lang="de">Laden ...</string>
+        <string lang="en">Loading ...</string>
+        <string lang="fr">Chargement ...</string>
+        <string lang="zh">加载中……</string>
+        <string lang="jp">ロード中...</string>
+        <string lang="ru">Загрузка ...</string>
+        <string lang="es">Cargando ...</string>
+        <string lang="kr">로딩 중...</string>
+        <string lang="pt-br">Carregando ...</string>
+        <string lang="zh-tw">載入中……</string>
+        <string lang="uk">Завантаження ...</string>
 </set>
 <set id="ui-loot">
 		<string lang="de">Loot</string>
@@ -2192,9 +2204,21 @@
 		<string lang="es">Notas del parche</string>
 		<string lang="kr">패치 노트</string>
 		<string lang="pt-br">Notas de Patch</string>
-		<string lang="zh-tw">更新日誌
-</string>
+		<string lang="zh-tw">更新日誌</string>
 		<string lang="uk">Примітки до патча</string>
+</set>
+<set id="ui-play">
+		<string lang="de">SPIELEN</string>
+		<string lang="en">PLAY</string>
+		<string lang="fr">JOUER</string>
+		<string lang="zh">玩</string>
+        <string lang="jp">プレイ</string>
+        <string lang="ru">ИГРАТЬ</string>
+        <string lang="es">JUGAR</string>
+        <string lang="kr">플레이</string>
+        <string lang="pt-br">JOGAR</string>
+        <string lang="zh-tw">玩</string>
+        <string lang="uk">ГРАТИ</string>
 </set>
 <set id="ui-play-rogue-voltage-on-steam">
 		<string lang="de">Spiele$br$Rogue Voltage$br$auf Steam</string>
