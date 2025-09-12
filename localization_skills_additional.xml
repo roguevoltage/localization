@@ -430,7 +430,7 @@
 </set>
 <set id="description-skill-passive-blizzard" remarks="take translation for Frostbite from localization string name-status-transformation-gravtodmg">
         <string lang="de">Kampfteilnehmer mit ihrem aktuellen Zug auf einem Schneesturm-Feld haben $b$Erfrierung $grav+icon$$arrowright$$damageicon$$/b$.</string>
-		<string lang="en">Combatants with their current turn on a Blizzard time step have $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$.</string>
+		<string lang="en">Combatants with their current turn on a $blizzard$ time step have $b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$.</string>
         <string lang="fr">Les combattants avec leur tour actuel sur une étape de temps Blizzard ont $b$Gelure $grav+icon$$arrowright$$damageicon$$/b$.</string>
         <string lang="zh">处于暴风雪时间轴点的参战单位会获得$b$冻伤 $grav+icon$$arrowright$$damageicon$$/b$。</string>
         <string lang="jp">ブリザードタイムステップにいる敵味方は$br$$b$凍傷 $grav+icon$$arrowright$$damageicon$$/b$を受ける。</string>
@@ -567,13 +567,13 @@
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
 <set id="description-skill-passive-ongravtodmg-shield">
-		<string lang="en">While this monster it is on a time step with $chapter-ice-icon$ $b$Blizzard$/b$, it has $shield$.</string>
+		<string lang="en">While this monster it is on a time step with $blizzard$, it has $shield$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-gravaoe">
-		<string lang="en">Whenever this monster leaves the $b$Blizzard$/b$, inflict all enemies with $grav+1$.</string>
+		<string lang="en">Whenever this monster leaves the $blizzard$, inflict all enemies with $grav+1$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Whenever this monster leaves the $chapter-ice-icon$ $b$Blizzard$/b$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
+		<string lang="en">Whenever this monster leaves the $blizzard$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
 </set>
 <set id="description-skill-passive-onstatus-powerraise-icicle">
 		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
