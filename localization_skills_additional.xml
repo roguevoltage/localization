@@ -578,7 +578,7 @@
 <set id="description-skill-passive-onstatus-powerraise-icicle">
 		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
 </set>
-<set id="description-skill-passive-powerraiseonallydeath">
+<set id="description-skill-passive-powerraiseonallydeath-dynosaurmom">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
 		<string lang="en">Raises $might$ by $1$ whenever an ally is defeated.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
@@ -663,6 +663,20 @@
 		<string lang="uk">Наповнює $mighticon$$b$Силу$ і накладає на модуль $pollution$.</string>
 </set>
 <set id="description-skill-powertograv">
+		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
+		<string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
+		<string lang="fr">Retire tout $might$ pour infliger un ennemi avec autant de $grav+$.</string>
+		<string lang="zh">移除全部$might$，对一名敌人施加等量$grav+$。</string>
+		<string lang="jp">全$might$消費し、$br$敵1体に同量の$grav+$付与。</string>
+		<string lang="ru">Удаляет все $might$, чтобы нанести врагу столько же $grav+$.</string>
+		<string lang="es">Elimina todo el $might$ para infligir a un enemigo con esa cantidad de $grav+$.</string>
+		<string lang="kr">모든 $might$을 제거해 적에게 그와 동일한 $grav+$를 부여합니다.</string>
+		<string lang="pt-br">Remove todo o $might$ para infligir um inimigo com tanto $grav+$.</string>
+		<string lang="zh-tw">移除全部$might$，對一名敵人施加等量$grav+$。
+</string>
+		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ і накладає на ворога $grav+$ такої ж сили.</string>
+</set>
+<set id="description-skill-powertograv-dynosaurmom">
 		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
 		<string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
 		<string lang="fr">Retire tout $might$ pour infliger un ennemi avec autant de $grav+$.</string>
@@ -1412,6 +1426,20 @@
 </string>
 		<string lang="uk">Детекція Душі $mighticon$</string>
 </set>
+<set id="name-skill-passive-powerraiseonallydeath-dynosaurmom">
+		<string lang="de">Nestwut $mighticon$</string>
+		<string lang="en">Nest Rage $mighticon$</string>
+        <string lang="fr">Rage de Nid $mighticon$</string>
+        <string lang="zh">巢穴之怒$mighticon$</string>
+        <string lang="jp">巣の怒り$mighticon$</string>
+        <string lang="ru">Ярость Гнезда $mighticon$</string>
+        <string lang="es">Ira del Nido $mighticon$</string>
+        <string lang="kr">둥지의 분노 $mighticon$</string>
+        <string lang="pt-br">Fúria do Ninho $mighticon$</string>
+        <string lang="zh-tw">巢穴之怒$mighticon$
+</string>
+        <string lang="uk">Лють гнізда $mighticon$</string>
+</set>
 <set id="name-skill-passive-volcanodamagetograv">
 		<string lang="de">Vulkan-$damage$ zu $grav+$</string>
 		<string lang="en">Volcano $damage$ to $grav+$</string>
@@ -1469,6 +1497,20 @@
 		<string lang="uk">Отруйне вилуплення $mighticon$ $pollutionicon$</string>
 </set>
 <set id="name-skill-powertograv">
+		<string lang="de">Grav.-Zap $mighticon$$grav+icon$</string>
+		<string lang="en">Grav.-Zap $mighticon$$grav+icon$</string>
+		<string lang="fr">Zap Grav. $mighticon$$grav+icon$</string>
+		<string lang="zh">引力汲取$mighticon$$grav+icon$</string>
+		<string lang="jp">重力撃$mighticon$$grav+icon$</string>
+		<string lang="ru">Грав. Зап $mighticon$$grav+icon$</string>
+		<string lang="es">Grav.-Zap $mighticon$$grav+icon$</string>
+		<string lang="kr">중력 찌릿 $mighticon$$grav+icon$</string>
+		<string lang="pt-br">Grav.-Zap $mighticon$$grav+icon$</string>
+		<string lang="zh-tw">引力汲取$mighticon$$grav+icon$
+</string>
+		<string lang="uk">Гравірозряд $mighticon$ $grav+icon$</string>
+</set>
+<set id="name-skill-powertograv-dynosaurmom">
 		<string lang="de">Grav.-Zap $mighticon$$grav+icon$</string>
 		<string lang="en">Grav.-Zap $mighticon$$grav+icon$</string>
 		<string lang="fr">Zap Grav. $mighticon$$grav+icon$</string>
