@@ -413,7 +413,7 @@
 </set>
 <set id="description-skill-packattack">
 		<string lang="de">Fügt einem Gegner $1damage$ zu und versieht alle anderen Verbündeten mit $grav-1$.</string>
-		<string lang="en">Deals $1damage$ to an enemy and applies $grav-1$ to all allies.</string>
+		<string lang="en">Deals $1damage$ to an enemy.$p$Applies $grav-1$ to all allies.</string>
 		<string lang="fr">Inflige $1damage$ à un ennemi et inflige $grav-1$ à tous les alliés.</string>
 		<string lang="zh">对一名敌人造成$1damage$，$br$并对所有盟友施加$grav-1$。</string>
 		<string lang="jp">敵1体に$1damage$。$br$味方全体に$grav-1$付与。</string>
@@ -677,18 +677,8 @@
 		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ і накладає на ворога $grav+$ такої ж сили.</string>
 </set>
 <set id="description-skill-powertograv-dynosaurmom">
-		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
-		<string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
-		<string lang="fr">Retire tout $might$ pour infliger un ennemi avec autant de $grav+$.</string>
-		<string lang="zh">移除全部$might$，对一名敌人施加等量$grav+$。</string>
-		<string lang="jp">全$might$消費し、$br$敵1体に同量の$grav+$付与。</string>
-		<string lang="ru">Удаляет все $might$, чтобы нанести врагу столько же $grav+$.</string>
-		<string lang="es">Elimina todo el $might$ para infligir a un enemigo con esa cantidad de $grav+$.</string>
-		<string lang="kr">모든 $might$을 제거해 적에게 그와 동일한 $grav+$를 부여합니다.</string>
-		<string lang="pt-br">Remove todo o $might$ para infligir um inimigo com tanto $grav+$.</string>
-		<string lang="zh-tw">移除全部$might$，對一名敵人施加等量$grav+$。
-</string>
-		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ і накладає на ворога $grav+$ такої ж сили.</string>
+		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Entfernt alle $might$, um ihm ebensoviel $grav+$ zuzufügen.</string>
+		<string lang="en">Deals $1damage$ to an enemy.$p$Removes all $might$ to inflict them with that much $grav+$.</string>
 </set>
 <set id="description-skill-pterodactyl-riseup">
 		<string lang="de">Steigt auf der Zeitleiste über die Charaktere auf.$p$Fügt allen Gegnern $grav+1$ zu.</string>
@@ -1511,18 +1501,18 @@
 		<string lang="uk">Гравірозряд $mighticon$ $grav+icon$</string>
 </set>
 <set id="name-skill-powertograv-dynosaurmom">
-		<string lang="de">Grav.-Zap $mighticon$$grav+icon$</string>
-		<string lang="en">Grav.-Zap $mighticon$$grav+icon$</string>
-		<string lang="fr">Zap Grav. $mighticon$$grav+icon$</string>
-		<string lang="zh">引力汲取$mighticon$$grav+icon$</string>
-		<string lang="jp">重力撃$mighticon$$grav+icon$</string>
-		<string lang="ru">Грав. Зап $mighticon$$grav+icon$</string>
-		<string lang="es">Grav.-Zap $mighticon$$grav+icon$</string>
-		<string lang="kr">중력 찌릿 $mighticon$$grav+icon$</string>
-		<string lang="pt-br">Grav.-Zap $mighticon$$grav+icon$</string>
-		<string lang="zh-tw">引力汲取$mighticon$$grav+icon$
+		<string lang="de">Urstrahl $mighticon$$grav+icon$</string>
+		<string lang="en">Primal Ray $mighticon$$grav+icon$</string>
+        <string lang="fr">Rayon Primal $mighticon$$grav+icon$</string>
+        <string lang="zh">远古射线$mighticon$$grav+icon$</string>
+        <string lang="jp">原始の光線$mighticon$$grav+icon$</string>
+        <string lang="ru">Первобытный Луч $mighticon$$grav+icon$</string>
+        <string lang="es">Rayo Primal $mighticon$$grav+icon$</string>
+        <string lang="kr">원시 광선 $mighticon$$grav+icon$</string>
+        <string lang="pt-br">Raio Primal $mighticon$$grav+icon$</string>
+        <string lang="zh-tw">遠古射線$mighticon$$grav+icon$
 </string>
-		<string lang="uk">Гравірозряд $mighticon$ $grav+icon$</string>
+        <string lang="uk">Первісний промінь $mighticon$ $grav+icon$</string>
 </set>
 <set id="name-skill-pterodactyl-riseup">
 		<string lang="de">Aufsteigen</string>
