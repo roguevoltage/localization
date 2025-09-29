@@ -1041,6 +1041,45 @@
         <string lang="zh-tw">油漆桶（紅色）</string>
         <string lang="uk">Відро фарби (Червоний)</string>
 </set>
+<set id="name-module-toggledpaintbucket-type1">
+        <string lang="de">Farbeimer Typ 1 (Pink)</string>
+		<string lang="en">Paint Bucket Type 1 (Pink)</string>
+        <string lang="fr">Seau de Peinture Type 1 (Rose)</string>
+        <string lang="zh">油漆桶类型1（粉色）</string>
+        <string lang="jp">ペイントバケツ タイプ1（ピンク）</string>
+        <string lang="ru">Ведро краски Тип 1 (Розовый)</string>
+        <string lang="es">Cubo de Pintura Tipo 1 (Rosa)</string>
+        <string lang="kr">페인트 양동이 타입 1 (핑크)</string>
+        <string lang="pt-br">Balde de Tinta Tipo 1 (Rosa)</string>
+        <string lang="zh-tw">油漆桶類型1（粉色）</string>
+        <string lang="uk">Відро фарби Тип 1 (Рожевий)</string>
+</set>
+<set id="name-module-toggledpaintbucket-type2">
+        <string lang="de">Farbeimer Typ 2 (Orange)</string>
+		<string lang="en">Paint Bucket Type 2 (Orange)</string>
+        <string lang="fr">Seau de Peinture Type 2 (Orange)</string>
+        <string lang="zh">油漆桶类型2（橙色）</string>
+        <string lang="jp">ペイントバケツ タイプ2（オレンジ）</string>
+        <string lang="ru">Ведро краски Тип 2 (Оранжевый)</string>
+        <string lang="es">Cubo de Pintura Tipo 2 (Naranja)</string>
+        <string lang="kr">페인트 양동이 타입 2 (오렌지)</string>
+        <string lang="pt-br">Balde de Tinta Tipo 2 (Laranja)</string>
+        <string lang="zh-tw">油漆桶類型2（橙色）</string>
+        <string lang="uk">Відро фарби Тип 2 (Помаранчевий)</string>
+</set>
+<set id="name-module-toggledpaintbucket-type3">
+        <string lang="de">Farbeimer Typ 3 (Blau)</string>
+		<string lang="en">Paint Bucket Type 3 (Blue)</string>
+        <string lang="fr">Seau de Peinture Type 3 (Bleu)</string>
+        <string lang="zh">油漆桶类型3（蓝色）</string>
+        <string lang="jp">ペイントバケツ タイプ3（ブルー）</string>
+        <string lang="ru">Ведро краски Тип 3 (Синий)</string>
+        <string lang="es">Cubo de Pintura Tipo 3 (Azul)</string>
+        <string lang="kr">페인트 양동이 타입 3 (파랑)</string>
+        <string lang="pt-br">Balde de Tinta Tipo 3 (Azul)</string>
+        <string lang="zh-tw">油漆桶類型3（藍色）</string> 
+        <string lang="uk">Відро фарби Тип 3 (Синій)</string>
+</set>
 <set id="name-module-toggledpaintbucket-universal">
         <string lang="de">Farbeimer (Universell)</string>
 		<string lang="en">Paint Bucket (Universal)</string>
@@ -1092,6 +1131,45 @@
         <string lang="pt-br">Muda a cor de uma tomada não vermelha para &lt;color=#FF5555&gt;$b$vermelha$/b$&lt;/color&gt;.</string>
         <string lang="zh-tw">將目標非紅色插孔的顏色更改為&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;。</string>
         <string lang="uk">Змінює колір обраного не-червоного роз'єму на &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-type1">
+        <string lang="de">Ändert die Farbe einer nicht-Typ 1 Buchse deiner Wahl zu &lt;color=#b35b92&gt;$b$Typ 1 (Pink)$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-Type 1 jack to &lt;color=#b35b92&gt;$b$Type 1 (Pink)$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-Type 1 de votre choix en &lt;color=#b35b92&gt;$b$Type 1 (Rose)$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非类型1插孔的颜色更改为$br$&lt;color=#b35b92&gt;$b$类型1（粉色）$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択したタイプ1以外のジャックの色を&lt;color=#b35b92&gt;$b$タイプ1（ピンク）$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-разъема Тип 1 на &lt;color=#b35b92&gt;$b$Тип 1 (Розовый)$/b$&lt;/color&gt;.</string>  
+        <string lang="es">Cambia el color de la toma no Tipo 1 objetivo a &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 타입 1이 아닌 잭의 색상을 &lt;color=#b35b92&gt;$b$타입 1 (핑크)$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não Tipo 1 para &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非類型1插孔的顏色更改為&lt;color=#b35b92&gt;$b$類型1（粉色）$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-роз'єму Тип 1 на &lt;color=#b35b92&gt;$b$Тип 1 (Рожевий)$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-type2">
+        <string lang="de">Ändert die Farbe einer nicht-Typ 2 Buchse deiner Wahl zu &lt;color=#ca754f&gt;$b$Typ 2 (Orange)$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-Type 2 jack to &lt;color=#ca754f&gt;$b$Type 2 (Orange)$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-Type 2 de votre choix en &lt;color=#ca754f&gt;$b$Type 2 (Orange)$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非类型2插孔的颜色更改为$br$&lt;color=#ca754f&gt;$b$类型2（橙色）$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択したタイプ2以外のジャックの色を&lt;color=#ca754f&gt;$b$タイプ2（オレンジ）$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-разъема Тип 2 на &lt;color=#ca754f&gt;$b$Тип 2 (Оранжевый)$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no Tipo 2 objetivo a &lt;color=#ca754f&gt;$b$Tipo 2 (Naranja)$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 타입 2이 아닌 잭의 색상을 &lt;color=#ca754f&gt;$b$타입 2 (오렌지)$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não Tipo 2 para &lt;color=#ca754f&gt;$b$Tipo 2 (Laranja)$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非類型2插孔的顏色更改為&lt;color=#ca754f&gt;$b$類型2（橙色）$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-роз'єму Тип 2 на &lt;color=#ca754f&gt;$b$Тип 2 (Помаранчевий)$/b$&lt;/color&gt;.</string>
+</set>
+<set id="description-module-toggledpaintbucket-type3">
+        <string lang="de">Ändert die Farbe einer nicht-Typ 3 Buchse deiner Wahl zu &lt;color=#7272FF&gt;$b$Typ 3 (Blau)$/b$&lt;/color&gt;.</string>
+		<string lang="en">Changes the color of target non-Type 3 jack to &lt;color=#7272FF&gt;$b$Type 3 (Blue)$/b$&lt;/color&gt;.</string>
+        <string lang="fr">Change la couleur d'une prise non-Type 3 de votre choix en &lt;color=#7272FF&gt;$b$Type 3 (Bleu)$/b$&lt;/color&gt;.</string>
+        <string lang="zh">将目标非类型3插孔的颜色更改为$br$&lt;color=#7272FF&gt;$b$类型3（蓝色）$/b$&lt;/color&gt;。</string>
+        <string lang="jp">選択したタイプ3以外のジャックの色を&lt;color=#7272FF&gt;$b$タイプ3（ブルー）$/b$&lt;/color&gt;に変更。</string>
+        <string lang="ru">Изменяет цвет выбранного не-разъема Тип 3 на &lt;color=#7272FF&gt;$b$Тип 3 (Синий)$/b$&lt;/color&gt;.</string>
+        <string lang="es">Cambia el color de la toma no Tipo 3 objetivo a &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt;.</string>
+        <string lang="kr">선택한 타입 3이 아닌 잭의 색상을 &lt;color=#7272FF&gt;$b$타입 3 (파랑)$/b$&lt;/color&gt;로 변경합니다.</string>
+        <string lang="pt-br">Muda a cor de uma tomada não Tipo 3 para &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt;.</string>
+        <string lang="zh-tw">將目標非類型3插孔的顏色更改為&lt;color=#7272FF&gt;$b$類型3（藍色）$/b$&lt;/color&gt;。</string>
+        <string lang="uk">Змінює колір обраного не-роз'єму Тип 3 на &lt;color=#7272FF&gt;$b$Тип 3 (Синій)$/b$&lt;/color&gt;.</string>
 </set>
 <set id="description-module-toggledpaintbucket-universal">
         <string lang="de">Ändert die Farbe einer nicht-universellen Buchse deiner Wahl zu &lt;color=white&gt;$b$universell$/b$&lt;/color&gt;.</string>
