@@ -71,7 +71,19 @@
 		<string lang="pt-br"/>
 		<string lang="zh-tw"/>
 </set>
-<set id="description-boss-walrustusk">
+<set id="description-boss-walrustuskleft">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+</set>
+<set id="description-boss-walrustuskright">
 		<string lang="de"/>
 		<string lang="en"/>
 		<string lang="fr"/>
@@ -465,7 +477,20 @@
         <string lang="zh-tw">海象首領</string>
         <string lang="uk">Бос Морж</string>
 </set>
-<set id="name-boss-walrustusk">
+<set id="name-boss-walrustuskleft">
+		<string lang="de">Stoßzahn</string>
+        <string lang="en">Walrus Tusk</string>
+        <string lang="fr">Défense</string>
+        <string lang="zh">獠牙</string>
+        <string lang="jp">牙</string>
+        <string lang="ru">Бивень</string>
+        <string lang="es">Colmillo</string>
+        <string lang="kr">엄니</string>
+        <string lang="pt-br">Presas</string>
+        <string lang="zh-tw">獠牙</string>
+        <string lang="uk">Бивень</string>
+</set>
+<set id="name-boss-walrustuskright">
 		<string lang="de">Stoßzahn</string>
         <string lang="en">Walrus Tusk</string>
         <string lang="fr">Défense</string>
@@ -898,19 +923,33 @@
 		<string lang="uk">Бос</string>
 </set>
 <set id="shortname-boss-walrus">
-		<string lang="de">Walross Boss</string>
-        <string lang="en">Boss Walrus</string>
-        <string lang="fr">Boss Morse</string>
-        <string lang="zh">海象首领</string>
-        <string lang="jp">ボスセイウチ</string>
-        <string lang="ru">Босс Морж</string>
-        <string lang="es">Boss Morsa</string>
-        <string lang="kr">우두머리 바다코끼리</string>
-        <string lang="pt-br">Boss Morsa</string>
-        <string lang="zh-tw">海象首領</string>
-        <string lang="uk">Бос Морж</string>
+		<string lang="de">Boss</string>
+		<string lang="en">Boss</string>
+		<string lang="fr">Boss</string>
+		<string lang="zh">首领</string>
+		<string lang="jp">ボス</string>
+		<string lang="ru">Босс</string>
+		<string lang="es">Boss</string>
+		<string lang="kr">우두머리</string>
+		<string lang="pt-br">Boss</string>
+		<string lang="zh-tw">首領
+</string>
+		<string lang="uk">Бос</string>
 </set>
-<set id="shortname-boss-walrustusk">
+<set id="shortname-boss-walrustuskleft">
+		<string lang="de">Stoßzahn</string>
+        <string lang="en">Tusk</string>
+        <string lang="fr">Défense</string>
+        <string lang="zh">獠牙</string>
+        <string lang="jp">牙</string>
+        <string lang="ru">Бивень</string>
+        <string lang="es">Colmillo</string>
+        <string lang="kr">엄니</string>
+        <string lang="pt-br">Presas</string>
+        <string lang="zh-tw">獠牙</string>
+        <string lang="uk">Бивень</string>
+</set>
+<set id="shortname-boss-walrustuskright">
 		<string lang="de">Stoßzahn</string>
         <string lang="en">Tusk</string>
         <string lang="fr">Défense</string>
