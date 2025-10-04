@@ -753,6 +753,9 @@
         <string lang="zh-tw">回合結束時，給擁有者施加$grav+2$。</string>
         <string lang="uk">В кінці ходу накладає $grav+2$ на власника.</string>
 </set>
+<set id="description-module-passivecentrifuge">
+		<string lang="en">Whenever $boost$ expires from a module on this rack on end of turn, put a $b$Counter$/b$ on this module.$p$At the beginning of turn, remove $2$ $b$Counters$/b$ from this module to to apply $boost$ to a random $passthrough$ module on this rack.</string>
+</set>
 <set id="description-module-passivedurabilitysafeguarding">
 		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$50%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
 		<string lang="en">Modules with $malfunctioning$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
