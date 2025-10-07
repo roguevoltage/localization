@@ -226,9 +226,9 @@
 </set>
 <set id="description-module-effectoraccelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav-$ zu.</string>
-		<string lang="en">Inflicts any target with$br$$grav-$.</string>
+		<string lang="en">Apply $grav-$ to any target.</string>
 		<string lang="fr">Inflige $grav-$ sur le combattant ciblé.</string>
-		<string lang="zh">对任意目标施放$br$$grav-$。</string>
+		<string lang="zh">对任意目标施放$grav-$。</string>
 		<string lang="jp">任意の対象に$grav-$付与。</string>
 		<string lang="ru">Применяет к цели $grav-$.</string>
 		<string lang="es">Inflige $grav-$ al objetivo.</string>
@@ -239,11 +239,11 @@
 </set>
 <set id="description-module-effectorpotion-acceleration">
 		<string lang="de">Fügt dem Character $grav-$ zu.</string>
-		<string lang="en">Inflicts the owner with$br$$grav-$.</string>
+		<string lang="en">Apply $grav-$ to the owner.</string>
 		<string lang="fr">Inflige $grav-$ sur le propriétaire.</string>
 		<string lang="zh">对拥有者施放$grav-$。</string>
 		<string lang="jp">所有者に$grav-$。</string>
-		<string lang="ru">Наносит владельцу$br$$grav-$.</string>
+		<string lang="ru">Наносит владельцу $grav-$.</string>
 		<string lang="es">Inflige $grav-$ al dueño.</string>
 		<string lang="kr">소유자에게 $grav-$를 줍니다.</string>
 		<string lang="pt-br">Inflige $grav-$ ao dono.</string>
@@ -280,7 +280,7 @@
 </set>
 <set id="description-module-effectordecelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav+$ zu.</string>
-		<string lang="en">Inflicts any target with$br$$grav+$.</string>
+		<string lang="en">Apply $grav+$$br$to any target.</string>
 		<string lang="fr">Inflige $grav+$$br$sur le combattant ciblé.</string>
 		<string lang="zh">对任意目标施放$br$$grav+$。</string>
 		<string lang="jp">任意の対象に$grav+$付与。</string>
@@ -294,7 +294,7 @@
 </set>
 <set id="description-module-effectordeceleratorgatling">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $grav+1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict a random enemy$br$with $grav+1$].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to a random enemy].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
 		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对任意一名敌人施放$grav+1$。</string>
 		<string lang="jp">モジュールの$energy$の分だけ$br$ランダムな敵に$grav+1$付与。</string>
@@ -308,8 +308,8 @@
 </set>
 <set id="description-module-effectordeceleratormelee">
 		<string lang="de">Fügt allen Gegnern auf dem gleichen Zeitschritt wie der Charakter $grav+$ zu.</string>
-		<string lang="en">Inflicts $grav+$ onto all enemies on the same time step as the owner.</string>
-		<string lang="fr">Inflige $grav+$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
+		<string lang="en">Apply $grav+$ to all enemies on the same time step as the owner.</string>
+		<string lang="fr">Applique $grav+$ sur tous les ennemis au même étape de temps que le propriétaire.</string>
 		<string lang="zh">对所有与拥有者处在同一时间步的敌人施放$grav+$。</string>
 		<string lang="jp">所有者と同一タイムステップの敵全体に$grav+$付与。</string>
 		<string lang="ru">Применяет $grav+$ ко всем врагам на том же временном шаге, что и владелец.</string>
@@ -417,7 +417,7 @@
 </set>
 <set id="description-module-effectorvulnerability">
 		<string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Inflicts target enemy$br$with $vulnerable$.$br$(Duration: $energy$×3).</string>
+		<string lang="en">Apply $vulnerable$ to target enemy.$br$(Duration: $energy$×3).</string>
 		<string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">对目标敌人施放$vulnerable$。$br$（持续时间：$energy$×3)。</string>
 		<string lang="jp">対象の敵に$vulnerable$付与。$br$（効果時間：$energy$×3）</string>

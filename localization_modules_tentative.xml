@@ -156,7 +156,7 @@
 	<string lang="en">Regeneration Orb</string>
 </set>
 <set id="description-module-hotpotato">
-		<string lang="en">At the beginning of turn, inflict them with $grav+2$.$p$At the end of turn deals $1damage$ to them.</string>
+		<string lang="en">At the beginning of turn, apply $grav+2$ to them.$p$At the end of turn deals $1damage$ to them.</string>
 		<string lang="uk">На початку ходу власника накладає на нього $grav+2$.$p$Наприкінці ходу власника наносить йому $1damage$.</string>
 </set>
 <set id="description-module-factorytoggledbooster">
@@ -191,7 +191,7 @@
 </set>
 <set id="description-module-effectorgravamplification">
         <string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravamplification$.$br$(Dauer: $energy$×3)</string>
-        <string lang="en">Inflicts target combatant with $gravamplification$.$p$(Duration: $energy$×3).</string>
+        <string lang="en">Apply $gravamplification$ to target combatant.$p$(Duration: $energy$×3).</string>
         <string lang="fr">Inflige $gravamplification$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
         <string lang="zh">让目标获得 $gravamplification$，持续 $energy$×3。</string>
         <string lang="jp">ターゲットの戦闘者に$gravamplification$を与えます。$br$(持続時間：$energy$×3)。</string>

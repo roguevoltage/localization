@@ -56,7 +56,7 @@
 </set>
 <set id="description-skill-monstertransformation-mammoth">
         <string lang="de">Fügt allen Gegnern $grav+2$ zu</string>
-		<string lang="en">Transforms into $b$Mammoth$/b$.$p$Inflicts all enemies with $grav+2$</string>
+		<string lang="en">Transforms into $b$Mammoth$/b$.$p$Applies $grav+2$ to all enemies.</string>
 		<string lang="fr">Inflige $grav+2$ à tous les ennemis.</string>
         <string lang="zh">对所有敌人施放$grav+2$。</string>
         <string lang="jp">敵全体に$grav+2$付与。</string>
@@ -74,7 +74,7 @@
 </set>
 <set id="description-skill-gravamplificationglobal">
 		<string lang="de">Versieht alle Kampfteilnehmern auf dem gleichen Zeitschritt mit $gravamplification$.</string>
-		<string lang="en">Inflicts all combatants on the same time step with $gravamplification$.</string>
+		<string lang="en">Applies $gravamplification$ to all combatants on the same time step.</string>
 		<string lang="fr">Inflige à tous les combattants sur le même pas de temps l'état $gravamplification$.</string>
 		<string lang="zh">令所有处于同一时间轴点的参战单位受到$gravamplification$。</string>
 		<string lang="jp">同一タイムステップの敵味方全体に$br$$gravamplification$付与。</string>
@@ -87,12 +87,12 @@
 </set>
 <set id="description-skill-gravbarrage">
 		<string lang="de">Fügt einem Kampfteilnehmer $grav+1$ zu.$br$Fügt einem Kampfteilnehmer $grav+1$ zu.</string>
-		<string lang="en">Inflicts $grav+1$ to target combatant.$br$Inflicts $grav+1$ to target combatant.</string>
-		<string lang="fr">Inflige $grav+1$ à un combattant.$br$Inflige $grav+1$ à un combattant.</string>
+		<string lang="en">Applies $grav+1$ to target combatant.$br$Applies $grav+1$ to target combatant.</string>
+		<string lang="fr">Applique $grav+1$ à un combattant.$br$Applique $grav+1$ à un combattant.</string>
 		<string lang="zh">对目标参战单位施加$grav+1$。$br$对目标参战单位施加$grav+1$。</string>
 		<string lang="jp">対象の敵に$grav+1$付与。$br$対象の敵に$grav+1$付与。</string>
 		<string lang="ru">Наносит цели $grav+1$.$br$Наносит цели $grav+1$.</string>
-		<string lang="es">Inflige $grav+1$ a un combatiente.$br$Inflige $grav+1$ a un combatiente.</string>
+		<string lang="es">Aplica $grav+1$ a un combatiente.$br$Aplica $grav+1$ a un combatiente.</string>
 		<string lang="kr">대상 전투원에게 $grav+1$를 부여합니다.$br$대상 전투원에게 $grav+1$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $grav+1$ a um combatente.$br$Inflige $grav+1$ a um combatente.</string>
 		<string lang="zh-tw">對目標參戰單位施加$grav+1$。$br$對目標參戰單位施加$grav+1$。
@@ -115,8 +115,8 @@
 </set>
 <set id="description-skill-gravhowl">
 		<string lang="de">Entfernt alle $grav$ und versieht alle Kampfteilnehmer mit $gravamplification$.</string>
-		<string lang="en">Removes all $grav$ and inflicts all combatants with $gravamplification$.</string>
-		<string lang="fr">Supprime tous les $grav$ et inflige à tous les combattants $gravamplification$.</string>
+		<string lang="en">Removes all $grav$ and applies $gravamplification$ to all combatants.</string>
+		<string lang="fr">Supprime tous les $grav$ et applique $gravamplification$ à tous les combattants.</string>
 		<string lang="zh">移除所有$grav$状态，并对所有参战单位施加$gravamplification$。</string>
 		<string lang="jp">敵味方全体の$grav$全て除去し、$br$$gravamplification$付与。</string>
 		<string lang="ru">Удаляет все $grav$ и накладывает на всех бойцов $gravamplification$.</string>
@@ -199,7 +199,7 @@
 </set>
 <set id="description-skill-gravpull1">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
-		<string lang="en">Inflicts another combatant with $grav-1$</string>
+		<string lang="en">Applies $grav-1$ to another combatant</string>
 		<string lang="fr">Inflige $grav-1$ à un autre combattant</string>
 		<string lang="zh">对另一参战单位施加$grav-1$。</string>
 		<string lang="jp">別の敵味方1体に$grav-1$付与。</string>
@@ -213,7 +213,7 @@
 </set>
 <set id="description-skill-gravpull-pterodactyl">
 		<string lang="de">Fügt sich selbst $grav-1$ zu</string>
-		<string lang="en">Inflicts itself with $grav-1$</string>
+		<string lang="en">Applies $grav-1$ to itself</string>
 		<string lang="fr">Inflige à lui-même $grav-1$</string>
 		<string lang="zh">对自身施加$grav-1$。</string>
 		<string lang="jp">自身に$grav-1$付与。</string>
@@ -227,7 +227,7 @@
 </set>
 <set id="description-skill-gravpull-push">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu.$br$Fügt einem anderen Kampfteilnehmer $grav+1$ zu.</string>
-		<string lang="en">Inflicts another combatant with $grav-1$, then inflicts another combatant with $grav+1$.</string>
+		<string lang="en">Applies $grav-1$ to another combatant, then applies $grav+1$ to another combatant.</string>
 		<string lang="fr">Inflige à un autre combattant $grav-1$, puis inflige à un autre combattant $grav+1$.</string>
 		<string lang="zh">对另一参战单位施加$grav-1$，再对另一参战单位施加$grav+1$。</string>
 		<string lang="jp">別の敵味方1体に$grav-1$付与。$br$別の敵味方1体に$grav+1$付与。</string>
@@ -255,7 +255,7 @@
 </set>
 <set id="description-skill-gravspore-negative">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav-1$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav-1$</string>
+		<string lang="en">Applies $grav-1$ to all other combatants</string>
 		<string lang="fr">Inflige à tous les autres combattants $grav-1$</string>
 		<string lang="zh">对除自身外的所有参战单位施加$grav-1$。</string>
 		<string lang="jp">他の敵味方全体に$grav-1$付与。</string>
@@ -570,7 +570,7 @@
 		<string lang="en">While this monster it is on a time step with $blizzard$, it has $shield$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-gravaoe">
-		<string lang="en">Whenever this monster leaves the $blizzard$, inflict all enemies with $grav+1$.</string>
+		<string lang="en">Whenever this monster leaves the $blizzard$, applies $grav+1$ to all enemies.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-iceshards">
 		<string lang="en">Whenever this monster leaves the $blizzard$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
@@ -664,7 +664,7 @@
 </set>
 <set id="description-skill-powertograv">
 		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $grav+$ zuzufügen.</string>
-		<string lang="en">Removes all $might$ to inflict an enemy with that much $grav+$.</string>
+		<string lang="en">Removes all $might$ to apply that much $grav+$ to an enemy.</string>
 		<string lang="fr">Retire tout $might$ pour infliger un ennemi avec autant de $grav+$.</string>
 		<string lang="zh">移除全部$might$，对一名敌人施加等量$grav+$。</string>
 		<string lang="jp">全$might$消費し、$br$敵1体に同量の$grav+$付与。</string>
@@ -678,12 +678,12 @@
 </set>
 <set id="description-skill-powertograv-dynosaurmom">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Entfernt alle $might$, um ihm ebensoviel $grav+$ zuzufügen.</string>
-		<string lang="en">Deals $1damage$ to an enemy.$p$Removes all $might$ to inflict them with that much $grav+$.</string>
+		<string lang="en">Deals $1damage$ to an enemy.$p$Removes all $might$ to apply that much $grav+$ to them.</string>
 </set>
 <set id="description-skill-pterodactyl-riseup">
 		<string lang="de">Steigt auf der Zeitleiste über die Charaktere auf.$p$Fügt allen Gegnern $grav+1$ zu.</string>
-		<string lang="en">Rises above the player characters on the timeline.$p$Inflicts all enemies with $grav+1$.</string>
-		<string lang="fr">Monte au-dessus des personnages joueurs sur la timeline.$p$Inflige $grav+1$ à tous les ennemis.</string>
+		<string lang="en">Rises above the player characters on the timeline.$p$Applies $grav+1$ to all enemies.</string>
+		<string lang="fr">Monte au-dessus des personnages joueurs sur la timeline.$p$Applique $grav+1$ à tous les ennemis.</string>
 		<string lang="zh">时间轴优先级提升至玩家角色之上。$p$对所有敌人施放$grav+1$。</string>
 		<string lang="jp">タイムライン上で、$br$プレイヤーキャラよりも上昇。$p$敵全体に$grav+1$付与。</string>
 		<string lang="ru">Поднимается выше игроков на временной шкале.$p$Применяет $grav+1$ ко всем врагам.</string>

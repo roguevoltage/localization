@@ -286,8 +286,8 @@
 </set>
 <set id="description-module-effectoraccelerator-aoe">
 	<string lang="de">Fügt allen Verbündeten und Gegnern $grav-$ zu.</string>
-	<string lang="en">Inflicts all allies and enemies with$br$$grav-$.</string>
-	<string lang="fr">Inflige $grav-$ à tous les alliés et ennemis.</string>
+	<string lang="en">Apply $grav-$ to all allies and enemies.</string>
+	<string lang="fr">Applique $grav-$ à tous les alliés et ennemis.</string>
 	<string lang="zh">对所有友方及敌方目标施放$grav-$。</string>
 	<string lang="jp">敵味方全体に$grav-$付与。</string>
 	<string lang="ru">Наносит всем союзникам и врагам $grav-$.</string>
@@ -299,7 +299,7 @@
 </set>
 <set id="description-module-effectoracceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant$br$with $grav-1$].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav-1$ to target combatant].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un combattant ciblé].</string>
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav-1$付与。</string>
@@ -325,7 +325,7 @@
 </set>
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
-		<string lang="en">For each point of $energy$$br$on this module:$br$[Inflict target combatant$br$with $grav+1$].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to target combatant].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav+1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav+1$付与。</string>
@@ -338,7 +338,7 @@
 </set>
 <set id="description-module-effectorgravimmunity">
 		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Inflicts target combatant with $gravimmunity$.$br$(Duration: $energy$×3).</string>
+		<string lang="en">Apply $gravimmunity$ to target combatant.$br$(Duration: $energy$×3).</string>
 		<string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
 		<string lang="zh">对目标参战单位施加$gravimmunity$。$br$（持续时间：$energy$×3）</string>
 		<string lang="jp">対象の敵味方に$gravimmunity$付与。$p$（効果時間：$energy$×3）</string>

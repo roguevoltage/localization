@@ -153,7 +153,7 @@
 </set>
 <set id="description-skill-gravimplode-one">
 		<string lang="de">Entfernt $grav+1$ auf einem Gegner, um $1damage$ zuzufügen.</string>
-		<string lang="en">Removes $grav+1$ on an enemy to inflict $1damage$.</string>
+		<string lang="en">Removes $grav+1$ on an enemy to deal $1damage$.</string>
 		<string lang="fr">Implose $grav+1$ sur la cible et inflige $1damage$.</string>
 		<string lang="zh">移除敌人所受的$grav+1$，$br$并造成$1damage$。</string>
 		<string lang="jp">敵1体から$grav+1$除去し、$br$$1damage$。</string>
@@ -251,12 +251,12 @@
 </set>
 <set id="description-skill-gravspore-positive">
 		<string lang="de">Fügt allen Gegnern $grav+1$ zu</string>
-		<string lang="en">Inflicts all enemies with $grav+1$</string>
-		<string lang="fr">Inflige $grav+1$ à tous les ennemis.</string>
+		<string lang="en">Applies $grav+1$ to all enemies</string>
+		<string lang="fr">Applique $grav+1$ à tous les ennemis.</string>
         <string lang="zh">对所有敌人施放$grav+1$。</string>
         <string lang="jp">敵全体に$grav+1$付与。</string>
         <string lang="ru">Применяет $grav+1$ ко всем врагам</string>
-        <string lang="es">Inflige a todos los enemigos con $grav+1$</string>
+        <string lang="es">Aplica $grav+1$ a todos los enemigos</string>
         <string lang="kr">모든 적에게 $grav+1$를 부여합니다.</string>
         <string lang="pt-br">Inflige a todos os inimigos com $grav+1$</string>
         <string lang="zh-tw">對所有敵人施放$grav+1$。
@@ -265,12 +265,12 @@
 </set>
 <set id="description-skill-gravspore-positive-2">
 		<string lang="de">Fügt allen Gegnern $grav+2$ zu</string>
-		<string lang="en">Inflicts all enemies with $grav+2$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les ennemis.</string>
+		<string lang="en">Applies $grav+2$ to all enemies</string>
+		<string lang="fr">Applique $grav+2$ à tous les ennemis.</string>
         <string lang="zh">对所有敌人施放$grav+2$。</string>
         <string lang="jp">敵全体に$grav+2$付与。</string>
         <string lang="ru">Применяет $grav+2$ ко всем врагам</string>
-        <string lang="es">Inflige a todos los enemigos con $grav+2$</string>
+        <string lang="es">Aplica $grav+2$ a todos los enemigos</string>
         <string lang="kr">모든 적에게 $grav+2$를 부여합니다.</string>
         <string lang="pt-br">Inflige a todos os inimigos com $grav+2$</string>
         <string lang="zh-tw">對所有敵人施放$grav+2$。
@@ -293,12 +293,12 @@
 </set>
 <set id="description-skill-gravspore-positive-bossshroom">
 		<string lang="de">Fügt allen Gegnern $grav+2$ und sich selbst $grav-1$ zu</string>
-		<string lang="en">Inflicts all enemies with $grav+2$ and itself with $grav-1$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les ennemis et $grav-1$ à soi-même.</string>
+		<string lang="en">Applies $grav+2$ to all enemies and $grav-1$ to itself</string>
+		<string lang="fr">Applique $grav+2$ à tous les ennemis et $grav-1$ à soi-même.</string>
 		<string lang="zh">对所有敌人施放$grav+2$，并对自己施放$grav-1$。</string>
         <string lang="jp">敵全体に$grav+2$、自身に$grav-1$付与。</string>
         <string lang="ru">Применяет $grav+2$ ко всем врагам и $grav-1$ на себя</string>
-        <string lang="es">Inflige a todos los enemigos con $grav+2$ y a sí mismo con $grav-1$</string>
+        <string lang="es">Aplica $grav+2$ a todos los enemigos y $grav-1$ a sí mismo</string>
         <string lang="kr">모든 적에게 $grav+2$를 부여하고 스스로에게 $grav-1$를 부여합니다.</string>
         <string lang="pt-br">Inflige a todos os inimigos com $grav+2$ e a si mesmo com $grav-1$</string>
         <string lang="zh-tw">對所有敵人施放$grav+2$，並對自己施放$grav-1$。
@@ -307,12 +307,12 @@
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-stage2">
 		<string lang="de">Fügt allen Gegnern $grav+2$ und sich selbst $grav-2$ zu</string>
-		<string lang="en">Inflicts all enemies with $grav+2$ and itself with $grav-2$</string>
-		<string lang="fr">Inflige $grav+2$ à tous les ennemis et $grav-2$ à soi-même.</string>
+		<string lang="en">Applies $grav+2$ to all enemies and $grav-2$ to itself</string>
+		<string lang="fr">Applique $grav+2$ à tous les ennemis et $grav-2$ à soi-même.</string>
 		<string lang="zh">对所有敌人施放$grav+2$，并对自己施放$grav-2$。</string>
         <string lang="jp">敵全体に$grav+2$、自身に$grav-2$付与。</string>
         <string lang="ru">Применяет $grav+2$ ко всем врагам и $grav-2$ на себя</string>
-        <string lang="es">Inflige a todos los enemigos con $grav+2$ y a sí mismo con $grav-2$</string>
+        <string lang="es">Aplica $grav+2$ a todos los enemigos y $grav-2$ a sí mismo</string>
         <string lang="kr">모든 적에게 $grav+2$를 부여하고 스스로에게 $grav-2$를 부여합니다.</string>
         <string lang="pt-br">Inflige a todos os inimigos com $grav+2$ e a si mesmo com $grav-2$</string>
         <string lang="zh-tw">對所有敵人施放$grav+2$，並對自己施放$grav-2$。
@@ -321,7 +321,7 @@
 </set>
 <set id="description-skill-gravspore-positive-bossshroom-tutorial">
 		<string lang="de">Fügt allen anderen Kampfteilnehmern $grav+2$ und sich selbst $grav-3$ zu</string>
-		<string lang="en">Inflicts all other combatants with $grav+2$ and itself with $grav-3$</string>
+		<string lang="en">Applies $grav+2$ to all other combatants and $grav-3$ to itself</string>
 		<string lang="fr">Inflige $grav+2$ à tous les autres combattants et $grav-1$ à soi-même.</string>
 		<string lang="zh">对所有其他参战单位施放$grav+2$，并对自己施放$grav-3$。</string>
 		<string lang="jp">他の敵味方全体に$grav+2$、$br$自身に$grav-3$付与。</string>
@@ -335,8 +335,8 @@
 </set>
 <set id="description-skill-gravsting">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+1$ zu.</string>
-		<string lang="en">Deals $1damage$$br$and inflicts $grav+1$</string>
-		<string lang="fr">Inflige $1damage$ et $grav+1$ à un ennemi.</string>
+		<string lang="en">Deals $1damage$$br$and applies $grav+1$</string>
+		<string lang="fr">Inflige $1damage$ et applique $grav+1$.</string>
 		<string lang="zh">造成$1damage$$br$并施放$grav+1$。</string>
 		<string lang="jp">$1damage$。$br$$grav+1$付与。</string>
 		<string lang="ru">Наносит $1damage$$br$и применяет $grav+1$</string>
@@ -349,8 +349,8 @@
 </set>
 <set id="description-skill-gravsting-2">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
-		<string lang="en">Deals $1damage$$br$and inflicts $grav+2$</string>
-		<string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
+		<string lang="en">Deals $1damage$$br$and applies $grav+2$</string>
+		<string lang="fr">Inflige $1damage$ et applique $grav+2$.</string>
 		<string lang="zh">造成$1damage$$br$并施放$grav+2$。</string>
 		<string lang="jp">$1damage$。$br$$grav+2$付与。</string>
 		<string lang="ru">Наносит $1damage$$br$и применяет $grav+2$</string>
@@ -377,7 +377,7 @@
 </set>
 <set id="description-skill-leftclaw">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
-		<string lang="en">Deals $1damage$$br$and inflicts $grav+2$</string>
+		<string lang="en">Deals $1damage$$br$and applies $grav+2$</string>
 		<string lang="fr">Inflige $1damage$ et $grav+2$ à un ennemi.</string>
 		<string lang="zh">造成$1damage$$br$并施放$grav+2$。</string>
 		<string lang="jp">$1damage$。$br$$grav+2$付与。</string>

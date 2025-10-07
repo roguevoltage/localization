@@ -244,8 +244,8 @@
 </set>
 <set id="description-status-modulegravrecoil">
 		<string lang="de">Aktivierung fügt dem Charakter $grav+2$ zu</string>
-		<string lang="en">Activation inflicts the owner with $grav+2$</string>
-		<string lang="fr">Activation inflige $grav+2$ au propriétaire</string>
+		<string lang="en">Activation applies $grav+2$ to the owner</string>
+		<string lang="fr">Activation applique $grav+2$ au propriétaire</string>
 		<string lang="zh">激活后对拥有者施放$grav+2$</string>
 		<string lang="jp">起動で所有者に$grav+2$付与</string>
 		<string lang="ru">Активация даст владельцу $grav+2$</string>
@@ -257,7 +257,7 @@
 </set>
 <set id="description-status-modulegravrecoil-eot">
 		<string lang="de">Aktivierung diese Runde fügt dem Charakter $grav+2$ zu</string>
-		<string lang="en">Activation this turn inflicts the owner$br$with $grav+2$</string>
+		<string lang="en">Activation this turn applies$br$$grav+2$ to the owner</string>
 		<string lang="fr">Activation ce tour inflige $grav+2$ au propriétaire</string>
 		<string lang="zh">本回合激活后对拥有者$br$施放$grav+2$</string>
 		<string lang="jp">このターン起動で所有者に$grav+2$付与</string>
