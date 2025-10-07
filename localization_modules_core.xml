@@ -91,8 +91,8 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $grav+$ застосовується до персонажу гравця.</string>
 </set>
 <set id="description-module-collectorhealing">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $healing$ erhält.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a player character receives $healing$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn einem Charakter $healing$ zugefügt wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $healing$ is applied to a player character.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ lorsque un personnage joueur reçoit $healing$.</string>
 		<string lang="zh">有角色获得$healing$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">プレイヤーキャラが$br$$healing$されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
@@ -226,7 +226,7 @@
 </set>
 <set id="description-module-effectoraccelerator">
 		<string lang="de">Fügt einem Ziel deiner Wahl $grav-$ zu.</string>
-		<string lang="en">Apply $grav-$ to any target.</string>
+		<string lang="en">Apply $grav-$$br$to any target.</string>
 		<string lang="fr">Inflige $grav-$ sur le combattant ciblé.</string>
 		<string lang="zh">对任意目标施放$grav-$。</string>
 		<string lang="jp">任意の対象に$grav-$付与。</string>
@@ -239,7 +239,7 @@
 </set>
 <set id="description-module-effectorpotion-acceleration">
 		<string lang="de">Fügt dem Character $grav-$ zu.</string>
-		<string lang="en">Apply $grav-$ to the owner.</string>
+		<string lang="en">Apply $grav-$$br$to the owner.</string>
 		<string lang="fr">Inflige $grav-$ sur le propriétaire.</string>
 		<string lang="zh">对拥有者施放$grav-$。</string>
 		<string lang="jp">所有者に$grav-$。</string>
@@ -389,45 +389,45 @@
 </set>
 <set id="description-module-effectorshield">
 		<string lang="de">Versieht einen Verbündeten deiner Wahl mit $shield$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Applies $shield$ to target ally.$br$(Duration: $energy$×3).</string>
-		<string lang="fr">Applique $shield$ à l'allié ciblé.$br$(Durée: $energy$×3).</string>
-		<string lang="zh">为目标盟友施加$shield$。$br$（持续时间：$energy$×3)。</string>
+		<string lang="en">Applies $shield$ to target ally.$br$(Duration: $energy$×3)</string>
+		<string lang="fr">Applique $shield$ à l'allié ciblé.$br$(Durée: $energy$×3)</string>
+		<string lang="zh">为目标盟友施加$shield$。$br$（持续时间：$energy$×3）</string>
 		<string lang="jp">対象の仲間に$shield$付与。$br$（効果時間：$energy$×3）</string>
-		<string lang="ru">Даёт союзнику $shield$.$br$(Длительность: $energy$×3).</string>
-		<string lang="es">Aplica $shield$ al aliado objetivo.$br$(Duración: $energy$×3).</string>
-		<string lang="kr">대상 아군에게 $shield$을 부여합니다.$br$(지속시간: $energy$×3).</string>
-		<string lang="pt-br">Aplica $shield$ ao aliado alvo.$br$(Duração: $energy$×3).</string>
-		<string lang="zh-tw">為目標盟友施加$shield$。$br$（持續時間：$energy$×3）。
+		<string lang="ru">Даёт союзнику $shield$.$br$(Длительность: $energy$×3)</string>
+		<string lang="es">Aplica $shield$ al aliado objetivo.$br$(Duración: $energy$×3)</string>
+		<string lang="kr">대상 아군에게 $shield$을 부여합니다.$br$(지속시간: $energy$×3)</string>
+		<string lang="pt-br">Aplica $shield$ ao aliado alvo.$br$(Duração: $energy$×3)</string>
+		<string lang="zh-tw">為目標盟友施加$shield$。$br$（持續時間：$energy$×3）
 </string>
-		<string lang="uk">Дає $shield$ союзнику.$br$(Тривалість: $energy$×3).</string>
+		<string lang="uk">Дає $shield$ союзнику.$br$(Тривалість: $energy$×3)</string>
 </set>
 <set id="description-module-effectorshield-aoe">
-		<string lang="de">Versieht alle Verbündeten mit $shield$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Applies $shield$ to all allies.$br$(Duration: $energy$×3).</string>
-		<string lang="fr">Applique $shield$$br$à tous les alliés.$br$(Durée: $energy$×3).</string>
-		<string lang="zh">为全部盟友施加$shield$。$br$（持续时间：$energy$×3)。</string>
-		<string lang="jp">仲間全体に$shield$付与。$br$（効果時間：$energy$×3）</string>
-		<string lang="ru">Даёт всем союзникам $shield$.$br$(Длительность: $energy$×3).</string>
-		<string lang="es">Aplica $shield$ a todos los aliados.$br$(Duración: $energy$×3).</string>
-		<string lang="kr">모든 아군에게 $shield$을 부여합니다.$br$(지속시간: $energy$×3).</string>
-		<string lang="pt-br">Aplica $shield$ a todos os aliados.$br$(Duração: $energy$×3).</string>
-		<string lang="zh-tw">為全部盟友施加$shield$。$br$（持續時間：$energy$×3）。
+		<string lang="de">Versieht alle Verbündeten mit $shield$.$p$(Dauer: $energy$×3)</string>
+		<string lang="en">Applies $shield$ to all allies.$p$(Duration: $energy$×3).</string>
+		<string lang="fr">Applique $shield$$br$à tous les alliés.$p$(Durée: $energy$×3).</string>
+		<string lang="zh">为全部盟友施加$shield$。$p$（持续时间：$energy$×3）。</string>
+		<string lang="jp">仲間全体に$shield$付与。$p$（効果時間：$energy$×3）</string>
+		<string lang="ru">Даёт всем союзникам $shield$.$p$(Длительность: $energy$×3).</string>
+		<string lang="es">Aplica $shield$ a todos los aliados.$p$(Duración: $energy$×3).</string>
+		<string lang="kr">모든 아군에게 $shield$을 부여합니다.$p$(지속시간: $energy$×3).</string>
+		<string lang="pt-br">Aplica $shield$ a todos os aliados.$p$(Duração: $energy$×3).</string>
+		<string lang="zh-tw">為全部盟友施加$shield$。$p$（持續時間：$energy$×3）。
 </string>
 		<string lang="uk">Дає $shield$ всім союзникам.$br$(Тривалість: $energy$×3).</string>
 </set>
 <set id="description-module-effectorvulnerability">
-		<string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Apply $vulnerable$ to target enemy.$br$(Duration: $energy$×3).</string>
-		<string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.$br$(Durée: $energy$×3).</string>
-		<string lang="zh">对目标敌人施放$vulnerable$。$br$（持续时间：$energy$×3)。</string>
-		<string lang="jp">対象の敵に$vulnerable$付与。$br$（効果時間：$energy$×3）</string>
-		<string lang="ru">Применяет к цели $vulnerable$.$br$(Длительность: $energy$×3).</string>
-		<string lang="es">Inflige $vulnerable$ al enemigo objetivo.$br$(Duración: $energy$×3).</string>
-		<string lang="kr">대상 적에게 $vulnerable$을 부여합니다.$br$(지속시간: $energy$×3).</string>
-		<string lang="pt-br">Inflige $vulnerable$ ao inimigo alvo.$br$(Duração: $energy$×3).</string>
-		<string lang="zh-tw">對目標敵人施放$vulnerable$。$br$（持續時間：$energy$×3）。
+		<string lang="de">Versieht einen Gegner deiner Wahl mit $vulnerable$.$p$(Dauer: $energy$×3)</string>
+		<string lang="en">Apply $vulnerable$$br$to target enemy.$p$(Duration: $energy$×3)</string>
+		<string lang="fr">Inflige à l'ennemi ciblé $vulnerable$.$p$(Durée: $energy$×3)</string>
+		<string lang="zh">对目标敌人施放$vulnerable$。$p$（持续时间：$energy$×3）</string>
+		<string lang="jp">対象の敵に$vulnerable$付与。$p$（効果時間：$energy$×3）</string>
+		<string lang="ru">Применяет к цели $vulnerable$.$p$(Длительность: $energy$×3)</string>
+		<string lang="es">Inflige $vulnerable$ al enemigo objetivo.$p$(Duración: $energy$×3)</string>
+		<string lang="kr">대상 적에게 $vulnerable$을 부여합니다.$p$(지속시간: $energy$×3)</string>
+		<string lang="pt-br">Inflige $vulnerable$ ao inimigo alvo.$p$(Duração: $energy$×3)</string>
+		<string lang="zh-tw">對目標敵人施放$vulnerable$。$p$（持續時間：$energy$×3）
 </string>
-		<string lang="uk">Дає вказаному ворогу$br$з $vulnerable$.$br$(Тривалість: $energy$×3).</string>
+		<string lang="uk">Дає вказаному ворогу$br$з $vulnerable$.$p$(Тривалість: $energy$×3)</string>
 </set>
 <set id="description-module-factorypotion">
 		<string lang="de">Stellt einen universellen $b$Heiltrank$/b$ mit $cracked$ her.</string>

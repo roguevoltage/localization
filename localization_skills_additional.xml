@@ -526,7 +526,7 @@
 </set>
 <set id="description-skill-passive-onendofturn-ifdamaged-gravneg">
         <string lang="de">Am Ende eines Zuges eines jeden Kampfteilnehmers, wenn dieses Monster in diesem Zug $damage$ erlitten hat, erhält es $grav-1$.</string>
-		<string lang="en">At the end of any combatant's turn, if this monster has taken $damage$ this turn, it receives $grav-1$.</string>
+		<string lang="en">At the end of any combatant's turn, if this monster has taken $damage$ this turn, apply $grav-1$ to it.</string>
         <string lang="fr">À la fin d'un tour de n'importe quel combattant, si ce monstre a subi $damage$ ce tour, il reçoit $grav-1$.</string>
         <string lang="zh">在任何参战单位的回合结束时，如果该单位在本回合内受到$damage$，$br$则施加$grav-1$。</string>
         <string lang="jp">いずれかの戦闘者のターン終了時、$br$このモンスターが$damage$を受けていた場合、$br$$grav-1$付与。</string>
