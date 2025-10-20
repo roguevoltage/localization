@@ -132,44 +132,47 @@
 		<string lang="uk">На черзі $gravequilibrium$.$br$Коли вона час від часу зʼявляється на полі бою, $grav$ вирівнюється.</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-description-negative">
-		<string lang="de">$grav-$ wird vollständig entfernt.$br$Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
-		<string lang="en">$grav-$ on a combatant is completely removed and they receive half of it as $damage$ (rounded up).</string>
-		<string lang="fr">$grav-$ est complètement supprimé.$br$combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
-		<string lang="zh">参战单位所受的$grav-$效果将被完全移除，但受到原数值一半的$damage$（取邻近的最大整数）。</string>
-		<string lang="jp">$grav-$はゼロになり、保持者は半分の$damage$を受ける。（切り上げ）</string>
-		<string lang="ru">$grav-$ полностью удаляется.$br$Бойцы получают половину в виде $damage$ (округление вверх).</string>
-		<string lang="es">$grav-$ se eliminará por completo.$br$Los combatientes reciben la mitad de ello como $damage$ (redondeado hacia arriba).</string>
-		<string lang="kr">전투원에게 부여된 $grav-$는 완전히 제거되며, 절반에 달하는 $damage$를 입게 됩니다 (올림).</string>
-		<string lang="pt-br">$grav-$ é completamente removido.$br$Os combatentes recebem metade dele como $damage$ (arredondado para cima).</string>
-		<string lang="zh-tw">參戰單位所受的$grav-$效果將被完全移除，$br$但受到原數值一半的$damage$（取鄰近的最大整數）。</string>
-		<string lang="uk">$grav-$ повністю видаляється, а бійці отримують половину його значення як $damage$ (з округлення до більшого числа).</string>
+		<string lang="de">$grav-short$ wird vollständig entfernt.$br$Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
+		<string lang="en">$grav-short$ on a combatant is fully removed. They receive half of it as $damage$ (rounded up).$p$</string>
+		<string lang="fr">$grav-short$ est complètement supprimé.$br$combattants reçoivent la moitié comme $damage$ (arrondi vers le haut).</string>
+		<string lang="zh">参战单位所受的$grav-short$效果将被完全移除，但受到原数值一半的$damage$（取邻近的最大整数）。</string>
+		<string lang="jp">$grav-short$はゼロになり、保持者は半分の$damage$を受ける。（切り上げ）</string>
+		<string lang="ru">$grav-short$ полностью удаляется.$br$Бойцы получают половину в виде $damage$ (округление вверх).</string>
+		<string lang="es">$grav-short$ se eliminará por completo.$br$Los combatientes reciben la mitad de ello como $damage$ (redondeado hacia arriba).</string>
+		<string lang="kr">전투원에게 부여된 $grav-short$는 완전히 제거되며, 절반에 달하는 $damage$를 입게 됩니다 (올림).</string>
+		<string lang="pt-br">$grav-short$ é completamente removido.$br$Os combatentes recebem metade dele como $damage$ (arredondado para cima).</string>
+		<string lang="zh-tw">參戰單位所受的$grav-short$效果將被完全移除，$br$但受到原數值一半的$damage$（取鄰近的最大整數）。</string>
+		<string lang="uk">$grav-short$ повністю видаляється, а бійці отримують половину його значення як $damage$ (з округлення до більшого числа).</string>
+</set>
+<set id="tutorial-grav-equilibrium-window-description-negative-2">
+		<string lang="en">This punishes combatants that have been going too fast for too long.</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-negative">
-		<string lang="de">$grav-$$br$führt zu einer $b$Grav.-Spitze$/b$</string>
-		<string lang="en">$grav-$$br$causes a $b$Grav. Spike$/b$</string>
-		<string lang="fr">$grav-$$br$produit une $b$crête grav.$/b$</string>
-		<string lang="zh">$grav-$$br$造成$b$引力尖刺$/b$。</string>
-		<string lang="jp">$grav-$$br$$b$重力スパイク$/b$を引き起こす。</string>
-		<string lang="ru">$grav-$$br$приводит к $b$Грав. Пику$/b$</string>
-		<string lang="es">$grav-$$br$causa un $b$Pico Grav.$/b$</string>
-		<string lang="kr">$grav-$는$br$$b$중력 폭주$/b$를 일으킵니다.</string>
-		<string lang="pt-br">$grav-$$br$resulta em um $b$Pico Grav.$/b$</string>
-		<string lang="zh-tw">$grav-$$br$造成$b$引力激增$/b$。</string>
-		<string lang="uk">$grav-$ $br$призводить до $b$Гравішипу$/b$</string>
+		<string lang="de">$grav-short$ $b$führt zu einer Grav.-Spitze$/b$</string>
+		<string lang="en">$grav-short$ $b$causes a Grav. Spike$/b$</string>
+		<string lang="fr">$grav-short$ produit une $b$crête grav.$/b$</string>
+		<string lang="zh">$grav-short$ 造成$b$引力尖刺$/b$。</string>
+		<string lang="jp">$grav-short$ $b$重力スパイク$/b$を引き起こす。</string>
+		<string lang="ru">$grav-short$ приводит к $b$Грав. Пику$/b$</string>
+		<string lang="es">$grav-short$ causa un $b$Pico Grav.$/b$</string>
+		<string lang="kr">$grav-short$는 $b$중력 폭주$/b$를 일으킵니다.</string>
+		<string lang="pt-br">$grav-short$ resulta em um $b$Pico Grav.$/b$</string>
+		<string lang="zh-tw">$grav-short$ 造成$b$引力激增$/b$。</string>
+		<string lang="uk">$grav-short$ призводить до $b$Гравішипу$/b$</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-positive">
-		<string lang="de">$grav+$$br$wird halbiert$/b$ &lt;size=10&gt;(abgerundet)&lt;/size&gt;</string>
-		<string lang="en">$grav+$$br$is halved$/b$ &lt;size=10&gt;(rounded down)&lt;/size&gt;</string>
-		<string lang="fr">$grav+$ est divisée en deux$/b$ &lt;size=10&gt;(arrondi vers le bas)&lt;/size&gt;</string>
-		<string lang="zh">$grav+$$br$效果减半$/b$&lt;size=10&gt;（取邻近的最小整数）&lt;/size&gt;</string>
-		<string lang="jp">$grav+$$br$半減。$/b$&lt;size=10&gt;（切り捨て）&lt;/size&gt;</string>
-		<string lang="ru">$grav+$$br$делится пополам$/b$ &lt;size=10&gt;(округление вниз)&lt;/size&gt;</string>
-		<string lang="es">$grav+$$br$se divide a la mitad$/b$$br$&lt;size=9&gt;(redondeado hacia abajo)&lt;/size&gt;</string>
-		<string lang="kr">$grav+$는$br$절반으로 감소합니다$/b$ &lt;size=10&gt;(내림)&lt;/size&gt;</string>
-		<string lang="pt-br">$grav+$$br$é reduzido à metade$/b$$br$&lt;size=9&gt;(arredondado para baixo)&lt;/size&gt;</string>
-		<string lang="zh-tw">$grav+$$br$效果減半$/b$&lt;size=10&gt;（取鄰近的最小整數）&lt;/size&gt;
+		<string lang="de">$grav+short$ $b$wird halbiert$/b$ &lt;size=10&gt;(abgerundet)&lt;/size&gt;</string>
+		<string lang="en">$grav+short$ $b$is halved$/b$ &lt;size=10&gt;(rounded down)&lt;/size&gt;</string>
+		<string lang="fr">$grav+short$ $b$est divisée en deux$/b$ &lt;size=10&gt;(arrondi vers le bas)&lt;/size&gt;</string>
+		<string lang="zh">$grav+short$$br$效果减半$/b$&lt;size=10&gt;（取邻近的最小整数）&lt;/size&gt;</string>
+		<string lang="jp">$grav+short$$br$半減。$/b$&lt;size=10&gt;（切り捨て）&lt;/size&gt;</string>
+		<string lang="ru">$grav+short$$br$делится пополам$/b$ &lt;size=10&gt;(округление вниз)&lt;/size&gt;</string>
+		<string lang="es">$grav+short$$br$se divide a la mitad$/b$$br$&lt;size=9&gt;(redondeado hacia abajo)&lt;/size&gt;</string>
+		<string lang="kr">$grav+short$는$br$절반으로 감소합니다$/b$ &lt;size=10&gt;(내림)&lt;/size&gt;</string>
+		<string lang="pt-br">$grav+short$$br$é reduzido à metade$/b$$br$&lt;size=9&gt;(arredondado para baixo)&lt;/size&gt;</string>
+		<string lang="zh-tw">$grav+short$$br$效果減半$/b$&lt;size=10&gt;（取鄰近的最小整數）&lt;/size&gt;
 </string>
-		<string lang="uk">$grav+$ $br$зменшується вдвічі$/b$ (з округленням до меншого числа)</string>
+		<string lang="uk">$grav+short$ $br$зменшується вдвічі$/b$ (з округленням до меншого числа)</string>
 </set>
 <set id="tutorial-grav-equilibrium-window-title">
 		<string lang="de">Das Grav.-Equilibrium</string>
