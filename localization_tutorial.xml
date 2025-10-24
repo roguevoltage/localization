@@ -131,6 +131,19 @@
 		<string lang="zh-tw">現在是$gravequilibrium$的回合。$br$它的出現通常是為了平衡戰場上的$grav$。</string>
 		<string lang="uk">На черзі $gravequilibrium$.$br$Коли вона час від часу зʼявляється на полі бою, $grav$ вирівнюється.</string>
 </set>
+<set id="tutorial-grav-equilibrium-window-description-positive">
+		<string lang="de">Dies verhindert, dass Kampfteilnehmer zu stark verlangsamt werden.</string>
+		<string lang="en">This prevents combatants from getting slowed down too much.</string>
+		<string lang="fr">Cela empêche les combattants d'être trop ralentis.</string>
+		<string lang="zh">这可以防止战斗者被过度减速。</string>
+		<string lang="jp">これにより、戦闘員が過度に減速するのを防ぎます。</string>
+		<string lang="ru">Это предотвращает слишком сильное замедление участников боя.</string>
+		<string lang="es">Esto evita que los combatientes se ralenticen demasiado.</string>
+		<string lang="kr">이는 전투원이 너무 많이 느려지는 것을 방지합니다.</string>
+		<string lang="pt-br">Isso evita que os combatentes fiquem muito lentos.</string>
+		<string lang="zh-tw">這可以防止戰鬥者被過度減速。</string>
+		<string lang="uk">Це запобігає надмірному сповільненню учасників бою.</string>
+</set>
 <set id="tutorial-grav-equilibrium-window-description-negative">
 		<string lang="de">$grav-short$ wird vollständig entfernt.$br$Kampfteilnehmer erhalten die Hälfte als $damage$ (aufgerundet).</string>
 		<string lang="en">$grav-short$ on a combatant is fully removed. They receive half of it as $damage$ (rounded up).$p$</string>
