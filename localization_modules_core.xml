@@ -498,7 +498,7 @@
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为同模架上另一个目标模块施加$crust$.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为同模架上另一个目标模块施加$br$$crust$.</string>
         <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$ラックの別の対象モジュールに$crust$付与。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает $crust$ на другой модуль на этом стойке.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige a otro módulo objetivo en este bastidor con $crust$.</string>
@@ -924,6 +924,20 @@
         <string lang="zh-tw">為本模架上的所有$passthrough$模組施加$boost$。</string>
         <string lang="uk">Накладає $boost$ на всі модулі типу $passthrough$ на цій стійці.</string>
 </set>
+<set id="description-module-factorytoggledbooster" remarks="translate nitrous botte like in string name-module-toggledpassthroughbooster">
+        <string lang="de">Für jeden Punkt $energy$$br$auf diesem Modul:$br$[Konstruiere eine $b$Lachgasflasche$/b$ mit $cracked$ auf diesem Regal]</string>
+	    <string lang="en">For each point of $energy$$br$on this module:$br$[Construct a $b$Nitrous Bottle$/b$ with $cracked$ on this rack]</string>
+        <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Construisez une $b$Bouteille de Nitro$/b$ avec $cracked$ sur ce rack]</string>
+        <string lang="zh">对于此模块上的每一点$energy$：$br$[在此模架上构建一个带有$cracked$的$b$笑气瓶$/b$]</string>
+        <string lang="jp">このモジュールの$energy$ポイントごとに：$br$[このラックに$cracked$付きの$b$亜酸化窒素ボトル$/b$を構築]</string>
+        <string lang="ru">За каждую единицу $energy$$br$на этом модуле:$br$[Создайте $b$бутылку закиси азота$/b$ с $cracked$ на этой стойке]</string>
+        <string lang="es">Por cada punto de $energy$$br$en este módulo:$br$[Construye una $b$Botella de Nitrógeno$/b$ con $cracked$ en este bastidor]</string>
+        <string lang="kr">이 모듈의 $energy$ 포인트마다:$br$[이 랙에 $cracked$가 있는 $b$아산화질소 병$/b$ 생성]</string>
+        <string lang="pt-br">Para cada ponto de $energy$$br$neste módulo:$br$[Construa uma $b$Garrafa de Nitrogênio$/b$ com $cracked$ neste rack]</string>
+        <string lang="zh-tw">對於此模組上的每一點$energy$$br$：$br$[在此模架上構建一個帶有$cracked$的$b$笑氣瓶$/b$]</string>
+        <string lang="uk">За кожен пункт $energy$$br$на цьому модулі:$br$[Створіть $b$пляшку закису азоту$/b$ з $cracked$ на цій стійці]</string>
+</set>
+
 <set id="description-module-toggledstatusremover">
         <string lang="de">Entfernt $fire$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Removes $fire$, $crust$ and temporary instances of$br$$gravrecoil$ and $pollution$ from target module on this rack.</string>
@@ -2200,6 +2214,19 @@
         <string lang="pt-br">Matriz de Garrafas de Nitro</string>
         <string lang="zh-tw">笑氣瓶陣列</string>
         <string lang="uk">Матриця Балонів Нітро</string>
+</set>
+<set id="name-module-factorytoggledbooster" remarks="take translation from name-module-toggledpassthroughbooster">
+        <string lang="de">Nitro-Flaschen-Fabrik</string>
+        <string lang="en">Nitrous Bottle Factory</string>
+        <string lang="fr">Usine de Bouteilles de Nitro</string>
+        <string lang="zh">氮气瓶工厂</string>
+        <string lang="jp">亜酸化窒素ボトル工場</string>
+        <string lang="ru">Фабрика Баллонов с Нитро</string>
+        <string lang="es">Fábrica de Garaffas de Nitro</string>
+        <string lang="kr">나이트로스 병 공장</string>
+        <string lang="pt-br">Fábrica de Garrafas de Nitro</string>
+        <string lang="zh-tw">氮氣瓶工廠</string>
+        <string lang="uk">Фабрика Балонів Нітро</string>
 </set>
 <set id="name-module-toggledgrenadepassthroughboost">
 		<string lang="de">Durchsatz-Booster-Granate</string>
