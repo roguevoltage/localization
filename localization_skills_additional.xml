@@ -426,7 +426,17 @@
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $grav-1$ на всіх союзників.</string>
 </set>
 <set id="description-skill-passive-autonomous">
+		<string lang="de">Kämpft weiter, selbst wenn der Körper besiegt ist.</string>
 		<string lang="en">Will continue fighting, even if the body is defeated.</string>
+		<string lang="fr">Continuera à se battre, même si le corps est vaincu.</string>
+		<string lang="zh">即使身体被击败也会继续战斗。</string>
+		<string lang="jp">体が倒されても戦い続けます。</string>
+		<string lang="ru">Продолжит сражаться, даже если тело побеждено.</string>
+		<string lang="es">Continuará luchando, incluso si el cuerpo es derrotado.</string>
+		<string lang="kr">몸이 패배하더라도 계속 싸웁니다.</string>
+		<string lang="pt-br">Continuará lutando, mesmo que o corpo seja derrotado.</string>
+		<string lang="zh-tw">即使身體被擊敗也會繼續戰鬥。</string>
+		<string lang="uk">Продовжить битися, навіть якщо тіло переможене.</string>
 </set>
 <set id="description-skill-passive-blizzard" remarks="take translation for Frostbite from localization string name-status-transformation-gravtodmg">
 		<string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.$p$&lt;size=10&gt;Dieser $damage$ zählt nicht mehr$br$als "eingehend".</string>
@@ -567,7 +577,17 @@
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
 <set id="description-skill-passive-ongravtodmg-shield">
-		<string lang="en">While this monster it is on a time step with $blizzard$, it has $shield$.</string>
+		<string lang="de">Solange sich dieses Monster auf einem Zeitschritt mit $blizzard$ befindet, hat es $shield$.</string>
+		<string lang="en">While this monster is on a time step with $blizzard$, it has $shield$.</string>
+		<string lang="fr">Tant que ce monstre est sur un pas de temps avec $blizzard$, il possède $shield$.</string>
+		<string lang="zh">当此怪物位于带有$blizzard$的时间步时，它拥有$shield$。</string>
+		<string lang="jp">このモンスターが$blizzard$のあるタイムステップにいる間、$shield$を持ちます。</string>
+		<string lang="ru">Пока этот монстр находится на временном шаге с $blizzard$, у него есть $shield$.</string>
+		<string lang="es">Mientras este monstruo esté en un paso de tiempo con $blizzard$, tiene $shield$.</string>
+		<string lang="kr">이 몬스터가 $blizzard$가 있는 타임 스텝에 있는 동안 $shield$를 가집니다.</string>
+		<string lang="pt-br">Enquanto este monstro estiver em um passo de tempo com $blizzard$, ele tem $shield$.</string>
+		<string lang="zh-tw">當此怪物位於帶有$blizzard$的時間步時，它擁有$shield$。</string>
+		<string lang="uk">Поки цей монстр знаходиться на часовому кроці з $blizzard$, у нього є $shield$.</string>
 </set>
 <set id="description-skill-passive-onstatusremoval-gravaoe">
 		<string lang="en">Whenever this monster leaves the $blizzard$, applies $grav+1$ to all enemies.</string>
@@ -1267,6 +1287,15 @@
 <set id="name-skill-passive-autonomous">
 		<string lang="de">Autonom</string>
 		<string lang="en">Autonomous</string>
+		<string lang="fr">Autonome</string>
+		<string lang="zh">自主</string>
+		<string lang="jp">自律</string>
+		<string lang="ru">Автономный</string>
+		<string lang="es">Autónomo</string>
+		<string lang="kr">자율</string>
+		<string lang="pt-br">Autônomo</string>
+		<string lang="zh-tw">自主</string>
+		<string lang="uk">Автономний</string>
 </set>
 <set id="name-skill-passive-blizzard">
 		<string lang="de">Erfrierung $grav+icon$$arrowright$$damageicon$</string>
