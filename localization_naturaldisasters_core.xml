@@ -1,17 +1,17 @@
 <localization>
 <set id="description-naturaldisaster-gravequilibrium">
-		<string lang="de">Ein permanenter Sturm, der über die Erde zieht. Gleicht lokales Ungleichgewicht an $grav$ aus.</string>
-		<string lang="en">A permanent storm that circles the surface of the earth. It levels local imbalances of $grav$.</string>
-		<string lang="fr">Une tempête permanente qui tourne autour de la surface de la terre. Il équilibre les déséquilibres locaux de $grav$.</string>
-		<string lang="zh">环绕地表的永久性风暴。能够平衡战场失调的$grav$。</string>
-		<string lang="jp">地表を渦巻く恒常的な大嵐。周囲の重力不平衡を均等化する。</string>
-		<string lang="ru">Постоянная буря, которая кружит по всей поверхности Земли. Она уравнивает локальные нестабильности в $grav$.</string>
-		<string lang="es">Una tormenta permanente que circula por la superficie de la tierra. Nivela los desequilibrios locales de $grav$.</string>
-		<string lang="kr">지면을 계속해서 맴돌고 있는 멈추지 않는 폭풍. 해당 지역의 $grav$를 평준화시킵니다.</string>
-		<string lang="pt-br">Uma tempestade permanente que circula pela superfície da terra. Nivela os desequilíbrios locais de $grav$.</string>
-		<string lang="zh-tw">環繞地表的永久性風暴。能夠平衡戰場失調的$grav$。
+		<string lang="de">Ein seltsames Wetterphänomen, das über die Erde zieht und $grav$ $b$ausgleicht$/b$.</string>
+		<string lang="en">A strange weather phenomenon that circles the surface of the earth and $b$equalizes$/b$ $grav$.</string>
+		<string lang="fr">Un phénomène météorologique étrange qui tourne autour de la surface de la terre et $b$équilibre$/b$ $grav$.</string>
+		<string lang="zh">环绕地表的奇异气象现象，能够$b$平衡$/b$$grav$。</string>
+		<string lang="jp">地表を周回する奇妙な気象現象。$grav$を$b$均等化$/b$します。</string>
+		<string lang="ru">Странный погодный феномен, который кружит по поверхности Земли и $b$уравнивает$/b$ $grav$.</string>
+		<string lang="es">Un extraño fenómeno meteorológico que circula por la superficie de la tierra y $b$nivela$/b$ $grav$.</string>
+		<string lang="kr">지표면을 맴도는 기묘한 기상 현상. $grav$를 $b$평준화$/b$시킵니다.</string>
+		<string lang="pt-br">Um fenômeno meteorológico estranho que circula pela superfície da terra e $b$nivela$/b$ $grav$.</string>
+		<string lang="zh-tw">環繞地表的奇異氣象現象，能夠$b$平衡$/b$$grav$。
 </string>
-		<string lang="uk">Постійна буря, що обертається поверхнею землі. Нівелює локальні дисбаланси у $grav$.</string>
+		<string lang="uk">Дивне метеорологічне явище, що обертається поверхнею землі і $b$вирівнює$/b$ $grav$.</string>
 </set>
 <set id="description-naturaldisaster-gravimpulse">
 		<string lang="de">Ein Schwall an $grav+$, der von den Höhlenwänden abprallt.</string>
@@ -39,17 +39,31 @@
 		<string lang="pt-br"/>
 		<string lang="zh-tw"/>
 </set>
+<set id="advice-naturaldisaster-storm">
+    <string lang="de">$b$TIPP:$/b$ Benutze $grav+$ und $grav-$, um deine Charaktere von den $storm$-Schlägen herunterzubewegen.</string>
+    <string lang="en">$b$TIP:$/b$ Use $grav+$ and $grav-$ to move your characters away from the $storm$ strikes.</string>
+    <string lang="fr">$b$CONSEIL:$/b$ Utilisez $grav+$ et $grav-$ pour éloigner vos personnages des frappes de $storm$.</string>
+    <string lang="zh">$b$提示:$/b$ 使用 $grav+$ 和 $grav-$ 将你的角色移离 $storm$ 打击。</string>
+    <string lang="jp">$b$ヒント:$/b$ $grav+$ と $grav-$ を使ってキャラクターを $storm$ の雷撃から遠ざけよう。</string>
+    <string lang="ru">$b$Совет:$/b$ Используйте $grav+$ и $grav-$, чтобы отвести своих персонажей от ударов $storm$.</string>
+    <string lang="es">$b$CONSEJO:$/b$ Usa $grav+$ y $grav-$ para alejar a tus personajes de los golpes de $storm$.</string>
+    <string lang="kr">$b$팁:$/b$ $grav+$ 및 $grav-$를 사용하여 캐릭터를 $storm$ 공격에서 멀리 이동시키세요.</string>
+    <string lang="pt-br">$b$DICA:$/b$ Use $grav+$ e $grav-$ para mover seus personagens para longe dos ataques de $storm$.</string>
+    <string lang="zh-tw">$b$提示:$/b$ 使用 $grav+$ 和 $grav-$ 將你的角色移離 $storm$ 打擊。</string>
+    <string lang="uk">$b$Порада:$/b$ Використовуйте $grav+$ і $grav-$, щоб відвести своїх персонажів від ударів $storm$.</string>
+</set>
 <set id="description-naturaldisaster-storm">
-		<string lang="de"/>
-		<string lang="en"/>
-		<string lang="fr"/>
-		<string lang="zh"/>
-		<string lang="jp"/>
-		<string lang="ru"/>
-		<string lang="es"/>
-		<string lang="kr"/>
-		<string lang="pt-br"/>
-		<string lang="zh-tw"/>
+		<string lang="de">Der $storm$ erscheint, wenn der Kampf zu lange dauert.$p$Er verursacht $damage$ bei allen Kämpfern auf diesem Zeitschritt.</string>
+		<string lang="en">The $storm$ appears when the battle goes on for too long.$p$It deals $damage$ to all combatants on that time step.</string>
+		<string lang="fr">La $storm$ apparaît lorsque la bataille dure trop longtemps.$p$Elle inflige des $damage$ à tous les combattants sur ce pas de temps.</string>
+		<string lang="zh">当战斗持续时间过长时，$storm$ 会出现。$p$它会对该时间步上的所有战斗者造成 $damage$。</string>
+		<string lang="jp">戦闘が長引くと $storm$ が現れます。$p$そのタイムステップにいるすべての戦闘員に $damage$ を与えます。</string>
+		<string lang="ru">$storm$ появляется, когда битва длится слишком долго.$p$Она наносит $damage$ всем участникам боя на этом временном шаге.</string>
+		<string lang="es">La $storm$ aparece cuando la batalla se prolonga demasiado.$p$Inflige $damage$ a todos los combatientes en ese paso de tiempo.</string>
+		<string lang="kr">전투가 너무 오래 지속되면 $storm$이 나타납니다.$p$해당 타임 스텝의 모든 전투원에게 $damage$를 입힙니다.</string>
+		<string lang="pt-br">A $storm$ aparece quando a batalha dura muito tempo.$p$Ela causa $damage$ a todos os combatentes naquele passo de tempo.</string>
+		<string lang="zh-tw">當戰鬥持續時間過長時，$storm$ 會出現。$p$它會對該時間步上的所有戰鬥者造成 $damage$。</string>
+		<string lang="uk">$storm$ з'являється, коли битва триває занадто довго.$p$Вона завдає $damage$ усім учасникам бою на цьому часовому кроці.</string>
 </set>
 <set id="name-naturaldisaster-gravequilibrium">
 		<string lang="de">Grav.-Equilibrium</string>
