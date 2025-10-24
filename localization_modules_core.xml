@@ -824,7 +824,7 @@
 		<string lang="de">Zu Beginn des Zuges, wenn der Charakter $grav-$ hat, wird dieses Modul um $1energy$ geladen.$p$Andernfalls wende $grav-1$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of turn, if the owner has $grav-$,$br$this module is charged with$br$$1energy$.$p$Otherwise, apply $grav-1$$br$to the owner.</string>
         <string lang="fr">Au début du tour, si le propriétaire a $grav-$, ce module est chargé de $1energy$.$p$Sinon, applique $grav-1$ au propriétaire.</string>
-        <string lang="zh">在回合开始时，如果拥有者有$grav-$，则此模块充能$1energy$。$p$否则，对拥有者施加$grav-1$。</string>
+        <string lang="zh">在回合开始时，$br$如果拥有者有$grav-$，$br$则此模块充能$1energy$。$p$否则，对拥有者施加$grav-1$。</string>
         <string lang="jp">ターン開始時に所有者が$grav-$を持っている場合、このモジュールは$1energy$充電されます。$p$そうでない場合、所有者に$grav-1$を付与します。</string>
         <string lang="ru">В начале хода, если у владельца есть $grav-$, этот модуль заряжается на $1energy$.$p$В противном случае накладывает $grav-1$ на владельца.</string>
         <string lang="es">Al comienzo del turno, si el dueño tiene $grav-$, este módulo se carga con $1energy$.$p$De lo contrario, aplica $grav-1$ al dueño.</string>
@@ -1214,7 +1214,7 @@
 		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack $upgrade$ und $br$$gravrecoil$.</string>
 		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $passthroughmodule$ sur ce rack.</string>
-        <string lang="zh">为目标$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
+        <string lang="zh">为目标$passthroughmodule$施加$br$$upgrade$和$gravrecoil$。</string>
         <string lang="jp">ラックの対象$passthroughmodule$に$upgrade$と$gravrecoil$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $gravrecoil$ к модулю типа $passthroughmodule$ на этой стойке.</string>
         <string lang="es">Aplica $upgrade$ y$br$$gravrecoil$ a un módulo de tipo $passthroughmodule$$br$en este bastidor.</string>

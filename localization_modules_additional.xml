@@ -838,7 +838,7 @@
 		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
 		<string lang="en">At the beginning of turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
 		<string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sans $cracked$ sur ce rack avec $1energy$.</string>
-		<string lang="zh">回合开始时，随机为此模架上一非$cracked$模块充能$1energy$。</string>
+		<string lang="zh">回合开始时，随机为此模架上一非$br$$cracked$模块充能$1energy$。</string>
 		<string lang="jp">ターン開始時、このラックの$cracked$$br$付与されていない$br$ランダムな$storagemodule$に$br$$1energy$充電。</string>
 		<string lang="ru">В начале хода владельца, заряжает случайный не-$cracked$ $storagemodule$ на этой стойке на $1energy$.</string>
 		<string lang="es">Al comienzo del turno, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
@@ -864,7 +864,7 @@
         <string lang="de">Zu Beginn und am Ende des Zuges, entferne $grav+1$ vom Charakter, um einem zufälligen Gegner $1damage$ zuzufügen.</string>
 		<string lang="en">At the beginning and the end of turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
         <string lang="fr">Au début et à la fin du tour, retirez $grav+1$ du propriétaire pour infliger $1damage$ à un ennemi aléatoire.</string>
-        <string lang="zh">拥有者回合开始时，移除拥有者的$grav+1$并对一名随机敌人造成$1damage$。</string>
+        <string lang="zh">拥有者回合开始时，移除拥有者的$grav+1$并对一名随机敌人造成$br$$1damage$。</string>
         <string lang="jp">所有者のターン開始時、$br$所有者から$grav+1$除去し、$br$ランダムな敵に$1damage$。</string>
         <string lang="ru">В начале и в конце хода владельца, удаляет $grav+1$ у владельца, чтобы нанести $1damage$ случайному врагу.</string>
         <string lang="es">Elimina $grav+1$ al comienzo y al final del turno para infligir $1damage$ a un enemigo aleatorio.</string>
@@ -1231,7 +1231,7 @@
         <string lang="de">Fügt einem Modul deiner Wahl auf diesem Rack $outoforder$ zu.$p$Verleiht einem anderen $passthrough$-Modul auf diesem Rack $turbo$.</string>
 		<string lang="en">Applies $outoforder$ to target module on this rack.$p$Applies $turbo$ to another target $passthrough$ module on this rack.</string>
         <string lang="fr">Applique $outoforder$ à un module ciblé sur ce rack.$p$Applique $turbo$ à un autre $passthroughmodule$ ciblé sur ce rack.</string>
-        <string lang="zh">在此模架上选择一个模块，施加$outoforder$。$p$为另一个$passthroughmodule$施加$turbo$。</string>
+        <string lang="zh">在此模架上选择一个模块，$br$施加$outoforder$。$p$为另一个$passthroughmodule$施加$br$$turbo$。</string>
         <string lang="jp">ラックの別の対象モジュールに$br$$outoforder$付与。$p$ラックの別の$passthroughmodule$に$br$$turbo$付与。</string>
         <string lang="ru">Применяет $outoforder$ к целевому модулю на этой стойке.$p$Применяет $turbo$ к другому целевому $passthroughmodule$ на этой стойке.</string>
         <string lang="es">Aplica $outoforder$ al módulo objetivo en este bastidor.$p$Aplica $turbo$ a otro módulo $passthroughmodule$ objetivo en este bastidor.</string>

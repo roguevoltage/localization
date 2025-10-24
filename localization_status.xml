@@ -660,7 +660,7 @@
 </set>
 <set id="description-status-shield">
 		<string lang="de">Eingehender $damage$ wird um $1$ reduziert</string>
-		<string lang="en">Incoming $damage$ is reduced by $1$</string>
+		<string lang="en">Incoming $damage$$br$is reduced by $1$</string>
 		<string lang="fr">$damage$ entrants sont réduits de $1$</string>
 		<string lang="zh">即将承受的$damage$减少$1$</string>
 		<string lang="jp">受ける$damage$を$1$軽減</string>
@@ -673,7 +673,7 @@
 </set>
 <set id="description-status-shield2">
 		<string lang="de">Eingehender $damage$ wird um $2$ reduziert</string>
-		<string lang="en">Incoming $damage$ is reduced by $2$</string>
+		<string lang="en">Incoming $damage$$br$is reduced by $2$</string>
 		<string lang="fr">$damage$ entrants sont réduits de $2$</string>
 		<string lang="zh">即将承受的$damage$减少$2$</string>
 		<string lang="jp">受ける$damage$を$2$軽減</string>

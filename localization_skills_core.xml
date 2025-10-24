@@ -100,7 +100,7 @@
 		<string lang="de">Entfernt alle $might$.$p$Verdoppelt sich selbst.</string>
 		<string lang="en">If $might$ is full, it removes all $might$ to duplicate.</string>
 		<string lang="fr">Si $might$ est plein, il retire $might$ pour se dupliquer.</string>
-		<string lang="zh">如果$might$已满，则消耗全部$might$进行复制。</string>
+		<string lang="zh">如果$might$已满，$br$则消耗全部$might$进行复制。</string>
 		<string lang="jp">$might$が最大なら、$br$全$might$除去し複製。</string>
 		<string lang="ru">Если $might$ заполнена, то удаляет всю $might$ для дублирования.</string>
 		<string lang="es">Si $might$ está lleno, retira todos los $might$ para duplicarse.</string>
@@ -644,8 +644,8 @@
 		<string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
 		<string lang="en">Raises $might$ by $1$ whenever the turn order is changed.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois que l'ordre des tours est modifié.</string>
-		<string lang="zh">轮次发生改变时，提升$1$$might$。</string>
-		<string lang="jp">ターン順変更時、$1$$might$上昇。</string>
+		<string lang="zh">轮次发生改变时，$br$提升$1$$might$。</string>
+		<string lang="jp">ターン順変更時、$br$$1$$might$上昇。</string>
 		<string lang="ru">Повышает $might$ на $1$ каждый раз, когда порядок ходов меняется.</string>
 		<string lang="es">Aumenta $might$ en $1$ cada vez que se cambia el orden de los turnos</string>
 		<string lang="kr">턴 순서가 변화할 때마다, $might$이 $1$ 상승합니다.</string>
@@ -658,7 +658,7 @@
 		<string lang="de">Füllt $might$, immer wenn sich die Reihenfolge der Züge ändert.</string>
 		<string lang="en">Fills $might$ whenever the turn order is changed.</string>
 		<string lang="fr">Remplit $might$ à chaque fois que l'ordre des tours est modifié.</string>
-		<string lang="zh">轮次发生改变时，获得最大$might$。</string>
+		<string lang="zh">轮次发生改变时，$br$获得最大$might$。</string>
 		<string lang="jp">ターン順変更時、$might$補充。</string>
 		<string lang="ru">Заполняет $might$ каждый раз, когда порядок ходов меняется.</string>
 		<string lang="es">Llena el $might$ cada vez que se cambia el orden de los turnos</string>
