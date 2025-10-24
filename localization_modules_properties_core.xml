@@ -78,17 +78,17 @@
 		<string lang="uk">Не заблокується після заряджання, можна вільно переміщати між персонажами</string>
 </set>
 <set id="exhaustion">
-		<string lang="de">Erschöpfung $EXHAUSTION$</string>
-		<string lang="en">Exhaustion $EXHAUSTION$</string>
-		<string lang="fr">Fatigue $EXHAUSTION$</string>
-		<string lang="zh">疲劳$EXHAUSTION$</string>
-		<string lang="jp">消耗$EXHAUSTION$</string>
-		<string lang="ru">Изнурение $EXHAUSTION$</string>
-		<string lang="es">Agotamiento $EXHAUSTION$</string>
-		<string lang="kr">고갈 $EXHAUSTION$</string>
-		<string lang="pt-br">Exaustão $EXHAUSTION$</string>
-		<string lang="zh-tw">疲勞$EXHAUSTION$</string>
-		<string lang="uk">Виснаження $EXHAUSTION$</string>
+		<string lang="de">Erschöpfung $EXHAUSTIONVALUE$</string>
+		<string lang="en">Exhaustion $EXHAUSTIONVALUE$</string>
+		<string lang="fr">Fatigue $EXHAUSTIONVALUE$</string>
+		<string lang="zh">疲劳$EXHAUSTIONVALUE$</string>
+		<string lang="jp">消耗$EXHAUSTIONVALUE$</string>
+		<string lang="ru">Изнурение $EXHAUSTIONVALUE$</string>
+		<string lang="es">Agotamiento $EXHAUSTIONVALUE$</string>
+		<string lang="kr">고갈 $EXHAUSTIONVALUE$</string>
+		<string lang="pt-br">Exaustão $EXHAUSTIONVALUE$</string>
+		<string lang="zh-tw">疲勞$EXHAUSTIONVALUE$</string>
+		<string lang="uk">Виснаження $EXHAUSTIONVALUE$</string>
 </set>
 <set id="exhaustion-description-dependingonwiring">
 		<string lang="de">Abhängig von aktivierten Modulen</string>
@@ -104,17 +104,17 @@
 		<string lang="uk">Залежно від підключених модулів</string>
 </set>
 <set id="exhaustion-description-turndelay">
-		<string lang="de">Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTION$$/b$</string>
-		<string lang="en">Activation sets back next turn by $b$$EXHAUSTION$$/b$</string>
-		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTION$$/b$</string>
-		<string lang="zh">激活后角色下一回合延后$b$$EXHAUSTION$$/b$步</string>
-		<string lang="jp">起動で次のターンを$b$$EXHAUSTION$$/b$遅らせる</string>
-		<string lang="ru">Активация откладывает$br$следующий ход на $b$$EXHAUSTION$$/b$</string>
-		<string lang="es">La activación retrasa el siguiente turno por $b$$EXHAUSTION$$/b$</string>
-		<string lang="kr">활성화 시 다음 턴이 $b$$EXHAUSTION$$/b$만큼 늦춰집니다</string>
-		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTION$$/b$</string>
-		<string lang="zh-tw">啟動後角色下一回合延後$b$$EXHAUSTION$$/b$步</string>
-		<string lang="uk">Активація відтерміновує наступний хід на $b$$EXHAUSTION$$/b$</string>
+		<string lang="de">Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="en">Activation sets back next turn by $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="zh">激活后角色下一回合延后$b$$EXHAUSTIONVALUE$$/b$步</string>
+		<string lang="jp">起動で次のターンを$b$$EXHAUSTIONVALUE$$/b$遅らせる</string>
+		<string lang="ru">Активация откладывает$br$следующий ход на $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="es">La activación retrasa el siguiente turno por $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="kr">활성화 시 다음 턴이 $b$$EXHAUSTIONVALUE$$/b$만큼 늦춰집니다</string>
+		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTIONVALUE$$/b$</string>
+		<string lang="zh-tw">啟動後角色下一回合延後$b$$EXHAUSTIONVALUE$$/b$步</string>
+		<string lang="uk">Активація відтерміновує наступний хід на $b$$EXHAUSTIONVALUE$$/b$</string>
 </set>
 <set id="factory-proportion">
 		<string lang="de">Höhere $energy$ führt zu einem besseren hergestellten Modul</string>
