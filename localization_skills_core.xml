@@ -58,14 +58,13 @@
 		<string lang="de">Fügt $1damage$ zu und versieht ein Modul mit $crust$.</string>
 		<string lang="en">Deals $1damage$ and inflicts a module with $crust$.</string>
 		<string lang="fr">Inflige $1damage$ et inflige un module avec $crust$.</string>
-		<string lang="zh">造成$1damage$并对一个模块施放$crust$。</string>
+		<string lang="zh">造成$1damage$并对一个模块施放$br$$crust$。</string>
 		<string lang="jp">$1damage$。$br$モジュール1つに$crust$付与。</string>
 		<string lang="ru">Наносит $1damage$ и накладывает $crust$ на модуль.</string>
 		<string lang="es">Inflige $1damage$ e inflige un módulo con $crust$.</string>
 		<string lang="kr">$1damage$를 주고 모듈에게 $crust$를 부여합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ e inflige um módulo com $crust$.</string>
-		<string lang="zh-tw">造成$1damage$並對一個模組施放$crust$。
-</string>
+		<string lang="zh-tw">造成$1damage$並對一個模組施放$br$$crust$。</string>
 		<string lang="uk">Наносить $1damage$ і накладає на модуль $crust$.</string>
 </set>
 <set id="description-skill-monsterspawn-gravpolyp">
@@ -699,13 +698,13 @@
 		<string lang="de">Entfernt alle $might$, um einem Gegner ebensoviel $damage$ zuzufügen.</string>
 		<string lang="en">Removes all $might$ to deal that much $damage$ to an enemy.</string>
 		<string lang="fr">Supprime tout $might$ pour infliger $damage$ à une cible.</string>
-		<string lang="zh">移除全部$might$，对一名敌人造成等量$damage$。</string>
+		<string lang="zh">移除全部$might$，$br$对一名敌人造成等量$damage$。</string>
 		<string lang="jp">全$might$消費し、$br$敵1体に同量の$damage$。</string>
 		<string lang="ru">Удаляет всю $might$ для нанесения врагу $damage$.</string>
 		<string lang="es">Retira todo el $might$ para infligir el mismo $damage$ a un enemigo.</string>
 		<string lang="kr">대상의 모든 $might$을 제거해 그와 동일한 $damage$를 줍니다.</string>
 		<string lang="pt-br">Remove todos os $might$ para infligir tanto $damage$.</string>
-		<string lang="zh-tw">移除全部$might$，對一名敵人造成等量$damage$。
+		<string lang="zh-tw">移除全部$might$，$br$對一名敵人造成等量$damage$。
 </string>
 		<string lang="uk">Прибирає всю $mighticon$$b$Силу$ та наносить $damage$ такої ж сили ворогу.</string>
 </set>

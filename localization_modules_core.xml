@@ -161,13 +161,13 @@
         <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $plasma$ verbraucht wird.</string>
         <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $plasma$ is consumed.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $plasma$ est consommé.</string>
-        <string lang="zh">每当花费$plasma$时，产出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="zh">每当花费$plasma$时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="jp">$plasma$を消費するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $plasma$ расходуется.</string>
         <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que $plasma$ es consumido.</string>
         <string lang="kr">$plasma$가 소모될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
         <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $plasma$ é consumido.</string>
-        <string lang="zh-tw">每當花費$plasma$時，產出$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="zh-tw">每當花費$plasma$時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли витрачається $plasma$.</string>
 </set>
 <set id="description-module-collectortrauma">
@@ -706,7 +706,7 @@
 		<string lang="de">Jedes 3. Mal, wenn ein $generator$ auf diesem Rack aktiviert wird, wird $boost$ auf ihn angewendet.</string>
 		<string lang="en">Every 3&lt;sup&gt;rd&lt;/sup&gt; time a $generator$$br$is activated on this rack,$br$apply $boost$ to it.</string>
         <string lang="fr">Chaque 3&lt;sup&gt;ème&lt;/sup&gt; activation d'un $generator$ sur ce rack, applique $boost$ sur lui.</string>
-        <string lang="zh">每3次在此机架上激活一个$generator$，将$boost$应用于它。</string>
+        <string lang="zh">每3次在此机架上激活一个$br$$generator$，将$boost$应用于它。</string>
         <string lang="jp">$generator$ がこのラックで 3 回起動されるたびに、それに$boost$を適用します。</string>
         <string lang="ru">Каждый 3-й раз, когда $generator$ активируется на этой стойке, к нему применяется $boost$.</string>
         <string lang="es">Cada 3.ª activación de un $generator$ en este bastidor, aplícale $boost$.</string>
