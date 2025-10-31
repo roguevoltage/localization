@@ -779,10 +779,7 @@
 		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
 <set id="description-skill-walrus">
-        <string lang="en">Deals $1damage$ and $grav+1$ to all enemies.$p$Applies $grav-1$ to an ally.</string>
-</set>
-<set id="description-skill-walrustusk">
-        <string lang="en">Constructs one $b$Ice Shards$/b$ module with $cracked$ on an enemy rack.</string>
+        <string lang="en">Deals $2damage$ to all enemies.$p$Constructs an $b$Ice Shards$/b$ module with $cracked$ on each of their racks.</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
@@ -1567,9 +1564,6 @@
 		<string lang="uk">Удар Бурі $VALUE$</string>
 </set>
 <set id="name-skill-walrus">
-		<string lang="en">Blubber $grav+icon$$grav-icon$</string>
-</set>
-<set id="name-skill-walrustusk">
 		<string lang="en">Icy Tusk</string>
 </set>
 <set id="skill-attack">

@@ -770,18 +770,18 @@
 		<string lang="uk">Накладає $stasis$ на вказаного учасникиа бою.$p$Може перевернути плин часу.</string>
 </set>
 <set id="description-skill-wolf">
-		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-2$ zu.</string>
-		<string lang="en">Deals $1damage$ and applies $grav-2$ to itself.</string>
-		<string lang="fr">Inflige $1damage$ et s'inflige $grav-2$.</string>
-		<string lang="zh">造成$1damage$，并对自身施加$grav-2$。</string>
-		<string lang="jp">$1damage$、自身に$grav-2$付与。</string>
-		<string lang="ru">Наносит врагу $1damage$ и накладывает на себя $grav-2$.</string>
-		<string lang="es">Inflige $1damage$ e inflige a sí mismo con $grav-2$.</string>
-		<string lang="kr">$1damage$를 주고 자신에게 $grav-2$를 부여합니다.</string>
-		<string lang="pt-br">Causa $1damage$ e inflige a si mesmo com $grav-2$.</string>
-		<string lang="zh-tw">造成$1damage$，並對自身施加$grav-2$。
+		<string lang="de">Fügt einem Gegner $1damage$ und sich selbst $grav-1$ zu.</string>
+		<string lang="en">Deals $1damage$ and applies $grav-1$ to itself.</string>
+		<string lang="fr">Inflige $1damage$ et s'inflige $grav-1$.</string>
+		<string lang="zh">造成$1damage$，并对自身施加$grav-1$。</string>
+		<string lang="jp">$1damage$、自身に$grav-1$付与。</string>
+		<string lang="ru">Наносит врагу $1damage$ и накладывает на себя $grav-1$.</string>
+		<string lang="es">Inflige $1damage$ e inflige a sí mismo con $grav-1$.</string>
+		<string lang="kr">$1damage$를 주고 자신에게 $grav-1$를 부여합니다.</string>
+		<string lang="pt-br">Causa $1damage$ e inflige a si mesmo com $grav-1$.</string>
+		<string lang="zh-tw">造成$1damage$，並對自身施加$grav-1$。
 </string>
-		<string lang="uk">Наносить $1damage$ і накладає на себе $grav-2$.</string>
+		<string lang="uk">Наносить $1damage$ і накладає на себе $grav-1$.</string>
 </set>
 <set id="description-skill-volcanoeruption">
 		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.</string>
@@ -1425,11 +1425,20 @@
 </string>
 		<string lang="uk">Детекція знищення $mighticon$</string>
 </set>
+<set id="name-skill-aurora">
+        <string lang="de">Magnetisches Einatmen $grav+icon$</string>
+		<string lang="en">Magnetic Inhale $grav-icon$</string>
+</set>
+<set id="description-skill-aurora">
+        <string lang="de">Fügt allen Verbündeten $grav-1$ zu.</string>
+		<string lang="en">Apply $grav-$$br$to all allies.</string>
+</set>
 <set id="name-skill-passive-onstatusremoval-gravaoe">
-		<string lang="en">Icy Breeze$grav+icon$</string>
+        <string lang="de">Magnetisches Ausatmen $blizzardicon$$grav+icon$</string>
+		<string lang="en">Magnetic Exhale $blizzardicon$$grav+icon$</string>
 </set>
 <set id="name-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Icy Burst</string>
+		<string lang="en">Icy Burst $blizzardicon$</string>
 </set>
 <set id="name-skill-passive-powerraiseonallydeath">
 		<string lang="de">Seelen-Detektion $mighticon$</string>
@@ -1628,18 +1637,18 @@
 		<string lang="uk">Тупіт</string>
 </set>
 <set id="name-skill-wolf">
-		<string lang="de">Flinker Angriff</string>
-		<string lang="en">Swift Strike</string>
-		<string lang="fr">Frappe Rapide</string>
-		<string lang="zh">迅捷打击</string>
-		<string lang="jp">加速撃</string>
-		<string lang="ru">Быстрый Удар</string>
-		<string lang="es">Golpe Veloz</string>
-		<string lang="kr">재빠른 습격</string>
-		<string lang="pt-br">Golpe Veloz</string>
-		<string lang="zh-tw">迅捷打擊
+		<string lang="de">Flinker Angriff $grav-icon$</string>
+		<string lang="en">Swift Strike $grav-icon$</string>
+		<string lang="fr">Frappe Rapide $grav-icon$</string>
+		<string lang="zh">迅捷打击 $grav-icon$</string>
+		<string lang="jp">加速撃 $grav-icon$</string>
+		<string lang="ru">Быстрый Удар $grav-icon$</string>
+		<string lang="es">Golpe Veloz $grav-icon$</string>
+		<string lang="kr">재빠른 습격 $grav-icon$</string>
+		<string lang="pt-br">Golpe Veloz $grav-icon$</string>
+		<string lang="zh-tw">迅捷打擊 $grav-icon$
 </string>
-		<string lang="uk">Швидкий удар</string>
+		<string lang="uk">Швидкий удар $grav-icon$</string>
 </set>
 <set id="name-skill-mammoth">
 		<string lang="de">Trampeln</string>
