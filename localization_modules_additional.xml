@@ -1253,6 +1253,19 @@
         <string lang="zh-tw">在此模架上選擇一個模組，施加$outoforder$。$p$為另一個$passthroughmodule$施加$turbo$。</string>
         <string lang="uk">Застосовує $outoforder$ до цільового модуля на цій стійці.$p$Застосовує $turbo$ до іншого цільового $passthroughmodule$ на цій стійці.</string>
 </set>
+<set id="description-module-toggledupgradergenerator">
+        <string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade$.</string>
+		<string lang="en">Applies $upgrade$ to target $generator$ or $aggregate$ module on this rack.</string>
+        <string lang="fr">Applique $upgrade$ à un module de type $generator$ ou $aggregate$ ciblé sur ce rack.</string>
+        <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$。</string>
+        <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$付与。</string>
+        <string lang="ru">Применяет $upgrade$ к целевому модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
+        <string lang="es">Aplica $upgrade$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 모듈에게 $upgrade$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
+        <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$。</string>
+        <string lang="uk">Застосовує $upgrade$ до цільового модуля типу $generator$ або $aggregate$ на цій стійці.</string>
+</set>
 <set id="description-module-toggledupgradergenerator-berserk">
         <string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade-berserk$.</string>
 		<string lang="en">Applies $upgrade-berserk$ to target module of type $generator$ or $aggregate$ on this rack.</string>
@@ -2606,6 +2619,19 @@
         <string lang="pt-br">Aprimorador de Fonte:</string>
         <string lang="zh-tw">能源源升級器</string>
         <string lang="uk">Покращувач Джерела Енергії</string>
+</set>
+<set id="name-module-toggledupgradergenerator">
+        <string lang="de">Energiequellen-Upgrader</string>
+		<string lang="en">Energy Source Upgrader</string>
+        <string lang="fr">Améliorateur de Source</string>
+        <string lang="zh">能源源升级器</string>
+        <string lang="jp">発電機改良器</string>
+        <string lang="ru">Улучшитель Источника</string>
+        <string lang="es">Mejorador de Fuente</string>
+        <string lang="kr">에너지 원천 개량기</string>
+        <string lang="pt-br">Aprimorador de Fonte</string>
+        <string lang="zh-tw">發生器升級器</string>
+        <string lang="uk">Покращувач Джерела</string>
 </set>
 <set id="name-module-toggledupgradergenerator-berserk">
         <string lang="de">Energiequellen-Upgrader: Berserk</string>
