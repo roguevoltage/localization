@@ -64,6 +64,19 @@
         <string lang="zh-tw">$fire$時無法移動</string>
         <string lang="uk">Заблоковано на стійці під час $fireicon$$b$Пожежі$/b$</string>
 </set>
+<set id="description-status-modulelock-ice">
+		<string lang="de">Ans Rack geschlossen, während es $icecrust$ hat</string>
+		<string lang="en">Locked to rack while on $icecrust$</string>
+		<string lang="fr">Verrouillé au rack en étant en $icecrust$</string>
+		<string lang="zh">$icecrust$时无法移动</string>
+        <string lang="jp">$icecrust$中はラックに固定</string>
+        <string lang="ru">Закрыт на стойке$br$пока горит $icecrust$</string>
+        <string lang="es">Bloqueado en el bastidor$br$mientras está en $icecrust$</string>
+        <string lang="kr">$icecrust$ 상태일 때 랙에 고정됨</string>
+        <string lang="pt-br">Travado no rack enquanto em $icecrust$</string>
+        <string lang="zh-tw">$icecrust$時無法移動</string>
+        <string lang="uk">Заблоковано на стійці під час $icecrusticon$$b$Льоду$/b$</string>
+</set>
 <set id="description-status-modulelock-pollution">
 		<string lang="de">Ans Rack geschlossen, während es $pollution$ hat</string>
 		<string lang="en">Locked to rack while it has $pollution$</string>
