@@ -494,7 +494,7 @@
 		<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
-<set id="description-module-generatorcrust">
+<set id="description-module-generator-crust">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $crust$.</string>
         <string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts another target module on this rack with $crust$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Inflige un autre module ciblé sur ce rack avec $crust$.</string>
@@ -1762,7 +1762,7 @@
 </string>
 		<string lang="uk">Генератор</string>
 </set>
-<set id="name-module-generatorcrust">
+<set id="name-module-generator-crust">
 	<string lang="de">Krusten-Generator</string>
 	<string lang="en">Crust Generator</string>
 	<string lang="fr">Générateur de Croute</string>
