@@ -558,7 +558,7 @@
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上製造一個$cracked$的$b$碎片$/b$模組，並施加$fire$。</string>
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $fire$.</string>
 </set>
-<set id="description-module-aggregate-outoforder">
+<set id="description-module-generator-outoforder">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $outoforder$ to another target module on this rack.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $outoforder$ à un autre module ciblé sur ce rack.</string>
@@ -1929,18 +1929,18 @@
         <string lang="zh-tw">火焰發電機</string>
         <string lang="uk">Пірогенератор</string>
 </set>
-<set id="name-module-aggregate-outoforder">
-		<string lang="de">Notstrom-Aggregat</string>
-		<string lang="en">Emergency Aggregate</string>
-		<string lang="fr">Agrégat de Secours</string>
-        <string lang="zh">应急聚合体</string>
-        <string lang="jp">非常用集合体</string>
-        <string lang="ru">Агрегат Чрезвычайной Ситуации</string>
-        <string lang="es">Agregado de Emergencia</string>
-        <string lang="kr">비상 집합체</string>
-        <string lang="pt-br">Agregado de Emergência</string>
-        <string lang="zh-tw">應急聚合體</string>
-        <string lang="uk">Агрегат Надзвичайної Ситуації</string>
+<set id="name-module-generator-outoforder">
+		<string lang="de">Notstrom-Generator</string>
+		<string lang="en">Emergency Generator</string>
+		<string lang="fr">Générateur de Secours</string>
+        <string lang="zh">应急发电机</string>
+        <string lang="jp">非常用発電機</string>
+        <string lang="ru">Генератор Чрезвычайной Ситуации</string>
+        <string lang="es">Generador de Emergencia</string>
+        <string lang="kr">비상 발전기</string>
+        <string lang="pt-br">Gerador de Emergência</string>
+        <string lang="zh-tw">應急發電機</string>
+        <string lang="uk">Генератор Надзвичайної Ситуації</string>
 </set>
 <set id="name-module-generator-pollution">
 		<string lang="de">Verschmutzender Generator</string>
