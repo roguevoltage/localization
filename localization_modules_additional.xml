@@ -571,7 +571,7 @@
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$outoforder$。</string>
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
 </set>
-<set id="description-module-aggregate-pollution">
+<set id="description-module-generator-pollution">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $pollution$ bis zum Ende des Kampfes.</string>                     
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $pollution$ to another target module on this rack until end of combat.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $pollution$ à un autre module ciblé sur ce rack jusqu'à la fin du combat.</string>
@@ -1942,18 +1942,18 @@
         <string lang="zh-tw">應急聚合體</string>
         <string lang="uk">Агрегат Надзвичайної Ситуації</string>
 </set>
-<set id="name-module-aggregate-pollution">
-		<string lang="de">Verschmutzendes Aggregat</string>
-		<string lang="en">Polluting Aggregate</string>
-		<string lang="fr">Agrégat Polluant</string>
-        <string lang="zh">污染聚合体</string>
-        <string lang="jp">汚染集合体</string>
-        <string lang="ru">Загрязняющий Агрегат</string>
-        <string lang="es">Agregado Contaminante</string>
-        <string lang="kr">오염 집합체</string>
-        <string lang="pt-br">Agregado Poluente</string>
-        <string lang="zh-tw">污染聚合體</string>
-        <string lang="uk">Забруднюючий Агрегат</string>
+<set id="name-module-generator-pollution">
+		<string lang="de">Verschmutzender Generator</string>
+		<string lang="en">Polluting Generator</string>
+		<string lang="fr">Générateur Polluant</string>
+        <string lang="zh">污染发电机</string>
+        <string lang="jp">汚染発電機</string>
+        <string lang="ru">Загрязняющий Генератор</string>
+        <string lang="es">Generador Contaminante</string>
+        <string lang="kr">오염 발전기</string>
+        <string lang="pt-br">Gerador Poluente</string>
+        <string lang="zh-tw">污染發電機</string>
+        <string lang="uk">Забруднюючий Генератор</string>
 </set>
 <set id="name-module-generatoroutoforder">
 		<string lang="de">Ausbeutungs-Generator</string>
