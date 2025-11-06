@@ -545,7 +545,7 @@
 	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在隨機角色的模架上，產生一個$unstable$的$b$定時炸彈$/b$。</string>
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
 </set>
-<set id="description-module-aggregate-fire">
+<set id="description-module-generator-fire">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Konstruiert ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters und versieht es mit $fire$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Debris$/b$ module with $cracked$ on the other character's rack and inflict it with $fire$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit un module $b$Débris$/b$ avec $cracked$ sur le rack de l'autre personnage et lui inflige $fire$.</string>
@@ -1916,18 +1916,18 @@
 	<string lang="zh-tw">爆炸發電機</string>
 	<string lang="uk">Вибуховий генератор</string>
 </set>
-<set id="name-module-aggregate-fire">
-		<string lang="de">Pyro-Aggregat</string>
-		<string lang="en">Pyro Aggregate</string>
-		<string lang="fr">Agrégat Pyro</string>
-        <string lang="zh">火焰聚合体</string>
-        <string lang="jp">火炎集合体</string>
-        <string lang="ru">Пиро-Агрегат</string>
-        <string lang="es">Agregado Piro</string>
-        <string lang="kr">화염 집합체</string>
-        <string lang="pt-br">Agregado Piro</string>
-        <string lang="zh-tw">火焰聚合體</string>
-        <string lang="uk">Піро-Агрегат</string>
+<set id="name-module-generator-fire">
+		<string lang="de">Pyro-Generator</string>
+		<string lang="en">Pyro Generator</string>
+		<string lang="fr">Générateur Pyro</string>
+        <string lang="zh">火焰发电机</string>
+        <string lang="jp">パイロ発電機</string>
+        <string lang="ru">Пиро Генератор</string>
+        <string lang="es">Generador Piro</string>
+        <string lang="kr">파이로 발전기</string>
+        <string lang="pt-br">Gerador Piro</string>
+        <string lang="zh-tw">火焰發電機</string>
+        <string lang="uk">Пірогенератор</string>
 </set>
 <set id="name-module-aggregate-outoforder">
 		<string lang="de">Notstrom-Aggregat</string>
