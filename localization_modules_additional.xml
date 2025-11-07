@@ -546,7 +546,7 @@
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
 </set>
 <set id="description-module-generator-fire">
-		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Konstruiert ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters und versieht es mit $fire$.</string>
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters her und versieht es mit $fire$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Debris$/b$ module with $cracked$ on the other character's rack and inflict it with $fire$.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit un module $b$Débris$/b$ avec $cracked$ sur le rack de l'autre personnage et lui inflige $fire$.</string>
         <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上制造一个$cracked$的$b$碎片$/b$模块，并施加$fire$。</string>
@@ -562,13 +562,13 @@
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $outoforder$ to another target module on this rack.</string>
         <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $outoforder$ à un autre module ciblé sur ce rack.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$outoforder$。</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$br$$outoforder$。</string>
         <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$outoforder$付与。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $outoforder$ к другому целевому модулю на этой стойке.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $outoforder$ a otro módulo objetivo en este bastidor.</string>
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $outoforder$를 적용합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $outoforder$ a outro módulo alvo neste rack.</string>
-        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$outoforder$。</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$br$$outoforder$。</string>
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
 </set>
 <set id="description-module-generator-pollution">
@@ -1033,26 +1033,26 @@
 		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $grease$.</string>
 		<string lang="en">Applies $grease$ to target module on this rack.</string>
         <string lang="fr">Applique $grease$ au module ciblé sur ce rack.</string>
-        <string lang="zh">在此模架上的目标模块上施加$grease$。</string>
+        <string lang="zh">在此模架上的目标模块上施加$br$$grease$。</string>
         <string lang="jp">このラック上の対象モジュールに$grease$を適用。</string>
         <string lang="ru">Применяет $grease$ к целевому модулю на этом стеллаже.</string>
         <string lang="es">Aplica $grease$ al módulo objetivo en este bastidor.</string>
         <string lang="kr">이 랙의 대상 모듈에 $grease$를 적용합니다.</string>
         <string lang="pt-br">Aplica $grease$ ao módulo alvo neste rack.</string>
-        <string lang="zh-tw">在此模架上的目標模組上施加$grease$。</string>
+        <string lang="zh-tw">在此模架上的目標模組上施加$br$$grease$。</string>
         <string lang="uk">Застосовує $grease$ до вказаного модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggledstoragecharger">
 		<string lang="de">Lädt ein $storagemodule$ deiner Wahl auf diesem Rack um $1energy$.</string>
 		<string lang="en">Charges target $storagemodule$ on this rack with $1energy$.</string>
         <string lang="fr">Charge $storagemodule$ ciblé sur ce rack avec $1energy$.</string>
-        <string lang="zh">在此模架上为目标$storagemodule$充能$1energy$。</string>
+        <string lang="zh">在此模架上为目标$storagemodule$充能$br$$1energy$。</string>
         <string lang="jp">このラック上の対象$storagemodule$を$1energy$で充電。</string>
         <string lang="ru">Заряжает целевой $storagemodule$ на этом стеллаже на $1energy$.</string>
         <string lang="es">Carga el $storagemodule$ objetivo en este bastidor con $1energy$.</string>
         <string lang="kr">이 랙의 대상 $storagemodule$에 $1energy$를 충전합니다.</string>
         <string lang="pt-br">Carrega o $storagemodule$ alvo neste rack com $1energy$.</string>
-        <string lang="zh-tw">在此模架上為目標$storagemodule$充能$1energy$。</string>
+        <string lang="zh-tw">在此模架上為目標$storagemodule$充能$br$$1energy$。</string>
         <string lang="uk">Заряджає вказаний $storagemodule$ на цій стійці на $1energy$.</string>
 </set>
 <set id="description-module-toggleddisassembler">
@@ -1352,13 +1352,13 @@
 	<string lang="de">Kann aufgeladen werden.$p$Sobald der Charakter $grav+4$ oder mehr hat, dann entferne alle $grav+short$, entferne alle gespeicherte $energy$ von diesem Modul, um ihr/ihm so viel $grav-short$ zuzufügen.</string>
 	<string lang="en">Can be charged.$p$As soon as the owner has $grav+4$ or more, remove all $grav+short$ from them, then remove all stored $energy$ from this module to apply that much $grav-short$ to them.</string>
 	<string lang="fr">Peut être chargé.$p$Dès que le personnage a $grav+4$ ou plus, retirez tout $grav+short$ de lui, puis retirez toute l'$energy$ stockée de ce module pour lui appliquer autant de $grav-short$.</string>
-	<string lang="zh">可充能。$p$当拥有者的$grav+4$或更高时，移除所有$grav+short$，然后从此模块中移除所有储存的$energy$，以施加相同数量的$grav-short$。</string>
+	<string lang="zh">可充能。$p$当拥有者的$grav+4$或更高时，$br$移除所有$grav+short$，然后从此模块中移除所有储存的$energy$，以施加相同数量的$grav-short$。</string>
 	<string lang="jp">充電可能。$p$所有者の$grav+4$以上の場合、$grav+short$全て除去、$br$このモジュールから貯蔵された$energy$全て除去し、同じ量の$grav-short$を付与。</string>
 	<string lang="ru">Может быть заряжен.$p$Как только у владельца $grav+4$ или больше, удалите все $grav+short$ с него, затем удалите всю сохраненную $energy$ из этого модуля, чтобы применить столько же $grav-short$ к нему.</string>
 	<string lang="es">Puede cargarse.$p$Tan pronto como el propietario tenga $grav+4$ o más, elimina todo $grav+short$ de él, luego elimina toda la $energy$ almacenada de este módulo para aplicar tanto $grav-short$ a él.</string>
 	<string lang="kr">충전할 수 있습니다.$p$소유자가 $grav+4$ 이상일 때, $grav+short$을 모두 제거하고, 이 모듈에서 저장된 $energy$를 모두 제거하여 같은 양의 $grav-short$을 부여합니다.</string>
 	<string lang="pt-br">Pode ser carregado.$p$Assim que o proprietário tiver $grav+4$ ou mais, remova todo o $grav+short$ dele, depois remova toda a $energy$ armazenada deste módulo para aplicar tanto $grav-short$ a ele.</string>
-	<string lang="zh-tw">可充能。$p$當擁有者的$grav+4$或更高時，移除所有$grav+short$，然後從此模組中移除所有儲存的$energy$，以施加相同數量的$grav-short$。</string>
+	<string lang="zh-tw">可充能。$p$當擁有者的$grav+4$或更高時，$br$移除所有$grav+short$，然後從此模組中移除所有儲存的$energy$，以施加相同數量的$grav-short$。</string>
 	<string lang="uk">CМожна заряджати.$p$Коли на власнику $grav+4$ і більше, прибирає увесь $grav+short$,$br$а потім витрачає усю збережену $energyicon$$b$Енергію$/b$ і накладає на нього $grav-short$ такої ж сили.</string>
 </set>
 <set id="description-module-vaultdamage">

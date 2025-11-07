@@ -215,13 +215,13 @@
         <string lang="de">Leitet die Hälfte der $energy$ an die linke Output-Buchse (aufgerundet).$p$Leitet die andere Hälfte an die rechten Output-Buchse (abgerundet).</string>
 		<string lang="en">Transmits half of the $energy$ to the left output jack (rounded up).$p$Transmits the other half to the right output jack (rounded down).</string>
         <string lang="fr">Transmet la moitié de l'$energy$ à la prise de sortie gauche (arrondi vers le haut).$p$Transmet l'autre moitié à la prise de sortie droite (arrondi vers le bas).</string>
-        <string lang="zh">将一半的$energy$传输到左侧输出插孔（向上取整）。$p$将另一半传输到右侧输出插孔（向下取整）。</string>
+        <string lang="zh">将一半的$energy$传输到左侧输出插孔（向上取整）。$p$将另一半传输到右侧输出插孔$br$（向下取整）。</string>
         <string lang="jp">$energy$の半分を左側の出力ジャックに送信します（切り上げ）。$p$残りの半分は右側の出力ジャックに送信します（切り捨て）。</string>
         <string lang="ru">Передает половину $energy$ в левый выходной разъем (округлено вверх).$p$Передает другую половину в правый выходной разъем (округлено вниз).</string>
         <string lang="es">Transmite la mitad de la $energy$ a la toma de salida izquierda (redondeado hacia arriba).$p$Transmite la otra mitad a la toma de salida derecha (redondeado hacia abajo).</string>
         <string lang="kr">$energy$의 절반을 왼쪽 출력 잭(올림)으로 전송합니다.$p$나머지 절반은 오른쪽 출력 잭(내림)으로 전송합니다.</string>
         <string lang="pt-br">Transmite metade da $energy$ para a tomada de saída esquerda (arredondado para cima).$p$Transmite a outra metade para a tomada de saída direita (arredondado para baixo).</string>
-        <string lang="zh-tw">將一半的$energy$傳輸到左側輸出插孔（向上取整）。$p$將另一半傳輸到右側輸出插孔（向下取整）。</string>
+        <string lang="zh-tw">將一半的$energy$傳輸到左側輸出插孔（向上取整）。$p$將另一半傳輸到右側輸出插孔$br$（向下取整）。</string>
         <string lang="uk">Передає половину $energyicon$$b$Енергії$/b$ в лівий вихідний роз'єм (округлено вгору).$p$Передає іншу половину в правий вихідний роз'єм (округлено вниз).</string>
 </set>
 <set id="description-module-effectoraccelerator">
@@ -296,13 +296,13 @@
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem zufälligen Gegner $grav+1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to a random enemy].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un ennemi aléatoire].</string>
-		<string lang="zh">模块每拥有一点$energy$$br$，$br$就对任意一名敌人施放$grav+1$。</string>
+		<string lang="zh">模块每拥有一点$energy$，$br$就对任意一名敌人施放$grav+1$。</string>
 		<string lang="jp">モジュールの$energy$の分だけ$br$ランダムな敵に$grav+1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит $grav+1$ случайному врагу].</string>
 		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $grav+1$ a un enemigo aleatorio].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[무작위 적에게 $grav+1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um inimigo aleatório com $grav+1$].</string>
-		<string lang="zh-tw">模組每擁有一點$energy$$br$，$br$就對任意一名敵人施放$grav+1$。
+		<string lang="zh-tw">模組每擁有一點$energy$，$br$就對任意一名敵人施放$grav+1$。
 </string>
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ в цьому модулі:$br$[Нанести випадковому ворогу $br$ $grav+1$].</string>
 </set>
@@ -550,13 +550,13 @@
 		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht das angeschlossene Modul mit $overload$ bis zum Ende des Zuges.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.$p$Inflicts the module wired to it with $overload$ until end of turn.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige le module câblé avec $overload$ jusqu'à la fin du tour.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为连接的模块施加$overload$直到回合结束。</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为连接的模块施加$br$$overload$直到回合结束。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。$p$接続されたモジュールに$overload$を付与し、ターン終了まで。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Налагает на модуль, проведенный к нему, $overload$ до конца хода.</string>
         <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Inflige al módulo conectado con $overload$ hasta el final del turno.</string>
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$연결된 모듈에 $overload$를 부여하여 턴 종료까지 지속됩니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Inflige o módulo conectado com $overload$ até o final do turno.</string>
-        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為連接的模組施加$overload$直到回合結束。</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為連接的模組施加$br$$overload$直到回合結束。</string>
         <string lang="uk">Генерує $b$$GENERATIONVALUE$$/b$ $energy$ під час активації.$p$Накладає на модуль, підключений до нього, $overload$ до кінця ходу.</string>
 </set>
 <set id="description-module-magnetgravpos">
@@ -641,13 +641,13 @@
 		<string lang="de">Führt $amplification$ nur durch, wenn direkt an ein $sensor$-Modul gekabelt.</string>
 		<string lang="en">Performs $amplification$ only if wired directly to a $sensor$ module.</string>
 		<string lang="fr">Ajoute $b$$MODIFICATIONVALUE$$/b$ $energy$ au courant si câblé directement à un module $sensor$.</string>
-		<string lang="zh">若该能量流流经$sensor$模块，则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="zh">若该能量流流经$sensor$模块，$br$则为能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="jp">$sensor$モジュールから配線されているなら、$b$$MODIFICATIONVALUE$$/b$$energy$加算。</string>
 		<string lang="ru">Добавляет $b$$MODIFICATIONVALUE$$/b$ $energy$ к току, если проводить после $b$Модуля Датчика$/b$.</string>
 		<string lang="es">Añade $b$$MODIFICATIONVALUE$$/b$ $energy$ a la corriente si está conectado después de un $b$Módulo Sensor$/b$.</string>
 		<string lang="kr">$sensor$ 모듈 뒤에 연결되어 있다면, 전류에 $b$$MODIFICATIONVALUE$$/b$ $energy$를 추가합니다.</string>
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
-		<string lang="zh-tw">若該能量流流經$sensor$模組，則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
+		<string lang="zh-tw">若該能量流流經$sensor$模組，$br$則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
 </set>
 <set id="description-module-modifierdecelerating">
@@ -719,13 +719,13 @@
 		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Applique $1healing$ au propriétaire au début de chaque combat.</string>
-		<string lang="zh">每场战斗开始时对拥有者施加$1$点$healing$。</string>
+		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
 		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
 		<string lang="ru">Применяет $1healing$ к владельцу в начале каждого боя.</string>
 		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada batalla.</string>
 		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada batalha.</string>
-		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$1$點$healing$。</string>
+		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$br$$1$點$healing$。</string>
 		<string lang="uk">На початку кожного бою застосовує $1healing$ до власника.</string>
 </set>
 <set id="description-module-modifierenergyduplicator">
@@ -941,13 +941,13 @@
         <string lang="de">Entfernt $fire$, $icecrust$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
 		<string lang="en">Removes $fire$, $icecrust$, $crust$ and temporary instances of $gravrecoil$ and $pollution$ from target module on this rack.</string>
         <string lang="fr">Retire $fire$, $icecrust$, $crust$ et effets temporaires de $gravrecoil$ et $pollution$ d'un module ciblé sur ce rack.</string>
-        <string lang="zh">从此模架上的目标模块中移除$fire$、$icecrust$、$crust$和临时的$gravrecoil$和$pollution$。</string>
+        <string lang="zh">从此模架上的目标模块中移除$br$$fire$、$icecrust$、$crust$和临时的$gravrecoil$和$pollution$。</string>
         <string lang="jp">このラックの対象モジュールから$fire$、$icecrust$、$crust$、$gravrecoil$、$pollution$の一時効果を除去。</string>
         <string lang="ru">Удаляет $fire$, $icecrust$, $crust$ и временные эффекты $gravrecoil$ и $pollution$ с целевого модуля на этой стойке.</string>
         <string lang="es">Elimina $fire$, $icecrust$, $crust$ y efectos temporales de $gravrecoil$ y $pollution$ de un módulo objetivo en este bastidor.</string>
         <string lang="pt-br">Remove $fire$, $icecrust$, $crust$ e instâncias temporárias de $gravrecoil$ e $pollution$ de um módulo alvo neste rack.</string>
         <string lang="kr">이 랙의 대상 모듈에서 $fire$, $icecrust$, $crust$ 및 $gravrecoil$ 및 $pollution$의 일시적인 상태를 제거합니다.</string>
-        <string lang="zh-tw">從此模架上的目標模組中移除$fire$、$icecrust$、$crust$和臨時的$gravrecoil$和$pollution$。</string>
+        <string lang="zh-tw">從此模架上的目標模組中移除$br$$fire$、$icecrust$、$crust$和臨時的$gravrecoil$和$pollution$。</string>
         <string lang="uk">Видаляє $fire$, $icecrust$, $crust$ та тимчасові ефекти $gravrecoil$ та $pollution$ з цільового модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
@@ -965,7 +965,7 @@
 </set>
 <set id="description-module-toggledgravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
-		<string lang="en">Removes all $grav$ from all combatants.</string>
+		<string lang="en">Removes all $grav$$br$from all combatants.</string>
 		<string lang="fr">Supprime toute $grav$ de tous les combattants.</string>
 		<string lang="zh">移除所有参战单位的$grav$。</string>
 		<string lang="jp">敵味方全体から全$grav$除去。</string>
@@ -978,7 +978,7 @@
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
-		<string lang="en">Removes all $grav$ from all combatants.</string>
+		<string lang="en">Removes all $grav$$br$from all combatants.</string>
 		<string lang="fr">Supprime toute $grav$ de tous les combattants.</string>
 		<string lang="zh">移除所有参战单位的$grav$。</string>
 		<string lang="jp">敵味方全体から全$grav$除去。</string>
@@ -1240,26 +1240,26 @@
 		<string lang="de">Kann aufgeladen werden.$p$Zu Beginn des Zuges, entferne$br$$1$ gespeicherte $energy$, um$br$$1healing$ auf den Charakter mit den geringsten HP anzuwenden.$p$&lt;size=11&gt;(Heilt bei Gleichstand den Besitzer.)&lt;/size&gt;</string>
 		<string lang="en">Can be charged.$p$At the beginning of turn,$br$remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
-		<string lang="zh">可充能。$p$拥有者回合开始时，消耗$1$储存$energy$，让血量最低的角色获得$1healing$。$p$&lt;size=11&gt;(被控制时治疗自身)&lt;/size&gt;</string>
+		<string lang="zh">可充能。$p$拥有者回合开始时，$br$消耗$1$储存$energy$，$br$让血量最低的角色获得$1healing$。$p$&lt;size=11&gt;(被控制时治疗自身)&lt;/size&gt;</string>
 		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$最もHPが低いプレイヤーキャラを$1$$healing$。$p$&lt;size=11&gt;（等しいなら所有者を回復）&lt;/size&gt;</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ к персонажу с наименьшим HP.$p$&lt;size=11&gt;(Лечит владельца при ничьей.)&lt;/size&gt;</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno, retira $1$ energía almacenada para aplicar $1healing$ al personaje con menos HP.$p$&lt;size=11&gt;(Cura al propietario en caso de empate.)&lt;/size&gt;</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 소비하여 HP가 가장 낮은 캐릭터에게 $1$ $healing$을 적용합니다.$p$&lt;size=11&gt;(무승부일 경우 소유자를 치료합니다.)&lt;/size&gt;</string>
 		<string lang="pt-br">Pode ser carregado.$p$No início do turno, remova $1$ energia armazenada para aplicar $1healing$ ao personagem com menos HP.$p$&lt;size=11&gt;(Cura o dono em caso de empate.)&lt;/size&gt;</string>
-		<string lang="zh-tw">可充能。$p$擁有者回合開始時，消耗$1$儲存$energy$，讓血量最低的角色獲得$1healing$。$p$&lt;size=11&gt;(被控制時治療自身)&lt;/size&gt;</string>
+		<string lang="zh-tw">可充能。$p$擁有者回合開始時，$br$消耗$1$儲存$energy$，$br$讓血量最低的角色獲得$1healing$。$p$&lt;size=11&gt;(被控制時治療自身)&lt;/size&gt;</string>
 		<string lang="uk">Можна заряджати.$p$На початку ходу власника витрачає $1$ збережену одиницю $energyicon$$b$Енергії$/b$ на застосовування $1healing$ до персонажа з найменшою кількістю здоровʼя.$p$&lt;size=11&gt;(При однаковому рівні лікує власника.)&lt;/size&gt;</string>
 </set>
 <set id="description-module-vaultshield">
 		<string lang="de">Kann aufgeladen werden.$p$Immer wenn der Charakter $damage$ nimmt, entferne $1$ gespeicherte $energy$ um diesen Schaden um $1$ zu verringern.</string>
 		<string lang="en">Can be charged.$p$Whenever the owner takes $damage$, remove $1$ stored $energy$ to reduce that damage by $1$.</string>
 		<string lang="fr">Peut être chargé.$p$Chaque fois que le propriétaire reçoit $damage$, retirez $1$ énergie stockée pour réduire ces dégâts de $1$.</string>
-		<string lang="zh">可充能。$p$拥有者受到$damage$时，消耗$1$储存$energy$，减少拥有者$1$所受伤害。</string>
+		<string lang="zh">可充能。$p$拥有者受到$damage$时，$br$消耗$1$储存$energy$，$br$减少拥有者$1$所受伤害。</string>
 		<string lang="jp">充電可能。$p$所有者が$damage$を受けた時、$br$貯蔵$energy$から$1$消費し、$br$ダメージを$1$軽減。</string>
 		<string lang="ru">Может быть заряжен.$p$Каждый раз, когда владелец получает $damage$, удаляет $1$ сохраненную $energy$ чтобы уменьшить этот урон на $1$.</string>
 		<string lang="es">Puede cargarse.$p$Cada vez que el propietario recibe $damage$, retira $1$ energía almacenada para reducir ese daño en $1$.</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자가 $damage$를 입을 때마다, 저장된 $energy$를 $1$ 제거해 피해량을 $1$ 감소시킵니다.</string>
 		<string lang="pt-br">Pode ser carregado.$p$Sempre que o dono receber $damage$, remova $1$ energia armazenada para reduzir esse dano em $1$.</string>
-		<string lang="zh-tw">可充能。$p$擁有者受到$damage$時，消耗$1$儲存$energy$，減少擁有者$1$所受傷害。</string>
+		<string lang="zh-tw">可充能。$p$擁有者受到$damage$時，$br$消耗$1$儲存$energy$，$br$減少擁有者$1$所受傷害。</string>
 		<string lang="uk">Можна заряджати.$p$Коли власник отримує $damage$, витрачає $1$ збережену $energyicon$$b$Енергію$/b$ і зменшує це пошкодження на $1$.</string>
 </set>
 <set id="name-module-accumulator">

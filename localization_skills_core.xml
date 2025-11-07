@@ -378,13 +378,13 @@
     <string lang="de">Für jeden Punkt $might$ auf diesem Monster:$br$[Fügt einem Gegner $grav+1$ zu.]</string>
     <string lang="en">For every point of $might$ on this monster:$br$[Apply $grav+1$ to an enemy.]</string>
     <string lang="fr">Pour chaque point de $might$ sur ce monstre:$br$[Applique $grav+1$ à un ennemi.]</string>
-    <string lang="zh">对于该怪物身上的每一点$might$：$br$[对一名敌人施放$grav+1$。]</string>
+    <string lang="zh">对于该怪物身上的每一点$might$：$br$对一名敌人施放$grav+1$。</string>
     <string lang="jp">このモンスターの$might$1点ごとに：$br$[敵1体に$grav+1$付与。]</string>
     <string lang="ru">За каждую единицу $might$ на этом монстре:$br$[Накладывает $grav+1$ на врага.]</string>
     <string lang="es">Por cada punto de $might$ en este monstruo:$br$[Aplica $grav+1$ a un enemigo.]</string>
     <string lang="kr">이 몬스터의 $might$ 1점마다:$br$[적에게 $grav+1$를 부여합니다.]</string>
     <string lang="pt-br">Para cada ponto de $might$ neste monstro:$br$[Aplica $grav+1$ a um inimigo.]</string>
-    <string lang="zh-tw">對於該怪物身上的每一點$might$：$br$[對一名敵人施放$grav+1$。]</string>
+    <string lang="zh-tw">對於該怪物身上的每一點$might$：$br$對一名敵人施放$grav+1$。</string>
     <string lang="uk">За кожен пункт $might$ на цьому монстрі:$br$[Накладає $grav+1$ на ворога.]</string>
 </set>
 <set id="description-skill-leftclaw">
@@ -1249,7 +1249,8 @@
         <string lang="de">Gefrorenes Feld $grav+icon$</string>
 		<string lang="en">Freezing Field $grav+icon$</string>
         <string lang="fr">Champ de Gel $grav+icon$</string>
-        <string lang="zh">Freezing Field $grav+icon$</string>
+        <string lang="zh">冰封领域 $grav+icon$</string>
+        <string lang="ru">Ледяное Поле $grav+icon$</string>
         <string lang="jp">フリージングフィールド $grav+icon$</string>   
         <string lang="es">Campo de Congelación $grav+icon$</string>
         <string lang="kr">프리징 필드 $grav+icon$</string>		
