@@ -194,17 +194,10 @@
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли модуль $outoforder$ або $cooldown$.</string>
 </set>
 <set id="description-module-collectormight">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die $might$ eines Kampfteilnehmers erhöht.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $might$ on a combatant is raised.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $might$ d'un combattant augmente.</string>
-		<string lang="zh">每当参战单位的$might$得到提升，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">敵味方1体の$might$が上昇するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $might$ на бойце повышается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que el $might$ de un combatiente se eleva.</string>
-		<string lang="kr">전투원이 지닌 $might$이 상승할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que o $might$ de um combatente é aumentado.</string>
-		<string lang="zh-tw">每當參戰單位的$might$得到提升，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли на учаснику бою підвищується $might$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Monster $might$ erhält.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a monster receives $might$.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un monstre reçoit $might$.</string>
+        <string lang="zh">每当怪物被施加$might$，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 </set>
 <set id="description-module-collectorshield">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn $damage$ durch $shield$ reduziert wird.</string>

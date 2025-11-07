@@ -378,13 +378,13 @@
     <string lang="de">Für jeden Punkt $might$ auf diesem Monster:$br$[Fügt einem Gegner $grav+1$ zu.]</string>
     <string lang="en">For every point of $might$ on this monster:$br$[Apply $grav+1$ to an enemy.]</string>
     <string lang="fr">Pour chaque point de $might$ sur ce monstre:$br$[Applique $grav+1$ à un ennemi.]</string>
-    <string lang="zh">对于该怪物身上的每一点$might$：$br$对一名敌人施放$grav+1$。</string>
+    <string lang="zh">对于该怪物身上的每一点$might$：对一名敌人施放$grav+1$。</string>
     <string lang="jp">このモンスターの$might$1点ごとに：$br$[敵1体に$grav+1$付与。]</string>
     <string lang="ru">За каждую единицу $might$ на этом монстре:$br$[Накладывает $grav+1$ на врага.]</string>
     <string lang="es">Por cada punto de $might$ en este monstruo:$br$[Aplica $grav+1$ a un enemigo.]</string>
     <string lang="kr">이 몬스터의 $might$ 1점마다:$br$[적에게 $grav+1$를 부여합니다.]</string>
     <string lang="pt-br">Para cada ponto de $might$ neste monstro:$br$[Aplica $grav+1$ a um inimigo.]</string>
-    <string lang="zh-tw">對於該怪物身上的每一點$might$：$br$對一名敵人施放$grav+1$。</string>
+    <string lang="zh-tw">對於該怪物身上的每一點$might$：$br$對一名敵人施放$grav+1$。]</string>
     <string lang="uk">За кожен пункт $might$ на цьому монстрі:$br$[Накладає $grav+1$ на ворога.]</string>
 </set>
 <set id="description-skill-leftclaw">
@@ -576,7 +576,7 @@
         <string lang="es">Cada vez que este monstruo entra en el $blizzard$, gana $1might$.</string>
         <string lang="kr">이 몬스터가 $blizzard$에 들어갈 때마다 $might$이 $1$ 상승합니다.</string>
         <string lang="pt-br">Sempre que este monstro entrar no $blizzard$, ele ganha $1might$.</string>
-        <string lang="zh-tw">當該怪物進入$blizzard$時，提升$1might$。</string>
+        <string lang="zh-tw">當該怪物進入$blizzard$時，$br$提升$1might$。</string>
         <string lang="uk">Коли цей монстр входить у $blizzard$, він отримує $1might$.</string>
 </set>
 <set id="description-skill-ondeath-hurtwalrusbody">
@@ -622,6 +622,8 @@
 		<string lang="uk">Накладає $vulnerable$ на ворога. Це триває протягом $4$ часових кроків.</string>
 </set>
 <set id="description-skill-passive-oncrustbroken-powerraise">
+		<string lang="de">Erhält $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
+		<string lang="en">Whenever a $crust$ is broken, this monster gains $1might$.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'une $crust$ est brisée.</string>
 		<string lang="zh">$crust$破损时，提升$1$$might$。</string>
 		<string lang="jp">$crust$除去時、$might$$1$上昇。</string>
@@ -633,9 +635,10 @@
 </string>
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли руйнується $crust$.</string>
 </set>
+
 <set id="description-skill-passive-ondamage-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn er $damage$ nimmt.</string>
-		<string lang="en">Raises $might$ by $1$ whenever it takes $damage$.</string>
+		<string lang="en">Whenever this monster takes $damage$ it gains $1might$.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'il reçoit $damage$.</string>
 		<string lang="zh">受到$damage$时，提升$1$$might$。</string>
 		<string lang="jp">$damage$を受けるたび、$br$$might$$1$上昇。</string>
@@ -663,7 +666,7 @@
 </set>
 <set id="description-skill-passive-ongravinflict-powerraise">
 		<string lang="de">Erhöht $might$ aus eingehender $grav+$.</string>
-		<string lang="en">Raises $might$ from inflictions of $grav+$ onto itself.</string>
+		<string lang="en">Increase $might$ from inflictions of $grav+$ onto itself.</string>
 		<string lang="fr">Augmente $might$ des $grav+$ infligés sur soi-même.</string>
 		<string lang="zh">根据自身所受$grav+$提升$might$。</string>
 		<string lang="jp">$grav+$を付与されるたび、$br$$might$上昇。</string>
@@ -677,7 +680,7 @@
 </set>
 <set id="description-skill-passive-onplasmacreated-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn $plasma$ erzeugt wird.</string>
-		<string lang="en">Raises $might$ by $1$ whenever $plasma$ is created.</string>
+		<string lang="en">Increase $might$ by $1$ whenever $plasma$ is created.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois que $plasma$ est créé.</string>
 		<string lang="zh">产生$plasma$时，提升$1$$might$。</string>
 		<string lang="jp">$plasma$生成時、$br$$might$$1$上昇。</string>
@@ -691,7 +694,7 @@
 </set>
 <set id="description-skill-passive-onturnorderchange-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn sich die Reihenfolge der Züge ändert.</string>
-		<string lang="en">Raises $might$ by $1$ whenever the turn order is changed.</string>
+		<string lang="en">Increase $might$ by $1$ whenever the turn order is changed.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois que l'ordre des tours est modifié.</string>
 		<string lang="zh">轮次发生改变时，$br$提升$1$$might$。</string>
 		<string lang="jp">ターン順変更時、$br$$1$$might$上昇。</string>
@@ -788,7 +791,7 @@
 </set>
 <set id="description-skill-shleck-frog">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Kann $grav+1$ vom Ziel entfernen, um $might$ um $1$ zu erhöhen.</string>
-		<string lang="en">Deals $1damage$.$p$May remove $grav+1$ from the target to raise $might$ by $1$.</string>
+		<string lang="en">Deals $1damage$.$p$May remove $grav+1$ from the target to increase $might$ by $1$.</string>
 		<string lang="fr">Inflige $1damage$ à une ennemie.$p$Peut retirer $grav+1$ de la cible pour augmenter $might$ de $1$.</string>
 		<string lang="zh">对一名敌人造成$1damage$。$p$有概率移除目标$grav+1$以提升$1$$might$。</string>
 		<string lang="jp">敵1体に$1damage$。$p$対象から$grav+1$除去し、$might$$1$上昇可能。</string>

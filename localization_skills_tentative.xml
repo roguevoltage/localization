@@ -417,11 +417,11 @@
 		<string lang="uk">Наносить $1damage$ всім іншим учасникам бою.</string>
 </set>
 <set id="description-skill-passive-onmoduleboost-powerraise">
-	<string lang="en">Whenever $boost$ or $turbo$ are applied to a module, raise $might$ by $1$.</string>
+	<string lang="en">Whenever $boost$ or $turbo$ are applied to a module, increase $might$ by $1$.</string>
 </set>
 <set id="description-skill-powerraise-livingbomb">
 		<string lang="de">Erhöht $might$ um $1$ und fügt allen Gegnern $grav+1$ zu.</string>
-		<string lang="en">Raises $might$ by $1$ and inflicts all enemies with $grav+1$.</string>
+		<string lang="en">Increase $might$ by $1$ and inflicts all enemies with $grav+1$.</string>
 		<string lang="fr">Augmente $might$ de $1$ et applique $grav+1$ à tous les ennemis.</string>
         <string lang="zh">$might$ 增加 $1$ 并使所有敌人获得 $grav+1$。</string>
         <string lang="jp">$might$ を $1$ 増やし、全ての敵に $grav+1$ を付与します。</string>
@@ -433,7 +433,7 @@
 </set>
 <set id="description-skill-powerraise-onallies">
 		<string lang="de">Erhöht $might$ aller Verbündeten um $1$.</string>
-		<string lang="en">Raises $might$ of all allies by $1$.</string>
+		<string lang="en">Increase $might$ of all allies by $1$.</string>
 		<string lang="fr">Augmente $might$ de tous les alliés de $1$.</string>
         <string lang="zh">所有盟友的 $might$ 增加 $1$。</string>
         <string lang="jp">全ての味方の $might$ を $1$ 増やします。</string>
@@ -661,7 +661,7 @@
 		<string lang="uk">Палаючі уламки</string>
 </set>
 <set id="description-skill-passive-ondamage-burningdebris">
-		<string lang="de">Immer wenn es $damage$ nimmt, konstruiere ein $b$Brennende Trümmer$/b$ Modul auf dem Rack eines Spielercharakters.</string>
+		<string lang="de">Immer wenn es $damage$ nimmt, stellt es ein $b$Brennende Trümmer$/b$ Modul auf dem Rack eines Spielercharakters her.</string>
 		<string lang="en">Whenever it takes $damage$, construct a $b$Burning Debris$/b$ module on a player character's rack.</string>
 		<string lang="fr">Chaque fois qu'il reçoit $damage$, il construit un module $b$Débris Brûlants$/b$ et le force sur l'un de vos racks.</string>
 		<string lang="zh">每当它受到 $damage$ 时，它会建造一个 $b$燃烧碎片$/b$ 模块并强制放置到你的架子上。</string>

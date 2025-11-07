@@ -241,7 +241,7 @@
 </set>
 <set id="description-skill-gravpull-volcanoboss">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav-1$ zu</string>
-		<string lang="en">Inflicts another combatant with $grav-1$</string>
+		<string lang="en">Applies $grav-1$ to another combatant</string>
 		<string lang="fr">Inflige à un autre combattant $grav-1$</string>
 		<string lang="zh">对另一参战单位施加$grav-1$。</string>
 		<string lang="jp">別の敵味方1体に$grav-1$付与。</string>
@@ -305,8 +305,7 @@
 		<string lang="es">Inflige $1damage$ a un enemigo y le aplica $gravamplification$.</string>
 		<string lang="kr">적에게 $1damage$를 주고 $gravamplification$을 부여합니다.</string>
 		<string lang="pt-br">Inflige $1damage$ a um inimigo e aplica $gravamplification$.</string>
-		<string lang="zh-tw">對一名敵人造成$1damage$並施加$gravamplification$。
-</string>
+		<string lang="zh-tw">對一名敵人造成$1damage$並施加$gravamplification$。</string>
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $gravamplification$.</string>
 </set>
 <set id="description-skill-hatch-dynosaur">
@@ -319,8 +318,7 @@
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Dynosaurio$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$공룡$/b$을 소환합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Dynosaur$/b$.</string>
-		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$化石恐龍$/b$。
-</string>
+		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$化石恐龍$/b$。</string>
 		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Динозавра$/b$.</string>
 </set>
 <set id="description-skill-hatch-graviraptor">
@@ -333,8 +331,7 @@
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Graviraptor$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$중력랩터$/b$를 소환합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Graviraptor$/b$.</string>
-		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$引力龍$/b$。
-</string>
+		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$引力龍$/b$。</string>
 		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Гравіраптора$/b$.</string>
 </set>
 <set id="description-skill-hatch-phoenix">
@@ -347,8 +344,7 @@
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Phoenix$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$불사조$/b$를 소환합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Phoenix$/b$.</string>
-		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$不死鳥$/b$。
-</string>
+		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$不死鳥$/b$。</string>
 		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Фенікса$/b$.</string>
 </set>
 <set id="description-skill-modulefire-volcanoboss">
@@ -361,8 +357,7 @@
 		<string lang="es">Inflige $1$ $damage$ a un enemigo e inflige dos módulos con $fire$.</string>
 		<string lang="kr">적에게 $1$ $damage$를 주고 두 모듈에게 $fire$ 상태를 부여합니다.</string>
 		<string lang="pt-br">Causa $1$ $damage$ a um inimigo e inflige dois módulos com $fire$.</string>
-		<string lang="zh-tw">對一名敵人造成$1$$damage$，並令2個模組$fire$。
-</string>
+		<string lang="zh-tw">對一名敵人造成$1$$damage$，並令2個模組$fire$。</string>
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
@@ -375,8 +370,7 @@
         <string lang="es">Inflige $1$ $damage$ a todos los enemigos y obliga a cada módulo $b$Escombros$/b$ con $cracked$ en su rack. Reciben $fire$.</string>
         <string lang="kr">모든 적에게 $1$$damage$를 주고, 각각의 랙에 $b$파편$/b$ 모듈 1개($cracked$)를 강제로 배치합니다. 그들은 $fire$를 받습니다.</string>
         <string lang="pt-br">Causa $1$ $damage$ a todos os inimigos e força um módulo $b$Detritos$/b$ com $cracked$ em seu rack. Eles recebem $fire$.</string>
-        <string lang="zh-tw">對所有敵人造成$1$$damage$，並強制將一個$b$碎片$/b$模組（$cracked$）放入他們的機架。它們會獲得$fire$。
-</string>
+        <string lang="zh-tw">對所有敵人造成$1$$damage$，並強制將一個$b$碎片$/b$模組（$cracked$）放入他們的機架。它們會獲得$fire$。</string>
         <string lang="uk">Наносить $1$ $damage$ всім ворогам і змушує кожен модуль $b$Обломки$/b$ з $cracked$ в їх стійці. Вони отримують $fire$.</string>
 </set>
 <set id="description-skill-ondeath-gravneutralize">
@@ -389,8 +383,7 @@
 		<string lang="es">Elimina toda la $grav$ de todos los combatientes.</string>
 		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.</string>
 		<string lang="pt-br">Remove todo o $grav$ de todos os combatentes.</string>
-		<string lang="zh-tw">移除所有參戰單位的$grav$。
-</string>
+		<string lang="zh-tw">移除所有參戰單位的$grav$。</string>
 		<string lang="uk">Прибирає весь $grav$ з усіх учасників бою.</string>
 </set>
 <set id="description-skill-ondeath-monsterspawn-egg-phoenix">
@@ -403,8 +396,7 @@
 		<string lang="es">Deja un $b$Huevo de Fénix$/b$.</string>
 		<string lang="kr">$b$불사조 알$/b$을 남깁니다.</string>
 		<string lang="pt-br">Deixa um $b$Ovo de Fênix$/b$.</string>
-		<string lang="zh-tw">留下一顆$b$不死鳥蛋$/b$。
-</string>
+		<string lang="zh-tw">留下一顆$b$不死鳥蛋$/b$。</string>
 		<string lang="uk">Залишає $b$Яйце фенікса$/b$.</string>
 </set>
 <set id="description-skill-packattack">
@@ -546,7 +538,7 @@
 </set>
 <set id="description-skill-passive-onmoduleconstruction-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul hergestellt wird.</string>
-		<string lang="en">Raises $might$ by $1$ whenever a module is created.</string>
+		<string lang="en">Whenever a module is created, receive $1might$.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est créé.</string>
 		<string lang="zh">每当有模块被制造出来，$br$$might$提升$1$。</string>
 		<string lang="jp">モジュールを生成するたび、$br$$1$$might$上昇。</string>
@@ -560,7 +552,7 @@
 </set>
 <set id="description-skill-passive-onmoduledestroyed-powerraise">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Modul zerstört wird.</string>
-		<string lang="en">Raises $might$ by $1$ whenever a module is destroyed.</string>
+		<string lang="en">Increase $might$ by $1$ whenever a module is destroyed.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un module est détruit.</string>
 		<string lang="zh">每当有模块被销毁，$might$提升$1$。</string>
 		<string lang="jp">モジュールを破壊するたび、$br$$1$$might$上昇。</string>
@@ -582,12 +574,12 @@
         <string lang="es">Mientras este monstruo esté en el $blizzard$, tiene $shield$.</string>
         <string lang="kr">이 몬스터가 $blizzard$ 상태에 있는 동안, $shield$를 가집니다.</string>
         <string lang="pt-br">Enquanto este monstro estiver no $blizzard$, ele terá $shield$.</string>
-        <string lang="zh-tw">當該怪物處於$blizzard$狀態時，獲得$shield$。</string>
+        <string lang="zh-tw">當該怪物處於$blizzard$狀態時，$br$獲得$shield$。</string>
         <string lang="uk">Поки цей монстр знаходиться в $blizzard$, у нього є $shield$.</string>
 </set>
 <set id="description-skill-passive-powerraiseonallydeath-dynosaurmom">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
-		<string lang="en">Raises $might$ by $1$ whenever an ally is defeated.</string>
+		<string lang="en">Increase $might$ by $1$ whenever an ally is defeated.</string>
 		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'un allié est vaincu.</string>
 		<string lang="zh">每当有盟友被击败，$might$提升$1$。</string>
 		<string lang="jp">味方1人が倒されるたび、$br$$1$$might$上昇。</string>
