@@ -365,10 +365,6 @@
 </string>
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
-<set id="description-skill-modulespawn-orb-ice">
-        <string lang="de">Konstruiert ein $b$Frost-Kugel$/b$-Modul auf dem Rack jedes Spielers.</string>
-		<string lang="en">Constructs a $b$Frost Orb$/b$ module on each player character's rack.</string>
-</set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
 		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu.$p$Konstruiert je ein $b$Trümmer$/b$-Modul mit $cracked$ auf deren Rack. Sie erhalten $fire$.</string>
 		<string lang="en">Deals $1$ $damage$ to all enemies.$p$Constructs one $b$Debris$/b$ module with $cracked$ on each of their racks. They receive $fire$.</string>
@@ -588,15 +584,6 @@
 		<string lang="pt-br">Enquanto este monstro estiver em um passo de tempo com $blizzard$, ele tem $shield$.</string>
 		<string lang="zh-tw">當此怪物位於帶有$blizzard$的時間步時，它擁有$shield$。</string>
 		<string lang="uk">Поки цей монстр знаходиться на часовому кроці з $blizzard$, у нього є $shield$.</string>
-</set>
-<set id="description-skill-passive-onstatusremoval-gravaoe">
-		<string lang="en">Whenever this monster leaves the $blizzard$, applies $grav+1$ to all enemies.</string>
-</set>
-<set id="description-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Whenever this monster leaves the $blizzard$, construct one $b$Ice Shards$/b$ module on each character's rack.</string>
-</set>
-<set id="description-skill-passive-onstatus-powerraise-icicle">
-		<string lang="en">Raises $might$ by $1$ whenever it is inflicted with a status effect.</string>
 </set>
 <set id="description-skill-passive-powerraiseonallydeath-dynosaurmom">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
@@ -1229,19 +1216,6 @@
 </string>
 		<string lang="uk">Палаючі уламки $fireicon$</string>
 </set>
-<set id="name-skill-modulespawn-orb-ice">
-		<string lang="de">Frost-Sphäre</string>
-		<string lang="en">Frost Orb</string>
-        <string lang="fr">Sphère de Gel</string>
-        <string lang="zh">冰霜球</string>
-        <string lang="jp">氷の玉</string>
-        <string lang="ru">Ледяная Сфера</string>
-        <string lang="es">Esfera de Hielo</string>
-        <string lang="kr">얼음 구체</string>
-        <string lang="pt-br">Esfera de Gelo</string>
-        <string lang="zh-tw">冰霜球</string>
-        <string lang="uk">Льодяна Сфера</string>
-</set>
 <set id="name-skill-ondeath-gravneutralize">
 		<string lang="de">Grav.-Nullifizierung</string>
 		<string lang="en">Grav. Nullify</string>
@@ -1381,7 +1355,17 @@
         <string lang="uk">Гравіоактивний $gravrecoilicon$</string>
 </set>
 <set id="name-skill-passive-ongravtodmg-shield">
-		<string lang="en">Frozen Solid $shieldicon$</string>
+        <string lang="de">Festgefroren $blizzardicon$$shieldicon$</string>
+		<string lang="en">Frozen Solid $blizzardicon$$shieldicon$</string>
+        <string lang="fr">Solidement Gelé $blizzardicon$$shieldicon$</string>
+        <string lang="zh">坚如冰石 $blizzardicon$$shieldicon$</string>
+        <string lang="jp">氷結堅牢 $blizzardicon$$shieldicon$</string>
+        <string lang="ru">Прочно Заморожен $blizzardicon$$shieldicon$</string>
+        <string lang="es">Congelado Sólido $blizzardicon$$shieldicon$</string>
+        <string lang="kr">단단히 얼음 $blizzardicon$$shieldicon$</string>
+        <string lang="pt-br">Congelado Sólido $blizzardicon$$shieldicon$</string>
+        <string lang="zh-tw">堅如冰石 $blizzardicon$$shieldicon$</string>
+        <string lang="uk">Міцно заморожений $blizzardicon$$shieldicon$</string>
 </set>
 <set id="name-skill-passive-ongravinflict-powerraise">
 		<string lang="de">Grav.-Detektion (+) $mighticon$</string>
@@ -1426,19 +1410,31 @@
 		<string lang="uk">Детекція знищення $mighticon$</string>
 </set>
 <set id="name-skill-aurora">
-        <string lang="de">Magnetisches Einatmen $grav+icon$</string>
+        <string lang="de">Magnetisches Einatmen $grav-icon$</string>
 		<string lang="en">Magnetic Inhale $grav-icon$</string>
+        <string lang="fr">Inhalation Magnétique $grav-icon$</string>
+        <string lang="zh">磁性吸入$grav-icon$</string>
+        <string lang="jp">磁気吸引$grav-icon$</string>
+        <string lang="ru">Магнитное Вдыхание $grav-icon$</string>
+        <string lang="es">Inhalación Magnética $grav-icon$</string>
+        <string lang="kr">자기 흡입 $grav-icon$</string>
+        <string lang="pt-br">Inalação Magnética $grav-icon$</string>
+        <string lang="zh-tw">磁性吸入$grav-icon$
+</string>
+        <string lang="uk">Магнітне вдихання $grav-icon$</string>
 </set>
 <set id="description-skill-aurora">
         <string lang="de">Fügt allen Verbündeten $grav-1$ zu.</string>
-		<string lang="en">Apply $grav-$$br$to all allies.</string>
-</set>
-<set id="name-skill-passive-onstatusremoval-gravaoe">
-        <string lang="de">Magnetisches Ausatmen $blizzardicon$$grav+icon$</string>
-		<string lang="en">Magnetic Exhale $blizzardicon$$grav+icon$</string>
-</set>
-<set id="name-skill-passive-onstatusremoval-iceshards">
-		<string lang="en">Icy Burst $blizzardicon$</string>
+		<string lang="en">Apply $grav-$ to all allies.</string>
+        <string lang="fr">Applique $grav-$ à tous les alliés.</string>
+        <string lang="zh">对所有盟友施加$grav-$。</string>
+        <string lang="jp">味方全体に$grav-$を付与する。</string>
+        <string lang="ru">Накладывает $grav-$ на всех союзников.</string>
+        <string lang="es">Aplica $grav-$ a todos los aliados.</string>
+        <string lang="kr">모든 아군에게 $grav-$를 부여합니다.</string>
+        <string lang="pt-br">Aplica $grav-$ em todos os aliados.</string>
+        <string lang="zh-tw">對所有盟友施加$grav-$。</string>
+        <string lang="uk">Накладає $grav-$ на всіх союзників.</string>
 </set>
 <set id="name-skill-passive-powerraiseonallydeath">
 		<string lang="de">Seelen-Detektion $mighticon$</string>
