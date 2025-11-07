@@ -822,30 +822,30 @@
         <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.</string>
 </set>
 <set id="description-module-passivestatusredirector">
-        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
-        <string lang="en">Whenever a module on this rack should receive $fire$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.</string>
-        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.</string>
-        <string lang="zh">此模架上的其他模块$fire$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。</string>
-        <string lang="jp">このラックの他のモジュールが$fire$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。</string>
-        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
-        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.</string>
-        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.</string>
-        <string lang="zh-tw">此模架上的其他模組$fire$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。</string>
-        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.</string>
+        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $icecrust$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
+        <string lang="en">Whenever a module on this rack should receive $fire$, $icecrust$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.</string>
+        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $icecrust$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.</string>
+        <string lang="zh">此模架上的其他模块$fire$、$icecrust$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。</string>
+        <string lang="jp">このラックの他のモジュールが$fire$、$icecrust$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $icecrust$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $icecrust$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $icecrust$, $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $icecrust$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.</string>
+        <string lang="zh-tw">此模架上的其他模組$fire$、$icecrust$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $icecrust$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.</string>
 </set>
 <set id="description-module-passivesink">
-        <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$b$Negativen Status-Effekte$/b$ sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
-		<string lang="en">Whenever this module becomes inflicted with a $b$Negative Status Effect$/b$, create $1plasma$.$p$At the end of turn, remove all $b$Negative Status Effects$/b$ from this module.$p$&lt;size=10&gt;$b$Negative Status Effects$/b$ are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
-        <string lang="fr">Chaque fois que ce module est affecté par un $b$Effet de Statut Négatif$/b$, créez $1plasma$.$p$À la fin du tour, retirez tous les $b$Effets de Statut Négatifs$/b$ de ce module.$p$&lt;size=10&gt;$b$Effets de Statut Négatifs$/b$ sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
-        <string lang="zh">每当此模块受到$b$负面状态效果$/b$影响时，产生$1plasma$。$p$在拥有者回合结束时，从此模块上移除所有$b$负面状态效果$/b$。$p$&lt;size=10&gt;$b$负面状态效果$/b$包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
-        <string lang="jp">このモジュールが$b$ネガティブステータス効果$/b$を受けるたび、$1plasma$生成。$p$所有者のターン終了時、このモジュールからすべての$b$ネガティブステータス効果$/b$を除去。$p$&lt;size=10&gt;$b$ネガティブステータス効果$/b$は$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
-        <string lang="ru">Когда этот модуль получает $b$Отрицательный Статусный Эффект$/b$, создает $1plasma$. $p$В конце хода владельца, удаляет все $b$Отрицательные Статусные Эффекты$/b$ с этого модуля. $p$&lt;size=10&gt;$b$Отрицательные Статусные Эффекты$/b$ - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
-        <string lang="es">Siempre que este módulo se vea afectado por un $b$Efecto de Estado Negativo$/b$, crea $1plasma$. $p$Al final del turno, elimina todos los $b$Efectos de Estado Negativos$/b$ de este módulo. $p$&lt;size=10&gt;$b$Efectos de Estado Negativos$/b$ son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
-        <string lang="kr">이 모듈이 $b$부정적 상태 효과$/b$를 받을 때마다 $1plasma$를 생성합니다.$p$소유자의 턴이 끝날 때, 이 모듈에서 모든 $b$부정적 상태 효과$/b$를 제거합니다.$p$&lt;size=10&gt;$b$부정적 상태 효과$/b$는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
-        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Efeito de Estado Negativo$/b$, cria $1plasma$. $p$No final do turno, remove todos os $b$Efeitos de Estado Negativos$/b$ deste módulo. $p$&lt;size=10&gt;$b$Efeitos de Estado Negativos$/b$ são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
-        <string lang="zh-tw">每當此模組受到$b$負面狀態效果$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$負面狀態效果$/b$。$p$&lt;size=10&gt;$b$負面狀態效果$/b$包括$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$和$outoforder$。</string>
-        <string lang="uk">Коли цей модуль отримує $b$Негативний Статусний Ефект$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Негативні Статусні Ефекти$/b$ з цього модуля. $p$&lt;size=10&gt;$b$Негативні Статусні Ефекти$/b$ - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ і $outoforder$.</string>
+        <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$listdebuffs$</string>
+		<string lang="en">Whenever this module becomes inflicted with a $b$Negative Status Effect$/b$, create $1plasma$.$p$At the end of turn, remove all $b$Negative Status Effects$/b$ from this module.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="fr">Chaque fois que ce module est affecté par un $b$Effet de Statut Négatif$/b$, créez $1plasma$.$p$À la fin du tour, retirez tous les $b$Effets de Statut Négatifs$/b$ de ce module.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="zh">每当此模块受到$b$负面状态效果$/b$影响时，产生$1plasma$。$p$在拥有者回合结束时，从此模块上移除所有$b$负面状态效果$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="jp">このモジュールが$b$ネガティブステータス効果$/b$を受けるたび、$1plasma$生成。$p$所有者のターン終了時、このモジュールからすべての$b$ネガティブステータス効果$/b$を除去。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="ru">Когда этот модуль получает $b$Отрицательный Статусный Эффект$/b$, создает $1plasma$. $p$В конце хода владельца, удаляет все $b$Отрицательные Статусные Эффекты$/b$ с этого модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="es">Siempre que este módulo se vea afectado por un $b$Efecto de Estado Negativo$/b$, crea $1plasma$. $p$Al final del turno, elimina todos los $b$Efectos de Estado Negativos$/b$ de este módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="kr">이 모듈이 $b$부정적 상태 효과$/b$를 받을 때마다 $1plasma$를 생성합니다.$p$소유자의 턴이 끝날 때, 이 모듈에서 모든 $b$부정적 상태 효과$/b$를 제거합니다.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Efeito de Estado Negativo$/b$, cria $1plasma$. $p$No final do turno, remove todos os $b$Efeitos de Estado Negativos$/b$ deste módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="zh-tw">每當此模組受到$b$負面狀態效果$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$負面狀態效果$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="uk">Коли цей модуль отримує $b$Негативний Статусний Ефект$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Негативні Статусні Ефекти$/b$ з цього модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
 </set>
 <set id="description-module-passivestorageinductor">
 		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
@@ -1254,17 +1254,17 @@
         <string lang="uk">Застосовує $outoforder$ до цільового модуля на цій стійці.$p$Застосовує $turbo$ до іншого цільового $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator">
-        <string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade$.</string>
-		<string lang="en">Applies $upgrade$ to target $generator$ or $aggregate$ module on this rack.</string>
-        <string lang="fr">Applique $upgrade$ à un module de type $generator$ ou $aggregate$ ciblé sur ce rack.</string>
-        <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$。</string>
-        <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$付与。</string>
-        <string lang="ru">Применяет $upgrade$ к целевому модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
-        <string lang="kr">이 랙의 대상 모듈에게 $upgrade$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
-        <string lang="pt-br">Aplica $upgrade$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
-        <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$。</string>
-        <string lang="uk">Застосовує $upgrade$ до цільового модуля типу $generator$ або $aggregate$ на цій стійці.</string>
+        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$.</string>
+		<string lang="en">Applies $upgrade$ to target $generator$ module on this rack.</string>
+        <string lang="fr">Applique $upgrade$ à un $generator$ ciblé sur ce rack.</string>
+        <string lang="zh">为此模架上目标$generator$模块施加$upgrade$。</string>
+        <string lang="jp">ラックの対象$generator$モジュールに$upgrade$付与。</string>
+        <string lang="ru">Применяет $upgrade$ к целевому $generator$ модулю на этом стеллаже.</string>
+        <string lang="es">Aplica $upgrade$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 $generator$ 모듈에게 $upgrade$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ ao módulo $generator$ alvo neste rack.</string>
+        <string lang="zh-tw">為此模架上目標$generator$模組施加$upgrade$。</string>
+        <string lang="uk">Застосовує $upgrade$ до цільового $generator$ модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-berserk">
         <string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade-berserk$.</string>
@@ -2607,31 +2607,18 @@
         <string lang="zh-tw">剝削性渦輪增壓器</string>
         <string lang="uk">Експлуатаційний Турбонагнітач</string>
 </set>
-<set id="name-module-toggledupgradersource" remarks="translate Source as in the string module-type-source">
-        <string lang="de">Energiequellen-Upgrader</string>
-		<string lang="en">Energy Source Upgrader</string>
-        <string lang="fr">Améliorateur de Source</string>
-        <string lang="zh">能源源升级器</string>
-        <string lang="jp">エネルギーソースアップグレーダ</string>
-        <string lang="ru">Улучшитель Источника</string>
-        <string lang="es">Mejorador de Fuente</string>
-        <string lang="kr">에너지 원천 개량기</string>
-        <string lang="pt-br">Aprimorador de Fonte:</string>
-        <string lang="zh-tw">能源源升級器</string>
-        <string lang="uk">Покращувач Джерела Енергії</string>
-</set>
 <set id="name-module-toggledupgradergenerator">
-        <string lang="de">Energiequellen-Upgrader</string>
-		<string lang="en">Energy Source Upgrader</string>
-        <string lang="fr">Améliorateur de Source</string>
-        <string lang="zh">能源源升级器</string>
+        <string lang="de">Generator-Upgrader</string>
+		<string lang="en">Generator Upgrader</string>
+        <string lang="fr">Améliorateur de Générateur</string>
+        <string lang="zh">发电机升级器</string>
         <string lang="jp">発電機改良器</string>
-        <string lang="ru">Улучшитель Источника</string>
-        <string lang="es">Mejorador de Fuente</string>
-        <string lang="kr">에너지 원천 개량기</string>
-        <string lang="pt-br">Aprimorador de Fonte</string>
-        <string lang="zh-tw">發生器升級器</string>
-        <string lang="uk">Покращувач Джерела</string>
+        <string lang="ru">Улучшитель Генератора</string>
+        <string lang="es">Mejorador de Generador</string>
+        <string lang="kr">발전기 개량기</string>
+        <string lang="pt-br">Aprimorador de Gerador</string>
+        <string lang="zh-tw">發電機升級器</string>
+        <string lang="uk">Покращувач Генератора</string>
 </set>
 <set id="name-module-toggledupgradergenerator-berserk">
         <string lang="de">Energiequellen-Upgrader: Berserk</string>
