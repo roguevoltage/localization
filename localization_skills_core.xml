@@ -570,7 +570,7 @@
         <string lang="de">Immer wenn dieses Monster den $blizzard$ betritt, erhält es $1might$.</string>
 		<string lang="en">Whenever this monster enters the $blizzard$, it gains $1might$.</string>
         <string lang="fr">Chaque fois que ce monstre entre dans le $blizzard$, il gagne $1might$.</string>
-        <string lang="zh">当该怪物进入$blizzard$时，提升$1might$。</string>
+        <string lang="zh">当该怪物进入$blizzard$时，$br$提升$1might$。</string>
         <string lang="jp">このモンスターが$blizzard$に入るたびに、$might$$1$上昇。</string>
         <string lang="ru">Когда этот монстр входит в $blizzard$, он получает $1might$.</string>
         <string lang="es">Cada vez que este monstruo entra en el $blizzard$, gana $1might$.</string>
@@ -831,7 +831,30 @@
 		<string lang="uk">Наносить $b$ $VALUE$ $/b$ $damage$ всім гравцям на тому ж часовому кроці.</string>
 </set>
 <set id="description-skill-walrus">
-        <string lang="en">Deals $2damage$ to all enemies.$p$Constructs an $b$Ice Shards$/b$ module with $cracked$ on each of their racks.</string>
+        <string lang="de">Fügt allen Gegnern $1damage$ zu und versieht je ein Modul mit $icecrust$.</string>
+        <string lang="en">Deals $1damage$ to all enemies and applies $icecrust$ to one module each.</string>
+        <string lang="fr">Inflige $1damage$ à tous les ennemis et applique $icecrust$ à un module chacun.</string>
+        <string lang="zh">对所有敌人造成$1damage$，并对每个敌人的一个模块施加$icecrust$。</string>
+        <string lang="jp">敵全体に$1damage$。$br$各敵のモジュール1つに$icecrust$付与。</string>
+        <string lang="ru">Наносит $1damage$ всем врагам и накладывает $icecrust$ на один модуль каждого из них.</string>
+        <string lang="es">Inflige $1damage$ a todos los enemigos y aplica $icecrust$ a un módulo de cada uno.</string>
+        <string lang="kr">모든 적에게 $1damage$를 주고 각 적의 모듈 하나에 $icecrust$를 부여합니다.</string>
+        <string lang="pt-br">Inflige $1damage$ a todos os inimigos e aplica $icecrust$ a um módulo de cada um.</string>
+        <string lang="zh-tw">對所有敵人造成$1damage$，並對每個敵人的一個模組施加$icecrust$。</string>
+        <string lang="uk">Наносить $1damage$ всім ворогам і накладає $icecrust$ на один модуль кожного з них.</string>
+</set>
+<set id="description-skill-yak">
+    <string lang="de">Fügt einem Gegner $1damage$ zu, fügt dann $grav+1$ für jeden Punkt $might$ zu.</string>
+    <string lang="en">Deals $1damage$ to an enemy.$p$Apply $grav+1$ to them for every point of $might$.</string>
+    <string lang="fr">Inflige $1damage$ à une cible.$p$Applique $grav+1$ pour chaque point de $might$.</string>
+    <string lang="zh">对一名敌人造成$1damage$。$p$根据$might$的点数对其施加$grav+1$。</string>
+    <string lang="jp">敵1体に$1damage$。$p$自身の$might$1点ごとに対象に$grav+1$付与。</string>
+    <string lang="ru">Наносит $1damage$ врагу.$p$Накладывает на него $grav+1$ за каждую точку $might$.</string>
+    <string lang="es">Inflige $1damage$ a un enemigo.$p$Aplica $grav+1$ por cada punto de $might$.</string>
+    <string lang="kr">적에게 $1damage$를 줍니다.$p$자신의 $might$ 포인트마다 대상에게 $grav+1$를 부여합니다.</string>
+    <string lang="pt-br">Inflige $1damage$ a um inimigo.$p$Aplica $grav+1$ para cada ponto de $might$.</string>
+    <string lang="zh-tw">對一名敵人造成$1damage$。$p$根據$might$的點數對其施加$grav+1$。</string>
+    <string lang="uk">Наносить $1damage$ ворогу.$p$Накладає на нього $grav+1$ за кожен пункт $might$.</string>
 </set>
 <set id="name-skill-beak">
 		<string lang="de">Schnabel</string>
@@ -1668,7 +1691,30 @@
 		<string lang="uk">Удар Бурі $VALUE$</string>
 </set>
 <set id="name-skill-walrus">
-		<string lang="en">Icy Tusk</string>
+        <string lang="de">Eisiger Stoßzahn $icecrusticon$</string>
+		<string lang="en">Icy Tusk $icecrusticon$</string>
+        <string lang="fr">Défense Glacée $icecrusticon$</string>
+        <string lang="zh">冰冷獠牙$icecrusticon$</string>
+        <string lang="jp">氷結の牙$icecrusticon$</string>
+        <string lang="ru">Ледяной Бивень $icecrusticon$</string>
+        <string lang="es">Colmillo Helado $icecrusticon$</string>
+        <string lang="kr">얼어붙은 엄니 $icecrusticon$</string>
+        <string lang="pt-br">Presas Geladas $icecrusticon$</string>
+        <string lang="zh-tw">冰冷獠牙$icecrusticon$</string>
+        <string lang="uk">Крижаний ікло $icecrusticon$</string>
+</set>
+<set id="name-skill-yak">
+    <string lang="de">Rammen $mighticon$$grav+icon$</string>
+    <string lang="en">Tackle $mighticon$$grav+icon$</string>
+	<string lang="fr">Enfoncer $mighticon$$grav+icon$</string>
+    <string lang="zh">冲撞 $mighticon$$grav+icon$</string>
+    <string lang="jp">打者 $mighticon$$grav+icon$</string>
+    <string lang="ru">Таран $mighticon$$grav+icon$</string>
+    <string lang="es">Placaje $mighticon$$grav+icon$</string>
+    <string lang="kr">태클 $mighticon$$grav+icon$</string>
+    <string lang="pt-br">Investida $mighticon$$grav+icon$</string>
+    <string lang="zh-tw">衝撞 $mighticon$$grav+icon$</string>
+    <string lang="uk">Таран $mighticon$$grav+icon$</string>
 </set>
 <set id="skill-attack">
 		<string lang="de">Angriff</string>

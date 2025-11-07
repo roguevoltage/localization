@@ -395,6 +395,18 @@
 		<string lang="pt-br"/>
 		<string lang="zh-tw"/>
 </set>
+<set id="description-monster-wolf">
+		<string lang="de"/>
+		<string lang="en"/>
+		<string lang="fr"/>
+		<string lang="zh"/>
+		<string lang="jp"/>
+		<string lang="ru"/>
+		<string lang="es"/>
+		<string lang="kr"/>
+		<string lang="pt-br"/>
+		<string lang="zh-tw"/>
+</set>
 <set id="description-monster-yak">
 		<string lang="de"/>
 		<string lang="en"/>
@@ -832,6 +844,19 @@
 		<string lang="zh-tw">火山蝸牛
 </string>
 		<string lang="uk">Вулканічний Равлик</string>
+</set>
+<set id="name-monster-wolf">
+        <string lang="de">Wolf</string>
+        <string lang="en">Wolf</string>
+        <string lang="fr">Loup</string>
+        <string lang="zh">狼</string>
+        <string lang="jp">ウルフ</string>
+        <string lang="ru">Волк</string>
+        <string lang="es">Lobo</string>
+        <string lang="kr">늑대</string>
+        <string lang="pt-br">Lobo</string>
+        <string lang="zh-tw">狼</string>
+        <string lang="uk">Вовк</string>
 </set>
 <set id="name-monster-gravsnail">
 		<string lang="de">Grav.-Schnecke</string>
@@ -1302,7 +1327,30 @@
 </string>
 		<string lang="uk">Равлик</string>
 </set>
+<set id="shortname-monster-wolf">
+        <string lang="de">Wolf</string>
+        <string lang="en">Wolf</string>
+        <string lang="fr">Loup</string>
+        <string lang="zh">狼</string>
+        <string lang="jp">ウルフ</string>
+        <string lang="ru">Волк</string>
+        <string lang="es">Lobo</string>
+        <string lang="kr">늑대</string>
+        <string lang="pt-br">Lobo</string>
+        <string lang="zh-tw">狼</string>
+        <string lang="uk">Вовк</string>
+</set>
 <set id="shortname-monster-yak">
+        <string lang="de">Yak</string>
 		<string lang="en">Yak</string>
+        <string lang="fr">Yak</string>
+        <string lang="zh">牦牛</string>
+        <string lang="jp">ヤク</string>
+        <string lang="ru">Як</string>
+        <string lang="es">Yak</string>
+        <string lang="kr">야크</string>
+        <string lang="pt-br">Iaque</string>
+        <string lang="zh-tw">犛牛</string>
+        <string lang="uk">Як</string>
 </set>
 </localization>
