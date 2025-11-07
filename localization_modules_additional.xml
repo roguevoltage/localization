@@ -1247,17 +1247,17 @@
         <string lang="uk">Застосовує $outoforder$ до цільового модуля на цій стійці.$p$Застосовує $turbo$ до іншого цільового $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator">
-        <string lang="de">Versieht einen $generator$ deiner Wahl auf diesem Rack mit $upgrade$.</string>
-		<string lang="en">Applies $upgrade$ to target $generator$ module on this rack.</string>
-        <string lang="fr">Applique $upgrade$ à un $generator$ ciblé sur ce rack.</string>
-        <string lang="zh">为此模架上目标$generator$模块施加$upgrade$。</string>
-        <string lang="jp">ラックの対象$generator$モジュールに$upgrade$付与。</string>
-        <string lang="ru">Применяет $upgrade$ к целевому $generator$ модулю на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ al módulo $generator$ objetivo en este bastidor.</string>
-        <string lang="kr">이 랙의 대상 $generator$ 모듈에게 $upgrade$을 부여합니다.</string>
-        <string lang="pt-br">Aplica $upgrade$ ao módulo $generator$ alvo neste rack.</string>
-        <string lang="zh-tw">為此模架上目標$generator$模組施加$upgrade$。</string>
-        <string lang="uk">Застосовує $upgrade$ до цільового $generator$ модуля на цій стійці.</string>
+        <string lang="de">Verleiht einem $generator$ deiner Wahl auf diesem Rack $upgrade$ und $exhaustion$.</string>
+		<string lang="en">Applies $upgrade$ and $exhaustion$ to target $generator$ module on this rack.</string>
+        <string lang="fr">Applique $upgrade$ et $exhaustion$ à un $generator$ ciblé sur ce rack.</string>
+        <string lang="zh">在此模架上选择一个$generator$模块，$br$赋予其$upgrade$及$exhaustion$状态。</string>
+        <string lang="jp">ラックの対象$generator$に$br$$upgrade$と$exhaustion$付与。</string>
+        <string lang="ru">Применяет $upgrade$ и $exhaustion$ к целевому $generator$ модулю на этой стойке.</string>
+        <string lang="es">Aplica $upgrade$ y $exhaustion$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="kr">이 랙의 대상 $generator$ 모듈에게 $upgrade$과 $exhaustion$을 부여합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ e $exhaustion$ ao módulo $generator$ alvo neste rack.</string>
+        <string lang="zh-tw">在此模架上選擇一個$generator$模組，$br$賦予其$upgrade$及$exhaustion$狀態。</string>
+        <string lang="uk">Застосовує $upgrade$ і $exhaustion$ до цільового $generator$ модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgradergenerator-berserk">
         <string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade-berserk$.</string>
