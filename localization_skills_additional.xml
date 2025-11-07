@@ -366,7 +366,7 @@
 		<string lang="uk">Наносить $1$ $damage$ ворогу і накладає на два модулі $fire$.</string>
 </set>
 <set id="description-skill-modulespawn-burningdebris-volcanoboss">
-		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu.$p$Konstruiert je ein $b$Trümmer$/b$-Modul mit $cracked$ auf deren Rack. Sie erhalten $fire$.</string>
+		<string lang="de">Fügt allen Gegnern $1$ $damage$ zu.$p$Stellt je ein $b$Trümmer$/b$-Modul mit $cracked$ auf deren Rack her. Sie erhalten $fire$.</string>
 		<string lang="en">Deals $1$ $damage$ to all enemies.$p$Constructs one $b$Debris$/b$ module with $cracked$ on each of their racks. They receive $fire$.</string>
 		<string lang="fr">Inflige $1$ $damage$ à tous les ennemis et force un module $b$Débris$/b$ avec $cracked$ dans leur rack. Ils reçoivent $fire$.</string>
         <string lang="zh">对所有敌人造成$1$$damage$，并强制将一个$b$碎片$/b$模块（$cracked$）放入他们的机架。它们会获得$fire$。</string>
@@ -573,17 +573,17 @@
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли модуль знищено.</string>
 </set>
 <set id="description-skill-passive-ongravtodmg-shield">
-		<string lang="de">Solange sich dieses Monster auf einem Zeitschritt mit $blizzard$ befindet, hat es $shield$.</string>
-		<string lang="en">While this monster is on a time step with $blizzard$, it has $shield$.</string>
-		<string lang="fr">Tant que ce monstre est sur un pas de temps avec $blizzard$, il possède $shield$.</string>
-		<string lang="zh">当此怪物位于带有$blizzard$的时间步时，它拥有$shield$。</string>
-		<string lang="jp">このモンスターが$blizzard$のあるタイムステップにいる間、$shield$を持ちます。</string>
-		<string lang="ru">Пока этот монстр находится на временном шаге с $blizzard$, у него есть $shield$.</string>
-		<string lang="es">Mientras este monstruo esté en un paso de tiempo con $blizzard$, tiene $shield$.</string>
-		<string lang="kr">이 몬스터가 $blizzard$가 있는 타임 스텝에 있는 동안 $shield$를 가집니다.</string>
-		<string lang="pt-br">Enquanto este monstro estiver em um passo de tempo com $blizzard$, ele tem $shield$.</string>
-		<string lang="zh-tw">當此怪物位於帶有$blizzard$的時間步時，它擁有$shield$。</string>
-		<string lang="uk">Поки цей монстр знаходиться на часовому кроці з $blizzard$, у нього є $shield$.</string>
+		<string lang="de">Solange sich dieses Monster im $blizzard$ befindet, hat es $shield$.</string>
+		<string lang="en">While this monster is in the $blizzard$, it has $shield$.</string>
+		<string lang="fr">Tant que ce monstre est dans le $blizzard$, il a $shield$.</string>
+        <string lang="zh">当该怪物处于$blizzard$状态时，$br$获得$shield$。</string>
+        <string lang="jp">このモンスターが$blizzard$にいる間、$shield$を持つ。</string>
+        <string lang="ru">Пока этот монстр находится в $blizzard$, у него есть $shield$.</string>
+        <string lang="es">Mientras este monstruo esté en el $blizzard$, tiene $shield$.</string>
+        <string lang="kr">이 몬스터가 $blizzard$ 상태에 있는 동안, $shield$를 가집니다.</string>
+        <string lang="pt-br">Enquanto este monstro estiver no $blizzard$, ele terá $shield$.</string>
+        <string lang="zh-tw">當該怪物處於$blizzard$狀態時，獲得$shield$。</string>
+        <string lang="uk">Поки цей монстр знаходиться в $blizzard$, у нього є $shield$.</string>
 </set>
 <set id="description-skill-passive-powerraiseonallydeath-dynosaurmom">
 		<string lang="de">Erhöht $might$ um $1$, immer wenn ein Verbündeter besiegt wird.</string>
