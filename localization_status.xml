@@ -165,8 +165,8 @@
 		<string lang="uk">Розрядка в цей хід призведе до знищення модуля</string>
 </set>
 <set id="description-status-modulecrust">
-		<string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ bricht die Kruste dauerhaft.</string>
-		<string lang="en">Prevents module activation. First incoming $energy$ will permanently break the crust.</string>
+		<string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ entfernt die Kruste dauerhaft.</string>
+		<string lang="en">Prevents module activation. First incoming $energy$ permanently removes the crust.</string>
 		<string lang="fr">Module non activable.$br$La première $energy$ entrante brisera la croûte de façon permanente.</string>
 		<string lang="zh">阻止模块激活。$br$首次传入的$energy$将永久性破坏晶壳。</string>
 		<string lang="jp">モジュールの起動を阻害$br$$energy$入力時に結晶を恒久除去</string>
@@ -176,6 +176,19 @@
 		<string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta</string>
 		<string lang="zh-tw">阻止模組啟動。$br$首次傳入的$energy$將永久性破壞晶殼。</string>
 		<string lang="uk">Запобігає активації модуля. Перше надходження $energyicon$$b$Енергії$/b$ назавжди зруйнує кірку.</string>
+</set>
+<set id="description-status-moduleice">
+        <string lang="de">Verhindert Aktivierung des Moduls. Die erste eingehende $energy$ entfernt die Kruste dauerhaft.$p$Am Ende des Zuges, füge dem Besitzer $grav+2$ zu.</string>
+		<string lang="en">Prevents module activation. First incoming $energy$ permanently removes the crust.$p$At the end of turn, apply $grav+2$ to the owner.</string>
+        <string lang="fr">Module non activable.$br$La première $energy$ entrante brisera la croûte de façon permanente.$p$À la fin du tour, inflige $grav+2$ au propriétaire.</string>
+        <string lang="zh">阻止模块激活。$br$首次传入的$energy$将永久性破坏晶壳。$p$在回合结束时，对拥有者施放$grav+2$。</string>
+        <string lang="jp">モジュールの起動を阻害$br$$energy$入力時に結晶を恒久除去$p$ターン終了時に所有者に$grav+2$付与</string>
+        <string lang="ru">Модуль не может быть активирован.$br$Первая поступающая $энергия$ разбивает кристалл.$p$В конце хода даст владельцу $grav+2$.</string>
+        <string lang="es">Impide la activación del módulo.$br$La primera $energy$ entrante romperá la corteza.$p$Al final del turno, inflige $grav+2$ al propietario.</string>
+        <string lang="kr">모듈이 활성화될 수 없습니다. 처음 $energy$를 획득 시 크러스트가 영구적으로 파괴됩니다.$p$턴 종료 시 소유자에게 $grav+2$를 부여합니다.</string>
+        <string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta.$p$No final do turno, aplica $grav+2$ ao dono.</string>
+        <string lang="zh-tw">阻止模組啟動。$br$首次傳入的$energy$將永久性破壞晶殼。$p$在回合結束時，對擁有者施放$grav+2$。</string>
+        <string lang="uk">Запобігає активації модуля. Перше надходження $energyicon$$b$Енергії$/b$ назавжди зруйнує кірку.$p$Наприкінці кроку накладає $grav+2$ на власника.</string>
 </set>
 <set id="description-status-modulecounter">
         <string lang="de">Dieses Modul hat einen oder mehr Zähler</string>
@@ -852,6 +865,19 @@
 		<string lang="zh-tw">晶殼
 </string>
 		<string lang="uk">Кристалізація</string>
+</set>
+<set id="name-status-moduleice">
+        <string lang="de">Eiskruste</string>
+		<string lang="en">Ice Crust</string>
+        <string lang="fr">Croûte de Glace</string>
+        <string lang="zh">冰晶壳</string>
+        <string lang="jp">氷結晶</string>
+        <string lang="ru">Ледяная Кристаллизация</string>
+        <string lang="es">Corteza de Hielo</string>
+        <string lang="kr">얼음 크러스트</string>
+        <string lang="pt-br">Crosta de Gelo</string>
+        <string lang="zh-tw">冰晶殼</string>
+        <string lang="uk">Льодяна Кристалізація</string>
 </set>
 <set id="name-status-modulecounter">
         <string lang="de">Zähler</string>

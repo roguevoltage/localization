@@ -114,9 +114,6 @@
 		<string lang="kr">Absorbs $grav+$ as healing.</string>
 		<string lang="uk">Вбирає $grav+$ як лікування.</string>
 </set>
-<set id="description-skill-icicle">
-    <string lang="en">For every point of $might$ on this monster:$br$[Apply $grav+1$ to an enemy.]</string>
-</set>
 <set id="description-skill-gravpush-2-gravadillo">
 		<string lang="de">Fügt einem anderen Kampfteilnehmer $grav+2$. Wenn es ein Charakter ist, versieht ein Modul mit $selfencrusting$.</string>
 		<string lang="en">Inflicts another combatant with $grav+2$. If it is a player character inflict a module with $selfencrusting$.</string>
@@ -331,9 +328,6 @@
 		<string lang="jp">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="kr">Antiplasma $-2$ $plasmaicon$</string>
 		<string lang="uk">Антиплазма $-2$ $plasmaicon$</string>
-</set>
-<set id="name-skill-icicle">
-		<string lang="en">Freezing Field $grav+icon$</string>
 </set>
 <set id="name-skill-selfdestruct">
 		<string lang="de">Selbstzerstörung</string>
@@ -653,9 +647,6 @@
 </set>
 <set id="name-skill-passive-onendofturn-ifdamaged-gravneg">
 		<string lang="en">Rage $grav-icon$</string>
-</set>
-<set id="name-skill-passive-onstatus-powerraise-icicle">
-		<string lang="en">Frozen Vigour $blizzardicon$$mighticon$</string>
 </set>
 <set id="name-skill-modulegravrecoil-aoe">
 		<string lang="en">Grav. Recoil $gravrecoilicon$</string>

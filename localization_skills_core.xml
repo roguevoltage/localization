@@ -374,6 +374,19 @@
 </string>
 		<string lang="uk">Прибирає $grav+1$ з цілі і переносить його на іншого учасника бою.</string>
 </set>
+<set id="description-skill-icicle">
+    <string lang="de">Für jeden Punkt $might$ auf diesem Monster:$br$[Fügt einem Gegner $grav+1$ zu.]</string>
+    <string lang="en">For every point of $might$ on this monster:$br$[Apply $grav+1$ to an enemy.]</string>
+    <string lang="fr">Pour chaque point de $might$ sur ce monstre:$br$[Applique $grav+1$ à un ennemi.]</string>
+    <string lang="zh">对于该怪物身上的每一点$might$：$br$[对一名敌人施放$grav+1$。]</string>
+    <string lang="jp">このモンスターの$might$1点ごとに：$br$[敵1体に$grav+1$付与。]</string>
+    <string lang="ru">За каждую единицу $might$ на этом монстре:$br$[Накладывает $grav+1$ на врага.]</string>
+    <string lang="es">Por cada punto de $might$ en este monstruo:$br$[Aplica $grav+1$ a un enemigo.]</string>
+    <string lang="kr">이 몬스터의 $might$ 1점마다:$br$[적에게 $grav+1$를 부여합니다.]</string>
+    <string lang="pt-br">Para cada ponto de $might$ neste monstro:$br$[Aplica $grav+1$ a um inimigo.]</string>
+    <string lang="zh-tw">對於該怪物身上的每一點$might$：$br$[對一名敵人施放$grav+1$。]</string>
+    <string lang="uk">За кожен пункт $might$ на цьому монстрі:$br$[Накладає $grav+1$ на ворога.]</string>
+</set>
 <set id="description-skill-leftclaw">
 		<string lang="de">Fügt einem Gegner $1damage$ und $grav+2$ zu.</string>
 		<string lang="en">Deals $1damage$$br$and applies $grav+2$</string>
@@ -526,6 +539,45 @@
 		<string lang="zh-tw">對軀幹造成$2damage$。
 </string>
 		<string lang="uk">Наносить $2damage$ тілу.</string>
+</set>
+<set id="description-skill-passive-onstatusremoval-gravaoe">
+        <string lang="de">Immer wenn dieses Monster den $blizzard$ verlässt, wird allen Gegnern $grav+1$ zugefügt.</string>
+		<string lang="en">Whenever this monster leaves the $blizzard$, apply $grav+1$ to all enemies.</string>
+        <string lang="fr">Chaque fois que ce monstre quitte le $blizzard$, applique $grav+1$ à tous les ennemis.</string>
+        <string lang="zh">当该怪物离开$blizzard$时，对所有敌人施放$grav+1$。</string>
+        <string lang="jp">このモンスターが$blizzard$を離れるたびに、敵全体に$grav+1$付与。</string>
+        <string lang="ru">Когда этот монстр покидает $blizzard$, применяет $grav+1$ ко всем врагам.</string>
+        <string lang="es">Cada vez que este monstruo salga del $blizzard$, aplica $grav+1$ a todos los enemigos.</string>
+        <string lang="kr">이 몬스터가 $blizzard$를 떠날 때마다 모든 적에게 $grav+1$를 부여합니다.</string>
+        <string lang="pt-br">Sempre que este monstro sair do $blizzard$, aplica $grav+1$ a todos os inimigos.</string>
+        <string lang="zh-tw">當該怪物離開$blizzard$時，對所有敵人施放$grav+1$。</string>
+        <string lang="uk">Коли цей монстр покидає $blizzard$, накладає $grav+1$ на всіх ворогів.</string>
+</set>
+<set id="description-skill-passive-onstatusremoval-iceshards">
+        <string lang="de">Immer wenn dieses Monster den $blizzard$ verlässt, stelle ein $b$Eissplitter$/b$-Modul auf dem Rack jedes Charakters her.</string>
+		<string lang="en">Whenever this monster leaves the $blizzard$, construct one $b$Ice Shards$/b$ module with on each character's rack.</string>
+        <string lang="fr">Chaque fois que ce monstre quitte le $blizzard$, construit un module $b$Eclats de glace$/b$ sur le rack de chaque personnage.</string>
+        <string lang="zh">当该怪物离开$blizzard$时，在每个角色的模架上制造一个$b$冰碎片$/b$模块。</string>
+        <string lang="jp">このモンスターが$blizzard$を離れるたびに、各キャラクターのラックに$b$氷の破片$/b$モジュールを1つ生成。</string>
+        <string lang="ru">Когда этот монстр покидает $blizzard$, создает по одному модулю $b$Ледяные Осколки$/b$ на стойке каждого персонажа.</string>
+        <string lang="es">Cada vez que este monstruo salga del $blizzard$, construye un módulo $b$Fragmentos de Hielo$/b$ en el bastidor de cada personaje.</string>
+        <string lang="kr">이 몬스터가 $blizzard$를 떠날 때마다 각 캐릭터의 랙에 $b$얼음 파편$/b$ 모듈을 하나 생성합니다.</string>
+        <string lang="pt-br">Sempre que este monstro sair do $blizzard$, constrói um módulo $b$Fragmentos de Gelo$/b$ no rack de cada personagem.</string>
+        <string lang="zh-tw">當該怪物離開$blizzard$時，在每個角色的模架上製造一個$b$冰碎片$/b$模組。</string>
+        <string lang="uk">Коли цей монстр покидає $blizzard$, створює по одному модулю $b$Льодові Осколки$/b$ на стійці кожного персонажа.</string>
+</set>
+<set id="description-skill-passive-onstatus-powerraise-icicle">
+        <string lang="de">Immer wenn dieses Monster den $blizzard$ betritt, erhält es $1might$.</string>
+		<string lang="en">Whenever this monster enters the $blizzard$, it gains $1might$.</string>
+        <string lang="fr">Chaque fois que ce monstre entre dans le $blizzard$, il gagne $1might$.</string>
+        <string lang="zh">当该怪物进入$blizzard$时，提升$1might$。</string>
+        <string lang="jp">このモンスターが$blizzard$に入るたびに、$might$$1$上昇。</string>
+        <string lang="ru">Когда этот монстр входит в $blizzard$, он получает $1might$.</string>
+        <string lang="es">Cada vez que este monstruo entra en el $blizzard$, gana $1might$.</string>
+        <string lang="kr">이 몬스터가 $blizzard$에 들어갈 때마다 $might$이 $1$ 상승합니다.</string>
+        <string lang="pt-br">Sempre que este monstro entrar no $blizzard$, ele ganha $1might$.</string>
+        <string lang="zh-tw">當該怪物進入$blizzard$時，提升$1might$。</string>
+        <string lang="uk">Коли цей монстр входить у $blizzard$, він отримує $1might$.</string>
 </set>
 <set id="description-skill-ondeath-hurtwalrusbody">
 		<string lang="de">Fügt dem Körper $2damage$ zu.</string>
@@ -1172,6 +1224,18 @@
 </string>
 		<string lang="uk">Гравітрансфер</string>
 </set>
+<set id="name-skill-icicle">
+        <string lang="de">Gefrorenes Feld $grav+icon$</string>
+		<string lang="en">Freezing Field $grav+icon$</string>
+        <string lang="fr">Champ de Gel $grav+icon$</string>
+        <string lang="zh">Freezing Field $grav+icon$</string>
+        <string lang="jp">フリージングフィールド $grav+icon$</string>   
+        <string lang="es">Campo de Congelación $grav+icon$</string>
+        <string lang="kr">프리징 필드 $grav+icon$</string>		
+        <string lang="pt-br">Campo Congelante $grav+icon$</string>
+        <string lang="zh-tw">冰霜領域 $grav+icon$</string>
+        <string lang="uk">Заморожене Поле $grav+icon$</string>
+</set>
 <set id="name-skill-leftclaw">
 		<string lang="de">Linke Schere $grav+2$</string>
 		<string lang="en">Left Claw $grav+2$</string>
@@ -1379,6 +1443,47 @@
 		<string lang="zh-tw">晶殼偵測$mighticon$
 </string>
 		<string lang="uk">Детекція кристалізації $mighticon$</string>
+</set>
+<set id="name-skill-passive-onstatusremoval-gravaoe">
+        <string lang="de">Magnetisches Ausatmen $blizzardicon$$grav+icon$</string>
+		<string lang="en">Magnetic Exhale $blizzardicon$$grav+icon$</string>
+        <string lang="fr">Exhalation Magnétique $blizzardicon$$grav+icon$</string>
+        <string lang="zh">磁性呼出$blizzardicon$$grav+icon$</string>
+        <string lang="jp">磁気呼出$blizzardicon$$grav+icon$</string>
+        <string lang="ru">Магнитное Выдыхание $blizzardicon$$grav+icon$</string>
+        <string lang="es">Exhalación Magnética $blizzardicon$$grav+icon$</string>
+        <string lang="kr">자기 내뱉기 $blizzardicon$$grav+icon$</string>
+        <string lang="pt-br">Exalação Magnética $blizzardicon$$grav+icon$</string>
+        <string lang="zh-tw">磁性呼出$blizzardicon$$grav+icon$
+</string>
+        <string lang="uk">Магнітне видихання $blizzardicon$$grav+icon$</string>
+</set>
+<set id="name-skill-passive-onstatus-powerraise-icicle">
+        <string lang="de">Eisige Kraft $blizzardicon$$mighticon$</string>
+		<string lang="en">Frozen Vigour $blizzardicon$$mighticon$</string>
+        <string lang="fr">Vigueur Gelée $blizzardicon$$mighticon$</string>
+        <string lang="zh">冰冻活力 $blizzardicon$$mighticon$</string>
+        <string lang="jp">氷結の活力 $blizzardicon$$mighticon$</string>
+        <string lang="ru">Замороженная Сила $blizzardicon$$mighticon$</string>
+        <string lang="es">Vigor Congelado $blizzardicon$$mighticon$</string>
+        <string lang="kr">얼어붙은 활력 $blizzardicon$$mighticon$</string>
+        <string lang="pt-br">Vigor Congelado $blizzardicon$$mighticon$</string>
+        <string lang="zh-tw">冰凍活力 $blizzardicon$$mighticon$</string>
+        <string lang="uk">Заморожена Сила $blizzardicon$$mighticon$</string>
+</set>
+<set id="name-skill-passive-onstatusremoval-iceshards">
+        <string lang="de">Eisiger Ausbruch $blizzardicon$</string>
+		<string lang="en">Icy Burst $blizzardicon$</string>
+        <string lang="fr">Explosion Glacée $blizzardicon$</string>
+        <string lang="zh">冰霜爆发$blizzardicon$</string>
+        <string lang="jp">氷結爆発$blizzardicon$</string>
+        <string lang="ru">Ледяной Взрыв $blizzardicon$</string>
+        <string lang="es">Explosión Helada $blizzardicon$</string>
+        <string lang="kr">얼음 폭발 $blizzardicon$</string>
+        <string lang="pt-br">Explosão Gélida $blizzardicon$</string>
+        <string lang="zh-tw">冰霜爆發$blizzardicon$
+</string>
+        <string lang="uk">Крижаний вибух $blizzardicon$</string>
 </set>
 <set id="name-skill-passive-ondamage-powerraise">
 		<string lang="de">Trauma-Detektion $mighticon$</string>
