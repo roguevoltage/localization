@@ -704,6 +704,19 @@
         <string lang="zh-tw">效應器</string>
         <string lang="uk">Ефектор</string>
 </set>
+<set id="module-type-consumable">
+		<string lang="de">Verbrauchsmodul</string>
+		<string lang="en">Consumable</string>
+		<string lang="fr">Consommable</string>
+		<string lang="zh">消耗模块</string>
+		<string lang="jp">消耗品モジュール</string>
+		<string lang="ru">Расходный Модуль</string>
+		<string lang="es">Consumible</string>
+		<string lang="kr">소모품 모듈</string>
+		<string lang="pt-br">Consumível</string>
+		<string lang="zh-tw">消耗模組</string>
+		<string lang="uk">Витратний модуль</string>
+</set>
 <set id="module-type-passive">
 		<string lang="de">Passivmodul</string>
 		<string lang="en">Passive Module</string>
@@ -769,6 +782,19 @@
 		<string lang="zh-tw">儲存</string>
 		<string lang="uk">Сховище</string>
 </set>
+<set id="module-type-selfcharging">
+		<string lang="de">Selbstaufladend</string>
+		<string lang="en">Self-Charging</string>
+		<string lang="fr">Auto-Chargeant</string>
+		<string lang="zh">自充电</string>
+		<string lang="jp">自己充電式</string>
+		<string lang="ru">Самозарядный</string>
+		<string lang="es">Auto-Cargable</string>
+		<string lang="kr">자가 충전식</string>
+		<string lang="pt-br">Auto-Carregável</string>
+		<string lang="zh-tw">自充電</string>
+		<string lang="uk">Автозарядний</string>
+</set>
 <set id="module-type-threat">
 		<string lang="de">Bedrohung</string>
 		<string lang="en">Threat</string>
@@ -784,7 +810,7 @@
 </set>
 <set id="module-type-toggled">
 		<string lang="de">Schaltermodul</string>
-		<string lang="en">Toggled Module</string>
+		<string lang="en">Toggled</string>
 		<string lang="fr">Module à Bascule</string>
 		<string lang="zh">模块已打开</string>
 		<string lang="jp">切替モジュール</string>
@@ -807,6 +833,19 @@
 		<string lang="pt-br">Cofre</string>
 		<string lang="zh-tw">庫</string>
 		<string lang="uk">Сховище</string>
+</set>
+<set id="module-type-weapon">
+        <string lang="de">Waffe</string>
+        <string lang="en">Weapon</string>
+		<string lang="fr">Arme</string>
+		<string lang="zh">武器</string>
+		<string lang="jp">武器</string>
+		<string lang="ru">Оружие</string>
+		<string lang="es">Arma</string>
+		<string lang="kr">무기</string>
+		<string lang="pt-br">Arma</string>
+		<string lang="zh-tw">武器</string>
+		<string lang="uk">Зброя</string>
 </set>
 <set id="module-type-winduptoy">
         <string lang="de">Aufziehspielzeug</string>
