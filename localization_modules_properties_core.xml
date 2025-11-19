@@ -364,8 +364,8 @@
 		<string lang="uk">Втратить $energyicon$$b$Енергію$/b$ наприкінці ходу</string>
 </set>
 <set id="module-properties-upgrade-limit">
-        <string lang="de">Module können nur ein$br$$upgrade$ erhalten.</string>
-        <string lang="en">Modules can only have$br$one $upgrade$.</string>
+        <string lang="de">Module können nur ein $upgrade$ erhalten.</string>
+        <string lang="en">Modules can only have one $upgrade$.</string>
         <string lang="fr">Les modules ne peuvent recevoir qu'une seule $upgrade$.</string>
         <string lang="zh">模块只能获得一个$upgrade$。</string>
         <string lang="jp">モジュールは1つの$upgrade$のみを受け取れます。</string>
@@ -375,6 +375,32 @@
         <string lang="pt-br">Os módulos só podem receber um $upgrade$.</string>
         <string lang="zh-tw">模組只能獲得一個$upgrade$。</string>
         <string lang="uk">Модулі можуть отримати лише одне $upgrade$.</string>
+</set>
+<set id="module-properties-gravvacuum-limit">
+        <string lang="de">Module können nur ein $gravvacuum$ erhalten.</string>
+        <string lang="en">Modules can only have one $gravvacuum$.</string>
+        <string lang="fr">Les modules ne peuvent recevoir qu'une seule $gravvacuum$.</string>
+        <string lang="zh">模块只能获得一个$gravvacuum$。</string>
+        <string lang="jp">モジュールは1つの$gravvacuum$のみを受け取れます。</string>
+        <string lang="ru">Модули могут получить только одно $gravvacuum$.</string>
+        <string lang="es">Los módulos solo pueden recibir$br$un $gravvacuum$.</string>
+        <string lang="kr">모듈은 $gravvacuum$를 하나만 받을 수 있습니다.</string>
+        <string lang="pt-br">Os módulos só podem receber um $gravvacuum$.</string>
+        <string lang="zh-tw">模組只能獲得一個$gravvacuum$。</string>
+        <string lang="uk">Модулі можуть отримати лише одне $gravvacuum$.</string>
+</set>
+<set id="module-properties-grav-cancellation">
+        <string lang="de">$gravrecoil$ und $gravvacuum$ heben sich gegenseitig auf.</string>
+        <string lang="en">$gravrecoil$ and $gravvacuum$ are cancelling each other out.</string>
+        <string lang="fr">$gravrecoil$ et $gravvacuum$ s'annulent mutuellement.</string>
+        <string lang="zh">$gravrecoil$ 和 $gravvacuum$ 相互抵消。</string>
+        <string lang="jp">$gravrecoil$ と $gravvacuum$ は互いに打ち消し合います。</string>
+        <string lang="ru">$gravrecoil$ и $gravvacuum$ взаимно отменяют друг друга.</string>
+        <string lang="es">$gravrecoil$ y $gravvacuum$ se cancelan entre sí.</string>
+        <string lang="kr">$gravrecoil$와 $gravvacuum$가 서로 상쇄됩니다.</string>
+        <string lang="pt-br">$gravrecoil$ e $gravvacuum$ se cancelam mutuamente.</string>
+        <string lang="zh-tw">$gravrecoil$ 和 $gravvacuum$ 相互抵消。</string>
+        <string lang="uk">$gravrecoil$ і $gravvacuum$ взаємно скасовують один одного.</string>
 </set>
 <set id="module-properties-modifier-not-wired-behind-sensor">
 		<string lang="de">Ist nicht direkt an ein $sensor$-Modul gekabelt</string>

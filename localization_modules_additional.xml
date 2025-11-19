@@ -329,6 +329,19 @@
 		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標敵人造成$br$$1damage$。</string>
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає цільовому ворогу $1damage$].</string>
 </set>
+<set id="description-module-effectorbooster">
+    <string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Verleiht einem zufälligen $passthrough$-Modul $boost$ $br$auf diesem Rack]</string>
+	<string lang="en">For each point of $energy$$br$on this module:$br$[Applies $boost$ to a random $passthrough$ module $br$on this rack]</string>
+    <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $boost$ à un module $passthrough$ aléatoire $br$sur ce rack]</string>
+    <string lang="zh">模块每得到1$energy$供应，$br$对这个机架上的一个随机$passthrough$模块施加$boost$。</string>
+    <string lang="jp">このモジュールの$energy$ごとに、$br$このラックのランダムな$passthrough$モジュールに$boost$付与。</string>
+    <string lang="ru">За каждую $energy$ в этом модуле:$br$[Накладывает $boost$ на случайный $passthrough$ модуль $br$на этой стойке]</string>
+    <string lang="es">Por cada punto de $energy$ en este módulo:$br$[Aplica $boost$ a un módulo $passthrough$ aleatorio $br$en este rack]</string>
+    <string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$이 랙의 무작위 $passthrough$ 모듈에 $boost$를 적용합니다]</string>
+    <string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Aplica $boost$ a um módulo $passthrough$ aleatório $br$neste rack]</string>
+    <string lang="zh-tw">模組每得到1$energy$供應，$br$對這個機架上的一個隨機$passthrough$模組施加$boost$。</string>
+    <string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Накладає $boost$ на випадковий $passthrough$ модуль $br$на цій стійці]</string>
+</set>
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to target combatant].</string>
@@ -343,17 +356,17 @@
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає цільовому бійцю $grav+1$].</string>
 </set>
 <set id="description-module-effectorgravimmunity">
-		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$br$(Dauer: $energy$×3)</string>
-		<string lang="en">Apply $gravimmunity$ to target combatant.$br$(Duration: $energy$×3).</string>
-		<string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.$br$(Durée: $energy$×3).</string>
-		<string lang="zh">对目标参战单位施加$gravimmunity$。$br$（持续时间：$energy$×3）</string>
+		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$p$(Dauer: $energy$×3)</string>
+		<string lang="en">Apply $gravimmunity$$br$to target combatant.$p$(Duration: $energy$×3).</string>
+		<string lang="fr">Inflige $gravimmunity$ sur le combattant ciblé.$p$(Durée: $energy$×3).</string>
+		<string lang="zh">对目标参战单位施加$gravimmunity$。$p$（持续时间：$energy$×3）</string>
 		<string lang="jp">対象の敵味方に$gravimmunity$付与。$p$（効果時間：$energy$×3）</string>
-		<string lang="ru">Накладывает $gravimmunity$ на цель.$br$(Продолжительность: $energy$×3).</string>
-		<string lang="es">Inflige $gravimmunity$ en un combatiente objetivo.$br$(Duración: $energy$×3).</string>
-		<string lang="kr">대상 전투원에게 $gravimmunity$을 부여합니다.$br$(지속시간: $energy$×3).</string>
-		<string lang="pt-br">Inflige $gravimmunity$ no combatente alvo.$br$(Duração: $energy$×3).</string>
-		<string lang="zh-tw">對目標參戰單位施加$gravimmunity$。$br$（持續時間：$energy$×3）</string>
-		<string lang="uk">Накладає на ціль $gravimmunity$.$br$(Тривалість: $energy$×3).</string>
+		<string lang="ru">Накладывает $gravimmunity$ на цель.$p$(Продолжительность: $energy$×3).</string>
+		<string lang="es">Inflige $gravimmunity$ en un combatiente objetivo.$p$(Duración: $energy$×3).</string>
+		<string lang="kr">대상 전투원에게 $gravimmunity$을 부여합니다.$p$(지속시간: $energy$×3).</string>
+		<string lang="pt-br">Inflige $gravimmunity$ no combatente alvo.$p$(Duração: $energy$×3).</string>
+		<string lang="zh-tw">對目標參戰單位施加$gravimmunity$。$p$（持續時間：$energy$×3）</string>
+		<string lang="uk">Накладає на ціль $gravimmunity$.$p$(Тривалість: $energy$×3).</string>
 </set>
 <set id="description-module-effectorlightning">
 		<string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen $lightning$ niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
@@ -1101,6 +1114,19 @@
 		<string lang="zh-tw">選擇同模架上另一$cracked$模組，賦予其$replicating$及$unstable$狀態。</string>
 		<string lang="uk">Інший вказаний $cracked$ модуль на цій стійці отримає $replicating$ і $unstable$.</string>
 </set>
+<set id="description-module-toggledgravequalizer">
+		<string lang="de">Ruft das $gravequilibrium$ direkt nach dem Zug des Besitzers herbei.</string>
+		<string lang="en">Calls the $gravequilibrium$ right after the owner's turn.</string>
+        <string lang="fr">Invoque le $gravequilibrium$ juste après le tour du propriétaire.</string>
+        <string lang="zh">在拥有者回合结束后立即召唤$gravequilibrium$。</string>
+        <string lang="jp">オーナーのターン直後に$gravequilibrium$を召喚。</string>
+        <string lang="ru">Вызывает $gravequilibrium$ сразу после хода владельца.</string>
+        <string lang="es">Invoca el $gravequilibrium$ justo después del turno del propietario.</string>
+        <string lang="kr">소유자의 차례 직후에 $gravequilibrium$을 소환합니다.</string>
+        <string lang="pt-br">Invoca o $gravequilibrium$ logo após o turno do dono.</string>
+        <string lang="zh-tw">在擁有者回合結束後立即召喚$gravequilibrium$。</string>
+        <string lang="uk">Викликає $gravequilibrium$ відразу після ходу власника.</string>
+</set>
 <set id="description-module-toggledgravinverter">
 		<string lang="de">Kehrt die aktuelle $grav$ aller Kampfteilnehmer um.</string>
 		<string lang="en">Inverts the current $grav$ on all combatants.</string>
@@ -1116,7 +1142,7 @@
 </set>
 <set id="description-module-toggledgravvacuum">
 		<string lang="de">Versieht ein $passthrough$-Modul deiner Wahl auf diesem Rack dauerhaft mit $gravvacuum$.</string>
-		<string lang="en">Permanently applies$br$$gravvacuum$ to target $passthrough$ module$br$on this rack.</string>
+		<string lang="en">Applies $gravvacuum$$br$to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$为其施加永久$gravvacuum$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。</string>
@@ -1195,9 +1221,9 @@
 		<string lang="uk">Прибирає $outoforder$ з цільового модуля на цій стійці.</string>
 </set>
 <set id="description-module-toggledtransmogrifier">
-		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein Modul anderen Typs der gleichen Stufe her.</string>
-		<string lang="en">Destroys another target module on this rack.$p$Constructs a different module of the same level.</string>
-		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module différent du même niveau.</string>
+		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein zufälliges Modul der gleichen Stufe her.</string>
+		<string lang="en">Destroys another target module on this rack.$p$Constructs a random module of the same level.</string>
+		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module aléatoire du même niveau.</string>
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个同等级不同种类的模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$同レベルの異なるモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает другой модуль того же уровня.</string>
@@ -1208,9 +1234,9 @@
         <string lang="uk">Знищує інший цільовий модуль на цій стійці.$p$Створює інший модуль того ж рівня.</string>
 </set>
 <set id="description-module-toggledtransmogrifier-cracked">
-		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein Modul anderen Typs der gleichen Stufe her.</string>
-		<string lang="en">Destroys another target module on this rack.$p$Constructs a different module of the same level.</string>
-		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module différent du même niveau.</string>
+		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein zufälliges Modul der gleichen Stufe her.</string>
+		<string lang="en">Destroys another target module on this rack.$p$Constructs a random module of the same level.</string>
+		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module aléatoire du même niveau.</string>
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个同等级不同种类的模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$同レベルの異なるモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает другой модуль того же уровня.</string>
@@ -1313,7 +1339,7 @@
 </set>
 <set id="description-module-toggledupgradergenerator-gravrecoil">
 		<string lang="de">Versieht ein Modul vom Typ $generator$ oder $aggregate$ deiner Wahl auf diesem Rack mit $upgrade$ und $gravrecoil$.</string>
-		<string lang="en">Applies $upgrade$ and $gravrecoil$ to target module of type $generator$ or $aggregate$ on this rack.</string>
+		<string lang="en">Applies $upgrade$ and $gravrecoil$$br$to target module of type $generator$ or $aggregate$ on this rack.</string>
         <string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $generator$ ou $aggregate$ ciblé sur ce rack.</string>
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$和$gravrecoil$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$と$gravrecoil$付与。</string>
@@ -1701,6 +1727,19 @@
 		<string lang="pt-br">Blaster de Repetição $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">重複爆破器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Повторюваний Бластер $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectorbooster">
+    <string lang="de">Nitro-Spender</string>
+	<string lang="en">Nitrous Dispenser</string>
+    <string lang="fr">Distributeur de Nitro</string>
+    <string lang="zh">氮气分配器</string>
+    <string lang="jp">ニトロディスペンサー</string>
+    <string lang="ru">Дозатор Нитро</string>
+    <string lang="es">Dispensador de Nitro</string>
+    <string lang="kr">질소 분배기</string>
+    <string lang="pt-br">Distribuidor de Nitro</string>
+    <string lang="zh-tw">氮氣分配器</string>
+    <string lang="uk">Дозатор Нітро</string>
 </set>
 <set id="name-module-effectordeceleratorprecision">
 		<string lang="de">Repetier-Verlangsamer $MODIFICATIONVALUE$</string>
@@ -2429,7 +2468,7 @@
 		<string lang="uk">Демонтажник</string>
 </set>
 <set id="name-module-toggledduplicator">
-		<string lang="de">Modul-Duplicator</string>
+		<string lang="de">Modul-Duplikator</string>
 		<string lang="en">Module Duplicator</string>
 		<string lang="fr">Duplicateur de Module</string>
 		<string lang="zh">模块复制器</string>
@@ -2479,6 +2518,19 @@
 		<string lang="pt-br">Inversor Grav.</string>
 		<string lang="zh-tw">引力逆轉器</string>
 		<string lang="uk">Гравіінвертор</string>
+</set>
+<set id="name-module-toggledgravequalizer">
+		<string lang="de">Equilibrium in der Flasche</string>
+		<string lang="en">Equilibrium in a Bottle</string>
+        <string lang="fr">Équilibre en Bouteille</string>
+        <string lang="zh">瓶中平衡</string>
+        <string lang="jp">瓶の中の均衡</string>
+        <string lang="ru">Равновесие в Бутылке</string>
+        <string lang="es">Equilibrio en una Botella</string>
+        <string lang="kr">병 속의 평형</string>
+        <string lang="pt-br">Equilíbrio em uma Garrafa</string>
+        <string lang="zh-tw">瓶中平衡</string>
+        <string lang="uk">Рівновага в пляшці</string>
 </set>
 <set id="name-module-toggledgravvacuum">
 		<string lang="de">Durchsatz-Vakuumierer</string>

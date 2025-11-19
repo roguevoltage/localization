@@ -548,7 +548,7 @@
 </set>
 <set id="description-module-generator-overload">
 		<string lang="de">Erzeugt bei Aktivierung $b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht das angeschlossene Modul mit $overload$ bis zum Ende des Zuges.</string>
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$ on activation.$p$Inflicts the module wired to it with $overload$ until end of turn.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Inflicts the module wired to it with $overload$ until end of turn.</string>
 		<string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$.$p$Inflige le module câblé avec $overload$ jusqu'à la fin du tour.</string>
         <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为连接的模块施加$br$$overload$直到回合结束。</string>
         <string lang="jp">起動時に$b$$GENERATIONVALUE$$/b$$energy$発電。$p$接続されたモジュールに$overload$を付与し、ターン終了まで。</string>
@@ -611,6 +611,19 @@
 		<string lang="zh-tw"></string>
 		<string lang="uk"></string>
 </set>
+<set id="description-module-modifierdecelerating">
+		<string lang="de"></string>
+		<string lang="en"></string>
+		<string lang="fr"></string>
+		<string lang="zh"></string>
+		<string lang="jp"></string>
+		<string lang="ru"></string>
+		<string lang="es"></string>
+		<string lang="kr"></string>
+		<string lang="pt-br"></string>
+		<string lang="zh-tw"></string>
+		<string lang="uk"></string>
+</set>
 <set id="description-module-modifierchain">
 		<string lang="de">Fügt $1energy$ für jeden unterschiedlichen Modultyp hinzu, der vor ihm verkabelt ist.</string>
 		<string lang="en">Adds $1energy$ for every distinct module type wired before it.</string>
@@ -649,19 +662,6 @@
 		<string lang="pt-br">Adiciona $b$$MODIFICATIONVALUE$$/b$ $energy$ à corrente se conectado após um $b$Módulo Sensor$/b$.</string>
 		<string lang="zh-tw">若該能量流流經$sensor$模組，$br$則為能量流增加$b$$MODIFICATIONVALUE$$/b$$energy$。</string>
 		<string lang="uk">Додає $b$ $MODIFICATIONVALUE$ $/b$ $energy$ до струму, якщо підключено безпосередньо до модуля типу $sensor$.</string>
-</set>
-<set id="description-module-modifierdecelerating">
-		<string lang="de"></string>
-		<string lang="en"></string>
-		<string lang="fr"></string>
-		<string lang="zh"></string>
-		<string lang="jp"></string>
-		<string lang="ru"></string>
-		<string lang="es"></string>
-		<string lang="kr"></string>
-		<string lang="pt-br"></string>
-		<string lang="zh-tw"></string>
-		<string lang="uk"></string>
 </set>
 <set id="description-module-modifierpassthrough">
 		<string lang="de">Fügt dem Strom $b$$MODIFICATIONVALUE$$/b$ $energy$ hinzu, wenn hinter ein $passthrough$-Modul gekabelt.</string>
@@ -964,17 +964,17 @@
 		<string lang="uk">Назавжди видаляє $overload$ з модуля на цій стійці$p$- або -$p$назавжди видаляє $malfunctioning$ з модуля на цій стійці та замінює його на $overload$.</string>
 </set>
 <set id="description-module-toggledgravnullifier">
-		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
-		<string lang="en">Removes all $grav$$br$from all combatants.</string>
-		<string lang="fr">Supprime toute $grav$ de tous les combattants.</string>
-		<string lang="zh">移除所有参战单位的$grav$。</string>
-		<string lang="jp">敵味方全体から全$grav$除去。</string>
-		<string lang="ru">Удаляет все $grav$ у всех участников боя.</string>
-		<string lang="es">Elimina todo $grav$ de todos los combatientes.</string>
-		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.</string>
-		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.</string>
-		<string lang="zh-tw">移除所有參戰單位的$grav$。</string>
-		<string lang="uk">Видаляє всі $grav$ у всіх учасників бою.</string>
+		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.$p$Versieht alle Kampfteilnehmer mit $gravimmunity$.$p$(Dauer: 6)</string>
+		<string lang="en">Removes all $grav$$br$from all combatants.$p$Applies $gravimmunity$$br$to all combatants.$p$(Duration: 6)</string>
+		<string lang="fr">Supprime toute $grav$ de tous les combattants.$p$Applique $gravimmunity$ à tous les combattants.$p$(Durée: 6)</string>
+		<string lang="zh">移除所有参战单位的$grav$。$p$为所有参战单位$br$施加$gravimmunity$。$p$（持续时间：6）</string>
+		<string lang="jp">敵味方全体から全$grav$除去。$p$敵味方全体に$gravimmunity$付与。$p$（効果時間：6）</string>
+		<string lang="ru">Удаляет все $grav$ у всех участников боя.$p$Применяет $gravimmunity$ ко всем бойцам.$p$(Длительность: 6)</string>
+		<string lang="es">Elimina todo $grav$ de todos los combatientes.$p$Aplica $gravimmunity$ a todos los combatientes.$p$(Duración: 6)</string>
+		<string lang="kr">모든 전투원이 지닌 모든 $grav$를 제거합니다.$p$모든 전투원에게$br$$gravimmunity$을 부여합니다.$p$(지속시간: 6)</string>
+		<string lang="pt-br">Remove todo $grav$ de todos os combatentes.$p$Aplica $gravimmunity$ a todos os combatentes.$p$(Duração: 6)</string>
+		<string lang="zh-tw">移除所有參戰單位的$grav$。$p$為所有參戰單位$br$施加$gravimmunity$。$p$（持續時間：6）</string>
+		<string lang="uk">Видаляє всі $grav$ у всіх учасників бою.$p$Застосовує $gravimmunity$ до всіх учасників бою.$p$(Тривалість: 6)</string>
 </set>
 <set id="description-module-toggledgrenadegravnullifier">
 		<string lang="de">Entfernt alle $grav$ von allen Kampfteilnehmern.</string>
@@ -1199,7 +1199,7 @@
 </set>
 <set id="description-module-toggledupgrader">
 		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack ein permanentes $upgrade$.</string>
-		<string lang="en">Permanently applies$br$$upgrade$ to target $passthrough$ module$br$on this rack.</string>
+		<string lang="en">Applies$br$$upgrade$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique une $upgrade$ permanent à un module de type $passthroughmodule$ sur ce rack.</string>
 		<string lang="zh">为目标$passthroughmodule$施加永久$br$$upgrade$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$upgrade$恒久付与。</string>
@@ -1211,7 +1211,7 @@
 		<string lang="uk">Застосовує постійне $upgrade$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledupgraderpassthrough-gravrecoil">
-		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack $upgrade$ und $br$$gravrecoil$.</string>
+		<string lang="de">Verleiht einem $passthrough$-Modul deiner Wahl auf diesem Rack $upgrade$ und $gravrecoil$.</string>
 		<string lang="en">Applies $upgrade$ and$br$$gravrecoil$ to target $passthrough$ module$br$on this rack.</string>
 		<string lang="fr">Applique $upgrade$ et $gravrecoil$ à un module de type $passthroughmodule$ sur ce rack.</string>
         <string lang="zh">为目标$passthroughmodule$施加$br$$upgrade$和$gravrecoil$。</string>
@@ -1951,17 +1951,17 @@
 		<string lang="uk">Умовний підсилювач $MODIFICATIONVALUE$: Травма</string>
 </set>
 <set id="name-module-modifierdecelerating">
-		<string lang="de">Rückstoß-Verstärker $MODIFICATIONVALUE$</string>
-		<string lang="en">Recoil Amplifier $MODIFICATIONVALUE$</string>
-		<string lang="fr">Amplificateur Recul $MODIFICATIONVALUE$</string>
-		<string lang="zh">反冲增幅器$MODIFICATIONVALUE$</string>
-		<string lang="jp">反動増幅器$MODIFICATIONVALUE$</string>
-		<string lang="ru">Усилитель Замедления $MODIFICATIONVALUE$</string>
-		<string lang="es">Amplificador de Retroceso $MODIFICATIONVALUE$</string>
-		<string lang="kr">반동 증폭기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Amplificador de Recuo $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">反沖增幅器$MODIFICATIONVALUE$</string>
-		<string lang="uk">Підсилювач віддачі $MODIFICATIONVALUE$</string>
+		<string lang="de">Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Amplifier $MODIFICATIONVALUE$</string>
+		<string lang="fr">Amplificateur $MODIFICATIONVALUE$</string>
+		<string lang="zh">增幅器$MODIFICATIONVALUE$</string>
+		<string lang="jp">増幅器$MODIFICATIONVALUE$</string>
+		<string lang="ru">Усилитель $MODIFICATIONVALUE$</string>
+		<string lang="es">Amplificador $MODIFICATIONVALUE$</string>
+		<string lang="kr">증폭기 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Amplificador $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">增幅器$MODIFICATIONVALUE$</string>
+		<string lang="uk">Підсилювач $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-modifierpassthrough">
 		<string lang="de">Durchsatz-Verstärker $MODIFICATIONVALUE$</string>
@@ -2268,32 +2268,30 @@
 		<string lang="uk">Покращувач міцності</string>
 </set>
 <set id="name-module-toggledgravnullifier">
-		<string lang="de">Grav.-Neutralisator</string>
-		<string lang="en">Grav. Neutralizer</string>
-		<string lang="fr">Neutralisant Grav.</string>
-		<string lang="zh">引力中和器</string>
-		<string lang="jp">重力中和器</string>
-		<string lang="ru">Грав. Нейтрализатор</string>
-		<string lang="es">Neutralizador Grav.</string>
-		<string lang="kr">중력 상쇄기</string>
-		<string lang="pt-br">Neutralizador Grav.</string>
-		<string lang="zh-tw">引力中和器
-</string>
-		<string lang="uk">Гравінейтралізатор</string>
+		<string lang="de">Null-Sphäre</string>
+		<string lang="en">Null Sphere</string>
+        <string lang="fr">Sphère Nulle</string>
+        <string lang="zh">零点球体</string>
+        <string lang="jp">ヌルスフィア</string>
+        <string lang="ru">Нулевая Сфера</string>
+        <string lang="es">Esfera Nula</string>
+        <string lang="kr">널 구체</string>
+        <string lang="pt-br">Esfera Nula</string>
+        <string lang="zh-tw">零點球體</string>
+        <string lang="uk">Нульова сфера</string>
 </set>
 <set id="name-module-toggledgrenadegravnullifier">
-		<string lang="de">Grav.-Neutralisator</string>
-		<string lang="en">Grav. Neutralizer</string>
-		<string lang="fr">Neutralisant Grav.</string>
-		<string lang="zh">引力中和器</string>
-		<string lang="jp">重力中和器</string>
-		<string lang="ru">Грав. Нейтрализатор</string>
-		<string lang="es">Neutralizador Grav.</string>
-		<string lang="kr">중력 상쇄기</string>
-		<string lang="pt-br">Neutralizador Grav.</string>
-		<string lang="zh-tw">引力中和器
-</string>
-		<string lang="uk">Гравінейтралізатор</string>
+		<string lang="de">Null-Sphäre</string>
+		<string lang="en">Null Sphere</string>
+        <string lang="fr">Sphère Nulle</string>
+        <string lang="zh">零点球体</string>
+        <string lang="jp">ヌルスフィア</string>
+        <string lang="ru">Нулевая Сфера</string>
+        <string lang="es">Esfera Nula</string>
+        <string lang="kr">널 구체</string>
+        <string lang="pt-br">Esfera Nula</string>
+        <string lang="zh-tw">零點球體</string>
+        <string lang="uk">Нульова сфера</string>
 </set>
 <set id="name-module-toggledgrenadevulnerability">
 		<string lang="de">Verwundbarkeits-Granate</string>
@@ -2335,17 +2333,17 @@
 		<string lang="uk">Підсилювач пропускної спроможності</string>
 </set>
 <set id="name-module-toggledupgraderpassthrough-gravrecoil">
-		<string lang="de">Durchsatz-Upgrader: Grav. Rückstoß</string>
-		<string lang="en">Passthrough Upgrader: Grav. Recoil</string>
-		<string lang="fr">Améliorateur de Relais: Recul Grav.</string>
-		<string lang="zh">中继升级器:引力反冲</string>
-		<string lang="jp">中継改良器：重力</string>
-		<string lang="ru">Улучшатель Пропускной Способности: Грав. Отдача</string>
-		<string lang="es">Mejorador de Traspaso: Retroceso Grav.</string>
-		<string lang="kr">통과 개량기: 중력 반동</string>
-		<string lang="pt-br">Melhorador de Atravessar: Recuo Grav.</string>
-		<string lang="zh-tw">中繼升級器:引力反沖</string>
-		<string lang="uk">Підсилювач пропускної спроможності: Грав. Віддача</string>
+		<string lang="de">Durchsatz-Upgrader</string>
+		<string lang="en">Passthrough Upgrader</string>
+		<string lang="fr">Améliorateur de Relais</string>
+		<string lang="zh">中继升级器</string>
+		<string lang="jp">中継改良器</string>
+		<string lang="ru">Улучшатель Пропускной Способности</string>
+		<string lang="es">Mejorador de Traspaso</string>
+		<string lang="kr">통과 개량기</string>
+		<string lang="pt-br">Melhorador de Atravessar</string>
+		<string lang="zh-tw">中繼升級器</string>
+		<string lang="uk">Підсилювач пропускної спроможності</string>
 </set>
 <set id="name-module-trashcompactor">
 		<string lang="de">Schrottpresse</string>

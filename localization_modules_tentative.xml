@@ -159,12 +159,6 @@
 		<string lang="en">At the beginning of turn, apply $grav+2$ to them.$p$At the end of turn deals $1damage$ to them.</string>
 		<string lang="uk">На початку ходу власника накладає на нього $grav+2$.$p$Наприкінці ходу власника наносить йому $1damage$.</string>
 </set>
-<set id="description-module-effectorbooster">
-	<string lang="en">For each point of $energy$$br$on this module:$br$[Applies $boost$ to a random $passthroughmodule$$br$on this rack]</string>
-</set>
-<set id="name-module-effectorbooster">
-	<string lang="en">Nitrous Dispenser</string>
-</set>
 <set id="description-module-factorymagnetgravpos">
 	<string lang="en">For each point of $energy$$br$on this module:$br$[Construct a $b$Grav. Magnet $grav+icon$$/b$ with $cracked$ on this rack]</string>
 </set>
