@@ -1003,17 +1003,17 @@
 		<string lang="uk">Накладає $vulnerable$ на всіх ворогів.$p$(Тривалість: 6)</string>
 </set>
 <set id="description-module-toggledmaxhpenhancer">
-		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$1healing$ auf ihn/sie an.</string>
-		<string lang="en">Permanently increases the owner's max. HP by $1$ and applies $1healing$ to them.</string>
-		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $1healing$.</string>
+		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet$br$$2healing$ auf ihn/sie an.</string>
+		<string lang="en">Permanently increases the owner's max. HP by $1$ and applies$br$$2healing$ to them.</string>
+		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $2healing$.</string>
 		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
 		<string lang="jp">キャラの最大HPを恒久的に$br$$1$増やし、$1$$healing$。</string>
-		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $1healing$ к нему/ей.</string>
-		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $1healing$ a él/ella.</string>
-		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $1$ $healing$를 부여합니다.</string>
-		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $1healing$ a ele/ela.</string>
-		<string lang="zh-tw">令角色最大生命值永久提升$1$，$br$並對其施加$1$點$healing$。</string>
-		<string lang="uk">Назавжди збільшує макс. HP на $1$ і застосовує $1healing$.</string>
+		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $2healing$ к нему/ей.</string>
+		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $2healing$ a él/ella.</string>
+		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $2healing$를 부여합니다.</string>
+		<string lang="pt-br">Aumenta permanentemente os HP máximos do personagem em $1$ e aplica $2healing$ a ele/ela.</string>
+		<string lang="zh-tw">令角色最大生命值永久提升$1$，$br$並對其施加$2$點$healing$。</string>
+		<string lang="uk">Назавжди збільшує макс. HP на $1$ і застосовує $2healing$.</string>
 </set>
 <set id="name-module-toggledpaintbucket-blue">
         <string lang="de">Farbeimer (Blau)</string>
@@ -2005,6 +2005,15 @@
 <set id="name-module-passivecentrifuge" remarks="translate as Centrifuge">
         <string lang="de">Zentrifuge</string>
         <string lang="en">Centrifuge</string>
+        <string lang="fr">Centrifugeuse</string>
+        <string lang="zh">离心机</string>
+        <string lang="jp">遠心分離機</string>
+        <string lang="ru">Центрифуга</string>
+        <string lang="es">Centrífuga</string>
+        <string lang="kr">원심분리기</string>
+        <string lang="pt-br">Centrífuga</string>
+        <string lang="zh-tw">離心機</string>
+        <string lang="uk">Центрифуга</string>
 </set>
 <set id="name-module-passivegeneratorroll" remarks="translate as Oil Can">
         <string lang="de">Ölkanne</string>

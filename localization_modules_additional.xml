@@ -773,7 +773,17 @@
         <string lang="uk">В кінці ходу накладає $grav+2$ на власника.</string>
 </set>
 <set id="description-module-passivecentrifuge">
-		<string lang="en">Whenever $boost$ expires from a module on this rack on end of turn, put a $b$Counter$/b$ on this module.$p$At the beginning of turn, remove $2$ $b$Counters$/b$ from this module to to apply $boost$ to a random $passthrough$ module on this rack.</string>
+        <string lang="de">Immer wenn $boost$ von einem Modul auf diesem Rack am Ende des Zuges abläuft, setze einen $b$Zähler$/b$ auf dieses Modul.$p$Zu Beginn des Zuges, für jede $3$ $b$Zähler$/b$, die du von diesem Modul entfernst, wende $boost$ auf ein zufälliges $passthrough$-Modul auf diesem Rack an.</string>
+		<string lang="en">Whenever $boost$ expires from a module on this rack on end of turn, put a $b$Counter$/b$ on this module.$p$At the beginning of turn, for each $3$ $b$Counters$/b$ you remove from this module, apply $boost$ to a random $passthrough$ module on this rack.</string>
+        <string lang="fr">Chaque fois que $boost$ expire d'un module sur ce rack à la fin du tour, place un $b$Compteur$/b$ sur ce module.$p$Au début du tour, pour chaque $3$ $b$Compteurs$/b$ que vous retirez de ce module, appliquez $boost$ à un module $passthrough$ aléatoire sur ce rack.</string>
+        <string lang="zh">每当此模架上的模块在回合结束时失去$boost$，$br$就在该模块上放置一个$b$计数器$/b$。$p$回合开始时，$br$每从该模块上移除$3$个$b$计数器$/b$，$br$就为此模架上的一个随机$passthrough$模块施加$boost$。</string>
+        <string lang="jp">ラックのモジュールからターン終了時に$boost$が消滅するたび、$br$このモジュールに$b$カウンター$/b$を置く。$p$ターン開始時、$br$このモジュールから$3$つの$b$カウンター$/b$を取り除くごとに、$br$このラックのランダムな$passthrough$モジュールに$boost$付与。</string>
+        <string lang="ru">Когда $boost$ с модуля на этой стойке истекает в конце хода, положите $b$Счётчик$/b$ на этот модуль.$p$В начале хода, за каждые $3$ $b$Счётчика$/b$, которые вы снимаете с этого модуля, применяйте $boost$ к случайному $passthrough$ модулю на этой стойке.</string>
+        <string lang="es">Siempre que $boost$ expire de un módulo en este bastidor al final del turno, pon un $b$Contador$/b$ en este módulo.$p$Al comienzo del turno, por cada $3$ $b$Contadores$/b$ que elimines de este módulo, aplica $boost$ a un módulo $passthrough$ aleatorio en este bastidor.</string>
+        <string lang="kr">이 랙의 모듈에서 턴 종료 시 $boost$가 만료될 때마다, 이 모듈에 $b$카운터$/b$를 놓습니다.$p$턴 시작 시, 이 모듈에서 제거한 $3$개의 $b$카운터$/b$마다, 이 랙의 임의의 $passthrough$ 모듈에 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Sempre que $boost$ expirar de um módulo neste rack no final do turno, coloque um $b$Contador$/b$ neste módulo.$p$No início do turno, para cada $3$ $b$Contadores$/b$ que você remover deste módulo, aplique $boost$ a um módulo $passthrough$ aleatório neste rack.</string>
+        <string lang="zh-tw">每當此模架上的模組在回合結束時失去$boost$，$br$就在該模組上放置一個$b$計數器$/b$。$p$回合開始時，$br$每從該模組上移除$3$個$b$計數器$/b$，$br$就為此模架上的一個隨機$passthrough$模組施加$boost$。</string>
+        <string lang="uk">Коли $boost$ з модуля на цій стійці закінчується в кінці ходу, покладіть $b$Лічильник$/b$ на цей модуль.$p$На початку ходу, за кожні $3$ $b$Лічильники$/b$, які ви знімаєте з цього модуля, застосовуйте $boost$ до випадкового $passthrough$ модуля на цій стійці.</string>
 </set>
 <set id="description-module-passivedurabilitysafeguarding">
 		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$50%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
