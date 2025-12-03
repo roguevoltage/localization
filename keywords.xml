@@ -181,18 +181,18 @@
         <string lang="pl">&lt;b&gt;-2&lt;/b&gt;</string>
 </set>
 <set id="$2damage$">
-		<string lang="de">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Schaden&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="en">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Damage&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="fr">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Dégâts&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;伤害&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="jp">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="ru">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Урон&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="es">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Daño&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="kr">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;피해&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="pt-br">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Dano&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh-tw">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;損害&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Пошкодження&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pl">&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Obrażenia&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Schaden&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Damage&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Dégâts&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;伤害&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;ダメージ&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Урон&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Daño&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;피해&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Dano&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;損害&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Пошкодження&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FF7777&gt;2 &lt;sprite name="damage" tint=1&gt;Obrażenia&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$2energy$">
 		<string lang="de">&lt;b&gt;&lt;color=#FFFFFF&gt;2 &lt;sprite name="energy" tint=1&gt;Energie&lt;/color&gt;&lt;/b&gt;</string>
@@ -638,18 +638,18 @@
         <string lang="pl">&lt;b&gt;&lt;color=#FF77BB&gt;&lt;sprite name="crust" tint=1&gt;&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$curesensor$">
-		<string lang="de">&lt;b&gt;&lt;sprite name="curesensor"&gt;Heilungs-Sensor&lt;/b&gt;</string>
-		<string lang="en">&lt;b&gt;&lt;sprite name="curesensor"&gt;Cure Sensor&lt;/b&gt;</string>
-		<string lang="fr">&lt;b&gt;&lt;sprite name="curesensor"&gt;Capteur de Soins&lt;/b&gt;</string>
-		<string lang="zh">&lt;b&gt;&lt;sprite name="curesensor"&gt;治疗感应器&lt;/b&gt;</string>
-		<string lang="jp">&lt;b&gt;&lt;sprite name="curesensor"&gt;回復センサー&lt;/b&gt;</string>
-		<string lang="ru">&lt;b&gt;&lt;sprite name="curesensor"&gt;Датчик Лечения&lt;/b&gt;</string>
-		<string lang="es">&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Curación&lt;/b&gt;</string>
-		<string lang="kr">&lt;b&gt;&lt;sprite name="curesensor"&gt;치유 센서&lt;/b&gt;</string>
-		<string lang="pt-br">&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Cura&lt;/b&gt;</string>
-		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="curesensor"&gt;治療感測器&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;sprite name="curesensor"&gt;Сенсор Лікування&lt;/b&gt;</string>
-        <string lang="pl">&lt;b&gt;&lt;sprite name="curesensor"&gt;Czujnik leczenia&lt;/b&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Heilungs-Sensor&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Cure Sensor&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Capteur de Soins&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;治疗感应器&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;回復センサー&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Датчик Лечения&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Curación&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;치유 센서&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Sensor de Cura&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;治療感測器&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Сенсор Лікування&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="curesensor"&gt;Czujnik leczenia&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$damage$">
 		<string lang="de">&lt;b&gt;&lt;color=#FF7777&gt;&lt;sprite name="damage" tint=1&gt;Schaden&lt;/color&gt;&lt;/b&gt;</string>
@@ -874,18 +874,18 @@
         <string lang="pl">&lt;color=#FFF500&gt;&lt;sprite name="crown" tint=1&gt;&lt;b&gt;Złoty&lt;/b&gt;&lt;/color&gt;</string>
 </set>
 <set id="$grav$">
-		<string lang="de">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="en">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav. Charge&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="fr">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Charge Grav.&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="jp">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;重力電荷&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="ru">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="es">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="kr">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;중력 전하&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="pt-br">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="uk">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Гравізаряд&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="pl">&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw.&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav. Charge&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Charge Grav.&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;重力電荷&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;중력 전하&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav.&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;引力荷&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Гравізаряд&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;color=#FFFFFF&gt;&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw.&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$gravshort$">
 		<string lang="de">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Grav.&lt;/b&gt;</string>
@@ -902,18 +902,18 @@
         <string lang="pl">&lt;b&gt;&lt;sprite name="grav" tint=1&gt;Graw.&lt;/b&gt;</string>
 </set>
 <set id="$grav-$">
-		<string lang="de">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="en">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. Charge (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="fr">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Charge Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="jp">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;重力電荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="ru">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="es">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="kr">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;중력 전하 (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="pt-br">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="zh-tw">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (-)&lt;/color&gt;&lt;/b&gt;</string>
-        <string lang="pl">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw. (-)&lt;/color&gt;&lt;/b&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav.-Ladung (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. Charge (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Charge Grav. (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;重力電荷 (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;중력 전하 (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Carga Grav. (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;引力荷 (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Грав. Заряд (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Ładunek Graw. (-)&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$grav-short$">
 		<string lang="de">&lt;b&gt;&lt;color=#FFFF00&gt;&lt;sprite name="grav" tint=1&gt;Grav. (-)&lt;/color&gt;&lt;/b&gt;</string>
@@ -2006,18 +2006,18 @@
         <string lang="pl">&lt;b&gt;&lt;sprite name="slopperjackson"&gt;Slopper Jackson&lt;/b&gt;</string>
 </set>
 <set id="$slopperjohnson$">
-		<string lang="de">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
-		<string lang="en">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
-		<string lang="fr">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
-		<string lang="zh">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;斯洛普约翰逊&lt;/b&gt;</string>
-		<string lang="jp">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;スロッパー・ジョンソン&lt;/b&gt;</string>
-		<string lang="ru">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Слоппер Джонсон&lt;/b&gt;</string>
-		<string lang="es">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
-		<string lang="kr">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;슬로퍼 존슨&lt;/b&gt;</string>
-		<string lang="pt-br">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
-		<string lang="zh-tw">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;斯洛普詹森&lt;/b&gt;</string>
-		<string lang="uk">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Слоппер Джонсон&lt;/b&gt;</string>
-        <string lang="pl">&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;斯洛普约翰逊&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;スロッパー・ジョンソン&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Слоппер Джонсон&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;슬로퍼 존슨&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;斯洛普詹森&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Слоппер Джонсон&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;sprite name="slopperjohnson"&gt;Slopper Johnson&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$soulsensor$">
 		<string lang="de">&lt;b&gt;&lt;sprite name="soulsensor"&gt;Seelen-Sensor&lt;/b&gt;</string>

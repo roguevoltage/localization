@@ -120,7 +120,7 @@
 </set>
 <set id="tutorial-grav-equilibrium-window-description-1">
 		<string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.$br$Es taucht regelmäßig auf um $grav$ auszugleichen.</string>
-		<string lang="en">Now it's the turn of the $gravequilibrium$.$br$It regularly appears to equalize $grav$ on the battlefield.</string>
+		<string lang="en">Now it's the turn of the $gravequilibrium$.$br$It appears regularly and equalizes $grav$ on the battlefield.</string>
 		<string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.$br$Il égalise $grav$.</string>
 		<string lang="zh">现在是$gravequilibrium$的回合。$br$它的出现通常是为了平衡战场上的$grav$。</string>
 		<string lang="jp">さあ、$gravequilibrium$のターンだ。$br$戦場の$grav$を定期的に均等化するぞ。</string>
@@ -350,7 +350,7 @@
 </set>
 <set id="tutorialwindow-chargeaccumulator2-description">
 		<string lang="de">$sensor$-Module verlieren ihre $energy$, wenn sie nicht bis zum Ende des Zuges entladen werden.$p$Leite sie in den $storageicon$$b$Kondensator$/b$, der sie &lt;color=#afcf74&gt;$amplificationicon$$b$verstärkt$/b$&lt;/color&gt; und $b$speichert$/b$.$p$Mit deinem $b$Blaster$/b$ kannst du diesen Zug den $fox$ erledigen.</string>
-		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Condensator$/b$ where it will be &lt;color=#afcf74&gt;$amplificationicon$$b$amplified$/b$&lt;/color&gt; and $b$stored$/b$.$p$With your $b$Blaster$/b$ you can finish off that $fox$ this turn.</string>
+		<string lang="en">$sensor$ modules lose all $energy$ if not discharged by the end of the turn.$p$Route it into the $storageicon$$b$Condensator$/b$ where it will be &lt;color=#afcf74&gt;$amplificationicon$$b$amplified$/b$&lt;/color&gt; and $b$stored$/b$.$p$Finish off the $fox$ with your $b$Blaster$/b$ this turn!</string>
 		<string lang="fr">Les capteurs perdront toute $energy$ s'ils ne sont pas déchargés à la fin du tour.$p$Dirigez-la dans l'$storageicon$$b$Condensateur$/b$ où il sera &lt;color=#afcf74&gt;$amplificationicon$$b$amplifié$/b$&lt;/color&gt; et $b$stocké$/b$. $p$Avec votre $b$Blaster$/b$, vous pouvez finir ce $fox$ ce tour-ci.</string>
 		<string lang="zh">如果在回合结束时没有释放能量，$sensor$将失去所有$energy$。$p$将其导入至$storageicon$$b$冷凝器$/b$，在那里能量会被&lt;color=#afcf74&gt;$amplificationicon$$b$放大$/b$&lt;/color&gt;并$b$储存$/b$起来。$p$使用你的$b$爆能枪$/b$，你可以在这个回合结束时干掉那个$fox$。</string>
 		<string lang="jp">$sensor$モジュールは、ターン終了時に未使用の全$energy$を散逸する。$p$$storageicon$$b$蓄電器$/b$に配線して、&lt;color=#afcf74&gt;$amplificationicon$$b$増幅$/b$&lt;/color&gt;し、保存しよう。$p$このターンで$b$ブラスター$/b$を使えば、$fox$を倒せる。</string>
@@ -376,15 +376,15 @@
 </set>
 <set id="tutorialwindow-chargeregenerationcell-description">
 		<string lang="de">Lass uns deine nächste Kettenreaktion vorbereiten:$p$Lade deine $regenerationcell$.$p$Zu Beginn von $slopperjohnson$$b$s nächstem Zug$/b$ wird sie $1healing$ anwenden und wieder den $curesensor$ auslösen.</string>
-		<string lang="en">Let's prepare your next chain reaction:$p$Use this turn to charge your $regenerationcell$.$p$At the beginning of $slopperjohnson$$b$'s next turn$/b$, it will apply$br$$1healing$.$p$This will trigger the $curesensor$ again.</string>
+		<string lang="en">Let's prepare your next chain reaction:$p$Use this turn to charge your $regenerationcell$.$p$At the beginning of $slopperjohnson$$b$'s next turn$/b$, it will apply $1healing$.$p$This will trigger the $curesensor$ again.</string>
 		<string lang="fr">Utilisons ce tour pour préparer une réaction en chaîne encore plus grande.$p$Chargez votre $regenerationcell$.$p$Au début du $b$prochain tour de $/b$$slopperjohnson$, elle appliquera $1healing$ et déclenchera à nouveau le $curesensor$.</string>
-		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$$b$的下一回合$/b$开始时，它将$br$$1healing$。$p$并且会触发$curesensor$两次。</string>
+		<string lang="zh">这一回合让我们准备一次更强力的连锁反应。$p$为你的$regenerationcell$充能。$p$在$slopperjohnson$$b$的下一回合$/b$开始时，它将$1healing$。$p$并且会触发$curesensor$两次。</string>
 		<string lang="jp">次の連鎖反応に備えよう。$p$このターンは$regenerationcell$充電だ。$p$$slopperjohnson$の$b$次ターン開始時$b$、$1healing$。$p$$curesensor$を再び起動できる。</string>
 		<string lang="ru">Давайте используем этот ход, чтобы подготовить еще более мощную цепную реакцию.$p$Зарядите вашу $regenerationcellicon$$b$Ячейку Регенерации$/b$.$p$В начале следующего хода $slopperjohnson$$b$а$/b$ она применит к нему $1healing$ и снова активирует $curesensor$.</string>
 		<string lang="es">Utilicemos este turno para preparar una reacción en cadena aún más grande.$p$Carga tu $regenerationcell$.$p$En el próximo turno de $slopperjohnson$, le aplicará $1healing$ y activará de nuevo el $curesensor$.</string>
 		<string lang="kr">이번 턴을 사용해 더 큰 연쇄 반응을 준비해보죠.$p$$regenerationcell$를 충전시키세요.$p$다음 $slopperjohnson$의 턴에 $regenerationcell$가 두 주인공을 모두 치료하며, $curesensor$를 두 번 발동시킬 것입니다.</string>
 		<string lang="pt-br">Vamos usar esta rodada para preparar uma reação em cadeia ainda maior.$p$Carregue sua $regenerationcell$.$p$No próximo turno de $slopperjohnson$, ela aplicará $1healing$ nele e acionará o $curesensor$ novamente.</string>
-		<string lang="zh-tw">這一回合讓我們準備一次更強力的連鎖反應。$p$為你的$regenerationcell$充能。$p$在$slopperjohnson$$b$的下一回合$/b$開始時，它將$br$$1healing$。$p$並且會觸發$curesensor$兩次。</string>
+		<string lang="zh-tw">這一回合讓我們準備一次更強力的連鎖反應。$p$為你的$regenerationcell$充能。$p$在$slopperjohnson$$b$的下一回合$/b$開始時，它將$1healing$。$p$並且會觸發$curesensor$兩次。</string>
 		<string lang="uk">Давай підготуємо ще одну ланцюгову реакцію:$p$Використовуйте цей хід, щоб зарядити свій модуль $regenerationcell$.$p$На початку ходу $slopperjohnson$ вона застосує до нього $1healing$ і знову активує $curesensor$.</string>
 </set>
 <set id="tutorialwindow-chargeregenerationcell-header">
@@ -554,7 +554,7 @@
 </set>
 <set id="tutorialwindow-gravcharge-description-1">
 		<string lang="de">Züge können in der Zeit vor- oder zurückbewegt werden, indem $grav+$ oder $grav-$ auf einen Charakter angewendet wird.</string>
-		<string lang="en">Turns can be moved backward or forward in time by applying $grav+$$br$or $grav-$ to a combatant.</string>
+		<string lang="en">Turns can be moved backward or forward in time by applying $grav+$ or $grav-$ to a combatant.</string>
 		<string lang="fr">Les tours peuvent être déplacés en arrière ou en avant dans le temps en appliquant $grav+$ ou $grav-$ à un combattant.</string>
 		<string lang="zh">通过对参战单位施放$grav+$或$grav-$来提前或延后单位的回合。</string>
 		<string lang="jp">$grav+$か$grav-$を敵味方1体に付与すれば、タイムライン上のターンを前後に動かせる。</string>
@@ -725,8 +725,8 @@
 		<string lang="uk">Помітив $curesensor$?$p$ $sensor$ створює багато $energyicon$$b$Енергії$/b$ та допомагає запустити потужні $b$ланцюгові реакції$/b$.$p$Давай спорбуємо.</string>
 </set>
 <set id="tutorialwindow-sensors2-description">
-		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ benutzt, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der$br$$1energy$ erzeugt.$p$Leite sie durch den $amplifier$ für einen starken Angriff mit$br$$2damage$.</string>
-		<string lang="en">If you use the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate$br$$1energy$.$p$Route it through the $amplifier$ for a strong$br$$2damage$ blast.</string>
+		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ benutzt, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der $1energy$ erzeugt.$p$Leite sie durch den $amplifier$ für einen starken Angriff mit $2damage$.</string>
+		<string lang="en">If you use the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate $1energy$.$p$Route it through the $amplifier$ for a strong $2damage$ blast.</string>
 		<string lang="fr">Si tu utilises le $healingpotion$ avec le $generator$, $slopperjohnson$ recevra $1healing$.$p$Cela déclenchera le $curesensor$, qui générera $1energy$.$p$Dirige-le à travers l'$amplifier$ pour une puissante $2damage$ attaque.</string>
 		<string lang="zh">用$generator$激活$healingpotion$，让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，产出$1$$energy$。$p$将产生的能量导入$amplifier$，$br$打出$2damage$的强力一击吧。</string>
 		<string lang="jp">$healingpotion$を$generator$で起動すると、$slopperjohnson$は$1$$healing$。$p$すると$curesensor$が発動し、$1$$energy$発電。$p$$amplifier$に繋ぐと強力な$2damage$の爆破が起きる。</string>
@@ -842,32 +842,6 @@
 		<string lang="pt-br">Entendi!</string>
 		<string lang="zh-tw">明白！</string>
 		<string lang="uk">Зрозумів!</string>
-</set>
-<set id="ui-tutorialbutton-decelerate">
-		<string lang="de">Verkabele $br$Jacksons Rack</string>
-		<string lang="en">Wire up$br$Jackson's rack</string>
-		<string lang="fr">Câblez$br$le rack de Jackson</string>
-		<string lang="zh">连接$br$杰克逊的模块</string>
-		<string lang="jp">ジャクソンの$br$ラックを接続</string>
-		<string lang="ru">Подключите$br$стойку Джексона</string>
-		<string lang="es">Conecta$br$el bastidor de Jackson</string>
-		<string lang="kr">잭슨의 랙을$br$연결하세요</string>
-		<string lang="pt-br">Conecte$br$o rack de Jackson</string>
-		<string lang="zh-tw">連接$br$傑克遜的模組</string>
-		<string lang="uk">Підключи$br$стійку Джексона</string>
-</set>
-<set id="ui-tutorialbutton-generatordual">
-		<string lang="de">Verkabele $br$Jacksons Rack</string>
-		<string lang="en">Wire up$br$Jackson's rack</string>
-		<string lang="fr">Câblez$br$le rack de Jackson</string>
-		<string lang="zh">连接$br$杰克逊的模块</string>
-		<string lang="jp">ジャクソンの$br$ラックを接続</string>
-		<string lang="ru">Подключите$br$стойку Джексона</string>
-		<string lang="es">Conecta$br$el bastidor de Jackson</string>
-		<string lang="kr">잭슨의 랙을$br$연결하세요</string>
-		<string lang="pt-br">Conecte$br$o rack de Jackson</string>
-		<string lang="zh-tw">連接$br$傑克遜的模組</string>
-		<string lang="uk">Підключить$br$стійку Джексона</string>
 </set>
 <set id="ui-tutorialbutton-regenerationcell-take">
 		<string lang="de">Gib die Zelle$br$an Johnson</string>
