@@ -144,7 +144,7 @@
 </set>
 <set id="description-module-collectorcollector">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein anderer $sensor$ auf diesem Rack ausgelöst wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another $sensor$ is triggered on this rack.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever another $sensor$ on this rack is triggered.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ chaque fois qu'un autre $sensor$ est déclenché sur ce rack.</string>
         <string lang="zh">每当这个机架上的另一个传感器被触发时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="jp">このラックの別の$sensor$が発動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
@@ -213,8 +213,8 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $shield$ зменшує $damage$.</string>
 </set>
 <set id="description-module-collectorstorageovercharge">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ über seine Kapazität hinaus geladen wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged beyond its capacity.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storage$-Modul über seine Kapazität hinaus geladen wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storage$ module is charged beyond its capacity.</string>
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé au-delà de sa capacité.</string>
 		<string lang="zh">每当$storagemodule$超载，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="jp">$storagemodule$が容量を超えて充電されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
@@ -1060,7 +1060,7 @@
 </set>
 <set id="description-module-toggledstoragecharger">
 		<string lang="de">Lädt ein $storagemodule$ deiner Wahl auf diesem Rack um $1energy$.</string>
-		<string lang="en">Charges target $storagemodule$ on this rack with $1energy$.</string>
+		<string lang="en">Charges target $storage$ module on this rack with $1energy$.</string>
         <string lang="fr">Charge $storagemodule$ ciblé sur ce rack avec $1energy$.</string>
         <string lang="zh">在此模架上为目标$storagemodule$充能$br$$1energy$。</string>
         <string lang="jp">このラック上の対象$storagemodule$を$1energy$で充電。</string>
@@ -1206,7 +1206,7 @@
 </set>
 <set id="description-module-toggledmaxcapacityenhancer">
 		<string lang="de">Erhöht die max. Kapazität eines $storagemodule$s deiner Wahl um $1$ und lädt es um $1energy$.</string>
-		<string lang="en">Increases the max. capacity of target $storagemodule$ on this rack by $1$ and charges it with$br$$1energy$.</string>
+		<string lang="en">Increases the max. capacity of target $storage$ module on this rack by $1$ and charges it with $1energy$.</string>
 		<string lang="fr">Augmente la capacité max. d'un $storagemodule$ ciblé par $1$ et le charge avec $1energy$.</string>
 		<string lang="zh">增加此模架上目标$storagemodule$的最大容量$1$，并为其充电$1energy$。</string>
         <string lang="jp">このラックの対象$storagemodule$の最大容量を$1$増やし、$1energy$で充電。</string>
