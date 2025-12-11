@@ -825,43 +825,43 @@
 		<string lang="uk">Якщо модуль на цій стійці має отримати $outoforder$, цей модуль отримує $outoforder$ замість нього.</string>
 </set>
 <set id="description-module-passivecooldownredirector">
-        <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
-		<string lang="en">Whenever a module on this rack should receive $cooldown$, change the target to another module on this rack instead.</string>
-        <string lang="fr">Si un module sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.</string>
-        <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。</string>
-        <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。</string>
-        <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
-        <string lang="kr">이 랙의 다른 모듈에게 $cooldown$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $cooldown$ 상태가 됩니다.</string>
-        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $cooldown$, mude o alvo para outro módulo neste rack em vez disso.</string>
-        <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。</string>
-        <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.</string>
+        <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$&lt;size=10&gt;$onceperturn$</string>
+		<string lang="en">Whenever a module on this rack should receive $cooldown$, change the target to another module on this rack instead.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="fr">Si un module sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $cooldown$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $cooldown$ 상태가 됩니다.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $cooldown$, mude o alvo para outro módulo neste rack em vez disso.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.$p$&lt;size=10&gt;$onceperturn$</string>
 </set>
 <set id="description-module-passivestatusredirector">
-        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $icecrust$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.</string>
-        <string lang="en">Whenever a module on this rack should receive $fire$, $icecrust$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.</string>
-        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $icecrust$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.</string>
-        <string lang="zh">此模架上的其他模块$fire$、$icecrust$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。</string>
-        <string lang="jp">このラックの他のモジュールが$fire$、$icecrust$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。</string>
-        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $icecrust$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $icecrust$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.</string>
-        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $icecrust$, $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.</string>
-        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $icecrust$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.</string>
-        <string lang="zh-tw">此模架上的其他模組$fire$、$icecrust$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。</string>
-        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $icecrust$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.</string>
+        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $icecrust$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="en">Whenever a module on this rack should receive $fire$, $icecrust$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $icecrust$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="zh">此模架上的其他模块$fire$、$icecrust$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="jp">このラックの他のモジュールが$fire$、$icecrust$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $icecrust$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $icecrust$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $icecrust$, $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $icecrust$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="zh-tw">此模架上的其他模組$fire$、$icecrust$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。$p$&lt;size=10&gt;$onceperturn$</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $icecrust$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.$p$&lt;size=10&gt;$onceperturn$</string>
 </set>
 <set id="description-module-passivesink">
-        <string lang="de">Wenn dieses Modul mit einem $b$Negativen Status-Effekt$/b$ belegt wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Negativen Status-Effekte$/b$ von diesem Modul.$p$&lt;size=10&gt;$listdebuffs$</string>
-		<string lang="en">Whenever this module becomes inflicted with a $b$Negative Status Effect$/b$, create $1plasma$.$p$At the end of turn, remove all $b$Negative Status Effects$/b$ from this module.$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="fr">Chaque fois que ce module est affecté par un $b$Effet de Statut Négatif$/b$, créez $1plasma$.$p$À la fin du tour, retirez tous les $b$Effets de Statut Négatifs$/b$ de ce module.$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="zh">每当此模块受到$b$负面状态效果$/b$影响时，产生$1plasma$。$p$在拥有者回合结束时，从此模块上移除所有$b$负面状态效果$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="jp">このモジュールが$b$ネガティブステータス効果$/b$を受けるたび、$1plasma$生成。$p$所有者のターン終了時、このモジュールからすべての$b$ネガティブステータス効果$/b$を除去。$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="ru">Когда этот модуль получает $b$Отрицательный Статусный Эффект$/b$, создает $1plasma$. $p$В конце хода владельца, удаляет все $b$Отрицательные Статусные Эффекты$/b$ с этого модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="es">Siempre que este módulo se vea afectado por un $b$Efecto de Estado Negativo$/b$, crea $1plasma$. $p$Al final del turno, elimina todos los $b$Efectos de Estado Negativos$/b$ de este módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="kr">이 모듈이 $b$부정적 상태 효과$/b$를 받을 때마다 $1plasma$를 생성합니다.$p$소유자의 턴이 끝날 때, 이 모듈에서 모든 $b$부정적 상태 효과$/b$를 제거합니다.$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Efeito de Estado Negativo$/b$, cria $1plasma$. $p$No final do turno, remove todos os $b$Efeitos de Estado Negativos$/b$ deste módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="zh-tw">每當此模組受到$b$負面狀態效果$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$負面狀態效果$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
-        <string lang="uk">Коли цей модуль отримує $b$Негативний Статусний Ефект$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Негативні Статусні Ефекти$/b$ з цього модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="de">Wenn dieses Modul mit einem $b$Debuff$/b$ versehen wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Debuffs$/b$ von diesem Modul.$p$&lt;size=10&gt;$listdebuffs$</string>
+		<string lang="en">Whenever this module becomes inflicted with a $b$Debuff$/b$, create $1plasma$.$p$At the end of turn, remove all $b$Debuffs$/b$ from this module.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="fr">Chaque fois que ce module est affecté par un $b$Debuff$/b$, créez $1plasma$.$p$À la fin du tour, retirez tous les $b$Debuffs$/b$ de ce module.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="zh">每当此模块受到$b$减益$/b$影响时，产生$1plasma$。$p$在拥有者回合结束时，从此模块上移除所有$b$减益$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="jp">このモジュールが$b$デバフ$/b$を受けるたび、$1plasma$生成。$p$所有者のターン終了時、このモジュールからすべての$b$デバフ$/b$を除去。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="ru">Когда этот модуль получает $b$Дебафф$/b$, создает $1plasma$. $p$В конце хода владельца, удаляет все $b$Дебаффы$/b$ с этого модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="es">Siempre que este módulo se vea afectado por un $b$Debuff$/b$, crea $1plasma$. $p$Al final del turno, elimina todos los $b$Debuffs$/b$ de este módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="kr">이 모듈이 $b$디버프$/b$를 받을 때마다 $1plasma$를 생성합니다.$p$소유자의 턴이 끝날 때, 이 모듈에서 모든 $b$디버프$/b$를 제거합니다.$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="pt-br">Sempre que este módulo for afetado por um $b$Debuff$/b$, cria $1plasma$. $p$No final do turno, remove todos os $b$Debuffs$/b$ deste módulo. $p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="zh-tw">每當此模組受到$b$減益$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$減益$/b$。$p$&lt;size=10&gt;$listdebuffs$</string>
+        <string lang="uk">Коли цей модуль отримує $b$Дебаф$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Дебафи$/b$ з цього модуля. $p$&lt;size=10&gt;$listdebuffs$</string>
 </set>
 <set id="description-module-passivestorageinductor">
 		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>

@@ -1,16 +1,29 @@
 <keywords>
 <set id="$listdebuffs$">
-    <string lang="de">Negative Status-Effekte sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
-    <string lang="en">Negative Status Effects are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
-    <string lang="fr">Effets de Statut Négatifs sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
-    <string lang="zh">负面状态效果包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
-    <string lang="jp">ネガティブステータス効果は$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
-    <string lang="ru">Отрицательные Статусные Эффекты - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
-    <string lang="es">Efectos de Estado Negativos son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
-    <string lang="kr">부정적 상태 효과는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
-    <string lang="pt-br">Efeitos de Estado Negativos são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
-    <string lang="zh-tw">負面狀態效果包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
-    <string lang="uk">Негативні Статусні Ефекти - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ та $outoforder$.</string>
+    <string lang="de">Debuffs sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
+    <string lang="en">Debuffs are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
+    <string lang="fr">Les Debuffs sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
+    <string lang="zh">减益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="jp">デバフは$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
+    <string lang="ru">Дебаффы - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
+    <string lang="es">Los Debuffs son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
+    <string lang="kr">디버프는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
+    <string lang="pt-br">Debuffs são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
+    <string lang="zh-tw">減益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="uk">Дебафи - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ та $outoforder$.</string>
+</set>
+<set id="$onceperturn$">
+    <string lang="de">Diese Fähigkeit wird nur einmal pro Runde ausgelöst.</string>
+    <string lang="en">This ability triggers only once per turn.</string>
+    <string lang="fr">Cette capacité ne se déclenche qu'une fois par tour.</string>
+    <string lang="zh">此能力每回合只触发一次。</string>
+    <string lang="jp">この能力は1ターンに1回のみ発動します。</string>
+    <string lang="ru">Эта способность срабатывает только один раз за ход.</string>
+    <string lang="es">Esta habilidad se activa solo una vez por turno.</string>
+    <string lang="kr">이 능력은 턴당 한 번만 발동됩니다.</string>
+    <string lang="pt-br">Esta habilidade é ativada apenas uma vez por turno.</string>
+    <string lang="zh-tw">此能力每回合只觸發一次。</string>
+    <string lang="uk">Ця здатність спрацьовує лише один раз за хід.</string>
 </set>
 <set id="$($">
 		<string lang="de">(</string>
