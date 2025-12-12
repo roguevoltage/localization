@@ -120,7 +120,7 @@
 </set>
 <set id="tutorial-grav-equilibrium-window-description-1">
 		<string lang="de">Jetzt ist das $gravequilibrium$ an der Reihe.$br$Es taucht regelmäßig auf um $grav$ auszugleichen.</string>
-		<string lang="en">Now it's the turn of the $gravequilibrium$.$br$It appears regularly and equalizes $grav$ on the battlefield.</string>
+		<string lang="en">Now it's the turn of the $gravequilibrium$.$br$It regularly equalizes $grav$ on the battlefield.</string>
 		<string lang="fr">Maintenant c'est le tour de l'$gravequilibrium$.$br$Il égalise $grav$.</string>
 		<string lang="zh">现在是$gravequilibrium$的回合。$br$它的出现通常是为了平衡战场上的$grav$。</string>
 		<string lang="jp">さあ、$gravequilibrium$のターンだ。$br$戦場の$grav$を定期的に均等化するぞ。</string>
@@ -240,18 +240,18 @@
 		<string lang="uk">Порядок Ходів</string>
 </set>
 <set id="tutorialwindow-backpack-description">
-		<string lang="de">Im Rucksack kannst du Module lagern und zwischen Charakteren austauschen.$p$Nimm den $healingpotion$ in dein Rack,$br$aber du musst ihn noch nicht verwenden!</string>
-		<string lang="en">In the backpack you can store modules and exchange them between characters.$p$Take the $healingpotion$ into your rack,$br$but you don't have to use it just yet!</string>
-		<string lang="fr">Dans le sac à dos, vous pouvez stocker des modules et les échanger entre les personnages.$p$Prenez la $healingpotion$ dans votre rack,$br$mais vous n'avez pas besoin de l'utiliser tout de suite!</string>
-		<string lang="zh">在这里，你可以储存或在角色间交换模块。$p$将$healingpotion$放进模架，$br$但你不必立即使用它！</string>
+		<string lang="de">Im Rucksack kannst du Module lagern und zwischen Charakteren austauschen.$p$Nimm den $healingpotion$ in dein Rack, aber du musst ihn noch nicht verwenden!</string>
+		<string lang="en">In the backpack you can store modules and exchange them between characters.$p$Take the $healingpotion$ into your rack, but you don't have to use it just yet!</string>
+		<string lang="fr">Dans le sac à dos, vous pouvez stocker des modules et les échanger entre les personnages.$p$Prenez la $healingpotion$ dans votre rack, mais vous n'avez pas besoin de l'utiliser tout de suite!</string>
+		<string lang="zh">在这里，你可以储存或在角色间交换模块。$p$将$healingpotion$放进模架，但你不必立即使用它！</string>
 		<string lang="jp">バックパックにモジュールを置いて、キャラクター間で交換もできる。$p$$healingpotion$をラックに入れてくれ。ただ、まだ使わなくていい！</string>
 		<string lang="ru">Здесь вы можете хранить модули и обмениваться ими между персонажами.$p$Возьмите $healingpotion$ в свою стойку, но вам не обязательно его использовать прямо сейчас!</string>
-		<string lang="es">Aquí puedes almacenar módulos e intercambiarlos entre personajes.$p$Lleva la $healingpotion$ a tu bastidor,$br$¡Pero no hace falta usarla de inmediato!</string>
-		<string lang="kr">여기에 모듈을 보관하고 캐릭터 간에 교환할 수 있습니다. $healingpotion$을 랙으로 가져가세요,$br$지금 사용하지는 않으셔도 됩니다!</string>
-		<string lang="pt-br">Aqui você pode armazenar módulos e trocá-los entre personagens.$p$Pegue a $healingpotion$ em seu rack,$br$mas você não precisa usá-la ainda!</string>
-		<string lang="zh-tw">在這裏，你可以儲存或在角色間交換模組。$p$將$healingpotion$放進模架，$br$但你不必立即使用它！
+		<string lang="es">Aquí puedes almacenar módulos e intercambiarlos entre personajes.$p$Lleva la $healingpotion$ a tu bastidor, pero no hace falta usarla de inmediato!</string>
+		<string lang="kr">여기에 모듈을 보관하고 캐릭터 간에 교환할 수 있습니다. $healingpotion$을 랙으로 가져가세요, 지금 사용하지는 않으셔도 됩니다!</string>
+		<string lang="pt-br">Aqui você pode armazenar módulos e trocá-los entre personagens.$p$Pegue a $healingpotion$ em seu rack, mas você não precisa usá-la ainda!</string>
+		<string lang="zh-tw">在這裏，你可以儲存或在角色間交換模組。$p$將$healingpotion$放進模架，但你不必立即使用它！
 </string>
-		<string lang="uk">У рюкзаку можна зберігати модулі та переміщувати їх між героями.$p$Перетягни $healingpotion$ на стійку,$br$але поки що воно не потрібно!</string>
+		<string lang="uk">У рюкзаку можна зберігати модулі та переміщувати їх між героями.$p$Перетягни $healingpotion$ на стійку, але поки що воно не потрібно!</string>
 </set>
 <set id="tutorialwindow-backpack-header">
 		<string lang="de">Der Rucksack</string>
@@ -268,32 +268,45 @@
 		<string lang="uk">Рюкзак</string>
 </set>
 <set id="tutorialwindow-battlerating-description1">
-		<string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute ausfallen.$p$Der Bewertungsbalken zeigt an, wie viel Zeit dir pro Stufe bleibt.</string>
-		<string lang="en">The earlier you end a battle, the better loot you will receive.$p$The rating bar shows how much time you have left per rating.</string>
-		<string lang="fr">Plus tôt vous terminez la bataille, meilleur sera votre butin.$p$La barre indique le temps qui vous reste par évaluation.</string>
-		<string lang="zh">战斗时长越短，战利品越丰厚。$p$评分栏显示了各评分等级所需的步长。</string>
-		<string lang="jp">戦闘を早期に終えるほど、優れた戦利品が手に入る。$p$評価バーには、評価基準ごとの残り時間が示されている。</string>
-		<string lang="ru">Чем раньше вы закончите бой, тем лучше будет ваша добыча.$p$Полоса оценки показывает, сколько времени у вас осталось.</string>
-		<string lang="es">Cuanto antes termines una batalla, mejor será tu botín.$p$La barra muestra cuánto tiempo te queda por rango de calificación.</string>
-		<string lang="kr">전투를 빨리 끝낼수록, 더 좋은 전리품을 얻게 됩니다.$p$등급 바에는 전투 등급에 따라 시간이 얼마나 남았는지가 표시됩니다.</string>
-		<string lang="pt-br">Quanto mais cedo você terminar a batalha, melhor será o seu saque.$p$A barra de classificação mostra quanto tempo você tem.</string>
-		<string lang="zh-tw">戰鬥時長越短，戰利品越豐厚。$p$評分欄顯示了各評分等級所需的步長。
-</string>
-		<string lang="uk">Що раніше закінчиш бій, тим кращу здобич отримаєш.$p$Стрічка оцінок показує, скільки часу у тебе залишилося.</string>
+		<string lang="de">Je früher du den Kampf beendest, desto besser wird deine Beute ausfallen.</string>
+		<string lang="en">The earlier you end a battle, the better loot you will receive.</string>
+		<string lang="fr">Plus tôt vous terminez la bataille, meilleur sera votre butin.</string>
+		<string lang="zh">战斗时长越短，战利品越丰厚。</string>
+		<string lang="jp">戦闘を早期に終えるほど、優れた戦利品が手に入る。</string>
+		<string lang="ru">Чем раньше вы закончите бой, тем лучше будет ваша добыча.</string>
+		<string lang="es">Cuanto antes termines una batalla, mejor será tu botín.</string>
+		<string lang="kr">전투를 빨리 끝낼수록, 더 좋은 전리품을 얻게 됩니다.</string>
+		<string lang="pt-br">Quanto mais cedo você terminar a batalha, melhor será o seu saque.</string>
+		<string lang="zh-tw">戰鬥時長越短，戰利品越豐厚。</string>
+		<string lang="uk">Що раніше закінчиш бій, тим кращу здобич отримаєш.</string>
 </set>
 <set id="tutorialwindow-battlerating-description2">
-		<string lang="de">Strebe immer nach der bestmöglichen Bewertung, um wertvollere Module zu erhalten.</string>
-		<string lang="en">Always aim for the best possible rating to receive more durable and valuable modules as loot.</string>
-		<string lang="fr">Visez toujours la meilleure note possible pour recevoir des modules plus durables et plus précieux comme butin.</string>
-		<string lang="zh">尽可能取得高评分，以获得更耐用、更有价值的战利品模块。</string>
-		<string lang="jp">できるだけ最高の評価を狙うんだ。そうすれば、より丈夫で、価値のあるモジュールが戦利品になる。</string>
-		<string lang="ru">Всегда стремитесь к наилучшей оценке, чтобы получить более прочные и ценные модули в качестве добычи.</string>
-		<string lang="es">Apunta siempre a la mejor calificación posible para recibir módulos más duraderos y valiosos como botín.</string>
-		<string lang="kr">항상 최고의 등급을 목표로 해, 더 튼튼하고 값진 모듈을 전리품으로 획득할 수 있도록 노력하세요.</string>
-		<string lang="pt-br">Sempre aponte para a melhor classificação possível para receber módulos mais duráveis e valiosos como saque.</string>
-		<string lang="zh-tw">盡可能取得高評分，以獲得更耐用、更有價值的戰利品模組。
+		<string lang="de">Der $b$Bewertungsbalken$/b$ über der Zeitleiste zeigt an, wie viel Zeit dir pro Stufe bleibt.</string>
+		<string lang="en">The $b$Rating Bar$/b$ above the timeline shows how much time you have left per rating.</string>
+		<string lang="fr">La $b$Barre d'Évaluation$/b$ au-dessus de la chronologie indique le temps qui vous reste par évaluation.</string>
+		<string lang="zh">时间轴上方的$b$评分栏$/b$显示了各评分等级所需的步长。</string>
+		<string lang="jp">タイムラインの上にある$b$評価バー$/b$には、評価基準ごとの残り時間が示されている。</string>
+		<string lang="ru">$b$Полоса оценки$/b$ над временной шкалой показывает, сколько времени у вас осталось.</string>
+		<string lang="es">La $b$Barra de Calificación$/b$ encima de la línea temporal muestra cuánto tiempo te queda por rango de calificación.</string>
+		<string lang="kr">타임라인 위의 $b$등급 바$/b$에는 전투 등급에 따라 시간이 얼마나 남았는지가 표시됩니다.</string>
+		<string lang="pt-br">A $b$Barra de Classificação$/b$ acima da linha do tempo mostra quanto tempo você tem.</string>
+		<string lang="zh-tw">時間軸上方的$b$評分欄$/b$顯示了各評分等級所需的步長。
 </string>
-		<string lang="uk">Завжди старайся отримати найкращий можливий рейтинг, щоб здобути міцніші та цінніші модулі.</string>
+		<string lang="uk">$b$Стрічка оцінок$/b$ над шкалою часу показує, скільки часу у тебе залишилося.</string>
+</set>
+<set id="tutorialwindow-battlerating-description3">
+		<string lang="de">Strebe immer nach der bestmöglichen Bewertung, um wertvollere Module zu erhalten.$p$Die $special$-Bewertung bietet seltene Module, während die $bronze$-Stufe hauptsächlich Schrott bietet.</string>
+		<string lang="en">Always aim for the best possible rating to receive more valuable modules as loot.$p$The $special$ rating offers rare modules while $bronze$ tier offers mostly scrap.</string>
+		<string lang="fr">Visez toujours la meilleure note possible pour recevoir des modules plus durables et plus précieux comme butin.$p$La note $special$ offre des modules rares tandis que le niveau $bronze$ offre principalement de la ferraille.</string>
+		<string lang="zh">尽可能取得高评分，以获得更耐用、更有价值的战利品模块。$p$$special$评级提供稀有模块，而$bronze$等级主要提供废料。</string>
+		<string lang="jp">できるだけ最高の評価を狙うんだ。そうすれば、より丈夫で、価値のあるモジュールが戦利品になる。$p$$special$評価ではレアなモジュールが手に入るが、$bronze$ランクではほとんどスクラップだ。</string>
+		<string lang="ru">Всегда стремитесь к наилучшей оценке, чтобы получить более прочные и ценные модули в качестве добычи.$p$Оценка $special$ предлагает редкие модули, в то время как уровень $bronze$ предлагает в основном лом.</string>
+		<string lang="es">Apunta siempre a la mejor calificación posible para recibir módulos más duraderos y valiosos como botín.$p$La calificación $special$ ofrece módulos raros, mientras que el nivel $bronze$ ofrece principalmente chatarra.</string>
+		<string lang="kr">항상 최고의 등급을 목표로 해, 더 튼튼하고 값진 모듈을 전리품으로 획득할 수 있도록 노력하세요.$p$$special$ 등급은 희귀 모듈을 제공하는 반면, $bronze$ 등급은 주로 고철을 제공합니다.</string>
+		<string lang="pt-br">Sempre aponte para a melhor classificação possível para receber módulos mais duráveis e valiosos como saque.$p$A classificação $special$ oferece módulos raros, enquanto o nível $bronze$ oferece principalmente sucata.</string>
+		<string lang="zh-tw">盡可能取得高評分，以獲得更耐用、更有價值的戰利品模組。$p$$special$評級提供稀有模組，而$bronze$等級主要提供廢料。
+</string>
+		<string lang="uk">Завжди старайся отримати найкращий можливий рейтинг, щоб здобути міцніші та цінніші модулі.$p$Рейтинг $special$ пропонує рідкісні модулі, тоді як рівень $bronze$ пропонує переважно брухт.</string>
 </set>
 <set id="tutorialwindow-battlerating-title">
 		<string lang="de">Die Kampfwertung</string>
@@ -311,7 +324,7 @@
 </set>
 <set id="tutorialwindow-bossshroom-description">
 		<string lang="de">Die starke Gravioaktivität in diesen Sümpfen muss von diesem gruseligen Riesenpilz ausgehen.$p$Wenn wir uns an das halten, was wir gelernt haben, können wir ihn besiegen!</string>
-		<string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.$p$If we stick to what we've learned, we can defeat it!</string>
+		<string lang="en">The strong gravioactivity in these swamps must come from this scary giant mushroom.$p$If we keep to what we've learned, we can defeat it!</string>
 		<string lang="fr">La gravioactivité forte dans ces marais doit venir de ce champignon géant.$p$Si nous nous en tenons à ce que nous avons appris, nous pouvons le vaincre!</string>
 		<string lang="zh">这片沼泽的强烈引力活动一定来自这个恐怖的巨型蘑菇！$p$只要按照我们前面所学的做，$br$一定可以打败它！</string>
 		<string lang="jp">沼地に広がる強い重力活動の原因は、この巨大キノコに違いないよ。$p$経験を活かせば、倒せるはずだ！</string>
@@ -445,8 +458,8 @@
 </set>
 <set id="tutorialwindow-decelerate-description2">
 		<string lang="de">$b$Schiebe den Zug des $fox$es$/b$ hinter den von $slopperjohnson$!$p$So kannst du ihn besiegen, bevor er überhaupt zum Zug kommt.</string>
-		<string lang="en">$b$Push the $fox$'s turn$/b$ behind that of $slopperjohnson$ again!$p$This way you can defeat it before it even gets to take its turn.</string>
-		<string lang="fr">$b$Repoussez le tour du $fox$$/b$ derrière celui de $slopperjohnson$!$p$De cette façon, vous pouvez le vaincre avant même qu'il ne puisse jouer.</string>
+		<string lang="en">Push the turn of the $fox$ behind that of $slopperjohnson$ again!$p$This way you can defeat it before it even gets to take its turn.</string>
+		<string lang="fr">$b$Poussez le tour du $fox$$/b$ derrière celui de $slopperjohnson$!$p$De cette façon, vous pouvez le vaincre avant même qu'il ne puisse jouer.</string>
 		<string lang="zh">$b$重新将$fox$的回合$/b$移到$slopperjohnson$之后！$p$这样就可以抢在它再次出战前直接击败它。</string>
 		<string lang="jp">$b$$fox$のターン$/b$を$slopperjohnson$の後に押しもどせ！$p$そうすればターンを回さずに倒せるぞ。</string>
 		<string lang="ru">$b$Отодвиньте ход $foxicon$$b$Лиса$/b$$/b$$br$позади хода $slopperjohnson$$b$а$/b$!$p$Таким образом, вы можете победить его, прежде чем он вообще сможет сделать ход.</string>
@@ -567,30 +580,30 @@
 		<string lang="uk">Ходи можна переміщувати у часі назад та вперед, застосовуючи до учасників бою $grav+$ або $grav-$ .</string>
 </set>
 <set id="tutorialwindow-gravcharge-heading-negative">
-		<string lang="de">$grav-$$br$beschleunigt Charaktere$p$&lt;size=8&gt;(zieht sie auf der Zeitleiste nach vorne)&lt;/size&gt;</string>
-		<string lang="en">$grav-$$br$accelerates combatants$p$&lt;size=8&gt;(pulls them forward on the timeline)&lt;/size&gt;</string>
-		<string lang="fr">$grav-$$br$accélère les combattants$p$&lt;size=8&gt;(les tire en avant sur la chronologie)&lt;/size&gt;</string>
-		<string lang="zh">$grav-$$b$加速单位$/b$$p$&lt;size=8&gt;（在时间轴上提前该单位回合）&lt;/size&gt;</string>
-		<string lang="jp">$grav-$$br$敵味方を早くする$p$&lt;size=8&gt;（タイムライン上で前に引っ張る）&lt;/size&gt;</string>
-		<string lang="ru">$grav-$$br$ускоряет бойцов$p$&lt;size=8&gt;(тянет их вперед по временной шкале)&lt;/size&gt;</string>
-		<string lang="es">$grav-$$br$acelera a los combatientes$p$&lt;size=8&gt;(los empuja hacia adelante en la línea de tiempo)&lt;/size&gt;</string>
-		<string lang="kr">$grav-$ $b$전투원을 가속시킵니다$/b$$p$&lt;size=8&gt;(타임라인에서 앞으로 끌어당깁니다)&lt;/size&gt;</string>
-		<string lang="pt-br">$grav-$$br$acelera os combatentes$p$&lt;size=8&gt;(os puxa para frente na linha do tempo)&lt;/size&gt;</string>
-		<string lang="zh-tw">$grav-$$b$加速單位$/b$$p$&lt;size=8&gt;（在時間軸上提前該單位回合）&lt;/size&gt;</string>
-		<string lang="uk">$grav-$ прискорює учасників бою$p$&lt;size=8&gt;(переносить їх лівіше на шкалі часу)&lt;/size&gt;</string>
+		<string lang="de">$grav-$$br$beschleunigt Charaktere$p$&lt;size=9&gt;(zieht sie auf der Zeitleiste nach vorne)&lt;/size&gt;</string>
+		<string lang="en">$grav-$$br$accelerates combatants$p$&lt;size=9&gt;(pulls them forward on the timeline)&lt;/size&gt;</string>
+		<string lang="fr">$grav-$$br$accélère les combattants$p$&lt;size=9&gt;(les tire en avant sur la chronologie)&lt;/size&gt;</string>
+		<string lang="zh">$grav-$$b$加速单位$/b$$p$&lt;size=9&gt;（在时间轴上提前该单位回合）&lt;/size&gt;</string>
+		<string lang="jp">$grav-$$br$敵味方を早くする$p$&lt;size=9&gt;（タイムライン上で前に引っ張る）&lt;/size&gt;</string>
+		<string lang="ru">$grav-$$br$ускоряет бойцов$p$&lt;size=9&gt;(тянет их вперед по временной шкале)&lt;/size&gt;</string>
+		<string lang="es">$grav-$$br$acelera a los combatientes$p$&lt;size=9&gt;(los empuja hacia adelante en la línea de tiempo)&lt;/size&gt;</string>
+		<string lang="kr">$grav-$ $b$전투원을 가속시킵니다$/b$$p$&lt;size=9&gt;(타임라인에서 앞으로 끌어당깁니다)&lt;/size&gt;</string>
+		<string lang="pt-br">$grav-$$br$acelera os combatentes$p$&lt;size=9&gt;(os puxa para frente na linha do tempo)&lt;/size&gt;</string>
+		<string lang="zh-tw">$grav-$$b$加速單位$/b$$p$&lt;size=9&gt;（在時間軸上提前該單位回合）&lt;/size&gt;</string>
+		<string lang="uk">$grav-$ прискорює учасників бою$p$&lt;size=9&gt;(переносить їх лівіше на шкалі часу)&lt;/size&gt;</string>
 </set>
 <set id="tutorialwindow-gravcharge-heading-positive">
-		<string lang="de">$grav+$$br$verlangsamt Charaktere$p$&lt;size=8&gt;(schiebt sie auf der Zeitleiste nach hinten)&lt;/size&gt;</string>
-		<string lang="en">$grav+$$br$slows down combatants$p$&lt;size=8&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
-		<string lang="fr">$grav+$$br$$b$retarde les combattants$p$&lt;size=8&gt;(les pousse en arrière sur la chronologie)&lt;/size&gt;</string>
-		<string lang="zh">$grav+$$b$减速单位$/b$$p$&lt;size=8&gt;（在时间轴上延后该单位回合）&lt;/size&gt;</string>
-		<string lang="jp">$grav+$$br$敵味方を遅くする$p$&lt;size=8&gt;（タイムライン上で後に押し出す）&lt;/size&gt;</string>
-		<string lang="ru">$grav+$$br$замедляет бойцов$p$&lt;size=8&gt;(отталкивает их назад по временной шкале)&lt;/size&gt;</string>
-		<string lang="es">$grav+$$br$retrasa a los combatientes$p$&lt;size=8&gt;(los empuja hacia atrás en la línea de tiempo)&lt;/size&gt;</string>
-		<string lang="kr">$grav+$ $b$전투원을 지연시킵니다$/b$$p$&lt;size=8&gt;(타임라인에서 뒤로 밀어냅니다)&lt;/size&gt;</string>
-		<string lang="pt-br">$grav+$$br$atrasa os combatentes$p$&lt;size=8&gt;(empurra-os para trás na linha do tempo)&lt;/size&gt;</string>
-		<string lang="zh-tw">$grav+$$b$減速單位$/b$$p$&lt;size=8&gt;（在時間軸上延後該單位回合）&lt;/size&gt;</string>
-		<string lang="uk">$grav+$ уповільнює учасників бою$p$&lt;size=8&gt;(переносить їх правіше на шкалі часу)&lt;/size&gt;</string>
+		<string lang="de">$grav+$$br$verlangsamt Charaktere$p$&lt;size=9&gt;(schiebt sie auf der Zeitleiste nach hinten)&lt;/size&gt;</string>
+		<string lang="en">$grav+$$br$slows down combatants$p$&lt;size=9&gt;(pushes them backward on the timeline)&lt;/size&gt;</string>
+		<string lang="fr">$grav+$$br$$b$retarde les combattants$p$&lt;size=9&gt;(les pousse en arrière sur la chronologie)&lt;/size&gt;</string>
+		<string lang="zh">$grav+$$b$减速单位$/b$$p$&lt;size=9&gt;（在时间轴上延后该单位回合）&lt;/size&gt;</string>
+		<string lang="jp">$grav+$$br$敵味方を遅くする$p$&lt;size=9&gt;（タイムライン上で後に押し出す）&lt;/size&gt;</string>
+		<string lang="ru">$grav+$$br$замедляет бойцов$p$&lt;size=9&gt;(отталкивает их назад по временной шкале)&lt;/size&gt;</string>
+		<string lang="es">$grav+$$br$retrasa a los combatientes$p$&lt;size=9&gt;(los empuja hacia atrás en la línea de tiempo)&lt;/size&gt;</string>
+		<string lang="kr">$grav+$ $b$전투원을 지연시킵니다$/b$$p$&lt;size=9&gt;(타임라인에서 뒤로 밀어냅니다)&lt;/size&gt;</string>
+		<string lang="pt-br">$grav+$$br$atrasa os combatentes$p$&lt;size=9&gt;(empurra-os para trás na linha do tempo)&lt;/size&gt;</string>
+		<string lang="zh-tw">$grav+$$b$減速單位$/b$$p$&lt;size=9&gt;（在時間軸上延後該單位回合）&lt;/size&gt;</string>
+		<string lang="uk">$grav+$ уповільнює учасників бою$p$&lt;size=9&gt;(переносить їх правіше на шкалі часу)&lt;/size&gt;</string>
 </set>
 <set id="tutorialwindow-gravcharge-title">
 		<string lang="de">Grav.-Ladung</string>
@@ -712,21 +725,21 @@
 		<string lang="uk">Стійка з модулями</string>
 </set>
 <set id="tutorialwindow-sensors1-description">
-		<string lang="de">Hast du schon deinen $curesensor$ bemerkt?$p$$sensor$-Module können eine Menge $energy$ erzeugen und ermöglichen starke $b$Kettenreaktionen$/b$.$p$Lass uns deine erste bauen.</string>
-		<string lang="en">Have you noticed your $curesensor$?$p$$sensor$ modules can produce a lot of $energy$ and allow powerful $b$chain reactions$/b$.$p$Let's build your first one.</string>
-		<string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ peuvent produire beaucoup d'$energy$ et permettre de puissantes $b$réactions en chaîne$/b$.$p$Construisons ton premier.</string>
-		<string lang="zh">以你的$curesensor$为代表的$sensor$模块是再好不过的$energy$来源，可以触发强大的连锁反应。$p$下面就让我们来打造第一个这样的模块。</string>
-		<string lang="jp">$curesensor$のような$sensor$モジュールは最高の$energy$源。強力な連鎖反応を可能にしてくれる。$p$さあ、手始めに一発組んでみよう。</string>
-		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensoricon$$b$Датчика$/b$ могут производить много $energyicon$$b$Энергии$/b$ и позволяют мощные цепные реакции.$p$Давай построим твой первый.</string>
-		<string lang="es">¿Has visto tu $curesensor$?$p$Los módulos $sensor$ pueden producir mucha $energy$ y permitir poderosas reacciones en cadena.$p$Construyamos la primera.</string>
-		<string lang="kr">$curesensor$와 같은 $sensor$ 모듈은 최고의 $energy$원이며, 강력한 연쇄 반응을 일으킬 수 있게 합니다.$p$첫 번째 기계를 만들어보죠.</string>
-		<string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ podem produzir muita $energy$ e permitir poderosas reações em cadeia.$p&gt;Vamos construir o seu primeiro.</string>
-		<string lang="zh-tw">以你的$curesensor$為代表的$sensor$模組是再好不過的$energy$來源，可以觸發強大的連鎖反應。$p$下麵就讓我們來打造第一個這樣的模組。</string>
-		<string lang="uk">Помітив $curesensor$?$p$ $sensor$ створює багато $energyicon$$b$Енергії$/b$ та допомагає запустити потужні $b$ланцюгові реакції$/b$.$p$Давай спорбуємо.</string>
+		<string lang="de">Hast du schon deinen $curesensor$ bemerkt?$p$$sensor$-Module können eine Menge $energy$ erzeugen und ermöglichen starke &lt;nobr&gt;$b$Kettenreaktionen$/b$&lt;/nobr&gt;.$p$Lass uns deine erste bauen.</string>
+		<string lang="en">Have you noticed your $curesensor$?$p$$sensor$ modules can produce a lot of $energy$ and allow powerful &lt;nobr&gt;$b$chain reactions$/b$&lt;/nobr&gt;.$p$Let's build your first one.</string>
+		<string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ peuvent produire beaucoup d'$energy$ et permettre de puissantes &lt;nobr&gt;$b$réactions en chaîne$/b$&lt;/nobr&gt;.$p$Construisons ton premier.</string>
+		<string lang="zh">以你的$curesensor$为代表的$sensor$模块是再好不过的$energy$来源，可以触发强大的&lt;nobr&gt;连锁反应&lt;/nobr&gt;。$p$下面就让我们来打造第一个这样的模块。</string>
+		<string lang="jp">$curesensor$のような$sensor$モジュールは最高の$energy$源。強力な&lt;nobr&gt;連鎖反応&lt;/nobr&gt;を可能にしてくれる。$p$さあ、手始めに一発組んでみよう。</string>
+		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensoricon$$b$Датчика$/b$ могут производить много $energyicon$$b$Энергии$/b$ и позволяют мощные &lt;nobr&gt;цепные реакции&lt;/nobr&gt;.$p$Давай построим твой первый.</string>
+		<string lang="es">¿Has visto tu $curesensor$?$p$Los módulos $sensor$ pueden producir mucha $energy$ y permitir poderosas &lt;nobr&gt;reacciones en cadena&lt;/nobr&gt;.$p$Construyamos la primera.</string>
+		<string lang="kr">$curesensor$와 같은 $sensor$ 모듈은 최고의 $energy$원이며, 강력한 &lt;nobr&gt;연쇄 반응&lt;/nobr&gt;을 일으킬 수 있게 합니다.$p$첫 번째 기계를 만들어보죠.</string>
+		<string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ podem produzir muita $energy$ e permitir poderosas &lt;nobr&gt;reações em cadeia&lt;/nobr&gt;.$p&gt;Vamos construir o seu primeiro.</string>
+		<string lang="zh-tw">以你的$curesensor$為代表的$sensor$模組是再好不過的$energy$來源，可以觸發強大的&lt;nobr&gt;連鎖反應&lt;/nobr&gt;。$p$下麵就讓我們來打造第一個這樣的模組。</string>
+		<string lang="uk">Помітив $curesensor$?$p$ $sensor$ створює багато $energyicon$$b$Енергії$/b$ та допомагає запустити потужні &lt;nobr&gt;$b$ланцюгові реакції$/b$&lt;/nobr&gt;.$p$Давай спорбуємо.</string>
 </set>
 <set id="tutorialwindow-sensors2-description">
 		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ benutzt, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der $1energy$ erzeugt.$p$Leite sie durch den $amplifier$ für einen starken Angriff mit $2damage$.</string>
-		<string lang="en">If you use the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This triggers the $curesensor$, which will generate $1energy$.$p$Route it through the $amplifier$ for a strong $2damage$ blast.</string>
+		<string lang="en">If you use the $healingpotion$ with the $generator$, $slopperjohnson$ will receive $1healing$.$p$This will trigger the $curesensor$, which will generate $1energy$.$p$Route it through the $amplifier$ for a strong $2damage$ blast.</string>
 		<string lang="fr">Si tu utilises le $healingpotion$ avec le $generator$, $slopperjohnson$ recevra $1healing$.$p$Cela déclenchera le $curesensor$, qui générera $1energy$.$p$Dirige-le à travers l'$amplifier$ pour une puissante $2damage$ attaque.</string>
 		<string lang="zh">用$generator$激活$healingpotion$，让$slopperjohnson$得到$1$点$healing$。$p$$curesensor$随之触发，产出$1$$energy$。$p$将产生的能量导入$amplifier$，$br$打出$2damage$的强力一击吧。</string>
 		<string lang="jp">$healingpotion$を$generator$で起動すると、$slopperjohnson$は$1$$healing$。$p$すると$curesensor$が発動し、$1$$energy$発電。$p$$amplifier$に繋ぐと強力な$2damage$の爆破が起きる。</string>
@@ -739,18 +752,18 @@
 		<string lang="uk">Коли $generator$ активує $healingpotion$, $slopperjohnson$ отримає $1healing$.$p$Це запустить $curesensor$, який згенерує $1$ одиницю $energyicon$$b$Енергії$/b$.$p$Спрямуй її через $amplifier$, щоб нанести $br$ $2damage$.</string>
 </set>
 <set id="tutorialwindow-sensors-title">
-		<string lang="de">Kettenreaktionen</string>
-		<string lang="en">Chain Reactions</string>
-		<string lang="fr">Réactions en Chaîne</string>
-		<string lang="zh">连锁反应</string>
-		<string lang="jp">連鎖反応</string>
-		<string lang="ru">Цепные реакции</string>
-		<string lang="es">Reacciones en Cadena</string>
-		<string lang="kr">연쇄 반응</string>
-		<string lang="pt-br">Reações em Cadeia</string>
-		<string lang="zh-tw">連鎖反應
+		<string lang="de">&lt;nobr&gt;Kettenreaktionen&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;Chain Reactions&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;Réactions en Chaîne&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;连锁反应&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;連鎖反応&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;Цепные реакции&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;Reacciones en Cadena&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;연쇄 반응&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;Reações em Cadeia&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;連鎖反應&lt;/nobr&gt;
 </string>
-		<string lang="uk">Ланцюгові реакції</string>
+		<string lang="uk">&lt;nobr&gt;Ланцюгові реакції&lt;/nobr&gt;</string>
 </set>
 <set id="tutorialwindow-timeline-description">
 		<string lang="de">Die Zeitleiste zeigt die Reihenfolge der kommenden Züge an.$p$$b$Jetzt$/b$ ist $slopperjohnson$ am Zug.$p$Danach tickt die Zeit vorwärts und in $b$4 Schritten$/b$ ist die $chronocat$ an der Reihe.$p$Zwei Schritte später ist es $slopperjackson$s Zug.</string>
