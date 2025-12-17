@@ -185,7 +185,7 @@
 </set>
 <set id="tutorial-grav-equilibrium-window-heading-positive">
 		<string lang="de">$grav+short$ $b$wird halbiert$/b$ &lt;size=11&gt;(abgerundet)&lt;/size&gt;</string>
-		<string lang="en">$grav+short$ $b$is halved$/b$ &lt;size=11&gt;(rounded down)&lt;/size&gt;</string>
+		<string lang="en">$grav+short$ $b$is halved$/b$$br$&lt;size=11&gt;(rounded down)&lt;/size&gt;</string>
 		<string lang="fr">$grav+short$ $b$est divisée en deux$/b$ &lt;size=11&gt;(arrondi vers le bas)&lt;/size&gt;</string>
 		<string lang="zh">$grav+short$$br$效果减半$/b$&lt;size=11&gt;（取邻近的最小整数）&lt;/size&gt;</string>
 		<string lang="jp">$grav+short$$br$半減。$/b$&lt;size=11&gt;（切り捨て）&lt;/size&gt;</string>
@@ -725,17 +725,17 @@
 		<string lang="uk">Стійка з модулями</string>
 </set>
 <set id="tutorialwindow-sensors1-description">
-		<string lang="de">Hast du schon deinen $curesensor$ bemerkt?$p$$sensor$-Module können eine Menge $energy$ erzeugen und ermöglichen starke &lt;nobr&gt;$b$Kettenreaktionen$/b$&lt;/nobr&gt;.$p$Lass uns deine erste bauen.</string>
-		<string lang="en">Have you noticed your $curesensor$?$p$$sensor$ modules can produce a lot of $energy$ and allow powerful &lt;nobr&gt;$b$chain reactions$/b$&lt;/nobr&gt;.$p$Let's build your first one.</string>
-		<string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ peuvent produire beaucoup d'$energy$ et permettre de puissantes &lt;nobr&gt;$b$réactions en chaîne$/b$&lt;/nobr&gt;.$p$Construisons ton premier.</string>
-		<string lang="zh">以你的$curesensor$为代表的$sensor$模块是再好不过的$energy$来源，可以触发强大的&lt;nobr&gt;连锁反应&lt;/nobr&gt;。$p$下面就让我们来打造第一个这样的模块。</string>
-		<string lang="jp">$curesensor$のような$sensor$モジュールは最高の$energy$源。強力な&lt;nobr&gt;連鎖反応&lt;/nobr&gt;を可能にしてくれる。$p$さあ、手始めに一発組んでみよう。</string>
-		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensoricon$$b$Датчика$/b$ могут производить много $energyicon$$b$Энергии$/b$ и позволяют мощные &lt;nobr&gt;цепные реакции&lt;/nobr&gt;.$p$Давай построим твой первый.</string>
-		<string lang="es">¿Has visto tu $curesensor$?$p$Los módulos $sensor$ pueden producir mucha $energy$ y permitir poderosas &lt;nobr&gt;reacciones en cadena&lt;/nobr&gt;.$p$Construyamos la primera.</string>
-		<string lang="kr">$curesensor$와 같은 $sensor$ 모듈은 최고의 $energy$원이며, 강력한 &lt;nobr&gt;연쇄 반응&lt;/nobr&gt;을 일으킬 수 있게 합니다.$p$첫 번째 기계를 만들어보죠.</string>
-		<string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ podem produzir muita $energy$ e permitir poderosas &lt;nobr&gt;reações em cadeia&lt;/nobr&gt;.$p&gt;Vamos construir o seu primeiro.</string>
-		<string lang="zh-tw">以你的$curesensor$為代表的$sensor$模組是再好不過的$energy$來源，可以觸發強大的&lt;nobr&gt;連鎖反應&lt;/nobr&gt;。$p$下麵就讓我們來打造第一個這樣的模組。</string>
-		<string lang="uk">Помітив $curesensor$?$p$ $sensor$ створює багато $energyicon$$b$Енергії$/b$ та допомагає запустити потужні &lt;nobr&gt;$b$ланцюгові реакції$/b$&lt;/nobr&gt;.$p$Давай спорбуємо.</string>
+		<string lang="de">Hast du schon deinen $curesensor$ bemerkt?$p$$sensor$-Module reagieren auf das Kampfgeschehen. Sie können eine Menge $energy$ erzeugen und ermöglichen starke &lt;nobr&gt;$b$Kettenreaktionen$/b$&lt;/nobr&gt;.$p$Lass uns deine erste bauen.</string>
+		<string lang="en">Have you noticed your $curesensor$?$p$$sensor$ modules react to combat events. They can produce a lot of $energy$ and allow powerful &lt;nobr&gt;$b$chain reactions$/b$&lt;/nobr&gt;.$p$Let's build your first one.</string>
+		<string lang="fr">As-tu remarqué ton $curesensor$?$p$Les modules $sensor$ réagissent aux événements de combat. Ils peuvent produire beaucoup d'$energy$ et permettre de puissantes &lt;nobr&gt;$b$réactions en chaîne$/b$&lt;/nobr&gt;.$p$Construisons ton premier.</string>
+		<string lang="zh">你注意到你的$curesensor$了吗?$p$$sensor$模块会对战斗事件做出反应。它们可以产生大量$energy$并触发强大的&lt;nobr&gt;$b$连锁反应$/b$&lt;/nobr&gt;。$p$让我们来打造你的第一个吧。</string>
+		<string lang="jp">$curesensor$に気づいたかな?$p$$sensor$モジュールは戦闘イベントに反応する。大量の$energy$を生成し、強力な&lt;nobr&gt;$b$連鎖反応$/b$&lt;/nobr&gt;を可能にしてくれる。$p$さあ、手始めに一発組んでみよう。</string>
+		<string lang="ru">Заметил свой $curesensor$?$p$Модули $sensor$ реагируют на боевые события. Они могут производить много $energy$ и позволяют мощные &lt;nobr&gt;$b$цепные реакции$/b$&lt;/nobr&gt;.$p$Давай построим твой первый.</string>
+		<string lang="es">¿Has visto tu $curesensor$?$p$Los módulos $sensor$ reaccionan a eventos de combate. Pueden producir mucha $energy$ y permitir poderosas &lt;nobr&gt;$b$reacciones en cadena$/b$&lt;/nobr&gt;.$p$Construyamos la primera.</string>
+		<string lang="kr">$curesensor$를 발견했나요?$p$$sensor$ 모듈은 전투 이벤트에 반응합니다. 대량의 $energy$를 생성하고 강력한 &lt;nobr&gt;$b$연쇄 반응$/b$&lt;/nobr&gt;을 일으킬 수 있게 합니다.$p$첫 번째 기계를 만들어보죠.</string>
+		<string lang="pt-br">Você notou seu $curesensor$?$p$Os módulos $sensor$ reagem a eventos de combate. Eles podem produzir muita $energy$ e permitir poderosas &lt;nobr&gt;$b$reações em cadeia$/b$&lt;/nobr&gt;.$p$Vamos construir o seu primeiro.</string>
+		<string lang="zh-tw">你注意到你的$curesensor$了嗎?$p$$sensor$模組會對戰鬥事件做出反應。它們可以產生大量$energy$並觸發強大的&lt;nobr&gt;$b$連鎖反應$/b$&lt;/nobr&gt;。$p$讓我們來打造你的第一個吧。</string>
+		<string lang="uk">Помітив $curesensor$?$p$Модулі $sensor$ реагують на бойові події. Вони створюють багато $energy$ та допомагають запустити потужні &lt;nobr&gt;$b$ланцюгові реакції$/b$&lt;/nobr&gt;.$p$Давай спробуємо.</string>
 </set>
 <set id="tutorialwindow-sensors2-description">
 		<string lang="de">Wenn du mit dem $generator$ den $healingpotion$ benutzt, erhält $slopperjohnson$$br$$1healing$.$p$Das wird den $curesensor$ auslösen, der $1energy$ erzeugt.$p$Leite sie durch den $amplifier$ für einen starken Angriff mit $2damage$.</string>
