@@ -42,8 +42,8 @@
 		<string lang="uk">Змінює колір наприкінці кроку власника</string>
 </set>
 <set id="description-status-moduleboost">
-		<string lang="de">Fügt dem Strom bis zum Ende des Zuges$br$$1energy$ hinzu</string>
-		<string lang="en">Adds $1$ to the incoming $energy$$br$until the end of turn</string>
+		<string lang="de">Fügt dem Strom bis zum Ende des Zuges $1energy$ hinzu</string>
+		<string lang="en">Adds $1$ to the incoming $energy$ until the end of turn</string>
 		<string lang="fr">Ajoute $1energy$ au courant$br$jusqu'à la fin du tour</string>
 		<string lang="zh">为输入能量流增加$1energy$直到回合结束。</string>
 		<string lang="jp">ターン終了時まで、$br$入力電流に$1energy$加算</string>
@@ -386,8 +386,8 @@
 		<string lang="uk">Не можна зняти зі стійки</string>
 </set>
 <set id="description-status-modulemalfunctioning">
-		<string lang="de">Erhält nach Aktivierung $outoforder$$br$bis zum Ende des Kampfes.</string>
-		<string lang="en">When activated, receives $outoforder$$br$until the end of battle.</string>
+		<string lang="de">Erhält nach Aktivierung $outoforder$ bis zum Ende des Kampfes.</string>
+		<string lang="en">When activated, receives $outoforder$ until the end of battle.</string>
 		<string lang="fr">Quand activé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
 		<string lang="zh">激活后变为$outoforder$，直到战斗结束。</string>
 		<string lang="jp">起動で戦闘終了時まで$outoforder$付与</string>
@@ -620,8 +620,8 @@
 		<string lang="uk">Активація в цей хід призведе до $crust$</string>
 </set>
 <set id="description-status-moduleturbo">
-		<string lang="de">Fügt dem Strom $1energy$ hinzu.$br$Hält bis zum Ende des Kampfes an</string>
-		<string lang="en">Adds $1$ to the incoming $energy$.$br$Lasts until the end of combat</string>
+		<string lang="de">Fügt dem Strom $1energy$ hinzu. Hält bis zum Ende des Kampfes an</string>
+		<string lang="en">Adds $1$ to the incoming $energy$. Lasts until the end of combat</string>
 		<string lang="fr">Ajoute $1energy$ au courant.$br$Dure jusqu'à la fin du combat</string>
 		<string lang="zh">为输入能量流增加$1$$energy$。$br$直至战斗结束。</string>
 		<string lang="jp">戦闘終了時まで入力電流に$1$$energy$加算</string>
