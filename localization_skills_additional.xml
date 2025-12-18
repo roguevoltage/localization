@@ -338,13 +338,13 @@
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Phoenix$/b$ schlüpfen zu lassen.</string>
 		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Phoenix$/b$.</string>
 		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Phoenix$/b$.</string>
-		<string lang="zh">$might$达到最大值时自毁，$br$诞生一只$b$不死鸟$/b$。</string>
-		<string lang="jp">$might$最大なら、$br$自身を破壊し$br$$b$不死鳥$/b$出現。</string>
+		<string lang="zh">$might$达到最大值时自毁，诞生一只$b$不死鸟$/b$。</string>
+		<string lang="jp">$might$最大なら、自身を破壊し$b$不死鳥$/b$出現。</string>
 		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Phoenix$/b$.</string>
 		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Phoenix$/b$.</string>
 		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$불사조$/b$를 소환합니다.</string>
 		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Phoenix$/b$.</string>
-		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$不死鳥$/b$。</string>
+		<string lang="zh-tw">$might$達到最大值時自毀，誕生一隻$b$不死鳥$/b$。</string>
 		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Фенікса$/b$.</string>
 </set>
 <set id="description-skill-modulefire-volcanoboss">
@@ -631,7 +631,7 @@
 		<string lang="pt-br">Preenche $might$ e inflige um módulo com $fire$.</string>
 		<string lang="zh-tw">$might$提升$1$，並令一個模組$fire$。
 </string>
-		<string lang="uk">Наповнює $mighticon$$b$Силу$ і накладає на модуль $fire$.</string>
+		<string lang="uk">Наповнює $mighticon$$b$Силу$/b$ і накладає на модуль $fire$.</string>
 </set>
 <set id="description-skill-powerraise-egg-graviraptor">
 		<string lang="de">Füllt $might$.</string>
@@ -1127,41 +1127,39 @@
 		<string lang="de">Schlüpfen (Dynosaurus)</string>
 		<string lang="en">Hatch (Dynosaur)</string>
 		<string lang="fr">Éclosion (Dynosaure)</string>
-		<string lang="zh">孵化（化石恐龙）</string>
-		<string lang="jp">孵化（グラビサウルス）</string>
+		<string lang="zh">孵化</string>
+		<string lang="jp">孵化</string>
 		<string lang="ru">Вылупление (Динозавр)</string>
 		<string lang="es">Eclosión (Dynosaurio)</string>
 		<string lang="kr">부화 (공룡)</string>
 		<string lang="pt-br">Eclosão (Dinossauro)</string>
-		<string lang="zh-tw">孵化（化石恐龍）
-</string>
+		<string lang="zh-tw">孵化</string>
 		<string lang="uk">Вилуплення (Динозавр)</string>
 </set>
 <set id="name-skill-hatch-graviraptor">
 		<string lang="de">Schlüpfen (Graviraptor)</string>
 		<string lang="en">Hatch (Graviraptor)</string>
 		<string lang="fr">Éclosion (Graviraptor)</string>
-		<string lang="zh">孵化（引力龙）</string>
-		<string lang="jp">孵化（グラビラプトル）</string>
+		<string lang="zh">孵化</string>
+		<string lang="jp">孵化</string>
 		<string lang="ru">Вылупление (Гравираптор)</string>
 		<string lang="es">Eclosión (Graviraptor)</string>
 		<string lang="kr">부화 (중력랩터)</string>
 		<string lang="pt-br">Eclosão (Graviraptor)</string>
-		<string lang="zh-tw">孵化（引力龍）
-</string>
+		<string lang="zh-tw">孵化</string>
 		<string lang="uk">Вилуплення (Гравіраптор)</string>
 </set>
 <set id="name-skill-hatch-phoenix">
 		<string lang="de">Schlüpfen (Phönix)</string>
 		<string lang="en">Hatch (Phoenix)</string>
 		<string lang="fr">Éclosion (Phénix)</string>
-		<string lang="zh">孵化（不死鸟）</string>
-		<string lang="jp">孵化（不死鳥）</string>
+		<string lang="zh">孵化</string>
+		<string lang="jp">孵化</string>
 		<string lang="ru">Вылупление (Феникс)</string>
 		<string lang="es">Eclosión (Fénix)</string>
 		<string lang="kr">부화 (불사조)</string>
 		<string lang="pt-br">Eclosão (Fênix)</string>
-		<string lang="zh-tw">孵化（不死鳥）</string>
+		<string lang="zh-tw">孵化</string>
 		<string lang="uk">Вилуплення (Фенікс)</string>
 </set>
 <set id="name-skill-modulefire">
@@ -1415,16 +1413,16 @@
 </set>
 <set id="description-skill-aurora">
         <string lang="de">Fügt allen Verbündeten $grav-1$ zu.</string>
-		<string lang="en">Apply $grav-$ to all allies.</string>
-        <string lang="fr">Applique $grav-$ à tous les alliés.</string>
-        <string lang="zh">对所有盟友施加$grav-$。</string>
-        <string lang="jp">味方全体に$grav-$を付与する。</string>
-        <string lang="ru">Накладывает $grav-$ на всех союзников.</string>
-        <string lang="es">Aplica $grav-$ a todos los aliados.</string>
-        <string lang="kr">모든 아군에게 $grav-$를 부여합니다.</string>
-        <string lang="pt-br">Aplica $grav-$ em todos os aliados.</string>
-        <string lang="zh-tw">對所有盟友施加$grav-$。</string>
-        <string lang="uk">Накладає $grav-$ на всіх союзників.</string>
+		<string lang="en">Apply $grav-1$ to all allies.</string>
+        <string lang="fr">Applique $grav-1$ à tous les alliés.</string>
+        <string lang="zh">对所有盟友施加$grav-1$。</string>
+        <string lang="jp">味方全体に$grav-1$を付与する。</string>
+        <string lang="ru">Накладывает $grav-1$ на всех союзников.</string>
+        <string lang="es">Aplica $grav-1$ a todos los aliados.</string>
+        <string lang="kr">모든 아군에게 $grav-1$를 부여합니다.</string>
+        <string lang="pt-br">Aplica $grav-1$ em todos os aliados.</string>
+        <string lang="zh-tw">對所有盟友施加$grav-1$。</string>
+        <string lang="uk">Накладає $grav-1$ на всіх союзників.</string>
 </set>
 <set id="name-skill-passive-powerraiseonallydeath">
 		<string lang="de">Seelen-Detektion $mighticon$</string>
@@ -1478,9 +1476,8 @@
 		<string lang="es">Incubación Ardiente $mighticon$$fireicon$</string>
 		<string lang="kr">작열의 품기 $mighticon$$fireicon$</string>
 		<string lang="pt-br">Incubação Flamejante $mighticon$$fireicon$</string>
-		<string lang="zh-tw">靜默之火$mighticon$$fireicon$
-</string>
-		<string lang="uk">Сяюче вилуплення $mighticon$ $fireicon$</string>
+		<string lang="zh-tw">靜默之火$mighticon$$fireicon$</string>
+		<string lang="uk">Сяюче вилуплення $mighticon$$fireicon$</string>
 </set>
 <set id="name-skill-powerraise-egg-graviraptor">
 		<string lang="de">Brüten $mighticon$</string>
