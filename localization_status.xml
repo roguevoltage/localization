@@ -389,6 +389,19 @@
 		<string lang="zh-tw">啟動後獲得$outoforder$，直到戰鬥結束。</string>
 		<string lang="uk">При активації отримує $outoforder$ до кінця бою.</string>
 </set>
+<set id="description-status-modulemalfunctioning-discharge">
+		<string lang="de">Erhält nach Entladung $outoforder$ bis zum Ende des Kampfes.</string>
+		<string lang="en">When discharged, receives $outoforder$ until the end of battle.</string>
+		<string lang="fr">Quand déchargé, il reçoit $outoforder$ jusqu'à la fin du combat.</string>
+		<string lang="zh">释能后变为$outoforder$，直到战斗结束。</string>
+		<string lang="jp">放電で戦闘終了時まで$outoforder$付与</string>
+		<string lang="ru">При разрядке получает $outoforder$ до конца боя.</string>
+		<string lang="es">Cuando se descarga, recibe $outoforder$ hasta el final de la batalla.</string>
+		<string lang="kr">방전 시, 전투 종료까지 $outoforder$ 상태가 됩니다.</string>
+		<string lang="pt-br">Quando descarregado, recebe $outoforder$ até o final da batalha.</string>
+		<string lang="zh-tw">釋能後變為$outoforder$，直到戰鬥結束。</string>
+		<string lang="uk">При розрядці отримує $outoforder$ $до кінця бою.</string>
+</set>
 <set id="description-status-modulemodificationmutation">
 		<string lang="de">Ändert seine Eigenschaften am Ende des Zuges</string>
 		<string lang="en">Throughput changes at the end of turn</string>
@@ -416,30 +429,30 @@
 		<string lang="uk">Більше не можна активувати в цій битві</string>
 </set>
 <set id="description-status-moduleoverload">
-		<string lang="de">Erhält nach Aktivierung $cooldown$$br$für eine Runde</string>
-		<string lang="en">When activated, receives $cooldown$$br$for one turn</string>
+		<string lang="de">Erhält nach Aktivierung $cooldown$ &lt;nobr&gt;für eine Runde&lt;/nobr&gt;</string>
+		<string lang="en">When activated, receives $cooldown$ &lt;nobr&gt;for one turn&lt;/nobr&gt;</string>
 		<string lang="fr">Reçoit $cooldown$ pour un tour après activation</string>
 		<string lang="zh">激活后，$cooldown$一回合</string>
 		<string lang="jp">起動で1ターン$cooldown$付与</string>
 		<string lang="ru">Получает $cooldown$ на один ход после активации</string>
 		<string lang="es">Cuando se activa, recibe $cooldown$ por un turno</string>
 		<string lang="kr">활성화 시, 한 턴 동안 $cooldown$ 상태가 됩니다.</string>
-		<string lang="pt-br">Quando ativado, recebe $cooldown$$br$por um turno</string>
+		<string lang="pt-br">Quando ativado, recebe $cooldown$ por um turno</string>
 		<string lang="zh-tw">啟動後，$cooldown$一回合</string>
-		<string lang="uk">При активації отримує $cooldown$ $br$на один хід</string>
+		<string lang="uk">При активації отримує $cooldown$ на один хід</string>
 </set>
 <set id="description-status-moduleoverload-discharge">
-		<string lang="de">Erhält nach Entladung $cooldown$$br$für eine Runde</string>
-		<string lang="en">When discharged, receives $cooldown$$br$for one turn</string>
+		<string lang="de">Erhält nach Entladung $cooldown$ &lt;nobr&gt;für eine Runde&lt;/nobr&gt;</string>
+		<string lang="en">When discharged, receives $cooldown$ &lt;nobr&gt;for one turn&lt;nobr&gt;</string>
 		<string lang="fr">Reçoit $cooldown$ pour un tour après décharge</string>
 		<string lang="zh">释能后，$cooldown$一回合</string>
 		<string lang="jp">放電で1ターン$cooldown$付与</string>
 		<string lang="ru">Получает $cooldown$ на один ход после разрядки</string>
 		<string lang="es">Cuando se descarga, recibe $cooldown$ por un turno</string>
 		<string lang="kr">방전 시, 한 턴 동안 $cooldown$ 상태가 됩니다.</string>
-		<string lang="pt-br">Quando descarregado, recebe $cooldown$$br$por um turno</string>
+		<string lang="pt-br">Quando descarregado, recebe $cooldown$ por um turno</string>
 		<string lang="zh-tw">釋能後，$cooldown$一回合</string>
-		<string lang="uk">При розрядці отримує $cooldown$ $br$на один хід</string>
+		<string lang="uk">При розрядці отримує $cooldown$ на один хід</string>
 </set>
 <set id="description-status-moduleoverload-eot">
 		<string lang="de">Aktivierung diese Runde führt zu $cooldown$</string>
