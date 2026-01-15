@@ -111,9 +111,9 @@
 		<string lang="uk">Намагайся не давати розсіюватися $energyicon$$b$Енергії$/b$ на $sensor$ модулях.</string>
 </set>
 <set id="advice-exhaustion">
-		<string lang="de">Wenn du einen $generator$ aktivierst, wird dein nächster Zug um dessen Erschöpfungswert zurückgesetzt.</string>
-		<string lang="en">Activating a $generator$ sets your next turn back by its Exhaustion value.</string>
-		<string lang="fr">Activer un $generator$ fait reculer votre prochain tour de sa valeur d'épuisement.</string>
+		<string lang="de">Wenn du einen $generator$ aktivierst, wird dein nächster Zug um dessen $exhaustion$-Wert zurückgesetzt.</string>
+		<string lang="en">Activating a $generator$ sets your next turn back by its $exhaustion$ value.</string>
+		<string lang="fr">Activer un $generator$ fait reculer votre prochain tour de sa valeur $exhaustion$.</string>
 		<string lang="zh">激活$generator$会使你的轮次延后等同疲劳值的步长。</string>
 		<string lang="jp">$generator$を起動すると、$br$次のターンが消耗の分だけ遅くなる。</string>
 		<string lang="ru">Активация $generator$ сбрасывает ваш следующий ход на значение его истощения. </string>
