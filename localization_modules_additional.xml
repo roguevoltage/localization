@@ -1137,6 +1137,19 @@
         <string lang="zh-tw">在擁有者回合結束後立即召喚$gravequilibrium$。</string>
         <string lang="uk">Викликає $gravequilibrium$ відразу після ходу власника.</string>
 </set>
+<set id="description-module-toggledgravimploder">
+		<string lang="de">Entfernt alle $grav+$ auf einem Gegner deiner Wahl, um ebensoviel $damage$ zuzufügen.</string>
+		<string lang="en">Removes all $grav+$ from target enemy to deal that much $damage$.</string>
+		<string lang="fr">Enlève tous les $grav+$ sur l'ennemi ciblé et inflige des $damage$.</string>
+		<string lang="zh">移除目标敌人全部$grav+$，造成等量$damage$。</string>
+		<string lang="jp">対象の敵から$grav+$全て除去し、$br$同量の$damage$。</string>
+		<string lang="ru">Удаляет все $grav+$ с целевого врага и наносит столько же $damage$.</string>
+		<string lang="es">Retira todos los $grav+$ del enemigo objetivo para infligir el mismo $damage$.</string>
+		<string lang="kr">대상 적의 모든 $grav+$를 제거해 그와 동일한 $damage$를 줍니다.</string>
+		<string lang="pt-br">Remove todos os $grav+$ de um inimigo alvo para causar a mesma quantidade de $damage$.</string>
+		<string lang="zh-tw">移除目標敵人全部$grav+$，造成等量$damage$.</string>
+		<string lang="uk">Прибирає весь $grav+$ з вказаного ворога і наносить стільки ж $damage$.</string>
+</set>
 <set id="description-module-toggledgravinverter">
 		<string lang="de">Kehrt die aktuelle $grav$ aller Kampfteilnehmer um.</string>
 		<string lang="en">Inverts the current $grav$ on all combatants.</string>
@@ -2529,6 +2542,19 @@
 		<string lang="pt-br">Inversor Grav.</string>
 		<string lang="zh-tw">引力逆轉器</string>
 		<string lang="uk">Гравіінвертор</string>
+</set>
+<set id="name-module-toggledgravimploder">
+        <string lang="de">Aufblas-Pilz</string>
+		<string lang="en">Inflatable Shroom</string>
+        <string lang="fr">Champi Gonflable</string>
+        <string lang="zh">充气蘑菇</string>
+        <string lang="jp">インフレータブルマッシュルーム</string>
+        <string lang="ru">Надувной Гриб</string>
+        <string lang="es">Seta Inflable</string>
+        <string lang="kr">인플레이트 머쉬룸</string>
+        <string lang="pt-br">Cogumelo Inflável</string>
+        <string lang="zh-tw">充氣蘑菇</string>
+        <string lang="uk">Надувний Гриб</string>
 </set>
 <set id="name-module-toggledgravequalizer">
 		<string lang="de">Equilibrium in der Flasche</string>
