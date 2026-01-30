@@ -863,6 +863,19 @@
         <string lang="zh-tw">每當此模組受到$b$減益$/b$影響時，產生$1plasma$。$p$在擁有者回合結束時，從此模組上移除所有$b$減益$/b$。$p$&lt;size=11&gt;$listdebuffs$</string>
         <string lang="uk">Коли цей модуль отримує $b$Дебаф$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Дебафи$/b$ з цього модуля. $p$&lt;size=11&gt;$listdebuffs$</string>
 </set>
+<set id="description-module-passivesmogtrap">
+        <string lang="de">Immer wenn einem Gegner $grav+$ zugefügt wird, füge ihm $vulnerable$ zu.$p$(Dauer: 3 Zeitschritte)</string>
+		<string lang="en">Whenever $grav+$ is applied to an enemy, apply $vulnerable$ to them.$p$(Duration: 3 time steps)</string>
+		<string lang="fr">Chaque fois que $grav+$ est infligé à un ennemi, lui applique $vulnerable$.$p$(Durée : 3 étapes de temps)</string>
+		<string lang="zh">每当对敌人施放$grav+$时，对其施放$vulnerable$。$p$（持续时间：3个时间步）</string>
+		<string lang="jp">敵に$grav+$が付与されるたびに、$vulnerable$を付与。$p$（効果時間：3タイムステップ）</string>
+		<string lang="ru">Когда на врага накладывается $grav+$, применяет к нему $vulnerable$.$p$(Длительность: 3 временных шага)</string>
+		<string lang="es">Cada vez que se aplica $grav+$ a un enemigo, le aplica $vulnerable$.$p$(Duración: 3 pasos de tiempo)</string>
+		<string lang="kr">적에게 $grav+$가 부여될 때마다 $vulnerable$을 부여합니다.$p$(지속시간: 3 시간 단계)</string>
+		<string lang="pt-br">Sempre que $grav+$ for aplicado a um inimigo, aplica $vulnerable$ a ele.$p$(Duração: 3 passos de tempo)</string>
+		<string lang="zh-tw">每當對敵人施放$grav+$時，對其施放$vulnerable$。$p$（持續時間：3個時間步）</string>
+		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
+</set>
 <set id="description-module-passivestorageinductor">
 		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
 		<string lang="en">At the beginning of turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
@@ -2270,6 +2283,19 @@
         <string lang="pt-br">Pia</string>
         <string lang="zh-tw">廚房水槽</string>
         <string lang="uk">Кухонна Мийка</string>
+</set>
+<set id="name-module-passivesmogtrap">
+        <string lang="de">Smogfalle</string>
+        <string lang="en">Smog Trap</string>
+        <string lang="fr">Piège à Smog</string>
+        <string lang="zh">烟雾陷阱</string>
+        <string lang="jp">スモッグトラップ</string>
+        <string lang="ru">Ловушка для Смога</string>
+        <string lang="es">Trampa de Smog</string>
+        <string lang="kr">스모그 트랩</string>
+        <string lang="pt-br">Armadilha de Fumaça</string>
+        <string lang="zh-tw">煙霧陷阱</string>
+        <string lang="uk">Пастка для смогу</string>
 </set>
 <set id="name-module-passivestorageinductor">
 		<string lang="de">Speicher-Induktor</string>
