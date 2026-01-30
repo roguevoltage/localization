@@ -565,17 +565,17 @@
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $fire$.</string>
 </set>
 <set id="description-module-generator-outoforder">
-        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $outoforder$ to another target module on this rack.</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $outoforder$ à un autre module ciblé sur ce rack.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$br$$outoforder$。</string>
-        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$outoforder$付与。</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $outoforder$ к другому целевому модулю на этой стойке.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $outoforder$ a otro módulo objetivo en este bastidor.</string>
-        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $outoforder$를 적용합니다.</string>
-        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $outoforder$ a outro módulo alvo neste rack.</string>
-        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$br$$outoforder$。</string>
-        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
+		<string lang="de">Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$ um sich selbst mit $turbo$ zu versehen.$p$Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
+        <string lang="en">Applies $outoforder$ to another target module on this rack to apply $turbo$ to itself.$p$Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.</string>
+        <string lang="fr">Applique $outoforder$ à un autre module ciblé sur ce rack pour s'appliquer $turbo$.$p$Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.</string>
+        <string lang="zh">为此模架上的另一个目标模块施加$outoforder$以为自身施加$turbo$。$p$激活时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
+        <string lang="jp">このラック上の他のターゲットモジュールに$outoforder$を付与し、自身に$turbo$を付与する。$p$起動時$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Применяет $outoforder$ к другому целевому модулю на этой стойке, чтобы применить $turbo$ к себе.$p$Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
+        <string lang="es">Aplica $outoforder$ a otro módulo objetivo en este bastidor para aplicarse $turbo$.$p$Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
+        <string lang="kr">이 랙의 다른 대상 모듈에 $outoforder$를 적용하여 자신에게 $turbo$를 적용합니다.$p$활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Aplica $outoforder$ a outro módulo alvo neste rack para aplicar $turbo$ a si mesmo.$p$Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
+        <string lang="zh-tw">為此模架上的另一個目標模組施加$outoforder$以為自身施加$turbo$。$p$啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
+        <string lang="uk">Застосовує $outoforder$ до іншого цільового модуля на цій стійці, щоб застосувати $turbo$ до себе.$p$Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.</string>
 </set>
 <set id="description-module-generator-pollution">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $pollution$ bis zum Ende des Kampfes.</string>                     
@@ -589,19 +589,6 @@
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $pollution$ a outro módulo alvo neste rack até o final do combate.</string>
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$pollution$直到戰鬥結束。</string>
         <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $pollution$ до іншого цільового модуля на цій стійці до кінця бою.</string>
-</set>
-<set id="description-module-generatoroutoforder">
-        <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $outoforder$.</string>                     
-		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Applies $outoforder$ to another target module on this rack.</string>
-        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Applique $outoforder$ à un autre module ciblé sur ce rack.</string>
-        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$outoforder$。</string>
-        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに$outoforder$付与。</string>
-        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $outoforder$ к другому целевому модулю на этой стойке.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $outoforder$ a otro módulo objetivo en este bastidor.</string>
-        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 $outoforder$를 적용합니다.</string>
-        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $outoforder$ a outro módulo alvo neste rack.</string>
-        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$outoforder$。</string>
-        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Застосовує $outoforder$ до іншого цільового модуля на цій стійці.</string>
 </set>
 <set id="description-module-generatorplasma">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.</string>
@@ -2021,17 +2008,17 @@
         <string lang="uk">Пірогенератор</string>
 </set>
 <set id="name-module-generator-outoforder">
-		<string lang="de">Notstrom-Generator</string>
-		<string lang="en">Emergency Generator</string>
-		<string lang="fr">Générateur de Secours</string>
-        <string lang="zh">应急发电机</string>
-        <string lang="jp">非常用発電機</string>
-        <string lang="ru">Генератор Чрезвычайной Ситуации</string>
-        <string lang="es">Generador de Emergencia</string>
-        <string lang="kr">비상 발전기</string>
-        <string lang="pt-br">Gerador de Emergência</string>
-        <string lang="zh-tw">應急發電機</string>
-        <string lang="uk">Генератор Надзвичайної Ситуації</string>
+		<string lang="de">Ausbeutungs-Generator</string>
+		<string lang="en">Exploiting Generator</string>
+        <string lang="fr">Générateur d'Exploitation</string>
+		<string lang="zh">剥削性发电机</string>
+		<string lang="jp">利用発電機</string>
+		<string lang="ru">Эксплуатационный Генератор</string>
+		<string lang="es">Generador de Explotación</string>
+		<string lang="kr">이용 발전기</string>
+		<string lang="pt-br">Gerador de Exploração</string>
+		<string lang="zh-tw">剝削性發電機</string>
+		<string lang="uk">Експлуатаційний Генератор</string>
 </set>
 <set id="name-module-generator-pollution">
 		<string lang="de">Verschmutzender Generator</string>
@@ -2045,19 +2032,6 @@
         <string lang="pt-br">Gerador Poluente</string>
         <string lang="zh-tw">污染發電機</string>
         <string lang="uk">Забруднюючий Генератор</string>
-</set>
-<set id="name-module-generatoroutoforder">
-		<string lang="de">Ausbeutungs-Generator</string>
-		<string lang="en">Exploiting Generator</string>
-        <string lang="fr">Générateur d'Exploitation</string>
-		<string lang="zh">剥削性发电机</string>
-		<string lang="jp">利用発電機</string>
-		<string lang="ru">Эксплуатационный Генератор</string>
-		<string lang="es">Generador de Explotación</string>
-		<string lang="kr">이용 발전기</string>
-		<string lang="pt-br">Gerador de Exploração</string>
-		<string lang="zh-tw">剝削性發電機</string>
-		<string lang="uk">Експлуатаційний Генератор</string>
 </set>
 <set id="name-module-generatorplasma">
 		<string lang="de">Plasmaverbrennungs-Generator</string>
