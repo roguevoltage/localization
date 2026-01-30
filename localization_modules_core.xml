@@ -859,19 +859,6 @@
         <string lang="zh-tw">在回合開始時，如果擁有者有$grav-$，則此模組充能$1energy$。$p$否則，對擁有者施加$grav-1$。</string>
         <string lang="uk">На початку ходу, якщо у власника є $grav-$, цей модуль заряджається на $1energy$.$p$Інакше накладає $grav-1$ на власника.</string>
 </set>
-<set id="description-module-storagecellinductionexhaustion">
-	<string lang="de">Wird zu Beginn des Zuges um $1energy$ geladen.$p$Wendet $exhaustion$ in Höhe des gespeicherten $energy$ auf den anderen Charakter an.</string>
-	<string lang="en">Is charged with $1energy$ at the beginning of turn.$p$Applies $exhaustion$ equal to its stored $energy$ to the other player character.</string>
-	<string lang="fr">Est chargé de $1energy$ au début du tour.$p$Applique $exhaustion$ égal à son $energy$ stocké sur l'autre personnage.</string>
-	<string lang="zh">每个角色回合开始时，$1energy$。$p$对另一个角色施加与其储存的$energy$相等的$exhaustion$。</string>
-	<string lang="jp">キャラクターのターン開始時に、$1energy$。$p$$energy$を貯蔵している他のキャラクターに$exhaustion$を付与。</string>
-	<string lang="ru">Заряжается на $1energy$ в начале хода персонажа.$p$Накладывает $exhaustion$, равный его накопленному $energy$, на другого персонажа.</string>
-	<string lang="es">Se carga con $1energy$ al comienzo del turno del dueño.$p$Aplica $exhaustion$ igual a su $energy$ almacenado al otro personaje.</string>
-	<string lang="kr">주인의 차례 시작 시 $1energy$로 충전됩니다.$p$저장된 $energy$와 같은 양의 $exhaustion$을 다른 캐릭터에게 부여합니다.</string>
-	<string lang="pt-br">É carregado com $1energy$ no início do turno do dono.$p$Aplica $exhaustion$ igual ao seu $energy$ armazenado no outro personagem.</string>
-	<string lang="zh-tw">每個角色回合開始時，$1energy$。$p$對另一個角色施加與其儲存的$energy$相等的$exhaustion$。</string>
-	<string lang="uk">Заряджається на $1energy$ на початку ходу власника.$p$Накладає $exhaustion$, рівний його накопиченій $energy$, на іншого персонажа.</string>
-</set>
 <set id="description-module-storagecellinductionplasma">
 		<string lang="de">Zu Beginn des Zuges, verbrauche $1plasma$, um dieses Modul um $1energy$ zu laden.</string>
 		<string lang="en">At the beginning of turn, consumes $1plasma$ to charge this module with $1energy$.</string>
@@ -2196,19 +2183,6 @@
 	<string lang="pt-br">Célula de Indução</string>
 	<string lang="zh-tw">感應單元</string>
 	<string lang="uk">Індукційна комірка</string>
-</set>
-<set id="name-module-storagecellinductionexhaustion" remarks="translate as Selfish Cell">
-	<string lang="de">Selbstsüchtige Zelle</string>
-	<string lang="en">Selfish Cell</string>
-	<string lang="fr">Pile Égoïste</string>
-	<string lang="zh">自私单元</string>
-	<string lang="jp">自己中心的電池</string>
-	<string lang="ru">Эгоистичная Ячейка</string>
-	<string lang="es">Pila Egoísta</string>
-	<string lang="kr">이기적인 전지</string>
-	<string lang="pt-br">Célula Egoísta</string>
-	<string lang="zh-tw">自私單元</string>
-	<string lang="uk">Егоїстична комірка</string>
 </set>
 <set id="name-module-storagecellinductionplasma">
 	<string lang="de">Plasma-Verbrennungs-Zelle</string>
