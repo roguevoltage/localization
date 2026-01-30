@@ -798,18 +798,18 @@
 		<string lang="zh-tw">此模架上的$malfunctioning$與$overload$模組有$b$50%幾率$/b$啟動後不會失效。</string>
 		<string lang="uk">Модулі з $malfunctioning$ або $overload$ на цій стійці мають $b$шанс 50%$/b$ не вимкнутись після активації.</string>
 </set>
-<set id="description-module-passivegravdissipator">
-		<string lang="de">Zu Beginn des Zuges, entferne $grav+1$ von allen Charakteren.</string>
-		<string lang="en">At the beginning of turn, removes $grav+1$ from all player characters.</string>
-		<string lang="fr">Au début du tour, retire $grav+1$ de tous les personnages joueurs.</string>
-		<string lang="zh">拥有者回合开始时，移除所有己方角色的$grav+1$。</string>
-		<string lang="jp">所有者のターン開始時、プレイヤーキャラ全体から$grav+1$除去。</string>
-		<string lang="ru">В начале хода владельца, удаляет $grav+1$ у всех игроков.</string>
-		<string lang="es">Al comienzo del turno, elimina $grav+1$ de todos los personajes jugadores.</string>
-		<string lang="kr">소유자의 턴이 시작될 때, 모든 플레이어 캐릭터에게서 $grav+1$를 제거합니다.</string>
-		<string lang="pt-br">No início do turno, remove $grav+1$ de todos os personagens jogadores.</string>
-		<string lang="zh-tw">擁有者回合開始時，移除所有己方角色的$grav+1$。</string>
-		<string lang="uk">На початку ходу власника прибирає $grav+1$ з усіх гравців.</string>
+<set id="description-module-passiveexhaustpipe">
+		<string lang="de">Immer wenn ein $generator$ auf diesem Rack aktiviert wird, wende $grav+1$ auf einen zufälligen Gegner an.</string>
+		<string lang="en">Whenever a $generator$ is activated on this rack, apply $grav+1$ to a random enemy.</string>
+		<string lang="fr">Chaque fois qu'un $generator$ est activé sur ce rack, appliquez $grav+1$ à un ennemi aléatoire.</string>
+		<string lang="zh">每当此模架上的$generator$被激活时，对一个随机敌人施加$grav+1$。</string>
+		<string lang="jp">このラックの$generator$が起動するたび、ランダムな敵に$grav+1$を付与。</string>
+		<string lang="ru">Когда $generator$ на этой стойке активируется, примените $grav+1$ к случайному врагу.</string>
+		<string lang="es">Siempre que un $generator$ se active en este bastidor, aplica $grav+1$ a un enemigo aleatorio.</string>
+		<string lang="kr">이 랙에서 $generator$가 활성화될 때마다, 무작위 적에게 $grav+1$을 적용합니다.</string>
+		<string lang="pt-br">Sempre que um $generator$ for ativado neste rack, aplique $grav+1$ a um inimigo aleatório.</string>
+		<string lang="zh-tw">每當此模架上的$generator$被啟動時，對一個隨機敵人施加$grav+1$。</string>
+		<string lang="uk">Коли $generator$ на цій стійці активується, застосуйте $grav+1$ до випадкового ворога.</string>
 </set>
 <set id="description-module-passiveshockabsorber">
 		<string lang="de">Wenn ein Modul anderen Typs auf diesem Rack $outoforder$ erhalten sollte, erhält stattdessen dieses Modul $outoforder$.</string>
@@ -2219,18 +2219,18 @@
 </string>
 		<string lang="uk">Регулятор</string>
 </set>
-<set id="name-module-passivegravdissipator">
-		<string lang="de">Grav.-Zerstreuer</string>
-		<string lang="en">Grav. Dissipator</string>
-		<string lang="fr">Dissipateur Grav.</string>
-		<string lang="zh">引力耗散器</string>
-		<string lang="jp">重力減衰機</string>
-		<string lang="ru">Грав. Рассеиватель</string>
-		<string lang="es">Disipador Grav.</string>
-		<string lang="kr">중력 소멸기</string>
-		<string lang="pt-br">Dissipador Grav.</string>
-		<string lang="zh-tw">引力耗散器</string>
-		<string lang="uk">Гравірозсіювач</string>
+<set id="name-module-passiveexhaustpipe">
+		<string lang="de">Auspuffrohr</string>
+		<string lang="en">Exhaust Pipe</string>
+		<string lang="fr">Tuyau d'Échappement</string>
+		<string lang="zh">排气管</string>
+		<string lang="jp">排気管</string>
+		<string lang="ru">Выхлопная Труба</string>
+		<string lang="es">Tubo de Escape</string>
+		<string lang="kr">배기관</string>
+		<string lang="pt-br">Tubo de Escape</string>
+		<string lang="zh-tw">排氣管</string>
+		<string lang="uk">Вихлопна Труба</string>
 </set>
 <set id="name-module-passiveshockabsorber">
 		<string lang="de">Stoßdämpfer</string>
