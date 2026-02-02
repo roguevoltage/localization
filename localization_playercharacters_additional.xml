@@ -38,7 +38,7 @@
 		<string lang="zh-tw">在時間軸上放置閃電攻擊。</string>
 		<string lang="uk">Розставляє удари блискавки на шкалі часу.</string>
 </set>
-<set id="description-playercharacter-plasmamech">
+<set id="description-playercharacter-plasmabot">
 		<string lang="de">Verbraucht Plasma für Angriffe und Heilung.</string>
 		<string lang="en">Uses up plasma for attacks and sustain.</string>
 		<string lang="fr">Utilise du plasma pour les attaques et la régénération.</string>
@@ -154,18 +154,18 @@
 		<string lang="zh-tw">摸清了風暴規律的陌生來客。$br$眼神溫柔，讓人莫名地感到懷念。</string>
 		<string lang="uk">Чужинець, що навчився розуміти бурю. Його очі виглядають ніжно і знайомо.</string>
 </set>
-<set id="flavor-playercharacter-plasmamech">
-		<string lang="de">Opa Sloppers letzte Schöpfung. Vielleicht nicht gerade der effizienteste seiner Prototypen.</string>
-		<string lang="en">Grandpa Slopper's final creation. Maybe not exactly the most efficient of his prototypes.</string>
-		<string lang="fr">La dernière création de Grand-père Slopper. Peut-être pas la plus efficace de ses prototypes.</string>
-		<string lang="zh">斯洛普爷爷最后的发明。$br$在他开发的原型机中算不上高效。</string>
-		<string lang="jp">スロッパー爺さんの遺作。$br$試作品で最高効率、$br$とは言い切れないかも。</string>
-		<string lang="ru">Последнее творение Дедушки Слоппера. Возможно, не самый эффективный из его прототипов.</string>
-		<string lang="es">La creación final del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
-		<string lang="kr">슬로퍼 할아버지의 마지막 작품. 그의 작품 중 가장 유능한 프로토타입은 아닐 겁니다.</string>
-		<string lang="pt-br">A criação final do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
-		<string lang="zh-tw">斯洛普爺爺最後的發明。$br$在他開發的原型機中算不上高效。</string>
-		<string lang="uk">Останнє творіння Дідуся Слопера. Мабуть, не найефективніший з його прототипів.</string>
+<set id="flavor-playercharacter-plasmabot">
+		<string lang="de">Opa Sloppers allererste Schöpfung. Nicht gerade der effizienteste seiner Prototypen.</string>
+		<string lang="en">Grandpa Slopper's very first creation. Not exactly the most efficient of his prototypes.</string>
+		<string lang="fr">La toute première création de Grand-père Slopper. Peut-être pas la plus efficace de ses prototypes.</string>
+		<string lang="zh">斯洛普爷爷的第一个发明。$br$在他开发的原型机中算不上高效。</string>
+		<string lang="jp">スロッパー爺さんの最初の作品。$br$試作品で最高効率、$br$とは言い切れないかも。</string>
+		<string lang="ru">Самое первое творение Дедушки Слоппера. Возможно, не самый эффективный из его прототипов.</string>
+		<string lang="es">La primera creación del abuelo Slopper. Quizás no sea el más eficiente de sus prototipos.</string>
+		<string lang="kr">슬로퍼 할아버지의 첫 번째 작품. 그의 작품 중 가장 유능한 프로토타입은 아닐 겁니다.</string>
+		<string lang="pt-br">A primeira criação do vovô Slopper. Talvez não seja o mais eficiente de seus protótipos.</string>
+		<string lang="zh-tw">斯洛普爺爺的第一個發明。$br$在他開發的原型機中算不上高效。</string>
+		<string lang="uk">Саме перше творіння Дідуся Слопера. Мабуть, не найефективніший з його прототипів.</string>
 </set>
 <set id="flavor-playercharacter-random">
 		<string lang="de">Wählt einen zufälligen freigeschalteten Charakter aus.</string>
@@ -297,7 +297,6 @@
 		<string lang="zh-tw">浪遊人</string>
 		<string lang="uk">Кочівник</string>
 </set>
-<set id="name-playercharacter-plasmamech">
 		<string lang="de">Plasma-Bot</string>
 		<string lang="en">Plasma Bot</string>
 		<string lang="fr">Plasma-Bot</string>
@@ -310,7 +309,7 @@
         <string lang="zh-tw">等離子機器人</string>
         <string lang="uk">Плазма-бот</string>
 </set>
-<set id="name-playercharacter-plasmamech-twolines" remarks="line break where it makes sense">
+<set id="name-playercharacter-plasmabot-twolines" remarks="line break where it makes sense">
 		<string lang="de">Plasma-$br$Bot</string>
 		<string lang="en">Plasma$br$Bot</string>
         <string lang="fr">Plasma-$br$Bot</string>
@@ -492,7 +491,7 @@
 		<string lang="zh-tw">“噓！跟著我走。”</string>
 		<string lang="uk">«Тихо! Давай за мною.»</string>
 </set>
-<set id="quote-playercharacter-plasmamech">
+<set id="quote-playercharacter-plasmabot">
 		<string lang="de">“Plasma-Speicher erschöpft. Bitte Plasmakartusche ersetzen.”</string>
 		<string lang="en">“Plasma storage depleted. Please replace plasma cartridge.”</string>
 		<string lang="fr">“Stockage du plasma épuisé. Veuillez remplacer la cartouche de plasma.”</string>
@@ -596,7 +595,7 @@
 		<string lang="zh-tw">浪遊人</string>
 		<string lang="uk">Кочівник</string>
 </set>
-<set id="shortname-playercharacter-plasmamech">
+<set id="shortname-playercharacter-plasmabot">
 		<string lang="de">Plasma-Bot</string>
 		<string lang="en">Plasma Bot</string>
 		<string lang="fr">Plasma-Bot</string>
