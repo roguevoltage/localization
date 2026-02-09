@@ -123,7 +123,7 @@
 		<string lang="zh">有$energy$输入时，$br$获得$turbo$。</string>
 		<string lang="jp">$energy$を受けるたび、$turbo$付与。</string>
 		<string lang="ru">Получает $turbo$$br$каждый раз, когда получает $energy$.</string>
-		<string lang="es">Recibe $turbo$$br$cada vez que recibe $energy$.</string>
+		<string lang="es">Recibe $turbo$ cada vez que recibe $energy$.</string>
 		<string lang="kr">$energy$를 획득할 때마다$br$$turbo$를 획득합니다.</string>
 		<string lang="pt-br">Recebe $turbo$$br$sempre que recebe $energy$.</string>
 		<string lang="zh-tw">有$energy$輸入時，$br$獲得$turbo$。</string>
@@ -149,7 +149,7 @@
         <string lang="zh">每当这个机架上的另一个传感器被触发时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="jp">このラックの別の$sensor$が発動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой $sensor$ срабатывает на этой стойке.</string>
-        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se activa otro $sensor$ en este rack.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se activa otro $sensor$ en este bastidor.</string>
         <string lang="kr">이 랙에서 다른 $sensor$가 발동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro $sensor$ é acionado neste rack.</string>
         <string lang="zh-tw">每當這個機架上的另一個傳感器被觸發時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -310,7 +310,7 @@
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav-1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav-1$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav-1$].</string>
+		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Inflige a un combatiente objetivo con $grav-1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게$br$$grav-1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav-1$].</string>
 		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav-1$。</string>
@@ -323,7 +323,7 @@
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标敌人造成$br$$1damage$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵に$1damage$。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому врагу $1damage$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige $1damage$ a un enemigo objetivo].</string>
+		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Inflige $1damage$ a un enemigo objetivo].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 적에게$br$$1damage$를 줍니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige $1damage$ a um inimigo alvo].</string>
 		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標敵人造成$br$$1damage$。</string>
@@ -336,7 +336,7 @@
     <string lang="zh">模块每得到1$energy$供应，$br$对这个机架上的一个随机$passthrough$模块施加$boost$。</string>
     <string lang="jp">このモジュールの$energy$ごとに、$br$このラックのランダムな$passthrough$モジュールに$boost$付与。</string>
     <string lang="ru">За каждую $energy$ в этом модуле:$br$[Накладывает $boost$ на случайный $passthrough$ модуль $br$на этой стойке]</string>
-    <string lang="es">Por cada punto de $energy$ en este módulo:$br$[Aplica $boost$ a un módulo $passthrough$ aleatorio $br$en este rack]</string>
+    <string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Aplica $boost$ a un módulo $passthrough$ aleatorio $br$en este bastidor]</string>
     <string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$이 랙의 무작위 $passthrough$ 모듈에 $boost$를 적용합니다]</string>
     <string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Aplica $boost$ a um módulo $passthrough$ aleatório $br$neste rack]</string>
     <string lang="zh-tw">模組每得到1$energy$供應，$br$對這個機架上的一個隨機$passthrough$模組施加$boost$。</string>
@@ -349,7 +349,7 @@
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav+1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav+1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
-		<string lang="es">Por cada punto de $energy$ en este módulo:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
+		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게$br$$grav+1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
 		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav+1$。</string>
@@ -1420,7 +1420,7 @@
     <string lang="zh">可充能。$p$在拥有者回合开始时，移除所有储存的$energy$，以施加相同数量的$grav-short$。</string>
     <string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵された$energy$全て除去し、同じ量の$grav-short$を付与。</string>
     <string lang="ru">Может быть заряжен.$p$В начале хода персонажа,$br$удалите всю сохраненную $energy$$br$и примените столько же $grav-short$ к владельцу.</string>
-    <string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario,$br$elimina toda la $energy$ almacenada para aplicar tanto $grav-short$ a él.</string>
+    <string lang="es">Puede cargarse.$p$Al comienzo del turno del propietario, elimina toda la $energy$ almacenada para aplicar tanto $grav-short$ a él.</string>
     <string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 모든 $energy$를 제거하여 같은 양의 $grav-short$을 부여합니다.</string>
     <string lang="pt-br">Pode ser carregado.$p$No início do turno do proprietário,$br$remova toda a $energy$ armazenada para aplicar tanto $grav-short$ a ele.</string>
     <string lang="zh-tw">可充能。$p$在擁有者回合開始時，移除所有儲存的$energy$，以施加相同數量的$grav-short$。</string>
