@@ -767,16 +767,16 @@
 		<string lang="uk">«Наш єдиний спосіб зв’язку з іншими вцілілими»</string>
 </set>
 <set id="quote-campstructure-hangar">
-		<string lang="de">“Gemeinsam bringen wir das Werk von Opa Slopper zur Vollendung”</string>
-		<string lang="en">“Together we will bring Grandpa Slopper's work to completion”</string>
-        <string lang="fr">“Ensemble, nous achèverons l'œuvre de Grand-père Slopper”</string>
-        <string lang="zh">“我们一起完成斯洛珀爷爷的工作”</string>
-        <string lang="jp">「一緒におじいちゃんスロッパーの仕事を完成させましょう」</string>
+	<string lang="de">"Gemeinsam bringen wir das Werk von Opa Slopper zur Vollendung"</string>
+	<string lang="en">"Together we will bring Grandpa Slopper's work to completion"</string>
+        <string lang="fr">"Ensemble, nous achèverons l'œuvre de Papi Slopper"</string>
+        <string lang="zh">"我们一起完成斯洛普爷爷的工作"</string>
+        <string lang="jp">「一緒に爺ちゃんスロッパーの仕事を完成させましょう」</string>
         <string lang="ru">«Вместе мы доведем дело дедушки Слоппера до конца»</string>
-        <string lang="es">“Juntos llevaremos a cabo el trabajo del abuelo Slopper”</string>
-        <string lang="kr">“함께 할아버지 슬로퍼의 작품을 완성하겠습니다”</string>
-        <string lang="pt-br">“Juntos vamos concluir o trabalho do vovô Slopper”</string>
-        <string lang="zh-tw">“我們一起完成斯洛珀爺爺的工作”</string>
+        <string lang="es">"Juntos llevaremos a cabo el trabajo del abuelo Slopper"</string>
+        <string lang="kr">"함께 슬로퍼 할아버지의 작품을 완성하겠습니다"</string>
+        <string lang="pt-br">"Juntos vamos concluir o trabalho do vovô Slopper"</string>
+        <string lang="zh-tw">"我們一起完成斯洛普爺爺的工作"</string>
         <string lang="uk">«Разом ми доведемо справу дідуся Слоппера до кінця»</string>
 </set>
 <set id="quote-campstructure-firstrerollfree">
@@ -1033,6 +1033,7 @@
         <string lang="zh">一</string>
         <string lang="jp">１</string>
         <string lang="ru">I</string>
+        <string lang="es">I</string>
         <string lang="kr">I</string>
         <string lang="pt-br">I</string>
         <string lang="zh-tw">一</string>
@@ -1040,12 +1041,12 @@
 </set>
 <set id="ui-campstructure-level2">
         <string lang="de">II</string>
-		<string lang="en">II</string>
-        <string lang="es">II</string>
+	<string lang="en">II</string>
         <string lang="fr">II</string>
         <string lang="zh">二</string>
         <string lang="jp">２</string>
         <string lang="ru">II</string>
+        <string lang="es">II</string>
         <string lang="kr">II</string>
         <string lang="pt-br">II</string>
         <string lang="zh-tw">二</string>
@@ -1054,11 +1055,11 @@
 <set id="ui-campstructure-level3">
         <string lang="de">III</string>
         <string lang="en">III</string>
-        <string lang="es">III</string>
         <string lang="fr">III</string>
         <string lang="zh">三</string>
         <string lang="jp">３</string>
         <string lang="ru">III</string>
+        <string lang="es">III</string>
         <string lang="kr">III</string>
         <string lang="pt-br">III</string>
         <string lang="zh-tw">三</string>
@@ -1067,28 +1068,28 @@
 <set id="ui-campstructure-level4">
         <string lang="de">IV</string>
         <string lang="en">IV</string>
-        <string lang="es">IV</string>
         <string lang="fr">IV</string>
         <string lang="zh">四</string>
         <string lang="jp">４</string>
         <string lang="ru">IV</string>
+        <string lang="es">IV</string>
         <string lang="kr">IV</string>
         <string lang="pt-br">IV</string>
         <string lang="zh-tw">四</string>
         <string lang="uk">IV</string>
 </set>
 <set id="ui-campstructure-clicktopen">
-		<string lang="de">Klicken zum Öffnen</string>
-		<string lang="en">Click to open</string>
-		<string lang="fr">Cliquez pour ouvrir</string>
-		<string lang="zh">点击打开</string>
-		<string lang="jp">クリックして開く</string>
-		<string lang="ru">Нажмите, чтобы открыть</string>
-		<string lang="es">Haz click para abrir</string>
-		<string lang="kr">열기 위해 클릭</string>
-		<string lang="pt-br">Clique para abrir</string>
-		<string lang="zh-tw">點擊打開</string>
-		<string lang="uk">Натисни, щоб відкрити</string>
+        <string lang="de">Klicken zum Öffnen</string>
+        <string lang="en">Click to open</string>
+        <string lang="fr">Cliquez pour ouvrir</string>
+        <string lang="zh">点击打开</string>
+        <string lang="jp">クリックして開く</string>
+        <string lang="ru">Нажмите, чтобы открыть</string>
+        <string lang="es">Haz click para abrir</string>
+        <string lang="kr">열기 위해 클릭</string>
+        <string lang="pt-br">Clique para abrir</string>
+        <string lang="zh-tw">點擊打開</string>
+        <string lang="uk">Натисни, щоб відкрити</string>
 </set>
 <set id="ui-campstructure-unavailableindailyrun">
         <string lang="de">Nicht verfügbar im Täglichen Run</string>
