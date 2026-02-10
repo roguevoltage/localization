@@ -754,6 +754,19 @@
 		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$br$$1$點$healing$。</string>
 		<string lang="uk">На початку кожного бою застосовує $1healing$ до власника.</string>
 </set>
+<set id="description-module-passiverubberducky">
+        <string lang="de">Immer wenn ein Modul auf diesem Rack $boost$ erhalten sollte, erhält es stattdessen $turbo$.$p$$onceperturn$</string>
+		<string lang="en">Whenever a module on this rack should receive $boost$, it receives $turbo$ instead.$p$$onceperturn$</string>
+        <string lang="fr">Chaque fois qu'un module de ce rack devrait recevoir $boost$, il reçoit $turbo$ à la place.$p$$onceperturn$</string>
+        <string lang="zh">每当此机架上的模块应该获得$boost$时，它会改为获得$turbo$。$p$$onceperturn$</string>
+        <string lang="jp">このラックのモジュールが$boost$を受け取るべきとき、代わりに$turbo$を受け取ります。$p$$onceperturn$</string>
+        <string lang="ru">Каждый раз, когда модуль на этой стойке должен получать $boost$, он получает $turbo$ вместо этого.$p$$onceperturn$</string>
+        <string lang="es">Cada vez que un módulo en este bastidor debería recibir $boost$, recibe $turbo$ en su lugar.$p$$onceperturn$</string>
+        <string lang="kr">이 랙의 모듈이 $boost$를 받아야 할 때마다 대신 $turbo$를 받습니다.$p$$onceperturn$</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $boost$, ele recebe $turbo$ em vez disso.$p$$onceperturn$</string>
+        <string lang="zh-tw">每當此機架上的模組應該獲得$boost$時，它會改為獲得$turbo$。$p$$onceperturn$</string>
+        <string lang="uk">Кожного разу, коли модуль на цій стійці должен отримувати $boost$, він отримує $turbo$. $p$$onceperturn$</string>
+</set>
 <set id="description-module-modifierenergyduplicator">
 		<string lang="de">Verdoppelt einen Strom.</string>
 		<string lang="en">Duplicates a current.</string>
@@ -2078,6 +2091,19 @@
 		<string lang="pt-br">Kit Médico</string>
 		<string lang="zh-tw">急救包</string>
 		<string lang="uk">Аптечка</string>
+</set>
+<set id="name-module-passiverubberducky">
+		<string lang="de">Quietscheentchen</string>
+		<string lang="en">Rubber Ducky</string>
+		<string lang="fr">Canard en Caoutchouc</string>
+		<string lang="zh">橡皮鸭</string>
+		<string lang="jp">ラバーダック</string>
+		<string lang="ru">Резиновая Уточка</string>
+		<string lang="es">Patito de Goma</string>
+		<string lang="kr">고무 오리</string>
+		<string lang="pt-br">Patinho de Borracha</string>
+		<string lang="zh-tw">橡皮鴨</string>
+		<string lang="uk">Гумова Качечка</string>
 </set>
 <set id="name-module-modifiersplitter">
 		<string lang="de">Abzweiger $MODIFICATIONVALUE$</string>
