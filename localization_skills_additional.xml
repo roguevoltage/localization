@@ -430,8 +430,8 @@
 		<string lang="de">Eingehende $grav+$ wird in $damage$ umgewandelt.$p$&lt;size=11&gt;Dieser $damage$ zählt nicht mehr$br$als "eingehend".</string>
 		<string lang="en">Incoming $grav+$ is transformed into $damage$.$p$&lt;size=11&gt;This $damage$ does no longer$br$count as "incoming".</string>
 		<string lang="fr">Les $grav+$ entrants sont transformés en $damage$.$p$&lt;size=11&gt;Ces $damage$ ne comptent plus$br$comme "entrants".</string>
-		<string lang="zh">受到的$grav+$转化为$damage$。$p$&lt;size=11&gt;此$damage$不再计入$br$「受到的」伤害。</string>
-		<string lang="jp">受ける$grav+$は$damage$に変換されます。$p$&lt;size=11&gt;この$damage$は「受ける」$br$としてカウントされません。</string>
+		<string lang="zh">受到的$grav+$转化为$damage$。$p$&lt;size=11&gt;此$damage$不再计入$br$$b$受到的$/b$伤害。</string>
+		<string lang="jp">受ける$grav+$は$damage$に変換されます。$p$&lt;size=11&gt;この$damage$は$b$受ける$/b$$br$としてカウントされません。</string>
 		<string lang="ru">Входящий $grav+$ преобразуется в $damage$.$p$&lt;size=11&gt;Этот $damage$ больше не считается$br$"входящим".</string>
 		<string lang="es">El $grav+$ entrante se transforma en $damage$.$p$&lt;size=11&gt;Este $damage$ ya no cuenta$br$como "entrante".</string>
 		<string lang="kr">받는 $grav+$가 $damage$로 변환됩니다.$p$&lt;size=11&gt;이 $damage$는 더 이상$br$"받는" 것으로 간주되지 않습니다.</string>
@@ -678,6 +678,15 @@
 <set id="description-skill-powertograv-dynosaurmom">
 		<string lang="de">Fügt einem Gegner $1damage$ zu.$p$Entfernt alle $might$, um ihm ebensoviel $grav+$ zuzufügen.</string>
 		<string lang="en">Deals $1damage$ to an enemy.$p$Removes all $might$ to apply that much $grav+$ to them.</string>
+		<string lang="fr">Inflige $1damage$ à un ennemi.$p$Supprime toute la $might$ pour lui appliquer autant de $grav+$.</string>
+		<string lang="zh">对一名敌人造成$1damage$。$p$移除全部$might$，对其施加等量$grav+$。</string>
+		<string lang="jp">敵1体に$1damage$。$p$すべての$might$除去、敵に$br$同量の$grav+$付与。</string>
+		<string lang="ru">Наносит $1damage$ врагу.$p$Удаляет всю $might$, чтобы применить к нему столько же $grav+$.</string>
+		<string lang="es">Inflige $1damage$ a un enemigo.$p$Elimina toda la $might$ para aplicarle esa cantidad de $grav+$.</string>
+		<string lang="kr">적에게 $1damage$를 가합니다.$p$모든 $might$을 제거해 그 대상에게 동일한 양의 $grav+$를 부여합니다.</string>
+		<string lang="pt-br">Causa $1damage$ a um inimigo.$p$Remove toda a $might$ para aplicar a mesma quantidade de $grav+$ a ele.</string>
+		<string lang="zh-tw">對一名敵人造成$1damage$。$p$移除全部$might$，對其施加等量$grav+$。</string>
+		<string lang="uk">Завдає $1damage$ ворогові.$p$Прибирає всю $might$, щоб застосувати до нього стільки ж $grav+$.</string>
 </set>
 <set id="description-skill-pterodactyl-riseup">
 		<string lang="de">Steigt auf der Zeitleiste über die Charaktere auf.$p$Fügt allen Gegnern $grav+1$ zu.</string>
