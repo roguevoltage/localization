@@ -1,30 +1,4 @@
 <keywords>
-<set id="$listdebuffs$">
-    <string lang="de">Debuffs sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
-    <string lang="en">Debuffs are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
-    <string lang="fr">Les Debuffs sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
-    <string lang="zh">减益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
-    <string lang="jp">デバフは$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
-    <string lang="ru">Дебаффы - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
-    <string lang="es">Los Debuffs son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
-    <string lang="kr">디버프는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
-    <string lang="pt-br">Debuffs são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
-    <string lang="zh-tw">減益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
-    <string lang="uk">Дебафи - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ та $outoforder$.</string>
-</set>
-<set id="$onceperturn$">
-    <string lang="de">Diese Fähigkeit wird nur einmal pro Runde ausgelöst.</string>
-    <string lang="en">This ability triggers only $nobr$once per turn$/nobr$.</string>
-    <string lang="fr">Cette capacité ne se déclenche qu'une fois par tour.</string>
-    <string lang="zh">此能力每回合只触发一次。</string>
-    <string lang="jp">この能力は1ターンに1回のみ発動します。</string>
-    <string lang="ru">Эта способность срабатывает только один раз за ход.</string>
-    <string lang="es">Esta habilidad se activa solo una vez por turno.</string>
-    <string lang="kr">이 능력은 턴당 한 번만 발동됩니다.</string>
-    <string lang="pt-br">Esta habilidade é ativada apenas uma vez por turno.</string>
-    <string lang="zh-tw">此能力每回合只觸發一次。</string>
-    <string lang="uk">Ця здатність спрацьовує лише один раз за хід.</string>
-</set>
 <set id="$induction1$">
 	<string lang="de">$nobr$$energyicon$$b$Induktion 1$/b$$/nobr$</string>
 	<string lang="en">$nobr$$energyicon$$b$Induction 1$/b$$/nobr$</string>
@@ -38,18 +12,44 @@
 	<string lang="zh-tw">$nobr$$energyicon$$b$感應 1$/b$$/nobr$</string>
 	<string lang="uk">$nobr$$energyicon$$b$Індукція 1$/b$$/nobr$</string>
 </set>
-<set id="$induction1explainer$">
-	<string lang="de">(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
-    <string lang="en">(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
-	<string lang="fr">(Charge un module $storage$ aléatoire sans $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$).</string>
-	<string lang="zh">(为此模架上一非$br$$cracked$模块充能$1e$)。</string>
-	<string lang="jp">(このラックの$cracked$$br$付与されていない$br$ランダムな$storage$モジュールに$br$$1e$充電)。</string>
-	<string lang="ru">(Заряжает случайный $storage$ модуль без $cracked$ $nobr$на этом стеллаже$/nobr$ на $1e$).</string>
-	<string lang="es">(Carga un módulo $storage$ aleatorio sin $cracked$ $nobr$en este rack$/nobr$ con $1e$).</string>
-	<string lang="kr">(이 랙의 $cracked$가 없는 무작위 $storage$ 모듈에 $1e$를 충전합니다).</string>
-	<string lang="pt-br">(Carrega um módulo $storage$ aleatório sem $cracked$ $nobr$neste rack$/nobr$ com $1e$).</string>
-	<string lang="zh-tw">(為此模架上一非$br$$cracked$模块充能$1e$)。</string>
-	<string lang="uk">(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цьому стелажі$/nobr$ на $1e$).</string>
+<set id="$reminder-induction1$">
+	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
+    <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
+	<string lang="fr">&lt;size=11&gt;(Charge un module $storage$ aléatoire sans $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$).</string>
+	<string lang="zh">&lt;size=11&gt;(为此模架上一非$br$$cracked$模块充能$1e$)。</string>
+	<string lang="jp">&lt;size=11&gt;(このラックの$cracked$$br$付与されていない$br$ランダムな$storage$モジュールに$br$$1e$充電)。</string>
+	<string lang="ru">&lt;size=11&gt;(Заряжает случайный $storage$ модуль без $cracked$ $nobr$на этом стеллаже$/nobr$ на $1e$).</string>
+	<string lang="es">&lt;size=11&gt;(Carga un módulo $storage$ aleatorio sin $cracked$ $nobr$en este rack$/nobr$ con $1e$).</string>
+	<string lang="kr">&lt;size=11&gt;(이 랙의 $cracked$가 없는 무작위 $storage$ 모듈에 $1e$를 충전합니다).</string>
+	<string lang="pt-br">&lt;size=11&gt;(Carrega um módulo $storage$ aleatório sem $cracked$ $nobr$neste rack$/nobr$ com $1e$).</string>
+	<string lang="zh-tw">&lt;size=11&gt;(為此模架上一非$br$$cracked$模块充能$1e$)。</string>
+	<string lang="uk">&lt;size=11&gt;(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цьому стелажі$/nobr$ на $1e$).</string>
+</set>
+<set id="$reminder-debuffs$">
+    <string lang="de">&lt;size=11&gt;Debuffs sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
+    <string lang="en">&lt;size=11&gt;Debuffs are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
+    <string lang="fr">&lt;size=11&gt;Les Debuffs sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
+    <string lang="zh">&lt;size=11&gt;减益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="jp">&lt;size=11&gt;デバフは$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
+    <string lang="ru">&lt;size=11&gt;Дебаффы - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
+    <string lang="es">&lt;size=11&gt;Los Debuffs son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
+    <string lang="kr">&lt;size=11&gt;디버프는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
+    <string lang="pt-br">&lt;size=11&gt;Debuffs são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
+    <string lang="zh-tw">&lt;size=11&gt;減益包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="uk">&lt;size=11&gt;Дебафи - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ та $outoforder$.</string>
+</set>
+<set id="$reminder-onceperturn$">
+    <string lang="de">&lt;size=11&gt;Diese Fähigkeit wird nur einmal pro Runde ausgelöst.</string>
+    <string lang="en">&lt;size=11&gt;This ability triggers only $nobr$once per turn$/nobr$.</string>
+    <string lang="fr">&lt;size=11&gt;Cette capacité ne se déclenche qu'une fois par tour.</string>
+    <string lang="zh">&lt;size=11&gt;此能力每回合只触发一次。</string>
+    <string lang="jp">&lt;size=11&gt;この能力は1ターンに1回のみ発動します。</string>
+    <string lang="ru">&lt;size=11&gt;Эта способность срабатывает только один раз за ход.</string>
+    <string lang="es">&lt;size=11&gt;Esta habilidad se activa solo una vez por turno.</string>
+    <string lang="kr">&lt;size=11&gt;이 능력은 턴당 한 번만 발동됩니다.</string>
+    <string lang="pt-br">&lt;size=11&gt;Esta habilidade é ativada apenas uma vez por turno.</string>
+    <string lang="zh-tw">&lt;size=11&gt;此能力每回合只觸發一次。</string>
+    <string lang="uk">&lt;size=11&gt;Ця здатність спрацьовує лише один раз за хід.</string>
 </set>
 <set id="$rangedash$">
         <string lang="de">-</string>
