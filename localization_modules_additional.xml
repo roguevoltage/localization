@@ -902,6 +902,10 @@
 		<string lang="zh-tw">在回合結束時，如果擁有者本回合沒有造成任何$damage$，$nobr$執行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="uk">На кінці ходу, якщо власник не завдав $damage$ цього ходу, $nobr$виконайте $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 </set>
+<set id="description-module-passivestorageinductor-nogenerator">
+		<string lang="de">Am Ende des Zuges, wenn der Charakter diesen Zug keinen $damage$ verursacht hat, $nobr$wende $induction1$ an$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="en">At the end of turn, if no $generator$ has been activated on this rack this turn, perform $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="fr">À la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci, effectuez $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
 <set id="description-module-passivestorageinductor-tricolor">
 		<string lang="de">Am Ende des Zuges, wenn &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$grün$/b$&lt;/color&gt; und &lt;color=#7272FF&gt;$b$blau$/b$&lt;/color&gt; Kabel in diesem Zug auf diesem Rack verwendet wurden, wende $induction1$ an.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="en">At the end of turn, if &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt; and &lt;color=#7272FF&gt;$b$blue$/b$&lt;/color&gt; wires have been used on this rack this turn, perform $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
