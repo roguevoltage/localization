@@ -941,6 +941,19 @@
 		<string lang="zh-tw">在回合結束時，如果本回合在此模架上使用過&lt;color=#b35b92&gt;$b$類型1（粉色）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$類型2（橙色）$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$類型3（藍色）$/b$&lt;/color&gt;線纜，則執行 $induction1$.$p$$reminder-induction1$</string>
 		<string lang="uk">На кінці ходу, якщо кабелі типу &lt;color=#b35b92&gt;$b$Тип 1 (Рожевий)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Помаранчевий)$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$Тип 3 (Синій)$/b$&lt;/color&gt; були використані на цій стійці цього ходу, виконайте $induction1$.$p$$reminder-induction1$</string>
 </set>
+<set id="description-module-passivestorageinductor-sensordissipation">
+		<string lang="de">Für jede $1energy$, die von einem $sensor$-Modul am Ende des Zuges ungenutzt verfliegt, wende $induction1$ an.$p$$reminder-induction1$</string>
+		<string lang="en">For each $1energy$ that dissipates unused from a $sensor$ module on end of turn, perform $induction1$.$p$$reminder-induction1$</string>
+		<string lang="fr">Pour chaque $1energy$ qui se dissipe inutilisée d'un module $sensor$ à la fin du tour , effectuez $induction1$.$p$$reminder-induction1$</string>
+		<string lang="zh">在回合结束时，每当一个$sensor$模块的$1energy$未被使用而消散时，执行 $induction1$.$p$$reminder-induction1$</string>
+		<string lang="jp">ターン終了時、$sensor$モジュールから$1energy$が未使用で消散するたび、$nobr$$induction1$$/nobr$を行う。$p$$reminder-induction1$</string>
+		<string lang="ru">В конце хода, за каждую $1energy$, которая рассеивается неиспользованной с модуля $sensor$, выполните $induction1$.$p$$reminder-induction1$</string>
+		<string lang="es">Al final del turno, por cada $1energy$ que se disipe sin usar de un módulo $sensor$, realiza $induction1$.$p$$reminder-induction1$</string>
+		<string lang="kr">턴 종료 시, $sensor$ 모듈에서 $1energy$가 사용되지 않고 소멸할 때마다 $nobr$$induction1$$/nobr$를 수행합니다.$p$$reminder-induction1$</string>
+		<string lang="pt-br">No final do turno, para cada $1energy$ que se dissipa não utilizada de um módulo $sensor$, execute $induction1$.$p$$reminder-induction1$</string>
+		<string lang="zh-tw">在回合結束時，每當一個$sensor$模組的$1energy$未被使用而消散時，執行 $induction1$.$p$$reminder-induction1$</string>
+		<string lang="uk">На кінці ходу, за кожну $1energy$, яка розсіюється невикористаною з модуля $sensor$, виконайте $induction1$.$p$$reminder-induction1$</string>
+</set>
 <set id="description-module-passivestormlantern">
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
 		<string lang="en">$storm$ will also strike enemies.$p$At the beginning of turn, attract the $storm$ by up to $3$ time steps (to a minimum distance of $b$+1$/b$).</string>
@@ -2425,6 +2438,19 @@
 		<string lang="pt-br">Turbina Eólica: Cromática</string>
 		<string lang="zh-tw">風車：色彩</string>
 		<string lang="uk">Вітряк: хроматичний</string>
+</set>
+<set id="name-module-passivestorageinductor-sensordissipation">
+		<string lang="de">Windrad: Verflüchtigung</string>
+		<string lang="en">Wind Turbine: Dissipation</string>
+		<string lang="fr">Éolienne : Dissipation</string>
+		<string lang="zh">风车：消散</string>
+		<string lang="jp">風車：消散</string>
+		<string lang="ru">Ветряная Мельница: Диссипация</string>
+		<string lang="es">Molino de Viento: Disipación</string>
+		<string lang="kr">풍차: 소산</string>
+		<string lang="pt-br">Turbina Eólica: Dissipação</string>
+		<string lang="zh-tw">風車：消散</string>
+		<string lang="uk">Вітряк: дисипація</string>
 </set>
 <set id="name-module-passivestormlantern">
 		<string lang="de">Sturmlaterne</string>
