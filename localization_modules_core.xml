@@ -598,6 +598,19 @@
 		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav+$並轉化為$energy$。</string>
 		<string lang="uk">Забирає $grav+$ у $b$іншого$/b$ учасника бою та перетворює на $energyicon$$b$Енергію$/b$.</string>
 </set>
+<set id="description-module-magnetstorage">
+		<string lang="de">Nimmt bei Aktivierung die gesamte $energy$ eines $storage$-Moduls deiner Wahl ab.</string>
+		<string lang="en">On activation, picks up all $energy$ from target $storage$ module.</string>
+		<string lang="fr">À l'activation, prend toute l'$energy$ d'un module $storage$ ciblé.</string>
+		<string lang="zh">激活时吸取目标$storage$模块的全部$energy$。</string>
+		<string lang="jp">起動時に対象の$storage$モジュールから全ての$energy$を吸収。</string>
+		<string lang="ru">При активации забирает всю $energy$ из целевого модуля $storage$.</string>
+		<string lang="es">Al activarse, recoge toda la $energy$ de un módulo $storage$ objetivo.</string>
+		<string lang="kr">활성화 시 대상 $storage$ 모듈의 모든 $energy$를 추출합니다.</string>
+		<string lang="pt-br">Na ativação, pega toda a $energy$ de um módulo $storage$ alvo.</string>
+		<string lang="zh-tw">激活時吸取目標$storage$模組的全部$energy$。</string>
+		<string lang="uk">При активації забирає всю $energy$ з цільового модуля $storage$.</string>
+</set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
 		<string lang="en">Combines two $energy$ currents.</string>
@@ -1896,6 +1909,19 @@
 		<string lang="zh-tw">引力磁鐵$grav+icon$+
 </string>
 		<string lang="uk">Гравімагніт $grav+icon$</string>
+</set>
+<set id="name-module-magnetstorage">
+		<string lang="de">Speicher-Magnet</string>
+		<string lang="en">Storage Magnet</string>
+		<string lang="fr">Aimant de Stockage</string>
+		<string lang="zh">储存磁铁</string>
+		<string lang="jp">貯蔵磁石</string>
+		<string lang="ru">Магнит Хранения</string>
+		<string lang="es">Imán de Almacenamiento</string>
+		<string lang="kr">저장 자석</string>
+		<string lang="pt-br">Ímã de Armazenamento</string>
+		<string lang="zh-tw">儲存磁鐵</string>
+		<string lang="uk">Магніт зберігання</string>
 </set>
 <set id="name-module-merger">
 		<string lang="de">Verbinder $MODIFICATIONVALUE$</string>
