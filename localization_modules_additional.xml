@@ -889,6 +889,18 @@
 		<string lang="zh-tw">在回合開始時，$nobr$執行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="uk">На початку ходу, $nobr$виконайте $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 </set>
+<set id="description-module-passivestorageinductor-pacifist">
+		<string lang="de">Am Ende des Zuges, wenn der Charakter diesen Zug keinen $damage$ verursacht hat, $nobr$wende $induction1$ an$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="en">At the end of turn, if the owner has dealt no $damage$ this turn, $nobr$perform $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="fr">À la fin du tour, si le propriétaire n'a infligé aucun $damage$ ce tour-ci, $nobr$effectuez $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh">在回合结束时，如果拥有者本回合没有造成任何$damage$，$nobr$执行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="jp">ターン終了時、所有者がこのターンに$damage$を与えていない場合、$nobr$$induction1$$/nobr$を行う。$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="ru">В конце хода, если владелец не нанес $damage$ в этом ходу, $nobr$выполните $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="es">Al final del turno, si el propietario no ha infligido ningún $damage$ este turno, $nobr$realiza $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="kr">턴 종료 시, 소유자가 이번 턴에 $damage$를 입히지 않았다면, $nobr$$induction1$$/nobr$를 수행합니다.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="pt-br">No final do turno, se o dono não tiver causado nenhum $damage$ este turno, $nobr$execute $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh-tw">在回合結束時，如果擁有者本回合沒有造成任何$damage$，$nobr$執行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="uk">На кінці ходу, якщо власник не завдав $damage$ цього ходу, $nobr$виконайте $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 </set>
 <set id="description-module-passivestormlantern">
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
@@ -2323,6 +2335,19 @@
 		<string lang="pt-br">Indutor de Armazenamento</string>
 		<string lang="zh-tw">儲存扼流器</string>
 		<string lang="uk">Індуктор зберігання</string>
+</set>
+<set id="name-module-passivestorageinductor-pacifist">
+		<string lang="de">Speicher-Induktor: Pazifist</string>
+		<string lang="en">Storage Inductor: Pacifist</string>
+		<string lang="fr">Inducteur de Stockage: Pacifiste</string>
+		<string lang="zh">储存扼流器: 和平主义者</string>
+		<string lang="jp">貯蔵インダクタ: 平和主義者</string>
+		<string lang="ru">Индуктор Хранения: Пацифист</string>
+		<string lang="es">Inductor de Almacenamiento: Pacifista</string>
+		<string lang="kr">축전 유도기: 평화주의자</string>
+		<string lang="pt-br">Indutor de Armazenamento: Pacifista</string>
+		<string lang="zh-tw">儲存扼流器: 和平主義者</string>
+		<string lang="uk">Індуктор зберігання: Пацифіст</string>
 </set>
 <set id="name-module-passivestormlantern">
 		<string lang="de">Sturmlaterne</string>
