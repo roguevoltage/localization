@@ -25,6 +25,32 @@
     <string lang="zh-tw">此能力每回合只觸發一次。</string>
     <string lang="uk">Ця здатність спрацьовує лише один раз за хід.</string>
 </set>
+<set id="$induction1$">
+	<string lang="de">$energyicon$$b$Induktion 1$/b$</string>
+	<string lang="en">$energyicon$$b$Induction 1$/b$</string>
+	<string lang="fr">$energyicon$$b$Induction 1$/b$</string>
+	<string lang="zh">$energyicon$$b$感应 1$/b$</string>
+	<string lang="jp">$energyicon$$b$誘導 1$/b$</string>
+	<string lang="ru">$energyicon$$b$Индукция 1$/b$</string>
+	<string lang="es">$energyicon$$b$Inducción 1$/b$</string>
+	<string lang="kr">$energyicon$$b$유도 1$/b$</string>
+	<string lang="pt-br">$energyicon$$b$Indução 1$/b$</string>
+	<string lang="zh-tw">$energyicon$$b$感應 1$/b$</string>
+	<string lang="uk">$energyicon$$b$Індукція 1$/b$</string>
+</set>
+<set id="$induction1explainer$">
+	<string lang="de">(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
+    <string lang="en">(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
+	<string lang="fr">(Charge un module $storage$ aléatoire sans $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$).</string>
+	<string lang="zh">(为此模架上一非$br$$cracked$模块充能$1e$)。</string>
+	<string lang="jp">(このラックの$cracked$$br$付与されていない$br$ランダムな$storage$モジュールに$br$$1e$充電)。</string>
+	<string lang="ru">(Заряжает случайный $storage$ модуль без $cracked$ $nobr$на этом стеллаже$/nobr$ на $1e$).</string>
+	<string lang="es">(Carga un módulo $storage$ aleatorio sin $cracked$ $nobr$en este rack$/nobr$ con $1e$).</string>
+	<string lang="kr">(이 랙의 $cracked$가 없는 무작위 $storage$ 모듈에 $1e$를 충전합니다).</string>
+	<string lang="pt-br">(Carrega um módulo $storage$ aleatório sem $cracked$ $nobr$neste rack$/nobr$ com $1e$).</string>
+	<string lang="zh-tw">(為此模架上一非$br$$cracked$模块充能$1e$)。</string>
+	<string lang="uk">(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цьому стелажі$/nobr$ на $1e$).</string>
+</set>
 <set id="$rangedash$">
         <string lang="de">-</string>
         <string lang="en">-</string>
@@ -136,6 +162,20 @@
 		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;能量&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 одиниця &lt;sprite name="energy" tint=1&gt;Енергії&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
         <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;Energia&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+</set>
+<set id="$1e$">
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 одиниця &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;1 &lt;sprite name="energy" tint=1&gt;&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$1healing$">
 		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#92FF83&gt;1 &lt;sprite name="healing" tint=1&gt;Heilung&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
@@ -2145,18 +2185,18 @@
         <string lang="pl">&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Przechowywanie&lt;/color&gt;&lt;/b&gt;</string>
 </set>
 <set id="$storagemodule$">
-		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Speichermodul&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Storage Module&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Module de Stockage&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;储存模块&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;貯蔵モジュール&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Модуль Хранения&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Módulo de Almacenamiento&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;저장 모듈&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Módulo de Armazenamentos&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;儲存模組&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Модуль Зберігання&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
-        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Moduł Przechowywania&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;</string>
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Speichermodul&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Storage Module&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Module de Stockage&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;储存模块&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;貯蔵モジュール&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Модуль Хранения&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Módulo de Almacenamiento&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;저장 모듈&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Módulo de Armazenamentos&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;儲存模組&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+		<string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Модуль Зберігання&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
+        <string lang="pl">&lt;nobr&gt;&lt;b&gt;&lt;color=#FFFFFF&gt;&lt;sprite name="storage" tint=1&gt;Moduł Przechowywania&lt;/color&gt;&lt;/b&gt;&lt;/color&gt;&lt;/nobr&gt;</string>
 </set>
 <set id="$storm$">
 		<string lang="de">&lt;color=#d16d5f&gt;&lt;b&gt;&lt;sprite name="storm"&gt;Sturm&lt;/b&gt;&lt;/color&gt;</string>

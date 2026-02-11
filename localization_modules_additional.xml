@@ -876,18 +876,19 @@
 		<string lang="zh-tw">每當對敵人施放$grav+$時，對其施放$vulnerable$。$p$（持續時間：3個時間步）</string>
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
-<set id="description-module-passivestorageinductor">
-		<string lang="de">Lädt zu Beginn des Zuges ein zufälliges $storagemodule$ ohne $cracked$ auf diesem Rack mit $1energy$</string>
-		<string lang="en">At the beginning of turn, charges a random non-$cracked$ $storagemodule$ on this rack with $1energy$.</string>
-		<string lang="fr">Au début du tour, charge un $storagemodule$ aléatoire sans $cracked$ sur ce rack avec $1energy$.</string>
-		<string lang="zh">回合开始时，随机为此模架上一非$br$$cracked$模块充能$1energy$。</string>
-		<string lang="jp">ターン開始時、このラックの$cracked$$br$付与されていない$br$ランダムな$storagemodule$に$br$$1energy$充電。</string>
-		<string lang="ru">В начале хода владельца, заряжает случайный не-$cracked$ $storagemodule$ на этой стойке на $1energy$.</string>
-		<string lang="es">Al comienzo del turno, carga un $storagemodule$ aleatorio sin $cracked$ en este bastidor con $1energy$.</string>
-		<string lang="kr">턴 시작 시, 해당 랙의 무작위 $storagemodule$에 $1energy$가 충전됩니다.</string>
-		<string lang="pt-br">No início do turno, carrega um $storagemodule$ aleatório sem $cracked$ neste rack com $1energy$.</string>
-		<string lang="zh-tw">回合開始時，隨機為此模架上一非$cracked$模組充能$1energy$。</string>
-		<string lang="uk">На початку ходу власника заряджає випадковий не-$cracked$ $storagemodule$ на цій стійці на $1energy$.</string>
+<set id="description-module-passivestorageinductor-beginningofturn">
+		<string lang="de">Zu Beginn des Zuges, $nobr$wende $induction1$ an$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="en">At the beginning of turn, $nobr$perform $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="fr">Au début du tour, $nobr$effectuez $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh">在回合开始时，$nobr$执行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="jp">ターン開始時、$nobr$$induction1$$/nobr$を行う。$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="ru">В начале хода, $nobr$выполните $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="es">Al comienzo del turno, $nobr$realiza $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="kr">턴 시작 시, $nobr$$induction1$$/nobr$를 수행합니다.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="pt-br">No início do turno, $nobr$execute $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh-tw">在回合開始時，$nobr$執行 $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="uk">На початку ходу, $nobr$виконайте $induction1$$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
+</set>
 </set>
 <set id="description-module-passivestormlantern">
 		<string lang="de">Der $storm$ trifft auch Feinde.$p$Zieht zu Beginn des Zuges den $storm$ um bis zu $3$ Zeitschritte an (Mindestdistanz $b$+1$/b$).</string>
@@ -2310,7 +2311,7 @@
         <string lang="zh-tw">煙霧陷阱</string>
         <string lang="uk">Пастка для смогу</string>
 </set>
-<set id="name-module-passivestorageinductor">
+<set id="name-module-passivestorageinductor-beginningofturn">
 		<string lang="de">Speicher-Induktor</string>
 		<string lang="en">Storage Inductor</string>
 		<string lang="fr">Inducteur de Stockage</string>
