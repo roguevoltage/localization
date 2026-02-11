@@ -906,6 +906,15 @@
 		<string lang="de">Am Ende des Zuges, wenn der Charakter diesen Zug keinen $damage$ verursacht hat, $nobr$wende $induction1$ an$/nobr$.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="en">At the end of turn, if no $generator$ has been activated on this rack this turn, perform $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="fr">À la fin du tour, si aucun $generator$ n'a été activé sur ce rack ce tour-ci, effectuez $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh">在回合结束时，如果本回合在此模架上没有激活过$generator$，则执行 $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="jp">ターン終了時、このラックでこのターンに$generator$が起動していない場合、$nobr$$induction1$$/nobr$を行う。$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="ru">В конце хода, если в этом ходу на этой стойке не был активирован $generator$, выполните $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="es">Al final del turno, si no se ha activado ningún $generator$ en este bastidor este turno, realiza $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="kr">턴 종료 시, 이번 턴에 이 랙에서 $generator$가 활성화되지 않았다면, $nobr$$induction1$$/nobr$를 수행합니다.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="pt-br">No final do turno, se nenhum $generator$ tiver sido ativado neste rack este turno, execute $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="zh-tw">在回合結束時，如果本回合在此模架上沒有激活過$generator$，則執行 $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+		<string lang="uk">На кінці ходу, якщо в цьому ході на цій стійці не був активований $generator$, виконайте $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
+</set>
 <set id="description-module-passivestorageinductor-tricolor">
 		<string lang="de">Am Ende des Zuges, wenn &lt;color=#FF5555&gt;$b$rot$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$grün$/b$&lt;/color&gt; und &lt;color=#7272FF&gt;$b$blau$/b$&lt;/color&gt; Kabel in diesem Zug auf diesem Rack verwendet wurden, wende $induction1$ an.$p$&lt;size=11&gt;$induction1explainer$</string>
 		<string lang="en">At the end of turn, if &lt;color=#FF5555&gt;$b$red$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$green$/b$&lt;/color&gt; and &lt;color=#7272FF&gt;$b$blue$/b$&lt;/color&gt; wires have been used on this rack this turn, perform $induction1$.$p$&lt;size=11&gt;$induction1explainer$</string>
