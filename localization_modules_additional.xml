@@ -156,17 +156,17 @@
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли інший $sensor$ спрацьовує на цій стійці.</string>
 </set>
 <set id="description-module-collectorcrust">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ gebrochen wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is broken.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une $crust$ est brisée.</string>
-		<string lang="zh">每当有$crust$破损，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$crust$を除去するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $crust$ разрушается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se rompe un $crust$.</string>
-		<string lang="kr">$crust$가 파괴될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é quebrado.</string>
-		<string lang="zh-tw">每當有$crust$破損，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли руйнується $crust$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn eine $crust$ entfernt wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $crust$ is removed.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'une $crust$ est enlevée.</string>
+        <string lang="zh">每当一个$crust$被移除，产生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">$crust$が除去されるたび、$br$$b$$SENSORVALUE$$/b$$energy$を生成します。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда удаляется $crust$.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se elimina un $crust$.</string>
+        <string lang="kr">$crust$가 제거될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $crust$ é removido.</string>
+        <string lang="zh-tw">每當一個$crust$被移除，產生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли видаляється $crust$.</string>
 </set>
 <set id="description-module-collectorgravneg">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav-$ erhält.</string>

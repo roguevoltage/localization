@@ -622,18 +622,18 @@
 		<string lang="uk">Накладає $vulnerable$ на ворога. Це триває протягом $4$ часових кроків.</string>
 </set>
 <set id="description-skill-passive-oncrustbroken-powerraise">
-		<string lang="de">Erhält $might$ um $1$, immer wenn eine $crust$ gebrochen wird.</string>
-		<string lang="en">Whenever a $crust$ is broken, this monster gains $1might$.</string>
-		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'une $crust$ est brisée.</string>
-		<string lang="zh">$crust$破损时，提升$1$$might$。</string>
-		<string lang="jp">$crust$除去時、$might$$1$上昇。</string>
-		<string lang="ru">Повышает $might$ на $1$ каждый раз, когда $crust$ разрушается.</string>
-		<string lang="es">Aumenta $might$ en $1$ cada vez que se rompe un $crust$</string>
-		<string lang="kr">$crust$가 파괴될 때마다 $might$이 $1$ 상승합니다.</string>
-		<string lang="pt-br">Aumenta $might$ em $1$ sempre que uma $crust$ é quebrada.</string>
-		<string lang="zh-tw">$crust$破損時，提升$1$$might$。
+		<string lang="de">Erhält $might$ um $1$, immer wenn eine $crust$ entfernt wird.</string>
+		<string lang="en">Whenever a $crust$ is removed, this monster gains $1might$.</string>
+		<string lang="fr">Augmente $might$ de $1$ à chaque fois qu'une $crust$ est enlevée.</string>
+		<string lang="zh">$crust$被移除时，提升$1$$might$。</string>
+		<string lang="jp">$crust$が破壊されるたび、$br$$might$$1$上昇。</string>
+        <string lang="ru">Повышает $might$ на $1$ каждый раз, когда удаляется $crust$.</string>
+        <string lang="es">Aumenta $might$ en $1$ cada vez que se elimina $crust$</string>
+        <string lang="kr">$crust$가 제거될 때마다 $might$이 $1$ 상승합니다.</string>
+        <string lang="pt-br">Aumenta $might$ em $1$ sempre que $crust$ for removido</string>
+        <string lang="zh-tw">$crust$被移除時，提升$1$$might$。
 </string>
-		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли руйнується $crust$.</string>
+        <string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ коли знімають $crust$.</string>
 </set>
 
 <set id="description-skill-passive-ondamage-powerraise">
