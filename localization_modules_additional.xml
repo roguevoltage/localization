@@ -772,6 +772,19 @@
         <string lang="zh-tw">每當此模架上的模組的$boost$失效時，在此模組上放置一個$b$計數器$/b$。$p$回合開始時，從此模組上移除$b$$nobr$3個計數器$/nobr$$/b$以執行$randomboost$。$p$$reminder-randomboost$.</string>
         <string lang="uk">Коли $boost$ зникає на модулі на цій стійці, покладіть $b$Лічильник$/b$ на цей модуль.$p$На початку ходу видаліть $b$$nobr$3 Лічильника$/nobr$$/b$ з цього модуля, щоб виконати $randomboost$.$p$$reminder-randomboost$.</string></set>
 <set id="description-module-passivecoffeemachine">
+        <string lang="de">Immer wenn der Charakter $healing$ erhält, füge ihm außerdem $grav-1$ hinzu.</string>
+		<string lang="en">Whenever the owner receives $healing$, also apply $grav-1$ to them.</string>
+        <string lang="fr">Chaque fois que le propriétaire reçoit $healing$, appliquez-lui aussi $grav-1$.</string>
+        <string lang="zh">每当拥有者受到$healing$时，额外给他们施加$grav-1$。</string>
+        <string lang="jp">所有者が$healing$を受けるたび、さらに$grav-1$付与。</string>
+        <string lang="ru">Когда владелец получает $healing$, также накладывает $grav-1$ на него.</string>
+        <string lang="es">Siempre que el propietario recibe $healing$, también aplica $grav-1$ a ellos.</string>
+        <string lang="kr">소유자가 $healing$을 받을 때마다, 추가로 $grav-1$을 부여합니다.</string>
+        <string lang="pt-br">Sempre que o dono recebe $healing$, também aplica $grav-1$ a eles.</string>
+        <string lang="zh-tw">每當擁有者受到$healing$時，額外給他們施加$grav-1$。</string>
+        <string lang="uk">Коли власник отримує $healing$, також накладає на нього $grav-1$.</string>
+</set>
+<set id="description-module-passivecoffeemachine-boost" remarks="not in the game">
         <string lang="de">Immer wenn $boost$ oder $turbo$ auf ein Modul auf diesem Rack angewendet werden, füge dem Charakter $grav-1$ hinzu.</string>
 		<string lang="en">Whenever $boost$ or $turbo$ are applied to a module on this rack, apply $grav-1$ to the owner.</string>
         <string lang="fr">Chaque fois que $boost$ ou $turbo$ sont appliqués à un module sur ce rack, appliquez $grav-1$ au propriétaire.</string>
