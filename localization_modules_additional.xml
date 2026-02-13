@@ -875,6 +875,19 @@
 		<string lang="zh-tw">每當對敵人施放$grav+$時，對其施放$vulnerable$。$p$（持續時間：3個時間步）</string>
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
+<set id="description-module-passivepassthroughbooster-gravpos">
+	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, wende $boost$ auf ein zufälliges $passthrough$-Modul auf diesem Rack an.</string>
+	<string lang="en">At the beginning of turn, if the owner has $grav+short$, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="fr">Au début du tour, si le propriétaire a $grav+short$, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh">在回合开始时，如果拥有者有$grav+short$，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="jp">ターン開始時、所有者が$grav+short$を持っている場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
+    <string lang="ru">В начале хода, если у владельца есть $grav+short$, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="es">Al comienzo del turno, si el propietario tiene $grav+short$, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="kr">턴 시작 시, 소유자가 $grav+short$를 가지고 있다면, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
+    <string lang="pt-br">No início do turno, se o proprietário tiver $grav+short$, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh-tw">在回合開始時，如果擁有者有$grav+short$，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="uk">На початку ходу, якщо у власника є $grav+short$, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+</set>
 <set id="description-module-passivepassthroughbooster-proximity">
 	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$perform $randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
 	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
@@ -2385,6 +2398,19 @@
         <string lang="pt-br">Armadilha de Fumaça</string>
         <string lang="zh-tw">煙霧陷阱</string>
         <string lang="uk">Пастка для смогу</string>
+</set>
+<set id="name-module-passivepassthroughbooster-gravpos">
+		<string lang="de">Nitro-Flasche: $grav+short$</string>
+		<string lang="en">Nitrous Bottle: $grav+short$</string>
+        <string lang="fr">Bouteille de Nitro: $grav+short$</string>
+        <string lang="zh">笑气瓶：接近</string>
+        <string lang="jp">ナイトロボトル：近接</string>
+        <string lang="ru">Баллон Нитро: Близость</string>
+        <string lang="es">Botella de Nitro: Proximidad</string>
+        <string lang="kr">나이트로스 병: 근접</string>
+        <string lang="pt-br">Garrafa de Nitro: Proximidade</string>
+        <string lang="zh-tw">笑氣瓶：接近</string>
+        <string lang="uk">Балон Нітро: Близькість</string>
 </set>
 <set id="name-module-passivepassthroughbooster-proximity">
 		<string lang="de">Nitro-Flasche: Nähe</string>
