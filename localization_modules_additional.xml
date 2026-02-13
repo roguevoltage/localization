@@ -876,6 +876,19 @@
 		<string lang="zh-tw">每當對敵人施放$grav+$時，對其施放$vulnerable$。$p$（持續時間：3個時間步）</string>
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
+<set id="description-module-passivepassthroughbooster-proximity">
+	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
+	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, apply $boost$ to a random $passthrough$ module on this rack.</string>
+    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, appliquez $boost$ à un module $passthrough$ aléatoire sur ce rack.</string>
+    <string lang="zh">回合开始时，如果有其他战斗参与者在与拥有者相同的时间步上，则对该模架上的一个随机$passthrough$模块施加$boost$。</string>
+    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘参加者がいる場合、このラックのランダムな$passthrough$モジュールに$boost$を付与。</string>
+    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, примените $boost$ к случайному $passthrough$ модулю на этой стойке.</string>
+    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, aplica $boost$ a un módulo $passthrough$ aleatorio en este bastidor.</string>
+    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, 이 랙의 임의의 $passthrough$ 모듈에 $boost$를 적용합니다.</string>
+    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, aplique $boost$ a um módulo $passthrough$ aleatório neste rack.</string>
+    <string lang="zh-tw">回合開始時，如果有其他戰鬥參與者在與擁有者相同的時間步上，則對該模架上的一個隨機$passthrough$模組施加$boost$。</string>
+    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, застосуйте $boost$ до випадкового $passthrough$ модуля на цій стійці.</string>
+</set>
 <set id="description-module-passivestorageinductor-beginningofturn">
 		<string lang="de">Zu Beginn des Zuges, $nobr$wende $induction1$ an$/nobr$.$p$$reminder-induction1$</string>
 		<string lang="en">At the beginning of turn, $nobr$perform $induction1$$/nobr$.$p$$reminder-induction1$</string>
@@ -2373,6 +2386,19 @@
         <string lang="pt-br">Armadilha de Fumaça</string>
         <string lang="zh-tw">煙霧陷阱</string>
         <string lang="uk">Пастка для смогу</string>
+</set>
+<set id="name-module-passivepassthroughbooster-proximity">
+		<string lang="de">Nitro-Flasche: Nähe</string>
+		<string lang="en">Nitrous Bottle: Proximity</string>
+        <string lang="fr">Bouteille de Nitro: Proximité</string>
+        <string lang="zh">笑气瓶：接近</string>
+        <string lang="jp">ナイトロボトル：近接</string>
+        <string lang="ru">Баллон Нитро: Близость</string>
+        <string lang="es">Botella de Nitro: Proximidad</string>
+        <string lang="kr">나이트로스 병: 근접</string>
+        <string lang="pt-br">Garrafa de Nitro: Proximidade</string>
+        <string lang="zh-tw">笑氣瓶：接近</string>
+        <string lang="uk">Балон Нітро: Близькість</string>
 </set>
 <set id="name-module-passivestorageinductor-beginningofturn">
 		<string lang="de">Windrad</string>
