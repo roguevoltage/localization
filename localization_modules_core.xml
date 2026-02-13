@@ -977,17 +977,17 @@
         <string lang="uk">За кожен пункт $energy$$br$на цьому модулі:$br$[Створіть $b$Балон Нітро$/b$ з $cracked$ на цій стійці]</string>
 </set>
 <set id="description-module-toggledstatusremover">
-        <string lang="de">Entfernt $fire$, $icecrust$, $crust$ und temporäre Effekte von $gravrecoil$ und $pollution$ einem Modul deiner Wahl auf diesem Rack.</string>
-		<string lang="en">Removes $fire$, $icecrust$, $crust$ and temporary instances of $gravrecoil$ and $pollution$ from target module on this rack.</string>
-        <string lang="fr">Retire $fire$, $icecrust$, $crust$ et effets temporaires de $gravrecoil$ et $pollution$ d'un module ciblé sur ce rack.</string>
-        <string lang="zh">从此模架上的目标模块中移除$br$$fire$、$icecrust$、$crust$和临时的$gravrecoil$和$pollution$。</string>
-        <string lang="jp">このラックの対象モジュールから$fire$、$icecrust$、$crust$、$gravrecoil$、$pollution$の一時効果を除去。</string>
-        <string lang="ru">Удаляет $fire$, $icecrust$, $crust$ и временные эффекты $gravrecoil$ и $pollution$ с целевого модуля на этой стойке.</string>
-        <string lang="es">Elimina $fire$, $icecrust$, $crust$ y efectos temporales de $gravrecoil$ y $pollution$ de un módulo objetivo en este bastidor.</string>
-        <string lang="pt-br">Remove $fire$, $icecrust$, $crust$ e instâncias temporárias de $gravrecoil$ e $pollution$ de um módulo alvo neste rack.</string>
-        <string lang="kr">이 랙의 대상 모듈에서 $fire$, $icecrust$, $crust$ 및 $gravrecoil$ 및 $pollution$의 일시적인 상태를 제거합니다.</string>
-        <string lang="zh-tw">從此模架上的目標模組中移除$br$$fire$、$icecrust$、$crust$和臨時的$gravrecoil$和$pollution$。</string>
-        <string lang="uk">Видаляє $fire$, $icecrust$, $crust$ та тимчасові ефекти $gravrecoil$ та $pollution$ з цільового модуля на цій стійці.</string>
+        <string lang="de">Entfernt alle $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuffs$/b$$/nobr$ von einem Zielmodul auf diesem Rack.$p$Wenn auf diese Weise ein oder mehrere $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuffs$/b$$/nobr$ entfernt wurden, wende $boost$ auf das Modul an.</string>
+		<string lang="en">Removes all $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuffs$/b$$/nobr$ from target module on this rack.$p$If one or more $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuffs$/b$$/nobr$ were removed this way, apply $boost$ to the module.</string>
+        <string lang="fr">Retire tous les $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Élémentaires$/b$$/nobr$ d'un module ciblé sur ce rack.$p$Si un ou plusieurs $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Élémentaires$/b$$/nobr$ ont été retirés de cette manière, appliquez $boost$ au module.</string>
+        <string lang="zh">移除此模架上选定模块的所有$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$$/nobr$。$p$如果以这种方式移除了一个或多个$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$$/nobr$，则为该模块施加$boost$。</string>
+        <string lang="jp">このラックの対象モジュールからすべての$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$$/nobr$を除去します。$p$この方法で1つ以上の$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$$/nobr$が除去された場合、モジュールに$boost$を付与します。</string>
+        <string lang="ru">Удаляет все $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Элементальные Дебаффы$/b$$/nobr$ с целевого модуля на этой стойке.$p$Если таким образом был удален один или несколько $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Элементальных Дебаффов$/b$$/nobr$, примените $boost$ к модулю.</string>
+        <string lang="es">Elimina todos los $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Elementales$/b$$/nobr$ del módulo objetivo en este bastidor.$p$Si uno o más $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Elementales$/b$$/nobr$ fueron eliminados de esta manera, aplica $boost$ al módulo.</string>
+        <string lang="kr">이 랙의 대상 모듈에서 모든 $nobr$&lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$$/nobr$를 제거합니다.$p$이 방법으로 하나 이상의 $nobr$&lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$$/nobr$가 제거된 경우, 모듈에 $boost$를 적용합니다.</string>
+        <string lang="pt-br">Remove todos os $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Elementais$/b$$/nobr$ do módulo alvo neste rack.$p$Se um ou mais $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuffs Elementais$/b$$/nobr$ foram removidos desta forma, aplique $boost$ ao módulo.</string>
+        <string lang="zh-tw">移除此模架上選定模組的所有$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$$/nobr$。$p$如果以這種方式移除了一个或多个$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$$/nobr$，則為該模組施加$boost$。</string>
+        <string lang="uk">Видаляє всі $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Елементальні Дебафи$/b$$/nobr$ з цільового модуля на цій стійці.$p$Якщо таким чином був видалений один або кілька $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Елементальні Дебафи$/b$$/nobr$, застосуйте $boost$ до модуля.</string>
 </set>
 <set id="description-module-toggleddurabilityenhancer">
 		<string lang="de">Entfernt dauerhaft $overload$ von einem Modul$br$auf diesem Rack$p$- oder -$p$entfernt dauerhaft $malfunctioning$ von einem Modul auf diesem Rack und ersetzt es durch $overload$.</string>

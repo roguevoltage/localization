@@ -837,17 +837,17 @@
         <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.$p$$reminder-onceperturn$</string>
 </set>
 <set id="description-module-passivestatusredirector">
-        <string lang="de">Wenn ein Modul auf diesem Rack $fire$, $icecrust$, $crust$ oder temporäre Instanzen von $pollution$ und $gravrecoil$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
-        <string lang="en">Whenever a module on this rack should receive $fire$, $icecrust$, $crust$ or temporary instances of $pollution$ and $gravrecoil$, change the target to another module on this rack instead.$p$$reminder-onceperturn$</string>
-        <string lang="fr">Si un module sur ce rack devait recevoir $fire$, $icecrust$, $crust$ ou des instances temporaires de $pollution$ et $gravrecoil$, changez la cible pour un autre module sur ce rack à la place.$p$$reminder-onceperturn$</string>
-        <string lang="zh">此模架上的其他模块$fire$、$icecrust$、$crust$或临时实例的$pollution$和$gravrecoil$时，$br$改为由玩家选择的其他模块代替其发生。$p$$reminder-onceperturn$</string>
-        <string lang="jp">このラックの他のモジュールが$fire$、$icecrust$、$crust$、または一時的な$pollution$と$gravrecoil$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して受ける。$p$$reminder-onceperturn$</string>
-        <string lang="ru">Если другой модуль на этой стойке должен получить $fire$, $icecrust$, $crust$ или временные экземпляры $pollution$ и $gravrecoil$, измените цель на другой модуль на этой стойке вместо этого.$p$$reminder-onceperturn$</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir $fire$, $icecrust$, $crust$ o instancias temporales de $pollution$ y $gravrecoil$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$$reminder-onceperturn$</string>
-        <string lang="kr">이 랙의 다른 모듈에게 $fire$나 $icecrust$, $crust$, 또는 일시적인 $pollution$과 $gravrecoil$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 합니다.$p$$reminder-onceperturn$</string>
-        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $fire$, $icecrust$, $crust$ ou instâncias temporárias de $pollution$ e $gravrecoil$, mude o alvo para outro módulo neste rack em vez disso.$p$$reminder-onceperturn$</string>
-        <string lang="zh-tw">此模架上的其他模組$fire$、$icecrust$、$crust$或臨時實例的$pollution$和$gravrecoil$時，改為由玩家選擇的其他模組代替其發生。$p$$reminder-onceperturn$</string>
-        <string lang="uk">Якщо модуль на цій стійці має отримати $fire$, $icecrust$, $crust$ або тимчасові екземпляри $pollution$ і $gravrecoil$, змініть ціль на інший модуль на цій стійці замість цього.$p$$reminder-onceperturn$</string>
+        <string lang="de">Wenn ein Modul auf diesem Rack einen $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$$/nobr$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
+        <string lang="en">Whenever a module on this rack should receive an $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$$/nobr$, change the target to another module on this rack instead.$p$$reminder-onceperturn$</string>
+        <string lang="fr">Si un module sur ce rack devait recevoir un $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Élémentaire$/b$$/nobr$, changez la cible pour un autre module sur ce rack à la place.$p$$reminder-onceperturn$</string>
+        <string lang="zh">此模架上的其他模块受到$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$$/nobr$时，$br$改为由玩家选择的其他模块代替其发生$nobr$$b$元素减益$/b$$/nobr$。$p$$reminder-onceperturn$</string>
+        <string lang="jp">このラックの他のモジュールが$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$$/nobr$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$nobr$$b$元素デバフ$/b$$/nobr$を受ける。$p$$reminder-onceperturn$</string>
+        <string lang="ru">Если другой модуль на этой стойке должен получить $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Элементальный Дебафф$/b$$/nobr$, измените цель на другой модуль на этой стойке вместо этого.$p$$reminder-onceperturn$</string>
+        <string lang="es">Si un módulo en este bastidor fuese a recibir un $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$$/nobr$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$$reminder-onceperturn$</string>
+        <string lang="kr">이 랙의 다른 모듈에게 $nobr$&lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$$/nobr$가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $nobr$$b$원소 디버프$/b$$/nobr$가 됩니다.$p$$reminder-onceperturn$</string>
+        <string lang="pt-br">Sempre que um módulo neste rack deveria receber um $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$$/nobr$, mude o alvo para outro módulo neste rack em vez disso.$p$$reminder-onceperturn$</string>
+        <string lang="zh-tw">此模架上的其他模組受到$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$$/nobr$时，改为由玩家选择的其他模組代替其发生$nobr$$b$元素減益$/b$$/nobr$。$p$$reminder-onceperturn$</string>
+        <string lang="uk">Якщо модуль на цій стійці має отримати $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Елементальний Дебаф$/b$$/nobr$, змініть ціль на інший модуль на цій стійці замість цього.$p$$reminder-onceperturn$</string>
 </set>
 <set id="description-module-passivesink">
         <string lang="de">Wenn dieses Modul mit einem $b$Debuff$/b$ versehen wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Debuffs$/b$ von diesem Modul.$p$$reminder-debuffs$</string>

@@ -182,17 +182,17 @@
 		<string lang="uk">Знищиться після ходу власника</string>
 </set>
 <set id="description-status-modulegrease">
-        <string lang="de">Schützt dieses Modul vor einem eingehenden Debuff von $fire$, $icecrust$, $crust$, $gravrecoil$ oder $pollution$.</string>
-		<string lang="en">Protects this module from one incoming infliction of $fire$, $icecrust$, $crust$, $gravrecoil$ or $pollution$.</string>
-        <string lang="fr">Protège ce module d'un debuff entrant de $fire$, $icecrust$, $crust$, $gravrecoil$ ou $pollution$.</string>
-        <string lang="zh">保护此模块免受$fire$，$icecrust$，$crust$，$gravrecoil$或$pollution$的负面影响。</string>
-        <string lang="jp">$fire$、$icecrust$、$crust$、$gravrecoil$、$pollution$のいずれか1つのデバフを受けない</string>
-        <string lang="ru">Защищает этот модуль от одного входящего дебаффа $fire$, $icecrust$, $crust$, $gravrecoil$ или $pollution$.</string>
-        <string lang="es">Protege este módulo de un debuff entrante de $fire$, $icecrust$, $crust$, $gravrecoil$ o $pollution$.</string>
-        <string lang="kr">$fire$, $icecrust$, $crust$, $gravrecoil$ 또는 $pollution$의 한 가지 들어오는 디버프로부터 이 모듈을 보호합니다.</string>
-        <string lang="pt-br">Protege este módulo de um debuff entrante de $fire$, $icecrust$, $crust$, $gravrecoil$ ou $pollution$.</string>
-        <string lang="zh-tw">保護此模組免受$fire$，$icecrust$，$crust$，$gravrecoil$或$pollution$的負面影響。</string>
-        <string lang="uk">Захищає цей модуль від одного вхідного дебаффа $fire$, $icecrust$, $crust$, $gravrecoil$ або $pollution$.</string>
+        <string lang="de">Schützt dieses Modul vor einem &lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$, stattdessen wende $turbo$ auf es an und entferne $grease$.</string>
+		<string lang="en">Protects this module from one &lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$, instead apply $turbo$ to it and remove $grease$.</string>
+        <string lang="fr">Protège ce module d'un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Élémentaire$/b$, appliquez plutôt $turbo$ sur lui et retirez $grease$.</string>
+        <string lang="zh">保护此模块免受一次&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$，改为对其施加$turbo$并移除$grease$。</string>
+        <string lang="jp">このモジュールは&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$を1回防ぎ、代わりに$turbo$を付与し、$grease$を除去します。</string>
+        <string lang="ru">Защищает этот модуль от одного &lt;sprite name="debuff" tint=1&gt;$b$Элементального Дебаффа$/b$, вместо этого применяет $turbo$ к нему и удаляет $grease$.</string>
+        <string lang="es">Protege este módulo de un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, en su lugar aplica $turbo$ a él y elimina $grease$.</string>
+        <string lang="kr">이 모듈을 &lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$로부터 보호하고, 대신 $turbo$를 적용하고 $grease$를 제거합니다.</string>
+        <string lang="pt-br">Protege este módulo de um &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, em vez disso, aplique $turbo$ a ele e remova $grease$.</string>
+        <string lang="zh-tw">保護此模組免受一次&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$，改為對其施加$turbo$並移除$grease$。</string>
+        <string lang="uk">Захищає цей модуль від одного &lt;sprite name="debuff" tint=1&gt;$b$Елементального Дебафа$/b$, замість цього застосовує $turbo$ до нього і видаляє $grease$.</string>
 </set>
 <set id="description-status-modulehazardous">
 		<string lang="de">Aktivierung fügt dem Charakter für $b$5$/b$ Zeitschritte $vulnerable$ zu</string>

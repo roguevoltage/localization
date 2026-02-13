@@ -1342,6 +1342,32 @@
         <string lang="zh-tw">當一個回合在時間軸上被推到或拉到另一個回合之前或之後時，回合順序會發生變化</string>
         <string lang="uk">Порядок ходів змінюється, коли хід переміщується або тягнеться перед чи за іншим на часовій шкалі</string>
 </set>
+<set id="tooltip-elementaldebuffs-header">
+        <string lang="de">Elemental-Debuffs</string>
+        <string lang="en">Elemental Debuffs</string>
+        <string lang="fr">Debuffs Élémentaires</string>
+        <string lang="zh">元素减益</string>
+        <string lang="jp">元素デバフ</string>
+        <string lang="ru">Элементальные Дебаффы</string>
+        <string lang="es">Debuffs Elementales</string>
+        <string lang="kr">원소 디버프</string>
+        <string lang="pt-br">Debuffs Elementais</string>
+        <string lang="zh-tw">元素減益</string>
+        <string lang="uk">Елементальні Дебафи</string>
+</set>
+<set id="tooltip-elementaldebuffs-description">
+    <string lang="de">$b$Elementar-Debuffs$/b$ sind $fire$, $icecrust$, $crust$ und nicht-permanente Effekte von $gravrecoil$ oder $pollution$.</string>
+    <string lang="en">$b$Elemental Debuffs$/b$ are $fire$, $icecrust$, $crust$ and non-permanent effects of $gravrecoil$ or $pollution$.</string>
+    <string lang="fr">$b$Debuffs Élémentaires$/b$ sont $fire$, $icecrust$, $crust$ et les effets non permanents de $gravrecoil$ ou $pollution$.</string>
+    <string lang="zh">$b$元素减益$/b$包括$fire$、$icecrust$、$crust$以及$gravrecoil$或$pollution$的非永久效果。</string>
+    <string lang="jp">$b$元素デバフ$/b$は$fire$、$icecrust$、$crust$、および$gravrecoil$や$pollution$の非永続的な効果です。</string>
+    <string lang="ru">$b$Элементальные Дебаффы$/b$ - это $fire$, $icecrust$, $crust$ и непостоянные эффекты от $gravrecoil$ или $pollution$.</string>
+    <string lang="es">$b$Debuffs Elementales$/b$ son $fire$, $icecrust$, $crust$ y los efectos no permanentes de $gravrecoil$ o $pollution$.</string>
+    <string lang="kr">$b$원소 디버프$/b$는 $fire$, $icecrust$, $crust$ 및 $gravrecoil$ 또는 $pollution$의 비영구적 효과입니다.</string>
+    <string lang="pt-br">$b$Debuffs Elementais$/b$ são $fire$, $icecrust$, $crust$ e os efeitos não permanentes de $gravrecoil$ ou $pollution$.</string>
+    <string lang="zh-tw">$b$元素減益$/b$包括$fire$、$icecrust$、$crust$以及$gravrecoil$或$pollution$的非永久效果。</string>
+    <string lang="uk">$b$Елементальні Дебафи$/b$ - це $fire$, $icecrust$, $crust$ та непостійні ефекти від $gravrecoil$ або $pollution$.</string>
+</set>
 <set id="tooltip-dailyrun-locked">
         <string lang="de">Schalte alle Charaktere und Module frei, um tägliche Runs zu aktivieren</string>
 		<string lang="en">Unlock all characters and modules to access daily runs</string>
