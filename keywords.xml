@@ -12,6 +12,19 @@
 	<string lang="zh-tw">$nobr$$energyicon$$b$感應 1$/b$$/nobr$</string>
 	<string lang="uk">$nobr$$energyicon$$b$Індукція 1$/b$$/nobr$</string>
 </set>
+<set id="$randomboost$">
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Zufälliger Boost&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Random Boost&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Boost Aléatoire&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;随机增益&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;ランダムブースト&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Случайный Буст&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Impulso Aleatorio&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;무작위 부스트&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Impulso Aleatório&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;隨機增益&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Випадковий Буст&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+</set>
 <set id="$reminder-induction1$">
 	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
     <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
@@ -24,6 +37,19 @@
 	<string lang="pt-br">&lt;size=11&gt;(Carrega um módulo $storage$ aleatório sem $cracked$ $nobr$neste rack$/nobr$ com $1e$).</string>
 	<string lang="zh-tw">&lt;size=11&gt;(為此模架上一非$br$$cracked$模块充能$1e$)。</string>
 	<string lang="uk">&lt;size=11&gt;(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цьому стелажі$/nobr$ на $1e$).</string>
+</set>
+<set id="$reminder-randomboost$">
+    <string lang="de">&lt;size=11&gt;(Wende $boost$ auf ein zufälliges $passthrough$ Modul $nobr$auf diesem Rack$/nobr$ an).</string>
+    <string lang="en">&lt;size=11&gt;(Apply $boost$ to a random $passthrough$ module $nobr$on this rack$/nobr$).</string>
+    <string lang="fr">&lt;size=11&gt;(Applique $boost$ à un module $passthrough$ aléatoire $nobr$sur ce rack$/nobr$).</string>
+    <string lang="zh">&lt;size=11&gt;(对这个模架上的一个随机$passthrough$模块施加$boost$)。</string>
+    <string lang="jp">&lt;size=11&gt;(このラックのランダムな$passthrough$モジュールに$boost$を適用)。</string>
+    <string lang="ru">&lt;size=11&gt;(Применяет $boost$ к случайному $passthrough$ модулю $nobr$на этом стеллаже$/nobr$).</string>
+    <string lang="es">&lt;size=11&gt;(Aplica $boost$ a un módulo $passthrough$ aleatorio $nobr$en este rack$/nobr$).</string>
+    <string lang="kr">&lt;size=11&gt;(이 랙의 무작위 $passthrough$ 모듈에 $boost$를 적용합니다).</string>
+    <string lang="pt-br">&lt;size=11&gt;(Aplique $boost$ a um módulo $passthrough$ aleatório $nobr$neste rack$/nobr$).</string>
+    <string lang="zh-tw">&lt;size=11&gt;(對這個模架上的一個隨機$passthrough$模块施加$boost$)。</string>
+    <string lang="uk">&lt;size=11&gt;(Застосовує $boost$ до випадкового $passthrough$ модуля $nobr$на цьому стелажі$/nobr$).</string>
 </set>
 <set id="$reminder-debuffs$">
     <string lang="de">&lt;size=11&gt;Debuffs sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>

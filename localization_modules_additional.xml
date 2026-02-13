@@ -760,18 +760,17 @@
         <string lang="uk">В кінці ходу накладає $grav+2$ на власника.</string>
 </set>
 <set id="description-module-passivecentrifuge">
-        <string lang="de">Immer wenn $boost$ von einem Modul auf diesem Rack am Ende des Zuges abläuft, setze einen $b$Zähler$/b$ auf dieses Modul.$p$Zu Beginn des Zuges, für jede $3$ $b$Zähler$/b$, die du von diesem Modul entfernst, wende $boost$ auf ein zufälliges $passthrough$-Modul auf diesem Rack an.</string>
-		<string lang="en">Whenever $boost$ expires from a module on this rack on end of turn, put a $b$Counter$/b$ on this module.$p$At the beginning of turn, for each $3$ $b$Counters$/b$ you remove from this module, apply $boost$ to a random $passthrough$ module on this rack.</string>
-        <string lang="fr">Chaque fois que $boost$ expire d'un module sur ce rack à la fin du tour, place un $b$Compteur$/b$ sur ce module.$p$Au début du tour, pour chaque $3$ $b$Compteurs$/b$ que vous retirez de ce module, appliquez $boost$ à un module $passthrough$ aléatoire sur ce rack.</string>
-        <string lang="zh">每当此模架上的模块在回合结束时失去$boost$，$br$就在该模块上放置一个$b$计数器$/b$。$p$回合开始时，$br$每从该模块上移除$3$个$b$计数器$/b$，$br$就为此模架上的一个随机$passthrough$模块施加$boost$。</string>
-        <string lang="jp">ラックのモジュールからターン終了時に$boost$が消滅するたび、$br$このモジュールに$b$カウンター$/b$を置く。$p$ターン開始時、$br$このモジュールから$3$つの$b$カウンター$/b$を取り除くごとに、$br$このラックのランダムな$passthrough$モジュールに$boost$付与。</string>
-        <string lang="ru">Когда $boost$ с модуля на этой стойке истекает в конце хода, положите $b$Счётчик$/b$ на этот модуль.$p$В начале хода, за каждые $3$ $b$Счётчика$/b$, которые вы снимаете с этого модуля, применяйте $boost$ к случайному $passthrough$ модулю на этой стойке.</string>
-        <string lang="es">Siempre que $boost$ expire de un módulo en este bastidor al final del turno, pon un $b$Contador$/b$ en este módulo.$p$Al comienzo del turno, por cada $3$ $b$Contadores$/b$ que elimines de este módulo, aplica $boost$ a un módulo $passthrough$ aleatorio en este bastidor.</string>
-        <string lang="kr">이 랙의 모듈에서 턴 종료 시 $boost$가 만료될 때마다, 이 모듈에 $b$카운터$/b$를 놓습니다.$p$턴 시작 시, 이 모듈에서 제거한 $3$개의 $b$카운터$/b$마다, 이 랙의 임의의 $passthrough$ 모듈에 $boost$를 적용합니다.</string>
-        <string lang="pt-br">Sempre que $boost$ expirar de um módulo neste rack no final do turno, coloque um $b$Contador$/b$ neste módulo.$p$No início do turno, para cada $3$ $b$Contadores$/b$ que você remover deste módulo, aplique $boost$ a um módulo $passthrough$ aleatório neste rack.</string>
-        <string lang="zh-tw">每當此模架上的模組在回合結束時失去$boost$，$br$就在該模組上放置一個$b$計數器$/b$。$p$回合開始時，$br$每從該模組上移除$3$個$b$計數器$/b$，$br$就為此模架上的一個隨機$passthrough$模組施加$boost$。</string>
-        <string lang="uk">Коли $boost$ з модуля на цій стійці закінчується в кінці ходу, покладіть $b$Лічильник$/b$ на цей модуль.$p$На початку ходу, за кожні $3$ $b$Лічильники$/b$, які ви знімаєте з цього модуля, застосовуйте $boost$ до випадкового $passthrough$ модуля на цій стійці.</string>
-</set>
+        <string lang="de">Immer wenn $boost$ von einem Modul auf diesem Rack abläuft, setze einen $b$Zähler$/b$ auf dieses Modul.$p$Zu Beginn des Zuges, entferne $b$$nobr$3 Zähler$/nobr$$/b$ von diesem Modul, um $randomboost$ durchzuführen.$p$$reminder-randomboost$.</string>
+		<string lang="en">Whenever $boost$ expires from a module on this rack, put a $b$Counter$/b$ on this module.$p$At the beginning of turn, remove $b$$nobr$3 Counters$/nobr$$/b$ from this module to perform $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="fr">Chaque fois que $boost$ expire d'un module sur ce rack, place un $b$Compteur$/b$ sur ce module.$p$Au début du tour, enlève $b$$nobr$3 Compteurs$/nobr$$/b$ de ce module pour effectuer $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="zh">每当此模架上的模块的$boost$失效时，在此模块上放置一个$b$计数器$/b$。$p$回合开始时，从此模块上移除$b$$nobr$3个计数器$/nobr$$/b$以执行$randomboost$。$p$$reminder-randomboost$。</string>
+        <string lang="jp">このラックのモジュールから$boost$が消えるたび、このモジュールに$b$カウンター$/b$を置く。$p$ターン開始時、このモジュールから$b$$nobr$3カウンター$/nobr$$/b$を取り除いて$randomboost$を行う。$p$$reminder-randomboost$。</string>
+        <string lang="ru">Когда $boost$ истекает на модуле на этой стойке, положите $b$Счётчик$/b$ на этот модуль.$p$В начале хода удалите $b$$nobr$3 Счётчика$/nobr$$/b$ с этого модуля, чтобы выполнить $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="es">Siempre que $boost$ expire de un módulo en este bastidor, pon un $b$Contador$/b$ en este módulo.$p$Al comienzo del turno, elimina $b$$nobr$3 Contadores$/nobr$$/b$ de este módulo para realizar $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="kr">이 랙의 모듈에서 $boost$가 사라질 때마다 이 모듈에 $b$카운터$/b$를 놓습니다.$p$턴 시작 시 이 모듈에서 $b$$nobr$3 카운터$/nobr$$/b$를 제거하여 $randomboost$를 수행합니다.$p$$reminder-randomboost$.</string>
+        <string lang="pt-br">Sempre que $boost$ expirar de um módulo neste rack, coloque um $b$Contador$/b$ neste módulo.$p$No início do turno, remova $b$$nobr$3 Contadores$/nobr$$/b$ deste módulo para realizar $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="zh-tw">每當此模架上的模組的$boost$失效時，在此模組上放置一個$b$計數器$/b$。$p$回合開始時，從此模組上移除$b$$nobr$3個計數器$/nobr$$/b$以執行$randomboost$。$p$$reminder-randomboost$.</string>
+        <string lang="uk">Коли $boost$ зникає на модулі на цій стійці, покладіть $b$Лічильник$/b$ на цей модуль.$p$На початку ходу видаліть $b$$nobr$3 Лічильника$/nobr$$/b$ з цього модуля, щоб виконати $randomboost$.$p$$reminder-randomboost$.</string></set>
 <set id="description-module-passivecoffeemachine">
         <string lang="de">Immer wenn $boost$ oder $turbo$ auf ein Modul auf diesem Rack angewendet werden, füge dem Charakter $grav-1$ hinzu.</string>
 		<string lang="en">Whenever $boost$ or $turbo$ are applied to a module on this rack, apply $grav-1$ to the owner.</string>
@@ -877,17 +876,17 @@
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
 <set id="description-module-passivepassthroughbooster-proximity">
-	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
-	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, apply $boost$ to a random $passthrough$ module on this rack.</string>
-    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, appliquez $boost$ à un module $passthrough$ aléatoire sur ce rack.</string>
-    <string lang="zh">回合开始时，如果有其他战斗参与者在与拥有者相同的时间步上，则对该模架上的一个随机$passthrough$模块施加$boost$。</string>
-    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘参加者がいる場合、このラックのランダムな$passthrough$モジュールに$boost$を付与。</string>
-    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, примените $boost$ к случайному $passthrough$ модулю на этой стойке.</string>
-    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, aplica $boost$ a un módulo $passthrough$ aleatorio en este bastidor.</string>
-    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, 이 랙의 임의의 $passthrough$ 모듈에 $boost$를 적용합니다.</string>
-    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, aplique $boost$ a um módulo $passthrough$ aleatório neste rack.</string>
-    <string lang="zh-tw">回合開始時，如果有其他戰鬥參與者在與擁有者相同的時間步上，則對該模架上的一個隨機$passthrough$模組施加$boost$。</string>
-    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, застосуйте $boost$ до випадкового $passthrough$ модуля на цій стійці.</string>
+	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$perform $randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh">在回合开始时，如果有其他战斗员与拥有者处于同一时间步，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘員がいる場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
+    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
+    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-passivestorageinductor-beginningofturn">
 		<string lang="de">Zu Beginn des Zuges, $nobr$wende $induction1$ an$/nobr$.$p$$reminder-induction1$</string>
