@@ -1,5 +1,5 @@
 <keywords>
-<set id="$induction1$">
+<set id="$randominduction$">
 	<string lang="de">$nobr$$energyicon$$b$Induktion 1$/b$$/nobr$</string>
 	<string lang="en">$nobr$$energyicon$$b$Induction 1$/b$$/nobr$</string>
 	<string lang="fr">$nobr$$energyicon$$b$Induction 1$/b$$/nobr$</string>
@@ -25,7 +25,7 @@
         <string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;隨機增益&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
         <string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Випадковий Буст&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
-<set id="$reminder-induction1$">
+<set id="$reminder-randominduction$">
 	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
     <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
 	<string lang="fr">&lt;size=11&gt;(Charge un module $storage$ aléatoire sans $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$).</string>
