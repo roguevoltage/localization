@@ -926,29 +926,29 @@
 		<string lang="uk">Мінімальна відстань $b$+3$/b$</string>
 </set>
 <set id="toggled-module-off">
-		<string lang="de">Wird während der Spannungssequenz aktiviert, wenn angeschaltet</string>
-		<string lang="en">Toggle to activate during voltage sequence</string>
-		<string lang="fr">Sera utilisé pendant la séquence de tir,$br$si activé</string>
-		<string lang="zh">切换至模组运行期间激活</string>
-		<string lang="jp">切替で電源入力時に起動</string>
-		<string lang="ru">Будет активирован во время стрельбы,$br$если включен</string>
-		<string lang="es">Se activará durante la secuencia de disparo,$br$si está activado</string>
-		<string lang="kr">전환을 통해 전압 시퀀스 도중 활성화</string>
-		<string lang="pt-br">Será ativado durante a sequência de disparo, se estiver ligado</string>
-		<string lang="zh-tw">切換至模組運行期間啟動</string>
-		<string lang="uk">Увімкни перемикач щоб активувати модуль під час роботи стійки</string>
+		<string lang="de">Wird während der nächsten Spannungssequenz aktiviert, wenn angeschaltet</string>
+		<string lang="en">Toggle to activate during next $nobr$voltage sequence$/nobr$</string>
+		<string lang="fr">Sera utilisé pendant la prochaine séquence de tir,$br$si activé</string>
+		<string lang="zh">切换至下一次模组运行期间激活</string>
+		<string lang="jp">次の電源入力時に起動</string>
+		<string lang="ru">Будет активирован во время следующей стрельбы,$br$если включен</string>
+		<string lang="es">Se activará durante la próxima secuencia de disparo,$br$si está activado</string>
+		<string lang="kr">다음 전압 시퀀스 도중 활성화</string>
+		<string lang="pt-br">Será ativado durante a próxima sequência de disparo, se estiver ligado</string>
+		<string lang="zh-tw">切換至下一次模組運行期間激活</string>
+		<string lang="uk">Увімкни перемикач щоб активувати модуль під час наступної роботи стійки</string>
 </set>
 <set id="toggled-module-on">
-		<string lang="de">Wird während der Spannungssequenz aktiviert</string>
-		<string lang="en">Will be activated during voltage sequence</string>
-		<string lang="fr">Sera utilisé pendant la séquence de tir</string>
-		<string lang="zh">即将在模组运行期间激活</string>
-		<string lang="jp">電源入力時に起動</string>
-		<string lang="ru">Будет активирован во время стрельбы</string>
-		<string lang="es">Se activará durante la secuencia de disparo</string>
-		<string lang="kr">전압 시퀀스 도중 활성화 예정</string>
-		<string lang="pt-br">Será ativado durante a sequência de disparo</string>
-		<string lang="zh-tw">即將在模組運行期間啟動</string>
-		<string lang="uk">Буде активовано під час роботи стійки</string>
+		<string lang="de">Wird während der nächsten Spannungssequenz aktiviert</string>
+		<string lang="en">Will be activated during next $nobr$voltage sequence$/nobr$</string>
+		<string lang="fr">Sera utilisé pendant la prochaine $nobr$séquence de tir$/nobr$</string>
+		<string lang="zh">即将在下一次模组运行期间激活</string>
+		<string lang="jp">次の電源入力時に起動</string>
+		<string lang="ru">Будет активирован во время следующей стрельбы</string>
+		<string lang="es">Se activará durante la próxima secuencia de disparo</string>
+		<string lang="kr">다음 전압 시퀀스 도중 활성화 예정</string>
+		<string lang="pt-br">Será ativado durante a próxima sequência de disparo</string>
+		<string lang="zh-tw">即將在下一次模組運行期間啟動</string>
+		<string lang="uk">Буде активовано під час наступної роботи стійки</string>
 </set>
 </localization>
