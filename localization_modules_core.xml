@@ -599,17 +599,17 @@
 		<string lang="uk">Забирає $grav+$ у $b$іншого$/b$ учасника бою та перетворює на $energyicon$$b$Енергію$/b$.</string>
 </set>
 <set id="description-module-magnetstorage">
-		<string lang="de">Nimmt bei Aktivierung die gesamte $energy$ eines $storage$-Moduls deiner Wahl ab.</string>
-		<string lang="en">On activation, picks up all $energy$ from target $storage$ module.</string>
-		<string lang="fr">À l'activation, prend toute l'$energy$ d'un module $storage$ ciblé.</string>
-		<string lang="zh">激活时吸取目标$storage$模块的全部$energy$。</string>
-		<string lang="jp">起動時に対象の$storage$モジュールから全ての$energy$を吸収。</string>
-		<string lang="ru">При активации забирает всю $energy$ из целевого модуля $storage$.</string>
-		<string lang="es">Al activarse, recoge toda la $energy$ de un módulo $storage$ objetivo.</string>
-		<string lang="kr">활성화 시 대상 $storage$ 모듈의 모든 $energy$를 추출합니다.</string>
-		<string lang="pt-br">Na ativação, pega toda a $energy$ de um módulo $storage$ alvo.</string>
-		<string lang="zh-tw">激活時吸取目標$storage$模組的全部$energy$。</string>
-		<string lang="uk">При активації забирає всю $energy$ з цільового модуля $storage$.</string>
+		<string lang="de">Nimmt $1energy$ von allen $storage$ Modulen $nobr$auf diesem Rack$/nobr$ ab.</string>
+		<string lang="en">Picks up $1energy$ from all $storage$ modules $nobr$on this rack$/nobr$.</string>
+		<string lang="fr">Prend $1energy$ de tous les modules $storage$ $nobr$sur ce rack$/nobr$.</string>
+		<string lang="zh">从这个模架上所有$storage$模块$nobr$吸取$1energy$$nobr$。</string>
+		<string lang="jp">このラックのすべての$storage$モジュールから$nobr$$1energy$$nobr$吸収。</string>
+		<string lang="ru">Забирает $1energy$ у всех $storage$ модулей $nobr$на этом стойке$/nobr$.</string>
+		<string lang="es">Recoge $1energy$ de todos los módulos $storage$ $nobr$en este rack$/nobr$.</string>
+		<string lang="kr">이 랙의 모든 $storage$ 모듈에서 $1energy$를 추출합니다.</string>
+		<string lang="pt-br">Pega $1energy$ de todos os módulos $storage$ $nobr$neste rack$/nobr$.</string>
+		<string lang="zh-tw">從這個模架上所有$storage$模組$nobr$吸取$1energy$$nobr$。</string>
+		<string lang="uk">Забирає $1energy$ у всіх $storage$ модулів $nobr$на цьому стійці$/nobr$.</string>
 </set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
