@@ -846,6 +846,19 @@
         <string lang="zh-tw">每第二輪開始時，$1energy$。</string>
         <string lang="uk">Заряджається на $1energy$ на початку кожного 2-го ходу власника.</string>
 </set>
+<set id="description-module-storagecellmonster">
+		<string lang="de">Wird jeden 2. Zug eines Monsters um $1energy$ geladen.</string>
+		<string lang="en">Is charged with $1energy$ every 2&lt;sup&gt;nd&lt;/sup&gt; turn of a monster.</string>
+        <string lang="fr">Est chargé de $1energy$ tous les 2&lt;sup&gt;ème&lt;/sup&gt; tour d'un monstre.</string>
+        <string lang="zh">每当一个怪物的第2轮开始时，$1energy$。</string>
+        <string lang="jp">モンスターの第 2 ターンの開始時に $1energy$。</string>
+        <string lang="ru">Заряжается на $1energy$ каждый 2-й ход монстра.</string>
+        <string lang="es">Se carga con $1energy$ cada 2.º turno de un monstruo.</string>
+        <string lang="kr">몬스터의 2번째 차례 시작 시 $1energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $1energy$ no início de cada 2.º turno de um monstro.</string>
+        <string lang="zh-tw">每當一個怪物的第2輪開始時，$1energy$。</string>
+        <string lang="uk">Заряджається на $1energy$ кожного 2-го ходу монстра.</string>
+</set>
 <set id="description-module-storagecellemergency">
 	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
 	<string lang="en">Can be discharged for$br$$b$$CHARGEVALUE$$/b$ $energy$.</string>
@@ -2195,6 +2208,19 @@
         <string lang="pt-br">Célula de Corda</string>
         <string lang="zh-tw">發條單元</string>
         <string lang="uk">Годинникова клітина</string>
+</set>
+<set id="name-module-storagecellmonster">
+		<string lang="de">Monster-Zelle</string>
+		<string lang="en">Monster Cell</string>
+		<string lang="fr">Pile de Monstres</string>
+        <string lang="zh">怪物单元</string>
+        <string lang="jp">モンスターセル</string>
+        <string lang="ru">Ячейка Монстров</string>
+        <string lang="es">Celda de Monstruos</string>
+        <string lang="kr">괴물 전지</string>
+        <string lang="pt-br">Célula de Monstros</string>
+        <string lang="zh-tw">怪物單元</string>
+        <string lang="uk">Комірка монстрів</string>
 </set>
 <set id="name-module-storagecellemergency">
 	<string lang="de">Notfallzelle</string>
