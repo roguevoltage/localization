@@ -551,6 +551,19 @@
 	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在隨機角色的模架上，產生一個$unstable$的$b$定時炸彈$/b$。</string>
 	<string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює $b$Часову Бомбу$/b$ з $unstable$ на одній з ваших стоек.</string>
 </set>
+<set id="description-module-generator-ice">
+		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters her und versieht es mit $icecrust$.</string>
+		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Debris$/b$ module with $cracked$ on the other character's rack and inflict it with $icecrust$.</string>
+        <string lang="fr">Génère $b$$GENERATIONVALUE$$/b$ $energy$ à l'activation.$p$Construit un module $b$Débris$/b$ avec $cracked$ sur le rack de l'autre personnage et lui inflige $icecrust$.</string>
+        <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上制造一个$cracked$的$b$碎片$/b$模块，并施加$icecrust$。</string>
+        <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$別キャラのラックに$cracked$付与された$b$デブリ$/b$モジュールを生成し、$icecrust$付与。</string>
+        <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает модуль $b$Обломки$/b$ с $cracked$ на стойке другого персонажа и накладывает на него $icecrust$.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye un módulo $b$Escombros$/b$ con $cracked$ en el rack del otro personaje y le inflige $icecrust$.</string>
+        <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$다른 캐릭터의 랙에 $cracked$ 상태의 $b$파편$/b$ 모듈을 조립하고 $icecrust$를 부여합니다.</string>
+        <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói um módulo $b$Detritos$/b$ com $cracked$ no rack do outro personagem e o inflige com $icecrust$.</string>
+        <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上製造一個$cracked$的$b$碎片$/b$模組，並施加$icecrust$。</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $icecrust$.</string>
+</set>
 <set id="description-module-generator-fire">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters her und versieht es mit $fire$.</string>
 		<string lang="en">Generates $b$$GENERATIONVALUE$$/b$ $energy$$br$on activation.$p$Constructs a $b$Debris$/b$ module with $cracked$ on the other character's rack and inflict it with $fire$.</string>
@@ -2136,6 +2149,19 @@
         <string lang="pt-br">Gerador Piro</string>
         <string lang="zh-tw">火焰發電機</string>
         <string lang="uk">Пірогенератор</string>
+</set>
+<set id="name-module-generator-ice">
+		<string lang="de">Eisiger Generator</string>
+		<string lang="en">Icy Generator</string>
+		<string lang="fr">Générateur Glacial</string>
+		<string lang="zh">冰冷发电机</string>
+		<string lang="jp">アイシー発電機</string>
+		<string lang="ru">Ледяной Генератор</string>
+		<string lang="es">Generador Glacial</string>
+		<string lang="kr">얼음 발전기</string>
+		<string lang="pt-br">Gerador Gelado</string>
+		<string lang="zh-tw">冰冷發電機</string>
+		<string lang="uk">Криогенератор</string>
 </set>
 <set id="name-module-generator-outoforder">
 		<string lang="de">Ausbeutungs-Generator</string>
