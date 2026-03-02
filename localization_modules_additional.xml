@@ -694,6 +694,19 @@
         <string lang="zh-tw">以$1energy$的脈衝傳輸$energy$$p$&lt;size=11&gt;這會在下一個模組上多次觸發&lt;color=#afcf74&gt;$amplificationicon$$b$增幅$/b$&lt;/color&gt;的效果。</string>
         <string lang="uk">Передає $energy$ імпульсами по $1energy$.$p$&lt;size=11&gt;Це викликає ефекти &lt;color=#afcf74&gt;$amplificationicon$$b$Підсилення$/b$&lt;/color&gt; на наступному модулі кілька разів.</string>
 </set>
+<set id="description-module-modifier-grease">
+        <string lang="de">Zu Beginn des Zuges, wenn dieses Modul kein $grease$ hat, wende $grease$ auf es an.</string>
+        <string lang="en">At the beginning of turn, if this module does not have $grease$, apply $grease$ to it.</string>
+        <string lang="fr">Au début du tour, si ce module n'a pas $grease$, appliquez $grease$ dessus.</string>
+        <string lang="zh">回合开始时，如果此模块没有$grease$，则对其施加$grease$。</string>
+        <string lang="jp">ターン開始時、このモジュールに$grease$がない場合、$grease$を付与する。</string>
+        <string lang="ru">В начале хода, если у этого модуля нет $grease$, примените $grease$ к нему.</string>
+        <string lang="es">Al comienzo del turno, si este módulo no tiene $grease$, aplícale $grease$.</string>
+        <string lang="kr">턴 시작 시, 이 모듈에 $grease$가 없으면 $grease$를 적용합니다.</string>
+        <string lang="pt-br">No início do turno, se este módulo não tiver $grease$, aplique $grease$ nele.</string>
+        <string lang="zh-tw">回合開始時，如果此模組沒有$grease$，則對其施加$grease$。</string>
+        <string lang="uk">На початку ходу, якщо цей модуль не має $grease$, застосуйте $grease$ до нього.</string>
+</set>
 <set id="description-module-modifiersplitter">
 		<string lang="de">Leitet $1energy$ zur rechten Output-Buchse.$p$Leitet die verbleibende $energy$ zur linken Output-Buchse.</string>
 		<string lang="en">Transmits $1energy$ to the right output jack.$p$Transmits the remaining $energy$ to the left output jack.</string>
@@ -2255,6 +2268,19 @@
 		<string lang="pt-br">Amplificador Orgânico $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">有機調節器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Органічний підсилювач $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-modifier-grease" remarks="take name from status-modulegrease">
+		<string lang="de">Geschmierter Verstärker $MODIFICATIONVALUE$</string>
+		<string lang="en">Greased Amplifier $MODIFICATIONVALUE$</string>
+        <string lang="fr">Amplificateur Graissé $MODIFICATIONVALUE$</string>
+        <string lang="zh">润滑增幅器$MODIFICATIONVALUE$</string>
+        <string lang="jp">グリース増幅器$MODIFICATIONVALUE$</string>
+        <string lang="ru">Смазанный Усилитель $MODIFICATIONVALUE$</string>
+        <string lang="es">Amplificador Engrasado $MODIFICATIONVALUE$</string>
+        <string lang="kr">윤활 증폭기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Amplificador Lubrificado $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">潤滑增幅器$MODIFICATIONVALUE</string>
+        <string lang="uk">Змащений підсилювач $MODIFICATIONVALUE</string>
 </set>
 <set id="name-module-modifierrepeater">
 	<string lang="de">Repeater $MODIFICATIONVALUE$</string>
