@@ -941,18 +941,18 @@
     <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
     <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
-<set id="description-module-passivestorageinductor-beginningofturn">
-		<string lang="de">Zu Beginn des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="en">At the beginning of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="fr">Au début du tour, $nobr$effectuez $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="zh">在回合开始时，$nobr$执行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="jp">ターン開始時、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
-		<string lang="ru">В начале хода, $nobr$выполните $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="es">Al comienzo del turno, $nobr$realiza $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="kr">턴 시작 시, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
-		<string lang="pt-br">No início do turno, $nobr$execute $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="zh-tw">在回合開始時，$nobr$執行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
-		<string lang="uk">На початку ходу, $nobr$виконайте $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+<set id="description-module-passivestorageinductor-endofturn">
+		<string lang="de">Am Ende des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="en">At the end of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="fr">À la fin du tour, $nobr$effectuez $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh">在回合结束时，$nobr$执行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="jp">ターン終了時、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
+		<string lang="ru">В конце хода, $nobr$выполните $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al final del turno, $nobr$realiza $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="kr">턴 종료 시, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
+		<string lang="pt-br">No final do turno, $nobr$execute $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh-tw">在回合結束時，$nobr$執行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="uk">На кінці ходу, $nobr$виконайте $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
 </set>
 <set id="description-module-passivestorageinductor-pacifist">
 		<string lang="de">Am Ende des Zuges, wenn der Charakter diesen Zug keinen $damage$ verursacht hat, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
@@ -2491,7 +2491,7 @@
         <string lang="zh-tw">笑氣瓶：接近</string>
         <string lang="uk">Балон Нітро: Близькість</string>
 </set>
-<set id="name-module-passivestorageinductor-beginningofturn">
+<set id="name-module-passivestorageinductor-endofturn">
 		<string lang="de">Windrad</string>
 		<string lang="en">Wind Turbine</string>
 		<string lang="fr">Éolienne</string>
