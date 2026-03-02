@@ -182,17 +182,17 @@
 		<string lang="uk">Знищиться після ходу власника</string>
 </set>
 <set id="description-status-modulegrease">
-        <string lang="de">Schützt dieses Modul vor einem &lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$, stattdessen wende $turbo$ auf es an und entferne $grease$.</string>
-		<string lang="en">Protects this module from one &lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$, instead apply $turbo$ to it and remove $grease$.</string>
-        <string lang="fr">Protège ce module d'un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Élémentaire$/b$, appliquez plutôt $turbo$ sur lui et retirez $grease$.</string>
-        <string lang="zh">保护此模块免受一次&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$，改为对其施加$turbo$并移除$grease$。</string>
-        <string lang="jp">このモジュールは&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$を1回防ぎ、代わりに$turbo$を付与し、$grease$を除去します。</string>
-        <string lang="ru">Защищает этот модуль от одного &lt;sprite name="debuff" tint=1&gt;$b$Элементального Дебаффа$/b$, вместо этого применяет $turbo$ к нему и удаляет $grease$.</string>
-        <string lang="es">Protege este módulo de un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, en su lugar aplica $turbo$ a él y elimina $grease$.</string>
-        <string lang="kr">이 모듈을 &lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$로부터 보호하고, 대신 $turbo$를 적용하고 $grease$를 제거합니다.</string>
-        <string lang="pt-br">Protege este módulo de um &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, em vez disso, aplique $turbo$ a ele e remova $grease$.</string>
-        <string lang="zh-tw">保護此模組免受一次&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$，改為對其施加$turbo$並移除$grease$。</string>
-        <string lang="uk">Захищає цей модуль від одного &lt;sprite name="debuff" tint=1&gt;$b$Елементального Дебафа$/b$, замість цього застосовує $turbo$ до нього і видаляє $grease$.</string>
+        <string lang="de">Wenn dieses Modul einen &lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$ erhalten sollte, verhindere dies und verleihe ihm stattdessen $turbo$. Entferne $grease$.</string>
+		<string lang="en">If this module should receive an &lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$, prevent that debuff and instead apply $turbo$ to it. Remove $grease$.</string>
+        <string lang="fr">Si ce module devait recevoir un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Élémentaire$/b$, empêche ce debuff et applique à la place $turbo$ à ce module. Retirer $grease$.</string>
+        <string lang="zh">如果这个模块应该受到&lt;sprite name="debuff" tint=1&gt;$b$元素负面状态$/b$，则阻止该负面状态，并改为给予它$turbo$。移除$grease$。</string>
+        <string lang="jp">このモジュールが&lt;sprite name="debuff" tint=1&gt;$b$属性デバフ$/b$を受ける場合、そのデバフを防ぎ、代わりにこのモジュールに$turbo$を付与します。$grease$を除去します。</string>
+        <string lang="ru">Если этот модуль должен получить &lt;sprite name="debuff" tint=1&gt;$b$Элементальный дебафф$/b$, предотвратите этот дебафф и вместо этого примените $turbo$ к этому модулю. Удалите $grease$.</string>
+        <string lang="es">Si este módulo debería recibir un &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, previene ese debuff y en su lugar aplica $turbo$ a este módulo. Elimina $grease$.</string>
+        <string lang="kr">이 모듈이 &lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$를 받아야 하는 경우, 해당 디버프를 방지하고 대신 이 모듈에 $turbo$를 적용합니다. $grease$를 제거합니다.</string>
+        <string lang="pt-br">Se este módulo deve receber um &lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$, previna esse debuff e em vez disso aplique $turbo$ a este módulo. Remova $grease$.</string>
+        <string lang="zh-tw">如果這個模組應該受到&lt;sprite name="debuff" tint=1&gt;$b$元素負面狀態$/b$，則阻止該負面狀態，並改為給予它$turbo$。移除$grease$。</string>
+        <string lang="uk">Якщо цей модуль повинен отримати &lt;sprite name="debuff" tint=1&gt;$b$Елементальний дебафф$/b$, запобігти цьому дебаффу і замість цього застосувати $turbo$ до цього модуля. Удалите $grease$.</string>
 </set>
 <set id="description-status-modulehazardous">
 		<string lang="de">Aktivierung fügt dem Charakter für $b$5$/b$ Zeitschritte $vulnerable$ zu</string>
