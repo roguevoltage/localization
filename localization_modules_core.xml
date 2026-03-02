@@ -846,6 +846,19 @@
         <string lang="zh-tw">每第二輪開始時，$1energy$。</string>
         <string lang="uk">Заряджається на $1energy$ на початку кожного 2-го ходу власника.</string>
 </set>
+<set id="description-module-storagecellfriendship">
+        <string lang="de">Wird jedes Mal um $1energy$ geladen, wenn der andere Startcharakter an der Reihe ist.</string>
+		<string lang="en">Is charged with $1energy$ whenever the other starting character takes a turn.</string>
+        <string lang="fr">Est chargé de $1energy$ chaque fois que l'autre personnage de départ prend un tour.</string>
+        <string lang="zh">每当另一个起始角色轮到行动时，$1energy$。</string>
+        <string lang="jp">もう一方の開始キャラクターがターンを取るたびに$1energy$。</string>
+        <string lang="ru">Заряжается на $1energy$ каждый раз, когда другой стартовый персонаж совершает ход.</string>
+        <string lang="es">Se carga con $1energy$ cada vez que el otro personaje inicial toma un turno.</string>
+        <string lang="kr">다른 시작 캐릭터가 행동할 때마다 $1energy$로 충전됩니다.</string>
+        <string lang="pt-br">É carregado com $1energy$ sempre que o outro personagem inicial toma um turno.</string>
+        <string lang="zh-tw">每當另一個起始角色輪到行動時，$1energy$。</string>
+        <string lang="uk">Заряджається на $1energy$ кожного разу, когда другой стартовый персонаж совершает ход.</string>
+</set>
 <set id="description-module-storagecellmonster">
 		<string lang="de">Wird jeden 2. Zug eines Monsters um $1energy$ geladen.</string>
 		<string lang="en">Is charged with $1energy$ every 2&lt;sup&gt;nd&lt;/sup&gt; turn of a monster.</string>
@@ -2209,12 +2222,25 @@
         <string lang="zh-tw">發條單元</string>
         <string lang="uk">Годинникова клітина</string>
 </set>
+<set id="name-module-storagecellfriendship">
+		<string lang="de">Freundschafts-Zelle</string>
+		<string lang="en">Friendship Cell</string>
+		<string lang="fr">Pile d'Amitié</string>
+        <string lang="zh">友谊单元</string>
+        <string lang="jp">友情電池</string>
+        <string lang="ru">Ячейка Дружбы</string>
+        <string lang="es">Celda de Amistad</string>
+        <string lang="kr">우정 전지</string>
+        <string lang="pt-br">Célula de Amizade</string>
+        <string lang="zh-tw">友誼單元</string>
+        <string lang="uk">Комірка Дружби</string>
+</set>
 <set id="name-module-storagecellmonster">
 		<string lang="de">Monster-Zelle</string>
 		<string lang="en">Monster Cell</string>
 		<string lang="fr">Pile de Monstres</string>
         <string lang="zh">怪物单元</string>
-        <string lang="jp">モンスターセル</string>
+        <string lang="jp">モンスター電池</string>
         <string lang="ru">Ячейка Монстров</string>
         <string lang="es">Celda de Monstruos</string>
         <string lang="kr">괴물 전지</string>
