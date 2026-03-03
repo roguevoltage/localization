@@ -407,6 +407,19 @@
 		<string lang="zh-tw">為目標己方角色施加$healing$。</string>
 		<string lang="uk">Застосовує $healing$ на вказаного гравця.</string>
 </set>
+<set id="description-module-factoryauto-merger" remarks="Take 'Merger' from string name-module-merger">
+		<string lang="de">Stellt zu Beginn des Zuges einen universellen $b$Verbinder$/b$ mit $cracked$ und $crust$ her.</string>
+		<string lang="en">On beginning of turn, constructs a universal $b$Merger$/b$ with $cracked$ and $crust$.</string>
+		<string lang="fr">Au début du tour, construit un $b$Fusionneur$/b$ universel avec $cracked$ et $crust$.</string>
+        <string lang="zh">回合开始时，制造一个$cracked$和$crust$的通用$b$合流器$/b$。</string>
+        <string lang="jp">ターン開始時、$cracked$と$crust$付与された汎用$br$$b$混合器$/b$を製造。</string>
+        <string lang="ru">В начале хода создает универсальное $b$Слияние$/b$ с $cracked$ и $crust$.</string>
+        <string lang="es">Al comienzo del turno, construye un $b$Fusionador$/b$ universal con $cracked$ y $crust$.</string>
+        <string lang="kr">턴 시작 시 $cracked$와 $crust$ 상태의 범용 $b$병합기$/b$를 조립합니다.</string>
+        <string lang="pt-br">No início do turno, constrói um $b$Fusor$/b$ universal com $cracked$ e $crust$.</string>
+        <string lang="zh-tw">回合開始時，製造一個$cracked$和$crust$的$br$通用$b$合流器$/b$。</string>
+        <string lang="uk">На початку ходу створює універсальний $b$Поєднувач$/b$ з $cracked$ та $crust$.</string>
+</set>
 <set id="description-module-factoryblaster">
 		<string lang="de">Stellt einen universellen $b$Blaster$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Blaster$/b$ with $cracked$.</string>
@@ -2070,6 +2083,19 @@
 		<string lang="zh-tw">合流器工廠$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Фабрика обʼєднувачів $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factoryauto-merger" remarks="take Merger string from name-module-merger">
+		<string lang="de">Auto-Fabrik: Verbinder</string>
+		<string lang="en">Auto Factory: Merger</string>
+        <string lang="fr">Auto-Fabrique : Fusionneur</string>
+        <string lang="zh">自动工厂：合流器</string>
+        <string lang="jp">自動工場：混合器</string>
+        <string lang="ru">Автофабрика: Слияние</string>
+        <string lang="es">Auto Fábrica: Fusionador</string>
+        <string lang="kr">자동 공장: 병합기</string>
+        <string lang="pt-br">Auto Fábrica: Fusor</string>
+        <string lang="zh-tw">自動工廠：合流器</string>
+        <string lang="uk">Автофабрика: Поєднувач</string>
 </set>
 <set id="name-module-factorymodifier">
 		<string lang="de">Verstärker-Fabrik $MODIFICATIONVALUE$</string>
