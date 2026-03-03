@@ -361,19 +361,18 @@
 </string>
 		<string lang="uk">Права Клішня</string>
 </set>
-<set id="name-boss-crocodile">
-		<string lang="de">Boss-Krokodil</string>
-		<string lang="en">Boss Crocodile</string>
-		<string lang="fr">Boss Crocodile</string>
-		<string lang="zh">首领鳄鱼</string>
-		<string lang="jp">大ワニ</string>
-		<string lang="ru">Босс Крокодил</string>
-		<string lang="es">Boss Cocodrilo</string>
-		<string lang="kr">우두머리 악어</string>
-		<string lang="pt-br">Boss Crocodilo</string>
-		<string lang="zh-tw">首領鱷魚
-</string>
-		<string lang="uk">Гігатський Крокодил</string>
+<set id="name-boss-crocodile" remarks="translate as 'Gravigator' in all languages">
+		<string lang="de">Der Gravigator</string>
+		<string lang="en">The Gravigator</string>
+		<string lang="fr">Le Gravigateur</string>
+		<string lang="zh">引航者</string>
+		<string lang="jp">グラビゲーター</string>
+		<string lang="ru">Гравигатор</string>
+		<string lang="es">El Gravigátor</string>
+		<string lang="kr">그라비게이터</string>
+		<string lang="pt-br">O Gravigador</string>
+		<string lang="zh-tw">引航者</string>
+		<string lang="uk">Гравінавт</string>
 </set>
 <set id="name-boss-shroom">
 		<string lang="de">Pilzboss</string>
@@ -668,19 +667,18 @@
 </string>
 		<string lang="uk">Клішня</string>
 </set>
-<set id="shortname-boss-crocodile">
-		<string lang="de">Boss</string>
-		<string lang="en">Boss</string>
-		<string lang="fr">Boss</string>
-		<string lang="zh">首领</string>
-		<string lang="jp">大ワニ</string>
-		<string lang="ru">Босс</string>
-		<string lang="es">Boss</string>
-		<string lang="kr">우두머리</string>
-		<string lang="pt-br">Boss</string>
-		<string lang="zh-tw">首領
-</string>
-		<string lang="uk">Бос</string>
+<set id="shortname-boss-crocodile" remarks="translate only as 'Gator'">
+		<string lang="de">Gator</string>
+		<string lang="en">Gator</string>
+		<string lang="fr">Gator</string>
+		<string lang="zh">鳄鱼</string>
+		<string lang="jp">ワニ</string>
+		<string lang="ru">Гатор</string>
+		<string lang="es">Gator</string>
+		<string lang="kr">악어</string>
+		<string lang="pt-br">Gator</string>
+		<string lang="zh-tw">鱷魚</string>
+		<string lang="uk">Гатор</string>
 </set>
 <set id="shortname-boss-shroom">
 		<string lang="de">Boss</string>
