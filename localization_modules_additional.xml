@@ -420,6 +420,19 @@
         <string lang="zh-tw">回合開始時，製造一個$cracked$和$crust$的$br$通用$b$合流器$/b$。</string>
         <string lang="uk">На початку ходу створює універсальний $b$Поєднувач$/b$ з $cracked$ та $crust$.</string>
 </set>
+<set id="description-module-factoryauto-potion-acceleration">
+        <string lang="de">Stellt zu Beginn des Zuges einen universellen $b$Beschleunigungs-Trank +1$/b$ mit $cracked$ her.</string>
+		<string lang="en">On beginning of turn, constructs a universal $b$Acceleration Potion +1$/b$ with $cracked$.</string>
+		<string lang="fr">Au début du tour, construit un $b$Potion d'Accélération +1$/b$ universel avec $cracked$.</string>
+        <string lang="zh">回合开始时，制造一个$cracked$的通用$b$加速药剂 +1$/b$。</string>
+        <string lang="jp">ターン開始時、$cracked$付与された汎用$br$$b$加速薬 +1$/b$を製造。</string>
+        <string lang="ru">В начале хода создает универсальное $b$Зелье Ускорения +1$/b$ с $cracked$.</string>
+        <string lang="es">Al comienzo del turno, construye una $b$Poción de Aceleración +1$/b$ universal con $cracked$.</string>
+        <string lang="kr">턴 시작 시 $cracked$ 상태의 범용 $b$가속 물약 +1$/b$을 조립합니다.</string>
+        <string lang="pt-br">No início do turno, constrói uma $b$Poção de Aceleração +1$/b$ universal com $cracked$.</string>
+        <string lang="zh-tw">回合開始時，製造一個$cracked$的通用$b$加速藥劑 +1$/b$。</string>
+        <string lang="uk">На початку ходу створює універсальне $b$Зілля Прискорення +1$/b$ з $cracked$.</string>
+</set>
 <set id="description-module-factoryblaster">
 		<string lang="de">Stellt einen universellen $b$Blaster$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Blaster$/b$ with $cracked$.</string>
@@ -2096,6 +2109,19 @@
         <string lang="pt-br">Auto Fábrica: Fusor</string>
         <string lang="zh-tw">自動工廠：合流器</string>
         <string lang="uk">Автофабрика: Поєднувач</string>
+</set>
+<set id="name-module-factoryauto-potion-acceleration">
+		<string lang="de">Auto-Fabrik: Beschleunigungs-Trank +1</string>
+		<string lang="en">Auto Factory: Acceleration Potion +1</string>
+		<string lang="fr">Auto-Fabrique : Potion d'Accélération +1</string>
+		<string lang="zh">自动工厂：加速药水 +1</string>
+        <string lang="jp">自動工場：加速ポーション +1</string>
+        <string lang="ru">Автофабрика: Зелье Ускорения +1</string>
+        <string lang="es">Auto Fábrica: Poción de Aceleración +1</string>
+        <string lang="kr">자동 공장: 가속 물약 +1</string>
+        <string lang="pt-br">Auto Fábrica: Poção de Aceleração +1</string>
+        <string lang="zh-tw">自動工廠：加速藥水 +1</string>
+        <string lang="uk">Автофабрика: Зілля Прискорення +1</string>
 </set>
 <set id="name-module-factorymodifier">
 		<string lang="de">Verstärker-Fabrik $MODIFICATIONVALUE$</string>
