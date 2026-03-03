@@ -407,6 +407,19 @@
 		<string lang="zh-tw">為目標己方角色施加$healing$。</string>
 		<string lang="uk">Застосовує $healing$ на вказаного гравця.</string>
 </set>
+<set id="description-module-factoryauto-factoryauto">
+        <string lang="de">Stellt zu Beginn des Zuges eine Kopie von sich selbst her.$p$Die Kopie hat $unstable$.</string>
+		<string lang="en">On beginning of turn, constructs a copy of itself.$p$The copy has $unstable$.</string>
+        <string lang="fr">Au début du tour, construit une copie de lui-même.$p$La copie a $unstable$.</string>
+        <string lang="zh">回合开始时，制造一个自己的复制品。$p$复制品具有$unstable$。</string>
+        <string lang="jp">ターン開始時、自分のコピーを製造。$p$コピーは$unstable$。</string>
+        <string lang="ru">В начале хода создает копию себя.$p$Копия имеет $unstable$.</string>
+        <string lang="es">Al comienzo del turno, construye una copia de sí mismo.$p$La copia tiene $unstable$.</string>
+        <string lang="kr">턴 시작 시 자신과 동일한 복제품을 조립합니다.$p$복제품은 $unstable$ 상태입니다.</string>
+        <string lang="pt-br">No início do turno, constrói uma cópia de si mesmo.$p$A cópia tem $unstable$.</string>
+        <string lang="zh-tw">回合開始時，製造一個自己的複製品。$p$複製品具有$unstable$。</string>
+        <string lang="uk">На початку ходу створює копію себе.$p$Копія має $unstable$.</string>
+</set>
 <set id="description-module-factoryauto-merger" remarks="Take 'Merger' from string name-module-merger">
 		<string lang="de">Stellt zu Beginn des Zuges einen universellen $b$Verbinder$/b$ mit $cracked$ und $crust$ her.</string>
 		<string lang="en">On beginning of turn, constructs a universal $b$Merger$/b$ with $cracked$ and $crust$.</string>
@@ -2109,6 +2122,19 @@
 		<string lang="zh-tw">合流器工廠$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Фабрика обʼєднувачів $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-factoryauto-factoryauto">
+        <string lang="de">Selbstreplizierende $nobr$Auto-Fabrik$/nobr$</string>
+        <string lang="en">Self-Replicating $nobr$Auto Factory$/nobr$</string>
+        <string lang="fr">$nobr$Auto-Fabrique$/nobr$ Autoréplicante</string>
+        <string lang="zh">自我复制$nobr$自动工厂$/nobr$</string>
+        <string lang="jp">自己複製$nobr$自動工場$/nobr$</string>
+        <string lang="ru">Самовоспроизводящаяся $nobr$Автофабрика$/nobr$</string>
+        <string lang="es">$nobr$Auto-Fábrica$/nobr$ Autorreplicante</string>
+        <string lang="kr">자기 복제 $nobr$자동 공장$/nobr$</string>
+        <string lang="pt-br">$nobr$Auto Fábrica$/nobr$ Autorreplicante</string>
+        <string lang="zh-tw">自我複製$nobr$自動工廠$/nobr$</string>
+        <string lang="uk">Самовідтворювана $nobr$Автофабрика$/nobr$</string>
 </set>
 <set id="name-module-factoryauto-merger" remarks="take Merger string from name-module-merger">
 		<string lang="de">Auto-Fabrik: Verbinder</string>
