@@ -433,6 +433,19 @@
         <string lang="zh-tw">回合開始時，製造一個$cracked$的通用$b$加速藥劑 +1$/b$。</string>
         <string lang="uk">На початку ходу створює універсальне $b$Зілля Прискорення +1$/b$ з $cracked$.</string>
 </set>
+<set id="description-module-factoryauto-toggledbooster">
+        <string lang="de">Stellt zu Beginn des Zuges eine $b$Nitro-Flasche mit Schalter$/b$ mit $cracked$ her.</string>
+		<string lang="en">On beginning of turn, constructs a $b$Toggled Nitrous Bottle$/b$ with $cracked$.</string>
+        <string lang="fr">Au début du tour, construit une $b$Bouteille de Nitro avec Interrupteur$/b$ avec $cracked$.</string>
+        <string lang="zh">回合开始时，制造一个$cracked$的$b$带开关的笑气瓶$/b$。</string>
+        <string lang="jp">ターン開始時、$cracked$付与された$br$$b$トグル付きナイトロボトル$/b$を製造。</string>
+        <string lang="ru">В начале хода создает $b$Баллон Нитро с Переключателем$/b$ с $cracked$.</string>
+        <string lang="es">Al comienzo del turno, construye una $b$Botella de Nitro con Interruptor$/b$ con $cracked$.</string>
+        <string lang="kr">턴 시작 시 $cracked$ 상태의 $b$토글이 있는 나이트로스 병$/b$을 조립합니다.</string>
+        <string lang="pt-br">No início do turno, constrói uma $b$Garrafa de Nitro com Interruptor$/b$ com $cracked$.</string>
+        <string lang="zh-tw">回合開始時，製造一個$cracked$的$b$帶開關的笑氣瓶$/b$。</string>
+        <string lang="uk">На початку ходу створює $b$Балон Нітро з Перемикачем$/b$ з $cracked$.</string>
+</set>
 <set id="description-module-factoryblaster">
 		<string lang="de">Stellt einen universellen $b$Blaster$/b$$br$mit $cracked$ her.</string>
 		<string lang="en">Constructs a universal$br$$b$Blaster$/b$ with $cracked$.</string>
@@ -2122,6 +2135,19 @@
         <string lang="pt-br">Auto Fábrica: Poção de Aceleração +1</string>
         <string lang="zh-tw">自動工廠：加速藥水 +1</string>
         <string lang="uk">Автофабрика: Зілля Прискорення +1</string>
+</set>
+<set id="name-module-factoryauto-toggledbooster" remarks="take translation from name-module-toggledpassthroughbooster">
+        <string lang="de">Auto-Fabrik: Nitro-Flasche</string>
+        <string lang="en">Auto Factory: Nitrous Bottle</string>
+        <string lang="fr">Auto-Fabrique : Bouteille de Nitro</string>
+        <string lang="zh">自动工厂：氮气瓶</string>
+        <string lang="jp">自動工場：亜酸化窒素ボトル</string>
+        <string lang="ru">Автофабрика: Баллон с Нитро</string>
+        <string lang="es">Auto Fábrica: Garrafa de Nitro</string>
+        <string lang="kr">자동 공장: 나이트로스 병</string>
+        <string lang="pt-br">Auto Fábrica: Garrafa de Nitro</string>
+        <string lang="zh-tw">自動工廠：氮氣瓶</string>
+        <string lang="uk">Автофабрика: Балон Нітро</string>
 </set>
 <set id="name-module-factorymodifier">
 		<string lang="de">Verstärker-Fabrik $MODIFICATIONVALUE$</string>
