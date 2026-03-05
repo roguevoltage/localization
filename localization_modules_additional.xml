@@ -168,6 +168,19 @@
         <string lang="zh-tw">每當一個$crust$被移除，產生$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли видаляється $crust$.</string>
 </set>
+<set id="description-module-collectorgenerator-nemesis">
+        <string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $generator$ auf einem Spieler-Rack aktiviert wird.</string>
+        <string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $generator$ is activated on a player rack.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $generator$ est activé sur un rack de joueur.</string>
+        <string lang="zh">每当玩家机架上的$generator$被激活时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">プレイヤーラックで$generator$が起動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $generator$ активируется на стойке игрока.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se activa un $generator$ en un rack de jugador.</string>
+        <string lang="kr">플레이어 랙에서 $generator$가 활성화될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um $generator$ é ativado em um rack de jogador.</string>
+        <string lang="zh-tw">每當玩家機架上的$generator$被激活時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $generator$ активується на стійці игрока.</string>        
+</set>
 <set id="description-module-collectorgravneg">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Charakter $grav-$ erhält.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $grav-$ is applied to a player character.</string>
@@ -1789,6 +1802,19 @@
 		<string lang="pt-br">Sensor de Crosta $MODIFICATIONVALUE$</string>
 		<string lang="zh-tw">晶殼感測器$MODIFICATIONVALUE$</string>
 		<string lang="uk">Сенсор кристалізації $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectorgenerator-nemesis">
+		<string lang="de">Generator-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Generator Sensor $MODIFICATIONVALUE$</string>
+        <string lang="fr">Capteur de Générateur $MODIFICATIONVALUE$</string>
+        <string lang="zh">发电机传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">ジェネレーターセンサー$MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Генератора $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Generador $MODIFICATIONVALUE$</string>
+        <string lang="kr">발전기 감지기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Gerador $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">發電機感測器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Сенсор генератора $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorgravneg">
 		<string lang="de">Grav.-Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
