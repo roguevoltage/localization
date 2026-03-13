@@ -1201,19 +1201,6 @@
         <string lang="zh-tw">若本回合角色沒有造成任何$damage$，則充電$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="uk">Заряджається на $b$$SENSORVALUE$$/b$ $energy$ після ходу, якщо персонаж не завдав $damage$ у цьому ході.</string>
 </set>
-<set id="description-module-storagecellproximity">
-	<string lang="de">Wird zu Beginn des Zuges um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn ein anderer Kampfteilnehmer auf dem gleichen Zeitschritt wie der Charakter ist.</string>
-	<string lang="en">At the beginning of turn, is charged with $b$$SENSORVALUE$$/b$ $energy$ if there is another combatant on the same time step as the owner.</string>	
-	<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ au début du tour, s'il y a un autre combattant sur la même étape de temps que le propriétaire.</string>
-	<string lang="zh">在拥有者的回合开始时，如果有另一个战斗者在与拥有者相同的时间步骤上，则充电 $b$$SENSORVALUE$$/b$ $energy$。</string>
-	<string lang="jp">オーナーのターンの開始時に、他の戦闘者が所有者と同じ時間ステップにいる場合、$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
-	<string lang="ru">В начале хода владельца заряжается на $b$$SENSORVALUE$$/b$ $energy$, если на том же временном шаге, что и владелец, находится другой боец.</string>
-	<string lang="es">Al comienzo del turno, se carga con $b$$SENSORVALUE$$/b$ $energy$ si hay otro combatiente en el mismo paso de tiempo que el propietario.</string>
-	<string lang="kr">소유자의 차례가 시작될 때, 소유자와 동일한 시간 단계에 다른 전투원이 있으면 $b$$SENSORVALUE$$/b$ $energy$로 충전됩니다.</string>
-	<string lang="pt-br">No início do turno do dono, é carregado com $b$$SENSORVALUE$$/b$ $energy$ se houver outro combatente no mesmo passo de tempo que o dono.</string>
-	<string lang="zh-tw">在擁有者的回合開始時，如果有另一個戰鬥者在與擁有者相同的時間步驟上，則充電$b$$SENSORVALUE$$/b$$energy$。</string>
-	<string lang="uk">На початку ходу власника заряджається на $b$$SENSORVALUE$$/b$ $energy$, якщо на тому ж часовому кроці, що і власник, знаходиться інший боєць.</string>
-</set>
 <set id="description-module-storagecellsensordissipation">
 	<string lang="de">Wird um $b$$SENSORVALUE$$/b$ $energy$ geladen, jedes Mal wenn $energy$ von einem $sensor$-Modul verfliegt.</string>
 	<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ dissipates from a $sensor$ module.</string>
@@ -1344,6 +1331,32 @@
 		<string lang="pt-br">Aplica $replicating$ e $unstable$ a outro módulo alvo neste rack com $cracked$.</string>
 		<string lang="zh-tw">選擇同模架上另一$cracked$模組，賦予其$replicating$及$unstable$狀態。</string>
 		<string lang="uk">Інший вказаний $cracked$ модуль на цій стійці отримає $replicating$ і $unstable$.</string>
+</set>
+<set id="description-module-toggledgravamplification">
+		<string lang="de">Verleiht einem Kampfteilnehmer deiner Wahl $gravamplification$.$p$(Dauer: 6 Zeitschritte)</string>
+		<string lang="en">Applies $gravamplification$$br$to target combatant.$p$(Duration: 6 time steps)</string>
+		<string lang="fr">Applique $gravamplification$ à un combattant ciblé.$p$(Durée : 6 étapes de temps)</string>
+		<string lang="zh">给予目标参战单位$gravamplification$。$p$(持续时间：6个时间步)</string>
+		<string lang="jp">対象の戦闘員に$gravamplification$を付与。$p$(持続時間：6タイムステップ)</string>
+		<string lang="ru">Применяет $gravamplification$ к целевому бойцу.$p$(Длительность: 6 временных шагов)</string>
+		<string lang="es">Aplica $gravamplification$ a un combatiente objetivo.$p$(Duración: 6 pasos de tiempo)</string>
+		<string lang="kr">대상 전투원에게 $gravamplification$를 부여합니다.$p$(지속 시간: 6 타임스텝)</string>
+		<string lang="pt-br">Aplica $gravamplification$ a um combatente alvo.$p$(Duração: 6 passos de tempo)</string>
+		<string lang="zh-tw">給予目標參戰單位$gravamplification$。$p$(持續時間：6個時間步)</string>
+		<string lang="uk">Накладає $gravamplification$ на вказаного бійця.$p$(Тривалість: 6 кроків часу)</string>
+</set>
+<set id="description-module-toggledgravimmunity">
+		<string lang="de">Verleiht einem Kampfteilnehmer deiner Wahl $gravimmunity$.$p$(Dauer: 6 Zeitschritte)</string>
+		<string lang="en">Applies $gravimmunity$$br$to target combatant.$p$(Duration: 6 time steps)</string>
+		<string lang="fr">Applique $gravimmunity$ à un combattant ciblé.$p$(Durée : 6 étapes de temps)</string>
+		<string lang="zh">给予目标参战单位$gravimmunity$。$p$(持续时间：6个时间步)</string>
+		<string lang="jp">対象の戦闘員に$gravimmunity$を付与。$p$(持続時間：6タイムステップ)</string>
+		<string lang="ru">Применяет $gravimmunity$ к целевому бойцу.$p$(Длительность: 6 временных шагов)</string>
+		<string lang="es">Aplica $gravimmunity$ a un combatiente objetivo.$p$(Duración: 6 pasos de tiempo)</string>
+		<string lang="kr">대상 전투원에게 $gravimmunity$를 부여합니다.$p$(지속 시간: 6 타임스텝)</string>
+		<string lang="pt-br">Aplica $gravimmunity$ a um combatente alvo.$p$(Duração: 6 passos de tempo)</string>
+		<string lang="zh-tw">給予目標參戰單位$gravimmunity$。$p$(持續時間：6個時間步)</string>
+		<string lang="uk">Накладає $gravimmunity$ на вказаного бійця.$p$(Тривалість: 6 кроків часу)</string>
 </set>
 <set id="description-module-toggledgravequalizer">
 		<string lang="de">Ruft das $gravequilibrium$ direkt nach dem Zug des Besitzers herbei.</string>
@@ -2816,19 +2829,6 @@
 	<string lang="zh-tw">和平電池 $MODIFICATIONVALUE$</string>
 	<string lang="uk">Мирна клітина $MODIFICATIONVALUE$</string>
 </set>
-<set id="name-module-storagecellproximity">
-	<string lang="de">Näherungszelle $MODIFICATIONVALUE$</string>
-	<string lang="en">Proximity Cell $MODIFICATIONVALUE$</string>
-	<string lang="fr">Cellule de Proximité $MODIFICATIONVALUE$</string>
-    <string lang="zh">接近电池 $MODIFICATIONVALUE$</string>
-    <string lang="jp">近接セル $MODIFICATIONVALUE$</string>
-    <string lang="ru">Близнецовая Ячейка $MODIFICATIONVALUE$</string>
-    <string lang="es">Célula de Proximidad $MODIFICATIONVALUE$</string>
-    <string lang="kr">근접 셀 $MODIFICATIONVALUE$</string>
-    <string lang="pt-br">Célula de Proximidade $MODIFICATIONVALUE$</string>
-	<string lang="zh-tw">接近電池 $MODIFICATIONVALUE$</string>
-	<string lang="uk">Комірка сусідства $MODIFICATIONVALUE$</string>
-</set>
 <set id="name-module-storagecellsensordissipation">
 	<string lang="de">Verflüchtigungszelle $MODIFICATIONVALUE$</string>
 	<string lang="en">Dissipation Cell $MODIFICATIONVALUE$</string>
@@ -2957,6 +2957,32 @@
         <string lang="pt-br">Replicador</string>
         <string lang="zh-tw">複製器</string>
         <string lang="uk">Реплікатор</string>
+</set>
+<set id="name-module-toggledgravamplification">
+		<string lang="de">Grav.-Impfung</string>
+		<string lang="en">Grav. Suppressor</string>
+		<string lang="fr">Vaccin Grav.</string>
+		<string lang="zh">引力疫苗</string>
+		<string lang="jp">重力ワクチン</string>
+		<string lang="ru">Грав. Вакцина</string>
+		<string lang="es">Vacuna Grav.</string>
+		<string lang="kr">중력 백신</string>
+		<string lang="pt-br">Vacina Grav.</string>
+		<string lang="zh-tw">引力疫苗</string>
+		<string lang="uk">Грав. Вакцина</string>
+</set>
+<set id="name-module-toggledgravimmunity">
+		<string lang="de">Grav.-Serum</string>
+		<string lang="en">Grav. Serum</string>
+		<string lang="fr">Sérum Grav.</string>
+		<string lang="zh">引力血清</string>
+		<string lang="jp">重力セラム</string>
+		<string lang="ru">Грав. Сыворотка</string>
+		<string lang="es">Suero Grav.</string>
+		<string lang="kr">중력 혈청</string>
+		<string lang="pt-br">Soro Grav.</string>
+		<string lang="zh-tw">引力血清</string>
+		<string lang="uk">Грав. Сироватка</string>
 </set>
 <set id="name-module-toggledgravinverter">
 		<string lang="de">Grav.-Inverter</string>
