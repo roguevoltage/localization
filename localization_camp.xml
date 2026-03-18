@@ -116,6 +116,45 @@
         <string lang="zh-tw">解鎖最終挑戰</string>
         <string lang="uk">Розблоковує фінальний виклик</string>
 </set>
+<set id="description-campstructure-rocket-level1">
+        <string lang="de">Schalte das Camp vollständig frei</string>
+	<string lang="en">Fully unlock the camp</string>
+        <string lang="fr">Débloquez complètement le camp</string>
+        <string lang="zh">完全解锁营地</string>
+        <string lang="jp">キャンプを完全にアンロック</string>
+        <string lang="ru">Полностью разблокируйте лагерь</string>
+        <string lang="es">Desbloquea completamente el campamento</string>
+        <string lang="kr">캠프를 완전히 잠금 해제하세요</string>
+        <string lang="pt-br">Desbloqueia completamente o acampamento</string>
+        <string lang="zh-tw">完全解鎖營地</string>
+        <string lang="uk">Повністю розблокувати табір</string>
+</set>
+<set id="description-campstructure-rocket-level2">
+        <string lang="de">Gewinne einen Run mit allen 11 Charakteren auf Schwierigkeitsstufe Normal oder höher</string>
+	<string lang="en">Win a run with all 11 characters on Normal difficulty or higher</string>
+        <string lang="fr">Gagnez une partie avec tous les 11 personnages en difficulté normale ou supérieure</string>
+        <string lang="zh">使用所有11个角色在普通难度或更高难度下赢得一次游戏</string>
+        <string lang="jp">全11キャラクターでノーマル以上の難易度でランをクリア</string>
+        <string lang="ru">Выиграйте забег всеми 11 персонажами на сложности Нормальный или выше</string>
+        <string lang="es">Gana una partida con los 11 personajes en dificultad Normal o superior</string>
+        <string lang="kr">모든 11 캐릭터로 노멀 난이도 이상에서 한 번의 게임을 승리하세요</string>
+        <string lang="pt-br">Ganhe uma partida com os 11 personagens na dificuldade Normal ou superior</string>
+        <string lang="zh-tw">使用所有11個角色在普通難度或更高難度下贏得一次遊戲</string>
+        <string lang="uk">Виграйте забіг всіма 11 персонажами на складності Нормальний або вище</string>
+</set>
+<set id="description-campstructure-ruins">
+        <string lang="de">Nur ein Haufen Metallschrott</string>
+	<string lang="en">Just a bunch of heavy duty junk</string>
+        <string lang="fr">Juste un tas de ferraille robuste</string>
+        <string lang="zh">只是一些重型垃圾</string>
+        <string lang="jp">ただの重いジャンクの山</string>
+        <string lang="ru">Просто куча тяжелого мусора</string>
+        <string lang="es">Solo un montón de chatarra resistente</string>
+        <string lang="kr">그저 무거운 고철 더미일 뿐입니다</string>
+        <string lang="pt-br">Apenas um monte de sucata resistente</string>
+        <string lang="zh-tw">只是一些重型垃圾</string>
+        <string lang="uk">Просто куча важкого сміття</string>
+</set>
 <set id="description-campstructure-hangar">
 		<string lang="de">Bau deinen eigenen Charakter</string>
 		<string lang="en">Build your own character</string>
@@ -649,6 +688,19 @@
         <string lang="zh-tw">火箭基地</string>
         <string lang="uk">Ракетна база</string>
 </set>
+<set id="name-campstructure-ruins">
+        <string lang="de">Gerüst</string>
+        <string lang="en">Scaffolding</string>
+        <string lang="fr">Échafaudage</string>
+        <string lang="zh">脚手架</string>
+        <string lang="jp">足場</string>
+        <string lang="ru">Строительные леса</string>
+        <string lang="es">Andamios</string>
+        <string lang="kr">비계</string>
+        <string lang="pt-br">Andaimes</string>
+        <string lang="zh-tw">腳手架</string>
+        <string lang="uk">Будівельні ліс</string>
+</set>
 <set id="name-campstructure-scrapyard">
 		<string lang="de">Schrotthalde</string>
 		<string lang="en">Scrapyard</string>
@@ -783,7 +835,7 @@
         <string lang="de">“Unsere einzige Chance, aus dieser zusammenbrechenden Zeitlinie zu evakuieren”</string>
         <string lang="en">“Our only chance to evacuate from this collapsing timeline”</string>
         <string lang="fr">“Notre seule chance d'évacuer de cette ligne temporelle en train de s'effondrer”</string>
-        <string lang="zh">“我们从这个崩溃的时间线中撤离的唯一机会”</string>
+        <string lang="zh">我们从这个崩溃的时间线中撤离的唯一机会</string>
         <string lang="jp">“この崩壊するタイムラインから脱出する唯一のチャンス”</string>
         <string lang="ru">“Наш единственный шанс эвакуироваться из этой рушащейся временной линии”</string>
         <string lang="es">“Nuestra única oportunidad para evacuar de esta línea de tiempo colapsando”</string>
@@ -791,6 +843,19 @@
         <string lang="pt-br">“Nossa única chance de evacuar desta linha do tempo em colapso”</string>
         <string lang="zh-tw">“我們從這個崩潰的時間線中撤離的唯一機會”</string>
         <string lang="uk">“Наш єдиний шанс евакуюватися з цієї руйнівної часової лінії”</string>
+</set>
+<set id="quote-campstructure-ruins">
+        <string lang="de">“Opa hat uns nie erzählt, was das hier sein sollte”</string>
+        <string lang="en">“Grandpa never told us what this one should have been”</string>
+        <string lang="fr">“Grand-père ne nous a jamais dit ce que cela aurait dû être”</string>
+        <string lang="zh">爷爷从来没有告诉我们这应该是什么</string>
+        <string lang="jp">“爺ちゃんはこれが何であるべきかを私たちに教えてくれませんでした”</string>
+        <string lang="ru">“Дедушка никогда не говорил нам, что это должно было быть”</string>
+        <string lang="es">“El abuelo nunca nos dijo lo que esto debería haber sido”</string>
+        <string lang="kr">“할아버지는 이것이 무엇이었어야 하는지 우리에게 말하지 않으셨어요”</string>
+        <string lang="pt-br">“O vovô nunca nos contou o que isso deveria ter sido”</string>
+        <string lang="zh-tw">“爺爺從來沒有告訴我們這應該是什麼”</string>
+        <string lang="uk">“Дідусь ніколи не розповідав нам, що це должно было быть”</string>
 </set>
 <set id="quote-campstructure-beacon">
 	    <string lang="de">“Unsere einzige Möglichkeit, andere Überlebende zu kontaktieren</string>
