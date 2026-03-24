@@ -585,31 +585,57 @@
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為連接的模組施加$br$$overload$直到回合結束。</string>
         <string lang="uk">Генерує $b$$GENERATIONVALUE$$/b$ $energy$ під час активації.$p$Накладає на модуль, підключений до нього, $overload$ до кінця ходу.</string>
 </set>
+<set id="description-module-magnetcrust">
+		<string lang="de">Entfernt $crust$ und $icecrust$ von allen Modulen $nobr$auf diesem Rack$/nobr$ und erzeugt diese Menge an $energy$.</string>
+		<string lang="en">Removes $crust$ and $icecrust$ from all modules $nobr$on this rack$/nobr$ and generates that much $energy$.</string>
+		<string lang="fr">Retire $crust$ et $icecrust$ de tous les modules $nobr$sur ce rack$/nobr$ et génère autant de $energy$.</string>
+		<string lang="zh">从这个模架上的所有模块上移除$crust$和$icecrust$并生成同等数量的$energy$。</string>
+		<string lang="jp">このラックのすべてのモジュールから$crust$と$icecrust$を取り除き、その分の$energy$を生成します。</string>
+		<string lang="ru">Удаляет $crust$ и $icecrust$ у всех модулей на этом стойке и генерирует столько же $energy$.</string>
+		<string lang="es">Elimina $crust$ e $icecrust$ de todos los módulos $nobr$en este bastidor$/nobr$ y genera esa cantidad de $energy$.</string>
+		<string lang="kr">모든 모듈에서 $crust$와 $icecrust$를 제거하고 그만큼의 $energy$를 생성합니다.</string>
+		<string lang="pt-br">Remove $crust$ e $icecrust$ de todos os módulos $nobr$neste rack$/nobr$ e gera essa quantidade de $energy$.</string>
+		<string lang="zh-tw">從這個模架上的所有模組上移除$crust$和$icecrust$並生成同等數量的$energy$。</string>
+		<string lang="uk">Забирає $crust$ та $icecrust$ у всіх модулів на цьому стійці $nobr$і генерує стільки ж $energy$$/nobr$.</string>
+</set>
 <set id="description-module-magnetgravpos">
-		<string lang="de">Nimmt $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
-		<string lang="en">Picks up $grav+$ from $b$another$/b$ combatant as $energy$.</string>
-		<string lang="fr">Prend $grav+$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-		<string lang="zh">吸取$b$另一$/b$参战单位的$grav+$$br$并转化为$energy$。</string>
-		<string lang="jp">$b$別$/b$の敵味方から$grav+$を$energy$として吸収。</string>
-		<string lang="ru">Забирает $grav+$ у $b$другого$/b$ бойца в качестве $energy$.</string>
-		<string lang="es">Recoge $grav+$ de $b$otro$/b$ combatiente como $energy$.</string>
-		<string lang="kr">$b$다른$/b$ 전투원에게서 $grav+$를 추출해 $energy$로 만듭니다.</string>
-		<string lang="pt-br">Pega $grav+$ de $b$outro$/b$ combatente como $energy$.</string>
-		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav+$並轉化為$energy$。</string>
-		<string lang="uk">Забирає $grav+$ у $b$іншого$/b$ учасника бою та перетворює на $energyicon$$b$Енергію$/b$.</string>
+		<string lang="de">Entfernt alle $grav+$ von einem $b$anderen$/b$ Kampfteilnehmer und erzeugt diese Menge an $energy$.</string>
+		<string lang="en">Removes all $grav+$ from $b$another$/b$ combatant and generates that much $energy$.</string>
+		<string lang="fr">Retire tous les $grav+$ d'un $b$autre$/b$ combattant et génère autant de $energy$.</string>
+		<string lang="zh">从另一个战斗参与者那里移除所有$grav+$并生成同等数量的$energy$。</string>
+		<string lang="jp">$b$別の$/b$戦闘参加者からすべての$grav+$を取り除き、その分の$energy$を生成します。</string>
+		<string lang="ru">Удаляет все $grav+$ у $b$другого$/b$ бойца и генерирует столько же $energy$.</string>
+		<string lang="es">Elimina todos los $grav+$ de otro combatiente y genera esa cantidad de $energy$.</string>
+		<string lang="kr">다른 전투원에서 모든 $grav+$를 제거하고 그만큼의 $energy$를 생성합니다.</string>
+		<string lang="pt-br">Remove todos os $grav+$ de outro combatente e gera essa quantidade de $energy$.</string>
+		<string lang="zh-tw">從另一個戰鬥參與者那裡移除所有$grav+$並生成同等數量的$energy$。</string>
+		<string lang="uk">Забирає всі $grav+$ у $b$іншого$/b$ бійця і генерує стільки ж $energy$.</string>
+</set>
+<set id="description-module-magnetgravneg">
+		<string lang="de">Entfernt alle $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer und erzeugt diese Menge an $energy$.</string>
+		<string lang="en">Removes all $grav-$ from $b$another$/b$ combatant and generates that much $energy$.</string>
+		<string lang="fr">Retire tous les $grav-$ d'un $b$autre$/b$ combattant et génère autant de $energy$.</string>
+		<string lang="zh">从另一个战斗参与者那里移除所有$grav-$并生成同等数量的$energy$。</string>
+		<string lang="jp">$b$別の$/b$戦闘参加者からすべての$grav-$を取り除き、その分の$energy$を生成します。</string>
+		<string lang="ru">Удаляет все $grav-$ у $b$другого$/b$ бойца и генерирует столько же $energy$.</string>
+		<string lang="es">Elimina todos los $grav-$ de otro combatiente y genera esa cantidad de $energy$.</string>
+		<string lang="kr">다른 전투원에서 모든 $grav-$를 제거하고 그만큼의 $energy$를 생성합니다.</string>
+		<string lang="pt-br">Remove todos os $grav-$ de outro combatente e gera essa quantidade de $energy$.</string>
+		<string lang="zh-tw">從另一個戰鬥參與者那裡移除所有$grav-$並生成同等數量的$energy$。</string>
+		<string lang="uk">Забирає всі $grav-$ у $b$іншого$/b$ бійця і генерує стільки ж $energy$.</string>
 </set>
 <set id="description-module-magnetstorage">
-		<string lang="de">Nimmt $1energy$ von allen $storage$ Modulen $nobr$auf diesem Rack$/nobr$ ab.</string>
-		<string lang="en">Picks up $1energy$ from all $storage$ modules $nobr$on this rack$/nobr$.</string>
-		<string lang="fr">Prend $1energy$ de tous les modules $storage$ $nobr$sur ce rack$/nobr$.</string>
-		<string lang="zh">从这个模架上所有$storage$模块$nobr$吸取$1energy$$nobr$。</string>
-		<string lang="jp">このラックのすべての$storage$モジュールから$nobr$$1energy$$nobr$吸収。</string>
-		<string lang="ru">Забирает $1energy$ у всех $storage$ модулей $nobr$на этом стойке$/nobr$.</string>
-		<string lang="es">Recoge $1energy$ de todos los módulos $storage$ $nobr$en este rack$/nobr$.</string>
-		<string lang="kr">이 랙의 모든 $storage$ 모듈에서 $1energy$를 추출합니다.</string>
-		<string lang="pt-br">Pega $1energy$ de todos os módulos $storage$ $nobr$neste rack$/nobr$.</string>
-		<string lang="zh-tw">從這個模架上所有$storage$模組$nobr$吸取$1energy$$nobr$。</string>
-		<string lang="uk">Забирає $1energy$ у всіх $storage$ модулів $nobr$на цьому стійці$/nobr$.</string>
+		<string lang="de">Entfernt $1energy$ von allen $storage$ Modulen $nobr$auf diesem Rack$/nobr$ und erzeugt diese Menge an $energy$.</string>
+		<string lang="en">Removes $1energy$ from all $storage$ modules $nobr$on this rack$/nobr$ and generates that much $energy$.</string>
+		<string lang="fr">Retire $1energy$ de tous les modules $storage$ $nobr$sur ce rack$/nobr$ et génère autant de $energy$.</string>
+		<string lang="zh">从这个模架上的所有$storage$模块上移除$1energy$并生成同等数量的$energy$。</string>
+		<string lang="jp">このラックのすべての$storage$モジュールから$1energy$を取り除き、その分の$energy$を生成します。</string>
+		<string lang="ru">Удаляет $1energy$ у всех $storage$ модулей на этом стойке и генерирует столько же $energy$.</string>
+		<string lang="es">Elimina $1energy$ de todos los módulos $storage$ en este bastidor y genera esa cantidad de $energy$.</string>
+		<string lang="kr">이 랙의 모든 $storage$ 모듈에서 $1energy$를 제거하고 그만큼의 $energy$를 생성합니다.</string>
+		<string lang="pt-br">Remove $1energy$ de todos os módulos $storage$ neste rack e gera essa quantidade de $energy$.</string>
+		<string lang="zh-tw">從這個模架上的所有$storage$模組上移除$1energy$並生成同等數量的$energy$。</string>
+		<string lang="uk">Забирає $1energy$ у всіх $storage$ модулів на цьому стійці і генерує стільки ж $energy$.</string>
 </set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
@@ -1921,6 +1947,19 @@
 		<string lang="zh-tw">超載發生器
 </string>
 		<string lang="uk">Перевантажений генератор</string>
+</set>
+<set id="name-module-magnetcrust">
+		<string lang="de">Krusten-Magnet</string>
+		<string lang="en">Crust Magnet</string>
+		<string lang="fr">Aimant de Croute</string>
+		<string lang="zh">晶壳磁铁</string>
+		<string lang="jp">結晶磁石</string>
+		<string lang="ru">Кора-Магнит</string>
+		<string lang="es">Imán de Corteza</string>
+		<string lang="kr">크러스트 자석</string>
+		<string lang="pt-br">Ímã de Crosta</string>
+		<string lang="zh-tw">晶殼磁鐵</string>
+		<string lang="uk">Кора-магніт</string>
 </set>
 <set id="name-module-magnetgravpos">
 		<string lang="de">Grav.-Magnet $grav+icon$</string>

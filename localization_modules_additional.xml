@@ -733,19 +733,6 @@
 		<string lang="zh-tw">每當擁有者$br$遭到$storm$或$lightning$襲擊，$br$為其免除$1damage$，$br$同時避雷針產出$br$$b$$SENSORVALUE$$/b$$energy$，並獲得$cracked$和$volatile$。</string>
 		<string lang="uk">Коли власника бʼє $storm$ або $lightning$, Блискавичник відвертає $1damage$, генерує $b$ $SENSORVALUE$ $/b$ $energy$ і стає $cracked$ та $volatile$.</string>
 </set>
-<set id="description-module-magnetgravneg">
-		<string lang="de">Nimmt $grav-$ von einem $b$anderen$/b$ Kampfteilnehmer als $energy$ ab.</string>
-		<string lang="en">Picks up $grav-$ from $b$another$/b$ combatant as $energy$.</string>
-		<string lang="fr">Supprime $grav-$ d'un $b$autre$/b$ combattant comme $energy$.</string>
-		<string lang="zh">吸取$b$另一$/b$参战单位的$grav-$并转化为$energy$。</string>
-		<string lang="jp">$b$別の$/b$敵味方1体から$grav-$除去し$energy$発電。</string>
-		<string lang="ru">Подбирает $grav-$ у $b$другого$/b$ бойца как $energy$.</string>
-		<string lang="es">Recoge $grav-$ de $b$otro$/b$ combatiente como $energy$.</string>
-		<string lang="kr">$b$다른$/b$ 전투원에게서 $grav-$를 추출해 $energy$로 만듭니다.</string>
-		<string lang="pt-br">Pega $grav-$ de $b$outro$/b$ combatente como $energy$.</string>
-		<string lang="zh-tw">吸取$b$另一$/b$參戰單位的$grav-$並轉化為$energy$。</string>
-		<string lang="uk">Перетворює $grav-$ з $b$іншого$/b$ учасника бою на $energyicon$$b$Енергію$/b$.</string>
-</set>
 <set id="description-module-magnetmight">
 		<string lang="de">Nimmt $might$ von einem Kampfteilnehmer als $energy$ ab.</string>
 		<string lang="en">Picks up $might$ from a combatant as $energy$.</string>
@@ -1187,19 +1174,6 @@
         <string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $damage$ foi causado pelo personagem.</string>
         <string lang="zh-tw">若本回合角色沒有造成任何$damage$，則充電$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="uk">Заряджається на $b$$SENSORVALUE$$/b$ $energy$ після ходу, якщо персонаж не завдав $damage$ у цьому ході.</string>
-</set>
-<set id="description-module-storagecellsensordissipation">
-	<string lang="de">Wird um $b$$SENSORVALUE$$/b$ $energy$ geladen, jedes Mal wenn $energy$ von einem $sensor$-Modul verfliegt.</string>
-	<string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ whenever $energy$ dissipates from a $sensor$ module.</string>
-	<string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ chaque fois que $energy$ se dissipe d'un module $sensor$.</string>
-	<string lang="zh">每次$energy$从$sensor$模块消散时，$br$为其充电$b$$SENSORVALUE$$/b$$energy$。</string>
-	<string lang="jp">$sensor$モジュールから$energy$が消散するたびに、$br$$b$$SENSORVALUE$$/b$$energy$で充電。</string>
-	<string lang="ru">Заряжается на $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $energy$ исчезает из модуля $sensor$.</string>
-	<string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ cada vez que $energy$ se disipa de un módulo $sensor$.</string>
-	<string lang="kr">$sensor$ 모듈에서 $energy$가 사라질 때마다 $br$ $b$$SENSORVALUE$$/b$$energy$로 충전됩니다.</string>
-	<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ sempre que $energy$ se dissipa de um módulo $sensor$.</string>
-	<string lang="zh-tw">每次$energy$從$sensor$模組消散時，$br$為其充電$b$$SENSORVALUE$$/b$$energy$。</string>
-	<string lang="uk">Заряджається на $b$$SENSORVALUE$$/b$ $energy$ кожен раз, коли $energy$ зникає з модуля $sensor$.</string>
 </set>
 <set id="description-module-storagecellinductionexhaustion">
 	<string lang="de">Wird zu Beginn des Zuges um $1energy$ geladen.$p$Wendet $exhaustion$ in Höhe des gespeicherten $energy$ auf den anderen Charakter an.</string>
@@ -2802,19 +2776,6 @@
 	<string lang="pt-br">Célula Pacifista $MODIFICATIONVALUE$</string>
 	<string lang="zh-tw">和平電池 $MODIFICATIONVALUE$</string>
 	<string lang="uk">Мирна клітина $MODIFICATIONVALUE$</string>
-</set>
-<set id="name-module-storagecellsensordissipation">
-	<string lang="de">Verflüchtigungszelle $MODIFICATIONVALUE$</string>
-	<string lang="en">Dissipation Cell $MODIFICATIONVALUE$</string>
-	<string lang="fr">Pile de Dissipation $MODIFICATIONVALUE$</string>
-	<string lang="zh">耗散单元 $MODIFICATIONVALUE$</string>
-	<string lang="jp">消散電池 $MODIFICATIONVALUE$</string>
-	<string lang="ru">Диссипационная Ячейка $MODIFICATIONVALUE$</string>
-	<string lang="es">Pila de Disipación $MODIFICATIONVALUE$</string>
-	<string lang="kr">소멸 전지 $MODIFICATIONVALUE$</string>
-	<string lang="pt-br">Célula de Dissipação $MODIFICATIONVALUE$</string>
-	<string lang="zh-tw">耗散單元 $MODIFICATIONVALUE$</string>
-	<string lang="uk">Дисипаційна клітина $MODIFICATIONVALUE$   </string>
 </set>
 <set id="name-module-storagecellinductionexhaustion" remarks="translate as Selfish Cell">
 	<string lang="de">Selbstsüchtige Zelle</string>
