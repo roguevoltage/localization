@@ -902,19 +902,6 @@
         <string lang="zh-tw">每當此模架上的模組被施加$boost$或$turbo$時，給擁有者施加$grav-1$。</string>
         <string lang="uk">Коли $boost$ або $turbo$ застосовуються до модуля на цій стійці, накладає $grav-1$ на власника.</string>
 </set>
-<set id="description-module-passivedurabilitysafeguarding">
-		<string lang="de">Module mit $malfunctioning$ oder $overload$ auf diesem Rack haben eine $b$50%ige Chance$/b$, bei Aktivierung nicht zerstört zu werden.</string>
-		<string lang="en">Modules with $malfunctioning$ or $overload$ on this rack have a $b$50% chance$/b$ of not becoming disabled on activation.</string>
-		<string lang="fr">Les modules avec $malfunctioning$ ou $overload$ sur ce rack ont une $b$50% chance$/b$ de ne pas être détruits lorsqu'ils sont activés.</string>
-		<string lang="zh">此模架上的$malfunctioning$与$overload$模块有$b$50%几率$/b$激活后不会失效。</string>
-		<string lang="jp">ラックの$malfunctioning$か$overload$が付与されているモジュールは、起動時$b$50%$/b$の確率で影響無効。</string>
-		<string lang="ru">Модули с $cracked$ на этом слоте имеют $b$50% шанс$/b$ не быть отключёнными при активации.</string>
-		<string lang="es">Los módulos con $cracked$ en este bastidor tienen una $b$50% de probabilidad$/b$ de no ser destruidos al activarse.</string>
-		<string lang="kr">$malfunctioning$나 $overload$ 상태인 이 랙의 모듈은 $b$50%의 확률$/b$로 활성화 시 망가지지 않습니다.</string>
-		<string lang="pt-br">Módulos com $cracked$ neste rack têm $b$50% de chance$/b$ de não serem destruídos quando ativados.</string>
-		<string lang="zh-tw">此模架上的$malfunctioning$與$overload$模組有$b$50%幾率$/b$啟動後不會失效。</string>
-		<string lang="uk">Модулі з $malfunctioning$ або $overload$ на цій стійці мають $b$шанс 50%$/b$ не вимкнутись після активації.</string>
-</set>
 <set id="description-module-passiveexhaustpipe">
 		<string lang="de">Immer wenn ein $generator$ auf diesem Rack aktiviert wird, wende $grav+1$ auf einen zufälligen Gegner an.</string>
 		<string lang="en">Whenever a $generator$ is activated on this rack, apply $grav+1$ to a random enemy.</string>
@@ -927,19 +914,6 @@
 		<string lang="pt-br">Sempre que um $generator$ for ativado neste rack, aplique $grav+1$ a um inimigo aleatório.</string>
 		<string lang="zh-tw">每當此模架上的$generator$被啟動時，對一個隨機敵人施加$grav+1$。</string>
 		<string lang="uk">Коли $generator$ на цій стійці активується, застосуйте $grav+1$ до випадкового ворога.</string>
-</set>
-<set id="description-module-passiveshockabsorber">
-		<string lang="de">Wenn ein Modul anderen Typs auf diesem Rack $outoforder$ erhalten sollte, erhält stattdessen dieses Modul $outoforder$.</string>
-		<string lang="en">Whenever a module of a different type on this rack should receive $outoforder$, this module receives $outoforder$ instead.</string>
-		<string lang="fr">Si un module d'un type différent sur ce rack devrait recevoir $outoforder$, ce module reçoit $outoforder$ à la place.</string>
-		<string lang="zh">此模架上的其他模块$outoforder$时，$br$改为由该模块代替其发生$outoforder$。</string>
-		<string lang="jp">ラックの別モジュールに$outoforder$付与されるなら、$br$代わりにこのモジュールに$outoforder$付与。</string>
-		<string lang="ru">Если другой модуль на этой стойке должен получить $outoforder$, этот модуль получает $outoforder$ вместо него.</string>
-		<string lang="es">Si un módulo de un tipo diferente en este bastidor fuese a recibir $outoforder$, este módulo recibe $outoforder$ en su lugar.</string>
-		<string lang="kr">이 랙의 다른 모듈에게 $outoforder$ 상태가 부여될 경우, 이 모듈이 대신 $outoforder$ 상태가 됩니다.</string>
-        <string lang="pt-br">Sempre que um módulo de um tipo diferente neste rack deveria receber $outoforder$, este módulo recebe $outoforder$ em vez disso.</string>
-		<string lang="zh-tw">此模架上的其他模組$outoforder$時，改為由該模組代替其發生$outoforder$。</string>
-		<string lang="uk">Якщо модуль на цій стійці має отримати $outoforder$, цей модуль отримує $outoforder$ замість нього.</string>
 </set>
 <set id="description-module-passivecooldownredirector">
         <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
@@ -2544,20 +2518,6 @@
         <string lang="zh-tw">冰碎片</string>
         <string lang="uk">Льодові Осколки</string>
 </set>
-<set id="name-module-passivedurabilitysafeguarding">
-		<string lang="de">Regulator</string>
-		<string lang="en">Regulator</string>
-		<string lang="fr">Régulateur</string>
-		<string lang="zh">调整器</string>
-		<string lang="jp">調整器</string>
-		<string lang="ru">регулятор</string>
-		<string lang="es">Regulador</string>
-		<string lang="kr">조정기</string>
-		<string lang="pt-br">Regulador</string>
-		<string lang="zh-tw">調整器
-</string>
-		<string lang="uk">Регулятор</string>
-</set>
 <set id="name-module-passiveexhaustpipe">
 		<string lang="de">Auspuffrohr</string>
 		<string lang="en">Exhaust Pipe</string>
@@ -2570,19 +2530,6 @@
 		<string lang="pt-br">Tubo de Escape</string>
 		<string lang="zh-tw">排氣管</string>
 		<string lang="uk">Вихлопна Труба</string>
-</set>
-<set id="name-module-passiveshockabsorber">
-		<string lang="de">Stoßdämpfer</string>
-		<string lang="en">Shock Absorber</string>
-		<string lang="fr">Absorbeur de Choc</string>
-		<string lang="zh">冲击吸收器</string>
-		<string lang="jp">緩衝器</string>
-		<string lang="ru">Амортизатор</string>
-		<string lang="es">Amortiguador de Choque</string>
-		<string lang="kr">충격 흡수기</string>
-		<string lang="pt-br">Absorvedor de Choque</string>
-		<string lang="zh-tw">衝擊吸收器</string>
-		<string lang="uk">Амортизатор</string>
 </set>
 <set id="name-module-passivecoffeemachine">
         <string lang="de">Kaffeekanne</string>
