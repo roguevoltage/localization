@@ -368,6 +368,19 @@
 		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav+1$。</string>
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає цільовому бійцю $grav+1$].</string>
 </set>
+<set id="description-module-effectormoduledebuff">
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Wende einen zufälligen Debuff von $pollution$, $cooldown$, $icecrust$ und $fire$ auf ein Spieler-Modul an.]</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply a random debuff from $pollution$, $cooldown$, $icecrust$ and $fire$ to a player module.]</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Applique un debuff aléatoire parmi $pollution$, $cooldown$, $icecrust$ et $fire$ à un module joueur.]</string>
+		<string lang="zh">模块每得到1$energy$供应，$br$对一个玩家模块施加一个随机的负面状态，可能是$pollution$、$cooldown$、$icecrust$或$fire$。</string>
+		<string lang="jp">このモジュールの$energy$ごとに、$br$プレイヤーモジュールに$pollution$、$cooldown$、$icecrust$、$fire$のいずれかのランダムなデバフを付与。</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Накладывает случайный дебафф из $pollution$, $cooldown$, $icecrust$ и $fire$ на модуль игрока.]</string>
+		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Aplica un debuff aleatorio de $pollution$, $cooldown$, $icecrust$ y $fire$ a un módulo jugador.]</string>
+		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[플레이어 모듈에 $pollution$, $cooldown$, $icecrust$, $fire$ 중 무작위 디버프를 적용합니다.]</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Aplica um debuff aleatório de $pollution$, $cooldown$, $icecrust$ e $fire$ a um módulo jogador.]</string>
+		<string lang="zh-tw">模組每得到1$energy$供應，$br$對一個玩家模組施加一個隨機的負面狀態，可能是$pollution$、$cooldown$、$icecrust$或$fire$。</string>
+		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає випадковий дебафф з $pollution$, $cooldown$, $icecrust$ та $fire$ на модуль гравця.]</string>
+</set>
 <set id="description-module-effectorgravimmunity">
 		<string lang="de">Versieht einen Kampfteilnehmer deiner Wahl mit $gravimmunity$.$p$(Dauer: $energy$×3)</string>
 		<string lang="en">Apply $gravimmunity$$br$to target combatant.$p$(Duration: $energy$×3).</string>
@@ -2064,6 +2077,20 @@
 		<string lang="zh-tw">地雷$MODIFICATIONVALUE$
 </string>
 		<string lang="uk">Міна $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectormoduledebuff" remarks="translate as Debuff Ray, double check with string name-module-effectorvulnerability">
+		<string lang="de">Debuff-Strahler $MODIFICATIONVALUE$</string>
+		<string lang="en">Debuff Ray $MODIFICATIONVALUE$</string>
+		<string lang="fr">Rayon de Debuff $MODIFICATIONVALUE$</string>
+		<string lang="zh">减益射线$MODIFICATIONVALUE$</string>
+		<string lang="jp">デバフ光線$MODIFICATIONVALUE$</string>
+		<string lang="ru">Луч Дебаффа $MODIFICATIONVALUE$</string>
+		<string lang="es">Rayo de Debuff $MODIFICATIONVALUE$</string>
+		<string lang="kr">디버프 광선 $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Raio de Debuff $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">減益射線$MODIFICATIONVALUE$</string>
+
+		<string lang="uk">Промінь Дебаффу $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-effectorrevitalizer">
 		<string lang="de">Revitalisator $MODIFICATIONVALUE$</string>
