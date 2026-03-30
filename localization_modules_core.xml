@@ -785,7 +785,7 @@
 		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
 		<string lang="fr">Applique $1healing$ au propriétaire au début de chaque combat.</string>
 		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
-		<string lang="jp">戦闘開始時、所有者を$1$$healing$。</string>
+		<string lang="jp">戦闘開始時、所有者を$1healing$。</string>
 		<string lang="ru">Применяет $1healing$ к владельцу в начале каждого боя.</string>
 		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada batalla.</string>
 		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
@@ -1097,8 +1097,8 @@
 		<string lang="de">Erhöht die Max. HP des Charakters dauerhaft um $1$ und wendet $2healing$ auf ihn/sie an.</string>
 		<string lang="en">Permanently increases the owner's max. HP by $1$ and applies $2healing$ to them.</string>
 		<string lang="fr">Augmente définitivement les PV max. du personnage de $1$ et lui applique $2healing$.</string>
-		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$1$点$healing$。</string>
-		<string lang="jp">キャラの最大HPを恒久的に$br$$1$増やし、$1$$healing$。</string>
+		<string lang="zh">令角色最大生命值永久提升$1$，并对其施加$2$点$healing$。</string>
+		<string lang="jp">キャラの最大HPを恒久的に$br$$1$増やし、$2healing$。</string>
 		<string lang="ru">Постоянно увеличивает макс. HP персонажа на $1$ и применяет $2healing$ к нему/ей.</string>
 		<string lang="es">Aumenta permanentemente los HP máximos del personaje en $1$ y aplica $2healing$ a él/ella.</string>
 		<string lang="kr">캐릭터의 최대 체력을 영구적으로 $1$ 증가시키고 $2healing$를 부여합니다.</string>
@@ -1332,7 +1332,7 @@
 		<string lang="en">Can be charged.$p$At the beginning of turn,$br$remove $1$ stored $energy$ to apply $1healing$ to the player character with the least HP.$p$&lt;size=11&gt;(Heals the owner if tied.)&lt;/size&gt;</string>
 		<string lang="fr">Peut être chargé.$p$Au début du tour, retirez $1$ énergie stockée pour appliquer $1healing$ au personnage avec le moins de PV.$p$&lt;size=11&gt;(Soigne le propriétaire en cas d'égalité.)&lt;/size&gt;</string>
 		<string lang="zh">可充能。$p$拥有者回合开始时，$br$消耗$1$储存$energy$，$br$让血量最低的角色获得$1healing$。$p$&lt;size=11&gt;(被控制时治疗自身)&lt;/size&gt;</string>
-		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$最もHPが低いプレイヤーキャラを$1$$healing$。$p$&lt;size=11&gt;（等しいなら所有者を回復）&lt;/size&gt;</string>
+		<string lang="jp">充電可能。$p$所有者のターン開始時、貯蔵$energy$から$1$消費し、$br$最もHPが低いプレイヤーキャラを$1healing$。$p$&lt;size=11&gt;（等しいなら所有者を回復）&lt;/size&gt;</string>
 		<string lang="ru">Может быть заряжен.$p$В начале хода владельца, удаляет $1$ сохраненную $energy$ чтобы применить $1healing$ к персонажу с наименьшим HP.$p$&lt;size=11&gt;(Лечит владельца при ничьей.)&lt;/size&gt;</string>
 		<string lang="es">Puede cargarse.$p$Al comienzo del turno, retira $1$ energía almacenada para aplicar $1healing$ al personaje con menos HP.$p$&lt;size=11&gt;(Cura al propietario en caso de empate.)&lt;/size&gt;</string>
 		<string lang="kr">충전할 수 있습니다.$p$소유자의 턴 시작 시, 저장된 $energy$를 $1$ 소비하여 HP가 가장 낮은 캐릭터에게 $1$ $healing$을 적용합니다.$p$&lt;size=11&gt;(무승부일 경우 소유자를 치료합니다.)&lt;/size&gt;</string>

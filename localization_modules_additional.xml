@@ -330,29 +330,29 @@
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає цільовому ворогу $1damage$].</string>
 </set>
 <set id="description-module-effectorbooster">
-    <string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Verleiht einem zufälligen $passthrough$-Modul $boost$ $br$auf diesem Rack]</string>
-	<string lang="en">For each point of $energy$$br$on this module:$br$[Applies $boost$ to a random $passthrough$ module $br$on this rack]</string>
-    <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $boost$ à un module $passthrough$ aléatoire $br$sur ce rack]</string>
-    <string lang="zh">模块每得到1$energy$供应，$br$对这个机架上的一个随机$passthrough$模块施加$boost$。</string>
-    <string lang="jp">このモジュールの$energy$ごとに、$br$このラックのランダムな$passthrough$モジュールに$boost$付与。</string>
-    <string lang="ru">За каждую $energy$ в этом модуле:$br$[Накладывает $boost$ на случайный $passthrough$ модуль $br$на этой стойке]</string>
-    <string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Aplica $boost$ a un módulo $passthrough$ aleatorio $br$en este bastidor]</string>
-    <string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$이 랙의 무작위 $passthrough$ 모듈에 $boost$를 적용합니다]</string>
-    <string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Aplica $boost$ a um módulo $passthrough$ aleatório $br$neste rack]</string>
-    <string lang="zh-tw">模組每得到1$energy$供應，$br$對這個機架上的一個隨機$passthrough$模組施加$boost$。</string>
-    <string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Накладає $boost$ на випадковий $passthrough$ модуль $br$на цій стійці]</string>
+    <string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Führe $randomboost$ durch]$p$$reminder-randomboost$</string>
+	<string lang="en">For each point of $energy$$br$on this module:$br$[Perform $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Effectuez $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="zh">此模块每有1点$energy$：$br$[执行 $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="jp">このモジュールの$energy$ごとに：$br$[$randomboost$ を実行]$p$$reminder-randomboost$</string>
+    <string lang="ru">За каждую $energy$ в этом модуле:$br$[Выполнить $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Realiza $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[무작위 부스트 수행 $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Execute $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="zh-tw">此模組每有1點$energy$：$br$[執行 $randomboost$]$p$$reminder-randomboost$</string>
+    <string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Выполнить $randomboost$]$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to target combatant].</string>
 		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
-		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav+1$。</string>
-		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav+1$付与。</string>
+		<string lang="zh">模块每得到1$energy$供应，对目标参战单位$br$施加一次$grav+1$。</string>
+		<string lang="jp">このモジュールの$energy$ごとに、対象の敵味方に$grav+1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
 		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Inflige a un combatiente objetivo con $grav+1$].</string>
 		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 전투원에게$br$$grav+1$를 부여합니다].</string>
 		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Inflige um combatente alvo com $grav+1$].</string>
-		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標參戰單位$br$施加一次$grav+1$。</string>
+		<string lang="zh-tw">模組每得到1$energy$供應，對目標參戰單位$br$施加一次$grav+1$。</string>
 		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Завдає цільовому бійцю $grav+1$].</string>
 </set>
 <set id="description-module-effectormoduledebuff">
