@@ -944,18 +944,18 @@
 </string>
 		<string lang="uk">Ранній доступ</string>
 </set>
-<set id="scope-extendeddemo">
-		<string lang="de">Erweiterte Demo</string>
-		<string lang="en">Extended Demo</string>
-		<string lang="fr">Démo Étendue</string>
-		<string lang="zh">扩展版试玩</string>
-		<string lang="jp">拡張デモ</string>
-		<string lang="ru">Расширенное Демо</string>
-		<string lang="es">Demo extendida</string>
-		<string lang="kr">데모 확장판</string>
-		<string lang="pt-br">Demo estendida</string>
-		<string lang="zh-tw">擴展版試玩</string>
-		<string lang="uk">Розширене Демо</string>
+<set id="scope-release">
+		<string lang="de">Version 1.0</string>
+		<string lang="en">1.0 Release</string>
+		<string lang="fr">Version 1.0</string>
+		<string lang="zh">正式版1.0</string>
+		<string lang="jp">リリース1.0</string>
+		<string lang="ru">Релиз 1.0</string>
+		<string lang="es">Lanzamiento 1.0</string>
+		<string lang="kr">정식 출시 1.0</string>
+		<string lang="pt-br">Lançamento 1.0</string>
+		<string lang="zh-tw">正式版1.0</string>
+		<string lang="uk">Реліз 1.0</string>
 </set>
 <set id="error-notpartofdemo">
 		<string lang="de">Nicht Teil der Demo</string>
@@ -996,6 +996,19 @@
 		<string lang="zh-tw">測試</string>
 		<string lang="uk">Тестування гри</string>
 </set>
+<set id="scope-beta">
+		<string lang="de">Beta Branch</string>
+		<string lang="en">Beta Branch</string>
+		<string lang="fr">Beta Branch</string>
+		<string lang="zh">Beta Branch</string>
+		<string lang="jp">Beta Branch</string>
+		<string lang="ru">Beta Branch</string>
+		<string lang="es">Beta Branch</string>
+		<string lang="kr">Beta Branch</string>
+		<string lang="pt-br">Beta Branch</string>
+		<string lang="zh-tw">Beta Branch</string>
+		<string lang="uk">Beta Branch</string>
+</set>
 <set id="scope-prototype">
 		<string lang="de">Prototyp</string>
 		<string lang="en">Prototype</string>
@@ -1006,8 +1019,7 @@
 		<string lang="es">Prototipo</string>
 		<string lang="kr">프로토타입</string>
 		<string lang="pt-br">Protótipo</string>
-		<string lang="zh-tw">雛形
-</string>
+		<string lang="zh-tw">雛形</string>
 		<string lang="uk">Прототип</string>
 </set>
 <set id="scope-version">
@@ -1738,6 +1750,19 @@
 		<string lang="zh-tw">加入我們：
 </string>
 		<string lang="uk">Заходь на вогник</string>
+</set>
+<set id="ui-roadmap">
+		<string lang="de">Entwicklungs-Roadmap</string>
+		<string lang="en">Development Roadmap</string>
+		<string lang="fr">Feuille de route de développement</string>
+		<string lang="zh">开发路线图</string>
+		<string lang="jp">開発ロードマップ</string>
+		<string lang="ru">План развития</string>
+		<string lang="es">Hoja de ruta de desarrollo</string>
+		<string lang="kr">개발 로드맵</string>
+		<string lang="pt-br">Roteiro de Desenvolvimento</string>
+		<string lang="zh-tw">開發路線圖</string>
+		<string lang="uk">Дорожня карта розробки</string>
 </set>
 <set id="ui-early-access-roadmap">
 		<string lang="de">Early Access Roadmap</string>
