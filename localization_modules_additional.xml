@@ -251,6 +251,19 @@
         <string lang="zh-tw">戰利品無法重投。</string>
         <string lang="uk">Добичу не можна перекидати.</string>
 </set>
+<set id="description-module-curse-gravamplification">
+		<string lang="de">Fügt zu Beginn des Kampfes allen Charakteren $gravamplification$ zu.$p$(Dauer: 12 Zeitschritte)</string>
+		<string lang="en">At the beginning of combat, apply $gravamplification$ to all combatants.$p$(Duration: 12 time steps)</string>
+		<string lang="fr">Au début du combat, inflige $gravamplification$ à tous les combattants.$p$(Durée : 12 étapes de temps)</string>
+		<string lang="zh">战斗开始时，对所有战斗人员施加$gravamplification$。$p$（持续时间：12个时间步）</string>
+		<string lang="jp">戦闘開始時、全ての戦闘員に$gravamplification$を付与します。$p$（持続時間：12タイムステップ）</string>
+		<string lang="ru">В начале боя наносит всем участникам $gravamplification$. $p$(Длительность: 12 временных шагов)</string>
+		<string lang="es">Al comienzo del combate, inflige $gravamplification$ a todos los combatientes.$p$(Duración: 12 pasos de tiempo)</string>
+		<string lang="kr">전투 시작 시 모든 전투원에게 $gravamplification$을 부여합니다. $p$(지속 시간: 12 타임 스텝)</string>
+		<string lang="pt-br">No início do combate, aplique $gravamplification$ a todos os combatentes.$p$(Duração: 12 passos de tempo)</string>
+		<string lang="zh-tw">戰鬥開始時，對所有戰鬥人員施加$gravamplification$。$p$（持續時間：12個時間步）</string>
+		<string lang="uk">На початку бою наносить всім учасникам $gravamplification$. $p$(Тривалість: 12 часових кроків)</string>
+</set>
 <set id="description-module-curse-accelenemy">
         <string lang="de">Fügt zu Beginn des Kampfes allen Gegnern $grav-1$ zu.</string>
 		<string lang="en">At the beginning of combat,$br$apply $grav-1$ to all enemies.</string>
@@ -1880,6 +1893,19 @@
         <string lang="pt-br">Dado Quebrado</string>
         <string lang="zh-tw">破碎骰子</string>
         <string lang="uk">Пошкоджений Кубик</string>
+</set>
+<set id="name-module-curse-gravamplification">
+		<string lang="de">Dichtes Grav.-Feld</string>
+		<string lang="en">Dense Grav. Field</string>
+		<string lang="fr">Champ Grav. Dense</string>
+		<string lang="zh">密集引力场</string>
+		<string lang="jp">密集重力場</string>
+		<string lang="ru">Плотное Грав. Поле</string>
+		<string lang="es">Campo Grav. Denso</string>
+		<string lang="kr">조밀한 중력장</string>
+		<string lang="pt-br">Campo Grav. Denso</string>
+		<string lang="zh-tw">密集引力場</string>
+		<string lang="uk">Густе Гравієве Поле</string>
 </set>
 <set id="name-module-curse-accelenemy" remarks="translate as Raptor Claw">
         <string lang="de">Raptorkralle</string>
