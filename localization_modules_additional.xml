@@ -64,6 +64,19 @@
         <string lang="zh-tw">每當你產生$plasma$，產生這麼多$plasma$再加$1$。</string>
         <string lang="uk">Кожен раз, коли ви створюєте $plasma$, створюйте стільки $plasma$ плюс $1$ замість цього.</string>
 </set>
+<set id="description-module-blessing-randomboost">
+		<string lang="de">Zu Beginn des Kampfes, wende $boost$ auf ein zufälliges $passthrough$-Modul an.</string>
+		<string lang="en">At the beginning of combat, apply $boost$ to a random $passthrough$ module.</string>
+		<string lang="fr">Au début du combat, appliquez $boost$ à un module $passthrough$ aléatoire.</string>
+		<string lang="zh">战斗开始时，对一个随机的$passthrough$模块施加$boost$。</string>
+		<string lang="jp">戦闘開始時、ランダムな$passthrough$モジュールに$boost$を付与します。</string>
+		<string lang="ru">В начале боя примените $boost$ к случайному $passthrough$ модулю.</string>
+		<string lang="es">Al comienzo del combate, aplica $boost$ a un módulo $passthrough$ aleatorio.</string>
+		<string lang="kr">전투 시작 시 무작위 $passthrough$ 모듈에 $boost$를 적용합니다.</string>
+		<string lang="pt-br">No início do combate, aplique $boost$ a um módulo $passthrough$ aleatório.</string>
+		<string lang="zh-tw">戰鬥開始時，對一個隨機的$passthrough$模組施加$boost$。</string>
+		<string lang="uk">На початку бою застосуйте $boost$ до випадкового модуля $passthrough$.</string>
+</set>
 <set id="description-module-blessing-universaljacks">
         <string lang="de">Am Anfang des ersten Kampfes, ändere die Farbe von Buchsen auf allen $loadout$-Modulen zu $b$universal$/b$.</string>
 		<string lang="en">On the beginning of the first battle, change the color of jacks on all $loadout$ modules to $b$universal$/b$.</string>
@@ -1685,6 +1698,19 @@
         <string lang="pt-br">Porquinho</string>
         <string lang="zh-tw">存錢罐</string>
         <string lang="uk">Копилка</string>
+</set>
+<set id="name-module-blessing-randomboost">
+        <string lang="de">Zündkerze</string>
+		<string lang="en">Spark Plug</string>
+		<string lang="fr">Bougie d'Allumage</string>
+		<string lang="zh">火花塞</string>
+		<string lang="jp">スパークプラグ</string>
+		<string lang="ru">Свеча зажигания</string>
+		<string lang="es">Bujía</string>
+		<string lang="kr">점화 플러그</string>
+		<string lang="pt-br">Vela de Ignição</string>
+		<string lang="zh-tw">火花塞</string>
+		<string lang="uk">Свічка запалювання</string>
 </set>
 <set id="name-module-blessing-startrunwithuniversalpaintbucket" remarks="translate as Paint Roller">
         <string lang="de">Farbroller</string>
