@@ -25,6 +25,19 @@
         <string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;隨機增益&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
         <string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Випадковий Буст&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
+<set id="$reminder-storagemagnet$">
+	<string lang="de">&lt;size=11&gt;(Kann $energy$ von einem $storage$ Modul mit $cracked$ nicht auf weniger als $1$ reduzieren.$br$Funktioniert nicht bei Zeitbomben)</string>
+	<string lang="en">&lt;size=11&gt;(Cannot reduce $energy$ on a $storage$ module with $cracked$ to less than $1$.$br$Does not work on Time Bombs)</string>
+	<string lang="fr">&lt;size=11&gt;(Ne peut pas réduire l'$energy$ d'un module $storage$ avec $cracked$ à moins de $1$.$br$Ne fonctionne pas sur les Bombes à Retardement)</string>
+	<string lang="zh">&lt;size=11&gt;(无法将带有$cracked$的$storage$模块的$energy$降低到1以下。$br$对时间炸弹无效)</string>
+	<string lang="jp">&lt;size=11&gt;($cracked$が付いた$storage$モジュールの$energy$を1未満に減らすことはできません。$br$時限爆弾には効果がありません)</string>
+	<string lang="ru">&lt;size=11&gt;(Невозможно уменьшить $energy$ на $storage$ модуле с $cracked$ до менее чем $1$.$br$Не работает на бомбах замедленного действия)</string>
+	<string lang="es">&lt;size=11&gt;(No puede reducir el $energy$ en un módulo $storage$ con $cracked$ a menos de $1$.$br$No funciona en Bombas de Tiempo)</string>
+	<string lang="kr">&lt;size=11&gt;($cracked$가 있는 $storage$ 모듈의 $energy$를 1 미만으로 줄일 수 없습니다.$br$타임 폭탄에는 효과가 없습니다)</string>
+	<string lang="pt-br">&lt;size=11&gt;(Não pode reduzir o $energy$ em um módulo $storage$ com $cracked$ para menos de $1$.$br$Não funciona em Bombas de Tempo)</string>
+	<string lang="zh-tw">&lt;size=11&gt;(無法將帶有$cracked$的$storage$模組的$energy$降低到1以下。$br$對時間炸彈無效)</string>
+	<string lang="uk">&lt;size=11&gt;(Невозможно уменьшить $energy$ на $storage$ модуле с $cracked$ до менее чем $1$.$br$Не работает на бомбах замедленного действия)</string>
+</set>
 <set id="$reminder-randominduction$">
 	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
     <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>

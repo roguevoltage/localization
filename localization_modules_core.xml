@@ -625,17 +625,17 @@
 		<string lang="uk">Забирає всі $grav-$ у $b$іншого$/b$ бійця і генерує стільки ж $energy$.</string>
 </set>
 <set id="description-module-magnetstorage">
-		<string lang="de">Entfernt $1energy$ von allen $storage$ Modulen $nobr$auf diesem Rack$/nobr$ und erzeugt diese Menge an $energy$.</string>
-		<string lang="en">Removes $1energy$ from all $storage$ modules $nobr$on this rack$/nobr$ and generates that much $energy$.</string>
-		<string lang="fr">Retire $1energy$ de tous les modules $storage$ $nobr$sur ce rack$/nobr$ et génère autant de $energy$.</string>
-		<string lang="zh">从这个模架上的所有$storage$模块上移除$1energy$并生成同等数量的$energy$。</string>
-		<string lang="jp">このラックのすべての$storage$モジュールから$1energy$を取り除き、その分の$energy$を生成します。</string>
-		<string lang="ru">Удаляет $1energy$ у всех $storage$ модулей на этом стойке и генерирует столько же $energy$.</string>
-		<string lang="es">Elimina $1energy$ de todos los módulos $storage$ en este bastidor y genera esa cantidad de $energy$.</string>
-		<string lang="kr">이 랙의 모든 $storage$ 모듈에서 $1energy$를 제거하고 그만큼의 $energy$를 생성합니다.</string>
-		<string lang="pt-br">Remove $1energy$ de todos os módulos $storage$ neste rack e gera essa quantidade de $energy$.</string>
-		<string lang="zh-tw">從這個模架上的所有$storage$模組上移除$1energy$並生成同等數量的$energy$。</string>
-		<string lang="uk">Забирає $1energy$ у всіх $storage$ модулів на цьому стійці і генерує стільки ж $energy$.</string>
+		<string lang="de">Entfernt $1energy$ von allen $storage$ Modulen $nobr$auf diesem Rack$/nobr$ und erzeugt diese Menge an $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="en">Removes $1energy$ from all $storage$ modules $nobr$on this rack$/nobr$ and generates that much $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="fr">Retire $1energy$ de tous les modules $storage$ $nobr$sur ce rack$/nobr$ et génère autant de $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="zh">从这个模架上的所有$storage$模块上移除$1energy$并生成同等数量的$energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="jp">このラックのすべての$storage$モジュールから$1energy$を取り除き、その分の$energy$を生成します.$p$$reminder-storagemagnet$</string>
+		<string lang="ru">Удаляет $1energy$ у всех $storage$ модулей на этом стойке и генерирует столько же $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="es">Elimina $1energy$ de todos los módulos $storage$ en este bastidor y genera esa cantidad de $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="kr">이 랙의 모든 $storage$ 모듈에서 $1energy$를 제거하고 그만큼의 $energy$를 생성합니다.$p$$reminder-storagemagnet$</string>
+		<string lang="pt-br">Remove $1energy$ de todos os módulos $storage$ neste rack e gera essa quantidade de $energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="zh-tw">從這個模架上的所有$storage$模組上移除$1energy$並生成同等數量的$energy$.$p$$reminder-storagemagnet$</string>
+		<string lang="uk">Забирає $1energy$ у всіх $storage$ модулів на цьому стійці і генерує стільки ж $energy$.$p$$reminder-storagemagnet$</string>
 </set>
 <set id="description-module-merger">
 		<string lang="de">Verbindet zwei Ströme.</string>
