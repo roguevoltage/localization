@@ -916,9 +916,9 @@
 		<string lang="uk">Коли $generator$ на цій стійці активується, застосуйте $grav+1$ до випадкового ворога.</string>
 </set>
 <set id="description-module-passivecooldownredirector">
-        <string lang="de">Wenn ein Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
-		<string lang="en">Whenever a module on this rack should receive $cooldown$, change the target to another module on this rack instead.$p$$reminder-onceperturn$</string>
-        <string lang="fr">Si un module sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.$p$$reminder-onceperturn$</string>
+        <string lang="de">Wenn ein anderes Modul auf diesem Rack $cooldown$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
+		<string lang="en">Whenever another module on this rack should receive $cooldown$, change the target to a different module on this rack instead.$p$$reminder-onceperturn$</string>
+        <string lang="fr">Si un autre module sur ce rack devrait recevoir $cooldown$, changez la cible pour un autre module sur ce rack à la place.$p$$reminder-onceperturn$</string>
         <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。$p$$reminder-onceperturn$</string>
         <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。$p$$reminder-onceperturn$</string>
         <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.$p$$reminder-onceperturn$</string>

@@ -886,17 +886,17 @@
         <string lang="uk">Заряджається на $1energy$ кожного разу, когда другой стартовый персонаж совершает ход.</string>
 </set>
 <set id="description-module-storagecellmonster">
-		<string lang="de">Wird jeden 2. Zug eines beliebigen Monsters um $1energy$ geladen.</string>
-		<string lang="en">Is charged with $1energy$ every 2&lt;sup&gt;nd&lt;/sup&gt; turn of any monster.</string>
-        <string lang="fr">Est chargé de $1energy$ tous les 2&lt;sup&gt;ème&lt;/sup&gt; tour de n'importe quel monstre.</string>
-		<string lang="zh">每当任何怪物的第2轮开始时，$1energy$。</string>
-		<string lang="jp">任意のモンスターの第 2 ターンの開始時に $1energy$。</string>
-		<string lang="ru">Заряжается на $1energy$ каждый 2-й ход любого монстра.</string>
-		<string lang="es">Se carga con $1energy$ cada 2.º turno de cualquier monstruo.</string>
-		<string lang="kr">모든 몬스터의 2번째 차례 시작 시 $1energy$로 충전됩니다.</string>
-		<string lang="pt-br">É carregado com $1energy$ a cada 2.º turno de qualquer monstro.</string>
-		<string lang="zh-tw">每當任何怪物的第2輪開始時，$1energy$。</string>
-		<string lang="uk">Заряджається на $1energy$ кожного 2-го хода любого монстра.</string>
+		<string lang="de">Wird jedes Mal um $1energy$ geladen, wenn ein Monster an der Reihe ist.</string>
+		<string lang="en">Is charged with $1energy$ every time a monster takes a turn.</string>
+        <string lang="fr">Est chargé de $1energy$ chaque fois qu'un monstre prend un tour.</string>
+		<string lang="zh">每当任何怪物轮到行动时，$1energy$。</string>
+		<string lang="jp">任意のモンスターがターンを取るたびに $1energy$。</string>
+		<string lang="ru">Заряжается на $1energy$ каждый раз, когда любой монстр совершает ход.</string>
+		<string lang="es">Se carga con $1energy$ cada vez que un monstruo toma un turno.</string>
+		<string lang="kr">모든 몬스터가 행동할 때마다 $1energy$로 충전됩니다.</string>
+		<string lang="pt-br">É carregado com $1energy$ sempre que um monstro toma um turno.</string>
+		<string lang="zh-tw">每當任何怪物輪到行動時，$1energy$。</string>
+		<string lang="uk">Заряджається на $1energy$ кожного разу, коли будь-який монстр здійснює хід.</string>
 </set>
 <set id="description-module-storagecellemergency">
 	<string lang="de">Kann für $b$$CHARGEVALUE$$/b$ $energy$$br$entladen werden.</string>
