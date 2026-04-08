@@ -1407,6 +1407,19 @@
         <string lang="zh-tw">當一個回合在時間軸上被推到或拉到另一個回合之前或之後時，回合順序會發生變化</string>
         <string lang="uk">Порядок ходів змінюється, коли хід переміщується або тягнеться перед чи за іншим на часовій шкалі</string>
 </set>
+<set id="tooltip-debuffs-header">
+        <string lang="de">Debuffs</string>
+        <string lang="en">Debuffs</string>
+        <string lang="fr">Debuffs</string>
+        <string lang="zh">减益</string>
+        <string lang="jp">デバフ</string>
+        <string lang="ru">Дебаффы</string>
+        <string lang="es">Debuffs</string>
+        <string lang="kr">디버프</string>
+        <string lang="pt-br">Debuffs</string>
+        <string lang="zh-tw">減益</string>
+        <string lang="uk">Дебафи</string>
+</set>
 <set id="tooltip-elementaldebuffs-header">
         <string lang="de">Elemental-Debuffs</string>
         <string lang="en">Elemental Debuffs</string>
@@ -1432,6 +1445,19 @@
     <string lang="pt-br">$b$Debuffs Elementais$/b$ são $fire$, $icecrust$, $crust$ e os efeitos não permanentes de $gravrecoil$ ou $pollution$.</string>
     <string lang="zh-tw">$b$元素減益$/b$包括$fire$、$icecrust$、$crust$以及$gravrecoil$或$pollution$的非永久效果。</string>
     <string lang="uk">$b$Елементальні Дебафи$/b$ - це $fire$, $icecrust$, $crust$ та непостійні ефекти від $gravrecoil$ або $pollution$.</string>
+</set>
+<set id="tooltip-debuffs-description">
+    <string lang="de">$b$Debuffs$/b$ sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
+    <string lang="en">$b$Debuffs$/b$ are $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ and $outoforder$.</string>
+    <string lang="fr">$b$Debuffs$/b$ sont $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ et $outoforder$.</string>
+    <string lang="zh">$b$Debuffs$/b$包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="jp">$b$デバフ$/b$は$fire$、$gravrecoil$、$icecrust$、 $crust$、$pollution$、$cooldown$、$outoforder$。</string>
+    <string lang="ru">$b$Дебаффы$/b$ - это $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ и $outoforder$.</string>
+    <string lang="es">$b$Debuffs$/b$ son $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ y $outoforder$.</string>
+    <string lang="kr">$b$디버프$/b$는 $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ 및 $outoforder$입니다.</string>
+    <string lang="pt-br">$b$Debuffs$/b$ são $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ e $outoforder$.</string>
+    <string lang="zh-tw">$b$減益$/b$包括$fire$、$gravrecoil$、$icecrust$、$crust$、$pollution$、$cooldown$和$outoforder$。</string>
+    <string lang="uk">$b$Дебафи$/b$ - це $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ та $outoforder$.</string>
 </set>
 <set id="tooltip-dailyrun-locked">
         <string lang="de">Schalte alle Charaktere und Module frei, um tägliche Runs zu aktivieren</string>
