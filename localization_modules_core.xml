@@ -780,18 +780,18 @@
         <string lang="zh-tw">每3次在此機架上啟動一個$generator$，將$boost$應用於它。</string>
         <string lang="uk">Кожен 3-й раз, коли активується $generator$, до нього застосовується $boost$.</string>        
 </set>
-<set id="description-module-passivemedikit" remarks="$healing$ is a keyword now">
-		<string lang="de">Wendet zu Beginn jedes Kampfes $1healing$ auf den Charakter an.</string>
-		<string lang="en">At the beginning of each battle applies $1healing$ to the owner.</string>
-		<string lang="fr">Applique $1healing$ au propriétaire au début de chaque combat.</string>
-		<string lang="zh">每场战斗开始时对拥有者施加$br$$1$点$healing$。</string>
-		<string lang="jp">戦闘開始時、所有者を$1healing$。</string>
-		<string lang="ru">Применяет $1healing$ к владельцу в начале каждого боя.</string>
-		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada batalla.</string>
-		<string lang="kr">매 전투 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
-		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada batalha.</string>
-		<string lang="zh-tw">每場戰鬥開始時對擁有者施加$br$$1$點$healing$。</string>
-		<string lang="uk">На початку кожного бою застосовує $1healing$ до власника.</string>
+<set id="description-module-passivemedikit">
+		<string lang="de">Wendet zu Beginn des Zuges $1healing$ auf den Charakter an.</string>
+		<string lang="en">At the beginning of turn, applies $1healing$ to the owner.</string>
+		<string lang="fr">Applique $1healing$ au propriétaire au début de chaque tour.</string>
+		<string lang="zh">每回合开始时对拥有者施加$br$$1$点$healing$。</string>
+		<string lang="jp">ターン開始時、所有者を$1healing$。</string>
+		<string lang="ru">Применяет $1healing$ к владельцу в начале каждого хода.</string>
+		<string lang="es">Aplica $1healing$ al dueño al comienzo de cada turno.</string>
+		<string lang="kr">매 턴 시작 시 소유자에게 $1$ $healing$를 부여합니다.</string>
+		<string lang="pt-br">Aplica $1healing$ ao dono no início de cada turno.</string>
+		<string lang="zh-tw">每回合開始時對擁有者施加$br$$1$點$healing$。</string>
+		<string lang="uk">На початку кожного ходу застосовує $1healing$ до власника.</string>
 </set>
 <set id="description-module-passiverubberducky">
         <string lang="de">Immer wenn ein Modul auf diesem Rack $boost$ erhalten sollte, erhält es stattdessen $turbo$.$p$$reminder-onceperturn$</string>
