@@ -1,7 +1,7 @@
 <localization>
 <set id="description-playercharacter-alice" remarks="Feel free to give her a localized name">
 		<string lang="de">Führt starke Angriffe aus, indem sie Krusten zerbricht.</string>
-		<string lang="en">Launches strong attacks by breaking crusts.</string>
+		<string lang="en">Launches strong attacks $nobr$by breaking crusts$/nobr$.</string>
 		<string lang="fr">Lance des attaques puissantes en brisant des croûtes.</string>
 		<string lang="zh">打碎晶壳以发动强力攻击。</string>
 		<string lang="jp">結晶を砕いて強力な一撃。</string>
@@ -27,7 +27,7 @@
 </set>
 <set id="description-playercharacter-nomad">
 		<string lang="de">Platziert Blitzschläge in der Zeitleiste.</string>
-		<string lang="en">Places lightning strikes in the timeline.</string>
+		<string lang="en">Places lightning strikes $nobr$in the timeline$/nobr$.</string>
 		<string lang="fr">Place des éclairs dans la chronologie.</string>
 		<string lang="zh">在时间轴上放置闪电攻击。</string>
 		<string lang="jp">タイムラインに落雷。</string>
@@ -78,7 +78,7 @@
 </set>
 <set id="description-playercharacter-nanaslopper">
         <string lang="de">Stelle Blaster selbst her und bleibe Pazifistin ... oder nicht.</string>
-		<string lang="en">Construct blasters and remain a pacifist, until you don't.</string>
+		<string lang="en">Construct blasters and remain a pacifist, $nobr$until you don't$/nobr$.</string>
 		<string lang="fr">Construisez des blasters et restez pacifiste, jusqu'à ce que vous ne le soyez plus.</string>
 		<string lang="zh">制造爆能枪，保持和平主义者的立场……直到你不再是为止。</string>
 		<string lang="jp">ブラスターを組み立て、平和主義者でい続ける…$br$あるいは、そうでなくなるまで。</string>
@@ -91,7 +91,7 @@
 </set>
 <set id="description-playercharacter-sol">
 		<string lang="de">Lädt Auto-Geschütze auf, um Schaden zu verursachen.</string>
-        <string lang="en">Charges auto-turrets to deal damage.</string>
+        <string lang="en">Charges auto-turrets $nobr$to deal damage$/nobr$.</string>
         <string lang="fr">Charge des tourelles automatiques pour infliger des dégâts.</string>
         <string lang="zh">充能自动炮塔以造成伤害。</string>
         <string lang="jp">オートタレットを充電してダメージ。</string>
@@ -493,17 +493,17 @@
 		<string lang="uk">«Я дізнаюся, що трапилося, і хтось за це заплатить!»</string>
 </set>
 <set id="quote-playercharacter-nomad">
-		<string lang="de">“Still jetzt! Folge mir.”</string>
-		<string lang="en">“Hush now! Follow me.”</string>
-		<string lang="fr">“Chut ! Suis-moi.”</string>
-		<string lang="zh">“嘘！跟着我走。”</string>
-		<string lang="jp">シッ！ついてこい</string>
-		<string lang="ru">“Тсс! Следуй за мной.”</string>
-		<string lang="es">“¡Shh! Sígueme.”</string>
-		<string lang="kr">조용! 따라오세요.</string>
-		<string lang="pt-br">“Shh! Siga-me.”</string>
-		<string lang="zh-tw">“噓！跟著我走。”</string>
-		<string lang="uk">«Тихо! Давай за мною.»</string>
+		<string lang="de">“Still jetzt!$br$Folge mir.”</string>
+		<string lang="en">“Hush now!$br$Follow me.”</string>
+		<string lang="fr">“Chut !$br$Suis-moi.”</string>
+		<string lang="zh">“嘘！$br$跟着我走。”</string>
+		<string lang="jp">シッ！$br$ついてこい</string>
+		<string lang="ru">“Тсс!$br$Следуй за мной.”</string>
+		<string lang="es">“¡Shh!$br$Sígueme.”</string>
+		<string lang="kr">조용!$br$따라오세요.</string>
+		<string lang="pt-br">“Shh!$br$Siga-me.”</string>
+		<string lang="zh-tw">“噓！$br$跟著我走。”</string>
+		<string lang="uk">«Тихо!$br$Давай за мною.»</string>
 </set>
 <set id="quote-playercharacter-plasmabot">
 		<string lang="de">“Plasma-Speicher erschöpft. Bitte Plasmakartusche ersetzen.”</string>
