@@ -591,7 +591,7 @@
 </set>
 <set id="description-module-factoryrevitalizingscreen">
 		<string lang="de">Stellt einen universellen $b$Heilenden Schirm$/b$ mit $cracked$ her.</string>
-		<string lang="en">Constructs a universal $b$Healing Screen$/b$ with $cracked$.</string>
+		<string lang="en">Constructs a universal $nobr$$b$Healing Screen$/b$$/nobr$ with $cracked$.</string>
 		<string lang="fr">Construit un $b$Écran Revitalisant$/b$ universel avec $cracked$.</string>
 		<string lang="zh">制造一个$cracked$的通用$b$焕活屏障$/b$。</string>
 		<string lang="jp">$cracked$付与された汎用端子の$b$活性被膜$/b$製造。</string>
@@ -981,7 +981,7 @@
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
 <set id="description-module-passivepassthroughbooster-gravpos">
-	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $grav+short$ oder $grav-short$ hat, führe $nobr$perform $randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $grav+short$ oder $grav-short$ hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
 	<string lang="en">At the beginning of turn, if the owner has $grav+short$ or $grav-short$, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
     <string lang="fr">Au début du tour, si le propriétaire a $grav+short$ ou $grav-short$, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
     <string lang="zh">在回合开始时，如果拥有者有$grav+short$或$grav-short$，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
@@ -994,7 +994,7 @@
     <string lang="uk">На початку ходу, якщо у власника є $grav+short$ або $grav-short$, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-passivepassthroughbooster-berserk">
-	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $2$ oder weniger HP hat, führe $nobr$perform $randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $2$ oder weniger HP hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
 	<string lang="en">At the beginning of turn, if the owner has $2$ or less HP, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 	<string lang="fr">Au début du tour, si le propriétaire a $2$ HP ou moins, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 	<string lang="zh">在回合开始时，如果拥有者有$2$点或更少HP，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
@@ -1007,7 +1007,7 @@
 	<string lang="uk">На початку ходу, якщо у власника є $2$ або меньше HP, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-passivepassthroughbooster-proximity">
-	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$perform $randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
 	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
     <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
     <string lang="zh">在回合开始时，如果有其他战斗员与拥有者处于同一时间步，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
