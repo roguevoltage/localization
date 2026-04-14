@@ -332,7 +332,7 @@
 <set id="description-module-effectoracceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Füge einem Kampfteilnehmer deiner Wahl $grav-1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav-1$ to target combatant].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un combattant ciblé].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav-1$ à un $nobr$combattant ciblé$/nobr$].</string>
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标参战单位$br$施加一次$grav-1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵味方に$grav-1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav-1$].</string>
@@ -345,7 +345,7 @@
 <set id="description-module-effectorblasterprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Gegner deiner Wahl$br$$1damage$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Deals $1damage$$br$to target enemy].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un ennemi ciblé].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $1damage$ à un $nobr$ennemi ciblé$/nobr$].</string>
 		<string lang="zh">模块每得到1$energy$供应，$br$对目标敌人造成$br$$1damage$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、$br$対象の敵に$1damage$。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому врагу $1damage$].</string>
@@ -371,7 +371,7 @@
 <set id="description-module-effectordeceleratorprecision">
 		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Fügt einem Kampfteilnehmer deiner Wahl $grav+1$ zu].</string>
 		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $grav+1$ to target combatant].</string>
-		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un combattant ciblé].</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Inflige $grav+1$ à un $nobr$combattant ciblé$/nobr$].</string>
 		<string lang="zh">模块每得到1$energy$供应，对目标参战单位$br$施加一次$grav+1$。</string>
 		<string lang="jp">このモジュールの$energy$ごとに、対象の敵味方に$grav+1$付与。</string>
 		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Наносит целевому бойцу $grav+1$].</string>
@@ -406,6 +406,9 @@
 		<string lang="pt-br">Inflige $gravimmunity$ no combatente alvo.$p$(Duração: $energy$×3).</string>
 		<string lang="zh-tw">對目標參戰單位施加$gravimmunity$。$p$（持續時間：$energy$×3）</string>
 		<string lang="uk">Накладає на ціль $gravimmunity$.$p$(Тривалість: $energy$×3).</string>
+</set>
+<set id="description-module-effectorgiftbox">
+	<string lang="en">Constructs a random $crownicon$$b$Rare$/b$ module.</string>
 </set>
 <set id="description-module-effectorlightning">
 		<string lang="de">Lässt auf einem Zeitschritt deiner Wahl einen $lightning$ niedergehen, der allen Kampfteilnehmern darauf $damage$ zufügt.</string>
@@ -1493,7 +1496,7 @@
 <set id="description-module-toggledtransmogrifier">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein zufälliges Modul her.</string>
 		<string lang="en">Destroys another target module $nobr$on this rack$/nobr$.$p$Constructs a random module.</string>
-		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module aléatoire.</string>
+		<string lang="fr">Détruit un autre module ciblé $nobr$sur ce rack$/nobr$.$p$Construit un module aléatoire.</string>
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个随机模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$ランダムなモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает случайный модуль.</string>
@@ -1506,7 +1509,7 @@
 <set id="description-module-toggledtransmogrifier-cracked">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl auf diesem Rack.$p$Stellt ein zufälliges Modul her.</string>
 		<string lang="en">Destroys another target module $nobr$on this rack$/nobr$.$p$Constructs a random module.</string>
-		<string lang="fr">Détruit un autre module ciblé sur ce rack.$p$Construit un module aléatoire.</string>
+		<string lang="fr">Détruit un autre module ciblé $nobr$sur ce rack$/nobr$.$p$Construit un module aléatoire.</string>
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个随机模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$ランダムなモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает случайный модуль.</string>
@@ -2048,6 +2051,11 @@
         <string lang="kr">반복 감속기 $MODIFICATIONVALUE$</string>
 		<string lang="pt-br">Desacelerador de Repetição $MODIFICATIONVALUE$</string>
 		<string lang="uk">Повторюваний Уповільнювач $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-effectorgiftbox">
+	<string lang="de">Geschenkbox</string>
+	<string lang="en">Gift Box</string>
+	<string lang="fr">Boîte Cadeau</string>
 </set>
 <set id="name-module-effectorgravimmunity">
 		<string lang="de">Grav.-Immunitäts-Strahler $MODIFICATIONVALUE$</string>
