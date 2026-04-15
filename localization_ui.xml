@@ -916,6 +916,19 @@
 </string>
 		<string lang="uk">ВИЙТИ ДО СПИСКУ БАЖАНЬ STEAM</string>
 </set>
+<set id="scope-beta">
+		<string lang="de">Beta Branch</string>
+		<string lang="en">Beta Branch</string>
+		<string lang="fr">Beta Branch</string>
+		<string lang="zh">Beta Branch</string>
+		<string lang="jp">Beta Branch</string>
+		<string lang="ru">Beta Branch</string>
+		<string lang="es">Beta Branch</string>
+		<string lang="kr">Beta Branch</string>
+		<string lang="pt-br">Beta Branch</string>
+		<string lang="zh-tw">Beta Branch</string>
+		<string lang="uk">Beta Branch</string>
+</set>
 <set id="scope-demo">
 		<string lang="de">Steam Demo</string>
 		<string lang="en">Steam Demo</string>
@@ -926,8 +939,7 @@
 		<string lang="es">Steam Demo</string>
 		<string lang="kr">스팀 데모</string>
 		<string lang="pt-br">Steam Demo</string>
-		<string lang="zh-tw">Steam試玩版本
-</string>
+		<string lang="zh-tw">Steam試玩版本</string>
 		<string lang="uk">Steam Демо</string>
 </set>
 <set id="scope-earlyaccess">
@@ -940,13 +952,12 @@
 		<string lang="es">Acceso Anticipado</string>
 		<string lang="kr">얼리 액세스 프로토타입</string>
 		<string lang="pt-br">Acesso Antecipado</string>
-		<string lang="zh-tw">搶先體驗
-</string>
+		<string lang="zh-tw">搶先體驗</string>
 		<string lang="uk">Ранній доступ</string>
 </set>
-<set id="scope-release">
+<set id="scope-onezero">
 		<string lang="de">Version 1.0</string>
-		<string lang="en">1.0 Release</string>
+		<string lang="en">Version 1.0</string>
 		<string lang="fr">Version 1.0</string>
 		<string lang="zh">正式版1.0</string>
 		<string lang="jp">リリース1.0</string>
@@ -956,32 +967,6 @@
 		<string lang="pt-br">Lançamento 1.0</string>
 		<string lang="zh-tw">正式版1.0</string>
 		<string lang="uk">Реліз 1.0</string>
-</set>
-<set id="error-notpartofdemo">
-		<string lang="de">Nicht Teil der Demo</string>
-		<string lang="en">Not part of demo</string>
-		<string lang="fr">Pas part de la démo</string>
-		<string lang="zh">不包含在试玩内</string>
-		<string lang="jp">デモに含まれない</string>
-		<string lang="ru">Не входит в демо</string>
-		<string lang="es">No forma parte de la demo</string>
-		<string lang="kr">데모 아님</string>
-		<string lang="pt-br">Não faz parte da demo</string>
-		<string lang="zh-tw">不包含在試玩內</string>
-		<string lang="uk">Не є частиною демо</string>
-</set>
-<set id="error-notpartoftutorial">
-		<string lang="de">Nicht Teil des Tutorials</string>
-		<string lang="en">Not part of the tutorial</string>
-		<string lang="fr">Pas part du tutoriel</string>
-        <string lang="zh">不包含在教程内</string>
-        <string lang="jp">チュートリアル中利用不可</string>
-        <string lang="ru">Не входит в обучение</string>
-        <string lang="es">No forma parte del tutorial</string>
-        <string lang="kr">튜토리얼에 속하지 않음</string>
-        <string lang="pt-br">Não faz parte do tutorial</string>
-        <string lang="zh-tw">不包含在教程內</string>
-        <string lang="uk">Не є частиною навчання</string>
 </set>
 <set id="scope-playtest">
 		<string lang="de">Playtest</string>
@@ -995,19 +980,6 @@
 		<string lang="pt-br">Teste de jogo</string>
 		<string lang="zh-tw">測試</string>
 		<string lang="uk">Тестування гри</string>
-</set>
-<set id="scope-beta">
-		<string lang="de">Beta Branch</string>
-		<string lang="en">Beta Branch</string>
-		<string lang="fr">Beta Branch</string>
-		<string lang="zh">Beta Branch</string>
-		<string lang="jp">Beta Branch</string>
-		<string lang="ru">Beta Branch</string>
-		<string lang="es">Beta Branch</string>
-		<string lang="kr">Beta Branch</string>
-		<string lang="pt-br">Beta Branch</string>
-		<string lang="zh-tw">Beta Branch</string>
-		<string lang="uk">Beta Branch</string>
 </set>
 <set id="scope-prototype">
 		<string lang="de">Prototyp</string>
@@ -1032,8 +1004,7 @@
 		<string lang="es">v. $VERSION$</string>
 		<string lang="kr">v. $VERSION$</string>
 		<string lang="pt-br">v. $VERSION$</string>
-		<string lang="zh-tw">版本$VERSION$
-</string>
+		<string lang="zh-tw">版本$VERSION$</string>
 		<string lang="uk">v. $VERSION$</string>
 </set>
 <set id="selectionscreen-calltoaction">
@@ -1046,8 +1017,7 @@
 		<string lang="es">¿Quién va a salir?</string>
 		<string lang="kr">누가 나갈까요?</string>
 		<string lang="pt-br">Quem vai sair?</string>
-		<string lang="zh-tw">誰要出發？
-</string>
+		<string lang="zh-tw">誰要出發？</string>
 		<string lang="uk">Хто піде?</string>
 </set>
 <set id="selectionscreen-characters">
