@@ -437,17 +437,17 @@
 		<string lang="uk">Наносить $damage$ власнику.</string>
 </set>
 <set id="description-module-effectorrevitalizer">
-		<string lang="de">Wendet $healing$ auf einen Charakter deiner Wahl an.</string>
-		<string lang="en">Applies $healing$ to target player character.</string>
-		<string lang="fr">Applique $healing$ au personnage joueur ciblé.</string>
-		<string lang="zh">为目标己方角色施加$healing$。</string>
-		<string lang="jp">対象のプレイヤーキャラを$healing$。</string>
-		<string lang="ru">Применяет $healing$ к целевому игроку.</string>
-		<string lang="es">Aplica $healing$ al personaje jugador objetivo.</string>
-		<string lang="kr">대상 플레이어 캐릭터에게 $healing$를 부여합니다.</string>
-		<string lang="pt-br">Aplica $healing$ ao personagem jogador alvo.</string>
-		<string lang="zh-tw">為目標己方角色施加$healing$。</string>
-		<string lang="uk">Застосовує $healing$ на вказаного гравця.</string>
+		<string lang="de">Für jeden Punkt $energy$ auf diesem Modul:$br$[Wende $1healing$ auf einen Spielercharakter deiner Wahl an].</string>
+		<string lang="en">For each point of $energy$$br$on this module:$br$[Apply $1healing$ to target player character]</string>
+		<string lang="fr">Pour chaque point de $energy$ sur ce module :$br$[Applique $1healing$ à un $nobr$personnage joueur ciblé$/nobr$].</string>
+		<string lang="zh">模块每得到1$energy$供应，$br$对目标玩家角色$br$施加一次$1healing$。</string>
+		<string lang="jp">このモジュールの$energy$ごとに、$br$対象のプレイヤーキャラに$1healing$。</string>
+		<string lang="ru">За каждую $energy$ в этом модуле:$br$[Применяет $1healing$ к целевому персонажу игрока].</string>
+		<string lang="es">Por cada punto de $energy$ $nobr$en este módulo$/nobr$:$br$[Aplica $1healing$ a un personaje jugador objetivo].</string>
+		<string lang="kr">이 모듈이 보유한$br$$energy$ 포인트마다:$br$[대상 플레이어 캐릭터에게$br$$1healing$를 부여합니다].</string>
+		<string lang="pt-br">Para cada ponto de $energy$ neste módulo:$br$[Aplica $1healing$ a um personagem jogador alvo].</string>
+		<string lang="zh-tw">模組每得到1$energy$供應，$br$對目標玩家角色$br$施加一次$1healing$。</string>
+		<string lang="uk">За кожну одиницю $energyicon$$b$Енергії$/b$ у цьому модулі:$br$[Застосовує $1healing$ до цільового персонажа гравця].</string>
 </set>
 <set id="description-module-factoryauto-factoryauto">
         <string lang="de">Stellt zu Beginn des Zuges eine Kopie von sich selbst her.$p$Die Kopie hat $unstable$.</string>
