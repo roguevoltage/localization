@@ -161,7 +161,7 @@
 		<string lang="fr">Module non activable.$br$La première $energy$ entrante brisera la croûte de façon permanente.</string>
 		<string lang="zh">阻止模块激活。$br$首次传入的$energy$将永久性破坏晶壳。</string>
 		<string lang="jp">モジュールの起動を阻害$br$$energy$入力時に結晶を恒久除去</string>
-		<string lang="ru">Модуль не может быть активирован.$br$Первая поступающая $энергия$ разбивает кристалл.</string>
+		<string lang="ru">Модуль не может быть активирован. Первая поступающая $energy$ разбивает кристалл.</string>
 		<string lang="es">Impide la activación del módulo.$br$La primera $energy$ entrante romperá la corteza</string>
 		<string lang="kr">모듈이 활성화될 수 없습니다. 처음 $energy$를 획득 시 크러스트가 영구적으로 파괴됩니다.</string>
 		<string lang="pt-br">Impede a ativação do módulo.$br$A primeira $energy$ recebida quebrará a crosta</string>
@@ -539,9 +539,9 @@
 		<string lang="zh">激活会对拥有者造成$1damage$。持续至战斗结束。</string>
 		<string lang="jp">起動で所有者に$1damage$。戦闘終了まで持続。</string>
 		<string lang="ru">Активация наносит $1damage$ владельцу. Длится до конца боя.</string>
-		<string lang="es">Activación inflige $1damage$ al propietario. Dura hasta el final de la batalla.</string>
+		<string lang="es">Activación inflige $1damage$ al propietario. Dura hasta el final de combate.</string>
 		<string lang="kr">활성화 시$br$소유자에게 $1damage$를 줍니다. 전투 종료까지 지속됩니다.</string>
-		<string lang="pt-br">Ativação causa $1damage$ ao dono. Dura até o final da batalha.</string>
+		<string lang="pt-br">Ativação causa $1damage$ ao dono. Dura até o final do combate.</string>
 		<string lang="zh-tw">啟動會對擁有者造成$1damage$。持續至戰鬥結束。</string>
 		<string lang="uk">Активація нанесе власнику $1damage$. Триває до кінця бою.</string>
 </set>
@@ -604,9 +604,9 @@
 		<string lang="zh">为输入能量流增加$1$$energy$。$br$直至战斗结束。</string>
 		<string lang="jp">戦闘終了時まで入力電流に$1$$energy$加算</string>
 		<string lang="ru">Добавляет $1energy$ в ток до конца боя</string>
-		<string lang="es">Añade $1energy$ a la corriente entrante.$br$Dura hasta el final del combate</string>
+		<string lang="es">Añade $1energy$ a la corriente entrante hasta el final del combate</string>
 		<string lang="kr">획득하는 전류에 $1energy$를 추가합니다.$br$전투 종료 시까지 유지됩니다</string>
-		<string lang="pt-br">Adiciona $1energy$ à corrente.$br$Dura até o final do combate</string>
+		<string lang="pt-br">Adiciona $1energy$ à corrente até o final do combate</string>
 		<string lang="zh-tw">為輸入能量流增加$1energy$。$br$直至戰鬥結束。</string>
 		<string lang="uk">Додає $1$ одиницю $energyicon$$b$Енергії$/b$ до струму.$br$Триває до кінця бою</string>
 </set>
@@ -773,9 +773,9 @@
 		<string lang="zh">增强 +1</string>
 		<string lang="jp">ブースト＋1</string>
 		<string lang="ru">Усиление +1</string>
-		<string lang="es">Aumento +1</string>
+		<string lang="es">Impulso +1</string>
 		<string lang="kr">부스트 +1</string>
-		<string lang="pt-br">Amplificação +1</string>
+		<string lang="pt-br">Impulso +1</string>
 		<string lang="zh-tw">增強 +1</string>
 		<string lang="uk">Посилення +1</string>
 </set>
@@ -824,12 +824,12 @@
 		<string lang="fr">Croûte</string>
 		<string lang="zh">晶壳</string>
 		<string lang="jp">結晶</string>
-		<string lang="ru">Кристаллизация</string>
+		<string lang="ru">Корка</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">크러스트</string>
 		<string lang="pt-br">Crosta</string>
 		<string lang="zh-tw">晶殼</string>
-		<string lang="uk">Кристалізація</string>
+		<string lang="uk">Корка</string>
 </set>
 <set id="name-status-moduleice">
         <string lang="de">Eiskruste</string>
@@ -837,12 +837,12 @@
         <string lang="fr">Croûte de Glace</string>
         <string lang="zh">冰晶壳</string>
         <string lang="jp">氷結晶</string>
-        <string lang="ru">Ледяная Кристаллизация</string>
+        <string lang="ru">Ледяная Корка</string>
         <string lang="es">Corteza de Hielo</string>
         <string lang="kr">얼음 크러스트</string>
         <string lang="pt-br">Crosta de Gelo</string>
         <string lang="zh-tw">冰晶殼</string>
-        <string lang="uk">Льодяна Кристалізація</string>
+        <string lang="uk">Льодяна корка</string>
 </set>
 <set id="name-status-modulecounter">
         <string lang="de">Zähler</string>
@@ -1253,12 +1253,12 @@
 		<string lang="fr">Croûte</string>
 		<string lang="zh">晶壳</string>
 		<string lang="jp">結晶</string>
-		<string lang="ru">Кристаллизация</string>
+		<string lang="ru">Корка</string>
 		<string lang="es">Corteza</string>
 		<string lang="kr">크러스트</string>
 		<string lang="pt-br">Crosta</string>
 		<string lang="zh-tw">晶殼</string>
-		<string lang="uk">Кристалізація</string>
+		<string lang="uk">Корка</string>
 </set>
 <set id="shortname-status-modulegravrecoil">
 		<string lang="de">Grav.-Rückstoß</string>
