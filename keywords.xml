@@ -38,6 +38,19 @@
         <string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;隨機增益&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
         <string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#78ca9b&gt;&lt;sprite name="boost" tint=1&gt;Випадковий Буст&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
 </set>
+<set id="$randomturbo$">
+		<string lang="de">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Zufälliger Turbo&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+		<string lang="en">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Random Turbo&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="fr">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Turbo Aléatoire&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="zh">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;随机涡轮增压&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="jp">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;ランダムターボ&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="ru">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Случайный Турбо&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="es">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Turbo Aleatorio&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="kr">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;무작위 터보&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="pt-br">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Turbo Aleatório&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="zh-tw">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;隨機渦輪增壓&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+        <string lang="uk">&lt;nobr&gt;&lt;b&gt;&lt;color=#94d579&gt;&lt;sprite name="boost" tint=1&gt;Випадковий Турбо&lt;/color&gt;&lt;/b&gt;&lt;/nobr&gt;</string>
+</set>
 <set id="$reminder-storagemagnet$">
 	<string lang="de">&lt;size=11&gt;(Kann $energy$ von einem $storage$ Modul mit $cracked$ nicht auf weniger als $1$ reduzieren.$br$Funktioniert nicht bei Zeitbomben)</string>
 	<string lang="en">&lt;size=11&gt;(Cannot reduce $energy$ on a $storage$ module with $cracked$ to less than $1$.$br$Does not work on Time Bombs)</string>
@@ -76,6 +89,19 @@
     <string lang="pt-br">&lt;size=11&gt;(Aplique $boost$ a um módulo $passthrough$ aleatório $nobr$neste rack$/nobr$).</string>
     <string lang="zh-tw">&lt;size=11&gt;(對這個模架上的一個隨機$passthrough$模块施加$boost$)。</string>
     <string lang="uk">&lt;size=11&gt;(Застосовує $boost$ до випадкового $passthrough$ модуля $nobr$на цьому стелажі$/nobr$).</string>
+</set>
+<set id="$reminder-randomturbo$">
+    <string lang="de">&lt;size=11&gt;(Wende $turbo$ auf ein zufälliges $passthrough$ Modul $nobr$auf diesem Rack$/nobr$ an).</string>
+    <string lang="en">&lt;size=11&gt;(Apply $turbo$ to a random $passthrough$ module $nobr$on this rack$/nobr$).</string>
+    <string lang="fr">&lt;size=11&gt;(Applique $turbo$ à un module $passthrough$ aléatoire $nobr$sur ce rack$/nobr$).</string>
+    <string lang="zh">&lt;size=11&gt;(对这个模架上的一个随机$passthrough$模块施加$turbo$)。</string>
+    <string lang="jp">&lt;size=11&gt;(このラックのランダムな$passthrough$モジュールに$turbo$を適用)。</string>
+    <string lang="ru">&lt;size=11&gt;(Применяет $turbo$ к случайному $passthrough$ модулю $nobr$на этом стеллаже$/nobr$).</string>
+    <string lang="es">&lt;size=11&gt;(Aplica $turbo$ a un módulo $passthrough$ aleatorio $nobr$en este rack$/nobr$).</string>
+    <string lang="kr">&lt;size=11&gt;(이 랙의 무작위 $passthrough$ 모듈에 $turbo$를 적용합니다).</string>
+    <string lang="pt-br">&lt;size=11&gt;(Aplique $turbo$ a um módulo $passthrough$ aleatório $nobr$neste rack$/nobr$).</string>
+    <string lang="zh-tw">&lt;size=11&gt;(對這個模架上的一個隨機$passthrough$模块施加$turbo$)。</string>
+    <string lang="uk">&lt;size=11&gt;(Застосовує $turbo$ до випадкового $passthrough$ модуля $nobr$на цьому стелажі$/nobr$).</string>
 </set>
 <set id="$reminder-debuffs$">
     <string lang="de">&lt;size=11&gt;Debuffs sind $fire$, $gravrecoil$, $icecrust$, $crust$, $pollution$, $cooldown$ und $outoforder$.</string>
