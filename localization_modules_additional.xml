@@ -1061,6 +1061,19 @@
     <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
     <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 </set>
+<set id="description-module-passiveturbo-debuff">
+	<string lang="de">Zu Beginn des Zuges, wenn sich auf diesem Rack ein Modul mit &lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$$/nobr$ befindet, führe $nobr$$randomturbo$$/nobr$ durch.$p$$reminder-randomturbo$</string>
+	<string lang="en">At the beginning of turn, if there is a module with an &lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$$/nobr$ on this rack, $nobr$perform $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, $nobr$effectuez $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="zh">在回合开始时，如果有其他战斗员与拥有者处于同一时间步，$nobr$执行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘員がいる場合、$nobr$$randomturbo$$/nobr$を行う。$p$$reminder-randomturbo$</string>
+    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, $nobr$выполните $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, $nobr$realiza $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, $nobr$$randomturbo$$/nobr$를 수행합니다.$p$$reminder-randomturbo$</string>
+    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, $nobr$execute $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+</set>
 <set id="description-module-passivestorageinductor-endofturn">
 		<string lang="de">Am Ende des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
 		<string lang="en">At the end of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
@@ -2758,6 +2771,19 @@
         <string lang="pt-br">Vela de Ignição: Proximidade</string>
         <string lang="zh-tw">火花塞：接近</string>
         <string lang="uk">Свічка запалювання: Близькість</string>
+</set>
+<set id="name-module-passiveturbo-debuff">
+		<string lang="de">Zündkerze: Debuff</string>
+		<string lang="en">Spark Plug: Debuff</string>
+        <string lang="fr">Bouchon d'allumage: Debuff</string>
+        <string lang="zh">火花塞：减益</string>
+        <string lang="jp">スパークプラグ：デバフ</string>
+        <string lang="ru">Свеча зажигания: Дебафф</string>
+        <string lang="es">Bujía: Debuff</string>
+        <string lang="kr">스파크 플러그: 디버프</string>
+        <string lang="pt-br">Vela de Ignição: Debuff</string>
+        <string lang="zh-tw">火花塞：減益</string>
+        <string lang="uk">Свічка запалювання: Дебафф</string>
 </set>
 <set id="name-module-passivestorageinductor-endofturn">
 		<string lang="de">Turbine</string>
