@@ -26,17 +26,17 @@
 		<string lang="uk"></string>
 </set>
 <set id="description-module-collectoraccumulation">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ geladen wird.</string>
-		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ is charged.</string>
-		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ est chargé.</string>
-		<string lang="zh">任意$storagemodule$被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="jp">$storagemodule$を充電するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ заряжается.</string>
-		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$es cargado.</string>
-		<string lang="kr">$storagemodule$이 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
-		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ é carregado.</string>
-		<string lang="zh-tw">任意$storagemodule$被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein $storagemodule$ auf diesem Rack geladen wird.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever a $storagemodule$ on this rack is charged.</string>
+		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ sur ce rack est chargé.</string> 
+		<string lang="zh">任意$storagemodule$在此机架上被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="jp">$storagemodule$がこのラックで充電されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ на этом стеллаже заряжается.</string>
+		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$en este rack es cargado.</string>
+		<string lang="kr">$storagemodule$이 이 랙에서 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
+		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ neste rack é carregado.</string>
+		<string lang="zh-tw">任意$storagemodule$在此機架上被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$ на цьому стелажі.</string>
 </set>
 <set id="description-module-collectorchrono">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
