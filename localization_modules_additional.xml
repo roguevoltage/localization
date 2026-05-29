@@ -149,7 +149,7 @@
         <string lang="zh">每当这个机架上的另一个传感器被触发时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="jp">このラックの別の$sensor$が発動するたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
         <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда другой $sensor$ срабатывает на этой стойке.</string>
-        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se activa otro $sensor$ en este bastidor.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se activa otro $sensor$ .</string>
         <string lang="kr">이 랙에서 다른 $sensor$가 발동할 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que outro $sensor$ é acionado neste rack.</string>
         <string lang="zh-tw">每當這個機架上的另一個傳感器被觸發時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -612,7 +612,7 @@
 		<string lang="zh">在另一角色的模架上制造一个$volatile$的$b$紊流器$/b$。</string>
 		<string lang="jp">別キャラのラックに$br$$volatile$付与された$br$$b$乱流器$/b$製造。</string>
 		<string lang="ru">Создает $b$Турбулентность$/b$ с $volatile$ на стойке другого персонажа.</string>
-        <string lang="es">Construye una $b$Turbulencia$/b$ con $volatile$ en el bastidor del otro personaje.</string>
+        <string lang="es">Construye una $b$Turbulencia$/b$ con $volatile$ en el rack del otro personaje.</string>
         <string lang="kr">다른 캐릭터의 랙에 $volatile$ 상태의 $b$터뷸런스$/b$를 조립합니다.</string>
         <string lang="pt-br">Constrói uma $b$Turbulência$/b$ com $volatile$ no rack do outro personagem.</string>
         <string lang="zh-tw">在另一角色的模架上製造一個$volatile$的$b$紊流器$/b$。</string>
@@ -639,7 +639,7 @@
 	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$在随机角色的模架上，$br$产生一个$unstable$的$b$定时炸弹$/b$。</string>
 	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$どちらかのラックに$unstable$付与された$b$時限爆弾$/b$生成。</string>
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Создает $b$Временную Бомбу$/b$ с $unstable$ на одной из ваших стоек.</string>
-	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye una $b$Bomba Temporizada$/b$ con $unstable$ en uno de tus bastidores.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Construye una $b$Bomba Temporizada$/b$ con $unstable$ en uno de tus racks.</string>
 	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$당신의 랙 중 하나에 $unstable$ 상태의 $b$시한폭탄$/b$을 조립합니다.</string>
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói uma $b$Bomba Temporizada$/b$ com $unstable$ em um de seus racks.</string>
 	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在隨機角色的模架上，產生一個$unstable$的$b$定時炸彈$/b$。</string>
@@ -678,7 +678,7 @@
         <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$gravrecoil$直到战斗结束。</string>
         <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに戦闘終了まで$gravrecoil$付与。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $gravrecoil$ к другому целевому модулю на этой стойке до конца боя.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $gravrecoil$ a otro módulo objetivo en este bastidor hasta el final del combate.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $gravrecoil$ a otro módulo objetivo  hasta el final del combate.</string>
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 전투 종료까지 $gravrecoil$를 적용합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $gravrecoil$ a outro módulo alvo neste rack até o final do combate.</string>
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$gravrecoil$直到戰鬥結束。</string>
@@ -691,7 +691,7 @@
         <string lang="zh">为此模架上的另一个目标模块施加$outoforder$以为自身施加$turbo$。$p$激活时产出$b$$GENERATIONVALUE$$/b$$energy$。</string>
         <string lang="jp">このラック上の他のターゲットモジュールに$outoforder$を付与し、自身に$turbo$を付与する。$p$起動時$b$$GENERATIONVALUE$$/b$$energy$発電。</string>
         <string lang="ru">Применяет $outoforder$ к другому целевому модулю на этой стойке, чтобы применить $turbo$ к себе.$p$Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.</string>
-        <string lang="es">Aplica $outoforder$ a otro módulo objetivo en este bastidor para aplicarse $turbo$.$p$Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
+        <string lang="es">Aplica $outoforder$ a otro módulo objetivo  para aplicarse $turbo$.$p$Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.</string>
         <string lang="kr">이 랙의 다른 대상 모듈에 $outoforder$를 적용하여 자신에게 $turbo$를 적용합니다.$p$활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.</string>
         <string lang="pt-br">Aplica $outoforder$ a outro módulo alvo neste rack para aplicar $turbo$ a si mesmo.$p$Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.</string>
         <string lang="zh-tw">為此模架上的另一個目標模組施加$outoforder$以為自身施加$turbo$。$p$啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。</string>
@@ -704,7 +704,7 @@
         <string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上的另一个目标模块施加$pollution$直到战斗结束。</string>
         <string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他のターゲットモジュールに戦闘終了まで$outoforder$付与。</string>
         <string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$p$Применяет $pollution$ к другому целевому модулю на этой стойке до конца боя.</string>
-        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $pollution$ a otro módulo objetivo en este bastidor hasta el final del combate.</string>
+        <string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $pollution$ a otro módulo objetivo  hasta el final del combate.</string>
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 대상 모듈에 전투 종료까지 $pollution$를 적용합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $pollution$ a outro módulo alvo neste rack até o final do combate.</string>
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上的另一個目標模組施加$pollution$直到戰鬥結束。</string>
@@ -730,7 +730,7 @@
 	<string lang="zh">激活时产出$b$$GENERATIONVALUE$$/b$$energy$。$p$为此模架上所有其他$generator$模块施加$cooldown$。</string>
 	<string lang="jp">起動時$b$$GENERATIONVALUE$$/b$$energy$発電。$p$このラック上の他の$generator$モジュール全てに$cooldown$付与。</string>
 	<string lang="ru">Генерирует $b$$GENERATIONVALUE$$/b$ $energy$ при активации.$br$Применяет $cooldown$ ко всем другим модулям $generator$ на этой стойке.</string>
-	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $cooldown$ a todos los demás módulos $generator$ en este bastidor.</string>
+	<string lang="es">Genera $b$$GENERATIONVALUE$$/b$ $energy$ en la activación.$p$Aplica $cooldown$ a todos los demás módulos $generator$ .</string>
 	<string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$이 랙의 다른 모든 $generator$ 모듈에 $cooldown$을 부여합니다.</string>
 	<string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Aplica $cooldown$ a todos os outros módulos $generator$ neste rack.</string>
 	<string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$為此模架上所有其他$generator$模組施加$cooldown$。</string>
@@ -886,7 +886,7 @@
         <string lang="zh">每当此模架上的模块的$boost$失效时，在此模块上放置一个$b$计数器$/b$。$p$回合开始时，从此模块上移除$b$$nobr$3个计数器$/nobr$$/b$以执行$randomboost$。$p$$reminder-randomboost$。</string>
         <string lang="jp">このラックのモジュールから$boost$が消えるたび、このモジュールに$b$カウンター$/b$を置く。$p$ターン開始時、このモジュールから$b$$nobr$3カウンター$/nobr$$/b$を取り除いて$randomboost$を行う。$p$$reminder-randomboost$。</string>
         <string lang="ru">Когда $boost$ истекает на модуле на этой стойке, положите $b$Счётчик$/b$ на этот модуль.$p$В начале хода удалите $b$$nobr$3 Счётчика$/nobr$$/b$ с этого модуля, чтобы выполнить $randomboost$.$p$$reminder-randomboost$.</string>
-        <string lang="es">Siempre que $boost$ expire de un módulo en este bastidor, pon un $b$Contador$/b$ en este módulo.$p$Al comienzo del turno, elimina $b$$nobr$3 Contadores$/nobr$$/b$ de este módulo para realizar $randomboost$.$p$$reminder-randomboost$.</string>
+        <string lang="es">Siempre que $boost$ expire de un módulo , pon un $b$Contador$/b$ en este módulo.$p$Al comienzo del turno, elimina $b$$nobr$3 Contadores$/nobr$$/b$ de este módulo para realizar $randomboost$.$p$$reminder-randomboost$.</string>
         <string lang="kr">이 랙의 모듈에서 $boost$가 사라질 때마다 이 모듈에 $b$카운터$/b$를 놓습니다.$p$턴 시작 시 이 모듈에서 $b$$nobr$3 카운터$/nobr$$/b$를 제거하여 $randomboost$를 수행합니다.$p$$reminder-randomboost$.</string>
         <string lang="pt-br">Sempre que $boost$ expirar de um módulo neste rack, coloque um $b$Contador$/b$ neste módulo.$p$No início do turno, remova $b$$nobr$3 Contadores$/nobr$$/b$ deste módulo para realizar $randomboost$.$p$$reminder-randomboost$.</string>
         <string lang="zh-tw">每當此模架上的模組的$boost$失效時，在此模組上放置一個$b$計數器$/b$。$p$回合開始時，從此模組上移除$b$$nobr$3個計數器$/nobr$$/b$以執行$randomboost$。$p$$reminder-randomboost$.</string>
@@ -912,7 +912,7 @@
         <string lang="zh">每当此模架上的模块被施加$boost$或$turbo$时，给拥有者施加$grav-1$。</string>
         <string lang="jp">ラックのモジュールに$boost$か$turbo$が付与されるたび、所有者に$grav-1$付与。</string>
         <string lang="ru">Когда $boost$ или $turbo$ применяются к модулю на этой стойке, накладывает $grav-1$ на владельца.</string>
-        <string lang="es">Siempre que $boost$ o $turbo$ se apliquen a un módulo en este bastidor, aplica $grav-1$ al propietario.</string>
+        <string lang="es">Siempre que $boost$ o $turbo$ se apliquen a un módulo , aplica $grav-1$ al propietario.</string>
         <string lang="kr">이 랙의 모듈에 $boost$ 또는 $turbo$가 적용될 때마다, 소유자에게 $grav-1$을 부여합니다.</string>
         <string lang="pt-br">Sempre que $boost$ ou $turbo$ forem aplicados a um módulo neste rack, aplique $grav-1$ ao dono.</string>
         <string lang="zh-tw">每當此模架上的模組被施加$boost$或$turbo$時，給擁有者施加$grav-1$。</string>
@@ -925,7 +925,7 @@
 		<string lang="zh">每当此模架上的$generator$被激活时，对一个随机敌人施加$grav+1$。</string>
 		<string lang="jp">このラックの$generator$が起動するたび、ランダムな敵に$grav+1$を付与。</string>
 		<string lang="ru">Когда $generator$ на этой стойке активируется, примените $grav+1$ к случайному врагу.</string>
-		<string lang="es">Siempre que un $generator$ se active en este bastidor, aplica $grav+1$ a un enemigo aleatorio.</string>
+		<string lang="es">Siempre que un $generator$ se active , aplica $grav+1$ a un enemigo aleatorio.</string>
 		<string lang="kr">이 랙에서 $generator$가 활성화될 때마다, 무작위 적에게 $grav+1$을 적용합니다.</string>
 		<string lang="pt-br">Sempre que um $generator$ for ativado neste rack, aplique $grav+1$ a um inimigo aleatório.</string>
 		<string lang="zh-tw">每當此模架上的$generator$被啟動時，對一個隨機敵人施加$grav+1$。</string>
@@ -938,7 +938,7 @@
         <string lang="zh">此模架上的其他模块$cooldown$时，$br$改为由玩家选择的其他模块代替其发生$cooldown$。$p$$reminder-onceperturn$</string>
         <string lang="jp">このラックの他のモジュールが$cooldown$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$cooldown$を受ける。$p$$reminder-onceperturn$</string>
         <string lang="ru">Если другой модуль на этой стойке должен получить $cooldown$, измените цель на другой модуль на этой стойке вместо этого.$p$$reminder-onceperturn$</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir $cooldown$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$$reminder-onceperturn$</string>
+        <string lang="es">Si un módulo  fuese a recibir $cooldown$, cambia el objetivo a otro módulo  en su lugar.$p$$reminder-onceperturn$</string>
         <string lang="kr">이 랙의 다른 모듈에게 $cooldown$ 상태가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $cooldown$ 상태가 됩니다.$p$$reminder-onceperturn$</string>
         <string lang="pt-br"> Sempre que um módulo neste rack deveria receber $cooldown$, mude o alvo para outro módulo neste rack em vez disso.$p$$reminder-onceperturn$</string>
         <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。$p$$reminder-onceperturn$</string>
@@ -951,7 +951,7 @@
         <string lang="zh">此模架上的其他模块受到$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素减益$/b$$/nobr$时，$br$改为由玩家选择的其他模块代替其发生$nobr$$b$元素减益$/b$$/nobr$。$p$$reminder-onceperturn$</string>
         <string lang="jp">このラックの他のモジュールが$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素デバフ$/b$$/nobr$を受ける場合、$br$代わりにこのラックの他のモジュールを選択して$nobr$$b$元素デバフ$/b$$/nobr$を受ける。$p$$reminder-onceperturn$</string>
         <string lang="ru">Если другой модуль на этой стойке должен получить $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Элементальный Дебафф$/b$$/nobr$, измените цель на другой модуль на этой стойке вместо этого.$p$$reminder-onceperturn$</string>
-        <string lang="es">Si un módulo en este bastidor fuese a recibir un $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$$/nobr$, cambia el objetivo a otro módulo en este bastidor en su lugar.$p$$reminder-onceperturn$</string>
+        <string lang="es">Si un módulo  fuese a recibir un $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$$/nobr$, cambia el objetivo a otro módulo  en su lugar.$p$$reminder-onceperturn$</string>
         <string lang="kr">이 랙의 다른 모듈에게 $nobr$&lt;sprite name="debuff" tint=1&gt;$b$원소 디버프$/b$$/nobr$가 부여될 경우, 대신 이 랙의 다른 모듈을 대상으로 $nobr$$b$원소 디버프$/b$$/nobr$가 됩니다.$p$$reminder-onceperturn$</string>
         <string lang="pt-br">Sempre que um módulo neste rack deveria receber um $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Debuff Elemental$/b$$/nobr$, mude o alvo para outro módulo neste rack em vez disso.$p$$reminder-onceperturn$</string>
         <string lang="zh-tw">此模架上的其他模組受到$nobr$&lt;sprite name="debuff" tint=1&gt;$b$元素減益$/b$$/nobr$时，改为由玩家选择的其他模組代替其发生$nobr$$b$元素減益$/b$$/nobr$。$p$$reminder-onceperturn$</string>
@@ -1107,7 +1107,7 @@
 		<string lang="zh">在回合结束时，如果本回合在此模架上没有激活过$generator$，则执行 $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="jp">ターン終了時、このラックでこのターンに$generator$が起動していない場合、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
 		<string lang="ru">В конце хода, если в этом ходу на этой стойке не был активирован $generator$, выполните $randominduction$.$p$$reminder-randominduction$</string>
-		<string lang="es">Al final del turno, si no se ha activado ningún $generator$ en este bastidor este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al final del turno, si no se ha activado ningún $generator$  este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="kr">턴 종료 시, 이번 턴에 이 랙에서 $generator$가 활성화되지 않았다면, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
 		<string lang="pt-br">No final do turno, se nenhum $generator$ tiver sido ativado neste rack este turno, execute $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="zh-tw">在回合結束時，如果本回合在此模架上沒有激活過$generator$，則執行 $randominduction$.$p$$reminder-randominduction$</string>
@@ -1120,7 +1120,7 @@
 		<string lang="zh">在回合结束时，如果本回合在此模架上使用过&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;线缆，则执行 $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="jp">ターン終了時、&lt;color=#FF5555&gt;$b$赤$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$緑$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$青$/b$&lt;/color&gt;のケーブルがこのラックで使用されていた場合、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
 		<string lang="ru">В конце хода, если &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелёный$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; кабели были использованы на этой стойке в этом ходу, выполните $randominduction$.$p$$reminder-randominduction$</string>
-		<string lang="es">Al final del turno, si se han usado cables &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; en este bastidor este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al final del turno, si se han usado cables &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt;  este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="kr">턴 종료 시, 이번 턴에 이 랙에서 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$초록색$/b$&lt;/color&gt; 및 &lt;color=#7272FF&gt;$b$파란색$/b$&lt;/color&gt; 케이블이 사용된 경우, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
 		<string lang="pt-br">No final do turno, se cabos &lt;color=#FF5555&gt;$b$vermelho$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; foram usados neste rack este turno, execute $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="zh-tw">在回合結束時，如果本回合在此模架上使用過&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$綠色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$藍色$/b$&lt;/color&gt;線纜，則執行 $randominduction$.$p$$reminder-randominduction$</string>
@@ -1133,7 +1133,7 @@
 		<string lang="zh">在回合结束时，如果本回合在此模架上使用过&lt;color=#b35b92&gt;$b$类型1（粉色）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$类型2（橙色）$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$类型3（蓝色）$/b$&lt;/color&gt;线缆，则执行 $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="jp">ターン終了時、&lt;color=#b35b92&gt;$b$タイプ1（ピンク）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$タイプ2（オレンジ）$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$タイプ3（ブルー）$/b$&lt;/color&gt;のケーブルがこのラックで使用されていた場合、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
 		<string lang="ru">В конце хода, если кабели типа &lt;color=#b35b92&gt;$b$Тип 1 (Розовый)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Оранжевый)$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$Тип 3 (Синий)$/b$&lt;/color&gt; были использованы на этой стойке в этом ходу, выполните $randominduction$.$p$$reminder-randominduction$</string>
-		<string lang="es">Al final del turno, si se han usado cables de tipo &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Tipo 2 (Naranja)$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt; en este bastidor este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al final del turno, si se han usado cables de tipo &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Tipo 2 (Naranja)$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt;  este turno, realiza $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="kr">턴 종료 시, 이번 턴에 이 랙에서 &lt;color=#b35b92&gt;$b$타입 1 (핑크)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$타입 2 (오렌지)$/b$&lt;/color&gt; 및 &lt;color=#7272FF&gt;$b$타입 3 (블루)$/b$&lt;/color&gt; 케이블이 사용된 경우, $nobr$$randominduction$$/nobr$를 수행합니다.$p$&lt;size=11&gt;$reminder-randominduction$</string>
 		<string lang="pt-br">No final do turno, se cabos do tipo &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Tipo 2 (Laranja)$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt; foram usados neste rack este turno, execute $randominduction$.$p$$reminder-randominduction$</string>
 		<string lang="zh-tw">在回合結束時，如果本回合在此模架上使用過&lt;color=#b35b92&gt;$b$類型1（粉色）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$類型2（橙色）$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$類型3（藍色）$/b$&lt;/color&gt;線纜，則執行 $randominduction$.$p$$reminder-randominduction$</string>
@@ -1250,7 +1250,7 @@
 		<string lang="zh">若本回合模架上没有$generator$被激活，回合结束后获得$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">このターン中、ラックで$generator$が起動しなかったなら、$br$ターン終了時$b$$SENSORVALUE$$/b$$energy$充電。</string>
 		<string lang="ru">Заряжается $b$$SENSORVALUE$$/b$ $energy$ после хода, если на этой стойке в этот ход не был активирован $generator$.</string>
-		<string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después del turno, si no se ha activado un $generator$ en este bastidor este turno.</string>
+		<string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después del turno, si no se ha activado un $generator$  este turno.</string>
 		<string lang="kr">이번 턴 동안 이 랙에서 $generator$가 활성화된 적이 없다면, 턴 종료 시 $b$$SENSORVALUE$$/b$ $energy$가 충전됩니다.</string>
 		<string lang="pt-br">É carregado com $b$$SENSORVALUE$$/b$ $energy$ após o turno, se nenhum $generator$ foi ativado neste rack neste turno.</string>
 		<string lang="zh-tw">若本回合模架上沒有$generator$被啟動，回合結束後獲得$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -1315,7 +1315,7 @@
         <string lang="zh">在此模架上的目标模块上施加$br$$grease$。</string>
         <string lang="jp">このラック上の対象モジュールに$grease$を適用。</string>
         <string lang="ru">Применяет $grease$ к целевому модулю на этом стеллаже.</string>
-        <string lang="es">Aplica $grease$ al módulo objetivo en este bastidor.</string>
+        <string lang="es">Aplica $grease$ al módulo objetivo .</string>
         <string lang="kr">이 랙의 대상 모듈에 $grease$를 적용합니다.</string>
         <string lang="pt-br">Aplica $grease$ ao módulo alvo neste rack.</string>
         <string lang="zh-tw">在此模架上的目標模組上施加$br$$grease$。</string>
@@ -1328,7 +1328,7 @@
         <string lang="zh">在此模架上为目标$storagemodule$充能$br$$1energy$。</string>
         <string lang="jp">このラック上の対象$storagemodule$を$1energy$で充電。</string>
         <string lang="ru">Заряжает целевой $storagemodule$ на этом стеллаже на $1energy$.</string>
-        <string lang="es">Carga el $storagemodule$ objetivo en este bastidor con $1energy$.</string>
+        <string lang="es">Carga el $storagemodule$ objetivo  con $1energy$.</string>
         <string lang="kr">이 랙의 대상 $storagemodule$에 $1energy$를 충전합니다.</string>
         <string lang="pt-br">Carrega o $storagemodule$ alvo neste rack com $1energy$.</string>
         <string lang="zh-tw">在此模架上為目標$storagemodule$充能$br$$1energy$。</string>
@@ -1354,7 +1354,7 @@
 		<string lang="zh">在此模架上选择一个非$cracked$的模块，制造一个该模块的永久性复制品。</string>
 		<string lang="jp">ラックの$cracked$付与されていない$br$別の対象モジュールを恒久的に複製。</string>
 		<string lang="ru">Создает постоянную копию другого целевого модуля без $cracked$ на этом стеллаже.</string>
-		<string lang="es">Construye una copia permanente de otro módulo objetivo sin $cracked$ en este bastidor.</string>
+		<string lang="es">Construye una copia permanente de otro módulo objetivo sin $cracked$ .</string>
 		<string lang="kr">$cracked$ 상태가 아닌 다른 대상 모듈의 영구적인 복사본을 이 랙에 조립합니다.</string>
 		<string lang="pt-br">Constrói uma cópia permanente de outro módulo alvo não $cracked$ neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個非$cracked$的模組，製造一個該模組的永久性複製品。</string>
@@ -1367,7 +1367,7 @@
 		<string lang="zh">在此模架上选择一个非$cracked$的模块，制造一个该模块的复制品。$p$复制品$cracked$且$unstable$。</string>
 		<string lang="jp">ラックの$cracked$付与されていない$br$別の対象モジュールを複製。$p$複製に$cracked$と$unstable$付与。</string>
 		<string lang="ru">Создает копию другого целевого модуля без $cracked$ на этом стеллаже.$p$Копия имеет $cracked$ и $unstable$.</string>
-		<string lang="es">Construye una copia de otro módulo objetivo sin $cracked$ en este bastidor.$p$La copia tiene $cracked$ y $unstable$.</string>
+		<string lang="es">Construye una copia de otro módulo objetivo sin $cracked$ .$p$La copia tiene $cracked$ y $unstable$.</string>
 		<string lang="kr">$cracked$ 상태가 아닌 다른 대상 모듈의 복사본을 이 랙에 조립합니다.$p$복사본은 $cracked$과 $unstable$ 상태를 지닙니다.</string>
 		<string lang="pt-br">Constrói uma cópia de outro módulo alvo não $cracked$ neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
 		<string lang="zh-tw">在此模架上選擇一個非$cracked$的模組，製造一個該模組的複製品。$p$複製品$cracked$且$unstable$。
@@ -1381,7 +1381,7 @@
 		<string lang="zh">选择同模架上另一$cracked$模块，$br$赋予其$replicating$及$unstable$状态。</string>
 		<string lang="jp">ラックの別の$cracked$付与された対象モジュールに、$replicating$と$unstable$付与。</string>
 		<string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этом стеллаже с $cracked$.</string>
-		<string lang="es">Aplica $replicating$ y $unstable$ a otro módulo objetivo en este bastidor con $cracked$.</string>
+		<string lang="es">Aplica $replicating$ y $unstable$ a otro módulo objetivo  con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태를 지닌 이 랙의 다른 대상 모듈에게 $replicating$과 $unstable$을 부여합니다.</string>
 		<string lang="pt-br">Aplica $replicating$ e $unstable$ a outro módulo alvo neste rack com $cracked$.</string>
 		<string lang="zh-tw">選擇同模架上另一$cracked$模組，賦予其$replicating$及$unstable$狀態。</string>
@@ -1472,7 +1472,7 @@
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$为其施加永久$gravvacuum$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。</string>
 		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.</string>
-		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo en este bastidor.</string>
+		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo .</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적으로 $gravvacuum$을 부여합니다.</string>
 		<string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，$br$為其施加永久$gravvacuum$。</string>
@@ -1539,7 +1539,7 @@
 		<string lang="zh">在此模架上选择一个模块，移除其$outoforder$状态。</string>
 		<string lang="jp">ラックの対象モジュールから$br$$outoforder$除去。</string>
 		<string lang="ru">Удаляет $outoforder$ из целевого модуля на этой стойке.</string>
-		<string lang="es">Elimina $outoforder$ del módulo objetivo en este bastidor.</string>
+		<string lang="es">Elimina $outoforder$ del módulo objetivo .</string>
 		<string lang="kr">이 랙의 대상 모듈에게서 $outoforder$ 상태를 제거합니다.</string>
 		<string lang="pt-br">Remove $outoforder$ do módulo alvo neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個模組，移除其$outoforder$狀態。</string>
@@ -1552,7 +1552,7 @@
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个随机模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$ランダムなモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает случайный модуль.</string>
-        <string lang="es">Destruye otro módulo objetivo en este bastidor.$p$Construye un módulo aleatorio.</string>
+        <string lang="es">Destruye otro módulo objetivo .$p$Construye un módulo aleatorio.</string>
         <string lang="kr">이 랙의 다른 대상 모듈을 파괴합니다.$p$무작위 모듈을 조립합니다.</string>
         <string lang="pt-br">Destroi outro módulo alvo neste rack.$p$Constrói um módulo aleatório.</string>
         <string lang="zh-tw">選擇同模架上另一模組銷毀。$p$製造一個隨機模組。</string>
@@ -1565,7 +1565,7 @@
         <string lang="zh">选择同模架上另一模块销毁。$p$制造一个随机模块。</string>
         <string lang="jp">ラックの別の対象モジュールを破壊。$p$ランダムなモジュール製造。</string>
         <string lang="ru">Уничтожает другой целевой модуль на этой стойке.$p$Создает случайный модуль.</string>
-        <string lang="es">Destruye otro módulo objetivo en este bastidor.$p$Construye un módulo aleatorio.</string>
+        <string lang="es">Destruye otro módulo objetivo .$p$Construye un módulo aleatorio.</string>
         <string lang="kr">이 랙의 다른 대상 모듈을 파괴합니다.$p$무작위 모듈을 조립합니다.</string>
         <string lang="pt-br">Destroi outro módulo alvo neste rack.$p$Constrói um módulo aleatório.</string>
         <string lang="zh-tw">選擇同模架上另一模組銷毀。$p$製造一個隨機模組。</string>
@@ -1578,7 +1578,7 @@
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$赋予其$turbo$状态。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に$br$$turbo$付与。</string>
 		<string lang="ru">Применяет $turbo$ к целевому $passthroughmodule$ на этой стойке.</string>
-		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo$br$en este bastidor.</string>
+		<string lang="es">Aplica $turbo$ al módulo $passthroughmodule$ objetivo$br$.</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 $turbo$를 부여합니다.</string>
 		<string lang="pt-br">Aplica $turbo$ ao módulo $passthroughmodule$ alvo neste rack.</string>
 		<string lang="zh-tw">在此模架上選擇一個$passthroughmodule$，賦予其$turbo$狀態。</string>
@@ -1591,7 +1591,7 @@
         <string lang="zh">在此模架上选择一个模块，$br$施加$outoforder$。$p$为另一个$passthroughmodule$施加$br$$turbo$。</string>
         <string lang="jp">ラックの別の対象モジュールに$br$$outoforder$付与。$p$ラックの別の$passthroughmodule$に$br$$turbo$付与。</string>
         <string lang="ru">Применяет $outoforder$ к целевому модулю на этой стойке.$p$Применяет $turbo$ к другому целевому $passthroughmodule$ на этой стойке.</string>
-        <string lang="es">Aplica $outoforder$ al módulo objetivo en este bastidor.$p$Aplica $turbo$ a otro módulo $passthroughmodule$ objetivo en este bastidor.</string>
+        <string lang="es">Aplica $outoforder$ al módulo objetivo .$p$Aplica $turbo$ a otro módulo $passthroughmodule$ objetivo .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $outoforder$을 부여합니다.$p$이 랙의 다른 대상 $passthroughmodule$에게 $turbo$을 부여합니다.</string>
         <string lang="pt-br">Aplica $outoforder$ ao módulo alvo neste rack.$p$Aplica $turbo$ a outro módulo $passthroughmodule$ alvo neste rack.</string>
         <string lang="zh-tw">在此模架上選擇一個模組，施加$outoforder$。$p$為另一個$passthroughmodule$施加$turbo$。</string>
@@ -1604,7 +1604,7 @@
         <string lang="zh">在此模架上选择一个$generator$模块，$br$赋予其$upgrade$及$exhaustion$状态。</string>
         <string lang="jp">ラックの対象$generator$に$br$$upgrade$と$exhaustion$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $exhaustion$ к целевому $generator$ модулю на этой стойке.</string>
-        <string lang="es">Aplica $upgrade$ y $exhaustion$ al módulo $generator$ objetivo en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $exhaustion$ al módulo $generator$ objetivo .</string>
         <string lang="kr">이 랙의 대상 $generator$ 모듈에게 $upgrade$과 $exhaustion$을 부여합니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $exhaustion$ ao módulo $generator$ alvo neste rack.</string>
         <string lang="zh-tw">在此模架上選擇一個$generator$模組，$br$賦予其$upgrade$及$exhaustion$狀態。</string>
@@ -1617,7 +1617,7 @@
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade-berserk$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade-berserk$付与。</string>
         <string lang="ru">Применяет $upgrade-berserk$ к целевому модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade-berserk$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade-berserk$ al módulo objetivo de tipo $generator$ o $aggregate$ .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $upgrade-berserk$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
         <string lang="pt-br">Aplica $upgrade-berserk$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
         <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade-berserk$。</string>
@@ -1630,7 +1630,7 @@
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$和$hazardous$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$と$hazardous$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $hazardous$ к целевому модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $hazardous$ al módulo objetivo de tipo $generator$ o $aggregate$ .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $upgrade$과 $hazardous$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $hazardous$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
         <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$和$hazardous$。</string>
@@ -1643,7 +1643,7 @@
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$和$pollution$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$と$pollution$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $pollution$ к целевому модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $pollution$ al módulo objetivo de tipo $generator$ o $aggregate$ .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $upgrade$과 $pollution$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $pollution$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
         <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$和$pollution$。</string>
@@ -1656,7 +1656,7 @@
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$和$stormattraction$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$と$stormattraction$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $stormattraction$ к модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $stormattraction$ al módulo objetivo de tipo $generator$ o $aggregate$ .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $upgrade$과 $stormattraction$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $stormattraction$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
         <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$和$stormattraction$。</string>
@@ -1669,7 +1669,7 @@
         <string lang="zh">为此模架上目标$generator$或$aggregate$类型的模块施加$upgrade$和$gravrecoil$。</string>
         <string lang="jp">ラックの対象$generator$または$aggregate$タイプのモジュールに$upgrade$と$gravrecoil$付与。</string>
         <string lang="ru">Применяет $upgrade$ и $gravrecoil$ к модулю типа $generator$ или $aggregate$ на этом стеллаже.</string>
-        <string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo objetivo de tipo $generator$ o $aggregate$ en este bastidor.</string>
+        <string lang="es">Aplica $upgrade$ y $gravrecoil$ al módulo objetivo de tipo $generator$ o $aggregate$ .</string>
         <string lang="kr">이 랙의 대상 모듈에게 $upgrade$과 $gravrecoil$을 부여합니다.$br$모듈 유형은 $generator$ 또는 $aggregate$입니다.</string>
         <string lang="pt-br">Aplica $upgrade$ e $gravrecoil$ ao módulo alvo do tipo $generator$ ou $aggregate$ neste rack.</string>
         <string lang="zh-tw">為此模架上目標$generator$或$aggregate$類型的模組施加$upgrade$和$gravrecoil$。</string>
