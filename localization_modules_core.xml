@@ -65,7 +65,7 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли знищується інший модуль.</string>
 </set>
 <set id="description-module-collectorfriendship">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn der andere Startcharakter am Zug ist.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn der andere Startcharakter an der Reihe ist.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever the other starting character takes a turn.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que l'autre personnage de départ joue.</string>
         <string lang="zh">另一起始角色行动时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
@@ -131,7 +131,7 @@
 		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли створюється модуль.</string>
 </set>
 <set id="description-module-collectormonster">
-		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$ jedes 2. Mal, das ein beliebiges Monster am Zug ist.</string>
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$ jedes 2. Mal, das ein beliebiges Monster an der Reiheist.</string>
 		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ every 2&lt;sup&gt;nd&lt;/sup&gt; time any monster takes a turn.</string>
         <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque 2&lt;sup&gt;ème&lt;/sup&gt; tour d'un monstre.</string>
         <string lang="zh">每当任意怪物行动的第2次时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
