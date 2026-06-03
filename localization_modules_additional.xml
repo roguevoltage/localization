@@ -1036,9 +1036,9 @@
         <string lang="uk">Коли цей модуль отримує $b$Дебаф$/b$, створює $1plasma$. $p$В кінці ходу власника, видаляє всі $b$Дебафи$/b$ з цього модуля.</string>
 </set>
 <set id="description-module-passivesmogtrap">
-        <string lang="de">Immer wenn einem Gegner $grav+$ zugefügt wird, füge ihm $vulnerable$ zu.$p$(Dauer: 3 Zeitschritte)</string>
-		<string lang="en">Whenever $grav+$ is applied to an enemy, apply $vulnerable$ to them.$p$(Duration: 3 time steps)</string>
-		<string lang="fr">Chaque fois que $grav+$ est infligé à un ennemi, lui applique $vulnerable$.$p$(Durée : 3 étapes de temps)</string>
+        <string lang="de">Immer wenn einem Gegner $grav+$ zugefügt wird, füge ihm außerdem $vulnerable$ zu.$p$(Dauer: 3 Zeitschritte)</string>
+		<string lang="en">Whenever $grav+$ is applied to an enemy, also apply $vulnerable$ to them.$p$(Duration: 3 time steps)</string>
+		<string lang="fr">Chaque fois que $grav+$ est infligé à un ennemi, appliquez-lui aussi $vulnerable$.$p$(Durée : 3 étapes de temps)</string>
 		<string lang="zh">每当对敌人施放$grav+$时，$br$对其施放$vulnerable$。$p$（持续时间：3个时间步）</string>
 		<string lang="jp">敵に$grav+$が付与されるたびに、$vulnerable$を付与。$p$（効果時間：3タイムステップ）</string>
 		<string lang="ru">Когда на врага накладывается $grav+$, применяет к нему $vulnerable$.$p$(Длительность: 3 временных шага)</string>
@@ -1924,17 +1924,17 @@
         <string lang="uk">Сенсор генератора $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectorgravneg">
-		<string lang="de">Grav.-Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="en">Grav. Sensor $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="fr">Capteur Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="zh">引力传感器$grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="jp">重力センサー$grav-icon$$MODIFICATIONVALUE$</string>
-		<string lang="ru">Грав. Сенсор $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="es">Sensor Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="kr">중력 감지기 $MODIFICATIONVALUE$</string>
-		<string lang="pt-br">Sensor Grav. $grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="zh-tw">引力感測器$grav-icon$ $MODIFICATIONVALUE$</string>
-		<string lang="uk">Гравіенсор $grav-icon$ $MODIFICATIONVALUE$</string>
+		<string lang="de">Grav.-Sensor (-) $MODIFICATIONVALUE$</string>
+		<string lang="en">Grav. Sensor (-) $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur Grav. (-) $MODIFICATIONVALUE$</string>
+		<string lang="zh">引力传感器(-) $MODIFICATIONVALUE$</string>
+		<string lang="jp">重力センサー(-) $MODIFICATIONVALUE$</string>
+		<string lang="ru">Грав. Сенсор (-) $MODIFICATIONVALUE$</string>
+		<string lang="es">Sensor Grav. (-) $MODIFICATIONVALUE$</string>
+		<string lang="kr">중력 감지기 (-) $MODIFICATIONVALUE$</string>
+		<string lang="pt-br">Sensor Grav. (-) $MODIFICATIONVALUE$</string>
+		<string lang="zh-tw">引力感測器(-) $MODIFICATIONVALUE$</string>
+		<string lang="uk">Гравіенсор (-) $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-collectormalfunction">
         <string lang="de">Fehlfunktions-Sensor $MODIFICATIONVALUE$</string>
@@ -2539,17 +2539,17 @@
 		<string lang="uk">Блискавичник $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-magnetgravneg">
-		<string lang="de">Grav.-Magnet $grav-icon$</string>
-		<string lang="en">Grav. Magnet $grav-icon$</string>
-		<string lang="fr">Aimant Grav. $grav-icon$</string>
-		<string lang="zh">引力磁铁$grav-icon$</string>
-		<string lang="jp">重力磁石$grav-icon$</string>
-		<string lang="ru">Грав. Магнит $grav-icon$</string>
-		<string lang="es">Imán Grav. $grav-icon$</string>
-		<string lang="kr">중력 자석 $grav-icon$</string>
-		<string lang="pt-br">Imã Grav. $grav-icon$</string>
-		<string lang="zh-tw">引力磁鐵$grav-icon$</string>
-		<string lang="uk">Гравімагніт $grav-icon$</string>
+		<string lang="de">Grav.-Magnet (-)</string>
+		<string lang="en">Grav. Magnet (-)</string>
+		<string lang="fr">Aimant Grav. (-)</string>
+		<string lang="zh">引力磁铁(-)</string>
+		<string lang="jp">重力磁石(-)</string>
+		<string lang="ru">Грав. Магнит (-)</string>
+		<string lang="es">Imán Grav. (-)</string>
+		<string lang="kr">중력 자석 (-)</string>
+		<string lang="pt-br">Imã Grav. (-)</string>
+		<string lang="zh-tw">引力磁鐵(-)</string>
+		<string lang="uk">Гравімагніт (-)</string>
 </set>
 <set id="name-module-magnetmight">
 		<string lang="de">Macht.-Magnet</string>
@@ -2760,17 +2760,17 @@
         <string lang="uk">Балон Нітро: $gravshort$</string>
 </set>
 <set id="name-module-passiveturbo-gravpos">
-		<string lang="de">Zündkerze: $gravshort$</string>
-		<string lang="en">Spark Plug: $gravshort$</string>
-        <string lang="fr">Bouchon d'allumage: $gravshort$</string>
-        <string lang="zh">火花塞：$gravshort$</string>
-        <string lang="jp">スパークプラグ：$gravshort$</string>
-        <string lang="ru">Свеча зажигания: $gravshort$</string>
-        <string lang="es">Bujía: $gravshort$</string>
-        <string lang="kr">스파크 플러그: $gravshort$</string>
-        <string lang="pt-br">Vela de Ignição: $gravshort$</string>
-        <string lang="zh-tw">火花塞：$gravshort$</string>
-        <string lang="uk">Свічка запалювання: $gravshort$</string>
+		<string lang="de">Zündkerze: Grav.</string>
+		<string lang="en">Spark Plug: Grav.</string>
+        <string lang="fr">Bouchon d'allumage: Grav.</string>
+        <string lang="zh">火花塞：引力荷</string>
+        <string lang="jp">スパークプラグ：重力電荷</string>
+        <string lang="ru">Свеча зажигания: Грав.</string>
+        <string lang="es">Bujía: Grav.</string>
+        <string lang="kr">스파크 플러그: 중력 전하</string>
+        <string lang="pt-br">Vela de Ignição: Grav.</string>
+        <string lang="zh-tw">火花塞：引力荷</string>
+        <string lang="uk">Свічка запалювання: Грав.</string>
 </set>
 <set id="name-module-passivepassthroughbooster-berserk">
 		<string lang="de">Nitro-Flasche: Berserk</string>
