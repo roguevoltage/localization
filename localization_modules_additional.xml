@@ -944,6 +944,45 @@
         <string lang="zh-tw">此模架上的其他模組$cooldown$時，改為由玩家選擇的其他模組代替其發生$cooldown$。$p$$reminder-onceperturn$</string>
         <string lang="uk">Якщо модуль на цій стійці має отримати $cooldown$, змініть ціль на інший модуль на цій стійці замість цього.$p$$reminder-onceperturn$</string>
 </set>
+<set id="description-module-passivepassthroughbooster-gravpos">
+	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $grav+short$ oder $grav-short$ hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="en">At the beginning of turn, if the owner has $grav+short$ or $grav-short$, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="fr">Au début du tour, si le propriétaire a $grav+short$ ou $grav-short$, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh">在回合开始时，如果拥有者有$grav+short$或$grav-short$，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="jp">ターン開始時、所有者が$grav+short$または$grav-short$を持っている場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
+    <string lang="ru">В начале хода, если у владельца есть $grav+short$ или $grav-short$, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="es">Al comienzo del turno, si el propietario tiene $grav+short$ o $grav-short$, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="kr">턴 시작 시, 소유자가 $grav+short$ 또는 $grav-short$를 가지고 있다면, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
+    <string lang="pt-br">No início do turno, se o proprietário tiver $grav+short$ ou $grav-short$, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh-tw">在回合開始時，如果擁有者有$grav+short$或$grav-short$，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="uk">На початку ходу, якщо у власника є $grav+short$ або $grav-short$, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+</set>
+<set id="description-module-passivepassthroughbooster-berserk">
+	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $2$ oder weniger HP hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="en">At the beginning of turn, if the owner has $2$ or less HP, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="fr">Au début du tour, si le propriétaire a $2$ HP ou moins, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="zh">在回合开始时，如果拥有者有$2$点或更少HP，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="jp">ターン開始時、所有者のHPが$2$以下の場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
+	<string lang="ru">В начале хода, если у владельца $2$ или меньше HP, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="es">Al comienzo del turno, si el propietario tiene $2$ o menos HP, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="kr">턴 시작 시, 소유자의 HP가 $2$ 이하인 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
+	<string lang="pt-br">No início do turno, se o proprietário tiver $2$ ou menos HP, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="zh-tw">在回合開始時，如果擁有者有$2$點或更少HP，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="uk">На початку ходу, якщо у власника є $2$ або меньше HP, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+</set>
+<set id="description-module-passivepassthroughbooster-proximity">
+	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
+	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh">在回合开始时，如果有其他战斗员与拥有者处于同一时间步，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘員がいる場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
+    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
+    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+</set>
 <set id="description-module-passivestatusredirector">
         <string lang="de">Wenn ein Modul auf diesem Rack einen $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elementar-Debuff$/b$$/nobr$ erhalten sollte, ändere das Ziel stattdessen zu einem anderen Modul deiner Wahl auf diesem Rack.$p$$reminder-onceperturn$</string>
         <string lang="en">Whenever a module on this rack should receive an $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Elemental Debuff$/b$$/nobr$, change the target to another module on this rack instead.$p$$reminder-onceperturn$</string>
@@ -983,19 +1022,6 @@
 		<string lang="zh-tw">每當對敵人施放$grav+$時，$br$對其施放$vulnerable$。$p$（持續時間：3個時間步）</string>
 		<string lang="uk">Коли на ворога накладається $grav+$, застосовує до нього $vulnerable$.$p$(Тривалість: 3 часові кроки)</string>
 </set>
-<set id="description-module-passivepassthroughbooster-gravpos">
-	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $grav+short$ oder $grav-short$ hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
-	<string lang="en">At the beginning of turn, if the owner has $grav+short$ or $grav-short$, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="fr">Au début du tour, si le propriétaire a $grav+short$ ou $grav-short$, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="zh">在回合开始时，如果拥有者有$grav+short$或$grav-short$，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="jp">ターン開始時、所有者が$grav+short$または$grav-short$を持っている場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
-    <string lang="ru">В начале хода, если у владельца есть $grav+short$ или $grav-short$, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="es">Al comienzo del turno, si el propietario tiene $grav+short$ o $grav-short$, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="kr">턴 시작 시, 소유자가 $grav+short$ 또는 $grav-short$를 가지고 있다면, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
-    <string lang="pt-br">No início do turno, se o proprietário tiver $grav+short$ ou $grav-short$, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="zh-tw">在回合開始時，如果擁有者有$grav+short$或$grav-short$，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="uk">На початку ходу, якщо у власника є $grav+short$ або $grav-short$, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-</set>
 <set id="description-module-passiveturbo-gravpos">
 	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $grav+short$, führe $nobr$$randomturbo$$/nobr$ durch.$p$$reminder-randomturbo$</string>
 	<string lang="en">At the beginning of turn,$br$if the owner has $grav+short$, $nobr$perform $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
@@ -1009,19 +1035,6 @@
     <string lang="zh-tw">在回合開始時，如果擁有者有$grav+short$，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
     <string lang="uk">На початку ходу, якщо у власника є $grav+short$, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 </set>
-<set id="description-module-passivepassthroughbooster-berserk">
-	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $2$ oder weniger HP hat, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
-	<string lang="en">At the beginning of turn, if the owner has $2$ or less HP, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="fr">Au début du tour, si le propriétaire a $2$ HP ou moins, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="zh">在回合开始时，如果拥有者有$2$点或更少HP，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="jp">ターン開始時、所有者のHPが$2$以下の場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
-	<string lang="ru">В начале хода, если у владельца $2$ или меньше HP, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="es">Al comienzo del turno, si el propietario tiene $2$ o menos HP, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="kr">턴 시작 시, 소유자의 HP가 $2$ 이하인 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
-	<string lang="pt-br">No início do turno, se o proprietário tiver $2$ ou menos HP, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="zh-tw">在回合開始時，如果擁有者有$2$點或更少HP，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="uk">На початку ходу, якщо у власника є $2$ або меньше HP, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-</set>
 <set id="description-module-passiveturbo-berserk">
 	<string lang="de">Zu Beginn des Zuges, wenn der Besitzer $2$ oder weniger HP hat, führe $nobr$$randomturbo$$/nobr$ durch.$p$$reminder-randomturbo$</string>
 	<string lang="en">At the beginning of turn, if the owner has $2$ or less HP, $nobr$perform $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
@@ -1034,19 +1047,6 @@
 	<string lang="pt-br">No início do turno, se o proprietário tiver $2$ ou menos HP, $nobr$execute $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 	<string lang="zh-tw">在回合開始時，如果擁有者有$2$點或更少HP，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 	<string lang="uk">На початку ходу, якщо у власника є $2$ або меньше HP, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
-</set>
-<set id="description-module-passivepassthroughbooster-proximity">
-	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
-	<string lang="en">At the beginning of turn, if there is another combatant on the same time step as the owner, $nobr$perform $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="fr">Au début du tour, s'il y a un autre combattant sur le même pas de temps que le propriétaire, $nobr$effectuez $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="zh">在回合开始时，如果有其他战斗员与拥有者处于同一时间步，$nobr$执行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="jp">ターン開始時、所有者と同じタイムステップに他の戦闘員がいる場合、$nobr$$randomboost$$/nobr$を行う。$p$$reminder-randomboost$</string>
-    <string lang="ru">В начале хода, если есть другой участник боя на том же временном шаге, что и владелец, $nobr$выполните $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="es">Al comienzo del turno, si hay otro combatiente en el mismo paso de tiempo que el propietario, $nobr$realiza $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="kr">턴 시작 시, 소유자와 같은 시간 단계에 다른 전투원이 있는 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
-    <string lang="pt-br">No início do turno, se houver outro combatente no mesmo passo de tempo que o proprietário, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-    <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-passiveturbo-proximity">
 	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomturbo$$/nobr$ durch.$p$$reminder-randomturbo$</string>
