@@ -1100,6 +1100,19 @@
     <string lang="zh-tw">在回合開始時，如果有其他戰鬥員與擁有者處於同一時間步，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
     <string lang="uk">На початку ходу, якщо є інший учасник бою на тому ж часовому кроці, що і власник, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 </set>
+<set id="description-module-passivestorageinductor-beginningofturn">
+		<string lang="de">Zu Beginn des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="en">At the beginning of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="fr">Au début du tour, $nobr$effectuez $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh">在回合开始时，$nobr$执行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="jp">ターン開始時、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
+		<string lang="ru">В начале хода, $nobr$выполните $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al comienzo del turno, $nobr$realiza $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="kr">턴 시작 시, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
+		<string lang="pt-br">No início do turno, $nobr$execute $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh-tw">在回合開始時，$nobr$執行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="uk">На початку ходу, $nobr$виконайте $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+</set>
 <set id="description-module-passivestorageinductor-endofturn">
 		<string lang="de">Am Ende des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
 		<string lang="en">At the end of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
@@ -2836,6 +2849,19 @@
         <string lang="pt-br">Vela de Ignição: Debuff</string>
         <string lang="zh-tw">火花塞：減益</string>
         <string lang="uk">Свічка запалювання: Дебафф</string>
+</set>
+<set id="name-module-passivestorageinductor-beginningofturn">
+		<string lang="de">Turbine</string>
+		<string lang="en">Turbine</string>
+		<string lang="fr">Turbine</string>
+		<string lang="zh">涡轮</string>
+		<string lang="jp">タービン</string>
+		<string lang="ru">Турбина</string>
+		<string lang="es">Turbina</string>
+		<string lang="kr">터빈</string>
+		<string lang="pt-br">Turbina</string>
+		<string lang="zh-tw">渦輪</string>
+		<string lang="uk">Турбіна</string>
 </set>
 <set id="name-module-passivestorageinductor-endofturn">
 		<string lang="de">Turbine</string>
