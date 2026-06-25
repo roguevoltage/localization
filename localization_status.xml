@@ -233,6 +233,19 @@
 		<string lang="zh-tw">啟動後角色下一回合延後$b$$EXHAUSTIONVALUE$$/b$步</string>
 		<string lang="uk">Активація відтерміновує наступний хід на $b$$EXHAUSTIONVALUE$$/b$</string>
 </set>
+<set id="description-status-moduleexhaustion-eob">
+		<string lang="de">Aktiv. verzög. den nächsten Zug um $b$$EXHAUSTIONVALUE$$/b$.$br$Hält bis zum Ende des Kampfes an</string>
+		<string lang="en">Activation sets back next turn by $b$$EXHAUSTIONVALUE$$/b$.$br$Lasts until the end of combat</string>
+		<string lang="fr">Utilization décale le prochain tour par $b$$EXHAUSTIONVALUE$$/b$.$br$Dure jusqu'à la fin du combat</string>
+		<string lang="zh">激活后角色下一回合延后$b$$EXHAUSTIONVALUE$$/b$步。持续到战斗结束</string>
+		<string lang="jp">起動で次のターンを$b$$EXHAUSTIONVALUE$$/b$遅らせる。戦闘終了まで持続</string>
+		<string lang="ru">Активация откладывает$br$следующий ход на $b$$EXHAUSTIONVALUE$$/b$.$br$Длится до конца боя</string>
+		<string lang="es">Activación retrasa el siguiente turno por $b$$EXHAUSTIONVALUE$$/b$.$br$Dura hasta el final del combate</string>
+		<string lang="kr">활성화 시 다음 턴이 $b$$EXHAUSTIONVALUE$$/b$만큼 늦춰집니다.$br$전투 종료까지 지속됩니다.</string>
+		<string lang="pt-br">A ativação atrasa o próximo turno por $b$$EXHAUSTIONVALUE$$/b$.$br$Dura até o final do combate</string>
+		<string lang="zh-tw">啟動後角色下一回合延後$b$$EXHAUSTIONVALUE$$/b$步。持續到戰鬥結束</string>
+		<string lang="uk">Активація відтерміновує наступний хід на $b$$EXHAUSTIONVALUE$$/b$.$br$Триває до кінця бою</string>
+</set>
 <set id="description-status-modulefire">
 		<string lang="de">Aktiviere das Modul, um es zu löschen, oder es fügt dem Charakter nach dessen Runde $1damage$ zu</string>
 		<string lang="en">Activate this turn to extinguish, or it will deal $1damage$ to the owner after their turn</string>
