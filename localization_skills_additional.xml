@@ -309,17 +309,17 @@
 		<string lang="uk">Наносить $1damage$ ворогу і накладає $gravamplification$.</string>
 </set>
 <set id="description-skill-hatch-dynosaur">
-		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Dynosaurus$/b$ schlüpfen zu lassen.</string>
-		<string lang="en">If $might$ is full, it destroys itself to spawn a $b$Dynosaur$/b$.</string>
-		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Dynosaur$/b$.</string>
-		<string lang="zh">$might$达到最大值时自毁，$br$诞生一只$b$化石恐龙$/b$。</string>
-		<string lang="jp">$might$最大なら、$br$自身を破壊し$br$$b$グラビサウルス$/b$出現。</string>
-		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Dynosaur$/b$.</string>
-		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Dynosaurio$/b$.</string>
-		<string lang="kr">$might$이 가득 찼을 경우, 스스로를 파괴하고 $b$공룡$/b$을 소환합니다.</string>
-		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Dynosaur$/b$.</string>
-		<string lang="zh-tw">$might$達到最大值時自毀，$br$誕生一只$b$化石恐龍$/b$。</string>
-		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Динозавра$/b$.</string>
+		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Dynosaurus$/b$ schlüpfen zu lassen.$p$Fügt allen Gegnern $grav+1$ zu.</string>
+		<string lang="en">If $might$ is full, destroys itself to spawn a $b$Dynosaur$/b$.$p$Applies $grav+1$ to all enemies.</string>
+		<string lang="fr">Si $might$ est plein, il se détruit pour faire éclore un $b$Dynosaur$/b$.$p$Applique $grav+1$ à tous les ennemis.</string>
+		<string lang="zh">$might$达到最大值时自毁，$p$诞生一只$b$化石恐龙$/b$，对所有敌人施加$grav+1$。</string>
+		<string lang="jp">$might$最大なら、$p$自身を破壊し$p$$b$グラビサウルス$/b$出現。$p$全ての敵に$grav+1$を付与。</string>
+		<string lang="ru">Если $might$ полон, он уничтожает себя, чтобы вывести $b$Dynosaur$/b$.$p$Накладывает $grav+1$ на всех врагов.</string>
+		<string lang="es">Si $might$ está lleno, se destruye para hacer eclosionar un $b$Dynosaurio$/b$.$p$Aplica $grav+1$ a todos los enemigos.</string>
+		<string lang="kr">$might$이 가득 찼을 경우, $p$스스로를 파괴하고 $b$공룡$/b$을 소환합니다.$p$모든 적에게 $grav+1$을 부여합니다.</string>
+		<string lang="pt-br">Se $might$ estiver cheio, ele se destrói para gerar um $b$Dynosaur$/b$.$p$Aplica $grav+1$ a todos os inimigos.</string>
+		<string lang="zh-tw">$might$達到最大值時自毀，$p$誕生一只$b$化石恐龍$/b$，對所有敵人施加$grav+1$。</string>
+		<string lang="uk">Якщо $might$ повна, знищує себе, щоб породити $b$Динозавра$/b$.$p$Накладає $grav+1$ на всіх ворогів.</string>
 </set>
 <set id="description-skill-hatch-graviraptor">
 		<string lang="de">Wenn $might$ gefüllt ist, zerstört es sich selbst, um einen $b$Graviraptor$/b$ schlüpfen zu lassen.</string>
@@ -1133,17 +1133,17 @@
 		<string lang="uk">Гравіпорив $grav+2$</string>
 </set>
 <set id="name-skill-hatch-dynosaur">
-		<string lang="de">Schlüpfen (Dynosaurus)</string>
-		<string lang="en">Hatch (Dynosaur)</string>
-		<string lang="fr">Éclosion (Dynosaure)</string>
-		<string lang="zh">孵化</string>
-		<string lang="jp">孵化</string>
-		<string lang="ru">Вылупление (Динозавр)</string>
-		<string lang="es">Eclosión (Dynosaurio)</string>
-		<string lang="kr">부화 (공룡)</string>
-		<string lang="pt-br">Eclosão (Dinossauro)</string>
-		<string lang="zh-tw">孵化</string>
-		<string lang="uk">Вилуплення (Динозавр)</string>
+		<string lang="de">Schlüpfen (Dynosaurus) $grav+icon$</string>
+		<string lang="en">Hatch (Dynosaur) $grav+icon$</string>
+		<string lang="fr">Éclosion (Dynosaure) $grav+icon$</string>
+		<string lang="zh">孵化 $grav+icon$</string>
+		<string lang="jp">孵化 $grav+icon$</string>
+		<string lang="ru">Вылупление (Динозавр) $grav+icon$</string>
+		<string lang="es">Eclosión (Dynosaurio) $grav+icon$</string>
+		<string lang="kr">부화 (공룡) $grav+icon$</string>
+		<string lang="pt-br">Eclosão (Dinossauro) $grav+icon$</string>
+		<string lang="zh-tw">孵化 $grav+icon$</string>
+		<string lang="uk">Вилуплення (Динозавр) $grav+icon$</string>
 </set>
 <set id="name-skill-hatch-graviraptor">
 		<string lang="de">Schlüpfen (Graviraptor)</string>
