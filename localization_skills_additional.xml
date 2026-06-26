@@ -702,18 +702,17 @@
 		<string lang="uk">Переміщується вище гравців на часовій шкалі.$p$Накладає $grav+1$ на всіх ворогів.</string>
 </set>
 <set id="description-skill-pterodactyl-swoopdown">
-		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.$br$Sinkt auf der Zeitleiste unter die Charaktere. Versieht sich selbst mit $grav+2$.</string>
-		<string lang="en">Deals $2damage$ to all enemies on the same time step.$br$Sinks below the player characters on the timeline.$br$Inflicts itself with $grav+2$.</string>
-		<string lang="fr">Inflige $2damage$ à tous les ennemis sur le même pas de temps.$br$Descend en dessous des personnages joueurs sur la timeline.$br$S'inflige $grav+2$.</string>
-		<string lang="zh">对与自身处于同一时间轴点的所有敌人造成$2damage$。$br$时间轴优先级降低至玩家角色之下。$br$对自身施加$grav+2$。</string>
-		<string lang="jp">同一タイムステップの敵全体に$br$$2damage$。$br$タイムライン上で$br$プレイヤーキャラよりも下降。$br$自身に$grav+2$付与。</string>
-		<string lang="ru">Наносит всем врагам на одном временном шаге $2damage$. $br$Опускается ниже игроков на временной шкале. Накладывает на себя $grav+2$.</string>
-		<string lang="es">Inflige $2damage$ a todos los enemigos en el mismo paso de tiempo.$br$Desciende por debajo de los personajes del jugador en la línea temporal. Se inflige $grav+2$.</string>
-		<string lang="kr">동일한 시간 단계에 위치한 모든 적에게 $2damage$를 줍니다.$br$플레이어 캐릭터의 타임라인 밑으로 파고듭니다.$br$자신에게 $grav+2$를 부여합니다.</string>
-		<string lang="pt-br">Causa $2damage$ a todos os inimigos no mesmo passo de tempo.$br$Desce abaixo dos personagens do jogador na linha do tempo.$br$Inflige a si mesmo com $grav+2$.</string>
-		<string lang="zh-tw">對與自身處於同一時間軸點的所有敵人造成$2damage$。$br$時間軸優先順序降低至玩家角色之下。$br$對自身施加$grav+2$。
-</string>
-		<string lang="uk">Наносить $2damage$ усім ворогам на тому ж часовому кроці, що й він.$br$Переміщується нижче гравців на шкалі часу.$br$Накладає на себе $grav+2$.</string>
+		<string lang="de">Fügt allen Kampfteilnehmern auf dem gleichen Zeitschritt $2damage$ zu.$p$Sinkt auf der Zeitleiste unter die Charaktere.$p$Versieht sich selbst mit $grav+2$.</string>
+		<string lang="en">Deals $2damage$ to all enemies on the same time step.$p$Sinks below the player characters on the timeline.$p$Applies $grav+2$ to itself.</string>
+		<string lang="fr">Inflige $2damage$ à tous les ennemis sur le même pas de temps.$p$Descend en dessous des personnages joueurs sur la timeline.$p$S'inflige $grav+2$.</string>
+		<string lang="zh">对与自身处于同一时间轴点的所有敌人造成$2damage$。$p$时间轴优先级降低至玩家角色之下。$p$对自身施加$grav+2$。</string>
+		<string lang="jp">同一タイムステップの敵全体に$br$$2damage$。$p$タイムライン上で$br$プレイヤーキャラよりも下降。$p$自身に$grav+2$付与。</string>
+		<string lang="ru">Наносит всем врагам на одном временном шаге $2damage$. $p$Опускается ниже игроков на временной шкале. $p$Накладывает на себя $grav+2$.</string>
+		<string lang="es">Inflige $2damage$ a todos los enemigos en el mismo paso de tiempo.$p$Desciende por debajo de los personajes del jugador en la línea temporal. $p$Se inflige $grav+2$.</string>
+		<string lang="kr">동일한 시간 단계에 위치한 모든 적에게 $2damage$를 줍니다.$p$플레이어 캐릭터의 타임라인 밑으로 파고듭니다.$p$자신에게 $grav+2$를 부여합니다.</string>
+		<string lang="pt-br">Causa $2damage$ a todos os inimigos no mesmo passo de tempo.$p$Desce abaixo dos personagens do jogador na linha do tempo.$p$Inflige a si mesmo com $grav+2$.</string>
+		<string lang="zh-tw">對與自身處於同一時間軸點的所有敵人造成$2damage$。$p$時間軸優先順序降低至玩家角色之下。$p$對自身施加$grav+2$。</string>
+		<string lang="uk">Наносить $2damage$ усім ворогам на тому ж часовому кроці, що й він.$p$Переміщується нижче гравців на шкалі часу.$p$Накладає на себе $grav+2$.</string>
 </set>
 <set id="description-skill-savage">
 		<string lang="de">Fügt einem Gegner $2damage$ zu und versieht ein Modul mit $cooldown$.</string>
