@@ -989,6 +989,19 @@
 		<string lang="zh-tw">在$b$$TIMETOTURN$$/b$個時間步長後爆炸，對兩名角色均造成$b$$INVERSECHARGEVALUE$$/b$$damage$。$p$$energy$可降低傷害。</string>
 		<string lang="uk">Вибухне за $b$ $TIMETOTURN$ $/b$ часові кроки.$p$Нанесе $b$ $INVERSECHARGEVALUE$ $/b$ $damage$ обом героям.$p$Зменшити ефект можна за допомогою $energyicon$$b$Енергії$/b$.</string>
 </set>
+<set id="description-module-toggledacceleration">
+		<string lang="de">Fügt dem Character $grav-1$ zu.</string>
+		<string lang="en">Apply $grav-1$ to the owner.</string>
+		<string lang="fr">Inflige $grav-1$ sur le propriétaire.</string>
+		<string lang="zh">对拥有者施放$grav-1$。</string>
+		<string lang="jp">所有者に$grav-1$。</string>
+		<string lang="ru">Наносит владельцу $grav-1$.</string>
+		<string lang="es">Inflige $grav-1$ al dueño.</string>
+		<string lang="kr">소유자에게 $grav-1$를 줍니다.</string>
+		<string lang="pt-br">Inflige $grav-1$ ao dono.</string>
+		<string lang="zh-tw">對擁有者施放$grav-1$。</string>
+		<string lang="uk">Наносить власнику $grav-1$.</string>
+</set>
 <set id="description-module-toggledgrenadepassthroughboost">
 		<string lang="de">Versieht alle $passthrough$-Module auf diesem Rack mit $boost$.</string>
 		<string lang="en">Applies $boost$ to all $passthrough$ modules$br$on this rack.</string>
