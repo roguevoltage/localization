@@ -1482,6 +1482,20 @@
 </string>
         <string lang="uk">Розблокуйте всіх персонажів і модулі, щоб отримати доступ до щоденних запусків</string>
 </set>
+<set id="tooltip-rewindturn">
+		<string lang="de">Zug zurückspulen</string>
+		<string lang="en">Rewind turn</string>
+		<string lang="fr">Reculer le tour</string>
+		<string lang="zh">回合倒带</string>
+		<string lang="jp">ターンを巻き戻す</string>
+		<string lang="ru">Отмотать ход назад</string>
+		<string lang="es">Retroceder turno</string>
+		<string lang="kr">턴 되감기</string>
+		<string lang="pt-br">Retroceder turno</string>
+		<string lang="zh-tw">回合倒帶
+</string>
+		<string lang="uk">Відмотати хід назад</string>
+</set>
 <set id="tooltip-removewires">
 		<string lang="de">Alle Kabel entfernen</string>
 		<string lang="en">Remove all wires</string>
@@ -2650,6 +2664,19 @@
         <string lang="zh-tw">&lt;color=#7272FF&gt;類型 3 (藍色)&lt;/color&gt;</string>
         <string lang="uk">&lt;color=#7272FF&gt;Тип 3 (Синій)&lt;/color&gt;</string>
 </set>
+<set id="ui-rewind">
+		<string lang="de">Zurückspulen</string>
+		<string lang="en">Rewind</string>
+		<string lang="fr">Rembobiner</string>
+		<string lang="zh">返回</string>
+		<string lang="jp">巻き戻し</string>
+		<string lang="ru">Перемотка назад</string>
+		<string lang="es">Rebobinar</string>
+		<string lang="kr">되감기</string>
+		<string lang="pt-br">Rebobinar</string>
+		<string lang="zh-tw">返回</string>
+		<string lang="uk">Перемотати назад</string>
+</set>
 <set id="ui-connect">
 		<string lang="de">Verbinden</string>
 		<string lang="en">Connect</string>
@@ -2796,9 +2823,21 @@
 		<string lang="es">Saltar</string>
 		<string lang="kr">건너뛰기</string>
 		<string lang="pt-br">Pular</string>
-		<string lang="zh-tw">跳過
-</string>
+		<string lang="zh-tw">跳過</string>
 		<string lang="uk">Пропустити</string>
+</set>
+<set id="ui-skipturn">
+		<string lang="de">Zug überspringen</string>
+		<string lang="en">Skip turn</string>
+		<string lang="fr">Passer le tour</string>
+		<string lang="zh">跳过回合</string>
+		<string lang="jp">ターンスキップ</string>
+		<string lang="ru">Пропустить ход</string>
+		<string lang="es">Saltar turno</string>
+		<string lang="kr">턴 건너뛰기</string>
+		<string lang="pt-br">Pular turno</string>
+		<string lang="zh-tw">跳過回合</string>
+		<string lang="uk">Пропустити хід</string>
 </set>
 <set id="ui-startnewrun">
 		<string lang="de">Neuen Run$br$Beginnen</string>
