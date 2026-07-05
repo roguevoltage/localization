@@ -324,7 +324,7 @@
         <string lang="zh-tw">初始角色自帶可能會被摧毀或改變。</string>
         <string lang="uk">Початкове снаряження персонажа може бути знищено або трансмогрифіковано.</string>
 </set>
-<set id="description-campstructure-slotmachine">
+<set id="description-campstructure-consumables">
         <string lang="de">Glücksspiel um Module</string>
         <string lang="en">Gamble for modules</string>
         <string lang="fr">Pariez pour des modules</string>
@@ -415,7 +415,7 @@
 		<string lang="zh-tw">儲存一個模組，供下次遊戲使用</string>
 		<string lang="uk">Зберігає модуль між походами</string>
 </set>
-<set id="description-campstructure-consumableshop">
+<set id="description-campstructure-upgradeshop">
 		<string lang="de">Kaufe Modul-Upgrades$br$für $plasma$</string>
 		<string lang="en">Buy module upgrades$br$with $plasma$</string>
         <string lang="fr">Achetez des améliorations de module pour $plasma$</string>
@@ -428,20 +428,20 @@
         <string lang="zh-tw">花費$plasma$購買$b$模組升級$/b$</string>
         <string lang="uk">Продає модульні покращення за $plasmaicon$$b$Плазму$/b$</string>
 </set>
-<set id="description-campstructure-consumableshop-level1">
-        <string lang="de">Farbiger Farb-Eimer und 2 Modul-Upgrader</string>
-		<string lang="en">Colored Paint Bucket + 2 Module Upgraders</string>
-        <string lang="fr">Seau de peinture coloré + 2 améliorations de module</string>
-        <string lang="zh">彩色油漆桶 + 2 个模块升级器</string>
-        <string lang="jp">カラーペイントバケツ + 2 モジュールアップグレーダー</string>
-        <string lang="ru">Цветное ведро с краской + 2 модуля улучшения</string>
+<set id="description-campstructure-upgradeshop-level1">
+        <string lang="de">Farbiger Farb-Eimer$br$+ 2 Modul-Upgrader</string>
+	<string lang="en">Colored Paint Bucket$br$+ 2 Module Upgraders</string>
+        <string lang="fr">Seau de peinture coloré$br$+ 2 améliorations de module</string>
+        <string lang="zh">彩色油漆桶$br$+ 2 个模块升级器</string>
+        <string lang="jp">カラーペイントバケツ$br$+ 2 モジュールアップグレーダー</string>
+        <string lang="ru">Цветное ведро с краской$br$+ 2 модуля улучшения</string>
         <string lang="es">Cubeta de pintura de colores + 2 mejoradores de módulos</string>
         <string lang="kr">컬러 페인트 통 + 2 모듈 업그레이더</string>
         <string lang="pt-br">Balde de tinta colorido + 2 atualizações de módulo</string>
         <string lang="zh-tw">彩色油漆桶 + 2 個模組升級器</string>
         <string lang="uk">Кольорове відро з фарбою + 2 покращення модуля</string>
 </set>
-<set id="description-campstructure-consumableshop-level2">
+<set id="description-campstructure-upgradeshop-level2">
 		<string lang="de">+ Haltbarkeits-Verstärker</string>
 		<string lang="en">+ Durability Enhancer</string>
 		<string lang="fr">+ Améliorateur de Durabilité</string>
@@ -454,7 +454,7 @@
 		<string lang="zh-tw">+ 耐久增強器</string>
 		<string lang="uk">+ Покращувач міцності</string>
 </set>
-<set id="description-campstructure-consumableshop-level3">
+<set id="description-campstructure-upgradeshop-level3">
 		<string lang="de">+ 1 Modul-Upgrader</string>
 		<string lang="en">+ 1 Module Upgrader</string>
 		<string lang="fr">+ 1 Amélioration de Module</string>
@@ -467,7 +467,7 @@
 		<string lang="zh-tw">+ 1 個模組升級器</string>
 		<string lang="uk">+ 1 Покращення Модуля</string>
 </set>
-<set id="description-campstructure-consumableshop-level4">
+<set id="description-campstructure-upgradeshop-level4">
         <string lang="de">Farb-Eimer ist universell</string>
 		<string lang="en">Paint Bucket is universal</string>
         <string lang="fr">Seau de peinture est universel</string>
@@ -714,7 +714,7 @@
 		<string lang="zh-tw">廢料場</string>
 		<string lang="uk">Сміттєзвалище</string>
 </set>
-<set id="name-campstructure-slotmachine">
+<set id="name-campstructure-consumables">
         <string lang="de">Spielautomat</string>
         <string lang="en">Slot Machine</string>
         <string lang="fr">Machine à sous</string>
@@ -766,7 +766,7 @@
 		<string lang="zh-tw">時間膠囊</string>
 		<string lang="uk">Капсула часу</string>
 </set>
-<set id="name-campstructure-consumableshop">
+<set id="name-campstructure-upgradeshop">
 		<string lang="de">Raffinerie</string>
 		<string lang="en">Refinery</string>
 		<string lang="fr">Raffinerie</string>
@@ -948,7 +948,7 @@
         <string lang="zh-tw">“誰還需要這些基礎發生器？”</string>
         <string lang="uk">«Кому взагалі потрібні ці базові генератори?»</string>
 </set>
-<set id="quote-campstructure-slotmachine">
+<set id="quote-campstructure-consumables">
         <string lang="de">“Kinder, wir müssen über eure Glücksspielgewohnheiten sprechen.”</string>
 		<string lang="en">“Kids, we need to talk about$br$your gambling habits.”</string>
         <string lang="fr">“Les enfants, nous devons parler de vos habitudes de jeu.”</string>
@@ -1000,7 +1000,7 @@
 		<string lang="zh-tw">“哦，所以這個我們明天再放進去。”</string>
 		<string lang="uk">«О, цей ми запакуємо завтра.»</string>
 </set>
-<set id="quote-campstructure-consumableshop">
+<set id="quote-campstructure-upgradeshop">
 		<string lang="de">“Es ist stecken geblieben! Ich will mein Plasma zurück!”</string>
 		<string lang="en">“It got stuck! I want my plasma back!”</string>
 		<string lang="fr">“Il est coincé ! Je veux mon plasma en retour !”</string>
