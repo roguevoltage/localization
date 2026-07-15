@@ -207,6 +207,19 @@
         <string lang="zh-tw">如果這個模組應該受到&lt;sprite name="debuff" tint=1&gt;$b$元素負面狀態$/b$，則阻止該負面狀態，並改為給予它$turbo$。移除$grease$。</string>
         <string lang="uk">Якщо цей модуль повинен отримати &lt;sprite name="debuff" tint=1&gt;$b$Елементальний дебафф$/b$, запобігти цьому дебаффу і замість цього застосувати $turbo$ до цього модуля. Удалите $grease$.</string>
 </set>
+<set id="description-status-moduleselflubricating">
+        <string lang="de">Zu Beginn des Zuges, wenn dieses Modul kein $grease$ hat, wende $grease$ auf es an.</string>
+        <string lang="en">At the beginning of turn, if this module does not have $grease$, apply $grease$ to it.</string>
+        <string lang="fr">Au début du tour, si ce module n'a pas $grease$, appliquez $grease$ dessus.</string>
+        <string lang="zh">回合开始时，如果此模块没有$grease$，则对其施加$grease$。</string>
+        <string lang="jp">ターン開始時、このモジュールに$grease$がない場合、$grease$を付与する。</string>
+        <string lang="ru">В начале хода, если у этого модуля нет $grease$, примените $grease$ к нему.</string>
+        <string lang="es">Al comienzo del turno, si este módulo no tiene $grease$, aplícale $grease$.</string>
+        <string lang="kr">턴 시작 시, 이 모듈에 $grease$가 없으면 $grease$를 적용합니다.</string>
+        <string lang="pt-br">No início do turno, se este módulo não tiver $grease$, aplique $grease$ nele.</string>
+        <string lang="zh-tw">回合開始時，如果此模組沒有$grease$，則對其施加$grease$。</string>
+        <string lang="uk">На початку ходу, якщо цей модуль не має $grease$, застосуйте $grease$ до нього.</string>
+</set>
 <set id="description-status-modulehazardous">
 		<string lang="de">Aktivierung fügt dem Charakter für $b$5$/b$ Zeitschritte $vulnerable$ zu</string>
 		<string lang="en">Activation applies $vulnerable$ to the owner for $b$5$/b$ time steps</string>
@@ -374,6 +387,19 @@
         <string lang="pt-br">Graxa</string>
         <string lang="zh-tw">潤滑</string>
         <string lang="uk">Змащений</string>
+</set>
+<set id="name-status-moduleselflubricating">
+		<string lang="de">Selbstschmierend</string>
+		<string lang="en">Self-Lubricating</string>
+		<string lang="fr">Auto-Lubrifiant</string>
+		<string lang="zh">自我润滑</string>
+		<string lang="jp">自己潤滑</string>
+		<string lang="ru">Самосмазывающийся</string>
+		<string lang="es">Autolubricante</string>
+		<string lang="kr">자가 윤활</string>
+		<string lang="pt-br">Autolubrificante</string>
+		<string lang="zh-tw">自我潤滑</string>
+		<string lang="uk">Самозмащувальний</string>
 </set>
 <set id="name-status-modulehazardous">
 		<string lang="de">Gefährlich</string>
