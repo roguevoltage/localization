@@ -1413,6 +1413,19 @@
 </string>
 		<string lang="uk">Копіює інший вказаний не-$cracked$ модуль на цій стійці.$p$Новий модуль буде $cracked$ і $unstable$.</string>
 </set>
+<set id="description-module-toggledresonance">
+		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $resonance$.</string>
+		<string lang="en">Applies $resonance$ to target module on this rack.</string>
+        <string lang="fr">Applique $resonance$ au module ciblé sur ce rack.</string>
+        <string lang="zh">在此模架上的目标模块上施加$br$$resonance$。</string>
+        <string lang="jp">このラック上の対象モジュールに$resonance$を適用。</string>
+        <string lang="ru">Применяет $resonance$ к целевому модулю на этом стеллаже.</string>
+        <string lang="es">Aplica $resonance$ al módulo objetivo en este rack.</string>
+        <string lang="kr">이 랙의 대상 모듈에 $resonance$를 적용합니다.</string>
+        <string lang="pt-br">Aplica $resonance$ ao módulo alvo neste rack.</string>
+        <string lang="zh-tw">在此模架上的目標模組上施加$br$$resonance$。</string>
+        <string lang="uk">Застосовує $resonance$ до вказаного модуля на цій стійці.</string>
+</set>
 <set id="description-module-toggledreplicator">
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
 		<string lang="en">Applies $replicating$ and $unstable$ to target module on this rack with $cracked$.</string>
@@ -3342,6 +3355,19 @@
 		<string lang="pt-br">Kit de Reparo</string>
 		<string lang="zh-tw">修復工具包</string>
 		<string lang="uk">Ремонтний комплект</string>
+</set>
+<set id="name-module-toggledresonance">
+		<string lang="de">Upgrader: Resonanz</string>
+		<string lang="en">Upgrader: Resonance</string>
+		<string lang="fr">Améliorateur: Résonance</string>
+        <string lang="zh">增强器：共振</string>
+        <string lang="jp">アップグレーダー：共鳴</string>
+        <string lang="ru">Улучшитель: Резонанс</string>
+        <string lang="es">Mejorador: Resonancia</string>
+        <string lang="kr">업그레이더: 공명</string>
+        <string lang="pt-br">Aprimorador: Ressonância</string>
+        <string lang="zh-tw">增強器：共振</string>
+        <string lang="uk">Покращувач: Резонанс</string>
 </set>
 <set id="name-module-toggledtransmogrifier">
 		<string lang="de">Transmogrifikator</string>
