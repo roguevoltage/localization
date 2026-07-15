@@ -155,6 +155,19 @@
 		<string lang="zh-tw">啟動時製造自身的複製品。複製品處於$cooldown$中。</string>
 		<string lang="uk">Після активації цей модуль створить свою копію. Копія має $cooldown$.</string>
 </set>
+<set id="description-status-moduleresonance">
+		<string lang="de">Immer wenn dieses Modul zum ersten Mal in einem Zug $boost$ erhält, erhält es zusätzlich $boost$.</string>
+		<string lang="en">Whenever this module receives $boost$ for the first time each turn, it receives an additional $boost$.</string>
+		<string lang="fr">Chaque fois que ce module reçoit $boost$ pour la première fois à chaque tour, il reçoit un $boost$ supplémentaire.</string>
+		<string lang="zh">每回合此模块首次获得$boost$时，会额外获得$boost$。</string>
+		<string lang="jp">このモジュールが各ターン最初に$boost$を受けるたびに、追加で$boost$を受ける。</string>
+		<string lang="ru">Каждый раз, когда этот модуль впервые за ход получает $boost$, он получает дополнительный $boost$.</string>
+		<string lang="es">Cada vez que este módulo recibe $boost$ por primera vez en cada turno, recibe un $boost$ adicional.</string>
+		<string lang="kr">이 모듈이 매 턴 처음으로 $boost$를 받을 때마다, 추가로 $boost$를 받습니다.</string>
+		<string lang="pt-br">Sempre que este módulo recebe $boost$ pela primeira vez a cada turno, ele recebe um $boost$ adicional.</string>
+		<string lang="zh-tw">每回合此模組首次獲得$boost$時，會額外獲得$boost$。</string>
+		<string lang="uk">Щоразу, коли цей модуль вперше за хід отримує $boost$, він отримує додатковий $boost$.</string>
+</set>
 <set id="description-status-modulestormattractor">
 		<string lang="de">Aktivierung zieht den $storm$$br$um bis zu $3$ Zeitschritte an</string>
 		<string lang="en">Activation attracts the $storm$$br$by up to $3$ time steps</string>
@@ -309,6 +322,19 @@
 		<string lang="pt-br">Replicação Infinita</string>
 		<string lang="zh-tw">無限複製</string>
 		<string lang="uk">Безкінечна реплікація</string>
+</set>
+<set id="name-status-moduleresonance">
+		<string lang="de">Resonanz</string>
+		<string lang="en">Resonance</string>
+		<string lang="fr">Résonance</string>
+        <string lang="zh">共鸣</string>
+        <string lang="jp">共鳴</string>
+        <string lang="ru">Резонанс</string>
+        <string lang="es">Resonancia</string>
+        <string lang="kr">공명</string>
+        <string lang="pt-br">Ressonância</string>
+        <string lang="zh-tw">共鳴</string>
+        <string lang="uk">Резонанс</string>
 </set>
 <set id="name-status-modulestormattractor">
 		<string lang="de">Sturmanziehung</string>
