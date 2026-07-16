@@ -238,6 +238,19 @@
         <string lang="zh-tw">每當$storagemodule$超載，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
         <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $storagemodule$ заряджається понад його ємність.</string>
 </set>
+<set id="description-module-collectorturbo">
+		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn ein Modul auf diesem Rack $turbo$ erhält.</string>
+		<string lang="en">Generates $b$$SENSORVALUE$$/b$ $energy$ whenever $turbo$ is applied to a module on this rack.</string>
+        <string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois que $turbo$ est appliqué à un module de ce rack.</string>
+        <string lang="zh">每当这个机架上的模块获得$turbo$时，产生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="jp">このラックのモジュールが$turbo$を得るたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
+        <string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $turbo$ применяется к модулю на этой стойке.</string>
+        <string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se aplica $turbo$ a un módulo de este rack.</string>
+        <string lang="kr">이 랙의 모듈이 $turbo$를 받을 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
+        <string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $turbo$ é aplicado a um módulo neste rack.</string>
+        <string lang="zh-tw">每當這個機架上的模組獲得$turbo$時，產生$b$$SENSORVALUE$$/b$$energy$。</string>
+        <string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли $turbo$ застосовується до модуля на цій стійці.</string>
+</set>
 <set id="description-module-curse-noreroll">
 		<string lang="de">Loot kann nicht neu ausgewürfelt werden.</string>
 		<string lang="en">Loot cannot be rerolled.</string>
@@ -1948,6 +1961,19 @@
         <string lang="pt-br">Sensor de Sobrecarga $MODIFICATIONVALUE$</string>
         <string lang="zh-tw">過載感測器$MODIFICATIONVALUE$</string>
         <string lang="uk">Сенсор Перевантаження $MODIFICATIONVALUE$</string>
+</set>
+<set id="name-module-collectorturbo">
+		<string lang="de">Turbo-Sensor $MODIFICATIONVALUE$</string>
+		<string lang="en">Turbo Sensor $MODIFICATIONVALUE$</string>
+		<string lang="fr">Capteur de Turbo $MODIFICATIONVALUE$</string>
+        <string lang="zh">涡轮增压传感器$MODIFICATIONVALUE$</string>
+        <string lang="jp">ターボセンサー$MODIFICATIONVALUE$</string>
+        <string lang="ru">Сенсор Турбо $MODIFICATIONVALUE$</string>
+        <string lang="es">Sensor de Turbo $MODIFICATIONVALUE$</string>
+        <string lang="kr">터보 감지기 $MODIFICATIONVALUE$</string>
+        <string lang="pt-br">Sensor de Turbo $MODIFICATIONVALUE$</string>
+        <string lang="zh-tw">渦輪增壓感測器$MODIFICATIONVALUE$</string>
+        <string lang="uk">Сенсор Турбо $MODIFICATIONVALUE$</string>
 </set>
 <set id="name-module-curse-noreroll">
 		<string lang="de">Zerbrochener Würfel</string>
