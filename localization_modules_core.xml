@@ -780,18 +780,18 @@
         <string lang="zh-tw">每3次在此機架上啟動一個$generator$，將$boost$應用於它。</string>
         <string lang="uk">Кожен 3-й раз, коли активується $generator$, до нього застосовується $boost$.</string>        
 </set>
-<set id="description-module-passivegeneratorturbo">
-        <string lang="de">Fügt zu Beginn des Zuges einem zufälligen $generator$ auf diesem Rack $turbo$ zu.$p$Er erhält bis zum Ende des Kampfes $exhaustion$.</string>
-		<string lang="en">At the beginning of turn, applies $turbo$ to a random $generator$ on this rack.$p$It receives $exhaustion$ $nobr$until end of combat.$/nobr$</string>
-        <string lang="fr">Au début du tour, applique $turbo$ à un $generator$ aléatoire sur ce rack.$p$Il reçoit $exhaustion$ jusqu'à la fin du combat.</string>
-        <string lang="zh">每回合开始时，对此机架上的一个随机$generator$施加$turbo$。$p$它将获得$exhaustion$直到战斗结束。</string>
-        <string lang="jp">ターン開始時、このラックのランダムな$generator$に$turbo$を適用します。$p$それは戦闘終了まで$exhaustion$を受け取ります。</string>
-        <string lang="ru">В начале каждого хода применяет $turbo$ к случайному $generator$ на этой стойке.$p$Он получает $exhaustion$ до конца боя.</string>
-        <string lang="es">Al comienzo de cada turno, aplica $turbo$ a un $generator$ aleatorio en este rack.$p]Recibe $exhaustion$ hasta el final del combate.</string>
-        <string lang="kr">매 턴 시작 시 이 랙의 무작위 $generator$에 $turbo$를 적용합니다.$p$그것은 전투가 끝날 때까지 $exhaustion$를 받습니다.</string>
-        <string lang="pt-br">No início de cada turno, aplica $turbo$ a um $generator$ aleatório neste rack.$p]Ele recebe $exhaustion$ até o final do combate.</string>
-        <string lang="zh-tw">每回合開始時，對此機架上的一個隨機$generator$施加$turbo$。$p]它將獲得$exhaustion$直到戰鬥結束。</string>
-        <string lang="uk">На початку кожного ходу застосовує $turbo$ до випадкового $generator$$br$$nobr$$на цьому стійці$/nobr$. Він отримує $exhaustion$, доки не закінчиться бій.</string>
+<set id="description-module-passivegeneratorboost">
+        <string lang="de">Fügt zu Beginn des Zuges einem zufälligen $generator$ auf diesem Rack $boost$ zu.$p$Er erhält bis zum Ende des Kampfes $exhaustion$.</string>
+		<string lang="en">At the beginning of turn, applies $boost$ to a random $generator$ on this rack.$p$It receives $exhaustion$ $nobr$until end of combat.$/nobr$</string>
+        <string lang="fr">Au début du tour, applique $boost$ à un $generator$ aléatoire sur ce rack.$p$Il reçoit $exhaustion$ jusqu'à la fin du combat.</string>
+        <string lang="zh">每回合开始时，对此机架上的一个随机$generator$施加$boost$。$p$它将获得$exhaustion$直到战斗结束。</string>
+        <string lang="jp">ターン開始時、このラックのランダムな$generator$に$boost$を適用します。$p$それは戦闘終了まで$exhaustion$を受け取ります。</string>
+        <string lang="ru">В начале каждого хода применяет $boost$ к случайному $generator$ на этой стойке.$p$Он получает $exhaustion$ до конца боя.</string>
+        <string lang="es">Al comienzo de cada turno, aplica $boost$ a un $generator$ aleatorio en este rack.$p]Recibe $exhaustion$ hasta el final del combate.</string>
+        <string lang="kr">매 턴 시작 시 이 랙의 무작위 $generator$에 $boost$를 적용합니다.$p$그것은 전투가 끝날 때까지 $exhaustion$를 받습니다.</string>
+        <string lang="pt-br">No início de cada turno, aplica $boost$ a um $generator$ aleatório neste rack.$p]Ele recebe $exhaustion$ até o final do combate.</string>
+        <string lang="zh-tw">每回合開始時，對此機架上的一個隨機$generator$施加$boost$。$p]它將獲得$exhaustion$直到戰鬥結束。</string>
+        <string lang="uk">На початку кожного ходу застосовує $boost$ до випадкового $generator$$br$$nobr$$на цьому стійці$/nobr$. Він отримує $exhaustion$, доки не закінчиться бій.</string>
 </set>
 <set id="description-module-passivemedikit">
 		<string lang="de">Wendet zu Beginn des Zuges $1healing$ auf den Charakter an.</string>
@@ -2195,7 +2195,7 @@
         <string lang="zh-tw">風箱</string>
         <string lang="uk">Мехи</string>
 </set>
-<set id="name-module-passivegeneratorturbo" remarks="translate as Oil Can">
+<set id="name-module-passivegeneratorboost" remarks="translate as Oil Can">
         <string lang="de">Ölkanne</string>
         <string lang="en">Oil Can</string>
         <string lang="fr">Bidon d'Huile</string>
