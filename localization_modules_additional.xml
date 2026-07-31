@@ -1126,6 +1126,19 @@
 		<string lang="zh-tw">在回合開始時，$nobr$執行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
 		<string lang="uk">На початку ходу, $nobr$виконайте $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
 </set>
+<set id="description-module-passivestorageinductor-chrono">
+		<string lang="de">Am Ende des Zuges, wenn sich diesen Zug die Reihenfolge der Züge geändert hat, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="en">At the end of turn, if the turn order has changed this turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="fr">À la fin du tour, si l'ordre des tours a été modifié ce tour-ci, $nobr$effectuez $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh">在回合结束时，如果轮次发生了改变，$nobr$执行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="jp">ターン終了時、ターン順がこのターン変更された場合、$nobr$$randominduction$$/nobr$を行う。$p$$reminder-randominduction$</string>
+		<string lang="ru">В конце хода, если порядок ходов изменился, $nobr$выполните $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="es">Al final del turno, si el orden de turno ha cambiado este turno, $nobr$realiza $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="kr">턴 종료 시, 턴 순서가 변경되었다면, $nobr$$randominduction$$/nobr$를 수행합니다.$p$$reminder-randominduction$</string>
+		<string lang="pt-br">No final do turno, se a ordem de turno tiver sido alterada este turno, $nobr$execute $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="zh-tw">在回合結束時，如果輪次發生了改變，$nobr$執行 $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+		<string lang="uk">На кінці ходу, якщо порядок ходів змінився, $nobr$виконайте $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
+</set>
 <set id="description-module-passivestorageinductor-endofturn">
 		<string lang="de">Am Ende des Zuges, $nobr$wende $randominduction$ an$/nobr$.$p$$reminder-randominduction$</string>
 		<string lang="en">At the end of turn, $nobr$perform $randominduction$$/nobr$.$p$$reminder-randominduction$</string>
@@ -2836,6 +2849,19 @@
 		<string lang="pt-br">Turbina</string>
 		<string lang="zh-tw">渦輪</string>
 		<string lang="uk">Турбіна</string>
+</set>
+<set id="name-module-passivestorageinductor-chrono">
+		<string lang="de">Turbine: Chrono</string>
+		<string lang="en">Turbine: Chrono</string>
+		<string lang="fr">Turbine : Chrono</string>
+		<string lang="zh">涡轮：时序</string>
+		<string lang="jp">タービン：クロノ</string>
+		<string lang="ru">Турбина: Хроно</string>
+		<string lang="es">Turbina: Crono</string>
+		<string lang="kr">터빈: 크로노</string>
+		<string lang="pt-br">Turbina: Crono</string>
+		<string lang="zh-tw">渦輪：時序</string>
+		<string lang="uk">Турбіна: Хроно</string>
 </set>
 <set id="name-module-passivestorageinductor-endofturn">
 		<string lang="de">Turbine</string>
