@@ -1366,12 +1366,12 @@
         <string lang="fr">Est chargé de $1energy$ après le tour pour chaque fois que $energy$ a traversé un câble &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$vert$/b$&lt;/color&gt; et &lt;color=#7272FF&gt;$b$bleu$/b$&lt;/color&gt; sur ce rack.</string>
         <string lang="zh">在此模架上，每次$energy$通过一个&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;电缆后，充电$1energy$。</string>
         <string lang="jp">ターン後、$energy$がこのラックの&lt;color=#FF5555&gt;$b$赤色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$緑色$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$青色$/b$&lt;/color&gt;のケーブルを通過するたびに$1energy$が充電されます。</string>
-        <string lang="ru">Заряжает $1energy$ после хода за каждую передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зеленый$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; на этом стеллаже.</string>
+        <string lang="ru">Заряжает $1energy$ после хода за каждую передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зеленый$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; на этой стойке.</string>
         <string lang="es">Se carga con $1energy$ después de un turno por cada vez que $energy$ pasa a través de un cable &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; en este estante.</string>
         <string lang="kr">턴 종료 시, $energy$가 이 랙의 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$초록색$/b$&lt;/color&gt; 및 &lt;color=#7272FF&gt;$b$파란색$/b$&lt;/color&gt; 케이블을 통과할 때마다 $1energy$가 충전됩니다.</string>
         <string lang="pt-br">É carregado com $1energy$ após um turno de cada vez que $energy$ passa por um cabo &lt;color=#FF5555&gt;$b$vermelho$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; neste rack.</string>
         <string lang="zh-tw">在此模架上，每次$energy$通過一個&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$綠色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$藍色$/b$&lt;/color&gt;電纜後，充電$1energy$。</string>
-        <string lang="uk">Заряджається на $1energy$ після ходу за кожну передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цьому стеллаже.</string>
+        <string lang="uk">Заряджається на $1energy$ після ходу за кожну передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цій стійці.</string>
 </set>
 <set id="description-module-toggledgreasecanister">
 		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $grease$.</string>
@@ -1379,7 +1379,7 @@
         <string lang="fr">Applique $grease$ au module ciblé sur ce rack.</string>
         <string lang="zh">在此模架上的目标模块上施加$br$$grease$。</string>
         <string lang="jp">このラック上の対象モジュールに$grease$を適用。</string>
-        <string lang="ru">Применяет $grease$ к целевому модулю на этом стеллаже.</string>
+        <string lang="ru">Применяет $grease$ к целевому модулю на этой стойке.</string>
         <string lang="es">Aplica $grease$ al módulo objetivo en este rack.</string>
         <string lang="kr">이 랙의 대상 모듈에 $grease$를 적용합니다.</string>
         <string lang="pt-br">Aplica $grease$ ao módulo alvo neste rack.</string>
@@ -1392,7 +1392,7 @@
         <string lang="fr">Charge $storagemodule$ ciblé sur ce rack avec $1energy$.</string>
         <string lang="zh">在此模架上为目标$storagemodule$充能$br$$1energy$。</string>
         <string lang="jp">このラック上の対象$storagemodule$を$1energy$で充電。</string>
-        <string lang="ru">Заряжает целевой $storagemodule$ на этом стеллаже на $1energy$.</string>
+        <string lang="ru">Заряжает целевой $storagemodule$ на этой стойке на $1energy$.</string>
         <string lang="es">Carga el $storagemodule$ objetivo  con $1energy$.</string>
         <string lang="kr">이 랙의 대상 $storagemodule$에 $1energy$를 충전합니다.</string>
         <string lang="pt-br">Carrega o $storagemodule$ alvo neste rack com $1energy$.</string>
@@ -1431,7 +1431,7 @@
 		<string lang="fr">Construit une copie d'un autre module ciblé sans $cracked$ sur ce rack.$p$La copie a $cracked$ et $unstable$.</string>
 		<string lang="zh">在此模架上选择一个非$cracked$的模块，制造一个该模块的复制品。$p$复制品$cracked$且$unstable$。</string>
 		<string lang="jp">ラックの$cracked$付与されていない$br$別の対象モジュールを複製。$p$複製に$cracked$と$unstable$付与。</string>
-		<string lang="ru">Создает копию другого целевого модуля без $cracked$ на этом стеллаже.$p$Копия имеет $cracked$ и $unstable$.</string>
+		<string lang="ru">Создает копию другого целевого модуля без $cracked$ на этой стойке.$p$Копия имеет $cracked$ и $unstable$.</string>
 		<string lang="es">Construye una copia de otro módulo objetivo sin $cracked$ .$p$La copia tiene $cracked$ y $unstable$.</string>
 		<string lang="kr">$cracked$ 상태가 아닌 다른 대상 모듈의 복사본을 이 랙에 조립합니다.$p$복사본은 $cracked$과 $unstable$ 상태를 지닙니다.</string>
 		<string lang="pt-br">Constrói uma cópia de outro módulo alvo não $cracked$ neste rack.$p$A cópia tem $cracked$ e $unstable$.</string>
@@ -1445,7 +1445,7 @@
         <string lang="fr">Applique $resonance$ au module ciblé sur ce rack.</string>
         <string lang="zh">在此模架上的目标模块上施加$br$$resonance$。</string>
         <string lang="jp">このラック上の対象モジュールに$resonance$を適用。</string>
-        <string lang="ru">Применяет $resonance$ к целевому модулю на этом стеллаже.</string>
+        <string lang="ru">Применяет $resonance$ к целевому модулю на этой стойке.</string>
         <string lang="es">Aplica $resonance$ al módulo objetivo en este rack.</string>
         <string lang="kr">이 랙의 대상 모듈에 $resonance$를 적용합니다.</string>
         <string lang="pt-br">Aplica $resonance$ ao módulo alvo neste rack.</string>
@@ -1458,7 +1458,7 @@
 		<string lang="fr">Applique $replicating$ et $unstable$ à un module ciblé sur ce rack avec $cracked$.</string>
 		<string lang="zh">选择同模架上另一$cracked$模块，$br$赋予其$replicating$及$unstable$状态。</string>
 		<string lang="jp">ラックの別の$cracked$付与された対象モジュールに、$replicating$と$unstable$付与。</string>
-		<string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этом стеллаже с $cracked$.</string>
+		<string lang="ru">Применяет $replicating$ и $unstable$ к другому целевому модулю на этой стойке с $cracked$.</string>
 		<string lang="es">Aplica $replicating$ y $unstable$ a otro módulo objetivo  con $cracked$.</string>
 		<string lang="kr">$cracked$ 상태를 지닌 이 랙의 다른 대상 모듈에게 $replicating$과 $unstable$을 부여합니다.</string>
 		<string lang="pt-br">Aplica $replicating$ e $unstable$ a outro módulo alvo neste rack com $cracked$.</string>
@@ -1549,7 +1549,7 @@
 		<string lang="fr">Applique $gravvacuum$ de manière permanente à un autre module ciblé sur ce rack.</string>
 		<string lang="zh">在此模架上选择一个$passthroughmodule$，$br$为其施加永久$gravvacuum$。</string>
 		<string lang="jp">ラックの対象$passthroughmodule$に恒久的に$gravvacuum$付与。</string>
-		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этом стеллаже.</string>
+		<string lang="ru">Постоянно применяет $gravvacuum$ к целевому $passthroughmodule$ на этой стойке.</string>
 		<string lang="es">Aplica $gravvacuum$ permanentemente a un módulo objetivo .</string>
 		<string lang="kr">이 랙의 대상 $passthroughmodule$에게 영구적으로 $gravvacuum$을 부여합니다.</string>
 		<string lang="pt-br">Aplica $gravvacuum$ permanentemente a um módulo alvo neste rack.</string>

@@ -31,12 +31,12 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ à chaque fois qu'un $storagemodule$ sur ce rack est chargé.</string> 
 		<string lang="zh">任意$storagemodule$在此机架上被充能时，$br$产出$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">$storagemodule$がこのラックで充電されるたび、$br$$b$$SENSORVALUE$$/b$$energy$発電。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ на этом стеллаже заряжается.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$ каждый раз, когда $storagemodule$ на этой стойке заряжается.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez$br$que un módulo de tipo$br$$storagemodule$$br$en este rack es cargado.</string>
 		<string lang="kr">$storagemodule$이 이 랙에서 충전될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생산합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que um módulo do tipo $storagemodule$ neste rack é carregado.</string>
 		<string lang="zh-tw">任意$storagemodule$在此機架上被充能時，$br$產出$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$ на цьому стелажі.</string>
+		<string lang="uk">Генерує $b$ $SENSORVALUE$ $/b$ $energy$ щоразу, коли заряджається $storagemodule$ на цій стійці.</string>
 </set>
 <set id="description-module-collectorchrono">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, immer wenn sich die Reihenfolge der Züge ändert.</string>
@@ -190,12 +190,12 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ chaque fois que de l'$energy$ passe par un câble &lt;color=#b35b92&gt;$b$Type 1 (Rose)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Type 2 (Orange)$/b$&lt;/color&gt; et &lt;color=#7272FF&gt;$b$Type 3 (Bleu)$/b$&lt;/color&gt; sur ce rack.</string>
 		<string lang="zh">当$energy$通过此模架上的&lt;color=#b35b92&gt;$b$类型1（粉色）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$类型2（橙色）$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$类型3（蓝色）$/b$&lt;/color&gt;电缆时，生成$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">このラック上の&lt;color=#b35b92&gt;$b$タイプ1（ピンク）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$タイプ2（オレンジ）$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$タイプ3（ブルー）$/b$&lt;/color&gt;のケーブルを通じて$energy$が渡されるたびに、$b$$SENSORVALUE$$/b$$energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$, когда $energy$ проходит через кабель &lt;color=#b35b92&gt;$b$Тип 1 (Розовый)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Оранжевый)$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$Тип 3 (Синий)$/b$&lt;/color&gt; на этом стеллаже.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$, когда $energy$ проходит через кабель &lt;color=#b35b92&gt;$b$Тип 1 (Розовый)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Оранжевый)$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$Тип 3 (Синий)$/b$&lt;/color&gt; на этой стойке.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se pasa $energy$ por un cable &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Tipo 2 (Naranja)$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt; .</string>
 		<string lang="kr">이 랙의 &lt;color=#b35b92&gt;$b$타입 1 (핑크)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$타입 2 (오렌지)$/b$&lt;/color&gt;, &lt;color=#7272FF&gt;$b$타입 3 (파랑)$/b$&lt;/color&gt; 케이블을 통해 $energy$가 전달될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $energy$ passa por um cabo &lt;color=#b35b92&gt;$b$Tipo 1 (Rosa)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Tipo 2 (Laranja)$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$Tipo 3 (Azul)$/b$&lt;/color&gt; neste rack.</string>
 		<string lang="zh-tw">當$energy$通過此模架上的&lt;color=#b35b92&gt;$b$類型1（粉色）$/b$&lt;/color&gt;、&lt;color=#ca754f&gt;$b$類型2（橙色）$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$類型3（藍色）$/b$&lt;/color&gt;電纜時，生成$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$$SENSORVALUE$$/b$ $energy$, коли $energy$ проходить через кабель &lt;color=#b35b92&gt;$b$Тип 1 (Рожевий)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Помаранчевий)$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$Тип 3 (Синій)$/b$&lt;/color&gt; на цьому стеллажі.</string>
+		<string lang="uk">Генерує $b$$SENSORVALUE$$/b$ $energy$, коли $energy$ проходить через кабель &lt;color=#b35b92&gt;$b$Тип 1 (Рожевий)$/b$&lt;/color&gt;, &lt;color=#ca754f&gt;$b$Тип 2 (Помаранчевий)$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$Тип 3 (Синій)$/b$&lt;/color&gt; на цій стійці.</string>
 </set>
 <set id="description-module-collectortricolor">
 		<string lang="de">Erzeugt $b$$SENSORVALUE$$/b$ $energy$, wenn $energy$ durch ein &lt;color=#FF5555&gt;$b$rotes$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$grünes$/b$&lt;/color&gt; und &lt;color=#7272FF&gt;$b$blaues$/b$&lt;/color&gt; Kabel auf diesem Rack geleitet wird.</string>
@@ -203,12 +203,12 @@
 		<string lang="fr">Génère $b$$SENSORVALUE$$/b$ $energy$ chaque fois que de l'$energy$ passe par un câble &lt;color=#FF5555&gt;$b$rouge$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$vert$/b$&lt;/color&gt; et &lt;color=#7272FF&gt;$b$bleu$/b$&lt;/color&gt; sur ce rack.</string>
 		<string lang="zh">当$energy$通过此模架上的&lt;color=#FF5555&gt;$b$红色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$绿色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$蓝色$/b$&lt;/color&gt;电缆时，生成$b$$SENSORVALUE$$/b$$energy$。</string>
 		<string lang="jp">このラック上の&lt;color=#FF5555&gt;$b$赤色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$緑色$/b$&lt;/color&gt;、&lt;color=#7272FF&gt;$b$青色$/b$&lt;/color&gt;のケーブルを通じて$energy$が渡されるたびに、$b$$SENSORVALUE$$/b$$energy$を生成します。</string>
-		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$, когда $energy$ проходит через кабель &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелёный$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; на этом стеллаже.</string>
+		<string lang="ru">Генерирует $b$$SENSORVALUE$$/b$ $energy$, когда $energy$ проходит через кабель &lt;color=#FF5555&gt;$b$красный$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелёный$/b$&lt;/color&gt; и &lt;color=#7272FF&gt;$b$синий$/b$&lt;/color&gt; на этой стойке.</string>
 		<string lang="es">Genera $b$$SENSORVALUE$$/b$ $energy$ cada vez que se pasa $energy$ por un cable &lt;color=#FF5555&gt;$b$rojo$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; y &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; .</string>
 		<string lang="kr">이 랙의 &lt;color=#FF5555&gt;$b$빨간색$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$초록색$/b$&lt;/color&gt;, &lt;color=#7272FF&gt;$b$파란색$/b$&lt;/color&gt; 케이블을 통해 $energy$가 전달될 때마다 $b$$SENSORVALUE$$/b$ $energy$를 생성합니다.</string>
 		<string lang="pt-br">Gera $b$$SENSORVALUE$$/b$ $energy$ sempre que $energy$ passa por um cabo &lt;color=#FF5555&gt;$b$vermelho$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$verde$/b$&lt;/color&gt; e &lt;color=#7272FF&gt;$b$azul$/b$&lt;/color&gt; neste rack.</string>
 		<string lang="zh-tw">當$energy$通過此模架上的&lt;color=#FF5555&gt;$b$紅色$/b$&lt;/color&gt;、&lt;color=#7fbe63&gt;$b$綠色$/b$&lt;/color&gt;和&lt;color=#7272FF&gt;$b$藍色$/b$&lt;/color&gt;電纜時，生成$b$$SENSORVALUE$$/b$$energy$。</string>
-		<string lang="uk">Генерує $b$$SENSORVALUE$$/b$ $energy$, коли $energy$ проходить через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цьому стеллажі.</string>
+		<string lang="uk">Генерує $b$$SENSORVALUE$$/b$ $energy$, коли $energy$ проходить через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цій стійці.</string>
 </set>
 <set id="description-module-condensator">
 		<string lang="de">Kann ge- oder entladen werden.</string>
@@ -2201,7 +2201,7 @@
         <string lang="fr">Bidon d'Huile</string>
         <string lang="zh">油罐</string>
         <string lang="jp">オイル缶</string>
-        <string lang="ru">Маслянка</string>
+        <string lang="ru">Маслёнка</string>
         <string lang="es">Lata de Aceite</string>
         <string lang="kr">오일 캔</string>
         <string lang="pt-br">Lata de Óleo</string>
