@@ -591,6 +591,19 @@
 </string>
 		<string lang="uk">Збільшує $mighticon$$b$Силу$ на $1$ щоразу, коли союзник зазнає поразки.</string>
 </set>
+<set id="description-skill-passive-reactorshield">
+        <string lang="de">Hat $shield2$ für jeden aktiven $b$Reaktorsockel$/b$.</string>
+        <string lang="en">Has $shield2$ for each active $b$Reactor Socket$/b$.</string>
+        <string lang="fr">A $shield2$ pour chaque $b$Socle de Réacteur$/b$ actif.</string>
+        <string lang="zh">每个激活的$b$插槽$/b$获得$shield2$。</string>
+        <string lang="jp">アクティブな$b$ソケット$/b$ごとに$shield2$を持つ。</string>
+        <string lang="ru">Имеет $shield2$ за каждую активную $b$Розетку реактора$/b$.</string>
+        <string lang="es">Tiene $shield2$ por cada $b$Zócalo del Reactor$/b$ activo.</string>
+        <string lang="kr">활성화된 $b$소켓$/b$마다 $shield2$를 가집니다.</string>
+        <string lang="pt-br">Tem $shield2$ para cada $b$Soquete do Reator$/b$ ativo.</string>
+        <string lang="zh-tw">每個啟動的$b$插槽$/b$獲得$shield2$。</string>
+        <string lang="uk">Має $shield2$ за кожне активне $b$Гніздо Реактора$/b$.</string>
+</set>
 <set id="description-skill-passive-volcanodamagetograv">
 		<string lang="de">Eingehender $damage$ durch den Vulkan wird in $grav+$ umgewandelt.</string>
 		<string lang="en">Incoming $damage$ by the volcano is transformed into $grav+$ instead.</string>
@@ -1459,6 +1472,19 @@
         <string lang="zh-tw">巢穴之怒$mighticon$
 </string>
         <string lang="uk">Лють гнізда $mighticon$</string>
+</set>
+<set id="name-skill-passive-reactorshield">
+        <string lang="de">Reaktor-Schild</string>
+		<string lang="en">Reactor Shield</string>
+        <string lang="fr">Bouclier du Réacteur</string>
+        <string lang="zh">反应堆护盾</string>
+        <string lang="jp">リアクターシールド</string>
+        <string lang="ru">Реакторный Щит</string>
+        <string lang="es">Escudo del Reactor</string>
+        <string lang="kr">리액터 방패</string>
+        <string lang="pt-br">Escudo do Reator</string>
+        <string lang="zh-tw">反應堆護盾</string>
+        <string lang="uk">Реакторний Щит</string>
 </set>
 <set id="name-skill-passive-volcanodamagetograv">
 		<string lang="de">Vulkan-$damage$ zu $grav+$</string>
