@@ -1440,17 +1440,17 @@
 		<string lang="uk">Копіює інший вказаний не-$cracked$ модуль на цій стійці.$p$Новий модуль буде $cracked$ і $unstable$.</string>
 </set>
 <set id="description-module-toggledresonance">
-		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $resonance$.</string>
-		<string lang="en">Applies $resonance$ to target module on this rack.</string>
-        <string lang="fr">Applique $resonance$ au module ciblé sur ce rack.</string>
-        <string lang="zh">在此模架上的目标模块上施加$br$$resonance$。</string>
-        <string lang="jp">このラック上の対象モジュールに$resonance$を適用。</string>
-        <string lang="ru">Применяет $resonance$ к целевому модулю на этой стойке.</string>
-        <string lang="es">Aplica $resonance$ al módulo objetivo en este rack.</string>
-        <string lang="kr">이 랙의 대상 모듈에 $resonance$를 적용합니다.</string>
-        <string lang="pt-br">Aplica $resonance$ ao módulo alvo neste rack.</string>
-        <string lang="zh-tw">在此模架上的目標模組上施加$br$$resonance$。</string>
-        <string lang="uk">Застосовує $resonance$ до вказаного модуля на цій стійці.</string>
+		<string lang="de">Versieht ein $generator$- oder $passthrough$-Modul deiner Wahl auf diesem Rack mit $resonance$.</string>
+		<string lang="en">Applies $resonance$ to target $generator$ or $passthrough$ module $nobr$on this rack$/nobr$.</string>
+        <string lang="fr">Applique $resonance$ à un module de type $generator$ ou $passthrough$ ciblé sur ce rack.</string>
+        <string lang="zh">为此模架上目标$generator$或$passthrough$类型的模块施加$br$$resonance$。</string>
+        <string lang="jp">ラックの対象$generator$または$passthrough$タイプのモジュールに$resonance$を適用。</string>
+        <string lang="ru">Применяет $resonance$ к целевому модулю типа $generator$ или $passthrough$ на этой стойке.</string>
+        <string lang="es">Aplica $resonance$ al módulo objetivo de tipo $generator$ o $passthrough$ en este rack.</string>
+        <string lang="kr">이 랙의 대상 모듈에 $resonance$를 적용합니다.$br$모듈 유형은 $generator$ 또는 $passthrough$입니다.</string>
+        <string lang="pt-br">Aplica $resonance$ ao módulo alvo do tipo $generator$ ou $passthrough$ neste rack.</string>
+        <string lang="zh-tw">為此模架上目標$generator$或$passthrough$類型的模組施加$br$$resonance$。</string>
+        <string lang="uk">Застосовує $resonance$ до цільового модуля типу $generator$ або $passthrough$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledreplicator">
 		<string lang="de">Versieht ein Modul mit $cracked$ deiner Wahl auf diesem Rack mit $replicating$ und $unstable$.</string>
