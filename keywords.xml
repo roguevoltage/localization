@@ -12,6 +12,9 @@
 	<string lang="zh-tw">$nobr$$storageicon$$b$感應 1$/b$$/nobr$</string>
 	<string lang="uk">$nobr$$storageicon$$b$Індукція 1$/b$$/nobr$</string>
 </set>
+<set id="$stockpile$">
+	<string lang="en">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Stockpile 1$/b$$/nobr$</string>
+</set>
 <set id="$frostbite$">
 	<string lang="de">$b$Erfrierung $grav+icon$$arrowright$$damageicon$$/b$</string>
 	<string lang="en">$b$Frostbite $grav+icon$$arrowright$$damageicon$$/b$</string>
@@ -65,8 +68,8 @@
 	<string lang="uk">&lt;size=11&gt;(Невозможно уменьшить $energy$ на $storage$ модуле с $cracked$ до менее чем $1$.$br$Не работает на бомбах замедленного действия)</string>
 </set>
 <set id="$reminder-randominduction$">
-	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$).</string>
-    <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$).</string>
+	<string lang="de">&lt;size=11&gt;(Lädt ein zufälliges $storage$ Modul ohne $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1energy$.)</string>
+    <string lang="en">&lt;size=11&gt;(Charges a random $nobr$non-$cracked$$/nobr$ $storage$ module $nobr$on this rack$/nobr$ with $1e$.)</string>
 	<string lang="fr">&lt;size=11&gt;(Charge un module $storage$ aléatoire sans $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$).</string>
 	<string lang="zh">&lt;size=11&gt;(为此模架上一非$cracked$模块充能$1e$)。</string>
 	<string lang="jp">&lt;size=11&gt;(このラックの$cracked$$br$付与されていないランダムな$storage$モジュールに$1e$充電)。</string>
@@ -76,6 +79,9 @@
 	<string lang="pt-br">&lt;size=11&gt;(Carrega um módulo $storage$ aleatório sem $cracked$ $nobr$neste rack$/nobr$ com $1e$).</string>
 	<string lang="zh-tw">&lt;size=11&gt;(為此模架上一非$cracked$模块充能$1e$)。</string>
 	<string lang="uk">&lt;size=11&gt;(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цій стійці$/nobr$ на $1e$).</string>
+</set>
+<set id="$reminder-stockpile$">
+    <string lang="en">&lt;size=11&gt;(Charges a random $b$Storage Cell$/b$ with $cracked$ $nobr$on this rack$/nobr$ with $1e$. If you don't own one, construct one first.)</string>
 </set>
 <set id="$reminder-randomboost$">
     <string lang="de">&lt;size=11&gt;(Wende $boost$ auf ein zufälliges $passthrough$ Modul $nobr$auf diesem Rack$/nobr$ an).</string>
