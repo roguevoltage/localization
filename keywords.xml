@@ -13,7 +13,17 @@
 	<string lang="uk">$nobr$$storageicon$$b$Індукція 1$/b$$/nobr$</string>
 </set>
 <set id="$stockpile$">
+	<string lang="de">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Vorrat 1$/b$$/nobr$</string>
 	<string lang="en">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Stockpile 1$/b$$/nobr$</string>
+	<string lang="fr">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Réserve 1$/b$$/nobr$</string>
+	<string lang="zh">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$储备 1$/b$$/nobr$</string>
+	<string lang="jp">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$ストックパイル 1$/b$$/nobr$</string>
+	<string lang="ru">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Запас 1$/b$$/nobr$</string>
+	<string lang="es">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Reserva 1$/b$$/nobr$</string>
+	<string lang="kr">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$비축 1$/b$$/nobr$</string>
+	<string lang="pt-br">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Estoque 1$/b$$/nobr$</string>
+	<string lang="zh-tw">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$儲備 1$/b$$/nobr$</string>
+	<string lang="uk">$nobr$&lt;sprite name="stockpile" tint=1&gt;$b$Запас 1$/b$$/nobr$</string>
 </set>
 <set id="$frostbite$">
 	<string lang="de">$b$Erfrierung $grav+icon$$arrowright$$damageicon$$/b$</string>
@@ -81,7 +91,17 @@
 	<string lang="uk">&lt;size=11&gt;(Заряджає випадковий $storage$ модуль без $cracked$ $nobr$на цій стійці$/nobr$ на $1e$).</string>
 </set>
 <set id="$reminder-stockpile$">
+    <string lang="de">&lt;size=11&gt;(Lädt eine zufällige $b$Speicherzelle$/b$ mit $cracked$ $nobr$auf diesem Rack$/nobr$ mit $1e$ auf. Falls du keine besitzt, baue zuerst eine.)</string>
     <string lang="en">&lt;size=11&gt;(Charges a random $b$Storage Cell$/b$ with $cracked$ $nobr$on this rack$/nobr$ with $1e$. If you don't own one, construct one first.)</string>
+    <string lang="fr">&lt;size=11&gt;(Charge une $b$Pile$/b$ aléatoire avec $cracked$ $nobr$sur ce rack$/nobr$ avec $1e$. Si tu n'en possèdes pas, construis-en une d'abord.)</string>
+    <string lang="zh">&lt;size=11&gt;(为此模架上一个随机的$b$储存单元$/b$充能$1e$，并附加$cracked$。如果你还没有，请先建造一个。)</string>
+    <string lang="jp">&lt;size=11&gt;(このラックのランダムな$b$充電池$/b$に$cracked$を付与し、$1e$を充電します。持っていない場合は、先に作成してください。)</string>
+    <string lang="ru">&lt;size=11&gt;(Заряжает случайную $b$Ячейку Хранения$/b$ с $cracked$ $nobr$на этой стойке$/nobr$ на $1e$. Если у вас её нет, сначала создайте её.)</string>
+    <string lang="es">&lt;size=11&gt;(Carga una $b$Pila$/b$ aleatoria con $cracked$ $nobr$en este rack$/nobr$ con $1e$. Si no tienes una, construye una primero.)</string>
+    <string lang="kr">&lt;size=11&gt;(이 랙의 무작위 $b$축전지$/b$에 $cracked$를 부여하고 $1e$를 충전합니다. 보유하고 있지 않다면 먼저 제작하세요.)</string>
+    <string lang="pt-br">&lt;size=11&gt;(Carrega uma $b$Célula de Armazenamento$/b$ aleatória com $cracked$ $nobr$neste rack$/nobr$ com $1e$. Se você não tiver uma, construa uma primeiro.)</string>
+    <string lang="zh-tw">&lt;size=11&gt;(為此模架上一個隨機的$b$儲存單元$/b$充能$1e$，並附加$cracked$。如果你還沒有，請先建造一個。)</string>
+    <string lang="uk">&lt;size=11&gt;(Заряджає випадкову $b$Комірку зберігання$/b$ з $cracked$ $nobr$на цій стійці$/nobr$ на $1e$. Якщо у вас її немає, спочатку створіть її.)</string>
 </set>
 <set id="$reminder-randomboost$">
     <string lang="de">&lt;size=11&gt;(Wende $boost$ auf ein zufälliges $passthrough$ Modul $nobr$auf diesem Rack$/nobr$ an).</string>
