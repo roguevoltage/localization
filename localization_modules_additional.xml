@@ -1036,13 +1036,43 @@
         <string lang="uk">Якщо модуль на цій стійці має отримати $nobr$&lt;sprite name="debuff" tint=1&gt;$b$Елементальний Дебаф$/b$$/nobr$, змініть ціль на інший модуль на цій стійці замість цього.$p$$reminder-onceperturn$</string>
 </set>
 <set id="description-module-passivestockpile-heal">
-		<string lang="en">$stockpile$.$p$$reminder-stockpile$</string>
+        <string lang="de">Am Ende des Zuges, wenn der Charakter diesen Zug $healing$ erhalten hat, führe $nobr$$stockpile$$/nobr$ durch.$p$$reminder-stockpile$</string>
+		<string lang="en">At the end of turn, if the owner has received $healing$ this turn, $nobr$perform $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="fr">À la fin du tour, si le propriétaire a reçu $healing$ ce tour, $nobr$effectuez $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh">在回合结束时，如果拥有者本回合受到了$healing$，$nobr$执行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="jp">ターン終了時、所有者がこのターン$healing$を受けた場合、$nobr$$stockpile$$/nobr$を行う。$p$$reminder-stockpile$</string>
+        <string lang="ru">В конце хода, если владелец получил $healing$ в этом ходу, $nobr$выполните $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="es">Al final del turno, si el propietario ha recibido $healing$ este turno, $nobr$realiza $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="kr">턴 종료 시, 소유자가 이번 턴에 $healing$을 받았다면, $nobr$$stockpile$$/nobr$를 수행합니다.$p$$reminder-stockpile$</string>
+        <string lang="pt-br">No final do turno, se o dono tiver recebido $healing$ neste turno, $nobr$execute $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh-tw">在回合結束時，如果擁有者本回合受到了$healing$，$nobr$執行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="uk">На кінці ходу, якщо власник отримав $healing$ у цьому ході, $nobr$виконайте $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
 </set>
 <set id="description-module-passivestockpile-kill">
-		<string lang="en">At the end of turn, if a monster has been killed this turn, $nobr$perform $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="de">Am Ende des Zuges, wenn in diesem Zug ein Monster besiegt wurde, führe $nobr$$stockpile$$/nobr$ durch.$p$$reminder-stockpile$</string>
+		<string lang="en">At the end of turn, if a monster has been defeated this turn, $nobr$perform $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="fr">À la fin du tour, si un monstre a été vaincu ce tour, $nobr$effectuez $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh">在回合结束时，如果本回合击败了一个怪物，$nobr$执行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="jp">ターン終了時、このターンにモンスターを倒した場合、$nobr$$stockpile$$/nobr$を行う。$p$$reminder-stockpile$</string>
+        <string lang="ru">В конце хода, если в этом ходу был побеждён монстр, $nobr$выполните $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="es">Al final del turno, si se ha derrotado a un monstruo este turno, $nobr$realiza $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="kr">턴 종료 시, 이번 턴에 몬스터를 처치했다면, $nobr$$stockpile$$/nobr$를 수행합니다.$p$$reminder-stockpile$</string>
+        <string lang="pt-br">No final do turno, se um monstro tiver sido derrotado neste turno, $nobr$execute $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh-tw">在回合結束時，如果本回合擊敗了一個怪物，$nobr$執行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="uk">На кінці ходу, якщо в цьому ході було переможено монстра, $nobr$виконайте $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
 </set>
 <set id="description-module-passivestockpile-plasma">
-		<string lang="en">At the end of turn, if $plasma$ has been generated this turn, $nobr$perform $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="de">Am Ende des Zuges, wenn in diesem Zug $plasma$ erzeugt wurde, führe $nobr$$stockpile$$/nobr$ durch.$p$$reminder-stockpile$</string>
+		<string lang="en">At the end of turn, if $plasma$ has been created this turn, $nobr$perform $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="fr">À la fin du tour, si $plasma$ a été créé ce tour, $nobr$effectuez $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh">在回合结束时，如果本回合产生了$plasma$，$nobr$执行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="jp">ターン終了時、このターン$plasma$が生成された場合、$nobr$$stockpile$$/nobr$を行う。$p$$reminder-stockpile$</string>
+        <string lang="ru">В конце хода, если в этом ходу был создан $plasma$, $nobr$выполните $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="es">Al final del turno, si se ha creado $plasma$ este turno, $nobr$realiza $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="kr">턴 종료 시, 이번 턴에 $plasma$가 생성되었다면, $nobr$$stockpile$$/nobr$를 수행합니다.$p$$reminder-stockpile$</string>
+        <string lang="pt-br">No final do turno, se $plasma$ tiver sido criado neste turno, $nobr$execute $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
+        <string lang="zh-tw">在回合結束時，如果本回合產生了$plasma$，$nobr$執行$stockpile$$/nobr$。$p$$reminder-stockpile$</string>
+        <string lang="uk">На кінці ходу, якщо в цьому ході було створено $plasma$, $nobr$виконайте $stockpile$$/nobr$.$p$$reminder-stockpile$</string>
 </set>
 <set id="description-module-passivesink">
         <string lang="de">Wenn dieses Modul mit einem $b$Debuff$/b$ versehen wird, erzeuge $1plasma$.$p$Am Ende des Zuges entferne alle $b$Debuffs$/b$ von diesem Modul.</string>
@@ -1383,17 +1413,17 @@
         <string lang="uk">Заряджається на $1energy$ після ходу за кожну передачу $energy$ через кабель &lt;color=#FF5555&gt;$b$червоний$/b$&lt;/color&gt;, &lt;color=#7fbe63&gt;$b$зелений$/b$&lt;/color&gt; і &lt;color=#7272FF&gt;$b$синій$/b$&lt;/color&gt; на цій стійці.</string>
 </set>
 <set id="description-module-toggledgreasecanister">
-		<string lang="de">Versieht ein Modul deiner Wahl auf diesem Rack mit $grease$.</string>
-		<string lang="en">Applies $grease$ to target module on this rack.</string>
-        <string lang="fr">Applique $grease$ au module ciblé sur ce rack.</string>
-        <string lang="zh">在此模架上的目标模块上施加$br$$grease$。</string>
-        <string lang="jp">このラック上の対象モジュールに$grease$を適用。</string>
-        <string lang="ru">Применяет $grease$ к целевому модулю на этой стойке.</string>
-        <string lang="es">Aplica $grease$ al módulo objetivo en este rack.</string>
-        <string lang="kr">이 랙의 대상 모듈에 $grease$를 적용합니다.</string>
-        <string lang="pt-br">Aplica $grease$ ao módulo alvo neste rack.</string>
-        <string lang="zh-tw">在此模架上的目標模組上施加$br$$grease$。</string>
-        <string lang="uk">Застосовує $grease$ до вказаного модуля на цій стійці.</string>
+		<string lang="de">Versieht ein $passthrough$-Modul deiner Wahl auf diesem Rack mit $grease$.</string>
+		<string lang="en">Applies $grease$ to target $passthrough$ module on this rack.</string>
+        <string lang="fr">Applique $grease$ à un module de type $passthroughmodule$ sur ce rack.</string>
+        <string lang="zh">在此模架上的目标$passthroughmodule$上施加$br$$grease$。</string>
+        <string lang="jp">このラック上の対象$passthroughmodule$に$grease$を適用。</string>
+        <string lang="ru">Применяет $grease$ к модулю типа $passthroughmodule$ на этой стойке.</string>
+        <string lang="es">Aplica $grease$ a un módulo de tipo $passthroughmodule$ en este rack.</string>
+        <string lang="kr">이 랙의 대상 $passthroughmodule$에게 $grease$를 적용합니다.</string>
+        <string lang="pt-br">Aplica $grease$ a um módulo do tipo $passthroughmodule$ neste rack.</string>
+        <string lang="zh-tw">在此模架上的目標$passthroughmodule$上施加$br$$grease$。</string>
+        <string lang="uk">Застосовує $grease$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
 <set id="description-module-toggledstoragecharger">
 		<string lang="de">Lädt ein $storagemodule$ deiner Wahl auf diesem Rack um $1energy$.</string>
@@ -2847,13 +2877,43 @@
         <string lang="uk">Свічка запалювання: Дебафф</string>
 </set>
 <set id="name-module-passivestockpile-heal">
+        <string lang="de">Apfel</string>
 		<string lang="en">Apple</string>
+        <string lang="fr">Pomme</string>
+        <string lang="zh">苹果</string>
+        <string lang="jp">リンゴ</string>
+        <string lang="ru">Яблоко</string>
+        <string lang="es">Manzana</string>
+        <string lang="kr">사과</string>
+        <string lang="pt-br">Maçã</string>
+        <string lang="zh-tw">蘋果</string>
+        <string lang="uk">Яблуко</string>
 </set>
 <set id="name-module-passivestockpile-kill">
+        <string lang="de">Konservendose</string>
 		<string lang="en">Tin Can</string>
+        <string lang="fr">Boîte de conserve</string>
+        <string lang="zh">锡罐</string>
+        <string lang="jp">缶詰</string>
+        <string lang="ru">Жестяная Банка</string>
+        <string lang="es">Lata de Conserva</string>
+        <string lang="kr">깡통</string>
+        <string lang="pt-br">Lata de Conserva</string>
+        <string lang="zh-tw">錫罐</string>
+        <string lang="uk">Жерстяна Банка</string>
 </set>
 <set id="name-module-passivestockpile-plasma">
+        <string lang="de">Kohlkopf</string>
 		<string lang="en">Cabbage</string>
+        <string lang="fr">Chou</string>
+        <string lang="zh">卷心菜</string>
+        <string lang="jp">キャベツ</string>
+        <string lang="ru">Капуста</string>
+        <string lang="es">Repollo</string>
+        <string lang="kr">양배추</string>
+        <string lang="pt-br">Repolho</string>
+        <string lang="zh-tw">捲心菜</string>
+        <string lang="uk">Капуста</string>
 </set>
 <set id="name-module-passivestorageinductor-beginningofturn">
 		<string lang="de">Turbine</string>
