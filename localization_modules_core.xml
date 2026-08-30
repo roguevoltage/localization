@@ -1340,6 +1340,19 @@
         <string lang="zh-tw">為目標$passthroughmodule$施加$upgrade$和$gravrecoil$。</string>
         <string lang="uk">Застосовує $upgrade$ та $gravrecoil$ до модуля типу $passthroughmodule$ на цій стійці.</string>
 </set>
+<set id="description-module-toggledupgradercollector">
+		<string lang="de">Verleiht einem $sensor$-Modul deiner Wahl auf diesem Rack $upgrade$.</string>
+		<string lang="en">Applies $upgrade$ to target $sensor$ module $nobr$on this rack$/nobr$.</string>
+		<string lang="fr">Applique $upgrade$ à un module $sensor$ ciblé sur ce rack.</string>
+        <string lang="zh">为此模架上目标$sensor$模块$br$施加$upgrade$。</string>
+        <string lang="jp">ラックの対象$sensor$に$br$$upgrade$付与。</string>
+        <string lang="ru">Применяет $upgrade$ к целевому $sensor$ модулю на этой стойке.</string>
+        <string lang="es">Aplica $upgrade$ al módulo $sensor$ objetivo en este rack.</string>
+        <string lang="kr">이 랙의 대상 $sensor$ 모듈에게 $upgrade$을 적용합니다.</string>
+        <string lang="pt-br">Aplica $upgrade$ ao módulo $sensor$ alvo neste rack.</string>
+        <string lang="zh-tw">為此模架上目標$sensor$模組$br$施加$upgrade$。</string>
+        <string lang="uk">Застосовує $upgrade$ до цільового $sensor$ модуля на цій стійці.</string>
+</set>
 <set id="description-module-trashcompactor">
 		<string lang="de">Zerstört ein anderes Modul deiner Wahl, um $2energy$ zu erzeugen.</string>
 		<string lang="en">Destroys another target module on this rack to generate$br$$2energy$.</string>
@@ -2545,6 +2558,19 @@
         <string lang="pt-br">Aprimorador: Atravessar</string>
         <string lang="zh-tw">升級器：中繼</string>
         <string lang="uk">Покращувач: Пропускний</string>
+</set>
+<set id="name-module-toggledupgradercollector" remarks="translate as Upgrader: Sensor">
+		<string lang="de">Upgrader: Sensor</string>
+		<string lang="en">Upgrader: Sensor</string>
+		<string lang="fr">Améliorateur: Capteur</string>
+		<string lang="zh">升级器：传感器</string>
+        <string lang="jp">アップグレーダー：センサー</string>
+        <string lang="ru">Улучшитель: Датчик</string>
+        <string lang="es">Mejorador: Sensor</string>
+        <string lang="kr">업그레이더: 감지기</string>
+        <string lang="pt-br">Aprimorador: Sensor</string>
+        <string lang="zh-tw">升級器：感測器</string>
+        <string lang="uk">Покращувач: Сенсор</string>
 </set>
 <set id="name-module-trashcompactor">
 		<string lang="de">Schrottpresse</string>
