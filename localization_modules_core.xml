@@ -807,17 +807,17 @@
 		<string lang="uk">На початку кожного ходу застосовує $1healing$ до власника.</string>
 </set>
 <set id="description-module-passiverubberducky">
-        <string lang="de">Immer wenn ein Modul auf diesem Rack $boost$ erhalten sollte, erhält es stattdessen $turbo$.$p$$reminder-onceperturn$</string>
-		<string lang="en">Whenever a module on this rack should receive $boost$, it receives $turbo$ instead.$p$$reminder-onceperturn$</string>
-        <string lang="fr">Chaque fois qu'un module de ce rack devrait recevoir $boost$, il reçoit $turbo$ à la place.$p$$reminder-onceperturn$</string>
-        <string lang="zh">每当此机架上的模块应该获得$boost$时，它会改为获得$turbo$。$p$$reminder-onceperturn$</string>
-        <string lang="jp">このラックのモジュールが$boost$を受け取るべきとき、代わりに$turbo$を受け取ります。$p$$reminder-onceperturn$</string>
-        <string lang="ru">Каждый раз, когда модуль на этой стойке должен получать $boost$, он получает $turbo$ вместо этого.$p$$reminder-onceperturn$</string>
-        <string lang="es">Cada vez que un módulo  debería recibir $boost$, recibe $turbo$ en su lugar.$p$$reminder-onceperturn$</string>
-        <string lang="kr">이 랙의 모듈이 $boost$를 받아야 할 때마다 대신 $turbo$를 받습니다.$p$$reminder-onceperturn$</string>
-        <string lang="pt-br">Sempre que um módulo neste rack deveria receber $boost$, ele recebe $turbo$ em vez disso.$p$$reminder-onceperturn$</string>
-        <string lang="zh-tw">每當此機架上的模組應該獲得$boost$時，它會改為獲得$turbo$。$p$$reminder-onceperturn$</string>
-        <string lang="uk">Кожного разу, коли модуль на цій стійці должен отримувати $boost$, він отримує $turbo$. $p$$reminder-onceperturn$</string>
+        <string lang="de">Immer wenn ein Modul auf diesem Rack zum ersten Mal in einem Zug $boost$ erhält, erhält es stattdessen $turbo$.</string>
+		<string lang="en">Whenever a module on this rack receives $boost$ for the first time each turn, it receives $turbo$ instead.</string>
+        <string lang="fr">Chaque fois qu'un module de ce rack reçoit $boost$ pour la première fois à chaque tour, il reçoit $turbo$ à la place.</string>
+        <string lang="zh">每回合此机架上的模块首次获得$boost$时，会改为获得$turbo$。</string>
+        <string lang="jp">このラックのモジュールが各ターン最初に$boost$を受けるたびに、代わりに$turbo$を受ける。</string>
+        <string lang="ru">Каждый раз, когда модуль на этой стойке впервые за ход получает $boost$, он получает $turbo$ вместо этого.</string>
+        <string lang="es">Cada vez que un módulo de este rack recibe $boost$ por primera vez en cada turno, recibe $turbo$ en su lugar.</string>
+        <string lang="kr">이 랙의 모듈이 매 턴 처음으로 $boost$를 받을 때마다, 대신 $turbo$를 받습니다.</string>
+        <string lang="pt-br">Sempre que um módulo neste rack recebe $boost$ pela primeira vez a cada turno, ele recebe $turbo$ em vez disso.</string>
+        <string lang="zh-tw">每回合此機架上的模組首次獲得$boost$時，會改為獲得$turbo$。</string>
+        <string lang="uk">Щоразу, коли модуль на цій стійці вперше за хід отримує $boost$, він отримує $turbo$ замість цього.</string>
 </set>
 <set id="description-module-modifierenergyduplicator">
 		<string lang="de">Verdoppelt einen Strom.</string>
