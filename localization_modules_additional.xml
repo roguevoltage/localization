@@ -1269,6 +1269,19 @@
 		<string lang="zh-tw">$storm$也會襲擊敵人。$p$擁有者回合開始時，令$storm$提前最多$3$個時間步（最少$b$+1$/b$）。</string>
 		<string lang="uk">$storm$ також шкодить ворогам.$p$На початку ходу власника $storm$ наближається на $3$ кроки  (на мінімальну відстань $b$+1$/b$).</string>
 </set>
+<set id="description-module-passivetaser">
+        <string lang="de">Immer wenn $randominduction$ von einem Modul auf diesem Rack angewendet wird, füge einem zufälligen Gegner $1damage$ zu.</string>
+        <string lang="en">Whenever $randominduction$ is performed by a module on this rack, deal $1damage$ to a random enemy.</string>
+        <string lang="fr">Chaque fois que $randominduction$ est effectuée par un module sur ce rack, infligez $1damage$ à un ennemi aléatoire.</string>
+        <string lang="zh">每当此模架上的模块执行$randominduction$时，对一名随机敌人造成$1damage$。</string>
+        <string lang="jp">このラックのモジュールが$randominduction$を行うたび、$br$ランダムな敵に$1damage$。</string>
+        <string lang="ru">Каждый раз, когда модуль на этой стойке выполняет $randominduction$, нанесите $1damage$ случайному врагу.</string>
+        <string lang="es">Cada vez que un módulo en este rack realiza $randominduction$, inflige $1damage$ a un enemigo aleatorio.</string>
+        <string lang="kr">이 랙의 모듈이 $randominduction$를 수행할 때마다, 무작위 적에게 $1damage$를 줍니다.</string>
+        <string lang="pt-br">Sempre que $randominduction$ for executada por um módulo neste rack, cause $1damage$ a um inimigo aleatório.</string>
+        <string lang="zh-tw">每當此模架上的模組執行$randominduction$時，對一名隨機敵人造成$1damage$。</string>
+        <string lang="uk">Щоразу, коли модуль на цій стійці виконує $randominduction$, наносить $1damage$ випадковому ворогу.</string>
+</set>
 <set id="description-module-passivetoyhammer">
         <string lang="de">Am Ende des Zuges, entferne $grav+1$ vom Charakter, um einem zufälligen Gegner $1damage$ zuzufügen.</string>
 		<string lang="en">At the end of turn, removes $grav+1$ from the owner to deal $1damage$ to a random enemy.</string>
@@ -1283,17 +1296,17 @@
 		<string lang="uk">Наприкінці ходу власника прибирає з нього $grav+1$ і наносить $1damage$ випадковому ворогу.</string>
 </set>
 <set id="description-module-passivewindupkey">
-		<string lang="de">Immer wenn ein Modul vom Typ $windup$ ausgelöst wird, wird dessen Effekt ein zusätzliches Mal ausgeführt.</string>
-		<string lang="en">Whenever a module of type $windup$ triggers, perform its effect an additional time.</string>
-		<string lang="fr">Chaque fois qu'un module de type $windup$ se déclenche, son effet est exécuté une fois supplémentaire.</string>
-		<string lang="zh">每当$windup$类型的模块触发时，额外执行一次其效果。</string>
-		<string lang="jp">$windup$タイプのモジュールが発動するたび、$br$その効果を追加で1回実行。</string>
-		<string lang="ru">Каждый раз, когда срабатывает модуль типа $windup$, его эффект выполняется дополнительный раз.</string>
-		<string lang="es">Cada vez que se activa un módulo de tipo $windup$, su efecto se ejecuta una vez adicional.</string>
-		<string lang="kr">$windup$ 유형의 모듈이 발동할 때마다, 그 효과를 추가로 한 번 더 실행합니다.</string>
-		<string lang="pt-br">Sempre que um módulo do tipo $windup$ é acionado, seu efeito é executado uma vez adicional.</string>
-		<string lang="zh-tw">每當$windup$類型的模組觸發時，額外執行一次其效果。</string>
-		<string lang="uk">Щоразу, коли спрацьовує модуль типу $windup$, його ефект виконується додатково ще раз.</string>
+		<string lang="de">Immer wenn ein Modul vom Typ $windup$ auf diesem Rack ausgelöst wird, wird dessen Effekt ein zusätzliches Mal ausgeführt.</string>
+		<string lang="en">Whenever a module of type $windup$ triggers on this rack, perform its effect an additional time.</string>
+		<string lang="fr">Chaque fois qu'un module de type $windup$ se déclenche sur ce rack, son effet est exécuté une fois supplémentaire.</string>
+		<string lang="zh">每当此模架上$windup$类型的模块触发时，额外执行一次其效果。</string>
+		<string lang="jp">このラックの$windup$タイプのモジュールが発動するたび、$br$その効果を追加で1回実行。</string>
+		<string lang="ru">Каждый раз, когда на этой стойке срабатывает модуль типа $windup$, его эффект выполняется дополнительный раз.</string>
+		<string lang="es">Cada vez que se activa un módulo de tipo $windup$ en este rack, su efecto se ejecuta una vez adicional.</string>
+		<string lang="kr">이 랙에서 $windup$ 유형의 모듈이 발동할 때마다, 그 효과를 추가로 한 번 더 실행합니다.</string>
+		<string lang="pt-br">Sempre que um módulo do tipo $windup$ é acionado neste rack, seu efeito é executado uma vez adicional.</string>
+		<string lang="zh-tw">每當此模架上$windup$類型的模組觸發時，額外執行一次其效果。</string>
+		<string lang="uk">Щоразу, коли на цій стійці спрацьовує модуль типу $windup$, його ефект виконується додатково ще раз.</string>
 </set>
 <set id="description-module-passivewindupgorf">
         <string lang="de">Am Ende des Zuges, entferne $grav+1$ vom Charakter, um $1healing$ auf ihn anzuwenden.</string>
@@ -2837,19 +2850,7 @@
 		<string lang="zh-tw">笑氣瓶：狂暴</string>
 		<string lang="uk">Балон Нітро: берсерк</string>
 </set>
-<set id="name-module-passiveturbo-berserk">
-		<string lang="de">Zündkerze: Berserk</string>
-		<string lang="en">Spark Plug: Berserk</string>
-		<string lang="fr">Bouchon d'allumage: Berserker</string>
-		<string lang="zh">火花塞：狂暴</string>
-		<string lang="jp">スパークプラグ：狂戦士</string>
-		<string lang="ru">Свеча зажигания: Берсерк</string>
-		<string lang="es">Bujía: Berserker</string>
-		<string lang="kr">스파크 플러그: 광전사</string>
-		<string lang="pt-br">Vela de Ignição: Berserker</string>
-		<string lang="zh-tw">火花塞：狂暴</string>
-		<string lang="uk">Свічка запалювання: берсерк</string>
-</set>
+
 <set id="name-module-passivepassthroughbooster-proximity">
 		<string lang="de">Nitro-Flasche: Nähe</string>
 		<string lang="en">Nitrous Bottle: Proximity</string>
@@ -2862,6 +2863,32 @@
         <string lang="pt-br">Garrafa de Nitro: Proximidade</string>
         <string lang="zh-tw">笑氣瓶：接近</string>
         <string lang="uk">Балон Нітро: Близькість</string>
+</set>
+<set id="name-module-passivetaser">
+        <string lang="de">Elektroschocker</string>
+        <string lang="en">Taser</string>
+        <string lang="fr">Taser</string>
+        <string lang="zh">电击枪</string>
+        <string lang="jp">テーザー</string>
+        <string lang="ru">Электрошокер</string>
+        <string lang="es">Taser</string>
+        <string lang="kr">테이저</string>
+        <string lang="pt-br">Taser</string>
+        <string lang="zh-tw">電擊槍</string>
+        <string lang="uk">Електрошокер</string>
+</set>
+<set id="name-module-passiveturbo-berserk">
+		<string lang="de">Zündkerze: Berserk</string>
+		<string lang="en">Spark Plug: Berserk</string>
+		<string lang="fr">Bouchon d'allumage: Berserker</string>
+		<string lang="zh">火花塞：狂暴</string>
+		<string lang="jp">スパークプラグ：狂戦士</string>
+		<string lang="ru">Свеча зажигания: Берсерк</string>
+		<string lang="es">Bujía: Berserker</string>
+		<string lang="kr">스파크 플러그: 광전사</string>
+		<string lang="pt-br">Vela de Ignição: Berserker</string>
+		<string lang="zh-tw">火花塞：狂暴</string>
+		<string lang="uk">Свічка запалювання: берсерк</string>
 </set>
 <set id="name-module-passiveturbo-proximity">
 		<string lang="de">Zündkerze: Nähe</string>
