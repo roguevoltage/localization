@@ -669,7 +669,7 @@
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$다른 캐릭터의 랙에 $cracked$ 상태의 $b$파편$/b$ 모듈을 조립하고 $icecrust$를 부여합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói um módulo $b$Detritos$/b$ com $cracked$ no rack do outro personagem e o inflige com $icecrust$.</string>
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上製造一個$cracked$的$b$碎片$/b$模組，並施加$icecrust$。</string>
-        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $icecrust$.</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Уламки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $icecrust$.</string>
 </set>
 <set id="description-module-generator-fire">
 		<string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Stellt ein $Trümmer$/b$-Modul mit $cracked$ auf dem Rack des anderen Charakters her und versieht es mit $fire$.</string>
@@ -682,7 +682,7 @@
         <string lang="kr">활성화 시$br$$b$$GENERATIONVALUE$$/b$ $energy$를 생성합니다.$p$다른 캐릭터의 랙에 $cracked$ 상태의 $b$파편$/b$ 모듈을 조립하고 $fire$를 부여합니다.</string>
         <string lang="pt-br">Gera $b$$GENERATIONVALUE$$/b$ $energy$ na ativação.$p$Constrói um módulo $b$Detritos$/b$ com $cracked$ no rack do outro personagem e o inflige com $fire$.</string>
         <string lang="zh-tw">啟動時產出$b$$GENERATIONVALUE$$/b$$energy$。$p$在另一角色的模架上製造一個$cracked$的$b$碎片$/b$模組，並施加$fire$。</string>
-        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Обломки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $fire$.</string>
+        <string lang="uk">Генерує $b$ $GENERATIONVALUE$ $/b$ $energy$ під час активації.$p$Створює модуль $b$Уламки$/b$ з $cracked$ на стійці іншого персонажа і накладає на нього $fire$.</string>
 </set>
 <set id="description-module-generator-gravrecoil">
         <string lang="de">Erzeugt bei Aktivierung$br$$b$$GENERATIONVALUE$$/b$ $energy$.$p$Versieht ein anderes Modul deiner Wahl auf diesem Rack mit $gravrecoil$ bis zum Ende des Kampfes.</string>                     
@@ -1007,7 +1007,7 @@
 	<string lang="kr">턴 시작 시, 소유자의 HP가 $2$ 이하인 경우, $nobr$$randomboost$$/nobr$를 수행합니다.$p$$reminder-randomboost$</string>
 	<string lang="pt-br">No início do turno, se o proprietário tiver $2$ ou menos HP, $nobr$execute $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 	<string lang="zh-tw">在回合開始時，如果擁有者有$2$點或更少HP，$nobr$執行 $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
-	<string lang="uk">На початку ходу, якщо у власника є $2$ або меньше HP, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
+	<string lang="uk">На початку ходу, якщо у власника є $2$ або менше HP, $nobr$виконайте $randomboost$$/nobr$.$p$$reminder-randomboost$</string>
 </set>
 <set id="description-module-passivepassthroughbooster-proximity">
 	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomboost$$/nobr$ durch.$p$$reminder-randomboost$</string>
@@ -1124,7 +1124,7 @@
 	<string lang="kr">턴 시작 시, 소유자의 HP가 $3$ 이하인 경우, $nobr$$randomturbo$$/nobr$를 수행합니다.$p$$reminder-randomturbo$</string>
 	<string lang="pt-br">No início do turno, se o proprietário tiver $3$ ou menos HP, $nobr$execute $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 	<string lang="zh-tw">在回合開始時，如果擁有者有$3$點或更少HP，$nobr$執行 $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
-	<string lang="uk">На початку ходу, якщо у власника є $3$ або меньше HP, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
+	<string lang="uk">На початку ходу, якщо у власника є $3$ або менше HP, $nobr$виконайте $randomturbo$$/nobr$.$p$$reminder-randomturbo$</string>
 </set>
 <set id="description-module-passiveturbo-proximity">
 	<string lang="de">Zu Beginn des Zuges, wenn sich ein anderer Kampfteilnehmer auf demselben Zeitschritt wie der Character befindet, führe $nobr$$randomturbo$$/nobr$ durch.$p$$reminder-randomturbo$</string>
@@ -1390,7 +1390,7 @@
         <string lang="de">Wird nach dem Zug um $b$$SENSORVALUE$$/b$ $energy$ geladen, wenn der Charakter keinen $damage$ verursacht hat.</string>
         <string lang="en">Is charged with $b$$SENSORVALUE$$/b$ $energy$ after the turn, if the owner hasn't dealt $damage$.</string>
         <string lang="fr">Est chargé de $b$$SENSORVALUE$$/b$ $energy$ après le tour, si le propriétaire n'a pas infligé de $damage$.</string>
-        <string lang="zh">若本回合角色沒有造成任何$damage$，則充電$b$$SENSORVALUE$$/b$ $energy$。</string>
+        <string lang="zh">若本回合角色没有造成任何$damage$，则充电$b$$SENSORVALUE$$/b$ $energy$。</string>
         <string lang="jp">ターン終了時にキャラクターが$damage$を与えていない場合、$b$$SENSORVALUE$$/b$ $energy$で充電されます。</string>
         <string lang="ru">Заряжается на $b$$SENSORVALUE$$/b$ $energy$ после хода, если персонаж не нанес $damage$ в этом ходу.</string>
         <string lang="es">Se carga con $b$$SENSORVALUE$$/b$ $energy$ después del turno, si no se ha infligido $damage$ por el personaje.</string>
@@ -1817,7 +1817,7 @@
         <string lang="kr">파편</string>
         <string lang="pt-br">Detritos</string>
         <string lang="zh-tw">碎片</string>
-        <string lang="uk">Обломки</string>
+        <string lang="uk">Уламки</string>
 </set>
 <set id="name-module-blessing-accelplayers" remarks="translate as 22nd Century Sneakers">
         <string lang="de">Turnschuhe aus dem 22. Jahrhundert</string>
@@ -1869,7 +1869,7 @@
         <string lang="kr">저금통</string>
         <string lang="pt-br">Porquinho</string>
         <string lang="zh-tw">存錢罐</string>
-        <string lang="uk">Копилка</string>
+        <string lang="uk">Скарбничка</string>
 </set>
 <set id="name-module-blessing-randomboost">
 		<string lang="de">Nitro-Flasche</string>
@@ -1907,7 +1907,7 @@
         <string lang="es">Crisol de Plasma</string>
         <string lang="kr">플라즈마 용광로</string>
         <string lang="pt-br">Cadinho de Plasma</string>
-        <string lang="zh-tw">等離子坩埚</string>
+        <string lang="zh-tw">等離子坩堝</string>
         <string lang="uk">Плазмовий Горщик</string>
 </set>
 <set id="name-module-coil">
@@ -3252,7 +3252,7 @@
         <string lang="kr">윤활유 캐니스터</string>
         <string lang="pt-br">Cartucho de Graxa</string>
         <string lang="zh-tw">潤滑油罐</string>
-        <string lang="uk">Канистра змазки</string>
+        <string lang="uk">Каністра змазки</string>
 </set>
 <set id="name-module-toggledstoragecharger">
         <string lang="de">Speicher-Ladegerät</string>
