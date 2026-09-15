@@ -819,6 +819,19 @@
         <string lang="zh-tw">每回合此機架上的模組首次獲得$boost$時，會改為獲得$turbo$。</string>
         <string lang="uk">Щоразу, коли модуль на цій стійці вперше за хід отримує $boost$, він отримує $turbo$ замість цього.</string>
 </set>
+<set id="description-module-passiveoverhealdamage">
+		<string lang="de">Immer wenn der Charakter $healing$ erhält, während er volle HP hat, füge einem zufälligen Gegner $1damage$ zu.</string>
+		<string lang="en">Whenever the owner receives $healing$ while they are at full HP, deal $1damage$ to a random enemy.</string>
+		<string lang="fr">Chaque fois que le propriétaire reçoit $healing$ alors que ses PV sont au maximum, infligez $1damage$ à un ennemi aléatoire.</string>
+		<string lang="zh">每当拥有者在HP已满时受到$healing$，$br$对一名随机敌人造成$1damage$。</string>
+		<string lang="jp">所有者がHP満タンの時に$healing$を受けるたび、$br$ランダムな敵に$1damage$。</string>
+		<string lang="ru">Когда владелец получает $healing$ при полном HP, нанесите $1damage$ случайному врагу.</string>
+		<string lang="es">Siempre que el propietario recibe $healing$ mientras tiene los PV al máximo, inflige $1damage$ a un enemigo aleatorio.</string>
+		<string lang="kr">소유자가 HP가 가득 찬 상태에서 $healing$을 받을 때마다, 무작위 적에게 $1damage$를 줍니다.</string>
+		<string lang="pt-br">Sempre que o dono recebe $healing$ enquanto estiver com PV cheio, cause $1damage$ a um inimigo aleatório.</string>
+		<string lang="zh-tw">每當擁有者在HP已滿時受到$healing$，$br$對一名隨機敵人造成$1damage$。</string>
+		<string lang="uk">Коли власник отримує $healing$, маючи повне HP, наносить $1damage$ випадковому ворогу.</string>
+</set>
 <set id="description-module-modifierenergyduplicator">
 		<string lang="de">Verdoppelt einen Strom.</string>
 		<string lang="en">Duplicates a current.</string>
@@ -2246,6 +2259,19 @@
 		<string lang="pt-br">Patinho de Borracha</string>
 		<string lang="zh-tw">橡皮鴨</string>
 		<string lang="uk">Гумова качечка</string>
+</set>
+<set id="name-module-passiveoverhealdamage">
+		<string lang="de">Limoflasche</string>
+		<string lang="en">Soda Bottle</string>
+		<string lang="fr">Bouteille de Soda</string>
+		<string lang="zh">汽水瓶</string>
+		<string lang="jp">ソーダボトル</string>
+		<string lang="ru">Бутылка Газировки</string>
+		<string lang="es">Botella de Refresco</string>
+		<string lang="kr">소다 병</string>
+		<string lang="pt-br">Garrafa de Refrigerante</string>
+		<string lang="zh-tw">汽水瓶</string>
+		<string lang="uk">Пляшка газованки</string>
 </set>
 <set id="name-module-modifiersplitter">
 		<string lang="de">Abzweiger $MODIFICATIONVALUE$</string>
