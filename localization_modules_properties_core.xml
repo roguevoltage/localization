@@ -246,6 +246,19 @@
 		<string lang="zh-tw">等級6</string>
 		<string lang="uk">Рівень 7</string>
 </set>
+<set id="module-properties-warning-plasmacombustion">
+        <string lang="de">Führt $amplification$ nur aus, wenn $plasma$ zum Verbrauch verfügbar ist.</string>
+        <string lang="en">Performs $amplification$ only if $plasma$ is available to be consumed.</string>
+        <string lang="fr">Effectue $amplification$ uniquement si $plasma$ est disponible pour être consommé.</string>
+        <string lang="zh">仅在 $plasma$ 可被消耗时执行 $amplification$。</string>
+        <string lang="jp">$plasma$ が消費可能な場合にのみ $amplification$ を実行します。</string>
+        <string lang="ru">Выполняет $amplification$ только если $plasma$ доступен для потребления.</string>
+        <string lang="es">Realiza $amplification$ solo si $plasma$ está disponible para ser consumido.</string>
+        <string lang="kr">$plasma$를 소비할 수 있는 경우에만 $amplification$을 수행합니다.</string>
+        <string lang="pt-br">Realiza $amplification$ apenas se $plasma$ estiver disponível para ser consumido.</string>
+        <string lang="zh-tw">僅在 $plasma$ 可被消耗時執行 $amplification$。</string>
+        <string lang="uk">Виконує $amplification$ лише якщо $plasma$ доступний для споживання.</string>
+</set>
 <set id="module-properties-blade-no-target">
 		<string lang="de">Aktuell befindet sich kein Gegner auf demselben Zeitschritt wie der Charakter</string>
 		<string lang="en">There is currently no enemy on the same time step as the owner</string>
